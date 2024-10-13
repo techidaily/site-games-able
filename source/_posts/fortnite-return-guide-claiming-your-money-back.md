@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Return Guide: Claiming Your Money Back"
-date: 2024-10-05T18:15:54.259Z
-updated: 2024-10-07T17:44:58.561Z
+date: 2024-10-11T12:12:19.725Z
+updated: 2024-10-12T20:51:26.105Z
 tags:
   - games
 categories:
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
@@ -55,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The deadline for applications is January 17, 2024.
@@ -68,10 +74,16 @@ The deadline for applications is January 17, 2024.
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Epic Win for Fortnite Gamers
@@ -93,17 +105,16 @@ The deadline for applications is January 17, 2024.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beware-the-web-of-counterfeit-subscriber-networks-online/"><u>[New] 2024 Approved Beware the Web of Counterfeit Subscriber Networks Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-secrets-of-soaring-wealth-joshis-youtube-path/"><u>[New] Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-streaming-with-integrated-local-channels-future-edition/"><u>2024 Approved Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-bring-a-smile-simple-meme-creation-with-kapwing/"><u>In 2024, Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-game-bar-management-stopping-background-play/"><u>Mastering Game Bar Management: Stopping Background Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-your-favorite-xbox-moments-emulate-today/"><u>Relive Your Favorite Xbox Moments: Emulate Today</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-best-value-for-money-our-review-of-the-samsung-galaxy-a51-with-5g-capabilities/"><u>The Best Value for Money: Our Review of the Samsung Galaxy A51 with 5G Capabilities</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-v-purse-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor V Purse Location | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-guide-overcome-failure-of-startup-display-driver/"><u>Troubleshooting Guide: Overcome Failure of Startup Display Driver</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-hidden-potential-with-these-7-terminal-games/"><u>Unlock Hidden Potential with These 7 Terminal Games</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-harness-the-power-of-look-up-tables-luts-for-professionals/"><u>[New] 2024 Approved Harness the Power of Look-Up Tables (LUTs) for Professionals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-crafting-compelling-narratives-with-your-own-fb-slideshow-creation/"><u>[New] In 2024, Crafting Compelling Narratives with Your Own FB Slideshow Creation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exclusive-list-of-premium-screen-free-gaming-on-android-devices/"><u>[New] In 2024, Exclusive List of Premium Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-media-management-on-instagram/"><u>[New] In 2024, Mastering Media Management on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tailored-timeline-management-best-twitter-unfollow-tools-ranked/"><u>In 2024, Tailored Timeline Management Best Twitter Unfollow Tools Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-games-new-methods-emulating-gb-in-linux-terminal/"><u>Old Games, New Methods: Emulating GB in Linux Terminal</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-membership-unlimited-twitch-channels/"><u>Prime Membership = Unlimited Twitch Channels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rendre-gratuit-transformez-votre-fichier-avi-en-un-fichier-m4a-compatible-avec-itunes-sur-internet-movavi/"><u>Rendre Gratuit : Transformez Votre Fichier AVI en Un Fichier M4A Compatible Avec iTunes Sur Internet - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-fiscal-gamut-exploring-premium-no-cost-steam-games/"><u>The Fiscal Gamut: Exploring Premium, No-Cost Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-edge-mastering-gameplay-with-its-tools/"><u>The Ultimate Edge: Mastering Gameplay with Its Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-mouse-components-for-gamers/"><u>Unveiling The Best Mouse Components for Gamers</u></a></li>
 </ul></div>
 

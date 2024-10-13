@@ -1,7 +1,7 @@
 ---
 title: Mastering USB & Bluetooth Peripherals on Switch (89 Chars)
-date: 2024-10-01T19:05:14.821Z
-updated: 2024-10-07T16:35:10.391Z
+date: 2024-10-10T22:56:28.019Z
+updated: 2024-10-13T07:17:52.945Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
  This requires products specifically designed to play games on consoles. While a Bluetooth receiver may be the easiest way to start gaming with your keyboard and mouse, they are both relatively easy to set up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Connect a Keyboard and Mouse to Your Nintendo Switch With a Bluetooth Receiver
@@ -50,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 
 ![GameSir VX AimSwitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/GameSir-VX-AimSwitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Amazon](https://www.amazon.com./GameSir-AimSwitch-Keyboard-Nintendo-Computer/dp/B07J4N76T9)
 
  They can also be more compact than other keyboards since they're designed with console gaming in mind. Products like the[GameSir VX Aimswitch](https://www.amazon.com/GameSir-AimSwitch-Keyboard-Nintendo-Computer/dp/B07J4N76T9?linkCode=ll1&tag=muo-v2-1he60jo-20&linkId=c5ba44c21f0eec0119d6942a46950468&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2013923&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fnintendo-switch-how-to-connect-keyboard-and-mouse%2F&asc%5Fcampaign=Evergreen) (as pictured above) are about half the size of a regular keyboard, providing you with only the buttons you will need to use while gaming. This makes for a more compact keyboard controller.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Connect a Keyboard and Mouse to Your Nintendo Switch Using an Adaptor
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 ![IOGEAR KeyMander 2 Adaptor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/IOGEAR-KeyMander-2-Adaptor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Amazon](https://www.amazon.com/IOGEAR-KeyMander-Controller-Crossover-GE1337P2/dp/B08541QCKJ)
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
  The attraction to these sorts of adaptors is that they allow you to connect any keyboard and mouse you want to your system. This means that you can use products that you might already own. It also gives you the flexibility to decide whether or not you want to game wirelessly. If you do, it’s easy as[finding a great wireless mouse and keyboard](https://www.makeuseof.com/tag/best-wireless-mouse-and-keyboard/) and plugging their receivers into the adaptor.
 
  These types of keyboard and mouse adaptors may require an app that you have to download to operate them. This can be more difficult to set up, but they are more advantageous in the long run and give you more control over your set-up. Once you learn how to operate the app, you are free to change button layouts and customize your inputs to suit your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Improve Your Aim With a Keyboard and Mouse on Your Nintendo Switch
 
@@ -108,16 +108,18 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-seo-techniques-for-enhanced-video-rankings/"><u>[New] In 2024, Essential YouTube SEO Techniques for Enhanced Video Rankings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-effortlessly-eradicate-unwanted-youtube-post-comments/"><u>[New] In 2024, How to Effortlessly Eradicate Unwanted Youtube Post-Comments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1716062748606-updated-2024-approved-vrecorder-how-to-download-and-install/"><u>[Updated] 2024 Approved VRecorder How to Download and Install</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-sensation-round-up-twitters-buzzing-top-ten-for-2024/"><u>[Updated] TikTok Sensation Round-Up Twitter's Buzzing Top Ten for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-dive-into-the-intricacies-of-adobe-cloud-for-secure-efficient-data-management/"><u>2024 Approved Full Dive Into the Intricacies of Adobe Cloud for Secure, Efficient Data Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-the-hype-in-pretend-console-promos/"><u>Debunking the Hype in Pretend Console Promos</u></a></li>
-<li><a href="https://games-able.techidaily.com/gameplay-tech-talk-arcade-vs-console-for-fighters/"><u>Gameplay Tech Talk: Arcade Vs. Console for Fighters</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-15-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 15 Plus Before the Plan Expires</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-steam-deck-performance-for-top-tier-gaming/"><u>Optimizing Steam Deck Performance for Top-Tier Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-plan-worth-the-paycheck/"><u>Premium Plan Worth the Paycheck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-pokemon-games-on-iphoneipad/"><u>The Ultimate Guide to Pokémon Games on iPhone/iPad</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-exciting-auto-play-hits-for-children-for-2024/"><u>[New] Exciting Auto-Play Hits for Children for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-take-screenshots-on-a-chromebook-in-just-four-ways-for-2024/"><u>[New] Take Screenshots on a Chromebook in Just Four Ways for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform-for-2024/"><u>[New] The Producer's Playbook for Mixing Audio and Visuals on FB Platform for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>[Updated] 2024 Approved Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/creating-accessible-android-uis-tips-and-strategies-for-older-generations/"><u>Creating Accessible Android UIs: Tips and Strategies for Older Generations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emoji-free-tweet-space-linuss-revelations-shared-trojans-analyzed-and-chatgpt-critique/"><u>Emoji-Free Tweet Space, Linus's Revelations Shared, Trojans Analyzed, & ChatGPT Critique.</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-amds-fsr-3-technology-a-match-for-dlss-35/"><u>Is AMD's FSR 3 Technology a Match for DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-setup-mastering-game-pass-for-xs-and-x/"><u>Optimize Your Gaming Setup: Mastering Game Pass for XS and X</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmart-the-subscription-surge-short-lived-price-fixes/"><u>Outsmart the Subscription Surge: Short-Lived Price Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-part-harmony-the-pre-purchase-confirmation/"><u>PC Part Harmony: The Pre-Purchase Confirmation</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-playthroughs-backup-and-repeat-screenshots/"><u>Secure Your Playthroughs: Backup and Repeat Screenshots</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-cross-os-installation-of-kali-linux/"><u>Simplifying Cross-OS Installation of Kali Linux</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-no-more-freezing-during-your-ffxiv-online-adventures/"><u>Troubleshooting Guide: No More Freezing During Your FFXIV Online Adventures</u></a></li>
 </ul></div>
 

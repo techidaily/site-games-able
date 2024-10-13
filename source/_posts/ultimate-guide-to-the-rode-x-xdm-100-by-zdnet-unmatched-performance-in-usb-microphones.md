@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to the Rode X XDM-100 by ZDNet: Unmatched Performance in USB Microphones"
-date: 2024-09-16T21:06:07.717Z
-updated: 2024-09-20T16:23:01.508Z
+date: 2024-10-07T16:34:17.364Z
+updated: 2024-10-13T02:24:54.596Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,13 +72,6 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -79,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -90,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,21 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-showcasing-brilliance-iconic-anime-intros/"><u>[New] Showcasing Brilliance Iconic Anime Intros</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-settings-for-smooth-skype-video-streaming-for-2024/"><u>[Updated] OBS Settings for Smooth Skype Video Streaming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-list-top-free-screen-recorder-tools-for-easy-capture-for-2024/"><u>[Updated] Ultimate List Top Free Screen Recorder Tools for Easy Capture for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/come-effettuare-il-collegamento-di-un-profilo-outlook-al-tuo-indirizzo-gmail/"><u>Come Effettuare Il Collegamento Di Un Profilo Outlook Al Tuo Indirizzo Gmail?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-visual-clarity-explore-2-ways-to-measure-your-phones-fps/"><u>Enhance Visual Clarity: Explore 2 Ways to Measure Your Phone's FPS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-enhance-iphone-photos-the-10-must-have-free-apps-for-selfies/"><u>In 2024, Enhance iPhone Photos The 10 Must-Have Free Apps for Selfies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-apple-tv-4k-analysis-experience-superior-hd-and-voice-command-features/"><u>In-Depth Apple TV 4K Analysis: Experience Superior HD and Voice Command Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/mojang-mayhem-five-friendly-multiplayer-mc-tactics/"><u>Mojang Mayhem: Five Friendly Multiplayer MC Tactics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ai-creation-and-its-copyright/"><u>Navigating AI Creation and Its Copyright</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gameplay-best-ai-tools-for-boosting-twitch-broadcasts/"><u>Revolutionize Your Gameplay - Best AI Tools for Boosting Twitch Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/screen-technology-showdown-evaluating-the-best-of-oled-lcd-and-amoled/"><u>Screen Technology Showdown: Evaluating the Best of OLED, LCD and AMOLED</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-fun-zone-engage-with-these-6-chatgpt-games/"><u>Step Into the Fun Zone: Engage With These 6 ChatGPT Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-gold-grows-up-now-with-game-pass-core-features/"><u>Xbox Gold Grows Up - Now with Game Pass Core Features</u></a></li>
+</ul></div>
 

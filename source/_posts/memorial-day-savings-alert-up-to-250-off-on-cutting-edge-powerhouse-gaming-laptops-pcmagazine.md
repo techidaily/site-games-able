@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Savings Alert: Up to $250 Off on Cutting-Edge Powerhouse Gaming Laptops | PCMagazine"
-date: 2024-09-13T21:28:47.584Z
-updated: 2024-09-21T00:31:34.114Z
+date: 2024-10-11T12:20:44.109Z
+updated: 2024-10-13T03:08:27.397Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,19 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +102,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +152,22 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unraveling-youtubes-highest-peaks-post-vidcon/"><u>[Updated] Unraveling Youtube's Highest Peaks (Post-VidCon)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-social-media-reach-fb-ad-mastery-techniques/"><u>2024 Approved Elevate Your Social Media Reach FB Ad Mastery Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-tech-showdown-exploring-facial-detection-in-iphones-vs-samsungs/"><u>2024 Approved Tech Showdown Exploring Facial Detection in iPhones Vs. Samsungs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cambiar-formato-de-video-ogm-a-mp4-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Cambiar Formato De Vídeo OGM a MP4 Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatibility-switch-oled-and-vintage-docks/"><u>Compatibility: Switch OLED & Vintage Docks?</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-victory-playing-2p-minecraft-on-the-nintendo-switch/"><u>Crafting Victory: Playing 2P Minecraft on the Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-the-past-in-todays-game-systems/"><u>Echoes of the Past in Today's Game Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-steams-playtime-analysis-a-deep-dive-into-data/"><u>Exploring Steam's Playtime Analysis: A Deep Dive Into Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-giants-growth-competitive-forces-at-play-industry-symposium-recap/"><u>Game Giants' Growth: Competitive Forces at Play! [Industry Symposium Recap]</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/google-nest-audio-and-apple-homepod-a-comprehensive-price-and-performance-review/"><u>Google Nest Audio and Apple HomePod - A Comprehensive Price and Performance Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-xiaomi-redmi-13c-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Xiaomi Redmi 13C 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-steps-for-enhanced-productivity-keyboard-based-screen-recordings-in-os-x/"><u>In 2024, Easy Steps for Enhanced Productivity Keyboard-Based Screen Recordings in OS X</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-nes-and-snes-steam-controls/"><u>Mastering NES & SNES Steam Controls</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-free-to-play-games-for-the-nintendo-switch/"><u>The 9 Best Free-to-Play Games for the Nintendo Switch</u></a></li>
+</ul></div>
 

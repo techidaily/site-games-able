@@ -1,7 +1,7 @@
 ---
 title: "Wireless Connection Guide: Hooking Up Your PS4 Controllers with Android or iOS Devices"
-date: 2024-09-17T00:34:13.640Z
-updated: 2024-09-20T17:25:37.240Z
+date: 2024-10-06T00:16:07.455Z
+updated: 2024-10-13T10:14:59.096Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,6 +85,13 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,19 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-navigating-virtual-realms-iphone-vr-video-playback/"><u>[New] Navigating Virtual Realms IPhone VR Video Playback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-best-asmr-microphones-you-should-try-for-2024/"><u>[New] The Best ASMR Microphones You Should Try for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-techniques-in-no-cost-windows-software-recording/"><u>[Updated] 2024 Approved Expert Techniques in No-Cost Windows Software Recording</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-visionary-virtual-worlds-the-top-ten-sci-fi-films-of-the-metaverse-age/"><u>[Updated] Visionary Virtual Worlds The Top Ten Sci-Fi Films of the Metaverse Age</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-fixes-when-you-encounter-the-missing-binkw32dll-issue-on-your-pc/"><u>Easy Fixes When You Encounter the Missing binkW32.DLL Issue on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/forge-new-friendships-with-dual-play-minecraft-on-switch/"><u>Forge New Friendships with Dual PLAY Minecraft on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-nature-with-these-top-ar-titles/"><u>Rediscover Nature with These Top AR Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonoma-os-advantages-with-apples-in-built-game-mode/"><u>Sonoma OS Advantages with Apple's In-Built Game Mode</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-openal32dll-errors-for-smooth-gaming-experience/"><u>Troubleshooting Missing OpenAL32.dll Errors for Smooth Gaming Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-complete-guide-to-video-editing-with-windows-movie-maker-for-2024/"><u>Updated The Complete Guide to Video Editing with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/utilizing-steams-storage-manager-for-remote-gaming/"><u>Utilizing Steam's Storage Manager for Remote Gaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sparking Change: What More?"
-date: 2024-10-06T16:00:23.249Z
-updated: 2024-10-07T18:34:58.938Z
+date: 2024-10-07T22:08:50.087Z
+updated: 2024-10-13T06:20:38.491Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
  A faster CPU, sure. Better graphics, naturally. But what quirky, groundbreaking features could Nintendo’s out-of-the-box thinking bring to the Switch successor?
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 The Switch Tablet as a Second Screen
@@ -49,15 +49,22 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
  A bold approach would see a new run of two-screen games, but also a development of the Switch’s flexible selling point, giving us one more way to play.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 An Upgradeable Dock
 
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Nintendo
 
@@ -66,10 +73,10 @@ Nintendo
  Of course, the technology needs to support it, but a dock with an upgradable CPU or GPU would be top of my list. I’d also love to see more video options: 1440p, 4K, and 8K if possible. The dock could even support fancier audio options, or other peripherals and accessories altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Full Support for Current Eshop Purchases
@@ -94,13 +101,6 @@ Nintendo
 
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
  The vast majority of my games may be digital, but I have a decent physical library too. Switching game cards can be fiddly and carrying them about makes them that much easier to lose. To solve both problems, why not simply add a second card slot? Or a third, a fourth...
@@ -122,17 +122,14 @@ Nintendo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-elevate-your-facebook-voice-with-gratuitous-enhancement-tools/"><u>[New] Elevate Your Facebook Voice with Gratuitous Enhancement Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-parallel-audio-stream-mapping/"><u>[New] Parallel Audio Stream Mapping</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-precision-editing-for-perfect-numbers-on-tiktok-videos/"><u>[Updated] Precision Editing for Perfect Numbers on TikTok Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-fast-and-easy-guide-how-to-set-up-snapchat-on-a-mac/"><u>2024 Approved Fast & Easy Guide How to Set up Snapchat on a Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/beginning-zoom-video-calls-on-android-devices/"><u>Beginning Zoom Video Calls on Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-resolving-display-driver-failure-in-windows/"><u>Essential Tips for Resolving Display Driver Failure in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-office-mats-and-their-benefits/"><u>Excellent Office Mats and Their Benefits</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-magic-5-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor Magic 5 Pro to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-reels-crafted-by-a-true-creative-genius/"><u>Instagram Reels Crafted by a True Creative Genius</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-ps5-with-non-standard-input-devices/"><u>Master The PS5 with Non-Standard Input Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-gaming-potential-installing-on-steam-decks/"><u>Maximizing Gaming Potential: Installing on Steam Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-repeating-gaming-moments/"><u>The Essential Guide to Repeating Gaming Moments</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-easy-start-guide-to-enhancing-gopro-use/"><u>[New] Easy-Start Guide to Enhancing GoPro Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-high-definition-movies-downloads-top-15-1080p-and-720p-mp4-websites/"><u>Best FREE High-Definition Movies Downloads: Top 15 1080P & 720P MP4 Websites</u></a></li>
+<li><a href="https://win-web.techidaily.com/compatibilidad-de-sistemas-operativos-como-elegir-el-mejor-para-tu-equipo/"><u>Compatibilidad De Sistemas Operativos: Cómo Elegir El Mejor Para Tu Equipo</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-offers-for-your-xbox-series-xs/"><u>Exclusive Offers for Your Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-x-quick-fix-for-jammed-game-discs/"><u>Series X: Quick Fix for Jammed Game Discs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-6-varied-gaming-choices-for-channel-creators/"><u>The Top 6 Varied Gaming Choices for Channel Creators</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-f54-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy F54 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-windows-computers-sound-driver-free-microsoft-driver-download/"><u>Update Your Windows Computer's Sound Driver: Free Microsoft Driver Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-strike-mean-on-xbox/"><u>What Does Strike Mean on Xbox?</u></a></li>
 </ul></div>
 

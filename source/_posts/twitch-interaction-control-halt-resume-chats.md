@@ -1,7 +1,7 @@
 ---
 title: "Twitch Interaction Control: Halt, Resume Chats"
-date: 2024-10-02T19:21:45.445Z
-updated: 2024-10-07T18:57:21.570Z
+date: 2024-10-07T10:20:34.831Z
+updated: 2024-10-13T11:52:25.302Z
 tags:
   - games
 categories:
@@ -53,6 +53,19 @@ Here's how to block or unblock someone on Twitch...
 
  If you know what the user's exact name is, you can**type /unblock \[username\]** to bring them back. However, if you can't remember their name, you'll need to do some extra work.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Unblock People on Twitch Using Settings
 
  To unblock someone on Twitch on your PC, do the following. First, click on your profile at the top right, then click**Settings** .
@@ -60,49 +73,43 @@ Here's how to block or unblock someone on Twitch...
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
  Twitch will save the changes immediately and remove the user from your block list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
 
  Here are the best ways to unblock people on Twitch on iOS and Android...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Unblock People on iOS
 
@@ -117,13 +124,6 @@ Here's how to block or unblock someone on Twitch...
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -154,17 +154,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-10-parody-songs-that-totally-crack-you-up/"><u>[New] 2024 Approved 10 Parody Songs That Totally Crack You Up</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iy-digital-storytelling-making-moving-pictures-on-your-smartphone/"><u>[New] DIY Digital Storytelling Making Moving Pictures on Your Smartphone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/inancial-flourishing-in-youtube-content-markets-for-2024/"><u>[New] Financial Flourishing in YouTube Content Markets for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-optimized-broadcast-sharing-live-streams-from-twitch-for-2024/"><u>[New] Optimized Broadcast Sharing Live Streams From Twitch for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-sonys-freemium-gaming-strategy-with-psplus/"><u>Deciphering Sony's Freemium Gaming Strategy with PS+</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-play-experience-understanding-android-fps/"><u>Elevate Your Play Experience: Understanding Android FPS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-content-visibility-on-youtube-your-guide-to-effective-featured-channels/"><u>Mastering Content Visibility on YouTube Your Guide to Effective Featured Channels</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-deck-purchase/"><u>Mastering Steam Deck Purchase</u></a></li>
-<li><a href="https://driver-error.techidaily.com/operational-normality-restored/"><u>Operational Normality Restored</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/simplifying-life-comparing-claude-and-chatgpt-skills/"><u>Simplifying Life: Comparing Claude & ChatGPT Skills</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-surprising-benefits-of-regular-restarting/"><u>The Surprising Benefits of Regular Restarting</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-strategies-tackling-fps-changes-in-valorant-on-windows/"><u>Winning Strategies: Tackling FPS Changes in Valorant on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-a-link-building-foundation-for-video-marketers/"><u>[Updated] 2024 Approved Creating a Link-Building Foundation for Video Marketers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-build-a-thriving-biz-channel-proven-strategies-and-examples-for-2024/"><u>[Updated] Build a Thriving Biz Channel Proven Strategies and Examples for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movaviaviwav/"><u>「Movaviで簡単なフリーウェブAVI転送WAV - 無料変換ガイド」</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-elite-audio-experience-with-200-gaming-sound-card-comprehensive-analysis-on-zdnet/"><u>Affordable Elite Audio Experience with $200 Gaming Sound Card | Comprehensive Analysis on ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-ranked-5-mobile-backdrop-change-applications-iphone-x78-for-2024/"><u>Best-Ranked 5 Mobile Backdrop Change Applications (iPhone X/7/8) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-with-the-black-shark-5-pro-expert-analysis-and-recommendations-pcworld-review/"><u>Elevate Your Gameplay with the Black Shark 5 Pro - Expert Analysis and Recommendations | PCWorld Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deal-grab-fallout-76-on-xbox-at-a-record-low-price-of-just-2-limited-time-offer-dont-miss-out/"><u>Exclusive Deal: Grab Fallout 76 on Xbox at a Record-Low Price of Just $2! Limited Time Offer – Don't Miss Out!</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-fortnite-returns-to-ios-devices-learn-your-options-for-immediate-gameplay-tech-insights/"><u>Get Ready: Fortnite Returns to iOS Devices! Learn Your Options For Immediate Gameplay - Tech Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-plug-in-proweries-expert-analysis/"><u>In 2024, PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-printer-error-correction/"><u>Mastering Printer Error Correction</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-making-your-logitech-g-pro-x-mic-work-again/"><u>Troubleshooting Tips: Making Your Logitech G PRO X Mic Work Again!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-power-in-depth-review-of-razers-blackshark-v2-pro-gaming-headset-for-the-dedicated-player-zdnet/"><u>Unleashing Power: In-Depth Review of Razer's Blackshark V2 Pro Gaming Headset for the Dedicated Player | ZDNet</u></a></li>
 </ul></div>
 

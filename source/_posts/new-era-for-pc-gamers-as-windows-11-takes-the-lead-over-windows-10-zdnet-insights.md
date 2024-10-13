@@ -1,7 +1,7 @@
 ---
 title: New Era for PC Gamers as Windows 11 Takes the Lead Over Windows 10 | ZDNet Insights
-date: 2024-09-19 16:51:17
-updated: 2024-09-20 10:36:30
+date: 2024-10-11T01:27:07.043Z
+updated: 2024-10-12T16:24:45.501Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,31 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-googles-podcast-publishing-process/"><u>[Updated] In 2024, Mastering Google's Podcast Publishing Process</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-apowersoft-launches-comprehensive-new-gif-editing-tool/"><u>1. Apowersoft Launches Comprehensive New GIF Editing Tool</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-video-marketing-with-youtube-thumbnails/"><u>2024 Approved Elevating Video Marketing with YouTube Thumbnails</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-literature-to-gamification-with-ai-the-ultimate-guide-to-turning-sherlock-holmes-stories-into-games-using-chatgpt/"><u>Converting Literature to Gamification with AI: The Ultimate Guide to Turning Sherlock Holmes Stories Into Games Using ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-system-failure-devices-at-end/"><u>Critical System Failure: Devices at End</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-dvd1/"><u>DVD デクリプターを使用したDVDの高密度情報圧縮方法：1層化入門講座</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ram-upgrades-of-2023-boosting-gaming-and-productivity-with-expert-picks-from-zdnet/"><u>Essential RAM Upgrades of 2023: Boosting Gaming and Productivity with Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/microsofts-new-trial-an-ai-powered-assistant-for-xbox-support-explained-insights-from-zdnet/"><u>Microsoft's New Trial: An AI-Powered Assistant for Xbox Support Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-premium-nvidia-gaming-laptops-slashed-for-amazons-prime-day-extravaganza-techradar/"><u>Save Big ! Premium NVIDIA Gaming Laptops Slashed for Amazon's Prime Day Extravaganza | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-seats-expert-picks-from-zdnet/"><u>Top Rated Gaming Seats - Expert Picks From ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/topo-12-de-excelentes-programas-de-edicion-fotos-libres-para-computadoras-guia-completa-con-movavi/"><u>Topo 12 De Excelentes Programas De Edición Fotos Libres Para Computadoras: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformacion-wav-a-mp3-proceso-libre-de-gatos-y-de-alta-fidelidad-online/"><u>Transformación Wav a Mp3: Proceso Libre De Gatos Y De Alta Fidelidad Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-e13-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto E13 FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-power-of-alienware-m18-exclusive-deal-strikes-post-labor-day-for-savvy-gamers-insider-tips-from-zdnet/"><u>Unleash the Power of Alienware M18: Exclusive Deal Strikes Post-Labor Day for Savvy Gamers - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-price-xbox-game-pass-ultimate-access-at-just-36-exclusive-guide-revealed-by-zdnet/"><u>Unlock Full-Price Xbox Game Pass Ultimate Access at Just $36: Exclusive Guide Revealed by ZDNet!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-download-new-hp-officejet-pro-8720-windows-drivers-easily/"><u>Update or Download New HP Officejet Pro 8720 Windows Drivers Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-showdown-deciding-between-series-x-and-series-s-based-on-your-needs-insights-from-zdnet/"><u>Xbox Showdown: Deciding Between Series X and Series S Based on Your Needs - Insights From ZDNET</u></a></li>
+</ul></div>
+

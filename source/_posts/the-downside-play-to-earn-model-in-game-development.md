@@ -1,7 +1,7 @@
 ---
 title: "The Downside: Play-to-Earn Model in Game Development"
-date: 2024-09-30T16:11:19.186Z
-updated: 2024-10-07T19:23:23.685Z
+date: 2024-10-10T02:43:22.193Z
+updated: 2024-10-13T11:02:20.923Z
 tags:
   - games
 categories:
@@ -28,16 +28,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
@@ -49,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -62,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 [Programming salaries differ](https://www.makeuseof.com/tag/programmer-average-salaries/) , and game developers—[including those who work on indie games](https://www.makeuseof.com/what-is-typical-indie-game-developer-salary/) —can expect a starting salary of around $40,000 in the US, rising to $70,000 with experience. Unless you’re a superstar game dev, the most you can realistically expect to earn from a studio is around $150,000.
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
 
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
@@ -138,19 +138,19 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-bring-your-stories-alive-techniques-for-animation-in-text-for-2024/"><u>[New] Bring Your Stories Alive Techniques for Animation in Text for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-locate-inexpensive-deals-on-gopro-cameras-near-you-for-2024/"><u>[New] Locate Inexpensive Deals on GoPro Cameras Near You for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-roblox-error-403-and-fix-strategies-for-pc-enthusiasts/"><u>Decoding Roblox Error 403 & Fix Strategies for PC Enthusiasts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-for-installing-brother-dcp-l2540dw-printers-driver-on-your-window-system-free-downloads-included/"><u>Easy Guide for Installing Brother DCP-L2540dw Printer's Driver on Your Window System - Free Downloads Included!</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-gaming-budget-management-on-playstation/"><u>Effective Gaming Budget Management on PlayStation</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-reno-10-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo Reno 10 Pro 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photographers-ultimate-cloud-companion-infinite-free-and-paid-sky-sanctuaries/"><u>In 2024, Photographer’s Ultimate Cloud Companion Infinite, Free & Paid Sky Sanctuaries</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-video-excellence-started-with-quality-cameras-and-lenses/"><u>In 2024, Video Excellence Started with Quality Cameras and Lenses</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-overview-of-xbox-game-pass/"><u>The Complete Overview of Xbox Game Pass</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-path-to-polished-projects-utilizing-fades-effectively/"><u>The Path to Polished Projects Utilizing Fades Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-xbox-game-pass-essential-information/"><u>Unlocking Xbox Game Pass: Essential Information</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-streaming-pc-games-via-steam-deck/"><u>Unveiling the Secrets of Streaming PC Games via Steam Deck</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated Everything You Want To Know About Kapwing Video Translation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/echniques-for-selective-youtube-video-downloading/"><u>[New] Techniques for Selective YouTube Video Downloading</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>[Updated] 2024 Approved The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bypassing-watermarks-for-photographic-needs/"><u>[Updated] Bypassing Watermarks for Photographic Needs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-traversing-the-terrain-of-facebooks-video-hub/"><u>2024 Approved Traversing the Terrain of Facebook’s Video Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertise-in-finding-friends-on-steam/"><u>Expertise in Finding Friends on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-bliss-simple-tweaks-to-power-up-your-ps4/"><u>Gaming Bliss: Simple Tweaks to Power-Up Your PS4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-setting-up-microsoft-copilot-on-macos-with-ease/"><u>Guide: Setting Up Microsoft Copilot on macOS with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-gaming-showdowns-pick-your-platform-wisely/"><u>Mobile Gaming Showdowns: Pick Your Platform Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-stabilizing-disrupted-gps-on-pokemon-journey-quests/"><u>Strategies for Stabilizing Disrupted GPS on Pokémon Journey Quests</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-right-oled-screen-for-your-needs/"><u>Understanding the Right OLED Screen for Your Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-the-rationale-behind-xboxs-controllers-ban/"><u>Unpacking the Rationale Behind Xbox’s Controllers Ban</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-of-timecode-calculators-web-iphone-and-android-apps-for-2024/"><u>Updated The Ultimate List of Timecode Calculators Web, iPhone, and Android Apps for 2024</u></a></li>
 </ul></div>
 

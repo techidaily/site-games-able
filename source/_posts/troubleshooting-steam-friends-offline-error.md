@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steam Friends Offline Error
-date: 2024-10-01T19:40:56.436Z
-updated: 2024-10-07T17:20:57.746Z
+date: 2024-10-06T22:47:38.395Z
+updated: 2024-10-13T10:03:57.733Z
 tags:
   - games
 categories:
@@ -46,10 +46,17 @@ Restart Steam and check if the issue is now fixed.
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -64,25 +71,18 @@ Restart Steam and check if the issue is now fixed.
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for**Steam** within the Start menu search bar and select**Open file location** . Then, right-click**Steam** and head to**Properties** . Open the**Shortcut** tab and add**\-nofriendsui** into the**Target** field.
 
  Click**Apply** and**OK** to save the new settings and restart Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
 
@@ -92,20 +92,14 @@ Restart Steam and check if the issue is now fixed.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
- If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
-
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
 ## 6\. Delete Steam's Web Data
 
@@ -140,19 +134,18 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-aerial-sovereign-unpacking-the-gopro-karma-system/"><u>[New] Aerial Sovereign Unpacking the GoPro Karma System</u></a></li>
-<li><a href="https://android-frp.techidaily.com/1723262390415-59-for-musical-mastery-embrace-the-world-of-open-source-with-tulips-micropython-driven-computer-designed-for-musicians/"><u>$59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlock-creative-freedom-in-videos-the-art-of-audio-integration/"><u>2024 Approved Unlock Creative Freedom in Videos The Art of Audio Integration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-we-witnessing-the-rise-of-generative-ai-as-an-instrument-for-misinformation/"><u>Are We Witnessing the Rise of Generative AI as an Instrument for Misinformation?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/kindle-or-fire-tablet-from-amazon-exploring-the-core-differences-you-need-to-know/"><u>Kindle or Fire Tablet From Amazon? Exploring the Core Differences You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-and-phone-synergy-a-comprehensive-guide/"><u>PS5 & Phone Synergy: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-your-gaming-world-mastering-switch-identity-control/"><u>Secure Your Gaming World: Mastering Switch Identity Control</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/subtitle-savant-strategies-for-unparalleled-srt-file-creation-for-2024/"><u>Subtitle Savant Strategies for Unparalleled SRT File Creation for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/tether-two-titles-a-seamless-guide-to-epicplussteam-linkage/"><u>Tether Two Titles: A Seamless Guide to Epic+Steam Linkage</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-c67-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme C67 4G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-choices-premium-3d-lights-for-gamers/"><u>Ultimate Choices: Premium 3D Lights for Gamers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-top-5-mega-screen-laptops-your-comprehensive-list/"><u>Unveiling the Top 5 Mega Screen Laptops - Your Comprehensive List</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-frequent-connectivity-fixes/"><u>Xbox Series X Controller: Frequent Connectivity Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-maximizing-youtube-visibility-with-key-hashtags/"><u>[New] 2024 Approved Maximizing YouTube Visibility with Key #Hashtags</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>[Updated] 2024 Approved Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space/"><u>[Updated] 2024 Approved Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-eliminate-youtube-shorts-permanent-guide-for-2024/"><u>[Updated] Eliminate YouTube Shorts Permanent Guide for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>[Updated] In 2024, Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/cookiebot-enabled-personalization-enhancing-user-experience-and-engagement/"><u>Cookiebot-Enabled Personalization: Enhancing User Experience and Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-system-enhancement-order-cpu-vs-gpu/"><u>Deciding on System Enhancement Order: CPU Vs. GPU</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-a15-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy A15 4G? Try These Fixes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-computer-experience-upgrade-to-the-latest-nvidia-driver/"><u>Revolutionize Your Computer Experience – Upgrade to the Latest Nvidia Driver!</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-earbuds-enhancing-switch-play/"><u>Superior Earbuds Enhancing Switch Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-bottleneck-cpu-impact-on-system-performance/"><u>Uncovering Bottleneck: CPU Impact on System Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-and-the-future-of-gaming-formats/"><u>Xbox S and the Future of Gaming Formats</u></a></li>
 </ul></div>
 

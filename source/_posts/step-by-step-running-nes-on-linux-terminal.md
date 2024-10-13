@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Running NES on Linux Terminal"
-date: 2024-10-02T16:15:46.498Z
-updated: 2024-10-07T18:23:32.002Z
+date: 2024-10-12T10:34:10.462Z
+updated: 2024-10-13T02:23:06.322Z
 tags:
   - games
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install php-terminal-gameboy-emulator on Linux
@@ -91,10 +91,10 @@ Make it executable with:
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Awesome Game Boy Games in Your Linux Terminal
@@ -120,10 +120,16 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -147,22 +153,22 @@ Make it executable with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleash-creativity-on-instagram-mastering-bulk-image-and-video-additions/"><u>[New] 2024 Approved Unleash Creativity on Instagram Mastering Bulk Image & Video Additions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-fostering-followers-with-flashy-instagram-puzzles-that-stand-out-for-2024/"><u>[New] Fostering Followers with Flashy Instagram Puzzles that Stand Out for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-recording-google-voice-conversations-for-2024/"><u>[New] Step-by-Step Recording Google Voice Conversations for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-achieving-virality-in-instagram-videos-practical-advice/"><u>[Updated] 2024 Approved Achieving Virality in Instagram Videos Practical Advice</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-increase-your-social-media-reach-with-these-top-30-tiktok-nicknames-for-2024/"><u>[Updated] Increase Your Social Media Reach with These Top 30 TikTok Nicknames for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/complete-game-count-in-epics-library-steps-to-overcome-errors/"><u>Complete Game Count in Epic’s Library - Steps to Overcome Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-to-pc-discover-the-game-changing-reasons/"><u>Console to PC: Discover the Game-Changing Reasons</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-of-ps5-scarcity-anticipated-price-reduction/"><u>End of PS5 Scarcity: Anticipated Price Reduction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-13-proplus-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 13 Pro+ 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Realme .</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-portable-chargers-for-sony-console-gaming/"><u>Ideal Portable Chargers: For Sony Console Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/sky-high-performance-windows-for-the-steam-deck/"><u>Sky-High Performance: Windows for the Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-integrating-your-modern-gamepad-into-windows-156-chars/"><u>The Ultimate Guide for Integrating Your Modern Gamepad Into Windows (156 Chars)</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-ios-18-update-perks-every-android-fan-should-know/"><u>Top iOS 18 Update Perks Every Android Fan Should Know!</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tier-tools-to-transform-your-gaming-world/"><u>Top-Tier Tools to Transform Your Gaming World</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-quicktime-video-editing-for-mac-users-a-step-by-step-tutorial/"><u>Updated In 2024, QuickTime Video Editing for Mac Users A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-corsairs-icue-link-4-reasons-to-upgrade/"><u>What Is Corsair's iCUE LINK? 4 Reasons to Upgrade</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapshot-strategies-maintaining-consistent-snapstreaks-for-2024/"><u>[New] Snapshot Strategies Maintaining Consistent Snapstreaks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-addressing-distorted-media-on-youtube-platform/"><u>[Updated] Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>[Updated] Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-path-to-prominence-with-powerful-instagram-video-narratives/"><u>[Updated] In 2024, The Path to Prominence with Powerful Instagram Video Narratives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-methodical-path-to-discovering-hidden-youtube-footage-for-2024/"><u>[Updated] The Methodical Path to Discovering Hidden YouTube Footage for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-repair-glitches-in-instagram-likescomments/"><u>2024 Approved Repair Glitches in Instagram Likes/Comments</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-a05-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy A05 Phone When You Forget the Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/deep-dive-into-javas-most-loved-game-features/"><u>Deep Dive Into Java's Most Loved Game Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/filing-grievances-unacceptable-conduct-in-xbox-sandx/"><u>Filing Grievances: Unacceptable Conduct in Xbox S&X</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-at-60-vs-30-what-does-it-really-mean/"><u>Gaming at 60 Vs. 30: What Does It Really Mean?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-the-mechanics-an-introduction-to-gopro-time-lapse/"><u>Mastering the Mechanics An Introduction to GoPro Time-Lapse</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-access-delays-on-rust-pcs/"><u>Navigating Steam Access Delays on Rust PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-display-driver-failed-error-in-windows-1111-update/"><u>Overcoming Display Driver Failed Error in Windows 11/11 Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-back-in-time-with-classic-psp-games-on-iphone/"><u>Step Back in Time with Classic PSP Games on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-audio-settings-for-xbox-series-xs/"><u>Tailored Audio Settings for Xbox Series X/S</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformation-mp4-vers-mov-en-ligne-sans-frais-guide-complet/"><u>Transformation MP4 Vers MOV en Ligne Sans Frais - Guide Complet</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-retro-docks-and-new-switch-oled/"><u>Uniting Retro Docks and New Switch OLED</u></a></li>
 </ul></div>
 

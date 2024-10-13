@@ -1,7 +1,7 @@
 ---
 title: Maximizing Games' Availability via Steam's Sync
-date: 2024-10-05T18:43:51.914Z
-updated: 2024-10-07T18:40:27.191Z
+date: 2024-10-11T17:46:09.378Z
+updated: 2024-10-13T07:38:53.135Z
 tags:
   - games
 categories:
@@ -35,16 +35,16 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  This is a huge improvement, and after Steam’s decades of existence, everyone knows this is overdue. Being able to visualize, move, and add folders and files in an easier and more intuitive way is a bare minimum, but we do appreciate finally having it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Open the Steam Storage Manager
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open the Steam Storage Manager Through the Steam Settings
 
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
@@ -80,24 +80,24 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
- If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 ## How to Set a Default Steam Library Folder or Drive
 
@@ -105,14 +105,20 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
 
- Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
 ## How to Move Steam Games to Another Folder
 
@@ -147,20 +153,17 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-uncover-hidden-facebook-vids-updated-guide/"><u>[Updated] How to Uncover Hidden Facebook Vids (Updated Guide)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximizing-income-sourav-joshis-youtube-journey-for-2024/"><u>[Updated] Maximizing Income Sourav Joshi's YouTube Journey for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-old-tech-new-memories-portraits-from-iphone-x/"><u>2024 Approved Old Tech, New Memories Portraits From iPhone X</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-14-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 14 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-your-epson-v500-scanner-software-here/"><u>Get the Latest Version of Your Epson V500 Scanner Software Here!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-xr-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone XR Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/non-edge-processes-and-their-role-in-tasking/"><u>Non-Edge Processes and Their Role in Tasking</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fix-steams-storage-optimization-guide/"><u>Quick Fix: Steam’s Storage Optimization Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
-<li><a href="https://games-able.techidaily.com/to-buy-or-not-to-buy-switch-online-extension-analysis/"><u>To Buy or Not to Buy: Switch Online Extension Analysis</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-free-installation-of-tiny-tinas-wonderland-on-pc-fixed-issues-covered/"><u>Trouble-Free Installation of Tiny Tina’s Wonderland on PC: Fixed Issues Covered</u></a></li>
-<li><a href="https://games-able.techidaily.com/types-and-uses-of-xbox-covers/"><u>Types and Uses of Xbox Covers</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-6-gaming-limitations-of-apple-machines/"><u>Uncovering 6 Gaming Limitations of Apple Machines</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-intels-stream-assist-enhancing-gaming-experience/"><u>Unveiling Intel's Stream Assist: Enhancing Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-future-of-gaming-basilisk-v3-pro-reviewed/"><u>Unveiling the Future of Gaming - Basilisk V3 Pro Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secrets-of-successful-ps3-game-recording-tactics/"><u>[New] In 2024, Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-complete-handbook-of-xbox-one-zoom-communication/"><u>[New] In 2024, The Complete Handbook of Xbox One Zoom Communication</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effortless-screen-capture-on-chrome-os-devices-for-2024/"><u>[Updated] Effortless Screen Capture on Chrome OS Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-accessing-shared-media-in-facebook-messenger-how/"><u>2024 Approved Accessing Shared Media in Facebook Messenger How?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discord-desktop-the-ultimate-mac-installation-guide/"><u>Discord Desktop: The Ultimate Mac Installation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/explode-savings-with-playstations-summer-clearance/"><u>Explode Savings with PlayStation's Summer Clearance</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-c300-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia C300 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-binge-on-savings-top-tiktok-items-now-at-bargain-prices-on-amazon/"><u>In 2024, Binge on Savings Top TikTok Items Now at Bargain Prices on Amazon</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-your-pc-games-to-the-portable-world-of-steam-deck/"><u>Introducing Your PC Games to the Portable World of Steam Deck</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-awaits-overcoming-the-notorious-arcadegeddon-pc-freezes-and-crashes/"><u>Smooth Gaming Awaits: Overcoming the Notorious Arcadegeddon PC Freezes and Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-invites-you-to-experiment-with-innovative-minigames/"><u>YouTube Invites You to Experiment with Innovative Minigames</u></a></li>
 </ul></div>
 

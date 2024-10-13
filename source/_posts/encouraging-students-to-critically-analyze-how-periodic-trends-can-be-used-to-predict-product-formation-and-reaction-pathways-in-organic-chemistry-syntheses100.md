@@ -1,7 +1,7 @@
 ---
 title: Encouraging Students to Critically Analyze How Periodic Trends Can Be Used to Predict Product Formation and Reaction Pathways in Organic Chemistry Syntheses, Such as Electrophilic Substitutions or Additions Involving Halogens (Group 17 Elements).
-date: 2024-09-17 14:11:40
-updated: 2024-09-20 10:19:31
+date: 2024-10-11T13:42:50.165Z
+updated: 2024-10-12T16:38:53.315Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,19 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +102,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,33 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-tips-for-locating-youtubes-content-creation-hub-for-2024/"><u>[New] Essential Tips for Locating YouTube's Content Creation Hub for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-maximizing-visual-impact-integrating-free-high-quality-luts-into-obs-for-2024/"><u>[New] Maximizing Visual Impact Integrating Free, High-Quality LUTs Into OBS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-5-prime-apps-for-clandestine-story-viewers-for-2024/"><u>[New] The 5 Prime Apps for Clandestine Story Viewers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-making-history-a-present-using-camera-roll-in-snaps-for-2024/"><u>[Updated] Making History a Present - Using Camera Roll in Snaps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-8-virtual-vision-composition-program/"><u>[Updated] Prime 8 Virtual Vision Composition Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-the-new-champion-why-pc-gamers-prefer-windows-11-over/"><u>2. The New Champion: Why PC Gamers Prefer Windows 11 Over</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-in-depth-guide-to-frozen-indulgence-capture-tech/"><u>2024 Approved In-Depth Guide to Frozen Indulgence Capture Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginning-gaming-adventures-on-linux-with-steam-your-ultimate-guide/"><u>Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/drone-flight-smoothness-choosing-a-gimbal-wisely/"><u>Drone Flight Smoothness Choosing a Gimbal Wisely</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-sea-of-thieves-overcoming-the-perpetual-load-screen/"><u>Fixes for Sea of Thieves: Overcoming the Perpetual Load Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x8b-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X8b FRP Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-ultimate-gaming-rig-without-breaking-the-bank-the-hp-victus-15l-pc-slashed-to-a-steal-at-480-for-the-holiday-weekend-says-zdnet/"><u>Get the Ultimate Gaming Rig Without Breaking the Bank: The HP Victus 15L PC Slashed to a Steal at $480 for the Holiday Weekend, Says ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-5-best-racing-simulator-games/"><u>In 2024, 5 Best Racing Simulator Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-1-believing-that-the-technology-only-complicates-data-analysis-wrong-answer/"><u>Story 1: Believing that the Technology only Complicates Data Analysis (Wrong Answer)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-the-new-nintendo-switch-oled-why-it-outshines-rivals-expert-review-by-zdnet/"><u>The Definitive Guide to the New Nintendo Switch OLED: Why It Outshines Rivals | Expert Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-cutting-edge-electronic-presents-featured-on-zdnet/"><u>Top 10 Cutting-Edge Electronic Presents - Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-presidents-day-blowout-discounts-alive-exclusive-offers-at-amazon-walmart-and-best-buy/"><u>Top President's Day Blowout Discounts Alive: Exclusive Offers at Amazon, Walmart & Best Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranking-glorious-aura-keycaps-explored-the-ultimate-guide-to-premium-pudding-caps-featured-on-zdnet/"><u>Top-Ranking Glorious Aura Keycaps Explored: The Ultimate Guide to Premium Pudding Caps - Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-hp-victus-15l-laptop-now-at-only-480-this-labor-day-exclusive-insights-from-zdnet/"><u>Unbeatable Deal: HP Victus 15L Laptop Now at Only $480 This Labor Day - Exclusive Insights From ZDNet</u></a></li>
+</ul></div>
+

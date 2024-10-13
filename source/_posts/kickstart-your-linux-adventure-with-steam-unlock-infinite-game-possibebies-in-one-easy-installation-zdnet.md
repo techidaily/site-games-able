@@ -1,7 +1,7 @@
 ---
 title: "Kickstart Your Linux Adventure with Steam: Unlock Infinite Game Possibebies in One Easy Installation | ZDNET"
-date: 2024-09-13T20:53:48.193Z
-updated: 2024-09-20T19:50:00.281Z
+date: 2024-10-11T12:21:47.962Z
+updated: 2024-10-12T20:53:21.616Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +93,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -141,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-impress-with-your-visuals-mastering-podcast-identity/"><u>[Updated] Impress with Your Visuals Mastering Podcast Identity</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-step-by-step-method-for-changing-tiktok-sounds/"><u>[Updated] In 2024, Step-by-Step Method for Changing TikTok Sounds</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-amplify-volume-for-twitters-silent-videos/"><u>2024 Approved Amplify Volume for Twitter's Silent Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-maintains-strict-control-over-european-iphone-sales-insights-from-zdnet/"><u>Apple Maintains Strict Control Over European iPhone Sales: Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-dominance-of-xbox-one-x-in-current-console-marketplace/"><u>Breaking Down the Dominance of Xbox One X in Current Console Marketplace</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-performance-gap-why-does-chatgpt-4-seem-to-lag-behind-chatgpt-35/"><u>Exploring the Performance Gap: Why Does ChatGPT-4 Seem to Lag Behind ChatGPT-3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-history-deciphering-steams-cost-evolution/"><u>Game History: Deciphering Steam's Cost Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-history-in-your-pics-folder-on-win-11/"><u>Gaming History in Your Pics Folder on Win 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-select-an-excellent-elgato-stream-deck/"><u>How to Select an Excellent Elgato Stream Deck</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-effortlessly-enhance-your-tiktok-aesthetic-guide-inside/"><u>In 2024, Effortlessly Enhance Your TikTok Aesthetic Guide Inside</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11f-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11F 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-it-quiet-why-mic-use-in-ps5-is-risky/"><u>Keep It Quiet: Why Mic Use in PS5 Is Risky</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-cost-high-quality-graphics-cards/"><u>Low-Cost, High-Quality Graphics Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/reporting-rude-gamers-ensuring-a-safe-play-space-xbox/"><u>Reporting Rude Gamers: Ensuring a Safe Play Space (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dilemma-of-dominance-aaa-publishers-prowess-podcast-segment/"><u>The Dilemma of Dominance: AAA Publishers' Prowess (?) [Podcast Segment]</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-prowess-with-5-smart-tips-on-a-mac/"><u>Transform Your Gaming Prowess with 5 Smart Tips on a Mac</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "First Look at the SteelSeries Aerox 5 Wired Mouse: Unveiling Its Impact on Gaming Experience | TechRadar"
-date: 2024-09-17T23:44:08.241Z
-updated: 2024-09-20T18:25:01.399Z
+date: 2024-10-11T18:55:35.850Z
+updated: 2024-10-13T08:53:10.081Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,13 +72,6 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -78,6 +85,13 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,22 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-favorites-todays-10-music-moments-for-2024/"><u>[New] Facebook's Favorites Today's #10 Music Moments for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instantaneous-infiltration-of-lost-reddit-threads/"><u>[New] Instantaneous Infiltration of Lost Reddit Threads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterpiece-narratives-across-the-eightfold-genre-spectrum/"><u>[New] Masterpiece Narratives Across the Eightfold Genre Spectrum</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-rhythm-and-precision-crafting-tiktok-moves-on-a-mac/"><u>[Updated] In 2024, Rhythm & Precision Crafting TikTok Moves on a Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-clear-sound-from-partially-silenced-fb-content/"><u>[Updated] Mastering Clear Sound From Partially Silenced Fb Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-the-art-of-capturing-dynamic-images-on-ios-devices/"><u>[Updated] Mastering the Art of Capturing Dynamic Images on iOS Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-master-psd-color-dynamics/"><u>2024 Approved Master PSD Color Dynamics</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-workings-of-roblox-speed-boost-hacks/"><u>Exploring the Workings of Roblox Speed Boost Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-exploring-4070-super-ti-and-4080-super-powerhouses/"><u>GPU Showdown: Exploring 4070 Super, Ti & 4080 Super Powerhouses</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-artillery-essential-online-fps-browser-gaming-tips/"><u>Master the Artillery: Essential Online FPS Browser Gaming Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-plugins-heres-how-you-can-still-dive-into-flash-games/"><u>No More Plugins? Here’s How You Can Still Dive Into Flash Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-tech-ai-meets-realistic-gaming-with-dlss-35/"><u>Nvidia's New Tech: AI Meets Realistic Gaming with DLSS 3.5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-precision-introducing-an-obs-countdown-timer/"><u>The Art of Precision Introducing an OBS Countdown Timer</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-mac-for-switch-games/"><u>Unlocking Your Mac for Switch Games</u></a></li>
+</ul></div>
 

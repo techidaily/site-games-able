@@ -1,7 +1,7 @@
 ---
 title: Samsung Unveils New Gaming Controller Collection - Explore the Latest Innovation in Play
-date: 2024-09-14T18:17:49.202Z
-updated: 2024-09-20T21:53:14.214Z
+date: 2024-10-11T07:51:05.440Z
+updated: 2024-10-13T01:22:56.338Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,19 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +73,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,6 +91,13 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -85,10 +105,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +161,23 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/efficiently-erase-your-ps4-data-for-a-fresh-launch/"><u>Efficiently Erase Your PS4 Data for a Fresh Launch</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/explore-youtubes-finest-virtual-reality-content/"><u>Explore YouTube's Finest Virtual Reality Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-bedrock-solitude-to-java-camaraderie-via-cross-server-geysermc/"><u>From Bedrock Solitude to Java Camaraderie via Cross-Server GeyserMC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-theory-to-reality-exploring-chatgpts-applications/"><u>From Theory to Reality: Exploring ChatGPT's Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-or-update-your-canon-mg252e-printer-driver-on-a-windows-pc/"><u>How to Install or Update Your Canon MG252e Printer Driver on a Windows PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-pro-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Pro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-cultural-influences-on-consumer-behavior-in-global-markets/"><u>In 2024, Understanding Cultural Influences on Consumer Behavior in Global Markets</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/msi-portable-pro-display-the-handheld-mp161-e2-lcd-screen/"><u>MSI Portable Pro Display: The Handheld MP161 E2 LCD Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-burnout-essential-gameplay-techniques/"><u>Navigating Burnout: Essential Gameplay Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-handheld-gameplay-on-mobile-devices/"><u>Prime Handheld Gameplay on Mobile Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pro-tips-for-effortless-youtube-content-export-through-gmail-id-for-2024/"><u>Pro-Tips for Effortless YouTube Content Export Through Gmail ID for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rdna-35-amds-graphics-innovation-and-its-release-timeframe/"><u>RDNA 3.5: AMD's Graphics Innovation & Its Release Timeframe</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-windows-1011-acer-laptop-keys-please/"><u>Revive Windows 10/11 Acer Laptop Keys, Please!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-foundation-of-fps-mastery-critical-settings-guide/"><u>The Foundation of FPS Mastery: Critical Settings Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-insights-into-on-device-artificial-intelligence-an-in-depth-look-at-its-workings/"><u>The Insights Into On-Device Artificial Intelligence: An In-Depth Look at Its Workings</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-real-gamers-overlook-the-potential-of-gamefi/"><u>Why Real Gamers Overlook the Potential of GameFi</u></a></li>
+</ul></div>
 

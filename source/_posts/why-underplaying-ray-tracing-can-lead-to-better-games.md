@@ -1,7 +1,7 @@
 ---
 title: Why Underplaying Ray Tracing Can Lead to Better Games
-date: 2024-10-02T18:47:55.186Z
-updated: 2024-10-07T19:28:47.131Z
+date: 2024-10-08T06:47:02.496Z
+updated: 2024-10-13T12:29:30.334Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![Graphics card lying on a wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rtx-graphics-card-lying-on-a-wooden-desk-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Ray tracing can be very taxing on the graphics card, so you'll need a GPU that has enough horsepower to handle it at higher resolutions. The only problem with that is the fact that graphics card pricing is a tough pill to swallow these days.
 
  Certain modern games refuse to run on lower-end or budget GPUs. If you enable ray tracing on top of that, you'll quickly find out that cheap hardware just doesn't cut it for ray tracing. You'll need to buy an expensive graphics card, and then a powerful processor to go along with it. It's a slippery slope, and you'll end up spending more than you think.
@@ -42,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  The interesting thing is that you can easily[secure parts for a well-rounded PC](https://www.makeuseof.com/well-rounded-pc-buying-guide/) for a decent price. However, ray tracing can throw a spanner into the works and increase your initial costs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Experience With Ray Tracing Varies From Title to Title
@@ -54,23 +61,9 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  The experience depends on what art style the game uses, how many reflective surfaces it has, and how well-optimized it is. Sometimes the difference is barely noticeable, and other times it's completely game-changing. All of that is because it's still a work in progress. The tech needs to mature more before you get a consistent and seamless experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Limited Games Support Ray Tracing
 
 ![Man playing computer game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-playing-computer-game.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to a[2021 NVIDIA news post](https://www.nvidia.com/en-us/geforce/news/nvidia-rtx-games-engines-apps/) , the list of video games that support ray tracing is somewhere around a couple of hundred. While that might sound impressive, you need to look at it from a different perspective. Steam is home to over 50,000 games on PC, and the number of games that support ray tracing is tiny in comparison.
 
@@ -84,22 +77,29 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  DLSS works great on 1440p and 4K monitors, but the loss of detail is more noticeable on 1080p monitors. Considering 1080p is still the most common resolution for PC gaming, that's not a good look. The upscaling can also cause bugs or graphical artifacts in some games if not optimized correctly. Much like ray tracing, DLSS still needs time to mature.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. A Good Number of GPUs Don't Support Ray Tracing
 
 ![Man updating game graphics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-updating-game-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another big problem with ray tracing is the fact that only certain graphics cards will support the feature. If you have an older NVIDIA GTX graphics card instead of an RTX one, then you'll be left without ray-tracing. So, the only solution you're left with is to upgrade.
 
  The situation is even worse with AMD graphics cards, as the performance hit is even worse on that side.[AMD's FSR technology is similar to NVIDIA's upscaling technique](https://www.makeuseof.com/amd-fsr-explained/) , but it doesn't quite compare in terms of performance.
 
  Now, even if you buy a graphics card that supports ray tracing, you could get stuck with an older version of DLSS. NVIDIA's RTX 20-series and 30-series GPUs support DLSS 2, but you can only get DLSS 3 on the newer RTX 40 series. Your options are very limited either way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Most Surfaces in Games Aren't Reflective Even With Ray Tracing
 
@@ -113,14 +113,14 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  NVIDIA's latest version of DLSS negates some of the performance difference, even if it only works on a select few cards. Ray tracing will eventually become common in most games, and that's when you should worry about having a GPU that supports it. The situation isn't perfect right now, but at least ray tracing is a better experience than HDR gaming on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: Why Is Ray Tracing So Demanding?
 
@@ -149,24 +149,20 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>[New] In 2024, Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-checklist-before-choosing-youtube-tv/"><u>[New] The Ultimate Checklist Before Choosing YouTube TV</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-video-sharing-warriors-which-fights-better-obs-or-twitch-studio-in-2024/"><u>[New] Video Sharing Warriors Which Fights Better - OBS or Twitch Studio, In 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/7-best-free-tools-to-transform-ogg-audio-files-into-wav-format/"><u>7 Best Free Tools to Transform OGG Audio Files Into WAV Format</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/capturing-the-cloud-techniques-for-digital-show-archives-for-2024/"><u>Capturing the Cloud Techniques for Digital Show Archives for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/coordinating-multiple-ps5-game-clubs-effectively/"><u>Coordinating Multiple PS5 Game Clubs Effectively</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-trouble-how-to-overcome-the-errcachemiss-hurdle/"><u>Google Chrome Trouble? How to Overcome the ERR_CACHE_MISS Hurdle</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-k11x-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to K11x Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-vivo-y100-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Vivo Y100 5G?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/max-out-savings-with-xbox-series-xs-promos/"><u>Max Out Savings with Xbox Series X|S Promos</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-channel-dynamics-disableenable-participation-on-twitch/"><u>Navigating Channel Dynamics: Disable/Enable Participation on Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-unlock-games-locked-in-windows-steam/"><u>Strategies to Unlock Games Locked in Windows Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-dual-booting-your-steam-decks-next-leap-forward/"><u>The Art of Dual-Booting: Your Steam Deck's Next Leap Forward</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-rhythm-gaming-via-tablets/"><u>The Art of Rhythm Gaming via Tablets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-technique-to-configure-desired-views-on-mac-finders-folders/"><u>The Ultimate Technique to Configure Desired Views on Mac Finder's Folders</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-a-comprehensive-guide-for-steam-play-on-meta-quest-xbox-series-s/"><u>Transform Your Gaming Experience: A Comprehensive Guide for Steam Play on Meta Quest Xbox Series S</u></a></li>
-<li><a href="https://games-able.techidaily.com/tricks-for-classic-joy-con-integration/"><u>Tricks for Classic Joy Con Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-xbox-power-no-input-device-needed/"><u>Unleash Xbox Power, No Input Device Needed</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-quick-fixes-for-stopped-fb-live-broadcasts/"><u>[New] 2024 Approved Quick Fixes for Stopped FB Live Broadcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations/"><u>[New] In 2024, Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ultimate-techniques-for-saving-discord-chats-in-real-time/"><u>[Updated] 2024 Approved The Ultimate Techniques for Saving Discord Chats in Real-Time</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-compreran-analysis-of-8-w11-design-choices/"><u>A Compreran Analysis of 8 W11 Design Choices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XR without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-11-pro-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 11 Pro iCloud Lock</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-ultimate-toolkit-for-youtube-marketers-banner-mastery-guide/"><u>In 2024, The Ultimate Toolkit for YouTube Marketers Banner Mastery Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-steam-account-number-retrieval-methods/"><u>Learn Steam Account Number Retrieval Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-discord-engaging-in-games-and-competitions/"><u>Mastering Discord: Engaging in Games & Competitions</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-sony-marketplace-with-ease/"><u>Navigating the Sony Marketplace with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/newest-tech-gadgets-at-ifa-expo/"><u>Newest Tech Gadgets at IFA Expo</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-legends-iphone-edition-to-nes-and-snes-games/"><u>Playing Legends: IPhone Edition to NES and SNES Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/pokemon-flashback-android-game-re-imagining/"><u>Pokémon Flashback: Android Game Re-Imagining</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-is-crossfade/"><u>What Is Crossfade</u></a></li>
 </ul></div>
 

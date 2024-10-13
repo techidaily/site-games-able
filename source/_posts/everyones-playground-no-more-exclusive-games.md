@@ -1,7 +1,7 @@
 ---
 title: "Everyone's Playground: No More Exclusive Games"
-date: 2024-10-01T16:37:24.522Z
-updated: 2024-10-07T17:38:50.933Z
+date: 2024-10-09T07:04:21.555Z
+updated: 2024-10-12T21:14:58.916Z
 tags:
   - games
 categories:
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Brief History of Platform Exclusivity
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Platform Exclusives Are Coming to an End
 
@@ -102,10 +95,16 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why I'm Glad Platform Exclusives Are No More
@@ -113,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -135,20 +141,20 @@ thumbnail: https://thmb.techidaily.com/916392205a65f22e795dae3506862f66749385a09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-precision-followers-gps-drones-of-the-year/"><u>[New] In 2024, Precision Followers GPS Drones of the Year</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-much-money-can-a-podcaster-make/"><u>[Updated] In 2024, How Much Money Can a Podcaster Make?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>2024 Approved Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-avoiding-fps-drops-in-valorant-windows-edition/"><u>Elevate Your Gameplay: Avoiding FPS Drops in Valorant Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-worldwide-with-your-nintendo-switch/"><u>Explore Worldwide with Your Nintendo Switch</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-s23-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy S23 Ultra Phone When You Forget the Password</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-ephemeral-to-everlasting-the-art-of-saving-social-media-snaps/"><u>In 2024, From Ephemeral to Everlasting The Art of Saving Social Media Snaps</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-realme-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Realme Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mini-pc-evaluation-is-it-right-for-you-over-desktops/"><u>Mini PC Evaluation: Is It Right for You Over Desktops?</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-get-animated-the-best-mobile-apps-for-cartooning-yourself-for-2024/"><u>New Get Animated The Best Mobile Apps for Cartooning Yourself for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/rethinking-how-you-view-your-steam-points/"><u>Rethinking How You View Your Steam Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-ps5-games-effortlessly/"><u>Revolutionize Your PS5 Games, Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-a-history-of-video-games-pricing/"><u>Steam: A History of Video Games Pricing</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-changer-installing-windows-on-a-steam-deck/"><u>The Ultimate Game Changer: Installing Windows on a Steam Deck</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-art-of-screencasting-orderly-tutorial-series-for-2024/"><u>Unveiling the Art of Screencasting Orderly Tutorial Series for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevating-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning/"><u>[New] Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-popping-on-your-pc-lets-resolve-it-together-a-complete-walkthrough-for-windows-users/"><u>Audio Popping on Your PC? Let's Resolve It Together - A Complete Walkthrough for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-your-league-of-legends-up-and-running-a-gamers-guide-to-overcoming-start-up-glitches/"><u>Get Your League of Legends Up and Running: A Gamer's Guide to Overcoming Start-Up Glitches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fabricate-personalized-viral-memes/"><u>In 2024, Fabricate Personalized Viral Memes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-real-story-exploring-recordcast-features/"><u>In 2024, The Real Story Exploring RecordCast Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-tales-and-trials-with-chatgpts-interactive-realm/"><u>Journey Through Tales and Trials with ChatGPT's Interactive Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-return-to-ea-play-the-reason-behind-my-decision/"><u>No Return to EA Play: The Reason Behind My Decision</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-error-steam-game-files-unlocked/"><u>Overcoming Windows Error: Steam Game Files Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-chaos-dive-into-idle-realms/"><u>Quiet Chaos: Dive Into Idle Realms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rectifying-unexpected-website-activity-a-guide-to-managing-iphone-screen-time-accuracy/"><u>Rectifying Unexpected Website Activity: A Guide to Managing iPhone Screen Time Accuracy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/by-step-guide-to-crafting-engaging-valorant-thumbnails-for-2024/"><u>Step-by-Step Guide to Crafting Engaging Valorant Thumbnails for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-compendium-of-xbox-gaming-returns/"><u>The Ultimate Compendium of Xbox Gaming Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-xbox-game-bar-crafting-a-unique-gaming-setup-on-windows-pc/"><u>Transform Xbox Game Bar: Crafting a Unique Gaming Setup on Windows PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-selection-affordable-hd-cams-for-sports/"><u>Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://games-able.techidaily.com/unjamming-discs-the-direct-ejection-guide-for-series-x/"><u>Unjamming Discs? The Direct Ejection Guide for Series X</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Make Steam Acknowledge Your Installed Games
-date: 2024-10-05T18:34:24.614Z
-updated: 2024-10-07T18:05:00.485Z
+date: 2024-10-09T04:43:05.403Z
+updated: 2024-10-13T09:48:37.232Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
  Here are a few things that you can try to get Steam to recognize your installed games and save time and data downloading the games all over again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Reinstall Steam Games Without Downloading
 
  According to Steam, some games may appear not installed if the Steam client fails to recognize the installation files. Provided that you have the game folder in the correct location, you can begin the download process. This will force Steam to recognize the existing installation files without downloading the files all over again.
@@ -53,17 +60,10 @@ C:\Program Files (x86)\Steam\steamapps\common
 7. As Steam begins to install the game, it will likely recognize the existing files and complete the installation without downloading the game files all again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Add an Existing Installation Folder
@@ -77,27 +77,29 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-settings.jpg)
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Add Drive** from the drop-down options.  
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
 6. Click the drop-down in**Add a New Steam Library Folder** dialog, and select the**Let me choose another location** .  
-![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
-7. Next, click the**Add** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
+7. Next, click the**Add** button.
 
 8. Browse through your storage drives and select the Steam game folder you want to add.
 9. Click the**Select Folder** button to add the folder.
@@ -127,19 +129,25 @@ C:\Program Files (x86)\Steam\steamapps\
 5. Inside the**SteamApps** folder, locate the**.acf file** associated with the affected Steam game. For example, the .acf file for the**Counter-Strike: Global Offensive** game is**appmanifest\_730.acf** .**730** is the appid (App ID) for this game. Similarly, all the games have different appid. You can find the appid for all the Steam games on[Steamdb.info](https://steamdb.info/apps/) .  
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.
 2. Next, launch the**Steam** app and open the**Library** tab. It will show the affected game as uninstalled.
 3. Exit the**Steam** client.
 4. Next, move the**appmanifest\_appid.acf** file back to the steamapps folder at**C:\\Program Files (x86)\\Steam\\steamapps\\** .  
 ![Steam install counter strike after moving acf file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Steam-install-counter-strike-after-moving-acf-file.jpg)
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Steam Recognize Installed Games
 
@@ -162,22 +170,21 @@ C:\Program Files (x86)\Steam\steamapps\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-streamlining-short-film-previews-for-channels/"><u>[New] 2024 Approved Streamlining Short Film Previews for Channels</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-boosting-story-reach-through-linked-profile-ties/"><u>[New] In 2024, Boosting Story Reach Through Linked Profile Ties</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-undead-uprising-your-guide-to-engrossing-zombie-playtime/"><u>2024 Approved Undead Uprising Your Guide to Engrossing Zombie Playtime</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-black-boxes-how-do-these-hidden-mechanisms-function/"><u>Decoding AI Black Boxes - How Do These Hidden Mechanisms Function?</u></a></li>
-<li><a href="https://games-able.techidaily.com/encrypting-gaming-conversations-on-series-sx/"><u>Encrypting Gaming Conversations on Series S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-to-fix-broken-xbox-series-sx/"><u>Expert Tips to Fix Broken Xbox Series S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-ultimate-companion-high-refresh-rate-panels/"><u>Gamers’ Ultimate Companion: High-Refresh Rate Panels</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-apple-can-rise-in-the-ai-arena-essential-features-for-competition-against-google-and-openai-insights-from-zdnet/"><u>How Apple Can Rise in the AI Arena: Essential Features for Competition Against Google & OpenAI - Insights From ZDNet</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lost-in-silence-a-step-by-step-strategy-for-reactivating-your-nvidia-hd-speakers/"><u>Lost in Silence: A Step-by-Step Strategy for Reactivating Your Nvidia HD Speakers</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>New In 2024, No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/perfect-posts-enhance-videos-before-sharing-on-instagram/"><u>Perfect Posts Enhance Videos Before Sharing on Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-vs-economic-pc-the-ultimate-test/"><u>PlayStation 5 V/S Economic PC: The Ultimate Test</u></a></li>
-<li><a href="https://games-able.techidaily.com/refrain-from-ps5-buying-heres-why/"><u>Refrain From PS5 Buying - Here's Why</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-way-to-a-running-steam-application/"><u>Streamline Your Way to a Running Steam Application</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-4-best-video-game-emulators-to-install-on-your-iphone-or-ipad/"><u>The 4 Best Video Game Emulators to Install on Your iPhone or iPad</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016888201-troubled-by-an-inactive-nvidia-gpu-here-are-some-quick-fixes-to-try/"><u>Troubled by an Inactive Nvidia GPU? Here Are Some Quick Fixes to Try!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-gba-games-in-your-linux-console/"><u>Unlocking GBA Games in Your Linux Console</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-strategies-for-flawless-cricket-livestreams/"><u>[New] 2024 Approved Essential Strategies for Flawless Cricket Livestreams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-overcoming-windows-11-photo-app-anomalies-with-ease/"><u>[Updated] 2024 Approved Overcoming Windows 11 Photo App Anomalies with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-expert-guide-how-to-keep-a-log-of-google-voice-chats/"><u>[Updated] In 2024, Expert Guide How to Keep a Log of Google Voice Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>[Updated] In 2024, Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stable-vr-experience-8-ways-to-prevent-nausea/"><u>[Updated] Stable VR Experience 8 Ways to Prevent Nausea</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-high-end-computers-a-showcase-of-excellence/"><u>2024 Approved High-End Computers A Showcase of Excellence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-10-replacement-tools-for-screenpal-on-pc-and-mac-platforms/"><u>Best 10 Replacement Tools for ScreenPal on PC & Mac Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-pitfalls-selecting-your-ideal-display-screen/"><u>Essential Pitfalls: Selecting Your Ideal Display Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-focus-avoiding-the-lure-of-high-dynamic-displays/"><u>Gameplay Focus: Avoiding the Lure of High-Dynamic Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/harnessing-steams-game-milestone-potential/"><u>Harnessing Steam's Game Milestone Potential</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-insights-into-cs2-on-apple-computers/"><u>In-Depth Insights Into CS2 on Apple Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-apps-for-dji-video-manipulation-and-mixing-for-2024/"><u>Leading Apps for DJi Video Manipulation and Mixing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-high-performance-gamers-invest-in-mechanical-inputs/"><u>Should High-Performance Gamers Invest in Mechanical Inputs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonoma-macos-a-deep-dive-into-apples-game-mode-efficiency-boost/"><u>Sonoma macOS: A Deep Dive Into Apple's Game Mode Efficiency Boost</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-procedure-for-documenting-foul-play-against-another-player-xbox/"><u>The Procedure for Documenting Foul Play Against Another Player (Xbox)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-asus-rog-phone-7-ultimate-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Asus ROG Phone 7 Ultimate to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

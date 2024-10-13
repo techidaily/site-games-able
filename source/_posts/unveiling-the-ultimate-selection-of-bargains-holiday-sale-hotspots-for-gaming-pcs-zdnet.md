@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Selection of Bargains: Holiday Sale Hotspots for Gaming PCs | ZDNET"
-date: 2024-09-13T16:08:17.032Z
-updated: 2024-09-21T00:49:09.463Z
+date: 2024-10-11T07:59:54.839Z
+updated: 2024-10-13T07:25:58.531Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,16 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -84,6 +85,13 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -91,16 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -153,5 +155,22 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-creating-mp3-backups-from-pinterest-video-content/"><u>[New] In 2024, Creating MP3 Backups From Pinterest Video Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-harmonyhook-tracker-extracting-sound-and-insights-for-2024/"><u>[Updated] HarmonyHook Tracker Extracting Sound & Insights for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028212066-dvd/"><u>同時に動作する他プログラムが原因? DVDを正常に再読み込みする方法：エラーの対策を学ぶ！</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clearshot-vision-screen-recap-for-2024/"><u>ClearShot Vision Screen Recap for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-steam-acknowledge-your-installed-games/"><u>How to Make Steam Acknowledge Your Installed Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi Redmi Note 12 Pro 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-vs-modern-gamepad-in-car-games/"><u>Joystick Journey Vs. Modern Gamepad in Car Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/minirecord-screen-snapshot-evaluation-for-2024/"><u>MiniRecord Screen Snapshot Evaluation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-back-in-time-with-emulated-pokemon-gaming/"><u>Step Back in Time with Emulated Pokémon Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-superior-gaming-mastering-typing-on-a-steam-deck/"><u>Step Into Superior Gaming: Mastering Typing on a Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gameplay-shot-management-on-steam/"><u>Streamlining Gameplay Shot Management on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-controlled-mobile-game-experiences/"><u>Superior Controlled Mobile Game Experiences</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-live-view-in-google-maps-step-by-step-tutorial/"><u>Unlock the Power of Live View in Google Maps – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-nyts-strands-a-detailed-guide-for-aspiring-word-masters/"><u>Unraveling NYT’s 'Strands': A Detailed Guide for Aspiring Word Masters</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-11-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme 11 5G Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

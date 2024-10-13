@@ -1,7 +1,7 @@
 ---
 title: "Save Big on Xbox Games: Get Your Ultimate Game Pass for Just 3 Months and $36 - Exclusive Guide | ZDNet"
-date: 2024-09-17 14:23:11
-updated: 2024-09-20 12:52:55
+date: 2024-10-06T21:34:43.121Z
+updated: 2024-10-13T05:44:28.422Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,26 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ideal-methods-to-archive-playstation-4-gaming-sessions/"><u>[Updated] Ideal Methods to Archive PlayStation 4 Gaming Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-wmv-video-players-compatible-with-windows-11-and-macos/"><u>Best Free WMV Video Players Compatible with Windows 11 & macOS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-2022-upgrade-of-the-titan-evo-by-secretlab-maintaining-its-reign-as-a-gaming-throne-contender-zdnet-insights/"><u>Exploring the 2022 Upgrade of the Titan Evo by Secretlab: Maintaining Its Reign as a Gaming Throne Contender | ZDNET Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-blurry-to-sharp-mastering-vce-version-22/"><u>From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hero-session-vs-hero-session-duel-for-2024/"><u>Hero Session Vs Hero Session Duel for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/huge-savings-alert-grab-your-xbox-game-pass-and-smart-home-kit-at-33-off-for-labor-day-weekend-exclusive-deal-on-zdnet/"><u>Huge Savings Alert: Grab Your Xbox Game Pass and Smart Home Kit at 33% Off for Labor Day Weekend – Exclusive Deal on ZDNet!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-bluetooth-connectivity-on-windows-latest-microsoft-drivers-for-win-7810-and-11-download-today/"><u>Improve Your Bluetooth Connectivity on Windows: Latest Microsoft Drivers for Win 7/8/10 & 11 - Download Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-blackshark-v2-pro-assessed-the-ultimate-battle-companion-for-serious-gamers-zdnet/"><u>Razer Blackshark V2 Pro Assessed - The Ultimate Battle Companion For Serious Gamers | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-budget-friendly-gaming-desktops-our-pick-zdnets-guru-guide/"><u>Top Rated Budget-Friendly Gaming Desktops : Our Pick - ZDNET's Guru Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-why-i-continue-to-advocate-for-these-classic-samsung-televisions-now-with-a-50-discount-zdnet-exclusive/"><u>Unbeatable Deal: Why I Continue to Advocate for These Classic Samsung Televisions - Now with a 50% Discount! [ZDNet Exclusive]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-streaming-devices-a-comprehensive-guide/"><u>Understanding Streaming Devices: A Comprehensive Guide</u></a></li>
+</ul></div>
+

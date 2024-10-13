@@ -1,7 +1,7 @@
 ---
 title: How to Delete Old Saved Data Off Your PS5
-date: 2024-10-03T18:09:21.267Z
-updated: 2024-10-07T18:25:58.537Z
+date: 2024-10-06T16:05:35.060Z
+updated: 2024-10-12T23:48:43.222Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
  This gives you the flexibility to[uninstall and re-download games on your PS5](https://www.makeuseof.com/how-to-uninstall-and-redownload-ps5-games/) with nothing to lose. But how much space does leaving that saved data intact take away from your console?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I Delete Saved Data Off My PS5?
 
  Storing old saved data on your PS5 uses a minimal amount of space overall. But it all adds up, and even saved data build-up from a year or less can take precious gigabytes away from your storage total.
@@ -47,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
  If you had been gaming on your PS4 consistently for the years you owned it, then transferred your data across to your PS5, and have then been gaming on that consistently for the past few years, that can add up to a lot of precious space being taken up by old saved data.
 
 ![A PS5 with two DualSense controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/PS5-user-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some saved data is not worth deleting. Games you haven’t finished yet or that you might go back to one day are worth holding on to. But games that you have exhausted or no longer enjoy are taking up space for no reason.
 
@@ -59,41 +59,47 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 ![Saved Data Storage Settings PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/saved-data-storage-settings-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  At this point, you will be given the option of reviewing the saved data for your**PS4** or**PS5 Games** . Select the console you’re after, and you will immediately be brought to a checklist of your games. Scroll down your list, select the games you are happy to get rid of and press**Delete** on the right-hand side once you’re done.
 
 ![Press Delete to Delete Saved Data PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/press-delete-to-delete-saved-data-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are a PS Plus member, you can upload your saved data to the Cloud for free before deleting it. That way, you can always get it back if you realize you have made a mistake. To do that, press up on the D-Pad and scroll to the left to the**Upload to Cloud Storage** tab. Your free Cloud storage space will be visible on the right side of the screen. Select the games you want to move to the Cloud and press**Upload** when you’re ready.
 
 ![Upload Saved Data to Cloud PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upload-saved-data-to-cloud-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you would rather not deal with the headache of deleting things off of your PS5 all the time, there is another option. You can upgrade your storage by purchasing an SSD for your PS5\. There are plenty of options on the market, including both[internal and external PS5 SSDs](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) . Finding[the best SSD for your PS5](https://www.makeuseof.com/best-m2-ssd-for-ps5/) can be daunting, but at least you won't have to worry about space anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Save as Much Space as You Can on Your PS5
 
@@ -116,22 +122,22 @@ thumbnail: https://thmb.techidaily.com/c37c2fb062f462104689e721c0e87e0aafa96193e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-recognizing-inactive-accounts-by-snap/"><u>[New] 2024 Approved Recognizing Inactive Accounts by Snap</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-seamless-slidecasts-combining-webcam-and-ppt-for-2024/"><u>[New] Seamless Slidecasts Combining Webcam and PPT for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-debating-the-need-for-itop-screencasting/"><u>2024 Approved Debating the Need for ITop Screencasting</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-huawei-p60-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Huawei P60 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30-vip-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Note 30 VIP Phone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-unraveling-the-secrets-to-smooth-vimeo-video-downloads/"><u>In 2024, Unraveling the Secrets to Smooth Vimeo Video Downloads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-in-inventory-not-in-installments/"><u>Invest in Inventory, Not in Installments</u></a></li>
-<li><a href="https://games-able.techidaily.com/leap-into-new-adventures-discover-more-fallout-video-games/"><u>Leap Into New Adventures: Discover More Fallout Video Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/outshine-the-rtx-4060-ti-with-these-gpu-alternatives/"><u>Outshine the RTX 4060 Ti with These GPU Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-discord-desktop-app-essential-steps-for-mac-users/"><u>Setting Up Discord Desktop App: Essential Steps for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-1440p-gaming-monitors-for-all-budgets/"><u>The Best 1440P Gaming Monitors for All Budgets</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-7-superior-bots-for-twitch-channels/"><u>The Ultimate List: 7 Superior Bots for Twitch Channels</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-fantasy-best-mobile-mmos-listed/"><u>Unleash Fantasy: Best Mobile MMOs Listed</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/upgrade-your-media-with-macx-video-converter-pro-available-now/"><u>Upgrade Your Media with MacX Video Converter Pro: Available Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/vanishing-in-the-gaming-world/"><u>Vanishing in the Gaming World</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/videopad-video-editor-review-features-performance-and-value-for-money-for-2024/"><u>Videopad Video Editor Review Features, Performance, and Value for Money for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-unison-choirs-the-duet-experience-on-tiktok/"><u>[New] 2024 Approved Unison Choirs The Duet Experience on TikTok</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-alternatives-for-premium-cam-screen-recording-tech/"><u>[New] In 2024, Best Alternatives for Premium Cam Screen Recording Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discover-9-affordable-online-editors-for-youtube-for-2024/"><u>[Updated] Discover 9 Affordable Online Editors for YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-list-of-gamer-speakers-in-depth-review-and-comparisons-zdnet/"><u>2024'S Elite List of Gamer Speakers: In-Depth Review & Comparisons | ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-5-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic 5 Lite Unlock Without Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/grab-your-sony-playstation-5-and-marvels-spider-man-2-collection-for-huge-savings-at-amazons-spectacular-spring-sale-get-a-cutting-edge-deal-with-a-whopping101/"><u>Grab Your Sony PlayStation 5 and Marvel's Spider-Man 2 Collection for Huge Savings at Amazon’s Spectacular Spring Sale: Get a Cutting Edge Deal with a Whopping $110 Off!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-spark-20-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Spark 20</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 Without Previous Owner?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-maximize-your-fb-watching-with-top-firefox-addons-and-downloaders/"><u>In 2024, Maximize Your FB Watching with Top Firefox Addons and Downloaders</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-new-smart-led-technology-govee-unveils-enhanced-ai-gaming-lights-and-stunning-neon-accessories/"><u>Introducing New Smart LED Technology: Govee Unveils Enhanced AI Gaming Lights and Stunning Neon Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-gaming-mice-how-razers-deathadder-v3-pro-redefines-an-iconic-era-wired-innovations/"><u>The Evolution of Gaming Mice: How Razer's DeathAdder V3 Pro Redefines an Iconic Era | Wired Innovations</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-social-networks-you-cant-ignore-facebook-twitter-instagram-and-youtube/"><u>The Top Four Social Networks You Can't Ignore: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-features-that-make-opera-gx-a-trendsetting-mobile-web-browser-insights-from-zdnet/"><u>Top 5 Features That Make Opera GX a Trendsetting Mobile Web Browser - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tv-offers-over-30-on-labor-day-2024-exclusive-list-and-deals/"><u>Top TV Offers Over $30 on Labor Day 2024 - Exclusive List & Deals!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-desks-expert-picks-from-zdnet/"><u>Top-Rated Gaming Desks : Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-list-of-2024s-leading-gaming-computers-in-depth-testing-and-analysis-zdnet/"><u>Ultimate List of 2024'S Leading Gaming Computers: In-Depth Testing & Analysis | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-performance-of-dreame-bot-l10-pro-a-revolutionary-lidar-equipped-cleaning-companion/"><u>Unveiling the Performance of Dreame Bot L10 Pro - A Revolutionary LiDAR-Equipped Cleaning Companion</u></a></li>
 </ul></div>
 

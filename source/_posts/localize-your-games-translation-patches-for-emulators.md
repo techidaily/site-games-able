@@ -1,7 +1,7 @@
 ---
 title: Localize Your Games - Translation Patches for Emulators
-date: 2024-09-30T16:57:43.645Z
-updated: 2024-10-07T19:34:00.212Z
+date: 2024-10-12T01:09:58.706Z
+updated: 2024-10-13T03:17:28.365Z
 tags:
   - games
 categories:
@@ -29,21 +29,35 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A Working Emulator and ROM File
 
  Got your ROM? Good. Create a new folder to store your ROM file called**ROMS** (or an equivalent) in the emulator's directory. This is where you will store your games for that particular emulator. See below for an example of what this looks like on a Windows desktop.
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Translation Patch File
@@ -55,26 +69,19 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Patch Tool
 
@@ -93,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
@@ -120,22 +120,20 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-wipe-out-facebook-story-desktopmobile-tips/"><u>[New] 2024 Approved Wipe Out Facebook Story Desktop/Mobile Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-reflect-your-vision-affordable-personalization-of-professional-logo-designs-free-for-2024/"><u>[Updated] Reflect Your Vision Affordable Personalization of Professional Logo Designs (Free) for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-friends-sharing-seeking-complete-viewability-via-smschat-services/"><u>2024 Approved Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>2024 Approved Masterclass in Image Detail Removing Obscuring Elements with Photopea</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleash-your-social-media-potential-with-insta-post-magic/"><u>2024 Approved Unleash Your Social Media Potential with Insta Post Magic</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-examination-gopro-hero4-silver-version/"><u>Comprehensive Examination GoPro HERO4 Silver Version</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/comprehensive-review-of-vive-cosmos-outstanding-vr-experience-despite-strong-rivals/"><u>Comprehensive Review of Vive Cosmos – Outstanding VR Experience Despite Strong Rivals</u></a></li>
-<li><a href="https://games-able.techidaily.com/eye-catching-tech-gadgets-at-ifa-2023/"><u>Eye-Catching Tech Gadgets at IFA 2023</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-anywhere-anytime-with-our-11-pick-of-great-mobile-games/"><u>Game On Anywhere, Anytime with Our 11 Pick of Great Mobile Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-stop-missing-components-warning-in-oses/"><u>How To Stop Missing Components Warning in OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-look-at-overlooked-window-11-styles/"><u>In-Depth Look at Overlooked Window 11 Styles</u></a></li>
-<li><a href="https://games-able.techidaily.com/insiders-guide-to-catching-a-glimpse-of-starfield/"><u>Insider's Guide to Catching a Glimpse of Starfield</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-artificeia-tackling-the-ais-purpose-synchronization-issue/"><u>Navigating Through Artificeia: Tackling the AI's Purpose Synchronization Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-ps4-pad-problems-quick-fixes-for-controller-malfunctions/"><u>Tackling PS4 Pad Problems: Quick Fixes for Controller Malfunctions</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-java-game-experience-explained/"><u>The Ultimate Java Game Experience, Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-ios-emulators-upgrade-your-mobile-gaming/"><u>Top 4 iOS Emulators: Upgrade Your Mobile Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-are-xbox-console-wraps/"><u>What Are Xbox Console Wraps?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-resolving-iphone-xs-facial-recognition-hurdles/"><u>[New] In 2024, Resolving iPhone X's Facial Recognition Hurdles</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-sites-to-discover-3d-golden-tinted-typography/"><u>[Updated] Ideal Sites to Discover 3D Golden Tinted Typography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-assessing-ustream-plus-comparable-video-channels/"><u>2024 Approved Assessing Ustream + Comparable Video Channels</u></a></li>
+<li><a href="https://discover-able.techidaily.com/jpg-gif-movavi/"><u>免費 JPG 到 GIF 转换：使用Movavi 在线工具 - 直译</u></a></li>
+<li><a href="https://article-files.techidaily.com/amplify-video-aesthetics-filters-for-every-screen/"><u>Amplify Video Aesthetics Filters for Every Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024-ai-hardwares-new-era-begins/"><u>Computex 2024: AI Hardware's New Era Begins</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-journeymans-checklist-for-travelers/"><u>Console Journeyman's Checklist for Travelers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/humble-beginnings-to-sponsored-success-channels-blueprint/"><u>From Humble Beginnings to Sponsored Success Channels' Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-overhaul-how-mmos-keep-reinventing-themselves/"><u>Game Overhaul: How MMOs Keep Reinventing Themselves</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-action-spectacle-evaluating-hero5b-vs-hero5-session-performance/"><u>In 2024, Action Spectacle Evaluating Hero5B vs Hero5 Session Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C 5G Phone without PIN</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-rapid-resume-in-xbox-xands-worth-it/"><u>Is Rapid Resume in Xbox X&S Worth It?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-riot-game-account-identity-switches/"><u>Mastering Riot Game Account Identity Switches</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-titans-clash-joystick-or-controller/"><u>Tech Titans Clash: Joystick or Controller?</u></a></li>
 </ul></div>
 

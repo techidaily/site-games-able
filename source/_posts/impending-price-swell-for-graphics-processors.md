@@ -1,7 +1,7 @@
 ---
 title: Impending Price Swell for Graphics Processors?
-date: 2024-10-04T19:20:20.393Z
-updated: 2024-10-07T19:16:44.450Z
+date: 2024-10-11T07:45:37.900Z
+updated: 2024-10-12T21:53:04.428Z
 tags:
   - games
 categories:
@@ -40,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  As they say, there is no smoke without fire—but without specific confirmation from Nvidia, it's all speculation.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Upgrade Your GPU Now?
@@ -61,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![Radeon RX vs. GeForce GTX GPU](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radeon-rx-vs-geforce-gtx-gpu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Second, is the looming specter of AMD's strongly rumored RX 7700 XT and RX 7800 XT GPUs, which are expected to launch in September 2023\. If the launch of AMD's previous 7000-Series GPUs is anything to go by, its new GPUs will compete directly with Nvidia's. For example, the[AMD RX 7900 XTX undercut Nvidia's 4090](https://www.makeuseof.com/amd-7900-xtx-dethrone-nvidia/) by around $600\. While the Nvidia 4090 was undoubtedly the better GPU, in effectively every way, most regular consumers are prepared to drop a month's rent on a GPU.
@@ -72,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  So while Nvidia may be preparing to reduce its GPU supply, the pressure from AMD may stop prices from rising too far.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Massive Crypto Mining Reduction Reduces Pressure
@@ -85,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
  One of the main pressures on GPU prices during the pandemic and following years was the enormous rise in Ethereum mining, which was primarily achieved using GPUs. Without this pressure and without an enormous amount of GPUs being swallowed up by crypto mining with each GPU generation, prices remain stable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep One Eye on GPU Prices
@@ -112,24 +118,14 @@ Either way, it's best to keep one eye on GPU prices.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-discover-innovative-strategies-in-creating-stunning-fb-ad-videos-for-2024/"><u>[New] Discover Innovative Strategies in Creating Stunning FB Ad Videos for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-active-recorder-assessment-industry-standards-met-in-2024/"><u>[Updated] Active Recorder Assessment Industry Standards Met, In 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-professionelle-dvd-software-von-winxdvd-dvd-ripper-videoqualitatsverbesserer-und-konverter-fur-ios/"><u>1. Professionelle DVD-Software Von WinXDVD: DVD-Ripper, Videoqualitätsverbesserer Und Konverter Für iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-1011-dvd-mp4aviwmv/"><u>三款頂級優質Windows 10/11 DVD 無限制轉換器選擇 - 自由MP4、AVI、WMV轉換</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-digital-ghost-gamers-guide/"><u>Deciphering the Digital Ghost: Gamer's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/deconstructing-xbox-sx-controller-step-by-step/"><u>Deconstructing Xbox S/X Controller Step-by-Step</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-gaming-mishaps-top-10-troubleshooting-tips-for-no-crash-lives/"><u>Eliminating Gaming Mishaps: Top 10 Troubleshooting Tips for No-Crash Lives</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-the-most-out-of-your-steam-decks-gaming-world/"><u>Get the Most Out of Your Steam Deck's Gaming World</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y02t-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y02T Phone Pattern Lock</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-best-in-class-text-animation-solutions/"><u>New In 2024, Best-in-Class Text Animation Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-contenders-sxs-versus-high-end-pc/"><u>Next-Gen Contenders: SXS Versus High-End PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/prime-picks-leading-mac-recording-software-for-2024/"><u>Prime Picks Leading Mac Recording Software for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-controller-transfers-between-playstation-and-switch/"><u>Seamless Controller Transfers Between PlayStation & Switch</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-setting-up-microsoft-office-suite-on-windows-or-mac/"><u>Step-by-Step Guide: Setting up Microsoft Office Suite on Windows or Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-distinctive-features-of-steam-and-gog-marketplaces/"><u>The Distinctive Features of Steam & GOG Marketplaces</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/egalities-of-capturing-live-video-on-online-platforms-youtube-for-2024/"><u>The Legalities of Capturing Live Video on Online Platforms (YouTube) for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ps5-upgrades-game-changing-additions/"><u>Ultimate PS5 Upgrades: Game-Changing Additions</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-value-in-early-games/"><u>Unveiling the Hidden Value in Early Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725290286984-winxvideo-ai/"><u>Winxvideo AI 기술: 비디오 표현에 대한 전문가 수호</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-eyecatch-protector-cam-cover/"><u>[New] In 2024, Eyecatch Protector Cam Cover</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-digitally-delving-into-deleted-youtubes-easy-watch-options/"><u>[Updated] In 2024, Digitally Delving Into Deleted YouTubes Easy Watch Options</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>[Updated] Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-top-2024-charger-for-ps5-dualsense/"><u>Enhance Your Gaming Experience: Top 2024 Charger for PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/justifying-mts-for-the-highest-tier-of-games/"><u>Justifying MTs for the Highest Tier of Games</u></a></li>
+<li><a href="https://win-net.techidaily.com/optimizing-your-flipbuildercom-e-book-for-mobile-devices-a-comprehensive-guide/"><u>Optimizing Your FlipBuilder.com E-Book for Mobile Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-up-your-ps5-launch-6-varieties/"><u>Switch Up Your PS5 Launch: 6 Varieties</u></a></li>
+<li><a href="https://games-able.techidaily.com/x-ally-enhanced-handheld-console-performance/"><u>X-Ally Enhanced Handheld Console Performance</u></a></li>
 </ul></div>
 

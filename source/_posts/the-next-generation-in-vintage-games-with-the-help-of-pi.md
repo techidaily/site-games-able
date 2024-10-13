@@ -1,7 +1,7 @@
 ---
 title: The Next Generation in Vintage Games with the Help of Pi
-date: 2024-10-05T18:13:02.360Z
-updated: 2024-10-07T18:14:31.295Z
+date: 2024-10-09T18:08:30.396Z
+updated: 2024-10-13T06:27:35.701Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The GPU Is Better
 
  The Raspberry Pi 5 features a Broadcom VideoCore VII GPU, up from the VideoCore VI found with the Raspberry Pi 4\. The VideoCore VII GPU supports OpenGL ES 3.1 and Vulkan 1.2, with fully open-source Mesa drivers from Igalia.
@@ -53,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  This all-new GPU offers a significant upgrade from the Raspberry Pi 4\. It offers several times the performance of the Raspberry Pi 4 in most graphics benchmarks.[Phoronix reported](https://www.phoronix.com/review/raspberry-pi-5-graphics) that the Raspberry Pi 5 was capable of running YQuake2 (a modded, open-source version of Quake II) at 230fps while the Raspberry Pi 4 struggled with 90fps. Also, Vulkan compute performance was much faster with the Raspberry Pi 5.
 
  Additionally, the Raspberry Pi 5 is now capable of running two 4K displays @60Hz with HDR support using the two micro-HDMI ports supplied on the board. Playing retro games on a 4K monitor might be a bit overkill, but it is good to know that you can.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. It Is Still Remarkably Power-Efficient
 
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a[handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several[ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
@@ -77,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
  We are keeping our fingers crossed that this may be the Raspberry Pi that is finally powerful enough to emulate PS2 games.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Cheaper Than Alternatives
 
  The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more[powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
@@ -86,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Better Software Support Than Most Alternatives
 
 ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 
@@ -128,22 +134,14 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-style-essentials-download-for-free/"><u>[New] 2024 Approved YouTube Style Essentials - Download for FREE!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-freewinrecorder-straightforward-pc-screens-for-2024/"><u>[New] FreeWinRecorder Straightforward PC Screens for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveiling-secrets-how-to-save-your-google-conversations-for-2024/"><u>[New] Unveiling Secrets How to Save Your GooGle Conversations for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-cameras-to-capture-slow-motion-videos/"><u>[Updated] Best Cameras to Capture Slow Motion Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-a-shared-playspace-on-ps5/"><u>Creating a Shared Playspace on PS5</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y78plus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y78+ Phone Now with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/keyboard-dynamics-how-rate-changes-usage/"><u>Keyboard Dynamics: How Rate Changes Usage</u></a></li>
-<li><a href="https://solve-news.techidaily.com/mastering-vob-conversion-make-your-footage-work-with-imovie-seamlessly/"><u>Mastering VOB Conversion: Make Your Footage Work with iMovie Seamlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-vr-gear-on-a-limited-budget/"><u>Optimal VR Gear on a Limited Budget</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/preventing-shake-in-photographic-imagery-for-2024/"><u>Preventing Shake in Photographic Imagery for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/protective-panels-the-new-standard-devices/"><u>Protective Panels: The New Standard Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-gaming-fixes-best-20-flashy-phone-games-on-the-market/"><u>Quick Gaming Fixes: Best 20 Flashy Phone Games on the Market</u></a></li>
-<li><a href="https://games-able.techidaily.com/scrutinizing-microsoft-and-blizzards-potential-alliance/"><u>Scrutinizing Microsoft and Blizzard's Potential Alliance</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/speak-with-synthetic-voices-chromebooks-leading-online-text-to-speech-apps/"><u>Speak with Synthetic Voices Chromebook's Leading Online Text-to-Speech Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-effortless-gaming-purchase-reversals-on-steam/"><u>Strategies for Effortless Gaming Purchase Reversals on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-arcade-upgrade-wide-front-panels/"><u>The Ultimate Arcade Upgrade: Wide Front Panels</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-income-from-youtube-as-a-newbie-for-2024/"><u>Unlocking Income From YouTube as a Newbie for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pro-tips-for-iphone-burst-photo-sequences/"><u>[Updated] 2024 Approved Pro Tips for iPhone Burst Photo Sequences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-use-obs-with-zoom/"><u>[Updated] In 2024, How to Use OBS with Zoom</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/halve-your-price-for-incredible-visuals-with-amazons-big-sale-snag-the-samsung-odyssey-g7-monitor-today/"><u>Halve Your Price for Incredible Visuals with Amazon's Big Sale - Snag the Samsung Odyssey G7 Monitor Today!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-xs-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone XS Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>In 2024, Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-fortnite-on-iphone-is-possible-again-discover-the-easy-way-with-zdnets-tips/"><u>Playing Fortnite on iPhone Is Possible Again - Discover the Easy Way with ZDNet's Tips!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-virtual-reality-headsets-comprehensive-tests-and-insights-by-tech-gurus-techradar/"><u>Top-Rated Virtual Reality Headsets : Comprehensive Tests & Insights by Tech Gurus | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-alert-hp-victus-15l-laptop-now-at-a-steal-only-480-ahead-of-labor-day-sale-techspot/"><u>Unbeatable Deal Alert: HP Victus 15L Laptop Now at a Steal - Only $480 Ahead of Labor Day Sale! | TechSpot</u></a></li>
 </ul></div>
 

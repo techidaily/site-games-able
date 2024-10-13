@@ -1,7 +1,7 @@
 ---
 title: Fallout Navigate Through the Post-Apocalyptic World with an Unbeatable Deal - Save Big on Fallout 76 for Xbox at Only $2 This Weekend, Featuring Unmatched Discounts | ZDNET
-date: 2024-09-13T16:15:03.601Z
-updated: 2024-09-20T21:29:13.413Z
+date: 2024-10-11T13:00:30.670Z
+updated: 2024-10-13T10:31:31.510Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,16 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -84,6 +85,13 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -91,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -147,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-leading-oculus-rift-gaming-titles-of-the-year/"><u>[New] The Leading Oculus Rift Gaming Titles of the Year</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-diverse-editions-winmovie-crafting-suite/"><u>[Updated] Diverse Editions WinMovie Crafting Suite</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-correcting-online-misrepresentation-seeing-yourself-elsewhere/"><u>2024 Approved Correcting Online Misrepresentation Seeing Yourself Elsewhere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-total-zen-closing-virtual-horizons/"><u>2024 Approved Total Zen Closing Virtual Horizons</u></a></li>
+<li><a href="https://win11.techidaily.com/clarifying-differences-how-exes-stack-up-against-msis/"><u>Clarifying Differences: How EXEs Stack Up Against MSIs</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-play-nintendo-and-mac-duo/"><u>Cross-Platform Play: Nintendo & Mac Duo</u></a></li>
+<li><a href="https://games-able.techidaily.com/exemplary-nintendo-switch-controllers-top-lists/"><u>Exemplary Nintendo Switch Controllers – Top Lists</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-rig-razer-basilisk-v3-pro-zero-lag-ultimate-speed/"><u>Game-Changing Rig: Razer Basilisk V3 Pro - Zero Lag, Ultimate Speed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-in-2024/"><u>GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-classic-xbox-games-on-your-pc-with-xemu/"><u>How to Play Classic Xbox Games on Your PC With Xemu</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-se-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-anker-powercore-26800-top-rated-battery-pack-bundle/"><u>In-Depth Look at the Anker PowerCore 26800 - Top Rated Battery Pack Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/isolated-world-how-to-unlock-your-pcs-minecraft-link/"><u>Isolated World - How To Unlock Your PC's Minecraft Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-rectify-launcher-problem-0x803f8001-in-mcpc/"><u>Methods to Rectify Launcher Problem 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-windows-and-steam-remote-gaming-links/"><u>Streamlining Windows and Steam Remote Gaming Links</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-keyboard-roundup-for-elite-gamers-2024-edition/"><u>Ultimate Keyboard Roundup for Elite Gamers - 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-the-move-windows-11-focuses-on-microsoft-store-limiting-traditional-desktop-app-support-win32/"><u>Understanding the Move: Windows 11 Focuses on Microsoft Store, Limiting Traditional Desktop App Support (Win32)</u></a></li>
+</ul></div>
 

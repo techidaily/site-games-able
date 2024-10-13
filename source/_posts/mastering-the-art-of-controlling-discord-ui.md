@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Controlling Discord UI
-date: 2024-09-30T16:10:06.325Z
-updated: 2024-10-07T18:51:17.445Z
+date: 2024-10-10T05:29:58.690Z
+updated: 2024-10-13T00:57:07.526Z
 tags:
   - games
 categories:
@@ -61,13 +61,20 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -81,30 +88,23 @@ Follow these steps to disable the in-game overlay:
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
@@ -126,19 +126,21 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-sequences-a-movie-maker-approach-to-animation/"><u>[New] In 2024, Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-reviving-the-past-flipping-iphone-video-streams/"><u>[New] Reviving the Past Flipping iPhone Video Streams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-firefox-video-capture-utilities/"><u>2024 Approved Firefox Video Capture Utilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-immersion-top-vr-options-reviewed/"><u>Economical Immersion: Top VR Options Reviewed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-take-your-english-to-the-next-level-mondly/"><u>How To Take Your English To The Next Level - Mondly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-shooting-modes-smart-hdr-3-and-4-explained-simply/"><u>In 2024, Innovative Shooting Modes Smart HDR 3 & 4 Explained Simply</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-quadcopter-efficiency-with-best-motor-selection-tips/"><u>Mastering Quadcopter Efficiency with Best Motor Selection Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nintendo-switch-showdown-how-it-outperforms-other-portable-systems/"><u>Nintendo Switch Showdown: How It Outperforms Other Portable Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-entertainment-steams-storage-manager-use/"><u>Streamline Your Entertainment: Steam's Storage Manager Use</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-audio-support-in-ws1111-version-upgrade/"><u>Streamlining Audio Support in WS11/11 Version Upgrade</u></a></li>
-<li><a href="https://games-able.techidaily.com/temptation-of-speed-led-to-my-downfall/"><u>Temptation of Speed Led to My Downfall</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-significance-of-xbox-skins/"><u>The Significance of Xbox Skins</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-compilation-of-high-end-elgato-stream-decks/"><u>The Ultimate Compilation of High-End Elgato Stream Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gaming-spectacles-with-uv-protection/"><u>Top Gaming Spectacles with UV Protection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-discover-the-power-of-proportions-in-youtube-content-creation/"><u>[New] 2024 Approved Discover the Power of Proportions in YouTube Content Creation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-pixelprofessionalzoom7-expertly-scaling-your-photography/"><u>[New] In 2024, PixelProfessionalZoom7 Expertly Scaling Your Photography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-igtv-thumbnail-creation-and-editing/"><u>[Updated] Mastering IGTV Thumbnail Creation & Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-your-reach-the-quintessential-five-tactics-for-youtube-success/"><u>Boost Your Reach The Quintessential Five Tactics for YouTube Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-90-gt-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor 90 GT to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-handle-the-intricate-error-code-403-in-roblox-on-windows/"><u>How to Handle the Intricate Error Code 403 in Roblox on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-crafting-clear-and-consistent-slug-lines/"><u>In 2024, Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-protection-for-your-steam-device-in-24/"><u>Innovative Protection for Your Steam Device in '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/intervening-in-the-freeze-windows-11-error-code-0x887a0006/"><u>Intervening in the Freeze - Windows 11 Error: Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-gaming-experience-9-steam-pros/"><u>Maximize Your Gaming Experience: 9 Steam Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-eyewear-against-computer-light/"><u>Optimal Eyewear Against Computer Light</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-play-gone-wrong-oc-disaster/"><u>Power Play Gone Wrong: OC Disaster</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-location-accuracy-for-smooth-pokemon-expedition/"><u>Securing Location Accuracy for Smooth Pokémon EXpedition</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-snippets-get-high-quality-images-without-a-penny-paid-for-2024/"><u>YouTube Snippets Get High-Quality Images Without a Penny Paid for 2024</u></a></li>
 </ul></div>
 

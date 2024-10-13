@@ -1,7 +1,7 @@
 ---
 title: "PC Gaming Preference Shift: Windows 11 Surpasses Windows 10 in Popularity | ZDNet"
-date: 2024-09-15T18:20:37.781Z
-updated: 2024-09-20T20:59:23.521Z
+date: 2024-10-09T06:13:37.364Z
+updated: 2024-10-12T23:00:56.569Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,19 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +102,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +152,26 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies/"><u>[New] Crop Companion Chronicles Ultimate AgriGames to Bond with Buddies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dive-into-digital-dimensions-smartphone-vr-conversion-tricks/"><u>[New] Dive Into Digital Dimensions Smartphone-VR Conversion Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-from-live-events-to-records-the-pathway-with-4-key-steps-on-fb-for-2024/"><u>[New] From Live Events to Records The Pathway with 4 Key Steps on FB for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-cross-platform-sharing-tweeting-videos-across-fb/"><u>2024 Approved Cross-Platform Sharing Tweeting Videos Across FB</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unseen-marvels-of-vr-elite-headset-comparisons/"><u>2024 Approved Unseen Marvels of VR Elite Headset Comparisons</u></a></li>
+<li><a href="https://win-bits.techidaily.com/aomei-backupper-reviews-from-users-worldwide-reliable-data-recovery-and-sync-solutions-at-hand/"><u>AOMEI Backupper Reviews From Users Worldwide: Reliable Data Recovery and Sync Solutions at Hand</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-choices-for-immersive-vr-experiences/"><u>Economical Choices for Immersive VR Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-on-rectifying-gps-loss-in-pokemon-journey/"><u>Expert Advice on Rectifying GPS Loss in Pokémon Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-i-stumble-upon-premier-independent-titles-on-itchio/"><u>How I Stumble Upon Premier Independent Titles on itch.io</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-calendar-imprinting-techniques-in-photography/"><u>In 2024, Calendar Imprinting Techniques in Photography</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-technology-insider-secrets-from-toms-hardware-review/"><u>Mastering Modern Technology: Insider Secrets From Tom's Hardware Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/nitro-vs-standard-discord-experience/"><u>Nitro Vs. Standard Discord Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-sound-strategies-with-high-quality-iems/"><u>Optimal Sound Strategies with High-Quality IEMs</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-steam-network-unresponsive-error/"><u>Remedying Steam Network Unresponsive Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/restricting-background-scrutiny-by-xbox-game-bar-on-win-11/"><u>Restricting Background Scrutiny by Xbox Game Bar on Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-right-gpu-founders-series-or-vega-asus-branded/"><u>Selecting Right GPU: Founder's Series or Vega Asus-Branded</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fixes-for-missing-launchdll-errors-on-your-computer/"><u>The Ultimate Fixes for Missing launch.dll Errors on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-player-tactics-in-minecraft-on-switch/"><u>Two-Player Tactics in Minecraft on Switch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncover-the-top-7-causes-of-sluggish-mobile-wi-fi-speeds/"><u>Uncover the Top 7 Causes of Sluggish Mobile Wi-Fi Speeds</u></a></li>
+</ul></div>
 

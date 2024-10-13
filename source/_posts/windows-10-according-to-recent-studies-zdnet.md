@@ -1,7 +1,7 @@
 ---
 title: Windows 10 According to Recent Studies | ZDNET
-date: 2024-09-17T00:50:29.132Z
-updated: 2024-09-20T22:31:55.598Z
+date: 2024-10-08T03:28:07.135Z
+updated: 2024-10-13T01:11:22.377Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,18 +92,18 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,21 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cutting-costs-with-low-priced-vr-technology-china/"><u>[New] 2024 Approved Cutting Costs with Low-Priced VR Technology (China)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterclass-selecting-christian-streaming-platforms/"><u>[New] Masterclass Selecting Christian Streaming Platforms</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-abroad-heres-how-you-can-access-it-around-the-globe-using-chatgpt-everywhere/"><u>ChatGPT Abroad? Here's How You Can Access It Around the Globe Using ChatGPT Everywhere!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comparaison-complet-aac-vs-mp3-decouvrez-quelle-technologie-audio-offre-de-meilleures-caracteristiques/"><u>Comparaison Complet AAC Vs. MP3 - Découvrez Quelle Technologie Audio Offre De Meilleures Caractéristiques</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/curing-your-pcs-muteness-a-guide-to-restoring-sounds-in-windows-11/"><u>Curing Your PC's Muteness: A Guide to Restoring Sounds in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-the-thrill-play-six-amazing-chatgpt-games/"><u>Experience the Thrill: Play Six Amazing ChatGPT Games!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-fun-frenzy-top-20-engaging-mobile-games-on-androidiphone/"><u>Fast Fun Frenzy: Top 20 Engaging Mobile Games on Android/iPhone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-acid-pro-reviewed-comparable-professional-tools-explored/"><u>In 2024, ACID Pro Reviewed Comparable Professional Tools Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-joyful-gaming-on-nintendo-switch/"><u>Jumpstart Your Joyful Gaming on Nintendo Switch</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stream-wars-evaluation-who-comes-out-on-top-obs-or-twitch-studio-for-2024/"><u>Stream Wars Evaluation Who Comes Out on Top, OBS or Twitch Studio for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-game-files-with-efficient-disk-management/"><u>Streamline Game Files with Efficient Disk Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/surround-silence-managing-system-noises-on-xbox/"><u>Surround Silence: Managing System Noises on Xbox</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-13-must-listen-true-crime-podcast-episodes/"><u>Top 13 Must-Listen True Crime Podcast Episodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-ultra-hd-on-xbox-series-xs-blue-ray/"><u>Unveiling Ultra HD on Xbox Series X's Blue-Ray</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's In-Depth SteelSeries AeroX 5 Gaming Mouse Assessment: Is It Overloaded With Features?"
-date: 2024-09-15T16:10:46.903Z
-updated: 2024-09-20T19:13:56.585Z
+date: 2024-10-09T04:45:51.613Z
+updated: 2024-10-12T20:18:20.711Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -90,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-from-novice-to-expert-the-complete-powerdirector-journey-for-2024/"><u>[New] From Novice to Expert The Complete PowerDirector Journey for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-picart-tips-effortless-face-blurring-trick/"><u>[New] PicArt Tips Effortless Face Blurring Trick</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-secondary-shots-a-filmmakers-blueprint/"><u>[Updated] Integrating Secondary Shots A Filmmaker's Blueprint</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-techniques-to-transform-movies-mov-into-high-quality-audio-wav-expert-strategies-and-tips/"><u>Efficient Techniques to Transform Movies (MOV) Into High-Quality Audio (WAV): Expert Strategies and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/everything-you-need-to-know-about-amds-radeon-rx-7800-xt-and-rx-7700-xt/"><u>Everything You Need to Know About AMD's Radeon RX 7800 XT and RX 7700 XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps5-controller-to-your-phone/"><u>How to Connect a PS5 Controller to Your Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-hot-40-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Hot 40 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y56-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y56 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-zte-nubia-flip-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone ZTE Nubia Flip 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-latest-app-a-game-changer-in-gaming-realm/"><u>Nvidia's Latest App: A Game Changer in Gaming Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpen-the-edge-frame-rate-boost-for-csgo-players/"><u>Sharpen the Edge: Frame Rate Boost for CS:GO Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-fix-steam-big-picture-errors/"><u>Solutions to Fix Steam Big Picture Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-strategies-for-overcoming-failed-d3d-device-setup-problems/"><u>Successful Strategies for Overcoming Failed D3D Device Setup Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-impressions-lenovos-legion-go-showcase-at-ifa/"><u>Top 5 Impressions: Lenovo's Legion Go Showcase at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-5-decisions-why-invest-in-old-school-portables/"><u>Ultimate 5 Decisions: Why Invest in Old-School Portables</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-better-gaming-with-this-essential-guide-of-8-cpu-cooler-factors/"><u>Unlock Better Gaming with This Essential Guide of 8 CPU Cooler Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-big-3-proven-methods-to-redeem-xbox-codes/"><u>Win Big: 3 Proven Methods to Redeem Xbox Codes</u></a></li>
+</ul></div>
 

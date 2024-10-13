@@ -1,7 +1,7 @@
 ---
 title: "Top Budget-Friendly Gaming Displays : A Comprehensive Guide | TechRadar"
-date: 2024-09-18 23:19:47
-updated: 2024-09-20 12:59:27
+date: 2024-10-11T07:58:20.922Z
+updated: 2024-10-13T11:21:07.851Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -70,6 +91,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +148,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-streamlining-your-instagram-archive-with-ease-for-2024/"><u>[New] Streamlining Your Instagram Archive with Ease for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-perfecting-visual-output-integrating-luts-into-ae-projects/"><u>[Updated] In 2024, Perfecting Visual Output Integrating LUTs Into AE Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-shorts-shown-no-more-hidden-videos/"><u>[Updated] Shorts Shown – No More Hidden Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-acer-aspire-c27-the-ultimate-compact-and-versatile-desktop-computer/"><u>Exploring the Acer Aspire C27: The Ultimate Compact and Versatile Desktop Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-perform-an-efficient-ps4-factory-reset/"><u>How to Perform an Efficient PS4 Factory Reset</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-payload-pilots-drone-superlatives/"><u>In 2024, Pinnacle Payload Pilots Drone Superlatives</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/intergalactic-inventor-discovering-new-tech-brands/"><u>Intergalactic Inventor: Discovering New Tech Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/regional-shift-for-the-ultimate-gaming-experience-on-switch/"><u>Regional Shift for the Ultimate Gaming Experience on Switch</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streaming-showdown-twitch-versus-youtube-unveiled-for-2024/"><u>Streaming Showdown Twitch Versus YouTube Unveiled for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-buy-or-not-the-mechanical-keyboard-dilemma/"><u>To Buy or Not: The Mechanical Keyboard Dilemma</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-to-blur-videos-on-mobile-top-apps-and-tools/"><u>Updated 2024 Approved How to Blur Videos on Mobile Top Apps and Tools</u></a></li>
+</ul></div>
+

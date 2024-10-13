@@ -1,7 +1,7 @@
 ---
 title: The Regrettable Path to a $3,500 Card Ownership
-date: 2024-10-02T19:36:32.908Z
-updated: 2024-10-07T17:27:39.009Z
+date: 2024-10-06T03:41:09.154Z
+updated: 2024-10-13T09:04:35.359Z
 tags:
   - games
 categories:
@@ -26,16 +26,10 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
@@ -67,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
 
@@ -91,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
@@ -128,20 +116,22 @@ thumbnail: https://thmb.techidaily.com/dc5fff1a9acb5e2e1b1bb4c72b06c12c5151a76a3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-discovering-and-demystifying-tiktoks-pfp-symbol-for-2024/"><u>[New] Discovering and Demystifying TikTok's PFP Symbol for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-guide-to-successful-instagram-story-surveys/"><u>[Updated] In 2024, Step-by-Step Guide to Successful Instagram Story Surveys</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-tips-for-efficient-camera-roll-upload-to-snapchat/"><u>2024 Approved Essential Tips for Efficient Camera Roll Upload to Snapchat</u></a></li>
-<li><a href="https://games-able.techidaily.com/four-witty-comic-exchange-games-for-friendship-delight/"><u>Four Witty Comic Exchange Games for Friendship Delight</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guide-to-streaming-k-pop-content-from-weverse-platforms-on-your-television/"><u>Guide to Streaming K-Pop Content From Weverse Platforms on Your Television</u></a></li>
-<li><a href="https://games-able.techidaily.com/ignite-your-games-spark-with-raspberry-pi-six-reasons/"><u>Ignite Your Game's Spark with Raspberry Pi - Six Reasons</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-playstation-5-game-storage/"><u>Optimize Your PlayStation 5 Game Storage</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/seamless-igtv-and-fb-sharing-guide/"><u>Seamless IGTV and FB Sharing Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-wi-fi-free-gaming-titles-ios/"><u>The Ultimate List of Wi-Fi Free Gaming Titles (iOS)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-strategy-for-top-tier-youtube-titles-and-tags-for-2024/"><u>The Ultimate Strategy for Top-Tier Youtube Titles & Tags for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-full-potential-boosting-ps4-power-levels/"><u>Unlock Full Potential: Boosting PS4 Power Levels</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-of-quick-resume-on-xbox-series-xands/"><u>Value of Quick Resume on Xbox Series X&S</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/wheres-the-community-twitch-and-youtube-side-by-side/"><u>Where's the Community? Twitch & YouTube Side by Side</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweettracker-monitor-and-grab-visuals-from-social-feeds/"><u>[New] In 2024, TweetTracker Monitor & Grab Visuals From Social Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-breakthrough-strategies-for-rapid-fb-media-delivery/"><u>[Updated] In 2024, Breakthrough Strategies for Rapid FB Media Delivery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-photographic-purity-and-proficiency-in-chromatic-control/"><u>[Updated] Photographic Purity and Proficiency in Chromatic Control</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-vlc-challenge-against-mx-player/"><u>2024 Approved VLC Challenge Against MX Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/convenient-xbox-broadcasts-for-every-discord-member/"><u>Convenient Xbox Broadcasts for Every Discord Member</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-driver-for-hp-deskjet-3755-all-in-one-printer-on-windows-1087/"><u>Download the Latest Driver for HP DeskJet 3755 All-in-One Printer on Windows 10/8/7</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/efficiently-managing-insurance-claims-with-ecclesia-the-abbyy-integration/"><u>Efficiently Managing Insurance Claims with Ecclesia: The ABBYY Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-setup-with-personalized-brightness-controls/"><u>Elevate Your Setup with Personalized Brightness Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-your-gaming-collection-overcoming-egc-shortcomings/"><u>Fixing Your Gaming Collection: Overcoming EGC Shortcomings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/frame-your-filmmaking-the-3-secrets-to-instagram-borders-for-2024/"><u>Frame Your Filmmaking The 3 Secrets to Instagram Borders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-subscribe-to-and-use-ea-play-on-ps5/"><u>How to Subscribe to and Use EA Play on PS5</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-c110-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia C110</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-audio-and-visuals-add-apple-music-to-videos/"><u>In 2024, Harmonizing Audio and Visuals Add Apple Music to Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-performance-boost-easy-steam-deck-ssd-swap/"><u>Instant Performance Boost: Easy Steam Deck SSD Swap</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-fan-profile-optimal-temperature-maximum-power/"><u>Personalized Fan Profile: Optimal Temperature, Maximum Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-boundaries-for-xbox-game-bar-in-windows-1011/"><u>Setting Boundaries for Xbox Game Bar in Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-symphony-harmonizing-your-xbox-one-remote/"><u>Tech Symphony: Harmonizing Your Xbox One Remote</u></a></li>
 </ul></div>
 

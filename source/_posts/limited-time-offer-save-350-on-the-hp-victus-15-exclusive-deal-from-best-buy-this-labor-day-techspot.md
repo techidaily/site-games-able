@@ -1,7 +1,7 @@
 ---
 title: "Limited-Time Offer: Save $350 on the HP Victus 15 - Exclusive Deal From Best Buy This Labor Day | TechSpot"
-date: 2024-09-14T22:25:04.114Z
-updated: 2024-09-20T23:01:51.575Z
+date: 2024-10-10T21:12:18.722Z
+updated: 2024-10-13T00:22:54.404Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,19 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +102,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +152,24 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-10-ways-to-prevent-oculus-rift-vr-motion-sickness/"><u>[Updated] 10 Ways to Prevent Oculus Rift VR Motion Sickness</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-easy-steps-to-change-fins-sounds-in-windows-for-2024/"><u>[Updated] Easy Steps to Change Fins' Sounds in Windows for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-chip-revolution-editing-videos-flawlessly-with-m1/"><u>[Updated] In 2024, Chip Revolution Editing Videos Flawlessly with M1</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/excellent-7-dslrs-elevating-live-stream-cinematic-style-for-2024/"><u>Excellent 7 DSLRs Elevating Live-Stream Cinematic Style for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-photo-hdr-mastery-in-photoshop-for-2024/"><u>Expert Tips for Photo-HDR Mastery in Photoshop for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-download-optimal-video-encoding-software-for-windows-11-media-streaming/"><u>Free Download: Optimal Video Encoding Software for Windows 11 Media Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-script-innovation-through-chatgpt/"><u>Game Script Innovation Through ChatGPT</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-streamlining-gaming-memberships/"><u>Mastering PS5: Streamlining Gaming Memberships</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-system-keep-steam-off-at-boot/"><u>Quiet System, Keep Steam Off at Boot</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rapidly-constructing-a-dynamic-facebook-visual-narrative-for-2024/"><u>Rapidly Constructing a Dynamic Facebook Visual Narrative for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtlety-a-game-changer-for-players/"><u>Subtlety: A Game Changer for Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-discount-list-spotting-the-top-11-game-buying-websites/"><u>The Ultimate Discount List: Spotting the Top 11 Game Buying Websites</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-your-game-experience-windows-and-m1-macs-via-crossover/"><u>Transition Your Game Experience: Windows & M1 Macs via Crossover</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-repair-your-zoom-microphone-on-windows-10-or-11/"><u>Troubleshooting: How to Repair Your Zoom Microphone on Windows 10 or 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-four-reasons-for-a-corsair-icue-link-upgrade/"><u>Unlock Potential: Four Reasons for a Corsair iCUE Link Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-smooth-steam-bp-mode/"><u>Unlocking the Secrets of Smooth Steam BP Mode</u></a></li>
+</ul></div>
 

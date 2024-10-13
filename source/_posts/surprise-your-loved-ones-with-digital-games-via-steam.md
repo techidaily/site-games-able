@@ -1,7 +1,7 @@
 ---
 title: Surprise Your Loved Ones with Digital Games via Steam
-date: 2024-10-03T18:25:50.926Z
-updated: 2024-10-07T18:37:33.262Z
+date: 2024-10-08T08:14:03.099Z
+updated: 2024-10-13T06:19:22.352Z
 tags:
   - games
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 * [How to Send a Steam Gift Card](#how-to-send-a-steam-gift-card)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -66,13 +66,6 @@ Once you have all of that ready, follow the steps below:
 
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Gift Duplicate Games on Steam
 
  In this instance, a “duplicate game” is one that you already have in your library but that you also have an extra license for.
@@ -85,6 +78,14 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
@@ -102,19 +103,20 @@ We’ll show you how to do this on Humble Bundle:
 1. Visit[humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
 4. Make your payments and checkout.
 
  These instructions are more or less the same across all websites that offer a similar service to Humble Bundle.
 
  Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on[how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Send a Steam Gift Card
 
@@ -127,16 +129,16 @@ We’ll show you how to do this on Humble Bundle:
 ![Adding funds to wallet page on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-15-47-am.png)
 3. Scroll down and click**Purchase Digital Gift Cards** on the next page.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
 
@@ -159,22 +161,19 @@ We’ll show you how to do this on Humble Bundle:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-how-to-record-teams-video-meeting-on-desktop-and-mobile/"><u>[Updated] 2024 Approved How to Record Teams Video Meeting on Desktop and Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-nintendo-switchs-hidden-potential/"><u>Exploring the Nintendo Switch's Hidden Potential</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-p40-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel P40 Pattern Lock Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/futureproof-your-pc-by-prioritizing-these-8-essentials-for-a-cooler/"><u>Futureproof Your PC by Prioritizing These 8 Essentials for a Cooler</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-hot-40i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Hot 40i to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-poco-c55-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Poco C55 and Browser | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-quick-curving-techniques-for-modern-photoshop-artists/"><u>In 2024, Quick Curving Techniques for Modern Photoshop Artists</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-performance-7-keyframe-tips-for-csgo/"><u>Optimizing Performance - 7 Keyframe Tips for CS:GO</u></a></li>
-<li><a href="https://games-able.techidaily.com/push-the-limits-prime-websites-for-gamerpoints-surge/"><u>Push the Limits - Prime Websites for Gamerpoints Surge</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-power-outage-issues-in-laptops-and-desktops-that-wont-start-up/"><u>Solving Power Outage Issues in Laptops and Desktops That Won't Start Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-unlock-new-gaming-potentials-with-keyboardsmice-87-chars/"><u>Switch: Unlock New Gaming Potentials with Keyboards/Mice (87 Chars)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/taking-your-virtual-meetings-to-new-heights-with-zoom-filters-for-2024/"><u>Taking Your Virtual Meetings to New Heights with Zoom Filters for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-story-of-amds-rx-7800xt-and-7700xt-performance/"><u>The Complete Story of AMD's RX 7800XT & 7700XT Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quad-of-qualities-to-upgrade-in-the-xbox-reward-system/"><u>The Quad of Qualities to Upgrade in the Xbox Reward System</u></a></li>
-<li><a href="https://games-able.techidaily.com/thriving-in-gameplay-understanding-macs-fortnite-limits/"><u>Thriving in Gameplay: Understanding Mac's Fortnite Limits</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-a79-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo A79 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-solving-sos-calling-issues-on-your-iphone/"><u>Ultimate Guide: Solving 'SOS Calling' Issues on Your iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-of-safe-toy-drones/"><u>[New] The Ultimate List of Safe Toy Drones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-optimize-tiktok-videos-for-snappy-playback-times/"><u>[Updated] In 2024, Optimize TikTok Videos for Snappy Playback Times</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970972801-creep-occurs-at-high-temperatures-typically-above-04-times-a-materials-melting-temperature-in-kelvin/"><u>Creep Occurs at High Temperatures, Typically Above 0.4 Times a Material's Melting Temperature (in Kelvin).</u></a></li>
+<li><a href="https://article-posts.techidaily.com/empower-your-application-with-microsoft-azure-speech-services-for-2024/"><u>Empower Your Application with Microsoft Azure Speech Services for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-pro-become-a-twitch-streaming-powerhouse-on-your-phone/"><u>Go Pro: Become a Twitch Streaming Powerhouse on Your Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-gt-3-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme GT 3 Safely | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-digital-media-mapper/"><u>In 2024, Digital Media Mapper</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/inspiration-on-a-plate-top-20-instagram-food-photos/"><u>Inspiration on a Plate Top 20 Instagram Food Photos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/integrating-video-conferencing-within-gmail-ecosystem-with-zoom/"><u>Integrating Video Conferencing Within Gmail Ecosystem with Zoom</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-steams-digital-marketplace/"><u>Navigating Through Steam's Digital Marketplace</u></a></li>
+<li><a href="https://games-able.techidaily.com/outwit-ny-times-influence-with-these-top-8-tactics/"><u>Outwit NY Times Influence with These Top 8 Tactics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-toy-for-family-bonding-inside-the-holy-stone-cartoon-racing-experience/"><u>The Perfect Toy for Family Bonding: Inside the Holy Stone Cartoon Racing Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-series-xands-full-potential-screen-tuning-guide/"><u>Unlock Your Series X&S Full Potential: Screen Tuning Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugging-microphones-on-your-ps5-best-practices/"><u>Unplugging Microphones on Your PS5 - Best Practices</u></a></li>
 </ul></div>
 

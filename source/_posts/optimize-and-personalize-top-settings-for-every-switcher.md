@@ -1,7 +1,7 @@
 ---
 title: "Optimize and Personalize: Top Settings for Every Switcher"
-date: 2024-10-01T18:15:17.316Z
-updated: 2024-10-07T18:17:03.359Z
+date: 2024-10-07T21:23:23.952Z
+updated: 2024-10-13T02:11:31.420Z
 tags:
   - games
 categories:
@@ -43,20 +43,27 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
  To put your phone on Flight Mode. Simply open your settings and scroll down to**Flight Mode** . It’s the second option on the menu and will only take a moment to activate, but could save you precious moments in your game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use Quick Archive to Free Up Space on Your Nintendo Switch
 
  The Switch doesn’t have a lot of storage space. A Switch Lite, for example, only has 32GB of space available, and a portion of that is reserved for the system. 32GB may sound like a lot, but if you’re looking at downloading big games, even the Switch OLED's improved 64 GB will quickly disappear.
 
 ![Quick Archive on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quick-archive-on-nintendo-switch.jpg)
 
- Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
 
 ## 4\. Enable Bluetooth Audio
 
@@ -73,20 +80,13 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 ![TV Resolution on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-resolution-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Calibrate Your Nintendo Switch Controllers
 
@@ -103,20 +103,19 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 ![MTU Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mtu-settings-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To begin, make sure your Switch is connected to the internet and go to your**Internet Settings** . From there, select the Wi-Fi you’re connected to and press**Change Settings** . Then scroll down and bump the**MTU** up from**1400** to**1500** . That will ensure that the maximum amount of data is being transferred, and you should experience an improvement in your download speeds.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Extend the Auto-Lock Time on Your Nintendo Switch
 
@@ -130,28 +129,29 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
  Both can be customized separately. Pick the mode you’re looking for and choose your perfect timeframe from the list provided. You can choose from**one** ,**three** ,**five** ,**10** , and**30 minutes** , or even**never** if you’re not afraid of accidentally leaving your system on overnight.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Discover Your Nintendo Switch’s Maintenance Mode
 
  The recovery menu is something you hope you will never see, but it’s still important to know about because it can help troubleshoot certain issues without having to send your console away for repair. There are, of course, some things that even Maintenance Mode cannot help you with, but many software issues can be resolved with a factory reset or even a soft reset.
 
 ![A promotional image of the Maintanance Mode options for Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/img06-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Nintendo](https://www.nintendo.com/my/support/switch/data%5Fmanagement/initialization/index.html)
 
  To open Maintenance Mode, hold the**volume up + volume down + power buttons** down for a couple of seconds until the system boots up in Maintenance Mode, and you can troubleshoot your Switch from there.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Level Up Your Switch With These Helpful Switch Tips
 
@@ -174,24 +174,20 @@ thumbnail: https://thmb.techidaily.com/5a73949d0daa87913e6d1945410f959f7280334c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-create-a-square-video-for-instagram-in-imovie/"><u>[New] How to Create a Square Video for Instagram in iMovie?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-visual-editors-journey-cropping-content-for-instagram-standout/"><u>[New] The Visual Editor's Journey Cropping Content for Instagram Standout</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-covertly-engage-with-fb-live-feeds/"><u>[Updated] In 2024, Covertly Engage with FB Live Feeds</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-maximizing-lenovo-experience-through-effective-recording/"><u>[Updated] In 2024, Maximizing Lenovo Experience Through Effective Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-best-on-screen-capture-devices/"><u>[Updated] Ultimate Camera Guide 2024'S Best On-Screen Capture Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-mastering-the-art-of-comfortable-virtual-experiences/"><u>2024 Approved Mastering the Art of Comfortable Virtual Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/core-conundrum-intels-edge-or-amds-advantage-in-gaming/"><u>Core Conundrum: Intel's Edge or AMD's Advantage in Gaming?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortlessly-transform-your-webp-pictures-to-jpgs-at-no-cost-use-our-top-rated-service/"><u>Effortlessly Transform Your WebP Pictures to JPGs at No Cost - Use Our Top-Rated Service!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-content-strategy-through-youtube-metrics/"><u>Elevating Content Strategy Through YouTube Metrics</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-gaming-experience-fixing-low-fps-issues/"><u>Elevating Gaming Experience: Fixing Low FPS Issues</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-canons-error-b200/"><u>Fixed Canon's Error: B200</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-banishing-the-blank-screen-from-youtube-videos/"><u>In 2024, Banishing the Blank Screen From YouTube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-gaming-setup-key-mice-traits-on-the-rise/"><u>Mastering Your Gaming Setup: Key Mice Traits on the Rise</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-cash-required-manage-champions-in-free-soccer-software/"><u>No Cash Required? Manage Champions in Free Soccer Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventing-freezes-load-facebook-games-flawlessly-on-chrome/"><u>Preventing Freezes: Load Facebook Games Flawlessly on Chrome</u></a></li>
-<li><a href="https://games-able.techidaily.com/protecting-game-moments-steam-screenshots-copyright/"><u>Protecting Game Moments: Steam Screenshots Copyright</u></a></li>
-<li><a href="https://games-able.techidaily.com/quickclick-quests-eventual-gameplay-boosts/"><u>QuickClick Quests: Eventual Gameplay Boosts</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-conversation-crafting-rounds-to-deepen-bonds/"><u>Seven Conversation Crafting Rounds to Deepen Bonds</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-sanctuaries-of-steams-visual-data/"><u>The Sanctuaries of Steam's Visual Data</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-edge-selecting-9-superior-online-microphone-recorders-for-2024/"><u>[New] Leading Edge Selecting 9 Superior Online Microphone Recorders for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-madness-top-tips-for-crafting-hitsome-memes/"><u>[Updated] Metaverse Madness Top Tips for Crafting Hitsome Memes</u></a></li>
+<li><a href="https://facebook.techidaily.com/12-benefits-to-giving-your-social-life-a-break/"><u>12 Benefits to Giving Your Social Life a Break</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-convert-aiff-to-mp4-at-no-cost-using-the-official-movavi-tool/"><u>Download and Convert AIFF to MP4 at No Cost - Using the Official Movavi Tool!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-many-phone-generations-should-pass-before-an-upgrade/"><u>How Many Phone Generations Should Pass Before an Upgrade?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-all-6-ps5-startup-techniques-now/"><u>Master All 6 Ps5 Startup Techniques Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-incorrect-game-status-in-steam-library/"><u>Solutions to Incorrect Game Status in Steam Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-intricate-process-breaking-down-your-xbox-360-slim-console/"><u>The Intricate Process: Breaking Down Your Xbox 360 Slim Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-best-xbox-transmission-cards-and-accessories/"><u>Top 5 Best Xbox Transmission Cards and Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-ways-to-amplify-playstation-5-joy/"><u>Top 5 Ways to Amplify PlayStation 5 Joy</u></a></li>
+<li><a href="https://games-able.techidaily.com/torturous-titles-top-5-testing-tantalizers/"><u>Torturous Titles: Top 5 Testing Tantalizers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-twitch-potential-through-prime-membership/"><u>Unlock Full Twitch Potential Through Prime Membership</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-smart-8-plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Smart 8 Plus Phone Network-Ready</u></a></li>
 </ul></div>
 

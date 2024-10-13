@@ -1,7 +1,7 @@
 ---
 title: "Top 5 PC Gaming Simulators: The Best Wheel-and-Pedal Setups - Hardware Review"
-date: 2024-09-18T18:33:57.890Z
-updated: 2024-09-20T21:12:58.134Z
+date: 2024-10-11T23:02:55.638Z
+updated: 2024-10-13T12:59:39.344Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-framed-to-impress-your-guide-to-tweets-in-high-definition-for-2024/"><u>[New] Framed to Impress Your Guide to Tweets in High Definition for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-maximize-your-fb-videos-full-screen-mode-guide-2023/"><u>[Updated] 2024 Approved Maximize Your FB Videos Full-Screen Mode Guide 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-verified-posts-do-they-matter/"><u>[Updated] Instagram Verified Posts - Do They Matter?</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-rejuvenation-sonys-controller-wirelessly-refreshed/"><u>Effortless Rejuvenation: Sony's Controller Wirelessly Refreshed</u></a></li>
+<li><a href="https://games-able.techidaily.com/enriching-your-gaming-experience-a-complete-guide-on-how-to-play-popular-titles-in-steam-through-meta-quest/"><u>Enriching Your Gaming Experience: A Complete Guide on How to Play Popular Titles in Steam Through Meta Quest</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-classic-usb-composite-devices-a-step-by-step-solution/"><u>Fixing Classic USB Composite Devices: A Step-by-Step Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-free-game-choices/"><u>Gamers' Guide to Free Game Choices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unique-conversation-starters-for-streaming/"><u>In 2024, Unique Conversation Starters for Streaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/level-up-your-game-with-premium-equipment-selection/"><u>Level Up Your Game with Premium Equipment Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-gamers-revel-in-fortnites-wonders-with-watchful-eyes/"><u>Mac Gamers: Revel in Fortnite's Wonders with Watchful Eyes</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-choices-for-peak-level-xbox-streaming/"><u>Premium Choices for Peak-Level Xbox Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-world-of-endless-play-best-10-ad-free-games/"><u>Step Into a World of Endless Play: Best 10 Ad-Free Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unanticipated-consequences-of-rtx-4090-ownership/"><u>The Unanticipated Consequences of RTX 4090 Ownership</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/1719021545172-top-iphone-ios-vr-games-you-should-try/"><u>Top Iphone IOS VR Games You Should Try</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-a-smooth-run-of-persona-cuffs-and-avoiding-game-crashes-on-your-computer/"><u>Troubleshooting Tips for a Smooth RUN of PERSONA Cuffs, and Avoiding Game Crashes on Your Computer.</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-power-of-playstation-5-controller-reboot/"><u>Unveiling the Power of PlayStation 5 Controller Reboot</u></a></li>
+</ul></div>
 

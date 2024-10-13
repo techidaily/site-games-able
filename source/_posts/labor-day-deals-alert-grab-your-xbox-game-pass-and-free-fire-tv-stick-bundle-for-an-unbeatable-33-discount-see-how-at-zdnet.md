@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Deals Alert: Grab Your Xbox Game Pass and Free Fire TV Stick Bundle for an Unbeatable 33%% Discount - See How at ZDNet!"
-date: 2024-09-18T17:26:12.260Z
-updated: 2024-09-20T16:33:57.133Z
+date: 2024-10-07T23:42:55.628Z
+updated: 2024-10-12T19:06:10.271Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -50,6 +57,13 @@ Before you begin, power off the PS5 and unplug the power cable, HDMI, and anythi
 To gain access to the SSD slot, you'll need to remove the back cover. If you have it positioned face down and the back of the console facing you, lift up on the front right corner and slide to the left. Once it's off, set the panel to the side. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove the expansion slot cover
 
@@ -72,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-intensified-interaction-through-advanced-zoom-settings/"><u>[New] Intensified Interaction Through Advanced ZOOM Settings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-slack-and-filmora-scheduling-meetings-flawlessly/"><u>[Updated] 2024 Approved Mastering Slack & Filmora Scheduling Meetings Flawlessly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-chasing-likes-and-loads-jake-pauls-youtube-ambition-for-2024/"><u>[Updated] Chasing Likes and Loads Jake Paul's YouTube Ambition for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>[Updated] From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free. For 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fan-the-flames-of-football-management-winning-soccer-coaching-free/"><u>Fan the Flames of Football Management: Winning Soccer Coaching, Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-corner-keychron-and-lemokey-reviewed-as-one/"><u>Gamer’s Corner: Keychron & Lemokey Reviewed as One</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-infinix-smart-7-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Infinix Smart 7 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-prepare-for-a-social-media-shutdown-8-tips-for-fb-users/"><u>How to Prepare for a Social Media Shutdown: 8 Tips for FB Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-playstation-5s-wi-fi-network-issues/"><u>Mastering Your PlayStation 5’S Wi-Fi Network Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/reframing-the-debate-6-counterarguments-against-mac-gaming/"><u>Reframing the Debate: 6 Counterarguments Against Mac Gaming</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/solutions-for-unsharp-cctv-images/"><u>Solutions for Unsharp CCTV Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-control-steam-web-helpers-memory-usage/"><u>Strategies to Control Steam Web Helper's Memory Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-external-media-use-for-game-play-via-steam/"><u>Streamlining External Media Use for Game Play via Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-power-of-live-gaming-with-these-top-7-bot-companions/"><u>Unlock the Power of Live Gaming With These Top 7 Bot Companions</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-nintendo-switch-wont-connect-to-the-internet-heres-what-to-do/"><u>Your Nintendo Switch Won't Connect to the Internet? Here's What to Do</u></a></li>
+</ul></div>
 

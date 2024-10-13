@@ -1,7 +1,7 @@
 ---
 title: Deciding on Your Next Console? Compare Nintendo Switch & OLED Models with Our Detailed Analysis | ZDNet
-date: 2024-09-13T18:56:46.898Z
-updated: 2024-09-20T16:44:26.828Z
+date: 2024-10-07T00:04:06.883Z
+updated: 2024-10-12T19:10:35.201Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,16 +93,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -147,5 +155,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-enhancing-live-broadcasts-with-premium-webcams/"><u>[New] Enhancing Live Broadcasts with Premium WebCams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-beating-the-blues-of-overly-green-a-mac-video-editors-handbook/"><u>[New] In 2024, Beating the Blues of Overly Green A Mac Video Editor's Handbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-igniting-laughter-a-path-to-meme-fame/"><u>[Updated] 2024 Approved Igniting Laughter A Path to Meme Fame</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-inside-microsofts-visionary-hololens-innovation/"><u>[Updated] 2024 Approved Inside Microsoft's Visionary HoloLens Innovation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/10-simple-methods-for-capturing-online-stations-a-guide-by-movavi/"><u>10 Simple Methods for Capturing Online Stations: A Guide by Movavi</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-spark-10-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Spark 10 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-techniques-for-sonys-dualsense-upgrade/"><u>Cutting-Edge Techniques for Sony's DualSense Upgrade</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-reno-11f-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo Reno 11F 5G Device SIM</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-setup-steam-deck-and-remote-pc-play/"><u>Elevate Your Gaming Setup: Steam Deck and Remote PC Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-insights-on-maximizing-productivity-the-docked-steam-deck-way/"><u>Expert Insights on Maximizing Productivity: The Docked Steam Deck Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-capabilities-of-a-ps4-to-support-classic-ps-gaming/"><u>Exploring the Capabilities of a PS4 to Support Classic PS Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restart-steam-3-different-ways/"><u>How to Restart Steam: 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/infusing-interactive-elements-incorrante-youtube-music-into-videography-for-2024/"><u>Infusing Interactive Elements Incorrante YouTube Music Into Videography for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-solved-network-troubles-and-how-to-fix-them/"><u>League of Legends: Solved Network Troubles & How To Fix Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-joys-con-connectivity-hurdles-in-switch-system/"><u>Overcoming Joys-Con Connectivity Hurdles in Switch System</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-blizzard-titles-for-a-reunion-ms-edition/"><u>Top 7 Blizzard Titles for a Reunion: MS Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-tech-comparison-directx-series-debate/"><u>Visual Tech Comparison: DirectX Series Debate</u></a></li>
+<li><a href="https://games-able.techidaily.com/watts-worth-dreams-beyond-volts/"><u>Watt's Worth: Dreams Beyond Volts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sony PlayStation 5: The Evolution Story"
-date: 2024-09-30T19:51:43.971Z
-updated: 2024-10-07T18:04:28.720Z
+date: 2024-10-06T03:00:19.855Z
+updated: 2024-10-13T10:26:57.437Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 Models vs. New PS5 Models: The Differences
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
@@ -43,20 +50,13 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
@@ -77,31 +77,31 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -122,20 +122,22 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-screen-snapping-tips-to-enhance-your-gaming-experience/"><u>[New] In 2024, Essential Screen-Snapping Tips to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-holistic-mobility-inspection-study/"><u>[Updated] Holistic Mobility Inspection Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-pixelplay-logger-analysis/"><u>[Updated] PixelPlay Logger Analysis</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-best-script-artisans-domain/"><u>2024 Approved Best Script Artisan's Domain</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-your-browsing-experience-with-agentgpt-agents/"><u>Empower Your Browsing Experience with AgentGPT Agents</u></a></li>
-<li><a href="https://games-able.techidaily.com/fusing-form-and-function-in-gaming-world/"><u>Fusing Form and Function in Gaming World</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-nokia-xr21-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Nokia XR21 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-nokia-c300-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Nokia C300 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://games-able.techidaily.com/reactivating-windows-xpxbox-controllers-that-dont-work/"><u>Reactivating Windows XPXbox Controllers That Don't Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-rectify-error-during-win-oculus-application-setup/"><u>Steps to Rectify Error During Win-Oculus Application Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-desk-mats-of-2024/"><u>The Best Desk Mats of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-visionizer-for-gamers-setting-up-your-console-in-4k-focus-mode/"><u>The Ultimate Visionizer for Gamers – Setting Up Your Console in 4K Focus Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-30-gamer-tracker-apps-insight/"><u>Top 30 Gamer Tracker Apps Insight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-picks-the-ultimate-android-mp3-downloader-collection-for-2024/"><u>Top Picks The Ultimate Android MP3 Downloader Collection for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-freezing-points-to-inviting-landscapes/"><u>[Updated] In 2024, From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://games-able.techidaily.com/200-discounted-offer-on-truegolf-simulators-level-up-your-game-with-this-unbeatable-price-from-zdnet/"><u>$200 Discounted Offer on TrueGolf Simulators! Level Up Your Game with This Unbeatable Price From ZDNET.</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpts-magic-crafting-a-detective-game-from-the-tales-of-sherlock-holmes/"><u>ChatGPT's Magic: Crafting a Detective Game From the Tales of Sherlock Holmes</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deal-hp-victus-15l-gaming-laptop-now-at-a-steal-only-480-this-labor-day-weekend/"><u>Exclusive Deal: HP Victus 15L Gaming Laptop Now at a Steal - Only $480 This Labor Day Weekend!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-moto-g-stylus-impressive-speed-and-satisfactory-battery-endurance-with-handy-stylus/"><u>Expert Analysis of Moto G Stylus: Impressive Speed & Satisfactory Battery Endurance with Handy Stylus</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/how-to-access-and-watch-nonstop-nba-live-stream-free-online-for-2024/"><u>How To Access and Watch Nonstop NBA Live Stream Free Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-nine-laptop-strikes-major-blowout-price-now-just-350-cheaper-for-labor-day-specials-at-best-buy/"><u>HP Victus Nine Laptop Strikes Major Blowout Price, Now Just $350 Cheaper for Labor Day Specials at Best Buy!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-adding-movies-to-your-playlist-an-intuitive-process-for-youtube-users/"><u>In 2024, Adding Movies to Your Playlist An Intuitive Process for YouTube Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-dangerous-subscriber-scams-online/"><u>In 2024, Decoding Dangerous Subscriber Scams Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Passcode without a Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/memorial-day-sale-get-800-off-the-razer-blade-15-from-walmart-exclusive-deal/"><u>Memorial Day Sale: Get $800 Off the Razer Blade 15 From Walmart - Exclusive Deal</u></a></li>
+<li><a href="https://games-able.techidaily.com/purchase-a-high-quality-trugolf-golf-training-device-at-just-200-featured-on-zdnet/"><u>Purchase a High-Quality TruGolf Golf Training Device at Just $200 - Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-combo-exclusive-review-of-hyperxs-wireless-audio-and-gaming-setup-insights-from-zdnet/"><u>The Perfect Combo? Exclusive Review of HyperX's Wireless Audio and Gaming Setup | Insights From ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-skyrocketing-your-workflow-with-windows-apps/"><u>The Ultimate Guide to Skyrocketing Your Workflow with Windows Apps</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x50-gt-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-direct-storage-sharing-using-dropbox-googledrive-on-c/"><u>Unlocking Direct Storage Sharing: Using Dropbox, GoogleDrive on C:</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-lenovo-ideapad-for-gamers-how-hardware-limits-impact-chrome-powered-cloud-gaming-expert-review/"><u>Unveiling the Lenovo IdeaPad for Gamers: How Hardware Limits Impact Chrome-Powered Cloud Gaming | Expert Review</u></a></li>
 </ul></div>
 

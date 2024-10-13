@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Power: Alienware's M18 Steals the Show with Post-Labor Day Discount of $300!"
-date: 2024-09-19T18:56:53.539Z
-updated: 2024-09-21T01:44:18.084Z
+date: 2024-10-11T19:02:31.885Z
+updated: 2024-10-13T03:41:45.632Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +96,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +146,18 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-navigating-the-lands-market-monitoring-your-igtv-impact/"><u>[Updated] In 2024, Navigating the Lands Market Monitoring Your IGTV Impact</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-posting-vimeo-video-masterclass-for-instagramers/"><u>[Updated] In 2024, Posting Vimeo Video Masterclass for Instagramers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-mac-gif-sorter/"><u>2024 Approved Pinnacle Mac GIF Sorter</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-economical-pcie-40-motherboards-the-ultimate-buy-guide-to-b550-chipset-options/"><u>AMD's Economical PCIe 4.0 Motherboards - The Ultimate Buy Guide to B550 Chipset Options</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/croatias-language-identity/"><u>Croatia's Language Identity</u></a></li>
+<li><a href="https://games-able.techidaily.com/fullscreen-fun-optimizing-playnite-for-televisions/"><u>Fullscreen Fun: Optimizing Playnite for Televisions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-essential-steps-for-instagram-chat-novices/"><u>In 2024, Essential Steps for Instagram Chat Novices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-mystery-of-an-inoperative-lone-airpod/"><u>Solving the Mystery of an Inoperative Lone AirPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-friends-offline-error/"><u>Troubleshooting Steam Friends Offline Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-game-excellence-5-crucial-steps-for-macos-gamers/"><u>Unlock Game Excellence: 5 Crucial Steps for macOS Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-golds-next-phase-as-fundamental-to-game-pass/"><u>Xbox Gold's Next Phase as Fundamental to Game Pass</u></a></li>
+</ul></div>
 

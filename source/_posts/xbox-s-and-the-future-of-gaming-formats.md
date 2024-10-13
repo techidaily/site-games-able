@@ -1,7 +1,7 @@
 ---
 title: Xbox S and the Future of Gaming Formats
-date: 2024-10-05T16:25:36.123Z
-updated: 2024-10-07T16:01:08.521Z
+date: 2024-10-08T16:42:28.917Z
+updated: 2024-10-12T19:45:29.479Z
 tags:
   - games
 categories:
@@ -44,15 +44,22 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 ![A screenshot of the Xbox Store homepage on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
  That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
@@ -67,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -81,20 +88,19 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Xbox Series S Is a Great Budget Console Even Without Disc Support
@@ -118,20 +124,24 @@ thumbnail: https://thmb.techidaily.com/d37006e5965cff133da2576b0b3455692491cf1f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-iptv-sharing-on-varied-systems/"><u>[New] IPTV Sharing on Varied Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-eco-effective-ads-green-technology-and-cta-enhancements-for-2024/"><u>[Updated] Eco-Effective Ads Green Technology & CTA Enhancements for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-free-studio-hd-screen-grab-audit/"><u>2024 Approved Free Studio HD Screen Grab Audit</u></a></li>
-<li><a href="https://games-able.techidaily.com/engage-with-our-quick-and-easy-online-game-picks/"><u>Engage with Our Quick & Easy Online Game Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-mobile-gaming-upsides-downside/"><u>Exploring Mobile Gaming Upsides Downside</u></a></li>
-<li><a href="https://games-able.techidaily.com/fleeting-feature-fest-secret-gameplay-hacks/"><u>Fleeting Feature Fest: Secret Gameplay Hacks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-elites-choice-highest-rated-keyboards-for-2-point-zero-four-four/"><u>Gaming Elite's Choice: Highest-Rated Keyboards for 2 Point Zero Four Four</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Itel P40? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/text-temporal-tinkering-tools/"><u>Text Temporal Tinkering Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-15-best-two-player-mobile-games-to-play-with-friends-or-strangers/"><u>The 15 Best Two-Player Mobile Games to Play With Friends or Strangers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-game-of-life-taking-breaks-not-breaks/"><u>The Game of Life: Taking Breaks, Not Breaks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-freezing-issues-with-your-windows/"><u>Troubleshooting Freezing Issues with Your Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-xbox-series-s-skips-traditional-media/"><u>Why Xbox Series S Skips Traditional Media</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/windows-11-wonders-merging-music-and-motion-pictures/"><u>Windows 11 Wonders Merging Music & Motion Pictures</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-dramatic-fades-in-a-flash/"><u>[New] 2024 Approved Dramatic Fades in a Flash</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-use-youtube-cards-and-annotations/"><u>[New] How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-concurrent-audio-and-video-tracking/"><u>[New] In 2024, Concurrent Audio and Video Tracking</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-premier-video-record-breakdown-and-alternatives-for-2024/"><u>[New] Premier Video Record Breakdown and Alternatives for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>2024 Approved TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-features-unveiled-in-the-latest-black-shark-5-pro-analysis-zdnet/"><u>Advanced Features Unveiled in the Latest Black Shark 5 Pro Analysis | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-gaming-monitor-showdown-find-the-top-picks-cnet-review/"><u>Affordable Gaming Monitor Showdown: Find the Top Picks | CNET Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hp-victus-15l-gaming-pc-at-a-steal-for-only-520-enjoy-an-unbeatable-nearly-half-off-discount/"><u>Discover the HP Victus 15L Gaming PC at a Steal for Only $520, Enjoy an Unbeatable Nearly Half-Off Discount!</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-miss-out-unbeatable-labor-day-sale-on-fire-tv-and-xbox-game-pass-bundle-save-a-whopping-33-techradar-news/"><u>Don't Miss Out! Unbeatable Labor Day Sale on Fire TV and Xbox Game Pass Bundle – Save a Whopping 33% | TechRadar News</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dota-2-rendering-api-error-code-2024-quickly-step-by-step-guide/"><u>Fix Dota 2 Rendering API Error Code 2024 Quickly - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/initiate-an-impactful-live-stream-on-facebook-today-for-2024/"><u>Initiate an Impactful Live Stream on Facebook Today for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/initiating-effective-chatgpt-dialogues/"><u>Initiating Effective ChatGPT Dialogues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/premier-pro-ultimate-2023-template-collection-free-for-2024/"><u>Premier Pro Ultimate 2023 Template Collection (FREE) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-44-unbeatable-christmas-and-new-year-flash-drives-promotions-of-2023-zdnet/"><u>Top 44 Unbeatable Christmas & New Year Flash Drives Promotions of 2023 | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-recommended-gaming-monitors-expert-picks-by-zdnet/"><u>Top Recommended Gaming Monitors : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-building-your-dream-gaming-rig-with-ease-pcmag/"><u>Ultimate Guide: Building Your Dream Gaming Rig with Ease | PCMag</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gamers-hidden-gem-the-top-ranked-samsung-projector-for-unbeatable-play-experiences-insider-review/"><u>Unlocking Gamers' Hidden Gem: The Top-Ranked Samsung Projector for Unbeatable Play Experiences - Insider Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-in-depth-steelseries-aerox-5-gaming-mouse-assessment-is-it-overloaded-with-features/"><u>ZDNet's In-Depth SteelSeries AeroX 5 Gaming Mouse Assessment: Is It Overloaded With Features?</u></a></li>
 </ul></div>
 

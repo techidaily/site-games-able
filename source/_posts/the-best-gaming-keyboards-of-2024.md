@@ -1,7 +1,7 @@
 ---
 title: The Best Gaming Keyboards of 2024
-date: 2024-09-30T17:39:55.370Z
-updated: 2024-10-07T19:31:11.808Z
+date: 2024-10-10T08:18:47.979Z
+updated: 2024-10-12T16:44:30.476Z
 tags:
   - games
 categories:
@@ -106,10 +106,16 @@ Best Overall
 ![the budget-friendly roccat magma keyboard sits against an illuminated background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-budget-friendly-roccat-magma-keyboard-sits-against-an-illuminated-background.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ROCCAT
@@ -121,6 +127,13 @@ ROCCAT
  For those who don't want to hear their keyboard, the ROCCAT Magma features silent membrane keys. It's equipped with high-quality rubber domes to ensure silent typing that remains responsive no matter how quickly you type.
 
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### ROCCAT Magma
 
@@ -142,15 +155,28 @@ Best Budget
 
 [$30 at Amazon](https://www.amazon.com/ROCCAT-Membrane-Ergonomic-Detachable-Compatible/dp/B093MH824D?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) [See at Newegg](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.newegg.com%2Fp%2F32N-002T-000C4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best TKL Gaming Keyboard: SteelSeries Apex Pro
 
 ![Close up of the SteelSeries Apex Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/close-up-of-the-steelseries-apex-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -215,16 +241,16 @@ Best for Mac
 
 [$110 at Amazon](https://www.amazon.com/Keychron-Bluetooth-Mechanical-Hot-swappable-Tenkeyless/dp/B0875SJ8FN?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best Gaming Keyboard for MMOs: Logitech G915
 
 ![logitech g915 sits on a desk with other rgb accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/logitech-g915-sits-on-a-desk-with-other-rgb-accessories.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Logitech
 
@@ -260,22 +286,15 @@ Best for MMOs
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q: What's the difference between a gaming keyboard and a regular keyboard?
 
  The most prominent differences between gaming keyboards and regular keyboards are that gaming keyboards are sturdier, generally provide better tactile feedback, cause less typing strain, and often include extra features like macro keys tailored for gamers. They aren't required, but gaming keyboards make video games significantly better.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: What is a mechanical keyboard, and why is it better for gaming?
@@ -285,13 +304,6 @@ Best for MMOs
 ### Q: Which mechanical switches are best for gaming?
 
  Some of the best mechanical switches for gaming include red switches, which provide little-to-no resistance; brown switches, which provide light tactile feedback; and blue switches, which provide medium tactile feedback. Some of the other[popular mechanical keyboard switch types](https://www.makeuseof.com/most-popular-mechanical-keyboard-switches-how-they-impact-gaming/) include black switches, lekker switches, and speed silvers.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: What does TKL mean?
 
@@ -312,17 +324,21 @@ Best for MMOs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-curating-striking-instagram-profile-photos/"><u>[New] In 2024, Curating Striking Instagram Profile Photos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-2023-dive-into-apeaksofts-video-capture-marvels/"><u>[New] In 2024, The 2023 Dive Into Apeaksoft’s Video Capture Marvels</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-the-time-gap-in-social-storytelling-on-fb-pcmobile-for-2024/"><u>[Updated] Bridging the Time Gap in Social Storytelling on FB, PC/Mobile for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[Updated] Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/ejecting-issues-focus-on-your-series-x-console-fix/"><u>Ejecting Issues? Focus on Your Series X Console Fix</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-a-secondary-laptop-display-for-xbox/"><u>Enhancing Gameplay with a Secondary Laptop Display for Xbox</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhancing-photo-views-in-windows-11-filter-plus-music-integration-for-2024/"><u>Enhancing Photo Views in Windows 11 Filter + Music Integration for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-steam-connectivity-woes-in-windows-11/"><u>Fixing Steam Connectivity Woes in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/kostenloos-omzetten-van-arw-naar-tiff-mogelijkheid-voor-professionals-met-movavis-digitaal-converter-enzovoort/"><u>Kostenloos Omzetten Van ARW Naar TIFF: Mogelijkheid Voor Professionals Met Movavi's Digitaal Converter Enzovoort</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcome-muffled-gaming-experience-reconnecting-solutions/"><u>Overcome Muffled Gaming Experience: Reconnecting Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-slow-computer-performance-master-the-art-of-revouninstaller/"><u>Revitalize Slow Computer Performance - Master the Art of RevoUninstaller</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/alculator-projected-profits-from-youtube/"><u>[New] Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-roadblocks-in-forza-horizon-5-a-guide-to-fixing-endless-startup-loads/"><u>Clearing Roadblocks in Forza Horizon 5: A Guide to Fixing Endless Startup Loads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/connect-your-iphone-to-pc-a-step-by-step-guide-on-turning-it-into-a-usb-flash-drive/"><u>Connect Your iPhone to PC: A Step-by-Step Guide on Turning It Into a USB Flash Drive</u></a></li>
+<li><a href="https://games-able.techidaily.com/flawed-findings-challenging-the-reliability-of-critics/"><u>Flawed Findings: Challenging the Reliability of Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-league-of-legends-not-opening-or-stuck-on-the-loading-screen-on-windows/"><u>How to Fix League of Legends Not Opening or Stuck on the Loading Screen on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-gpu-for-you-nvidia-fe-vs-asus-brand-graphics/"><u>Ideal GPU for You: Nvidia FE Vs. ASUS Brand Graphics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovating-education-with-virtual-immersion-for-2024/"><u>Innovating Education with Virtual Immersion for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/insight-into-lgs-360-camera-updates-and-features-for-todays-photographers-for-2024/"><u>Insight Into LG's 360 Camera Updates and Features for Today's Photographers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-games-secret-on-steam-platforms/"><u>Keep Games Secret on Steam Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-sync-best-logitech-mice-on-market/"><u>Perfect Sync: Best Logitech Mice on Market</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-with-canon-imageclass-mf4800-fetch-your-required-drivers-here/"><u>Quick Setup with Canon ImageCLASS MF4800 - Fetch Your Required Drivers Here</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-qn55q60rafxza-in-depth-analysis-of-a-top-tier-4k-uhd-smart-tv-with-hdr10plus/"><u>Samsung QN55Q60RAFXZA - In-Depth Analysis of a Top-Tier 4K UHD Smart TV with HDR10+</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-social-gaming-essential-cross-platform-titles/"><u>Seamless Social Gaming: Essential Cross-Platform Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-choosing-premier-discord-servers/"><u>Tips for Choosing Premier Discord Servers</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/transitioning-from-obstacles-to-outcomes-exploring-alternatives-to-datto/"><u>Transitioning From Obstacles to Outcomes: Exploring Alternatives to Datto</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 

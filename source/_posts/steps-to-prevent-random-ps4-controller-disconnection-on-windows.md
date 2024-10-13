@@ -1,7 +1,7 @@
 ---
 title: Steps to Prevent Random PS4 Controller Disconnection on Windows
-date: 2024-10-05T17:01:26.283Z
-updated: 2024-10-07T16:26:05.505Z
+date: 2024-10-11T21:22:52.471Z
+updated: 2024-10-13T00:34:10.996Z
 tags:
   - games
 categories:
@@ -29,29 +29,42 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Port Issues
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Controller's Range Issues
 
  If you're using the controller wirelessly with the DS4Windows app, then make sure you're within Bluetooth range. We recommend being within 10 feet of your computer. If the controller keeps disconnecting, try moving closer, and if it continues when you're too close, then it's probably not a range issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Rule Out Issues on the OS Side
 
@@ -67,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
 
 ## 6\. Update Your Controller's Drivers
@@ -82,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![the Wireless Controller in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wireless-controller-in-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you update the driver, check if you can use the controller properly without it disconnecting.
 
 ## 6\. Ensure DS4Windows Is Properly Installed
@@ -89,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  Many Windows users use the[DS4Windows](https://ds4-windows.com/) app to connect their controller to a computer. But if it has glitched out, you should try updating it and see if that resolves the issue. To do that, go to the folder where you installed DS4Windows and double-click on the**DS4Updater.exe** file.
 
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
 
@@ -118,20 +124,24 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-calming-harmonics-windowsmac-direction/"><u>[New] Calming Harmonics Windows/Mac Direction</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-cutting-edge-broadcasting-the-social-media-screen-share-for-2024/"><u>[New] Cutting Edge Broadcasting The Social Media Screen Share for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-synching-iphone-vids-with-ease-and-precision/"><u>[New] Synching iPhone Vids with Ease and Precision</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-expert-insights-maximizing-engagement-with-hashtags-on-instagram-for-2024/"><u>[Updated] Expert Insights Maximizing Engagement with Hashtags on Instagram for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-7a-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 7a</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-a-superior-fpv-drone-setup-choosing-right-propellers-for-2024/"><u>Crafting a Superior FPV Drone Setup Choosing Right Propellers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-retro-gaming-the-ultimate-selection-of-ps3-emulators-for-pc/"><u>Dive Into Retro Gaming: The Ultimate Selection of PS3 Emulators for PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-ahead-are-early-patches-worth-the-hype/"><u>Game Ahead: Are Early Patches Worth the Hype?</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-epic-and-gog-games-on-steam-deck/"><u>Mastering Epic and GOG Games on Steam Deck</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavigifmp4/"><u>Movaviを使って無料でGIF画像をMP4動画に変換する方法</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-your-playstation-account/"><u>Optimizing Your PlayStation Account</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-for-troubleshooting-display-driver-not-launching-in-windows-11/"><u>Solutions for Troubleshooting Display Driver Not Launching in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-ps5-overhaul-unveiling-the-top-9-must-have-traits/"><u>The Ultimate PS5 Overhaul: Unveiling the Top 9 Must-Have Traits</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unlikely-path-for-gamefi-in-gaming-culture/"><u>The Unlikely Path for GameFi in Gaming Culture</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/xbox-one-disc-error-troubleshooting-latest-solutions-for-reading-problems-as-of-april-2024/"><u>Xbox One Disc Error Troubleshooting - Latest Solutions for Reading Problems as of April 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chortle-calls-greatest-funny-ringtone-hubs/"><u>[New] Chortle Calls Greatest Funny Ringtone Hubs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-trending-decor-ideas-for-livestreaming/"><u>[New] Trending Decor Ideas for Livestreaming</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sub-50-mic-selections-for-aspiring-streaming-artists/"><u>[Updated] Sub-$50 Mic Selections for Aspiring Streaming Artists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-djis-edge-shifted-the-ultimate-mavic-air-vs-spark-showdown/"><u>2024 Approved DJI's Edge Shifted The Ultimate Mavic Air Vs. Spark Showdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-windows-7-audio-editing-applications-top-picks-for-quality-recordings/"><u>Best Windows 7 Audio Editing Applications: Top Picks for Quality Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-gaming-inputs-for-console-and-pc-gamers/"><u>Economical Gaming Inputs for Console and PC Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-access-showdown-psplus-vs-xbox-game-pass/"><u>Exclusive Access Showdown: PS+ Vs. Xbox Game Pass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-laptop-keyboard-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fix Laptop Keyboard Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-compression-to-clarity-the-zip-srt-conversion-for-2024/"><u>From Compression to Clarity The ZIP-SRT Conversion for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/insider-knowledge-on-composing-influential-steam-reviews/"><u>Insider Knowledge on Composing Influential Steam Reviews</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/man-down-my-journey-with-snapchat-premium-one-way-ticket/"><u>Man Down! My Journey with Snapchat Premium - One-Way Ticket!</u></a></li>
+<li><a href="https://games-able.techidaily.com/membership-misconceptions-the-true-cost-of-games/"><u>Membership Misconceptions: The True Cost of Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-breakthroughs-celebrated-by-makeuseof/"><u>MWC Breakthroughs: Celebrated by MakeUseOf</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/orchestrate-a-photo-symphony-for-artistic-expression/"><u>Orchestrate a Photo Symphony for Artistic Expression</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-100-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-and-survive-4-ai-powered-online-mysteries/"><u>Solve and Survive: 4 AI-Powered Online Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecnos-smarter-design-more-vibrant-appeal/"><u>Tecno's Smarter Design, More Vibrant Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-ai-companions-elevating-live-streaming-on-twitch/"><u>Top 7 AI Companions Elevating Live Streaming on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-the-2-year-oled-monitor-life/"><u>Unlocking Full Potential: The 2-Year OLED Monitor Life!</u></a></li>
 </ul></div>
 

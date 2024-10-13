@@ -1,7 +1,7 @@
 ---
 title: With the PS5 Shortage Over, Will the Price of the PlayStation 5 Drop?
-date: 2024-10-05T16:23:01.800Z
-updated: 2024-10-07T16:08:16.865Z
+date: 2024-10-08T20:47:10.877Z
+updated: 2024-10-12T19:50:19.526Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stores May Have to Drop Prices to Be Competitive
 
  With PS5 consoles becoming available in more locations, individual stores will likely drop prices to compete with each other. While the reductions may not be much, stores have a certain amount of wiggle room between cost-price and RRP that they could utilize to offer gamers a small discount without running at a loss.
@@ -44,10 +51,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
  The issue here, however, is that most of the money in gaming is made from extended warranties and games rather than the consoles themselves, so any savings would be minimal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## However, the PS5 Slim Could Keep Prices High
@@ -56,16 +63,16 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## PS5 Prices Have Actually Risen in Recent Years
 
@@ -81,13 +88,6 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ![Marvels Spider Man 2 PS5 Bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/marvels-spider-man-2-ps5-bundle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Walmart](https://www.walmart.com/ip/PlayStation-5-Disc-Console-Marvel-s-Spider-Man-2-Bundle/5081658627?athbdg=L1102&from=/search)
 
  Offering console and game bundles would be a safer and more predictable move for Sony. The PS5 is no stranger to these, with Horizon Forbidden West and Marvel’s Spider-Man 2 bundles available at the time of writing.
@@ -95,10 +95,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
  While there has been no confirmation of a PS5 console and game bundle with a significantly reduced price, the idea of Sony throwing in a game to sweeten the deal is a more realistic expectation than a standalone price drop for the console itself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The PS5 Saga Continues One Step at a Time
@@ -120,22 +120,22 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ensuring-compliance-with-fb-messenger-call-records/"><u>[New] Ensuring Compliance with FB Messenger Call Records</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-gain-recovery-of-personal-snapshots-for-2024/"><u>[New] Gain Recovery of Personal Snapshots for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>[Updated] Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/absurd-adventures-a-compilation-of-extraordinary-tiktok-games-for-2024/"><u>Absurd Adventures A Compilation of Extraordinary TikTok Games for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-into-the-game-after-fatigue-episodes/"><u>Easing Into the Game After Fatigue Episodes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-top-game-graphics-by-updating-to-the-newest-geforce-gtx-1660-ti-software/"><u>Get Top Game Graphics by Updating to the Newest GeForce GTX 1660 Ti Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt4all-demystified-operation-insights/"><u>GPT4All Demystified: Operation Insights</u></a></li>
-<li><a href="https://techtrends.techidaily.com/instacaptioning-made-easy-a-tutorial-for-enhancing-stories-with-text/"><u>InstaCaptioning Made Easy - A Tutorial for Enhancing Stories with Text</u></a></li>
-<li><a href="https://games-able.techidaily.com/interacting-with-chatgpt-the-art-of-creating-compelling-text-adventures/"><u>Interacting with ChatGPT: The Art of Creating Compelling Text Adventures</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-screen-not-working-here-are-7-possible-explanations/"><u>IPhone Screen Not Working? Here Are 7 Possible Explanations</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfecting-audio-quality-a-no-mic-approach/"><u>Perfecting Audio Quality A No-Mic Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/securely-deleting-old-ps5-backup-games/"><u>Securely Deleting Old PS5 Backup Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-bp-mode-stop-it-from-failing/"><u>Steam BP Mode: Stop It From Failing</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-gaming-keypads-of-2024/"><u>The Best Gaming Keypads of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-steam-deck-list/"><u>The Ultimate Steam Deck List</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-warzone-the-top-10-free-online-fps-games-on-the-web/"><u>Ultimate Warzone: The Top 10 Free Online FPS Games on the Web</u></a></li>
-<li><a href="https://games-able.techidaily.com/worried-about-your-kids-on-discord-heres-what-you-can-do-to-keep-them-safe/"><u>Worried About Your Kids on Discord? Here’s What You Can Do to Keep Them Safe</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-innovative-pathways-broadcasting-facebook-videos-via-whatsapp/"><u>[New] 2024 Approved Innovative Pathways Broadcasting Facebook Videos via WhatsApp</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-breakthrough-techniques-for-enhancing-video-quality-in-meet-for-2024/"><u>[New] Breakthrough Techniques for Enhancing Video Quality in Meet for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-glamour-unleashed-comprehensive-youtube-guide-to-elegance/"><u>[Updated] In 2024, Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>Audio Amplified Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472356684-download-and-set-up-your-tiktok-account/"><u>Download and Set Up Your TikTok Account</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-silent-slack-alerts-a-win-11-strategy-guide/"><u>Enhance Silent Slack Alerts: A Win 11 Strategy Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/gba-revival-linux-terminal-based-operations/"><u>GBA Revival: Linux Terminal-Based Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-offline-the-ultimate-collection-of-phone-and-tablet-games/"><u>Go Offline: The Ultimate Collection of Phone & Tablet Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-maximize-your-xbox-experience-without-controllers/"><u>How to Maximize Your Xbox Experience without Controllers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/investigating-technical-hurdles-understanding-why-wolcen-lords-of-mayhem-launch-was-postponed/"><u>Investigating Technical Hurdles: Understanding Why 'Wolcen: Lords of Mayhem' Launch Was Postponed</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-the-world-of-mech-keys-for-gamers/"><u>Navigating Through the World of Mech Keys for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/simple-ways-to-reboot-the-steam-app/"><u>Simple Ways to Reboot the Steam App</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscription-skirmish-determining-the-top-console-service/"><u>Subscription Skirmish: Determining the Top Console Service</u></a></li>
+<li><a href="https://driver-error.techidaily.com/swift-fixes-bluetooth-radios-on-windows-resolved/"><u>Swift Fixes: Bluetooth Radios on Windows Resolved</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-power-of-meta-interpretation-and-compliance-in-games/"><u>The Power of 'Meta': Interpretation & Compliance in Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-duo-adventure-joining-forces-with-a-friend-in-the-world-of-pokemon-go/"><u>The Ultimate Duo Adventure: Joining Forces with a Friend in the World of 'Pokémon Go'</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-retro-connectors-with-modern-oled-switch/"><u>Uniting Retro Connectors with Modern OLED Switch</u></a></li>
 </ul></div>
 

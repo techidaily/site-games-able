@@ -1,7 +1,7 @@
 ---
 title: Uninstalling & Redownloading for a Clean Slate
-date: 2024-10-03T19:23:34.612Z
-updated: 2024-10-07T19:13:18.544Z
+date: 2024-10-12T09:25:57.767Z
+updated: 2024-10-13T12:37:25.097Z
 tags:
   - games
 categories:
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
  Deleting a game on your PS5 removes it from your system, but your saved data is stored elsewhere on your console. Deleting your saved data is a whole other process, and it’s one that you cannot do on accident.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Delete a Game on My PS5?
 
  If you have been playing the game you want to delete recently, and it’s still on your home page, all you need to do is hover over the**game's icon** , press the**Options button** on your controller, and press**Delete** . The game will then be removed from your system, leaving you free to replace it with something else.
@@ -38,35 +51,21 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![delete game from home screen menu PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-home-screen-menu-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Only the most recently played games appear on your home screen. If the game isn’t on your home screen anymore, scroll to the right and open your**Game Library** . Make sure you’re on the**Installed** tab, find your game, press the options button on your controller, and select**Delete** .
 
 ![Delete Game from Game Library PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-game-library-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re having trouble finding the exact game you’re looking for, you can also scroll to the right and select the icon with a downward arrow to utilize the**Sort by** filters. You can sort your games by alphabetical order, from oldest to newest, or even by size to help you find what you’re looking for.
 
 ![Sory by Menu PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sory-by-menu-ps5.jpg)
 
  Of course, not having to go through this process every time you want to download a new game is one of the many[reasons to purchase an SSD for your PS5](https://www.makeuseof.com/you-should-buy-a-second-ps5-ssd-reasons-why/) . If you are tired of not having enough space and would prefer all your games on your console at once, you can purchase an[internal or external SSD for your PS5](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) to expand your storage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do I Redownload a Game on My PS5?
 
@@ -77,13 +76,20 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 ![Redownload Game PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/redownload-game-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can check the progress of your download by heading to your**Downloads/Uploads** section. There you can see it downloading in real time, and view an approximate time frame for your download.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don’t Let Limited Space Prevent You From Playing New PS5 Games
 
@@ -106,17 +112,17 @@ thumbnail: https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-guide-to-recording-gotomeet-sessions/"><u>[New] In 2024, Essential Guide to Recording GoToMeet Sessions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-cutting-edge-hexadrones-leaderboard/"><u>[Updated] 2024 Approved Cutting-Edge HexaDrones Leaderboard</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ace-trackers-our-top-five-games/"><u>[Updated] Ace Trackers Our Top Five Games</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1725287532206-ai/"><u>AIができる！動画のフレーム補完手引き - 最新技術で見事なクオリティアップ</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-defy-2-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Defy 2 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-versatranquility-of-gaming-without-a-controller/"><u>Discover the Versatranquility of Gaming Without a Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-one-continent-to-another-on-your-nintendo-switch/"><u>From One Continent to Another on Your Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/full-fledgon-baldurs-gate-3-playing-it-smoothly-on-macos/"><u>Full-Fledgon Baldur's Gate 3: Playing It Smoothly on macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-why-i-subscribe-to-apple-arcade-for-mobile-games/"><u>Here's Why I Subscribe to Apple Arcade for Mobile Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-g310-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia G310 without App | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-free-endings-that-wow-ranked-for-you-top-6/"><u>In 2024, Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-8-essentials-for-navigating-ny-times-connections/"><u>The 8 Essentials for Navigating NY Times Connections</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-capturing-made-easy-best-apps-for-windows-10/"><u>[New] Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfecting-ephemeral-fades-in-digital-recording-software-audacity/"><u>[Updated] In 2024, Perfecting Ephemeral Fades in Digital Recording Software Audacity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweeting-tiktoks-made-easy/"><u>[Updated] In 2024, Tweeting TikToks Made Easy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-splitcam-review/"><u>[Updated] SplitCam Review</u></a></li>
+<li><a href="https://win-superb.techidaily.com/effortless-strategies-to-block-spam-in-your-primary-email-no-need-for-multiple-accounts-zdnet-expert-advice/"><u>Effortless Strategies to Block Spam in Your Primary Email: No Need for Multiple Accounts! [ZDNet Expert Advice]</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-setup-switches-flicker-and-click/"><u>Game Setup SWITCHES: Flicker and Click</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-90-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/al-recorders-top-10-tools-for-webinars/"><u>Optimal Recorders Top 10 Tools for Webinars</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-and-personalize-top-settings-for-every-switcher/"><u>Optimize and Personalize: Top Settings for Every Switcher</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-console-simulators-for-mac-users/"><u>Prime Console Simulators for Mac Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-powerhouse-pc-dell-alienware-aurora-r9-review-the-ultimate-gaming-experience-redefined/"><u>Unboxing the Powerhouse PC: Dell Alienware Aurora R9 Review - The Ultimate Gaming Experience Redefined</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-mysteries-in-browser-based-quests/"><u>Unravel Mysteries in Browser-Based Quests</u></a></li>
 </ul></div>
 

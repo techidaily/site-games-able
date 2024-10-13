@@ -1,7 +1,7 @@
 ---
 title: Why I Now Question My RTX 4090 Spending
-date: 2024-10-03T16:55:51.114Z
-updated: 2024-10-07T16:33:04.191Z
+date: 2024-10-08T21:43:07.590Z
+updated: 2024-10-12T19:13:34.719Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 * [Power Consumption Is Very High](#power-consumption-is-very-high)
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The games I normally play don't utilize my RTX 4090 fully, and my CPU holds its performance back at 1440p resolution.
@@ -34,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
@@ -60,21 +61,7 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
 
@@ -87,15 +74,22 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
 
@@ -122,22 +116,19 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-10-best-video-player-apps-for-iphone-and-ipad-for-2024/"><u>[New] 10 Best Video Player Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-online-services-for-youtube-subtitles-download-for-2024/"><u>[New] Free Online Services for YouTube Subtitles Download for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-proven-techniques-for-enhancing-viewability-of-participants-in-google-meets-for-2024/"><u>[New] Proven Techniques for Enhancing Viewability of Participants in Google Meets for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/elf-portraits-for-social-media-success-for-2024/"><u>[New] Self-Portraits for Social Media Success for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-constructing-unique-instagram-story-panels/"><u>[Updated] 2024 Approved Constructing Unique Instagram Story Panels</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ultimate-guide-to-virtual-reality-gaming-gear/"><u>2024 Approved Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
-<li><a href="https://games-able.techidaily.com/finest-budget-friendly-whitescale-pc-parts-of-2023/"><u>Finest Budget-Friendly Whitescale PC Parts of 2023</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-ensuring-pc-component-harmony/"><u>Guide: Ensuring PC Component Harmony</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-does-apples-game-mode-in-macos-sonoma-work/"><u>How Does Apple's Game Mode in macOS Sonoma Work?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-find-n3-flip-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo Find N3 Flip Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/moveavis-no-cost-online-converter-effortlessly-change-mp4-to-webm-streaming-files/"><u>Moveavi's No-Cost Online Converter: Effortlessly Change MP4 to WebM Streaming Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-unveils-game-streaming-service-but-whats-the-verdict/"><u>Nvidia Unveils Game Streaming Service, But What's the Verdict?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5s-ability-to-run-ps4-games/"><u>PS5's Ability to Run PS4 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconnecting-issues-revive-your-gaming-experience-with-headsets/"><u>Reconnecting Issues? Revive Your Gaming Experience with Headsets</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-selecting-prime-participation-rich-discs/"><u>The Art of Selecting Prime, Participation-Rich Discs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-premiere-pro-template-guide-no-cost-for-2024/"><u>Ultimate Premiere Pro Template Guide - No Cost for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-value-gaming-motherboard-deals/"><u>Ultimate Value Gaming Motherboard Deals</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-quick-fix-valorant-thumbnails-professionally-done-now/"><u>[New] 2024 Approved Quick-Fix Valorant Thumbnails Professionally Done Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-pathway-to-viral-stardom-explained/"><u>[New] Facebook's Pathway to Viral Stardom Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-a-pathway-to-instagram-affordability-through-partnerships-for-2024/"><u>[Updated] Crafting a Pathway to Instagram Affordability Through Partnerships for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-updated-interview-playbook-for-audience-allure-for-2024/"><u>[Updated] Updated Interview Playbook for Audience Allure for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-video-appeal-crafting-unforgettable-thumbnail-images/"><u>Elevate Video Appeal Crafting Unforgettable Thumbnail Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-fixes-for-create-failed-with-code-30005/"><u>Exploring the Fixes for Create Failed with Code 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-device-freeze-code-0x887a0006-in-windows/"><u>Fixing Device Freeze - Code 0X887A0006 in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-grasp-which-control-wins-more/"><u>Gamers' Grasp: Which Control Wins More?</u></a></li>
+<li><a href="https://games-able.techidaily.com/heat-trouble-overclocked-gpu-woes/"><u>Heat, Trouble: Overclocked GPU Woes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-pathway-including-vimeo-videos/"><u>Instagram's Pathway Including Vimeo Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audio-artistry-rendering-and-animating-auditory-data-in-roxio-media-creator/"><u>New Audio Artistry Rendering and Animating Auditory Data in Roxio Media Creator</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-joy-in-portable-gaming-my-commitment-to-apple-arcade/"><u>The Joy in Portable Gaming: My Commitment to Apple Arcade</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-rated-cross-platform-file-synchronization-tools-how-to-effortlessly-transfer-data-between-iphone-and-pc/"><u>Top-Rated Cross-Platform File Synchronization Tools: How to Effortlessly Transfer Data Between iPhone & PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vivacious-verbal-touches-italian-preening-art/"><u>Vivacious Verbal Touches: Italian Preening Art</u></a></li>
 </ul></div>
 

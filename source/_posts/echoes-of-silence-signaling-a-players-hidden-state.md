@@ -1,7 +1,7 @@
 ---
 title: "Echoes of Silence: Signaling a Player's Hidden State"
-date: 2024-10-04T19:52:52.108Z
-updated: 2024-10-07T19:43:46.454Z
+date: 2024-10-06T23:16:58.182Z
+updated: 2024-10-13T01:54:34.925Z
 tags:
   - games
 categories:
@@ -52,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ![A screenshot of the Gamerscore Leaderboard on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3160-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Look through the rankings of you and your friends, looking for an offline friend who has been consistently earning Gamerscore.
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
@@ -75,33 +75,27 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
@@ -123,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
@@ -150,24 +144,18 @@ thumbnail: https://thmb.techidaily.com/a6f140ff4ddda64bd14cec3cab639274aa642e4bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-securing-your-ps4-adventures-with-advanced-recording-for-2024/"><u>[New] Securing Your PS4 Adventures with Advanced Recording for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-comprehensive-but-concise-guide-to-keyers-techniques/"><u>[Updated] 2024 Approved Comprehensive but Concise Guide to Keyers' Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-pinnacle-spotlight-tapes/"><u>[Updated] Pinnacle Spotlight Tapes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok/"><u>[Updated] The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok?</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-essential-websites-to-amplify-youtube-traffic/"><u>2024 Approved Essential Websites to Amplify YouTube Traffic</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enriching-your-storys-personas-with-the-best-gpt-prompts/"><u>Enriching Your Story's Personas with the Best GPT Prompts</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-longevity-tips-for-an-enduring-xbox-control/"><u>Ensuring Longevity: Tips for an Enduring Xbox Control</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/increase-game-frames-per-second-fps-on-pc/"><u>Increase Game Frames per Second (FPS) on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/override-obstructed-operations-open-league-only/"><u>Override Obstructed Operations, Open League Only</u></a></li>
-<li><a href="https://games-able.techidaily.com/taming-background-game-bar-techniques-for-both-editions/"><u>Taming Background Game Bar: Techniques for Both Editions</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-implementing-a-protective-code/"><u>The Ultimate Guide to PS5: Implementing a Protective Code</u></a></li>
-<li><a href="https://games-able.techidaily.com/time-travel-to-the-psp-era-with-your-iphone/"><u>Time Travel to the PSP Era with Your iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshoot-sudden-mouse-scroll-jumps/"><u>Troubleshoot Sudden Mouse Scroll Jumps</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-windows-11-installation-problem-80240020-resolved/"><u>Troubleshooting Step-by-Step: Windows 11 Installation Problem 80240020 Resolved</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-gaming-choice-top-5-retro-handheld-picks/"><u>Ultimate Gaming Choice: Top 5 Retro Handheld Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-samsung-universal-remote-with-any-television/"><u>Ultimate Guide: Connecting Your Samsung Universal Remote with Any Television</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-seekers-ultimate-list-of-vr-gadgets/"><u>Value Seekers' Ultimate List of VR Gadgets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[New] In 2024, How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-nexus-of-networks-merging-instagram-and-tiktok/"><u>[New] Nexus of Networks Merging Instagram and TikTok</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-dataguardian-consultants-insights/"><u>[Updated] In 2024, DataGuardian Consultants Insights</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-high-quality-avi-media-reader-mobile-and-desktop/"><u>[Updated] In 2024, High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brief-cinematic-story-outline/"><u>Brief Cinematic Story Outline</u></a></li>
+<li><a href="https://games-able.techidaily.com/emerging-threat-tactics-require-innovative-strategies-in-cybersecurity-insights-from-zdnet/"><u>Emerging Threat Tactics Require Innovative Strategies in Cybersecurity - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/learn-languages-on-a-budget-best-free-educational-sites-for-multilingual-mastery/"><u>Learn Languages on a Budget: Best Free Educational Sites for Multilingual Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-patient-care-crafting-an-enhanced-online-medical-journey-insights-from-zdnet/"><u>Revolutionizing Patient Care: Crafting an Enhanced Online Medical Journey - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-security-strategies-in-contemporary-large-scale-network-designs-techrepublic/"><u>Revolutionizing Security Strategies in Contemporary Large-Scale Network Designs | TechRepublic</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-interaction-platforms-instead-of-integrated-communication-systems-insights-from-zdnet/"><u>Streamlined Interaction Platforms Instead of Integrated Communication Systems - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-from-telemedicune-understanding-the-broader-horizons-of-virtual-health-solutions/"><u>The Evolution From Telemedicune: Understanding the Broader Horizons of Virtual Health Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pip-blueprint-crafting-compelling-video-presentations-on-macos-for-2024/"><u>The PIP Blueprint Crafting Compelling Video Presentations on macOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-next-gen-synergy-how-mobile-revolutionizes-group-efforts-according-to-zdnet/"><u>Unlocking Next-Gen Synergy: How Mobile Revolutionizes Group Efforts, According to ZDNET</u></a></li>
 </ul></div>
 

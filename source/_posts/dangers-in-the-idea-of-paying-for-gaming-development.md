@@ -1,7 +1,7 @@
 ---
 title: Dangers in the Idea of Paying for Gaming Development
-date: 2024-10-02T19:44:41.769Z
-updated: 2024-10-07T18:23:36.529Z
+date: 2024-10-08T08:39:54.558Z
+updated: 2024-10-13T04:18:37.055Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -50,22 +50,15 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -75,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
@@ -132,21 +132,14 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-videographic-excellence-choose-from-these-7-audios/"><u>[Updated] In 2024, Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-top-methods-for-remotely-podcasting-success/"><u>[Updated] In 2024, The Top Methods for Remotely Podcasting Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-10-mobile-and-desktop-video-chat-apps/"><u>2024 Approved Top 10 Mobile & Desktop Video Chat Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-ai-conversations-with-siri-and-chatgpt-on-iphone/"><u>Enhanced AI Conversations with Siri and ChatGPT on iPhone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratis-online-conversao-de-filmes-e-tv-em-formato-flv-ajuda-profissional-do-movavi/"><u>Grátis Online Conversão De Filmes E TV Em Formato FLV: Ajuda Profissional Do Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-check-a-games-steam-price-history/"><u>How to Check a Game's Steam Price History</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 11 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-v30t-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme V30T Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-efficient-game-pass-controls-in-xsx/"><u>Mastering the Art of Efficient Game Pass Controls in XS/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-savings-extended-nitro-for-the-cost-conscious-user/"><u>Opera GX Savings: Extended Nitro for the Cost-Conscious User</u></a></li>
-<li><a href="https://games-able.techidaily.com/routine-check-how-to-keep-your-ps4-pad-connected-on-windows/"><u>Routine Check: How to Keep Your PS4 Pad Connected on Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/skip-the-hassle-find-4-ringtone-sources-here-for-2024/"><u>Skip the Hassle Find 4 Ringtone Sources Here for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-troubleshooting-for-fixing-playstation-4s-wi-fi-connectivity-problems-guaranteed-solution/"><u>Step-by-Step Troubleshooting for Fixing PlayStation 4'S Wi-Fi Connectivity Problems [Guaranteed Solution]</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-pros-of-google-play-pass-exceeding-its-cons/"><u>The Pros of Google Play Pass Exceeding Its Cons</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-seekers-companion-for-steam-users/"><u>The Seeker's Companion for Steam Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-full-potential-of-nintendo-and-mac/"><u>Unlock the Full Potential of Nintendo & Mac</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a15-4g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A15 4G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-critique-why-cities-skylines-captivates-as-the-ultimate-city-planning-adventure/"><u>Expert Critique: Why Cities: Skylines Captivates as the Ultimate City Planning Adventure</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-it-overcoming-the-challenge-of-an-unresponsive-backspace-button/"><u>Fix It! Overcoming the Challenge of an Unresponsive Backspace Button</u></a></li>
+<li><a href="https://win-able.techidaily.com/jane-austens-pride-and-prejudice/"><u>Jane Austen's Pride and Prejudice</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsungs-latest-game-changer-odyssey-g95-neo-4k-display-hits-1300-price-tag-at-best-buy-zdnet-insights/"><u>Samsung's Latest Game-Changer: Odyssey G95 Neo 4K Display Hits $1,300 Price Tag at Best Buy | ZDNet Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-the-hp-victus-15-top-tier-gaming-laptop-now-discounted-by-330-at-best-buy-learn-why-it-stands-out/"><u>Save Big on the HP Victus 15: Top-Tier Gaming Laptop Now Discounted by $330 at Best Buy – Learn Why It Stands Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-discounted-nintendo-switch-oled-save-60-exclusive-walmart-offer-this-labor-day-featured-by-zdnet/"><u>Secure Your Discounted Nintendo Switch OLED - Save $60! Exclusive Walmart Offer This Labor Day, Featured by ZDNet.</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-televisions-featuring-the-best-value-under-a-grand-comprehensive-evaluation-by-experts-zdnet/"><u>Top-Rated Televisions Featuring the Best Value Under a Grand: Comprehensive Evaluation by Experts | ZDNet</u></a></li>
 </ul></div>
 

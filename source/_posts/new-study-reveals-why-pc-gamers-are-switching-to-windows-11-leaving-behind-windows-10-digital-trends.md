@@ -1,7 +1,7 @@
 ---
 title: New Study Reveals Why PC Gamers Are Switching to Windows 11, Leaving Behind Windows 10 | Digital Trends
-date: 2024-09-18T17:18:54.615Z
-updated: 2024-09-21T02:29:58.842Z
+date: 2024-10-07T16:36:51.963Z
+updated: 2024-10-13T12:28:36.176Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,24 +92,18 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -147,5 +155,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-art-of-spinning-indie-podcast-hits/"><u>[New] 2024 Approved The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-livestream-providers-the-ultimate-list/"><u>[New] In 2024, Essential Livestream Providers The Ultimate List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pixelflame-recorders-for-firefox/"><u>[New] PixelFlame Recorders for Firefox</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-prime-picks-excellent-mac-based-video-snatchers-for-2024/"><u>[New] Prime Picks Excellent Mac-Based Video Snatchers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-peak-of-digital-preservation-elite-storage-guide/"><u>2024 Approved Peak of Digital Preservation Elite Storage Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/desvendando-o-mp4-todos-os-passos-para-abrimir-esse-formato-comum/"><u>Desvendando O MP4 - Todos Os Passos Para Abrimir Esse Formato Comum</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-link-your-xbox-one-controller/"><u>Effortlessly Link Your Xbox One Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighting-formats-face-off-arcade-stick-vs-controllers/"><u>Fighting Formats Face-Off: Arcade Stick Vs. Controllers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-default-to-different-mastering-font-customization-on-your-windows-11-system/"><u>From Default to Different: Mastering Font Customization on Your Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-alternatives-shining-bright-like-nvidias-4060-ti/"><u>GPU Alternatives Shining Bright Like Nvidia's 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-nintendo-switch-controls-top-gear-guide/"><u>Innovative Nintendo Switch Controls – Top Gear Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-chatgpts-world-a-comprehensive-tutorial-for-roleplayers/"><u>Navigating ChatGPT's World: A Comprehensive Tutorial for Roleplayers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scam-alert-fake-gpt-programs-may-lead-to-privacy-breaches/"><u>Scam Alert: Fake GPT Programs May Lead to Privacy Breaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/sifting-through-value-in-ea-play-service/"><u>Sifting Through Value in EA Play Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-optimize-the-lastingness-of-your-gaming-controller/"><u>Techniques to Optimize the Lastingness of Your Gaming Controller</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-leading-list-where-to-find-gamers-music-without-costs/"><u>The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-controlling-discords-gaming-ui/"><u>Tips for Controlling Discord's Gaming UI</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-redmi-k70e-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Redmi K70E FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unexpected-pleasures-the-indie-game-selection-journey/"><u>Unexpected Pleasures: The Indie Game Selection Journey</u></a></li>
+</ul></div>
 

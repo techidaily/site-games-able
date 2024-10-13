@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on the Latest Tech: HP's New Victus 15L Gaming Rig Reduced to an Unbeatable Price of Just $480!"
-date: 2024-09-14T19:48:54.326Z
-updated: 2024-09-20T19:25:50.355Z
+date: 2024-10-09T20:08:27.594Z
+updated: 2024-10-13T10:59:15.552Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +96,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +146,22 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-engage-fans-through-real-time-streams-mobile-edition/"><u>[New] 2024 Approved How to Engage Fans Through Real-Time Streams Mobile Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tunefabs-top-screen-recorder-picks-for-2024/"><u>[New] Tunefab's Top Screen Recorder Picks for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-creating-compelling-sports-content-from-the-ground-up/"><u>[Updated] Creating Compelling Sports Content From the Ground Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-still-use-chatgpt-discover-five-reliable-ways-to-confirm-its-status/"><u>Can You Still Use ChatGPT? Discover Five Reliable Ways to Confirm Its Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-card-choices-for-design-enthusiasts/"><u>Cost-Effective Card Choices for Design Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-super-nitro-upgrade/"><u>Deciding on Super Nitro Upgrade</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-enhanced-security-with-the-budget-friendly-remobell-video-doorbell-review/"><u>Experience Enhanced Security with the Budget-Friendly RemoBell Video Doorbell Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-ev-chargers-on-google-maps-a-comprehensive-guide/"><u>Finding EV Chargers on Google Maps: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-alliance-launchpad-for-series-x-clubs/"><u>Gamers' Alliance: Launchpad for Series X Clubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-order-upgrading-your-cpu-or-gpu-first/"><u>Optimal Order: Upgrading Your CPU or GPU First</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153085215-revelations-in-technology-youve-overlooked-top-4-must-have-knowledge/"><u>Revelations in Technology You've Overlooked - Top 4 Must-Have Knowledge</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-play-switch-games-on-a-mac/"><u>Seamlessly Play Switch Games on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-playlist-privately/"><u>Secure Your Playlist Privately</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-on-setting-up-mkv-video-streaming/"><u>Step-by-Step Instructions on Setting Up MKV Video Streaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-reader-software-u-are-u-fpr-version-450x/"><u>Upgrade Reader Software: U-Are-U FPR Version 4.50X</u></a></li>
+</ul></div>
 

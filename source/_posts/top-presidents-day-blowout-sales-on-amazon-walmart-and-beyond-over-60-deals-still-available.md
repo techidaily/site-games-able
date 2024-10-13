@@ -1,7 +1,7 @@
 ---
 title: Top President's Day Blowout Sales on Amazon, Walmart & Beyond - Over 60 Deals Still Available!
-date: 2024-09-19 22:43:23
-updated: 2024-09-20 11:58:58
+date: 2024-10-09T02:28:10.963Z
+updated: 2024-10-13T10:41:48.117Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,25 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-pathway-best-7-platforms-turning-art-into-nfts/"><u>[New] The Ultimate Pathway Best 7 Platforms Turning Art Into NFTs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-complete-guide-for-powerdirector-experts-2024/"><u>[Updated] Complete Guide for PowerDirector Experts - 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-control-over-your-ig-content-exposure-for-2024/"><u>[Updated] Control Over Your IG Content Exposure for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-5-digital-recorder-selects/"><u>2024 Approved Best 5 Digital Recorder Selects</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/choosing-your-tablet-wisely-in-depth-analysis-of-ipad-vs-ipad-air-features/"><u>Choosing Your Tablet Wisely: In-Depth Analysis of iPad Vs. IPad Air Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-gaming-tech-with-nintendo-switch-oled-discounted-by-60-this-labor-day-only-at-walmart-zdnet-news/"><u>Get Your Hands on the Latest Gaming Tech with Nintendo Switch OLED Discounted by $60 This Labor Day, Only at Walmart | ZDNET News.</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-releases-the-playstation-5-pro-key-specifications-cost-details-launch-timeline-and-comprehensive-insights-covered-by-zdnet/"><u>Sony Releases the PlayStation 5 Pro: Key Specifications, Cost Details, Launch Timeline, and Comprehensive Insights Covered by ZDNet</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/starting-conversation-in-japan-essential-on-calls/"><u>Starting Conversation in Japan: Essential On-Calls</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-2023s-premium-gamer-headsets-exploring-the-offers-from-hyperx-steelseries-and-competitors-pcmag-review/"><u>Ultimate Guide to 2023'S Premium Gamer Headsets: Exploring the Offers From HyperX, SteelSeries, and Competitors | PCMag Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-android-12s-gaming-boost-enhancements-and-tips-zdnet/"><u>Understanding Android 12'S Gaming Boost: Enhancements & Tips | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-thrills-in-the-world-of-arcade-games-a-deep-dive-into-the-most-captivating-cabinet/"><u>Unmatched Thrills in the World of Arcade Games: A Deep Dive Into the Most Captivating Cabinet!</u></a></li>
+</ul></div>
+

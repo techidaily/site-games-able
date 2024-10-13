@@ -1,7 +1,7 @@
 ---
 title: Why the Latest Increase Drives Me Away From EA
-date: 2024-10-06T16:17:22.914Z
-updated: 2024-10-07T18:09:44.680Z
+date: 2024-10-11T17:53:16.315Z
+updated: 2024-10-13T03:52:52.736Z
 tags:
   - games
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 * [Other Gaming Subscriptions Offer Better Value for Money](#other-gaming-subscriptions-offer-better-value-for-money)
 * [I Can Get EA Play With Xbox Game Pass](#i-can-get-ea-play-with-xbox-game-pass)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * EA Play prices globally are increasing, making the service less cost-effective.
@@ -42,9 +35,23 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  EA Play subscribers received an email from the company in April 2024 announcing a price increase for its subscription services. While I've been using the service since 2019, when it was still called EA Origin, this price increase is finally causing me to end my subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## EA Play Prices Are Increasing Globally
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. EA Isn't Adding New Perks and Features
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
  For example, if you have a PlayStation 5, you can[get a PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) and enjoy hundreds of games, including several PlayStation exclusives.
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
@@ -142,21 +142,18 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-exploring-advanced-gameplay-with-kinemaster-on-android-for-2024/"><u>[New] Exploring Advanced Gameplay with KineMaster on Android for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-precision-in-action-3-methods-for-gaming-footage/"><u>[New] In 2024, Precision in Action 3 Methods for Gaming Footage</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/cookiebot-your-gateway-to-dynamic-user-experience-and-data-collection/"><u>Cookiebot: Your Gateway to Dynamic User Experience and Data Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-choices-for-xbox-gameplay-capture/"><u>Excellent Choices for Xbox Gameplay Capture</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-fortnites-territory-in-virtual-reality-via-mobile/"><u>Explore Fortnite's Territory in Virtual Reality via Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/geforce-now-passes-aimed-at-serious-gamers/"><u>GeForce NOW Passes - Aimed at Serious Gamers?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuitement-convertir-des-fichiers-wmv-en-mpeg-de-maniere-securisee-avec-des-services-en-ligne-movavi/"><u>Gratuitement Convertir Des Fichiers WMV en MPEG De Manière Sécurisée Avec Des Services en Ligne - Movavi</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>In 2024, Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-the-investment-in-sound-quality-ranked-list-of-excellent-no-cost-and-full-priced-podcast-editors/"><u>In 2024, The Investment in Sound Quality Ranked List of Excellent, No-Cost and Full-Priced Podcast Editors</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-joyful-gaming-landscapes-all-free/"><u>Journey Through Joyful Gaming Landscapes (All Free!)</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-diy-xbox-controller-repairs/"><u>Master the Art of DIY Xbox Controller Repairs</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/new-windows-11-features-include-simplified-transfer-from-android-devices-enhanced-speech-to-text-functionality/"><u>New Windows 11 Features Include Simplified Transfer From Android Devices, Enhanced Speech-to-Text Functionality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/secrets-unveiled-the-ultimate-strategies-for-saving-disco-livestreams/"><u>Secrets Unveiled The Ultimate Strategies for Saving Disco Livestreams</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-audio-in-private-for-xbox-players/"><u>Secure Audio in Private for Xbox Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-popscrackling-sounds-on-your-speakers-for-win-10-or-7/"><u>Troubleshooting and Fixing Pops/Crackling Sounds on Your Speakers for Win 10 or 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-ps5-slim-key-features-inside/"><u>Unveiling PS5 Slim: Key Features Inside</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-way-to-use-zoom-for-skype-for-2024/"><u>[Updated] Best Way to Use Zoom for Skype for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-leveraging-instagram-stories-with-ease-and-flair/"><u>2024 Approved Leveraging Instagram Stories with Ease and Flair</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>2024 Approved The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/encompassing-explanation-what-is-googles-podcast-service/"><u>Encompassing Explanation What Is Google's Podcast Service?</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gameplay-tuning-fps-basics/"><u>Essential Gameplay Tuning: FPS Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-sony-handheld-console-ps-lite/"><u>Exploring the Sony Handheld Console: PS Lite</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-locate-inexpensive-deals-on-gopro-cameras-near-you/"><u>In 2024, Locate Inexpensive Deals on GoPro Cameras Near You</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-list-of-affordable-iphone-collage-creation-apps/"><u>In 2024, The Ultimate List of Affordable, iPhone Collage Creation Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-asus-tuf-proart-vs-prime-brand-analysis/"><u>In-Depth: Asus, Tuf, ProArt Vs. Prime Brand Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-walled-gardens-open-playgrounds-for-all/"><u>No More Walled Gardens: Open Playgrounds For All</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gaming-and-its-stance-on-in-game-purchases/"><u>Premium Gaming and Its Stance on In-Game Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/tie-your-controller-to-your-cell-with-ease/"><u>Tie Your Controller to Your Cell with Ease</u></a></li>
 </ul></div>
 

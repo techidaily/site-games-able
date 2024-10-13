@@ -1,7 +1,7 @@
 ---
 title: Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.
-date: 2024-09-14T00:49:45.912Z
-updated: 2024-09-20T20:27:33.492Z
+date: 2024-10-08T08:44:07.433Z
+updated: 2024-10-12T22:25:13.211Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -85,16 +99,16 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
+<span id="1424533">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -147,5 +161,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-combine-videos-on-iphone/"><u>[New] How to Combine Videos on iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hp-envy-27-leading-edge-4k-monitor-review/"><u>[New] HP Envy 27 Leading Edge 4K Monitor Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-earnings-in-cosmetic-videography/"><u>[Updated] 2024 Approved Boosting Earnings in Cosmetic Videography</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/covert-snapsnapper-stealth-techniques-for-picture-capture-for-2024/"><u>Covert SnapSnapper Stealth Techniques for Picture Capture for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-and-resolving-content-file-locked-error/"><u>Deciphering and Resolving Content File Locked Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-service-beginning-for-discontinued-games/"><u>End of Service, Beginning for Discontinued Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-your-fortnite-experience-on-mac-but-keep-an-eye-out/"><u>Enjoy Your Fortnite Experience on Mac – But Keep an Eye Out</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-edge-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Edge 40 Location | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-video-transformations-in-vlc-from-mp4-variety-for-2024/"><u>Navigating Video Transformations in VLC From MP4 Variety for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-battery-life-tips-to-enhance-controllers-endurance/"><u>Preserve Battery Life: Tips to Enhance Controllers' Endurance</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-linking-on-switch-console-96-chars-slightly-over-but-its-close-enough-to-be-considered-within-the-limit-while-maintaining-relevance/"><u>Seamless Controller Linking on Switch Console (96 Chars) – Slightly over, but It's Close Enough to Be Considered Within the Limit While Maintaining Relevance.</u></a></li>
+<li><a href="https://games-able.techidaily.com/slap-yourself-on-the-finger-with-frustrating-funfails/"><u>Slap Yourself on the Finger with Frustrating Funfails</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/sonic-steps-to-better-snapchat-videos-for-2024/"><u>Sonic Steps to Better Snapchat Videos for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/step-by-step-tutorial-how-to-create-audio-visual-screenshots-using-movavi-software/"><u>Step-by-Step Tutorial: How to Create Audio-Visual Screenshots Using Movavi Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-financial-burden-of-immersive-vr-experiences-unveiled/"><u>The Financial Burden of Immersive VR Experiences Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-white-wallet-friendly-tech-of-the-year-2023-edition/"><u>Top White, Wallet-Friendly Tech of the Year - 2023 Edition</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-pro-audio-editing-essentials-top-8-software-for-industry-experts/"><u>Updated In 2024, Pro Audio Editing Essentials Top 8 Software for Industry Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/worldwide-gaming-shift-modify-xbox-timezone-settings/"><u>Worldwide Gaming Shift: Modify Xbox Timezone Settings</u></a></li>
+</ul></div>
 

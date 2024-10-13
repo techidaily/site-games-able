@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Offer: Snag the Nintendo Switch OLED for a Bargain Price of Just $60 This Labor Day - Find Out How on ZDNET!"
-date: 2024-09-19 12:17:24
-updated: 2024-09-20 10:33:12
+date: 2024-10-10T22:05:53.024Z
+updated: 2024-10-13T07:58:25.831Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,28 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-10-best-lightroom-alternatives-free-and-paid/"><u>[Updated] 10 Best Lightroom Alternatives [Free & Paid]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-oneplus-ace-2v-unlock-without-password-by-drfone-android/"><u>5 Solutions For OnePlus Ace 2V Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976542635-amd-rx-amoled-with-drivers-on-windows-111087-heres-your-guide/"><u>AMD RX Amoled with Drivers on Windows 11/10/8/7? Here's Your Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Motorola Edge 40 Neo Phone Without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-offer-score-the-ultimate-bargain-on-a-spectacular-85-inch-tcl-tv-for-under-1k-after-prime-days-end-tech-insider/"><u>Limited Offer: Score the Ultimate Bargain on a Spectacular 85-Inch TCL TV for Under $1K After Prime Day's End | Tech Insider</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsungs-new-odyssey-neo-g9-smartphone-launches-at-a-steep-price-of-1300-on-amazon/"><u>Samsung's New Odyssey Neo G9 Smartphone Launches at a Steep Price of $1,300 on Amazon</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-on-your-favorite-shows-unmissable-labor-day-tv-specials-over-55-zdnets-guide-to-last-minute-deals/"><u>Save on Your Favorite Shows : Unmissable Labor Day TV Specials Over 55 – ZDNET's Guide to Last-Minute Deals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-gamers-handbook-to-supercharged-ark-gameplay-unleashing-maximum-fps-potential-on-pc-setups/"><u>The Gamer's Handbook to Supercharged ARK Gameplay: Unleashing Maximum FPS Potential on PC Setups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-challenge-gpt-against-huggingface/"><u>The Ultimate Challenge: GPT Against HuggingFace</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-video-monetization-dailymotion-vs-youtube/"><u>The Ultimate Guide to Video Monetization Dailymotion Vs. YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-optimized-isps-ranked-by-performance-insights-from-zdnet/"><u>Top 9 Gaming-Optimized ISPs Ranked by Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-free-and-open-source-dns-services-you-can-use/"><u>Top Free & Open Source DNS Services You Can Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-headsets-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Gaming Headsets : Comprehensive Review by Tech Experts | PCMag</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-prime-day-2024-bargains-for-gamers-the-68-hottest-deals-not-yet-snapped-up-zdnet-insider/"><u>Ultimate Prime Day 2024 Bargains for Gamers: The 68 Hottest Deals Not Yet Snapped Up | ZDNET Insider</u></a></li>
+</ul></div>
+

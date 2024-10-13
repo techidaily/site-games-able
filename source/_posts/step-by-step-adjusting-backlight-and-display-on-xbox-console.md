@@ -1,7 +1,7 @@
 ---
 title: "Step by Step: Adjusting Backlight and Display on Xbox Console"
-date: 2024-10-04T17:20:07.693Z
-updated: 2024-10-07T19:14:13.549Z
+date: 2024-10-12T02:23:36.720Z
+updated: 2024-10-12T18:41:07.580Z
 tags:
   - games
 categories:
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
@@ -63,29 +63,29 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 3. Select and check the checkbox next to**Customize brightness** . Doing so highlights the slider for adjusting the console light’s brightness. Unlike the controller light, which has seven different brightness levels, there are only three brightness options for the console’s light. You can either completely turn it off, keep it at a 50% brightness level or increase the brightness to a full 100%.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Xbox customize power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-power-button-brightness-setting-2.jpeg)
 4. Slide the slider left and right using the left thumbstick and leave it on the brightness level that you prefer. Exit the settings menu once you’ve adjusted the brightness according to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy a More Personalized Experience With Your Xbox Controller
@@ -109,20 +109,18 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>[Updated] Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-facebook-linking-method-for-youtube-video-content/"><u>[Updated] Facebook Linking Method for YouTube Video Content</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-highest-rated-10-non-game-screenshot-tools/"><u>[Updated] Highest Rated 10 Non-Game Screenshot Tools</u></a></li>
-<li><a href="https://discover-best.techidaily.com/3-format-auf-windows-11-und-mac-professionelle-losung/"><u>3-Format Auf Windows 11 Und Mac - Professionelle Lösung!</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-expanding-steam-deck-with-sd-card/"><u>Efficiently Expanding Steam Deck with SD Card</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a1x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo A1x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-top-list-best-5-tools-for-creating-talking-avatars/"><u>New 2024 Approved Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-new-era-when-is-it-right-for-rtx/"><u>Nvidia's New Era: When Is It Right for RTX?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps-plus-gaming-life-beyond-subscription-end/"><u>PS Plus Gaming Life Beyond Subscription End</u></a></li>
-<li><a href="https://games-able.techidaily.com/shared-worlds-mastering-2p-gameplay-in-switchs-minecraft/"><u>Shared Worlds: Mastering 2P Gameplay in Switch's Minecraft</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-gpu-troubleshooting-for-the-most-recurrent-cases/"><u>Streamlining GPU Troubleshooting for The Most Recurrent Cases</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-online-retailers-for-video-games-where-to-save-biggest/"><u>Top Online Retailers for Video Games: Where to Save Biggest</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/wireless-or-wired-mastering-the-connection-of-nintendo-switch-with-your-televison/"><u>Wireless or Wired? Mastering the Connection of Nintendo Switch with Your Televison</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-audio-to-art-crafting-music-videos-on-apple-devices/"><u>[Updated] 2024 Approved Audio to Art Crafting Music Videos on Apple Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-why-av1-matters-enabling-it-for-youtube-videos/"><u>[Updated] 2024 Approved Why AV1 Matters Enabling It for YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-tips-15-expertly-chosen-tripods-for-gopro-cameras/"><u>2024 Approved Pro Tips 15 Expertly Chosen Tripods for GoPro Cameras</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v27e-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V27e? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/edges-8-traits-that-shine-for-gamers-worldwide/"><u>Edge's 8 Traits That Shine for Gamers Worldwide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-token-boundaries-with-chatgpt/"><u>Exploring Token Boundaries with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-a-comprehensible-guide-to-cs2-mac/"><u>From Novice to Pro: A Comprehensible Guide to CS2, Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-accessing-your-icloud-gallery-on-multiple-devices/"><u>Master the Art of Accessing Your iCloud Gallery on Multiple Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-game-pass-through-steam-link-and-glossi/"><u>Mastering Xbox Game Pass Through Steam Link & GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5-games-club-selections/"><u>Navigating PS5 Games Club Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-internet-check-out-these-epic-mobile-games/"><u>No Internet? Check Out These Epic Mobile Games</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-dells-sm-bus-controller-firmware/"><u>Step-by-Step Guide: Updating Your Dell's SM Bus Controller Firmware</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategy-meets-speed-the-high-stakes-of-smartphone-tetris/"><u>Strategy Meets Speed: The High-Stakes of Smartphone Tetris</u></a></li>
 </ul></div>
 

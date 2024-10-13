@@ -1,7 +1,7 @@
 ---
 title: Strategies for Purging Unwanted Steam Titles
-date: 2024-10-04T16:53:52.068Z
-updated: 2024-10-07T18:57:02.781Z
+date: 2024-10-05T20:14:44.682Z
+updated: 2024-10-13T10:55:00.727Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 
 ![Hide a Steam game from library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-steam-game-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can hide any game on your Steam account, including installed or uninstalled games. Also, you can hide the single or multiplayer version of the same game.
 
  To access a hidden game, open the**View** menu and click**View hidden games** . If you want to bring the game back to the library's normal view, open the**Settings** menu and click**Manage > Remove from Hidden** .
@@ -60,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ![Unhide a game from Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Uninstall a Game and Reinstall It Later
 
  Sometimes, hiding a game is not enough, as other people can easily find and play it. Now, if you have a game in your library that you still want to play sometime in the future,[you can uninstall that Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Share Your Games
 
@@ -84,22 +98,21 @@ Here’s how you can share your Steam games:
 ![Share your Steam games with friends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-family-sharing-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can authorize your friend’s account if they logged into using the same computer. If they didn’t, you’ll get the “No other local accounts found” message.
 
  Once you add their account, log out of your Steam account. Then, once your friend logs back in, your Steam library titles should be available to download and install.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can You Sell Your Steam Games?
 
@@ -108,13 +121,6 @@ Here’s how you can share your Steam games:
  However, you can still get some of your money back for your Steam games. On the[Steam Community Market](https://www.makeuseof.com/beginners-guide-to-the-steam-community-market/) , you can sell in-game items such as inventory pieces, trading cards, profile wallpapers, and so on. The rarer an item is, the more money you can get for it.
 
  However, you should know that you can only spend the earned money to buy Steam games or other items from the marketplace.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Clear Your Steam Library
 
@@ -137,22 +143,24 @@ Here’s how you can share your Steam games:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-your-videography-best-hd-android-video-apps-guide/"><u>[New] 2024 Approved Elevate Your Videography Best Hd Android Video Apps Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-comprehensive-tips-for-monitoring-subscriber-engagement/"><u>[New] In 2024, Comprehensive Tips for Monitoring Subscriber Engagement</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-youtube-tvs-features-a-beginners-guide/"><u>[Updated] In 2024, Mastering YouTube TV's Features A Beginner's Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-tech-vanguard-apoyser-vs-other-top-screen-capture-tools-for-2024/"><u>[Updated] Tech Vanguard Apoyser vs Other Top Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-efficient-zooming-strategies-for-youtube-videos/"><u>2024 Approved Efficient Zooming Strategies for YouTube Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-steam-and-gog-game-distribution-analysis/"><u>Comparing Steam & GOG: Game Distribution Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-new-realities-in-meta-quest-3/"><u>Discovering New Realities in Meta Quest 3</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-novice-to-pro-streamlining-steam-games-with-meta-quest/"><u>From Novice to Pro: Streamlining Steam Games with Meta Quest</u></a></li>
-<li><a href="https://games-able.techidaily.com/improve-gameplay-and-accuracy-a-comprehensive-guide-to-using-steam-deck-keys/"><u>Improve Gameplay and Accuracy: A Comprehensive Guide to Using Steam Deck Keys</u></a></li>
-<li><a href="https://techtrends.techidaily.com/improving-your-gameplay-disabling-mouse-acceleration-in-windows-11/"><u>Improving Your Gameplay: Disabling Mouse Acceleration in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-a15-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy A15 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinnacle-picture-quality-improving-xbox-series-x/"><u>Pinnacle Picture Quality: Improving Xbox Series X</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pitch-preservation-monitoring-microphones/"><u>Pitch Preservation Monitoring Microphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-non-conformists-guide-to-mastering-nycs-social-networks/"><u>The Non-Conformist’s Guide to Mastering NYC's Social Networks</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011469641-troubleshooting-tips-for-preventing-pc-disruptions-in-fifa-19-play-now-fixed/"><u>Troubleshooting Tips for Preventing PC Disruptions in FIFA 19 Play – Now Fixed</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-revolutionizing-gaming-through-cloud-technology/"><u>Xbox: Revolutionizing Gaming Through Cloud Technology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-perfect-zoom-optimizing-kinemasters-viewer-engagement/"><u>[New] 2024 Approved Perfect Zoom Optimizing Kinemaster's Viewer Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>[New] 2024 Approved Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-7-secure-platforms-for-smaller-companies-for-2024/"><u>[New] Elite 7 Secure Platforms for Smaller Companies for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-passive-viewers-to-profitable-partners-on-vimeo/"><u>[Updated] From Passive Viewers to Profitable Partners on Vimeo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-opening-playing-and-organizing-your-srt-files-efficiently/"><u>[Updated] Opening, Playing, and Organizing Your SRT Files Efficiently</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-open-source-templates-transform-your-youtube-channel/"><u>2024 Approved Open-Source Templates Transform Your YouTube Channel</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-experience-and-space-with-extra-large-front-ends/"><u>Enhance Experience & Space With Extra-Large Front Ends</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-screens-to-shelves-a-game-owners-goal/"><u>From Screens to Shelves: A Game Owner's Goal</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-packing-9-essential-items-for-gamers-traveling/"><u>Game-On Packing: 9 Essential Items for Gamers Traveling</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-migrate-android-to-linux-platforms/"><u>How to Migrate Android to Linux Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-xbox-streaming-powers-seamless-play-from-afar/"><u>How Xbox Streaming Powers Seamless Play From Afar</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-continuous-media-logging-firms/"><u>In 2024, Continuous Media Logging Firms</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpts-current-suspension-unveiling-the-reasons-and-anticipated-return-windows/"><u>Navigating ChatGPT's Current Suspension: Unveiling the Reasons and Anticipated Return Windows.</u></a></li>
+<li><a href="https://games-able.techidaily.com/ranking-graphics-cards-similar-to-nvidias-4060-ti/"><u>Ranking Graphics Cards Similar to Nvidia's 4060 Ti</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamlined-approach-to-download-the-most-recent-dell-monitor-driver-software/"><u>Streamlined Approach to Download the Most Recent Dell Monitor Driver Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-mousepads-a-gamers-choice/"><u>Superior Mousepads: A Gamer's Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-a-hit-insights-from-helldivers-2/"><u>What Makes a Hit? Insights From Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/when-your-switch-breaks-should-you-fix-or-trade/"><u>When Your Switch Breaks, Should You Fix or Trade?</u></a></li>
 </ul></div>
 

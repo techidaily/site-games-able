@@ -1,7 +1,7 @@
 ---
 title: "The Case for Classic Revival: 7 Blizzard Games and Microsoft"
-date: 2024-10-01T19:41:01.073Z
-updated: 2024-10-07T18:38:23.761Z
+date: 2024-10-10T12:59:58.270Z
+updated: 2024-10-13T11:05:31.370Z
 tags:
   - games
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  Guitar Hero is still a staple in many arcades all over the world, however, showing there are still enough people interested in the franchise who would absolutely love to see a modern Guitar Hero in a list of[the best couch co-op Xbox games.](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Spyro the Dragon
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Skylanders
 
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
@@ -62,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  Skylanders used an interesting toys-to-life gimmick that made billions of dollars thanks mostly to the sales of hundreds of millions of character figures. Those are big numbers that are hard to argue with, but the series still seemed to find itself in the gaming graveyard that exists at the back of every gamer’s basement. But with the right marketing, there is potential for the series to make a serious comeback.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. StarCraft
@@ -90,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Prototype
 
  A modern Prototype game would be amazing. It was great back in the day, but it has an unbelievable amount of potential for a new entry. If there is one modern game that Prototype could be compared to today, it would be Marvel’s Spider-Man: Miles Morales. Of course, it would be far darker and grittier, but one of the best parts of Miles Morales is the satisfaction of effortlessly swinging through the streets on vine-like webs.
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
@@ -124,16 +124,20 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-premier-auto-track-cam-mount-for-smooth-shots/"><u>[New] 2024 Approved Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions-for-2024/"><u>[New] Crafting an Engaging Online Presence The Complete Guide to YouTube Submissions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-second-count-for-a-20mb-visual-file/"><u>[New] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-premium-video-gear-guide-selecting-the-right-lens-for-youtube/"><u>[Updated] In 2024, Premium Video Gear Guide Selecting the Right Lens for YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/advanced-tricks-for-quick-webp-to-jpg-conversion/"><u>Advanced Tricks for Quick WebP to JPG Conversion</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-best-1440p-gaming-screens-for-all-prices/"><u>Explore the Best 1440P Gaming Screens for All Prices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-instant-techniques-to-shuffle-youtube-song-sequences/"><u>In 2024, Instant Techniques to Shuffle YouTube Song Sequences</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-the-mechanics-of-steam-game-pricing/"><u>Inside the Mechanics of Steam Game Pricing</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-free-to-play-selection-for-nintendo-switch/"><u>Ultimate Free-to-Play Selection for Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-x-versus-pc-a-game-comparison/"><u>Xbox Series X Versus PC: A Game Comparison</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-daily-deeds-for-digital-diaries-tips-on-virtual-journeys/"><u>[New] 2024 Approved Daily Deeds for Digital Diaries Tips on Virtual Journeys</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-audiotrack-collection-pc-noises/"><u>[New] Audiotrack Collection PC Noises</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-downloadsave-instagram-reels-video-in-2-ways-for-2024/"><u>[New] How to Download/Save Instagram Reels Video in 2 Ways for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-noise-reduction-for-videographers-best-freepriced-choices-for-2024/"><u>[New] Noise Reduction for Videographers Best Free/Priced Choices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aural-enhancement-for-your-inshot-clips/"><u>Aural Enhancement for Your Inshot Clips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-social-score-best-tools-for-post-and-engagement/"><u>Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-playtime-new-horizons-with-windows-on-steam-deck/"><u>Elevating Playtime: New Horizons with Windows on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-gaming-windows-setup-on-steam-deck/"><u>Enhanced Gaming: Windows Setup on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-tech-showdown-ps5-clashes-with-frugal-pc-setup/"><u>High-Tech Showdown: PS5 Clashes with Frugal PC Setup</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-pro-video-essentials-the-finest-portable-laptop-brands/"><u>In 2024, Pro Video Essentials The Finest Portable Laptop Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigate-gpus-memory-footprint/"><u>Investigate GPU's Memory Footprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steams-bp-mode-issues-on-pc/"><u>Resolving Steam's BP Mode Issues on PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schnelle-losung-wie-sie-ihre-dvds-schnell-und-qualitatsbewusst-in-das-format-mp4-umwandeln-konnen/"><u>Schnelle Lösung: Wie Sie Ihre DVDs Schnell Und Qualitätsbewusst in Das Format MP4 Umwandeln Können</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-win-11-old-games-new-image-storage/"><u>Step-by-Step Win 11 - Old Games, New Image Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-sonys-go-anywhere-game-system/"><u>The Essence of Sony’s Go-Anywhere Game System</u></a></li>
 </ul></div>
 

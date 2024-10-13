@@ -1,7 +1,7 @@
 ---
 title: "Going Strong: The Enduring Appeal of Vintage Samsung TVs and the Amazing $1,000 Savings on Your Next Purchase (Insider Tips From ZDNET)"
-date: 2024-09-19 11:16:41
-updated: 2024-09-20 12:44:11
+date: 2024-10-10T01:08:20.698Z
+updated: 2024-10-12T18:05:47.352Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -70,6 +91,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +148,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-multiframe-view-microsoft-edges-pip/"><u>[Updated] In 2024, Mastering Multiframe View Microsoft Edge's PIP</u></a></li>
+<li><a href="https://article-tips.techidaily.com/avoiding-career-pitfalls-in-graphic-artistry-for-2024/"><u>Avoiding Career Pitfalls in Graphic Artistry for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-lifesaver-backing-up-steam-saved-games/"><u>Digital Lifesaver: Backing Up Steam Saved Games</u></a></li>
+<li><a href="https://win-forum.techidaily.com/diy-solutions-when-your-software-wont-launch-in-windows-environments/"><u>DIY Solutions When Your Software Won't Launch in Windows Environments</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-to-delete-outdated-data-on-ps5-console/"><u>Easy Steps to Delete Outdated Data on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-pc-gaming-with-custom-xbox-game-bar-settings-and-tools/"><u>Enhance Your PC Gaming With Custom Xbox Game Bar Settings and Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-white-hardware-choices-on-a-limited-dollar/"><u>Essential White Hardware Choices on a Limited Dollar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-alter-perceived-locations-on-your-mobile-device-a-comprehensive-guide/"><u>How to Alter Perceived Locations on Your Mobile Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inexpensive-tp-link-re180-ax700-wireless-signal-enhancer-overview-and-test-results/"><u>Inexpensive TP-Link RE180 AX700 Wireless Signal Enhancer Overview and Test Results</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mirthful-mayhem-a-top-20-list-of-hilarious-tiktok-jokes-and-riddles/"><u>Mirthful Mayhem A Top 20 List of Hilarious TikTok Jokes & Riddles</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-next-gen-audio-transcription-technologies-and-their-applications-for-2024/"><u>New Next-Gen Audio Transcription Technologies and Their Applications for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-playgrounds-the-ultimate-fps-startup-guide/"><u>Precision Playgrounds: The Ultimate FPS Startup Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/properly-programmed-ideal-configurations-for-switchers/"><u>Properly Programmed: Ideal Configurations for Switchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reach-new-dimensions-engage-playnite-on-large-televisions/"><u>Reach New Dimensions: Engage Playnite on Large Televisions</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-portable-computing-explore-pdw4s-capabilities/"><u>Redefining Portable Computing - Explore PDW4's Capabilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamline-workflow-with-macoss-screen-capture-feature-for-2024/"><u>Streamline Workflow with macOS's Screen Capture Feature for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-8-authentic-youtube-growth-tools/"><u>Top 8 Authentic YouTube Growth Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-players-facing-difficulty-in-starting-modern-warfare-3-mw3/"><u>Ultimate Fix Guide for Players Facing Difficulty in Starting Modern Warfare 3 (MW3)</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-xbox-xs-playtime-details/"><u>Uncover Xbox X/S Playtime Details</u></a></li>
+</ul></div>
+

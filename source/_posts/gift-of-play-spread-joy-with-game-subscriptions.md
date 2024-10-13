@@ -1,7 +1,7 @@
 ---
 title: "Gift of Play: Spread Joy with Game Subscriptions"
-date: 2024-09-30T17:57:21.330Z
-updated: 2024-10-07T18:30:16.966Z
+date: 2024-10-07T04:27:17.859Z
+updated: 2024-10-12T17:32:41.526Z
 tags:
   - games
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
  All of these steps are for the Steam client app, not the web version. The steps are similar for both platforms but might vary slightly.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Purchase a Steam Game as a Gift at Checkout
 
  This is the most popular method, and it requires you to[fund your Steam wallet](https://www.makeuseof.com/how-to-fund-steam-wallet-buy-games/) or to use one of the accepted payment methods on Steam. You also need to already have the person as a friend on Steam.
@@ -49,13 +56,6 @@ Once you have all of that ready, follow the steps below:
 ![Plants vs Zombies in Cart on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-3-10-46-pm.png)
 5. The next page will contain a window to find a list of your friends. Select the friend you want to send the game to.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. You can schedule the gift’s delivery by clicking**Schedule delivery** . It’s great if you want someone to receive the gift on the first hour of their birthday or something similar.
 7. Select**Continue** to reach the personalization page. You can type in a message, but it’s not mandatory.  
 ![Leaving a note while gifting on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-2-59-29-pm.png)
@@ -68,16 +68,10 @@ Once you have all of that ready, follow the steps below:
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Gift Duplicate Games on Steam
@@ -92,16 +86,17 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Send Steam Keys Bought on Other Websites
 
@@ -116,6 +111,20 @@ We’ll show you how to do this on Humble Bundle:
 1. Visit[humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
 4. Make your payments and checkout.
 
@@ -136,13 +145,6 @@ We’ll show you how to do this on Humble Bundle:
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
 
@@ -165,22 +167,18 @@ We’ll show you how to do this on Humble Bundle:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ontent-creators-dilemma-which-site-reigns-vimeo-youtube-in-2024/"><u>[New] Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube, In 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>[New] In 2024, The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-power-of-a-sturdy-tripod-in-video-content-production/"><u>[New] Unveiling the Power of a Sturdy Tripod in Video Content Production</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-step-by-step-adding-custom-images-to-youtube-videos/"><u>[Updated] 2024 Approved Step-by-Step Adding Custom Images to YouTube Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-from-novices-to-professionals-free-guide-on-google-meet-mastery/"><u>[Updated] In 2024, From Novices to Professionals Free Guide on Google Meet Mastery</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-optimal-sound-systems-under-100-for-immersive-gameplay/"><u>[Updated] Optimal Sound Systems Under $100 for Immersive Gameplay</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-rx-heritage-bundle-for-2024/"><u>[Updated] RX Heritage Bundle for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/consider-xbox-game-pass-ultimate-better-or-same/"><u>Consider Xbox Game Pass Ultimate: Better or Same?</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevated-sitting-solutions-for-giant-gamers/"><u>Elevated Sitting Solutions for Giant Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-security-adding-a-passcode-to-your-nintendo-switch/"><u>Enhancing Security: Adding a Passcode to Your Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-gear-for-the-next-level-of-ps-vr2-gaming/"><u>Essential Gear for the Next Level of PS VR2 Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-manipulate-robloxs-fps-control/"><u>How to Manipulate Roblox's FPS Control</u></a></li>
-<li><a href="https://blog-min.techidaily.com/itunesflac-macwindows/"><u>ITunesでシームレスに再生するFlacオーディオファイルの取り込み方 - 音質維持ガイド (Mac/Windows)</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-steam-deck-games-epic-and-gog/"><u>Streamline Your Steam Deck Games: Epic and GOG</u></a></li>
-<li><a href="https://games-able.techidaily.com/supers-battle-zone-evaluating-4070-4070-ti-and-rtx-4080-performance/"><u>Supers Battle Zone: Evaluating 4070, 4070 Ti & RTX 4080 Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-6-gamers-choices-all-at-no-cost/"><u>Top 6 Gamers' Choices: All at No Cost</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/top-considerations-for-enhancing-your-4k-cinematic-quality-for-2024/"><u>Top Considerations for Enhancing Your 4K Cinematic Quality for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>[New] 2024 Approved Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-dissecting-youtubes-features-and-mechanisms-after-uploading-content/"><u>[Updated] In 2024, Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-ios-data-recovery-tools-of-2024-top-picks-with-ios-17-compatibility/"><u>Best iOS Data Recovery Tools of 2024: Top Picks with iOS 17 Compatibility</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/chatgpt-plus-is-it-a-smart-investment-top-5-benefits-of-joining/"><u>ChatGPT Plus: Is It a Smart Investment? Top 5 Benefits of Joining</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-upgrades-cpu-vs-gpu-preference/"><u>Deciding on Upgrades: CPU Vs. GPU Preference</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-visionary-realm-xbox-series-x-4k-blu-ray/"><u>Exploring the Visionary Realm - Xbox Series X 4K Blu-Ray</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/galaxy-s21-fe-5g-2023-video-recovery-recover-deleted-videos-from-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-video/"><u>Galaxy S21 FE 5G (2023) Video Recovery - Recover Deleted Videos from Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-know-insights-on-choosing-your-perfect-video-transmitter-system/"><u>Must-Know Insights on Choosing Your Perfect Video Transmitter System</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switchs-future-value-in-online-expansion/"><u>Nintendo Switch's Future: Value in Online Expansion?</u></a></li>
+<li><a href="https://games-able.techidaily.com/non-factors-impeding-gamefis-gaming-revolution/"><u>Non-Factors Impeding GameFi's Gaming Revolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/precautions-and-considerations-when-choosing-handheld-videogame-equipment/"><u>Precautions and Considerations When Choosing Handheld Videogame Equipment</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-interpreting-and-leveraging-windows-11s-comprehensive-battery-report-feature/"><u>The Definitive Guide to Interpreting and Leveraging Windows 11'S Comprehensive Battery Report Feature</u></a></li>
 </ul></div>
 

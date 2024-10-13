@@ -1,7 +1,7 @@
 ---
 title: Transforming Your Steam Deck With EmuDeck
-date: 2024-10-04T18:30:37.127Z
-updated: 2024-10-07T17:59:40.463Z
+date: 2024-10-11T21:32:48.946Z
+updated: 2024-10-12T17:41:56.920Z
 tags:
   - games
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 * [Should You Use EmuDeck to Emulate Games on Steam Deck?](#should-you-use-emudeck-to-emulate-games-on-steam-deck)
 * [How to Set Up EmuDeck on a Steam Deck](#how-to-set-up-emudeck-on-a-steam-deck)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * EmuDeck manages emulators and their installation for the Steam Deck, making it easier for those using the Linux-based SteamOS.
@@ -32,16 +39,16 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  You've probably heard plenty about how great the Steam Deck is as an emulation platform, but how do you actually get the emulators up and running? Let's take a look at how to play emulated games on the Steam Deck using EmuDeck.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Use EmuDeck to Emulate Games on Steam Deck?
 
 ![screenshot of the main emudeck screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The first decision you'll need to make is which emulator to use. For this guide, we chose EmuDeck. For most users, this is an easy option because of the convenience of the platform.
 
@@ -59,23 +66,9 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
 
  To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Install and Set Up EmuDeck
 
 ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you've switched to Desktop Mode, you'll need to head to the[EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
@@ -86,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee694
  Several new windows may open during this process as the script downloads and installs core files. Eventually, you'll be given two options: to install in**Easy Mode** or**Custom Mode** .
 
 ![screenshot of the emudeck set up screen showing a selection between easy mode or custom mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_setup_easymode_or_custommode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 We'll choose easy mode, as it's the most straightforward.
 
@@ -106,10 +106,10 @@ We'll choose easy mode, as it's the most straightforward.
 ![Screenshot of the EmuDeck folder showing systems.txt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_systems_txt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can check which folder is for which console by opening the**systems.txt** file down the bottom. Additionally, there is a**systeminfo.txt** file within each of the folders that contains information on supported ROM file types.
@@ -128,6 +128,13 @@ We'll choose easy mode, as it's the most straightforward.
 
 ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
  EmuDeck has its own solution to this problem. Under the**Tools & Stuff** category in EmuDeck, you'll see something called the**Steam ROM Manager.** Launch this option, making sure to hit**Yes** on the warning message.
@@ -141,13 +148,6 @@ We'll choose easy mode, as it's the most straightforward.
  A list of games should generate, and, if they're all there, you can hit**Save to Steam** . Next time you launch into gaming mode, you'll find all of your shortcuts under**Non-Steam Games.**
 
 ![Screenshot of EmuDeck's Steam ROMS manager displaying several Switch games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_steam_roms_manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're ready to play an emulated game on your Steam Deck, select an emulated game shortcut to get right into it. If you launch a shortcut and an emulator pops up instead, don't worry. It may take a few seconds to redirect from the emulator to the game.
 
@@ -168,22 +168,18 @@ We'll choose easy mode, as it's the most straightforward.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-best-in-class-music-video-platforms-for-2024/"><u>[Updated] Best-in-Class Music Video Platforms for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-subtle-sound-level-lowering-in-fl-studio/"><u>2024 Approved Subtle Sound Level Lowering in FL Studio</u></a></li>
-<li><a href="https://fox-http.techidaily.com/advanced-tips-for-3d-color-grading/"><u>Advanced Tips for 3D Color Grading</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-correct-the-absence-of-avcodecdll-on-your-system/"><u>Easy Steps to Correct the Absence of Avcodec.dll on Your System</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-motherboards-geared-towards-gaming/"><u>Economical Motherboards Geared Towards Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/excel-tips-adjusting-headersfooters-for-unique-first-page-designs/"><u>Excel Tips: Adjusting Headers/Footers for Unique First-Page Designs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-repairing-and-enhancing-pacific-drives-reliability-on-desktops-and-laptops/"><u>Expert Advice: Repairing and Enhancing Pacific Drive's Reliability on Desktops and Laptops</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-unseen-hazards-in-linkedins-new-gaming-section/"><u>Explore the Unseen Hazards in LinkedIn’s New Gaming Section</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-troubleshoot-to-transform-your-diy-xbox-controller-fixes/"><u>From Troubleshoot to Transform: Your DIY Xbox Controller Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-mastery-with-steam-heres-how-top-9-advantages-to-know/"><u>Gaming Mastery with Steam (Here's How): Top 9 Advantages to Know</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000579075-how-to-fix-resident-evil-village-pc-game-crashes-complete-guide/"><u>How to Fix Resident Evil Village PC Game Crashes: Complete Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/indulge-in-the-best-gba-ios-simulation-tools-for-legends/"><u>Indulge in the Best GBA iOS Simulation Tools for Legends</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-battle-royale-iphone-and-fortnite-with-geforce-now/"><u>Navigating the Battle Royale: IPhone & Fortnite with GeForce Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-seamlessly-downloading-and-modifying-tamil-ringtones/"><u>Step-by-Step Guide to Seamlessly Downloading and Modifying Tamil Ringtones</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-assist-unveiled-the-key-to-flawless-gameplay/"><u>Stream Assist Unveiled: The Key to Flawless Gameplay</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unhacked-exe-glitch-explorerexe/"><u>Unhacked Exe Glitch - Explorer.exe</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-your-game-awaits-on-a-pc-not-just-consoles/"><u>Why Your Game Awaits on a PC, Not Just Consoles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>[New] In 2024, Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-rapid-routines-sending-photos-from-iphone-to-computer-for-2024/"><u>[Updated] Rapid Routines Sending Photos From iPhone to Computer for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/el-up-the-essential-guide-to-computer-and-mobile-video-upload/"><u>Channel Up The Essential Guide to Computer & Mobile Video Upload</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-steams-storage-manager-to-quickly-manage-your-games/"><u>How to Use Steam’s Storage Manager to Quickly Manage Your Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-pop-8-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Pop 8 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/regions-reimagined-altering-consoles-regional-hour/"><u>Regions Reimagined: Altering Console's Regional Hour</u></a></li>
+<li><a href="https://games-able.techidaily.com/regulating-game-bar-activity-for-enhanced-privacy-in-windows-11/"><u>Regulating Game Bar Activity for Enhanced Privacy in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-titles-towns-winners-worlds/"><u>Top Titles Towns: Winner's Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-game-into-a-livestream-with-twitch-mobile/"><u>Transform Your Game Into a Livestream with Twitch Mobile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-steps-for-a-smooth-playthrough-in-armored-core-6-fixed-pc-crashing-problems/"><u>Troubleshooting Steps for a Smooth Playthrough in Armored Core 6: Fixed PC Crashing Problems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-essential-considerations-for-incorporating-sound-in-photography-compositions/"><u>Updated Essential Considerations for Incorporating Sound in Photography Compositions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/what-are-the-steps-to-retrieve-files-that-were-erased-or-changed-in-onedrive/"><u>What Are the Steps to Retrieve Files That Were Erased or Changed in OneDrive?</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-happens-to-your-ps-plus-games-after-they-leave-the-service/"><u>What Happens to Your PS Plus Games After They Leave the Service?</u></a></li>
 </ul></div>
 

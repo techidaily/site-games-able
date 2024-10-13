@@ -1,7 +1,7 @@
 ---
 title: "Top Review: Mastering Race Day with the Logitech G29 Wheel - The Ultimate Choice for Asphalt Enthusiasts | ZDNET"
-date: 2024-09-14T00:55:36.053Z
-updated: 2024-09-20T21:21:29.340Z
+date: 2024-10-05T16:52:43.375Z
+updated: 2024-10-12T21:50:48.890Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,13 +72,6 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -78,6 +85,13 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -85,10 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +155,26 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-moto-z2s-smarter-edge-an-exclusive-look/"><u>[New] 2024 Approved Moto Z2's Smarter Edge An Exclusive Look</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-subtlety-in-volume-reduction-for-audacity-projects/"><u>[New] 2024 Approved Subtlety in Volume Reduction for Audacity Projects</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ilm-substitutes-to-stream-top-7-picks-for-2024/"><u>[New] Film Substitutes to Stream - Top 7 Picks for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-attracting-audiences-hook-up-hacks-for-hosts-for-2024/"><u>[Updated] Attracting Audiences Hook-Up Hacks for Hosts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[Updated] Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-inadequate-system-power-to-fulfill-task-requests/"><u>Addressing Inadequate System Power to Fulfill Task Requests</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-high-grade-hardware-hype/"><u>Enhance Performance: High-Grade Hardware Hype</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-for-dealing-with-hp-laserjet-p2035-windows-driver-challenges-guide/"><u>Expert Tips for Dealing with HP LaserJet P2035 Windows Driver Challenges [Guide]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-effortlessly-access-and-apply-instagrams-best-filters-for-2024/"><u>How to Effortlessly Access and Apply Instagram's Best Filters for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-preorder-the-limited-edition-marvels-spider-man-2-ps5/"><u>How to Preorder the Limited-Edition Marvel’s Spider-Man 2 PS5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y100a-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y100A Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-gamepad-on-your-android-essential-tips-and-tricks/"><u>Integrating Gamepad on Your Android: Essential Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-how-to-link-ps-controllers-to-a-switch-console/"><u>Joining Forces: How to Link PS Controllers to a Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/make-every-word-count-in-gaming-with-headset-tips/"><u>Make Every Word Count in Gaming with Headset Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-ps5-with-premium-complementary-items/"><u>Maximizing PS5 with Premium Complementary Items</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstate-lost-wordle-streaks-on-iosandroid/"><u>Reinstate Lost Wordle Streaks on iOS/Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-the-echoes-expert-tips-for-fixing-sound-errors-in-skyrim/"><u>Reviving the Echoes: Expert Tips for Fixing Sound Errors in Skyrim</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-triumph-navigating-the-top-11-strategy-titles/"><u>Tactical Triumph: Navigating the Top 11 Strategy Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
+</ul></div>
 

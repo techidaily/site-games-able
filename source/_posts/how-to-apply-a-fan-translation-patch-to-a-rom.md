@@ -1,7 +1,7 @@
 ---
 title: How to Apply a Fan Translation Patch to a ROM
-date: 2024-10-06T16:23:31.041Z
-updated: 2024-10-07T16:03:56.838Z
+date: 2024-10-06T07:43:29.536Z
+updated: 2024-10-13T10:38:46.313Z
 tags:
   - games
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A Working Emulator and ROM File
 
  Got your ROM? Good. Create a new folder to store your ROM file called**ROMS** (or an equivalent) in the emulator's directory. This is where you will store your games for that particular emulator. See below for an example of what this looks like on a Windows desktop.
@@ -43,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
@@ -61,20 +54,13 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Patch Tool
@@ -93,7 +79,21 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
@@ -114,20 +114,16 @@ thumbnail: https://thmb.techidaily.com/5599db5b0351dfe7fe4d3ef01a51b823176684e86
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-bring-your-videos-to-life-border-magic-on-ig/"><u>[New] 2024 Approved Bring Your Videos to Life Border Magic on IG</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-guide-to-pixlr-edits-top-15-tricks-for-perfection/"><u>[Updated] Expert Guide to Pixlr Edits Top 15 Tricks for Perfection</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-top-10-female-youtubers/"><u>2024 Approved Top 10 Female YouTubers</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-ipadiphone-gaming-choose-among-these-foursome/"><u>Elevate Your iPad/iPhone Gaming: Choose Among These Foursome</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortifying-playtime-enabling-security-features-on-your-switch/"><u>Fortifying Playtime: Enabling Security Features on Your Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-enlightenment-with-rog-ally-fix-it-x/"><u>Handheld Enlightenment with ROG Ally Fix-It X</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-p55t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel P55T to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-android-photography-tricks-and-tools/"><u>In 2024, Mastering Android Photography Tricks & Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-redefining-the-greatest-movies-2023-edition/"><u>In 2024, Redefining The Greatest Movies 2023 Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-t630-mouse-compatibility-and-downloads-for-windows-versions-7-810/"><u>Logitech T630 Mouse Compatibility and Downloads for Windows Versions (7, 8/10)</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-mastery-top-4-gamercentric-online-resources/"><u>Maximize Mastery: Top 4 Gamercentric Online Resources</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-limits-with-the-powerhouse-razer-basilisk-v3/"><u>Pushing Limits with the Powerhouse Razer Basilisk V3</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-ps5-vs-microsofts-xbox-sx-which-wins/"><u>Sony's PS5 vs Microsoft's Xbox SX - Which Wins?</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-f04-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy F04 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/output-to-find-the-result-of-multiplying-6-by-itself-four-times-we-calculate-6-6-6-6-when-an-even-number-of-negative-numbers-are-multiplied-together-the-res290/"><u>[Output]: To Find the Result of Multiplying -6 by Itself Four Times, We Calculate (-6) × (-6) × (-6) × (-6). When an Even Number of Negative Numbers Are Multiplied Together, the Result Is Positive. Therefore</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-amplifying-your-youtube-presentation-size/"><u>[Updated] 2024 Approved Amplifying Your YouTube Presentation Size</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-guide-to-tailoring-your-hashtag-strategy-for-maximum-engagement-and-conversion-rates-on-facebook/"><u>[Updated] A Guide to Tailoring Your Hashtag Strategy for Maximum Engagement and Conversion Rates on Facebook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-vr-devices-for-drone-enthusiasts-for-2024/"><u>[Updated] Essential VR Devices for Drone Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-concept-to-reality-the-vr-story/"><u>[Updated] From Concept to Reality The VR Story</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-secure-tiktok-videos-gallery-integration-techniques/"><u>[Updated] Secure TikTok Videos Gallery Integration Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-beginners-approach-to-nvidia-screen-capture-for-2024/"><u>A Beginner's Approach to NVIDIA Screen Capture for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-decks-cloud-integration-failures/"><u>Eliminating Steam Deck's Cloud Integration Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-minecraft-launcher-glitch-0x803f8001/"><u>Fixing Windows Minecraft Launcher Glitch: 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-snes-with-dualshock-replicas/"><u>Streaming SNES with DualShock Replicas</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-0x887a0006-device-hang-error-in-windows/"><u>Troubleshooting 0X887A0006: Device Hang Error in Windows</u></a></li>
 </ul></div>
 

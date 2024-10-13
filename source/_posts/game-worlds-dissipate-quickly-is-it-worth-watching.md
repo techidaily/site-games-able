@@ -1,7 +1,7 @@
 ---
 title: Game Worlds Dissipate Quickly, Is It Worth Watching?
-date: 2024-10-02T17:21:12.305Z
-updated: 2024-10-07T17:19:20.621Z
+date: 2024-10-06T02:00:54.328Z
+updated: 2024-10-13T00:47:28.118Z
 tags:
   - games
 categories:
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are Game Servers?
 
  A game server is a specialized computer that provides gaming services over the internet. They are mainly used for two purposes:
@@ -52,22 +39,16 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -88,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
 
  Long-running game servers are few and far between, although Furcadia’s servers have been up and running for 30 years. The majority of very popular server-backed games have only been around for the last decade or so, and are still running, with large customer bases.
@@ -99,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
@@ -110,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 ![A close up of a maze-based video game with the words “Game Over” in prominent lettering.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/game-over-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Frenzel/[Shutterstock](https://www.shutterstock.com/image-photo/screen-showing-that-game-over-macro-153068465)
@@ -141,19 +129,24 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secrets-to-successful-vocal-sessions-for-video-content/"><u>[New] 2024 Approved Secrets to Successful Vocal Sessions for Video Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-expert-tips-for-capturing-and-saving-igtv-on-handhrani/"><u>[Updated] Expert Tips for Capturing and Saving IGTV on Handhrani</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-framecraft-videocutter/"><u>[Updated] In 2024, FrameCraft VideoCutter</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>[Updated] In 2024, Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
-<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-key-points-on-selling-damaged-mobile-devices/"><u>A Comprehensive Guide: Key Points on Selling Damaged Mobile Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/critical-errors-ensuring-quality-when-buying-a-monitor/"><u>Critical Errors: Ensuring Quality When Buying a Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/discreetly-stowing-steam-titles/"><u>Discreetly Stowing Steam Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-seamless-gaming-with-a-fresh-nintendo-joy-con-joystick/"><u>Enjoy Seamless Gaming with a Fresh Nintendo Joy-Con Joystick</u></a></li>
-<li><a href="https://games-able.techidaily.com/glossi-tips-for-playing-xbox-game-pass-on-steam-connection/"><u>GlosSI Tips for Playing Xbox Game Pass on Steam Connection</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-a-budget-friendly-triumph-in-sim-driving/"><u>MOZA R5: A Budget-Friendly Triumph in Sim Driving</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-silent-messages-top-15-techniques-to-restore-notifications-and-ringtones-on-your-iphone/"><u>Solving Silent Messages: Top 15 Techniques to Restore Notifications and Ringtones on Your iPhone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-downloading-logitech-mk70-mouse-software-updates/"><u>Step-by-Step Tutorial for Downloading Logitech MK70 Mouse Software Updates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-vivo-v29-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo V29 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-effective-is-sponsored-view-count-boosting-in-2024/"><u>[New] How Effective Is Sponsored View Count Boosting, In 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-of-10-websites-specializing-in-modern-3d-graffiti-letters/"><u>[New] The Ultimate List of 10 Websites Specializing in Modern 3D Graffiti Letters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-chromes-picture-in-picture-capabilities-explained-for-2024/"><u>[Updated] Chrome's Picture-In-Picture Capabilities Explained for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/captivate-audiences-unveiling-secrets-for-striking-youtube-banners-for-2024/"><u>Captivate Audiences Unveiling Secrets for Striking YouTube Banners for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-link-your-xbox-one-controller/"><u>Effortlessly Link Your Xbox One Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighting-formats-face-off-arcade-stick-vs-controllers/"><u>Fighting Formats Face-Off: Arcade Stick Vs. Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-alternatives-shining-bright-like-nvidias-4060-ti/"><u>GPU Alternatives Shining Bright Like Nvidia's 4060 Ti</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/holdscreen-rapid-snapshot-manual/"><u>HoldScreen Rapid Snapshot Manual</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-shaky-to-stellar-the-best-free-online-video-stabilization-tools-reviewed/"><u>In 2024, From Shaky to Stellar The Best Free Online Video Stabilization Tools Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-f25-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-nintendo-switch-controls-top-gear-guide/"><u>Innovative Nintendo Switch Controls – Top Gear Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-the-art-of-survival-in-dying-light-an-in-depth-first-person-co-op-review/"><u>Mastering the Art of Survival in Dying Light: An In-Depth First-Person Co-Op Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-chatgpts-world-a-comprehensive-tutorial-for-roleplayers/"><u>Navigating ChatGPT's World: A Comprehensive Tutorial for Roleplayers</u></a></li>
+<li><a href="https://games-able.techidaily.com/sifting-through-value-in-ea-play-service/"><u>Sifting Through Value in EA Play Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-to-optimize-the-lastingness-of-your-gaming-controller/"><u>Techniques to Optimize the Lastingness of Your Gaming Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-controlling-discords-gaming-ui/"><u>Tips for Controlling Discord's Gaming UI</u></a></li>
+<li><a href="https://games-able.techidaily.com/unexpected-pleasures-the-indie-game-selection-journey/"><u>Unexpected Pleasures: The Indie Game Selection Journey</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-filmora-scrn-tutorial-recording-your-desktop-made-easy-for-2024/"><u>Updated Filmora Scrn Tutorial Recording Your Desktop Made Easy for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-defy-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Defy 2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

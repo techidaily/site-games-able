@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Memorial Day Deal: Get Your Nintendo Switch OLED Unit for Just $118 From Walmart - Insights by ZDNet"
-date: 2024-09-16T00:07:16.351Z
-updated: 2024-09-20T22:41:35.800Z
+date: 2024-10-10T23:03:10.355Z
+updated: 2024-10-13T12:52:59.058Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +96,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +146,26 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweak-quick-twitter-video-preview/"><u>[New] 2024 Approved Tweak Quick Twitter Video Preview</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-harnessing-lut-power-for-free-high-quality-colorization/"><u>[New] In 2024, Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-guide-to-premium-vr-showrooms/"><u>2024 Approved Guide to Premium VR Showrooms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-about-lightroom-a-comprehensive-android-study/"><u>All About Lightroom A Comprehensive Android Study</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enhanced-unleashing-personalized-user-experiences-with-cutting-edge-cookies/"><u>Cookiebot-Enhanced: Unleashing Personalized User Experiences with Cutting-Edge Cookies</u></a></li>
+<li><a href="https://games-able.techidaily.com/driving-dynamics-traditional-wheel-or-innovative-screen-navigation/"><u>Driving Dynamics: Traditional Wheel or Innovative Screen Navigation?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-selection-17-programs-for-flawless-picture-editing-for-2024/"><u>Expert's Selection 17 Programs for Flawless Picture Editing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-future-play-ifa-2023-unveils-new-horizons-in-gaming/"><u>Game on, Future Play: IFA 2023 Unveils New Horizons in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-monitors-at-240hz-for-gamers/"><u>High-Speed Monitors at 240Hz for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-licenses-on-your-ps5/"><u>How to Restore Licenses on Your PS5</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocns-economical-choice-for-gamers/"><u>InnoCN's Economical Choice for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-earphones-designed-for-switch/"><u>Optimal Earphones Designed for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/psvr2-immersion-boosters-revealed/"><u>PSVR2 Immersion Boosters Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinvigorate-your-console-installing-a-new-joy-con-joystick/"><u>Reinvigorate Your Console: Installing a New Joy-Con Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-your-switchs-integrity-with-tips/"><u>Safeguarding Your Switch's Integrity with Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-notorious-0x80072efd-error-in-windows-10/"><u>Troubleshooting and Fixing the Notorious 0X80072EFD Error in Windows 10</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-free-and-easy-3gp-video-rotation-top-picks-for-this-year/"><u>Updated 2024 Approved Free and Easy 3GP Video Rotation Top Picks for This Year</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-tag-organize-and-enjoy-best-video-tag-editors-for-windows-and-macos-for-2024/"><u>Updated Tag, Organize, and Enjoy Best Video Tag Editors for Windows and macOS for 2024</u></a></li>
+</ul></div>
 

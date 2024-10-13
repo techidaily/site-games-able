@@ -1,7 +1,7 @@
 ---
 title: "Installing Discord: A Comprehensive Mac Guide"
-date: 2024-09-30T18:05:52.836Z
-updated: 2024-10-07T18:24:16.509Z
+date: 2024-10-10T12:31:30.033Z
+updated: 2024-10-13T11:26:28.301Z
 tags:
   - games
 categories:
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Install Discord on Your Mac
@@ -52,28 +52,35 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 3. After a window appears, drag the**Discord logo** into the**Application** window.  
 ![Discord logo being dragged into the Applications folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-logo-being-dragged-into-the-applications-folder.jpeg)
 4. Close the Finder window.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
 
  You might receive a security prompt that Discord is an app downloaded from the internet, but click**Open** anyway.
 
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 3: Sign Up or Sign In to Discord
 
 ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
@@ -81,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
  If you don't have an account, click**Register** at the bottom and fill in your details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Started With Discord on Your Mac
@@ -108,22 +115,24 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-picks-leading-mac-recording-software/"><u>[New] 2024 Approved Prime Picks Leading Mac Recording Software</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-content-creation-crossroads-igtv-vs-youtube-which-one-fits-best-for-2024/"><u>[New] Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-effortless-mp4-conversion-from-facebook-hd-content-all-for-free/"><u>[Updated] Effortless MP4 Conversion From Facebook HD Content – All For Free</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-tailor-made-video-hosting-on-vimeo-pick-your-perfect-level/"><u>2024 Approved Tailor-Made Video Hosting on Vimeo Pick Your Perfect Level</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-the-myth-is-faster-always-better/"><u>Debunking the Myth: Is Faster Always Better?</u></a></li>
-<li><a href="https://games-able.techidaily.com/expand-horizons-minecraft-bedrock-server-conversion-to-java-on-geysermc/"><u>Expand Horizons: Minecraft Bedrock Server Conversion to Java on GeyserMC</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-out-how-much-vram-you-have-now/"><u>Find Out How Much VRAM You Have Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-will-the-xbox-activision-deal-affect-the-game-market/"><u>How Will the Xbox-Activision Deal Affect the Game Market?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-infinix-hot-30i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Infinix Hot 30i Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/proactive-planning-for-your-steam-wallets-game-collection/"><u>Proactive Planning for Your Steam Wallet's Game Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/retailer-regret-rescue-how-to-request-refunds-on-xbox/"><u>Retailer Regret Rescue: How to Request Refunds on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-for-gamers-deciding-between-xna-updates/"><u>Tech for Gamers: Deciding Between XNA Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-true-impact-of-stylish-game-tech-on-experience/"><u>The True Impact of Stylish Game Tech on Experience</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-asus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Asus Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-step-by-step-mechanical-keyboard-maintenance/"><u>Ultimate Guide: Step-by-Step Mechanical Keyboard Maintenance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-essence-of-dying-light-a-riveting-story-of-cooperative-zombie-defense-and-agile-combat/"><u>Unveiling the Essence of Dying Light: A Riveting Story of Cooperative Zombie Defense & Agile Combat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-guide-to-selecting-best-vhs-edits-via-computer-for-2024/"><u>[Updated] Guide to Selecting Best VHS Edits via Computer for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-fixes-how-to-refresh-your-webcam-driver-on-microsofts-new-os-windows-11/"><u>Easy Fixes: How to Refresh Your Webcam Driver on Microsoft's New OS, Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-enchantment-event-gameplay-magic-unlocked/"><u>Ephemeral Enchantment Event: Gameplay Magic Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-accessory-arsenal-evaluating-playstation-plus-over-xbox-game-pass/"><u>Gaming Accessory Arsenal: Evaluating PlayStation Plus Over Xbox Game Pass</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-free-techkey-bluetooth-usb-drivers-for-windows-11-7-and-8-devices/"><u>Get Your Free Techkey Bluetooth USB Drivers for Windows 11, 7 & 8 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-manage-your-xbox-subscriptions-from-your-series-xs/"><u>How to Manage Your Xbox Subscriptions From Your Series X|S</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oneplus-nord-n30-se-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-100-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor 100</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-motorola-moto-g84-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Motorola Moto G84 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/iphone-portals-to-psps-best-games-ever/"><u>IPhone Portals to PSP's Best Games Ever</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritizing-components-in-a-gaming-setup/"><u>Prioritizing Components in a Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/reality-in-motion-5-csglobal-offensive-frame-rate-hacks/"><u>Reality in Motion: 5 Cs:Global Offensive Frame Rate Hacks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-to-creating-engaging-high-quality-asmr-scenes-for-2024/"><u>Step-by-Step Guide to Creating Engaging, High-Quality ASMR Scenes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-high-fidelity-graphics-gaming-tools/"><u>Superior High Fidelity Graphics Gaming Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-gaming-chairs-for-tall-people/"><u>The Best Gaming Chairs for Tall People</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-breakdown-of-google-play-games-on-pc/"><u>The Complete Breakdown of Google Play Games on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms-for-2024/"><u>Turning Popular Sounds on TikTok Into Personal Cellphone Alarms for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/wdf-blue-screen-troubleshooting-for-winos/"><u>WDF Blue Screen Troubleshooting for WinOS</u></a></li>
 </ul></div>
 

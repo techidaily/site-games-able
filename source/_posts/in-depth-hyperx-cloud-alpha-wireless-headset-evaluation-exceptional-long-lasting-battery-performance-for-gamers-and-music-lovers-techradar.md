@@ -1,7 +1,7 @@
 ---
 title: "In-Depth HyperX Cloud Alpha Wireless Headset Evaluation: Exceptional Long-Lasting Battery Performance for Gamers & Music Lovers - TechRadar"
-date: 2024-09-15T02:01:56.437Z
-updated: 2024-09-21T01:28:51.274Z
+date: 2024-10-09T16:48:05.085Z
+updated: 2024-10-13T04:55:16.028Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +86,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -90,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -141,5 +155,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-expert-insights-crafting-perfect-vimeo-closures/"><u>[New] 2024 Approved Expert Insights Crafting Perfect Vimeo Closures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-advanced-voice-customization-in-free-perfect-for-valorant-players/"><u>[Updated] Unlock Advanced Voice Customization in Free - Perfect for Valorant Players</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-80-pro-straight-screen-edition-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor 80 Pro Straight Screen Edition System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discords-nitro-value-for-money/"><u>Discord's Nitro: Value for Money</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-the-issue-behind-windows-file-creation-error/"><u>Eliminating the Issue Behind Windows' File Creation Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-revive-windows-11s-sluggish-search-bar-on-the-settings-screen/"><u>How To Revive Windows 11'S Sluggish Search Bar on the Settings Screen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-guidance-leading-ringtone-artisans-iphone/"><u>In 2024, Premier Guidance Leading Ringtone Artisans iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-video-sizing-by-imovie/"><u>In 2024, The Science of Video Sizing by iMovie</u></a></li>
+<li><a href="https://games-able.techidaily.com/inexpensive-comfortable-gaming-input-devices/"><u>Inexpensive, Comfortable Gaming Input Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-top-tier-nitro-essential-for-gamers/"><u>Is Top-Tier Nitro Essential for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-and-grow-from-my-oled-errors/"><u>Learn and Grow From My OLED Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mp3-to-cd-transforming-music-with-windows-and-imgburn-technique/"><u>Mp3 to CD: Transforming Music with Windows and ImgBurn Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgianest-compact-crafting-classic-gaming-memories/"><u>NostalgiaNest Compact: Crafting Classic Gaming Memories</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a1-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A1 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-a-suspended-credit-card-on-sony-console/"><u>Reinstating a Suspended Credit Card on Sony Console</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-the-day-bypassing-win1011-recycle-bin-issues/"><u>Saving the Day: Bypassing WIN10/11 Recycle Bin Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-and-personal-computing-in-the-gaming-arena/"><u>Xbox and Personal Computing in the Gaming Arena</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Peeking at Previous Steam Game Prices
-date: 2024-09-30T17:46:19.706Z
-updated: 2024-10-07T17:19:33.219Z
+date: 2024-10-12T10:25:13.413Z
+updated: 2024-10-13T07:40:00.445Z
 tags:
   - games
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 * [Other Ways to Check Whether a Game Deal Is Worth It](#other-ways-to-check-whether-a-game-deal-is-worth-it)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/fe074f06665304f02bb44d59a2cf2f7a7e742cf6a
 * You can use the information to find the best deals for games, predict sales, and avoid overpaying.
 
  Steam doesn't have a built-in way to see a game's price history, but luckily SteamDB offers a way to track this metric. Here's how to use the website so you can figure out if a deal is worth it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check a Steam Game's Price History on SteamDB
 
@@ -64,10 +57,10 @@ Here's how you can access the price history of a Steam game:
 ![price history for baldurs gate 3 on steamdb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-for-baldurs-gate-3-on-steamdb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  On the right side of the page, you can set the currency you want to use. You should also note that the price history does not include the price of a game's DLC. You will have to search for the DLC separately to track its price history.
@@ -79,10 +72,10 @@ Here's how you can access the price history of a Steam game:
 ![price history chart timeline for bg3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-chart-timeline-for-bg3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Players will also be able to check if a price has increased since launch. You'll see this most often with games that were in Early Access or that had a launch sale, but is also helps you avoid price gouging.
@@ -92,6 +85,13 @@ Here's how you can access the price history of a Steam game:
  Occasionally, you may come across a game that has no price history. This usually applies to free-to-play games like Dota 2.
 
  For games like PUBG: Battlegrounds, the current price is listed as N/A. This is because while the game was previously paid for, it has since moved to free-to-play.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other Ways to Check Whether a Game Deal Is Worth It
 
@@ -120,20 +120,22 @@ Here's how you can access the price history of a Steam game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-relentless-joy-in-9-full-length-holiday-spectacles-free-online/"><u>[New] Relentless Joy in 9 Full-Length Holiday Spectacles, Free Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-beatbell-instructions-making-tamil-music-your-call-alerts/"><u>[Updated] BeatBell Instructions Making Tamil Music Your Call Alerts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-clickbait-curator-supreme/"><u>2024 Approved Clickbait Curator Supreme</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
-<li><a href="https://games-able.techidaily.com/dont-let-your-budget-be-a-wrong-choice-for-oled-screen/"><u>Don't Let Your Budget Be a Wrong Choice for OLED Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-cryptic-crimes-with-ai-partners-in-games/"><u>Explore Cryptic Crimes with AI Partners in Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x8b-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X8b</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-mobile-titles-with-perfect-controllers/"><u>Leading Mobile Titles with Perfect Controllers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-redmi-note-13-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi Redmi Note 13 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/purchasing-fortnite-vip-packs-via-playstation-5/"><u>Purchasing Fortnite VIP Packs via PlayStation 5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
-<li><a href="https://games-able.techidaily.com/short-lived-hikes-overcome-xbox-game-pass-tips-and-tricks/"><u>Short-Lived Hikes Overcome: Xbox Game Pass Tips & Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-enhanced-interface-the-big-picture/"><u>Steam's Enhanced Interface: The Big Picture</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-it-up-gaming-with-a-lens-twist/"><u>Switch It Up: Gaming with a Lens Twist</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-v27e-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo V27e Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-stepwise-guide-to-launching-and-managing-a-live-broadcast/"><u>[New] Stepwise Guide to Launching and Managing a Live Broadcast</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discovering-the-best-in-display-tech-10-list-for-your-mac/"><u>[Updated] In 2024, Discovering the Best in Display Tech - #10 List for Your Mac</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banished-bug-mh-worlds-graphics-scare-over/"><u>Banished Bug: MH World's Graphics Scare Over</u></a></li>
+<li><a href="https://games-able.techidaily.com/gametime-gimmicks-ephemeral-power-boost-event/"><u>GameTime Gimmicks: Ephemeral Power Boost Event</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/gartner-magic-quadrant-2024abbyy/"><u>Gartner® Magic Quadrant™ 2024でABBYY: 先駆的なプロセスマイニングソリューションのトップ選</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-igtv-content-editing-titles-and-descriptions/"><u>In 2024, Enhancing IGTV Content Editing Titles & Descriptions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/insiders-look-at-effective-in-game-video-documentation-for-2024/"><u>Insider's Look at Effective In-Game Video Documentation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-the-visual-landscape-of-ps5/"><u>Modify the Visual Landscape of PS5</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/multiplecam-top-live-streaming-app-with-virtual-camera-capabilities/"><u>MultipleCam: Top Live Streaming App with Virtual Camera Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-have-hardware-for-ultimate-pc-games/"><u>Must-Have Hardware for Ultimate PC Games</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-webm-to-mp4-converter-roundup-top-10-picks/"><u>New 2024 Approved WebM to MP4 Converter Roundup Top 10 Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-enhance-gameplay-with-input-devices-86-chars/"><u>Nintendo Switch: Enhance Gameplay with Input Devices (86 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-bluetooth-audio-with-ps5-console/"><u>Pairing Bluetooth Audio with PS5 Console</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revitalize-your-acer-nitro-5-comprehensive-guide-to-updating-key-drivers/"><u>Revitalize Your Acer Nitro 5: Comprehensive Guide to Updating Key Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-running-nes-on-linux-terminal/"><u>Step-by-Step: Running NES on Linux Terminal</u></a></li>
+<li><a href="https://games-able.techidaily.com/surprise-your-loved-ones-with-digital-games-via-steam/"><u>Surprise Your Loved Ones with Digital Games via Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-maximizing-the-steam-decks-input-devices/"><u>The Essential Guide to Maximizing the Steam Deck's Input Devices</u></a></li>
 </ul></div>
 

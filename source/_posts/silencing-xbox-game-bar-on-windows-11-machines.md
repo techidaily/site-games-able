@@ -1,7 +1,7 @@
 ---
 title: Silencing Xbox Game Bar on Windows 11 Machines
-date: 2024-10-01T19:25:46.088Z
-updated: 2024-10-07T16:09:01.631Z
+date: 2024-10-06T17:29:57.827Z
+updated: 2024-10-13T04:17:14.048Z
 tags:
   - games
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
@@ -49,39 +49,34 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 3. Go to**Installed apps** on the right.  
 ![opening the list of installed apps to customize settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-list-of-installed-apps-to-customize-settings-1.jpg)
 4. Search**"Xbox"** in the search bar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
@@ -105,22 +100,21 @@ thumbnail: https://thmb.techidaily.com/d47941553c96756e0922bd70e1fb7654903727793
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-10-sites-for-vector-graphics-collection/"><u>[New] 2024 Approved Top 10 Sites for Vector Graphics Collection</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-a-step-by-step-guide-to-amplify-your-content-through-spotlighting/"><u>[Updated] A Step-by-Step Guide to Amplify Your Content Through Spotlighting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimal-graphics-setup-for-high-res-editing/"><u>[Updated] Optimal Graphics Setup for High Res Editing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-entry-level-expenditure-cost-effective-platforms-for-youtube-purchases/"><u>2024 Approved Entry-Level Expenditure Cost-Effective Platforms for YouTube Purchases</u></a></li>
-<li><a href="https://games-able.techidaily.com/cryptic-gaming-dialogues-on-series-sx-console/"><u>Cryptic Gaming Dialogues on Series S/X Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-steams-reacquired-content-failure-message/"><u>Fixing Steam's Reacquired Content Failure Message</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-planning-enhanced-with-gpt-top-6-steps-for-perfect-dandd-assistance/"><u>Game Planning Enhanced with GPT: Top 6 Steps for Perfect D&D Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-unique-chair-preference/"><u>Gamers' Unique Chair Preference</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-controls-the-role-of-mouse-sensitivity-in-fps/"><u>Mastering Controls: The Role of Mouse Sensitivity in FPS</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-guide-to-discovering-mp3-files-with-kitty-calls-and-meows/"><u>New 2024 Approved Guide to Discovering MP3 Files with Kitty Calls and Meows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/podcasters-guide-to-premium-recorders/"><u>Podcaster's Guide to Premium Recorders</u></a></li>
-<li><a href="https://games-able.techidaily.com/swiftly-recommissioning-steam-service/"><u>Swiftly Recommissioning Steam Service</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-platform-face-off-batocera-vs-retropie-in-gameplay-excellence/"><u>The Platform Face-Off: Batocera Vs. RetroPie in Gameplay Excellence</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/alleled-video-intros-made-easy-with-online-tools-for-2024/"><u>Unparalleled Video Intros Made Easy with Online Tools for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-essential-speech-recognition-software-android-and-ios-comparisons/"><u>Updated In 2024, Essential Speech Recognition Software Android & iOS Comparisons</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-voice-over-made-easy-final-cut-pro-tips-and-tricks-for-beginners/"><u>Updated In 2024, Voice Over Made Easy Final Cut Pro Tips and Tricks for Beginners</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-to-do-if-your-nintendo-switch-needs-repairing-or-replacing/"><u>What to Do if Your Nintendo Switch Needs Repairing or Replacing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-symphony-for-screens-music-in-instagram-visuals/"><u>[New] A Symphony for Screens Music in Instagram Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-ps5-dualsense-controllers-charger-guide/"><u>Comprehensive PS5 DualSense Controllers Charger Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-high-stakes-action-browsings-top-10-fps-games/"><u>Engage in High-Stakes Action: Browsing's Top 10 FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-nintendo-switch-with-these-key-configurations/"><u>Master Your Nintendo Switch with These Key Configurations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-call-recording-leveraging-google-voice-and-movavi-solutions/"><u>Mastering Call Recording: Leveraging Google Voice and Movavi Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-appearing-offline-on-steam/"><u>Seamlessly Appearing Offline on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-funding-sonys-game-library/"><u>Secrets to Funding Sony's Game Library</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-pcs-controller-detection-issues-compatibility-fixes-with-windows/"><u>Solve Your PC's Controller Detection Issues - Compatibility Fixes with Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-apple-vision-pro-revealed-pricing-breakdown-feature-overview-and-hands-on-impressions-in-depth-tech-review/"><u>The Apple Vision Pro Revealed: Pricing Breakdown, Feature Overview, and Hands-On Impressions | In Depth Tech Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-insight-into-dji-inspire-2-for-2024/"><u>The Ultimate Insight Into DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/thriving-community-through-board-games-and-card-games-on-discord/"><u>Thriving Community Through Board Games & Card Games on Discord</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-to-making-video-tutorials-for-2024/"><u>Ultimate Guide To Making Video Tutorials for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-apples-airpods-line-up-a-comprehensive-guide-to-distinguishing-between-models-tips-and-analysis/"><u>Understanding Apple's AirPods Line-Up: A Comprehensive Guide to Distinguishing Between Models | Tips & Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-social-and-multiplayer-capabilities-with-ea-play-on-the-ps5-console/"><u>Unlocking Social & Multiplayer Capabilities with EA Play on the PS5 Console</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unveiling-windows-8-updates-manually-changing-device-drivers/"><u>Unveiling Windows 8 Updates: Manually Changing Device Drivers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-download-and-install-splice-video-editor-on-your-mac/"><u>Updated In 2024, Download and Install Splice Video Editor on Your Mac</u></a></li>
 </ul></div>
 

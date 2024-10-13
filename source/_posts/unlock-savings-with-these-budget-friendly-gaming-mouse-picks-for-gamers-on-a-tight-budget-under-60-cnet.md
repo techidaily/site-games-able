@@ -1,7 +1,7 @@
 ---
 title: "Unlock Savings with These Budget-Friendly Gaming Mouse Picks for Gamers on a Tight Budget: Under $60 | CNET"
-date: 2024-09-19 13:25:52
-updated: 2024-09-20 10:12:41
+date: 2024-10-11T22:57:31.729Z
+updated: 2024-10-12T17:36:28.846Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -50,6 +57,13 @@ Before you begin, power off the PS5 and unplug the power cable, HDMI, and anythi
 To gain access to the SSD slot, you'll need to remove the back cover. If you have it positioned face down and the back of the console facing you, lift up on the front right corner and slide to the left. Once it's off, set the panel to the side. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove the expansion slot cover
 
@@ -71,11 +85,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-discovering-bargains-inexpensive-gopro-purchasing-guide/"><u>[Updated] Discovering Bargains Inexpensive GoPro Purchasing Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-game-soundscapes-transformed-a-ps4ps5-journey-for-2024/"><u>[Updated] Game Soundscapes Transformed A PS4/PS5 Journey for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-optimal-8-video-tools-to-boost-live-viewership/"><u>2024 Approved Optimal 8 Video Tools to Boost Live Viewership</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kissanime/"><u>完全なKissAnimeダウンロードマスタリーと、不可視ディテール対策を一刀両断！</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-duelist-decisions-controllers-vs-arcade-sticks/"><u>Digital Duelist Decisions: Controllers Vs. Arcade Sticks</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-save-and-report-in-game-voice-chat-on-xbox-series-xs/"><u>How to Save and Report In-Game Voice Chat on Xbox Series X|S</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-wi-fi-drivers-in-windows-11-a-step-by-step-guide/"><u>How to Update Wi-Fi Drivers in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-game-removal-and-reinstallation-guide/"><u>Ps5 Game Removal & Reinstallation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-perfect-gpu-founders-original-or-vega-asus-brand/"><u>Selecting Perfect GPU: Founders Original or Vega Asus Brand</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-7-best-bots-for-twitch-streamers/"><u>The 7 Best Bots for Twitch Streamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-restoring-steam-server-connections-in-windows/"><u>Tips for Restoring Steam Server Connections in Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nokia C12 | Dr.fone</u></a></li>
+</ul></div>
+

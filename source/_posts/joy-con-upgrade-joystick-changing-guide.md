@@ -1,7 +1,7 @@
 ---
 title: "Joy-Con Upgrade: Joystick Changing Guide"
-date: 2024-10-01T18:16:53.200Z
-updated: 2024-10-07T19:08:38.101Z
+date: 2024-10-05T21:06:27.470Z
+updated: 2024-10-13T10:53:11.367Z
 tags:
   - games
 categories:
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
@@ -49,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -80,23 +73,31 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 1. The first step is to remove the four screws on the back of the Joy-Con. This can be done with the 1.5mm tri-wing screwdriver.  
 ![Joy Con Four Back Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-four-back-screws.jpg)
 2. Gently run the plastic prying tool around the outside seam of your Joy-Con until the two plastic shells come apart.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Use the plastic prying tool to gently pry the battery out. It can be a little difficult since the battery is stuck down with some sticky tabs, but it will come loose eventually. If you don’t have a plastic prying tool, that’s fine, using your finger will do. Just make sure you don’t use anything metal to pry your battery out.
 4. Unplug the battery by pulling the cord directly upwards and placing it to the side.
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
 2. Gently unplug the blue ribbon cable near the joystick.
 3. Unplug the ribbon cable that runs over the top of the joystick.  
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
@@ -105,16 +106,17 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 2. The hardest ribbon cable to plug back in is the one for the center plate. Sit the plate beside the Joy-Con and notice the slight curve that the ribbon cable naturally has. Don't try to fight this curve or straighten it out, simply slide it back in the way it naturally wants to go.  
 ![ZL Ribbon Cable Reassembly Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/zl-ribbon-cable-reassembly-joy-con-1.jpg)
 3. Sit the center plate back in place and screw the three screws back into position with the 2.0mm Phillips head screwdriver.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Plug your battery back in by lining the plug up and pushing it down with a plastic tool.  
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
@@ -143,24 +145,20 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-banish-odd-greens-in-your-youtube-videos-using-mac-techniques/"><u>[New] 2024 Approved Banish Odd Greens in Your YouTube Videos Using Mac Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-harmony-in-sounds-legally-downloaded-meditation-chants-and-more/"><u>[New] 2024 Approved Harmony in Sounds Legally Downloaded Meditation Chants & More</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-selecting-premium-steadicams-to-improve-your-dslr-videos/"><u>[New] Selecting Premium Steadicams to Improve Your DSLR Videos</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigating-discords-streaming-features-desktopmobile/"><u>[Updated] In 2024, Navigating Discord's Streaming Features (Desktop/Mobile)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-top-tools-studio-vs-latest-beta-features/"><u>[Updated] YouTube's Top Tools Studio Vs. Latest Beta Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-faulty-card-status-alerts-in-gaming-devices/"><u>Eliminating Faulty Card Status Alerts in Gaming Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/evolving-game-scripting-with-ai-assistance/"><u>Evolving Game Scripting with AI Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-for-triumph-fps-game-settings/"><u>Fine-Tuning for Triumph: FPS Game Settings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-30-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Camon 30 Pro 5G Phone without Google Account?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-fresh-funds-finds-economical-monetization-platforms-for-beginners/"><u>In 2024, Fresh Funds Finds Economical Monetization Platforms for Beginners</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snapseed-simplified-the-photographers-first-toolkit/"><u>In 2024, Snapseed Simplified The Photographer's First Toolkit</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/los-mejores-20-conversores-de-video-libres-para-windows-seleccion-exclusiva-para-versiones-10-8-and-7/"><u>Los Mejores 20 Conversores De Vídeo Libres Para Windows - Selección Exclusiva Para Versiones 10, 8 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-play-reimagined-the-premier-nintendo-switch-docks-of-2024/"><u>Power Play Reimagined: The Premier Nintendo Switch Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-couch-collaboration-titles-for-xbox-series-consoles/"><u>Prime Couch Collaboration Titles for Xbox Series Consoles</u></a></li>
-<li><a href="https://games-able.techidaily.com/refund-your-xbox-games-step-by-step-guide/"><u>Refund Your Xbox Games - Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-steam-profile-hunt/"><u>Streamline Your Steam Profile Hunt</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-9-settings-for-a-fully-customized-and-optimized-switch/"><u>Top 9 Settings for a Fully Customized and Optimized Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-intel-stream-assist-and-how-does-it-make-game-streaming-better/"><u>What Is Intel Stream Assist and How Does It Make Game Streaming Better?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-calendar-integration-for-efficient-google-meets/"><u>[Updated] 2024 Approved Calendar Integration for Efficient Google Meets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-color-perfection-the-essential-list-of-best-luts-for-lightroom-users/"><u>2024 Approved Color Perfection The Essential List of Best LUTs for LightRoom Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-crystal-clear-visuals-resolving-graphic-blurriness-in-call-of-duty-warzone-for-pc/"><u>Achieve Crystal-Clear Visuals: Resolving Graphic Blurriness in Call of Duty: Warzone for PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-blunders-effective-strategies-to-prevent-errors-while-utilizing-champtgpt/"><u>Bypassing Blunders: Effective Strategies to Prevent Errors While Utilizing ChamptGPT</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video-for-2024/"><u>Decoding Dimensions The Key to Perfect Aspect Ratios in Video for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-steam-level-matter-to-you/"><u>Does Steam Level Matter to You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-playtime-for-families-valve-updates-steam-sharing-today/"><u>Enhanced Playtime for Families: Valve Updates Steam Sharing Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-tips-for-game-recording-on-windows-10-for-2024/"><u>Essential Tips for Game Recording on Windows 10 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-impact-of-game-mode-in-apples-macos-sonoma-upgrade/"><u>Exploring the Impact of Game Mode in Apple’s macOS Sonoma Upgrade</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-zte-nubia-flip-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor ZTE Nubia Flip 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keyboards-that-rule-the-game-modular-board-reviewed-mod007b/"><u>Keyboards That Rule the Game: Modular Board Reviewed - MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-xbox-gamepad-glitches-and-drifts/"><u>Overcoming Xbox Gamepad Glitches and Drifts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restore-scanner-link-to-computer-in-windows-10/"><u>Restore Scanner Link to Computer in Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-overview-guide-deconstructing-a-gaming-marvel-xbox-s/"><u>The Game Overview Guide: Deconstructing a Gaming Marvel - Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-from-show-to-storyline-in-multiple-fallouts/"><u>Transition From Show to Storyline in Multiple Fallouts</u></a></li>
 </ul></div>
 

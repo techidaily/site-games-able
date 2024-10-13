@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Magic of Text-Based Adventures with ChatGPT
-date: 2024-10-03T19:53:01.018Z
-updated: 2024-10-07T16:24:21.423Z
+date: 2024-10-06T17:25:22.284Z
+updated: 2024-10-13T11:01:33.693Z
 tags:
   - games
 categories:
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -80,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -138,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add Combat and Magic Rules
 
  As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -171,6 +171,13 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -189,16 +196,16 @@ And finally, don’t forget to actually start the game:
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -298,13 +305,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -326,17 +326,17 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-gameplay-streamlining-your-minecraft-recording-experience-on-mac/"><u>[New] Optimizing Gameplay Streamlining Your Minecraft Recording Experience on Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-premium-free-facebook-media-craftsman-suite-for-2024/"><u>[New] Premium Free Facebook Media Craftsman Suite for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-the-secrets-to-effective-instagram-scheduling/"><u>[New] Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-five-iphone-compatible-podcast-services/"><u>2024 Approved Five iPhone-Compatible Podcast Services</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722960918710-download-the-asus-atk0110-acpi-drivers-for-free-start-now/"><u>Download the ASUS ATK0110 ACPI Drivers for Free - Start Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-wirelessly-update-your-dualsense-controller/"><u>How to Wirelessly Update Your DualSense Controller</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/playstation-4-pro-review/"><u>PlayStation 4 Pro Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-gaming-with-premium-144hz-screens/"><u>Precision Gaming with Premium 144Hz Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/tall-titans-top-ranked-game-support-systems/"><u>Tall Titans' Top-Ranked Game Support Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-friendly-faction-duos-for-mobile-connectivity/"><u>Top 20 Friendly Faction Duos for Mobile Connectivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-methods-for-launching-powershell-on-windows-10-pcs/"><u>Top 9 Methods for Launching PowerShell on Windows 10 PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-essential-features-in-java-gaming-world/"><u>Top Picks: Essential Features in Java Gaming World</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-adsense-profits-on-youtube-earnings-per-thousand-video-watchers/"><u>[New] In 2024, AdSense Profits on YouTube Earnings per Thousand Video Watchers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-step-by-step-iphone-camera-adjustment-guide/"><u>[New] In 2024, Step-by-Step iPhone Camera Adjustment Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unearth-pristine-stock-media-from-selective-4-youtube-hubs/"><u>[New] In 2024, Unearth Pristine Stock Media From Selective 4 YouTube Hubs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unleash-the-full-potential-top-6-music-video-watching-apps-on-android/"><u>[New] In 2024, Unleash the Full Potential - Top 6 Music Video Watching Apps on Android</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-guide-to-iphone-screen-capturing-for-2024/"><u>[New] Step-by-Step Guide to Iphone Screen Capturing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/amazons-spring-deals-secure-a-50-discount-on-the-samsung-odyssey-g7-the-ultimate-gaming-display/"><u>Amazon's Spring Deals: Secure a 50% Discount on the Samsung Odyssey G7 – The Ultimate Gaming Display</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pick-for-gamers-seeking-immersive-audio-unveiling-epos-gtw-270-the-definitive-guide-on-zdnet/"><u>Top Pick for Gamers Seeking Immersive Audio: Unveiling EPOS GTW 270 – The Definitive Guide on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-sound-quality-with-shure-mv7-top-picks-for-podcasters-and-streamers-detailed-review-on-zdnet/"><u>Ultimate Sound Quality with Shure MV7: Top Picks for Podcasters & Streamers - Detailed Review on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-endless-gaming-entertainment-secure-xbox-game-pass-ultimate-for-just-40-lasting-3-months-exclusive-offer-inside/"><u>Unlock Endless Gaming Entertainment: Secure Xbox Game Pass Ultimate for Just $40, Lasting 3 Months – Exclusive Offer Inside!</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-your-game-display-to-powerhouse-of-efficiency-a-cost-effective-makeover-tutorial-zdnet/"><u>Upgrading Your Game Display to Powerhouse of Efficiency: A Cost-Effective Makeover Tutorial | ZDNET</u></a></li>
 </ul></div>
 

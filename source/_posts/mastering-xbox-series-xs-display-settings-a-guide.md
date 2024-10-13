@@ -1,7 +1,7 @@
 ---
 title: "Mastering Xbox Series X|S Display Settings: A Guide"
-date: 2024-10-01T17:33:11.642Z
-updated: 2024-10-07T17:06:59.194Z
+date: 2024-10-06T02:31:05.029Z
+updated: 2024-10-13T08:51:27.027Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ![Xbox General TV and Display Options Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/xbox-general-tv-and-display-options-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first screen gives you a general overview of what to expect when using the tool and encourages you to leave your TV on for around five minutes before you begin the process so the display can warm up. Once you’ve waited five minutes and read through the instructions, tap**Next** .
 
 ### Recommended Settings
@@ -54,18 +47,18 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ![TV Picture Settings Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-picture-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you regularly experience lag when you’re gaming, you may want to have your TV set to**Gaming Mode** instead. This mode can be found in the**General** settings, and while it does increase your performance, it also sacrifices your picture quality.
 
  Use**Picture Reset** after changing your**Picture Mode** settings to update your display and move onto your**Color Temp** or**Color Tone** settings. This setting will most likely be in your**Advanced** or**Expert** picture settings. Change your**Color Tone** to**Warm 1** ,**Low** ,**Mid** , or**Neutral** .
 
 ![TV Picture Settings Color Tone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-color-tone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scroll up or down until you find a setting labeled**Dynamic contrast** ,**black tone** , or**shadow detail** . Turn that off or to 0.
 
@@ -91,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  Open your TV's**Picture** settings and head to the**Advanced/Expert** section. Scroll down to the**Sharpness** setting, and turn it down as low as possible without blurring your image. Don’t be afraid to turn it all the way down to zero if you can.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optimizing Your Brightness Settings
@@ -105,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ![TV Calibration Brightness Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-brightness-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To set your brightness, head to your**Advanced/Expert** picture settings once again and press**Brightness** . First, scroll all the way up so you can see the**closed eye** . Then, scroll back down again until the**closed eye** just barely disappears into the darkness.
 
  Once complete, you shouldn’t be able to see the closed eye at all, and you should be able to only just see the**open eye** . It’s a good idea to tweak this setting while you are sitting in your usual TV viewing spot, as you might be able to see the eyes differently at different angles.
@@ -119,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![TV Settings HDMI Black Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-settings-hdmi-black-level.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you can't see the**closed eye** at all, go back to your TV's**General** settings and select**External Device Manager** . Open the**HDMI Black Level** setting and change it to**Auto** ,**Low** , or**Limited** . Then head back on your Xbox to reach your**General** settings and select**Video fidelity & overscan** .
@@ -136,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![TV Calibration Contrast Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-contrast-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You want to just barely be able to make out both images. Press**Next** when you’re done.
@@ -154,9 +140,23 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ![TV Calibration RGB Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-rgb-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once your TV display is blue, open the**Color** settings on your TV and adjust it so the blue and white columns on the top look the same. Then scroll to**Tint** or**Hue** and adjust it so the pink and cyan columns on the bottom match. Once all the colors are matching, change your**RGB filter** back to normal and press**Done** . Your TV will now be perfectly calibrated to your Xbox Series X|S.
 
  There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of[sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Allow Your Xbox Games to Look as Good as Possible
 
@@ -179,18 +179,17 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[New] In 2024, Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/est-junction-youtubes-top-20-for-a-lighthearted-pause/"><u>[New] Jest Junction YouTube's Top 20 for a Lighthearted Pause</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-avoiding-common-hashtag-faux-pas-on-instagram/"><u>[Updated] 2024 Approved Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-vidma-scratch-assessing-the-screen-capture-tool/"><u>[Updated] 2024 Approved Vidma Scratch Assessing the Screen Capture Tool</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-best-of-the-best-in-open-world-gaming-for-2024/"><u>[Updated] The Best of the Best in Open World Gaming for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-4-ways-record-your-screen-on-windows-8/"><u>2024 Approved 4 Ways Record Your Screen On Windows 8</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-nord-n30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Nord N30 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-your-ps4-remote-attached-strategies-to-prevent-drops-on-pc/"><u>Keeping Your PS4 Remote Attached: Strategies to Prevent Drops on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/lenovo-legion-go-redefined-top-5-new-features/"><u>Lenovo Legion Go Redefined - Top 5 New Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-match-the-guide-to-selecting-the-right-oled-display/"><u>Perfect Match: The Guide to Selecting the Right OLED Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-powerhouses-the-premier-nintendo-switch-docks-of-2024/"><u>Portable Powerhouses: The Premier Nintendo Switch Docks of 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-fix-guide-eliminate-kernelbasedll-crash-glitches-instantly/"><u>Quick-Fix Guide: Eliminate KernelBase.dll Crash Glitches Instantly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unveiling-lgs-cutting-edge-monitor-technology-in-detail/"><u>[New] In 2024, Unveiling LG’s Cutting-Edge Monitor Technology in Detail</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-rapid-restoration-snapped-shenanigans/"><u>[Updated] 2024 Approved Rapid Restoration Snapped Shenanigans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-video-maker-apps-for-novice-iphone-and-android-users/"><u>[Updated] Ideal Video Maker Apps for Novice iPhone and Android Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-masterclass-generating-professional-srt-documents/"><u>[Updated] In 2024, Masterclass Generating Professional SRT Documents</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-5-filters-for-deep-blue-cinematography/"><u>[Updated] Optimal 5 Filters for Deep Blue Cinematography</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-breaking-boundaries-coordinated-video-watch-across-channels/"><u>2024 Approved Breaking Boundaries Coordinated Video Watch Across Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-stars-staggering-fortune-from-youtube-success/"><u>Child Star's Staggering Fortune From YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-pimaxs-vivid-ventures-with-a-side-of-software-slip-ups/"><u>Discover Pimax's Vivid Ventures with a Side of Software Slip-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-a-gateway-into-understanding-game-dynamics/"><u>Helldivers 2: A Gateway Into Understanding Game Dynamics</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-vip-content-in-fortnite-via-ps5/"><u>Mastering VIP Content in Fortnite via PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-play-choosing-gamepad-over-console/"><u>Precision Play: Choosing Gamepad Over Console</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-rechargeable-battery-charger-units-in-2e24/"><u>Top-Rated Rechargeable Battery Charger Units in 2E24</u></a></li>
 </ul></div>
 

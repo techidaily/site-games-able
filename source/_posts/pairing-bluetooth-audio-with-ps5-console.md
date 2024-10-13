@@ -1,7 +1,7 @@
 ---
 title: Pairing Bluetooth Audio with PS5 Console
-date: 2024-10-04T18:35:04.762Z
-updated: 2024-10-07T19:35:36.086Z
+date: 2024-10-08T13:25:39.178Z
+updated: 2024-10-13T13:50:49.967Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  Thankfully, you can still experience this wireless freedom with your PS5, even though it doesn't officially support Bluetooth audio.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Connect Your Wireless Headphones to Your TV
 
  You may be unable to connect your Bluetooth headphones directly to your PS5, but you can connect them to your TV, provided it has Bluetooth support. The sound travels from your PS5 through your TV, so this method feels just like your headphones are connected to your console itself.
@@ -48,16 +41,16 @@ Here's how you can connect your Bluetooth headphones to your TV:
 
 ![TV Sound Output Settings Bluetooth Speaker List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-sound-output-settings-bluetooth-speaker-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Find and open the**Bluetooth Speaker List** , locate your headphones, and press**Pair and Connect** .
 
 ![TV Sound Output Settings Pair and Connect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-sound-output-settings-pair-and-connect.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This method can be used to connect Bluetooth headphones to any console you may have, so you can always listen to your games with the best quality possible.
 
@@ -68,10 +61,10 @@ Here's how you can connect your Bluetooth headphones to your TV:
 ![Sony PlayStation 5 DualSense Controller with Pulse 3D Wireless Headset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sony-playstation-5-dualsense-controller-with-pulse-3d-wireless-headset.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Sony](https://www.playstation.com/en-us/accessories/pulse-3d-wireless-headset/)
@@ -90,13 +83,26 @@ Here's how you can connect your Bluetooth headphones to your TV:
 
 ![Sound Output Settings on the PS5 Ensure Headphones Are Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sound-output-settings-on-the-ps5-ensure-headphones-are-selected-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can check this by opening your**Settings** , heading to**Sound** ,**Audio Output** , and making sure your headphones are listed as the**Output Device** . If not, click the drop-down arrow and select your headphones from the list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Listen to Your PS5 Audio Without Being Tethered to Your Machine
@@ -120,18 +126,17 @@ Here's how you can connect your Bluetooth headphones to your TV:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-unveiling-the-best-tiktok-to-gif-converter-software-for-2024/"><u>[New] Unveiling the Best TikTok to GIF Converter Software for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-efficient-use-of-vlc-for-media-creation/"><u>[Updated] In 2024, Efficient Use of VLC for Media Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-webinar-recording-tactics-zero-price-strategy/"><u>[Updated] In 2024, Webinar Recording Tactics Zero Price Strategy</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-building-interactive-elements-a-guide-to-html-input-fields/"><u>2024 Approved Building Interactive Elements A Guide to HTML Input Fields</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-leveraging-youtube-comments-for-content-improvement/"><u>2024 Approved Leveraging YouTube Comments for Content Improvement</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/a-comprehensive-list-of-best-skype-recorder-models/"><u>A Comprehensive List of Best Skype Recorder Models</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolution-correcting-the-0x8024401c-problem-when-updating-your-windows-1011-pc/"><u>Error Resolution: Correcting the 0X8024401c Problem When Updating Your Windows 10/11 PC</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
-<li><a href="https://games-able.techidaily.com/not-by-numbers-alone-a-critical-look-at-gaming-ratings/"><u>Not By Numbers Alone: A Critical Look at Gaming Ratings</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-performance-positions-top-game-sitting-choices/"><u>Peak Performance Positions: Top Game Sitting Choices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quickstep-ukranian-proficiency-10-minute-daily-goal-84-chars/"><u>Quickstep Ukranian Proficiency, 10-Minute Daily Goal (84 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-great-processor-race-who-wins-in-gaming/"><u>The Great Processor Race: Who Wins in Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-hardware-covers-unveiled/"><u>Xbox Hardware Covers Unveiled</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-beyond-boundaries-recognizing-leading-women-in-digital-storytelling/"><u>[Updated] In 2024, Beyond Boundaries Recognizing Leading Women in Digital Storytelling</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-ps4-to-work-with-windowsmacos-seamlessly/"><u>Converting PS4 to Work with Windows/macOS Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-maestro-leveraging-chatgpt-for-immersive-rpgs/"><u>From Novice to Maestro: Leveraging ChatGPT for Immersive RPGs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-manually-retry-and-complete-a-paused-ios-device-firmware-update/"><u>How to Manually Retry and Complete a Paused iOS Device Firmware Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-content-a-guide-to-engaging-live-thumbnails/"><u>In 2024, Elevate Your Content A Guide to Engaging Live Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateurs-to-experts-kinemasters-step-guide/"><u>In 2024, From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-full-screen-advantage-unveiled/"><u>Steam's Full-Screen Advantage Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-5-helmet-action-cameras-for-motorcycle-2023-update-for-2024/"><u>Top 5 Helmet Action Cameras For Motorcycle -2023 Update for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-beam-local-content-to-chromecast-easy-setup-for-windows-mac-android-and-ios-users-for-2024/"><u>Updated Beam Local Content to Chromecast Easy Setup for Windows, Mac, Android, and iOS Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-xboxs-ban-on-third-party-devices-mean-for-gamers/"><u>What Does Xbox's Ban on Third-Party Devices Mean for Gamers?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Challenge: The Most Infuriating Video Game Battles"
-date: 2024-10-03T17:17:47.956Z
-updated: 2024-10-07T17:23:52.806Z
+date: 2024-10-10T18:00:09.415Z
+updated: 2024-10-13T01:23:56.333Z
 tags:
   - games
 categories:
@@ -45,16 +45,16 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
@@ -69,22 +69,15 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -94,9 +87,23 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -122,13 +129,6 @@ Let’s explore some of the names leading the scene.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
@@ -150,21 +150,24 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-maximize-impact-tweeting-with-videos/"><u>[New] 2024 Approved Maximize Impact Tweeting with Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-strategies-and-costs-promoting-videos-effectively/"><u>[Updated] Strategies and Costs Promoting Videos Effectively</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-achieve-perfect-proportions-in-your-fb-videos-through-ratio-knowledge/"><u>2024 Approved Achieve Perfect Proportions in Your FB Videos Through Ratio Knowledge</u></a></li>
-<li><a href="https://games-able.techidaily.com/connectivity-boosted-best-3-streamers-for-nintendo-switch/"><u>Connectivity Boosted: Best 3 Streamers for Nintendo Switch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-free-c-span-footage-simple-legal-steps-explained-for-2024/"><u>Get Free C-Span Footage - Simple, Legal Steps Explained for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-the-scoop-macs-role-in-switch-gaming/"><u>Get the Scoop: Mac's Role in Switch Gaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-youtubes-secret-to-flawless-video-spin-guide-and-tips/"><u>In 2024, YouTube's Secret to Flawless Video Spin (Guide & Tips)</u></a></li>
-<li><a href="https://games-able.techidaily.com/intuitive-tips-for-determining-your-gaming-hours-on-xbox/"><u>Intuitive Tips for Determining Your Gaming Hours on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-up-with-your-switch-essential-care-routine/"><u>Keeping Up With Your Switch: Essential Care Routine</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/monetization-showdown-dailymotion-versus-youtube/"><u>Monetization Showdown Dailymotion Versus YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-future-with-steams-progressive-ai-policy/"><u>Navigating the Future with Steam’s Progressive AI Policy</u></a></li>
-<li><a href="https://video-capture.techidaily.com/navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/overcoming-connection-challenges-in-elden-rings-online-adventures/"><u>Overcoming Connection Challenges in Elden Ring's Online Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-your-game-collection-emulating-classics-using-steam-deck-and-emudeck/"><u>Simplify Your Game Collection: Emulating Classics Using Steam Deck and EmuDeck</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/step-by-screen-mirroring-connect-your-huawei-p50-with-a-computer/"><u>Step-by-Screen Mirroring: Connect Your Huawei P50 with a Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecnos-brilliant-blend-of-slim-and-spectacle-designs/"><u>Tecno's Brilliant Blend of Slim and Spectacle Designs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlock-visual-storytelling-potential-with-snapchat-edits/"><u>[New] 2024 Approved Unlock Visual Storytelling Potential with Snapchat Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-superior-methods-for-soundless-footage/"><u>[Updated] Superior Methods for Soundless Footage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-s17-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo S17 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-truegolf-gaming-experience-save-big-at-just-200-discover-your-deal-now/"><u>Affordable TrueGolf Gaming Experience: Save Big at Just $200 - Discover Your Deal Now!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-s18-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset S18 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-repair-damaged-windows-1011-system-files/"><u>Effective Solutions to Repair Damaged Windows 10/11 System Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-memorial-day-deal-get-your-nintendo-switch-oled-unit-for-just-118-from-walmart-insights-by-zdnet/"><u>Exclusive Memorial Day Deal: Get Your Nintendo Switch OLED Unit for Just $118 From Walmart - Insights by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-elite-list-of-2023s-ultimate-ps5-audio-devices-with-zdnets-review/"><u>Explore the Elite List of 2023'S Ultimate PS5 Audio Devices with ZDNet’s Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-soundscape-of-affordability-comprehensive-review-of-the-steelseries-arctis-nova-7-wireless-headset-for-all-heads-gadgetguruhub/"><u>Exploring the Soundscape of Affordability: Comprehensive Review of the SteelSeries Arctis Nova 7 Wireless Headset for All Heads | GadgetGuruHub</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-hp-victus-15-laptop-now-with-a-stunning-350-discount-only-at-best-buy-for-labor-day-celebration/"><u>Get the HP Victus ˈ15 Laptop Now With a Stunning $350 Discount Only at Best Buy for Labor Day Celebration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-zte-nubia-z60-ultra-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of ZTE Nubia Z60 Ultra Through Google Earth?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-x-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone X Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-navigating-the-obscured-realm-of-youtube-a-methodical-approach/"><u>In 2024, Navigating the Obscured Realm of YouTube A Methodical Approach</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-big-savings-up-to-33-off-on-xbox-game-pass-with-the-exclusive-fire-tv-stick-offer-for-labor-day-weekend-insider-alert/"><u>Score Big Savings: Up To 33% Off On Xbox Game Pass With The Exclusive Fire TV Stick Offer For Labor Day Weekend - Insider Alert!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-nubia-red-magic-9-proplus-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Nubia Red Magic 9 Pro+ FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-era-of-gaming-begins-with-sonys-playstation-5-pro-features-breakdown-pricing-info-release-schedule-and-full-analysis-from-zdnet/"><u>The New Era of Gaming Begins with Sony's PlayStation 5 Pro: Features Breakdown, Pricing Info, Release Schedule, and Full Analysis From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-review-mastering-race-day-with-the-logitech-g29-wheel-the-ultimate-choice-for-asphalt-enthusiasts-zdnet/"><u>Top Review: Mastering Race Day with the Logitech G29 Wheel - The Ultimate Choice for Asphalt Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-seating-options-a-comprehensive-guide-by-zdnet/"><u>Top-Rated Gaming Seating Options : A Comprehensive Guide by ZDNet</u></a></li>
 </ul></div>
 

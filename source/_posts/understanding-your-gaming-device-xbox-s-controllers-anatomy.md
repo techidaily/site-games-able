@@ -1,7 +1,7 @@
 ---
 title: "Understanding Your Gaming Device: Xbox S Controller's Anatomy"
-date: 2024-10-05T18:51:19.041Z
-updated: 2024-10-07T18:11:33.332Z
+date: 2024-10-09T07:54:10.212Z
+updated: 2024-10-13T10:54:26.032Z
 tags:
   - games
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even[fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Equipment Do You Need?
@@ -64,23 +64,18 @@ Overall, here's everything you need:
 ![Xbox Series X|S controller handle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-1.JPG)
 3. Once the panels are off, you'll have to remove the five Torx Security screws—two on each handle, one under the sticker in the battery compartment.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. The front and back panels should simply come off now.
 5. At this point, you'll have access to the thumbsticks, D-pad, triggers, and the face buttons.  
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 6. Flip the controller over and use the prying tool to unclip the plastic tab protecting the USB-C port.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Remove the tabs holding down the shoulder buttons from the left and right. This can be tricky, so be careful not to break the tabs. Once the tabs are open, take off the plastic cover.  
 ![Xbox Series X|S controller shoulder button tabs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-5.JPG)
 8. Use a T6 bit to unscrew the trigger vibration motors. The trigger should automatically come loose at this point.
@@ -89,14 +84,14 @@ Overall, here's everything you need:
 
 ![Xbox Series X|S controller trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-6.JPG)
 
- In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
 
 ### What Can You Do After Taking Apart Your Xbox Series X|S Controller?
 
@@ -112,10 +107,16 @@ Overall, here's everything you need:
  The Xbox button's color can also be changed by putting a thin film of colored plastic under the button when putting the controller back again. Since the front and the back panels are off now, spray-painting them to a different color is also not a bad idea. Do keep in mind though that if your controller is any other color except white, the end result may not be exactly what you expected. However, once all the pieces are out, the sky is the limit.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Xbox Controllers Might Be Hard to Disassemble, but Not Impossible
@@ -139,22 +140,20 @@ Overall, here's everything you need:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-frameworks-for-compelling-youtube-content-layouts/"><u>[New] 2024 Approved Frameworks for Compelling YouTube Content Layouts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-turning-talk-into-top-tier-podcasts-writing-and-samples-included-for-2024/"><u>[New] Turning Talk Into Top-Tier Podcasts Writing & Samples Included for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-using-zooms-snap-to-boost-video-conferences-for-2024/"><u>[New] Using Zoom’s Snap to Boost Video Conferences for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-your-privacy-awaits-the-top-10-no-cost-ultra-secure-mobile-chat-applications-for-todays-tech-users-for-2024/"><u>[Updated] Your Privacy Awaits The Top 10 No-Cost, Ultra-Secure Mobile Chat Applications for Today's Tech Users for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-controller-battery-duration-on-xbox/"><u>Enhancing Controller Battery Duration on Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-gaming-setup-guide-utilizing-alternate-hard-drives-with-steam/"><u>Essential Gaming Setup Guide: Utilizing Alternate Hard Drives with Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-unknown-top-7-linux-terminal-games/"><u>Explore the Unknown: Top 7 Linux Terminal Games</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-insights-by-toms-engineering-reviews/"><u>In-Depth Computer Insights by Tom's Engineering Reviews</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/innovative-strategies-for-revamping-your-video-covers-on-fb-for-2024/"><u>Innovative Strategies for Revamping Your Video Covers on FB for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-console-power-advanced-strategies-for-ps4-users/"><u>Optimizing Console Power: Advanced Strategies for PS4 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-console-issues-mend-or-substitute/"><u>Resolving Console Issues: Mend or Substitute?</u></a></li>
-<li><a href="https://games-able.techidaily.com/serene-gameplay-idle-experience-awaits/"><u>Serene Gameplay: Idle Experience Awaits</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-for-repairing-iphones-distance-sensing-functionality/"><u>Step-by-Step Guide for Repairing iPhone's Distance Sensing Functionality</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-for-skyrocketing-youtube-followers/"><u>Strategies for Skyrocketing YouTube Followers</u></a></li>
-<li><a href="https://games-able.techidaily.com/supers-clash-rtx-4070-super-versus-titan-and-4080-super-edition/"><u>Supers Clash: RTX 4070 Super Versus Titan and 4080 Super Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-3-nintendo-switch-multi-streamer-options/"><u>Top 3 Nintendo Switch: Multi-Streamer Options!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-the-spectrum-a-broad-overview-of-recorders/"><u>[New] 2024 Approved Capturing the Spectrum A Broad Overview of Recorders</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-spectrum-mastery-in-depth-color-techniques-for-2024/"><u>[New] Spectrum Mastery In-Depth Color Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-gaming-at-your-fingertips-top-10-vr-headsets-for-pc/"><u>[New] The Future of Gaming at Your Fingertips Top 10 VR Headsets for PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-7-best-online-voice-recorders-2023/"><u>[Updated] 2024 Approved 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/1300-on-the-market-the-samsung-odyssey-neo-x-g95-neo-monitor-now-available-at-best-buy-tech-news/"><u>$1,300 on the Market: The Samsung Odyssey Neo X G95 Neo Monitor Now Available At Best Buy - Tech News</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-implementing-gradual-diminishing-techniques-on-soundtracks-with-audacity/"><u>2024 Approved Implementing Gradual Diminishing Techniques on Soundtracks with Audacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-elite-vr-devices-unveiled-in-depth-evaluations-and-ratings-from-industry-experts-cnet/"><u>2024'S Elite VR Devices Unveiled: In-Depth Evaluations and Ratings From Industry Experts | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-unbeatable-savings-hp-victus-cuin-for-just-350-less-at-best-buys-labor-day-sale-event-gadgetflow/"><u>Experience Unbeatable Savings: HP Victus Cuin for Just $350 Less at Best Buy's Labor Day Sale Event | GadgetFlow</u></a></li>
+<li><a href="https://games-able.techidaily.com/fallout-navigate-through-the-post-apocalyptic-world-with-an-unbeatable-deal-save-big-on-fallout-76-for-xbox-at-only-2-this-weekend-featuring-unmatched-disco92/"><u>Fallout Navigate Through the Post-Apocalyptic World with an Unbeatable Deal - Save Big on Fallout 76 for Xbox at Only $2 This Weekend, Featuring Unmatched Discounts | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-look-at-the-steelseries-aerox-5-wired-mouse-unveiling-its-impact-on-gaming-experience-techradar/"><u>First Look at the SteelSeries Aerox 5 Wired Mouse: Unveiling Its Impact on Gaming Experience | TechRadar</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-instruction-loading-windows-movie-maker-60/"><u>In 2024, Step-by-Step Instruction Loading Windows Movie Maker 6.0</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-televisions-1k-or-less-proven-by-experts-zdnet/"><u>Top Affordable Televisions ($1K or Less) - Proven by Experts | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-is-your-next-choice-a-look-at-4-key-reasons-over-chatgpt/"><u>Why Claude 3 Is Your Next Choice: A Look at 4 Key Reasons Over ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-persistent-restart-cycles-in-windows-1110-effective-fixes-revealed/"><u>Winning Against Persistent Restart Cycles in Windows 11/10 - Effective Fixes Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Gaming Monitor Showdown: Find the Top Picks | CNET Review"
-date: 2024-09-18T18:01:46.447Z
-updated: 2024-09-21T00:23:00.019Z
+date: 2024-10-09T18:37:37.343Z
+updated: 2024-10-12T19:54:57.568Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -79,10 +93,10 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -141,5 +155,22 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/remium-10-audio-enhancers-for-multiple-systems-for-2024/"><u>[New] Premium 10 Audio Enhancers for Multiple Systems for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-photographic-journey-with-toolwiz-detailed-analysis-and-more/"><u>[Updated] Photographic Journey with Toolwiz Detailed Analysis and More</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unlocking-the-full-spectrum-of-vlc-player-capabilities-for-2024/"><u>[Updated] Unlocking the Full Spectrum of VLC Player Capabilities for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-repairing-broken-system-files-in-windows-10-11/"><u>Comprehensive Solutions for Repairing Broken System Files in Windows 10, 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-iphones-best-video-game-emulators-now/"><u>Discover iPhone's Best Video Game Emulators Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-for-video-trimming-cutting-down-file-size-and-excising-superfluous-segments/"><u>Effective Techniques for Video Trimming: Cutting Down File Size and Excising Superfluous Segments</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-easy-video-creation-with-ezvid-on-mac-for-2024/"><u>Elevate Your Storytelling Easy Video Creation with Ezvid on Mac for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-maestro-10-games-sharpening-artistic-prowess/"><u>From Novice to Maestro: 10 Games Sharpening Artistic Prowess</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-much-mouse-sensitivity-boosts-fps-performance/"><u>How Much Mouse Sensitivity Boosts FPS Performance?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-error-30005-create-file-failed-with-32-on-windows/"><u>How to Fix the Error 30005: Create File Failed With 32 on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/performance-meets-style-real-game-benefits-of-accessories/"><u>Performance Meets Style: Real-Game Benefits of Accessories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pinnacle-of-artistry-highlighting-top-6-nft-creators/"><u>The Pinnacle of Artistry Highlighting Top 6 NFT Creators</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controller-sync-up-with-pc-no-hassle-just-play-147-chars/"><u>Xbox Controller Sync-Up with PC - No Hassle, Just Play (147 Chars)</u></a></li>
+</ul></div>
 

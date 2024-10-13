@@ -1,7 +1,7 @@
 ---
 title: Free Gaming and Live Broadcasts on Linux Made Simple by Nobara - A Quick ZDNet Review with One Note
-date: 2024-09-16T16:08:59.981Z
-updated: 2024-09-20T21:45:19.505Z
+date: 2024-10-09T08:51:04.484Z
+updated: 2024-10-12T16:35:49.146Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,15 +96,22 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -132,5 +146,22 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>[New] Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/escaping-gaming-fatigue-6-refreshing-approaches/"><u>Escaping Gaming Fatigue: 6 Refreshing Approaches</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-against-the-flow-youtube-video-opposites/"><u>Going Against the Flow YouTube Video Opposites</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gold-medal-glory-olympic-speed-skating-short-track-highlights/"><u>Gold Medal Glory Olympic Speed Skating Short Track Highlights</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-facebook-has-changed-our-lives-for-better-or-worse/"><u>How Facebook Has Changed Our Lives for Better or Worse</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y27-4g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y27 4G is off? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-platform-battle-series-x-vs-pc-builds/"><u>Next Gen Platform Battle: Series X Vs. PC Builds</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-of-pushing-back-video-game-dates/"><u>Pros of Pushing Back Video Game Dates</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-cloud-operations-for-steam-devices/"><u>Seamless Cloud Operations for Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-crimes-with-4-smart-ai-games/"><u>Solve Crimes with 4 Smart AI Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-alan-wake-2-from-freezing-effective-fix-strategies-of-2024/"><u>Stop Alan Wake 2 From Freezing: Effective Fix Strategies of 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/struggling-with-secure-and-latest-dvd-ripping-issues-discover-our-fixes-now/"><u>Struggling with Secure & Latest DVD Ripping Issues? Discover Our Fixes Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-issues-with-pathfinder-wrath-of-the-righteous-pre-launch-problems/"><u>Troubleshooting Guide: Resolving Issues with Pathfinder: Wrath of the Righteous - Pre-Launch Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-ps3-games-with-ps4-device/"><u>Using PS3 Games with PS4 Device</u></a></li>
+</ul></div>
 

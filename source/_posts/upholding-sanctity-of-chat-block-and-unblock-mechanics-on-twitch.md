@@ -1,7 +1,7 @@
 ---
 title: "Upholding Sanctity of Chat: Block & Unblock Mechanics on Twitch"
-date: 2024-10-01T16:08:25.039Z
-updated: 2024-10-07T18:23:42.096Z
+date: 2024-10-07T22:23:16.147Z
+updated: 2024-10-13T09:17:31.637Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ Here's how to block or unblock someone on Twitch...
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Unblock People on Twitch: The Easiest Way
 
  When you want to unblock someone, however, things get a little more complicated. You can unblock someone by clicking on their card and selecting**Unblock** . But this only works for a very recent block.
@@ -60,26 +67,26 @@ Here's how to block or unblock someone on Twitch...
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
@@ -101,16 +108,16 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Account view page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-twitch-profile-view-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -121,13 +128,6 @@ Close
  As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can[view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Managing People Better on Twitch
 
@@ -148,24 +148,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-youtube-thumbnails-triple-neon-border-techniques/"><u>[New] 2024 Approved Elevate Your YouTube Thumbnails - Triple Neon Border Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-live-rhythm-streaming-on-qyoutube/"><u>[New] In 2024, Live Rhythm Streaming on QYoutube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-ranked-the-best-5-iphone-compatible-podcasting-apps/"><u>[New] Ranked The Best 5 iPhone-Compatible Podcasting Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-step-by-step-process-to-get-a-clean-canvas-in-figma-for-2024/"><u>[New] Step-by-Step Process to Get a Clean Canvas in Figma for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-acquire-excellent-images-at-no-cost-essential-strategies/"><u>2024 Approved Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-hidden-gems-a-deep-dive-review-of-the-beantech-bitwatch-s1-plus-for-savvy-shoppers/"><u>Discover the Hidden Gems: A Deep Dive Review of the Beantech Bitwatch S1 Plus for Savvy Shoppers</u></a></li>
-<li><a href="https://games-able.techidaily.com/gearhead-guidance-which-input-device-makes-the-best-driver/"><u>Gearhead Guidance: Which Input Device Makes the Best Driver?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-7-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 7 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-game-changing-truly-real/"><u>Is AceMagic's AM08 Pro Game-Changing Truly Real?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/maximizing-gaming-experience-record-games-on-win10-for-2024/"><u>Maximizing Gaming Experience Record Games on Win10 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-windows-games-on-m1-a-guide-with-crossover/"><u>Playing Windows Games on M1: A Guide with Crossover</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revitalize-your-computer-a-comprehensive-guide-to-resetting-windows-10-using-four-simple-procedures/"><u>Revitalize Your Computer: A Comprehensive Guide to Resetting Windows 10 Using Four Simple Procedures</u></a></li>
-<li><a href="https://games-able.techidaily.com/safe-play-facing-the-rising-game-crime-wave/"><u>Safe Play: Facing the Rising Game Crime Wave</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-switch-essential-3-live-stream-platforms/"><u>Supercharge Your Switch: Essential 3 Live-Stream Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-prime-8-gaming-hubs/"><u>The Ultimate Collection of Prime 8 Gaming Hubs</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-tech-showcased-mwc-and-makeuseofs-choice/"><u>Top Tech Showcased: MWC & MakeUseOf's Choice</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-use-inshot-for-laptoppc-and-alternatives-video-editor/"><u>[New] How to Use Inshot for Laptop/PC and Alternatives Video Editor</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-microsoft-teams-sessions-recording/"><u>[Updated] In 2024, Microsoft Teams Sessions Recording</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-note-50-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme Note 50 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-video-ram-in-your-pc/"><u>Assessing Video RAM in Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/eternal-digital-footprints-life-after-fb/"><u>Eternal Digital Footprints: Life After FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-link-ps-gaming-devices-with-nintendo-switch/"><u>How to Link PS Gaming Devices with Nintendo Switch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-facebooks-ultimate-add-ons-for-the-tech-enthusiast/"><u>In 2024, Facebook's Ultimate Add-Ons for the Tech Enthusiast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/keep-your-valuable-data-intact-a-guide-to-5-reliable-backup-solutions/"><u>Keep Your Valuable Data Intact: A Guide to 5 Reliable Backup Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-with-ease-through-these-prime-8-sites/"><u>Navigate with Ease Through These Prime 8 Sites</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/score-a-deal-on-macx-hd-video-converter-pro-exclusive-discounts-for-windows-users/"><u>Score a Deal on MacX HD Video Converter Pro - Exclusive Discounts for Windows Users!</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-personalized-sound-experience-via-headsets/"><u>Secure Personalized Sound Experience via Headsets</u></a></li>
 </ul></div>
 

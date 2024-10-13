@@ -1,7 +1,7 @@
 ---
 title: "Experience Game On: YouTube Introduces Mini-Games for All!"
-date: 2024-10-01T18:51:33.997Z
-updated: 2024-10-07T17:45:09.494Z
+date: 2024-10-10T03:21:53.962Z
+updated: 2024-10-12T22:18:19.445Z
 tags:
   - games
 categories:
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
  YouTube has rolled out a collection of mini-games as an experimental feature for select users, dubbed Playables. If you’re interested in playing, here is how to activate this feature and join in on the fun.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is YouTube Playables?
 
  Playables is a collection of YouTube mini-games that can be accessed on your smartphone via the YouTube app or through your desktop’s web browser.
@@ -63,10 +56,16 @@ Here are all the games accessible in the YouTube Playables section:
  Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who Can Play Playables on YouTube?
@@ -85,15 +84,22 @@ Here are all the games accessible in the YouTube Playables section:
 
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -102,25 +108,31 @@ Close
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
 
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -147,24 +159,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-tools-for-clear-uncompromised-4k-recordings/"><u>[New] 2024 Approved Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-review-of-ispring-recording-tech/"><u>[New] In 2024, The Ultimate Review of iSpring Recording Tech</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-remove-or-replace-the-background-in-logitech/"><u>[Updated] How to Remove or Replace the Background in Logitech</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-premier-updates-facebooks-latest-gems-unearthed/"><u>[Updated] In 2024, Premier Updates Facebook's Latest Gems Unearthed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-bingcoin-hoaxes-a-crypto-guide/"><u>Deciphering BingCoin Hoaxes: A Crypto Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-cost-free-ai-companions-similar-to-sora/"><u>Exploring Cost-Free, AI Companions Similar to Sora</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-depths-of-hrtf-for-competitive-advantage-in-valorant/"><u>Exploring the Depths of HRTF for Competitive Advantage in Valorant</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-boost-picture-clarity-on-an-iphone-with-low-megapixels/"><u>How to Boost Picture Clarity on an iPhone with Low Megapixels?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/llama-ai-vs-gpt-4-comparing-top-language-models/"><u>Llama AI Vs. GPT-4: Comparing Top Language Models</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915361726-navigating-the-giants-of-social-platforms-facebook-twitter-instagram-and-youtube/"><u>Navigating the Giants of Social Platforms - Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-vs-edge-ultimate-showdown-for-optimal-gaming-browser/"><u>Opera Vs Edge - Ultimate Showdown for Optimal Gaming Browser</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-your-console-solutions-for-xbox-series-issues/"><u>Revive Your Console: Solutions for Xbox Series Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-speculations-unveiled-hands-on-anticipation/"><u>Switch Speculations Unveiled - Hands-On Anticipation</u></a></li>
-<li><a href="https://games-able.techidaily.com/techniques-to-eliminate-xbox-pad-control-lapses/"><u>Techniques to Eliminate Xbox Pad Control Lapses</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-the-top-7-twitch-bot-innovations/"><u>The Essential Guide to the Top 7 Twitch Bot Innovations</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-ps4-system-reconfiguration-guide/"><u>The Ultimate PS4 System Reconfiguration Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-free-top-10-best-online-video-editors-no-watermark/"><u>Updated In 2024, FREE Top 10 Best Online Video Editors No Watermark</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-sx-teamwork-tutorial/"><u>Xbox S/X Teamwork Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/years-must-have-cases-for-portable-pc-enthusiasts/"><u>Year's Must-Have Cases for Portable PC Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-sync-your-world-step-by-step-windows-pc-tutorial-for-live-tv-recording/"><u>[Updated] 2024 Approved Sync Your World Step-by-Step Windows PC Tutorial for Live TV Recording</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-the-best-practices-for-timing-and-organizing-google-collaborations/"><u>[Updated] In 2024, Unveiling the Best Practices for Timing and Organizing Google Collaborations</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-monetization-timeline-for-successful-youtubers/"><u>2024 Approved Monetization Timeline for Successful YouTubers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-navigating-discord-live-a-users-blueprint/"><u>2024 Approved Navigating Discord Live A User's Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-using-an-external-hard-drive-via-steam/"><u>Elevate Gameplay: Using an External Hard Drive via Steam</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/exceptional-smartwatch-evaluation-the-artistry-of-samsung-galaxy-watch-inside-and-out/"><u>Exceptional Smartwatch Evaluation - The Artistry of Samsung Galaxy Watch Inside and Out</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>How to Record and Edit an Animoji or Memoji Karaoke Music Video?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-smart-8-plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Smart 8 Plus Phone Pattern Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-streaming-prime-and-twitch-collaboration/"><u>Mastering Streaming: Prime & Twitch Collaboration</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-2021s-apple-tv-4k-unraveling-the-power-of-high-definition-and-voice-controls/"><u>The Ultimate Guide to 2021'S Apple TV 4K: Unraveling the Power of High-Definition & Voice Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-240hz-gaming-screens-to-elevate-your-gameplay/"><u>Ultimate 240Hz Gaming Screens to Elevate Your Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-never-crash-again-with-these-top-insights/"><u>Unlock the Secrets to Never Crash Again with These Top Insights</u></a></li>
 </ul></div>
 

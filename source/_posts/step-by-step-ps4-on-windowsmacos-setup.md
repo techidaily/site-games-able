@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: PS4 on Windows/macOS Setup"
-date: 2024-10-04T18:00:28.455Z
-updated: 2024-10-07T17:00:59.911Z
+date: 2024-10-07T22:19:05.562Z
+updated: 2024-10-13T11:28:18.422Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
  The DualShock 4 will connect to your PC easily no matter which gaming platforms you use. The processes are slightly different depending on whether you're using Steam or not, but you can expect to have the controller set up within a few minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Connecting a DualShock 4 on Steam
 
  If you want to play some of the[best Steam games](https://www.makeuseof.com/tag/best-free-steam-games/) using a DualShock 4, you'll be pleased to know that the process is incredibly simple.
@@ -50,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 ![The controller settings menu in Steam Big Picture Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can even customize the LED color of the DualShock 4 in the Calibration and Advanced Settings menu.
@@ -61,10 +68,23 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 ![Steam calibration advanced settings controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-big-picture-mode-led.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Connecting a DualShock 4 for Non-Steam Games
@@ -81,31 +101,11 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
  And, like the Mac, you can use PS4 remote streaming to play your PS4 games on your PC. But again, you'll need to stay plugged in or use the adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The DualShock 4 Wireless USB Adapter
 
  If you're willing to shell out for an extra accessory, the DualShock 4 wireless USB adapter is a great way to use your controller on a computer that doesn't have Bluetooth or for some other reason isn't using the controller very well. It's a small USB dongle that enables all the DualShock's features in any app that supports them. That means you'll get full rumble, light bar, and even audio through the headphone jack.
 
  This adapter is no longer officially sold, but third-party versions exist on Amazon and other websites. You can find them for a relatively cheap price, and it could be a convenient way of getting full rumble, audio, and other functionality through the DualShock 4\. Despite being an older controller, the[DualShock 4 is a better PC controller than the Switch Pro controller](https://www.makeuseof.com/dualshock-4-vs-switch-pro-controller-best-for-pc-gaming/) , despite the latter controller coming out much later. This controller has stood the test of time for its robust design, superb responsiveness, and comfortable feel.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Game on Your PC With a PS4 Controller
 
@@ -128,22 +128,17 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-integrating-external-websites-into-instagrams-ecosystem/"><u>[New] 2024 Approved Integrating External Websites Into Instagram's Ecosystem</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-pro-a-guide-for-building-cool-metaverse-content/"><u>[New] From Novice to Pro A Guide for Building Cool Metaverse Content</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-conquer-tiktok-to-mp3-top-online-free-conversion-apps-ranked/"><u>[Updated] 2024 Approved Conquer TikTok to MP3 Top Online Free Conversion Apps Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-8-best-video-conferencing-software-for-small-business-safely/"><u>[Updated] In 2024, 8 Best Video Conferencing Software for Small Business Safely</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-list-of-mac-screen-capture-tools-for-2024/"><u>[Updated] The Ultimate List of Mac Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/become-an-instagram-analytics-expert-with-this-ultimate-performance-guide-for-2024/"><u>Become an Instagram Analytics Expert with This Ultimate Performance Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ddr5-system-standouts-best-in-24/"><u>DDR5 System Standouts: Best in '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciding-your-favorite-gaming-buddy-for-rpi-batocera-or-retropie/"><u>Deciding Your Favorite Gaming Buddy for RPi: Batocera or RetroPie?</u></a></li>
-<li><a href="https://games-able.techidaily.com/fine-tuning-settings-for-a-perfect-typing-experience-on-steam-deck/"><u>Fine-Tuning Settings for a Perfect Typing Experience on Steam Deck</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-apple-maps-on-a-windows-pc/"><u>How to Use Apple Maps on a Windows PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-a58-4g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo A58 4G is off? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-the-cyber-arena-a-balanced-review-of-digital-games/"><u>Joining the Cyber Arena: A Balanced Review of Digital Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-ssd-reviews-ps5-edition/"><u>Premium SSD Reviews: PS5 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/pretend-promo-reality-check-in-the-gaming-sphere/"><u>Pretend Promo Reality Check in the Gaming Sphere</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/synthesizing-visuals-seamlessly-gpt-4-meets-dall-e-techniques/"><u>Synthesizing Visuals Seamlessly: GPT-4 Meets DALL-E Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-6-game-dynamics-that-drive-player-engagement/"><u>The 6 Game Dynamics That Drive Player Engagement</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-6-step-playbook-to-activating-your-ps5/"><u>The 6-Step Playbook to Activating Your PS5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-zoo-matic-guide-to-improved-snapchat-media/"><u>[New] The Zoo-Matic Guide to Improved Snapchat Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/correct-oled-monitor-selection-learn-from-mistakes/"><u>Correct OLED Monitor Selection: Learn From Mistakes</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-red-tape-efficient-profile-management-for-switch/"><u>Cutting Red Tape: Efficient Profile Management for Switch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-restoring-functionality-to-a-broken-sound-blaster-mic/"><u>Expert Solutions: Restoring Functionality to a Broken Sound Blaster Mic</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-restoring-iphone-flashlight-functionality-discover-12-repair-techniques/"><u>Guide to Restoring iPhone Flashlight Functionality - Discover 12 Repair Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/hybridgraphics-reality-nvidia-and-intels-effortless-switching-in-win10/"><u>HybridGraphics Reality: NVIDIA & Intel’s Effortless Switching in Win10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-htc-u23-pro-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked HTC U23 Pro Phone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastering-the-art-of-live-image-capturing-on-screens/"><u>In 2024, Mastering the Art of Live Image Capturing on Screens</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>In 2024, The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-in-full-screen-mode/"><u>Navigating Steam in Full-Screen Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-ps5-adornments/"><u>The Ultimate Collection of PS5 Adornments</u></a></li>
 </ul></div>
 

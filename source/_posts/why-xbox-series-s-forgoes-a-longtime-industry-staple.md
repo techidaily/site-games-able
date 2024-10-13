@@ -1,7 +1,7 @@
 ---
 title: Why Xbox Series S Forgoes a Longtime Industry Staple
-date: 2024-09-30T18:27:59.262Z
-updated: 2024-10-07T18:36:26.004Z
+date: 2024-10-07T12:24:06.813Z
+updated: 2024-10-12T22:24:51.316Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
  While a disc drive-supported Xbox Series S would be hugely beneficial to you and other consumers, for Microsoft it could be a risky move that disturbs the main selling points of its flagship console. After all, if the Xbox Series S remained cheaper but supported discs, the reasons to get an Xbox Series X would narrow.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Keeping the Xbox Series S Digital-Only Guarantees Store Sales
 
  A less obvious sales reason the Xbox Series S is unlikely to get disc drive support is because of the console's heavy reliance on the Microsoft Store.
@@ -48,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
  That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
@@ -63,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 ![A photograph of a silver and black disc drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Curiously, the patent inferred that to verify your physical games for digital use, you would use an external disc drive to scan physical games. So it would seem that even with external disc drive support, the Series S is incapable of playing game discs, and instead can only validate and play them as digital versions.
@@ -81,20 +88,13 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Xbox Series S Is a Great Budget Console Even Without Disc Support
@@ -118,14 +118,18 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-maximizing-chances-to-engage-premier-filmmakers/"><u>[New] Maximizing Chances to Engage Premier Filmmakers</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-a-global-gaming-journey-with-switch/"><u>Embark on a Global Gaming Journey with Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-ps5-party-mode-sharing/"><u>Enabling PS5 Party Mode Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-ps-experience-with-effective-shopping/"><u>Enhance Your PS Experience with Effective Shopping</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-frontier-top-360-cameras-for-industry-pros-2023/"><u>In 2024, Exploring the Frontier Top 360° Cameras for Industry Pros, 2023</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-pixel-play-idling-worlds/"><u>Peaceful Pixel Play: Idling Worlds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/peeling-back-layers-of-the-metaverse-with-6-studies/"><u>Peeling Back Layers of the Metaverse with 6 Studies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-enhance-your-clips-with-these-top-5-macos-sierra-editors-for-2024/"><u>[New] Enhance Your Clips with These Top 5 macOS Sierra Editors for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-jest-junction-youtubes-top-20-for-a-lighthearted-pause/"><u>[New] In 2024, Jest Junction YouTube's Top 20 for a Lighthearted Pause</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevate-your-online-presence-utilizing-color-key-techniques/"><u>[Updated] 2024 Approved Elevate Your Online Presence Utilizing Color Key Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-hands-free-strategies-for-logging-online-meetings/"><u>[Updated] 2024 Approved Hands-Free Strategies for Logging Online Meetings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[Updated] From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-mastering-tiktok-videos-mac-editing-techniques/"><u>2024 Approved Mastering TikTok Videos Mac Editing Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/all-you-need-to-know-about-sonys-new-playstation-5-pro-key-benefits-cost-details-launch-timeline-and-more-insights-explore-inside/"><u>All You Need To Know About Sony's New PlayStation 5 Pro: Key Benefits, Cost Details, Launch Timeline, And More Insights - Explore Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-successfully-reinstall-realtek-hd-audio-driver-in-windows-11/"><u>How to Successfully Reinstall Realtek HD Audio Driver in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/hps-gaming-powerhouse-the-victus-15l-pc-slashes-price-to-480-for-labor-day-extravaganza-dont-miss-out-cnet-reviews/"><u>HP's Gaming Powerhouse, the Victus 15L PC, Slashes Price to $480 for Labor Day Extravaganza – Don’t Miss Out! | CNET Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/hps-new-launch-the-victus-15l-gaming-desktop-now-at-a-steal-for-520-get-the-scoop-on-huge-savings/"><u>HP's New Launch: The Victus 15L Gaming Desktop Now at a Steal for $520 – Get the Scoop on Huge Savings!</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-exclusive-offer-snag-your-free-xbox-game-pass-plus-save-an-unbelievable-33-on-amazon-fire-tv-sticks-act-fast/"><u>Labor Day Exclusive Offer: Snag Your FREE Xbox Game Pass + Save an Unbelievable 33% on Amazon Fire TV Sticks! Act Fast!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-comprehensive-playbook-for-self-branded-content-creators-for-2024/"><u>The Comprehensive Playbook for Self-Branded Content Creators for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-55-unbeatable-labor-day-2024-television-specials-exclusive-offers-you-cant-miss-zdnet/"><u>Top 55 Unbeatable Labor Day 2024 Television Specials - Exclusive Offers You Can't Miss (ZDNet)</u></a></li>
 </ul></div>
 

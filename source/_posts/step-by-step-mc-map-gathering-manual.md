@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step MC Map Gathering Manual
-date: 2024-10-01T16:35:13.384Z
-updated: 2024-10-07T16:34:24.064Z
+date: 2024-10-11T07:24:25.490Z
+updated: 2024-10-12T19:09:54.287Z
 tags:
   - games
 categories:
@@ -40,23 +40,9 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
  Once you've downloaded your new Minecraft maps, it's time to install them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install Minecraft Maps on Windows (Java)
 
 ![New mods make Minecraft amazing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-gaming-minecraft-mountain.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To use your new map file, you'll need to place it in the correct directory. Here's how you can do that for Minecraft Java on Windows:
 
@@ -66,15 +52,15 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 ![Using Run to open the appdata directory.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-run-appdata-1.jpg)
 4. In the text box, type**%appdata%** and press**Enter** to open the**C:\\Users\\yourusername\\AppData\\Roaming** directory.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the**Roaming** directory, find the folder labeled**.minecraft** . Inside, you'll find a folder labeled**saves** . This is where Minecraft stores its maps.
 6. Open the**saves** folder and paste the map folder inside. That's it!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternate Method
 
@@ -93,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 ![Minecraft Bedrock on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-bedrock-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can easily install custom maps on all Bedrock editions of Minecraft with .mcworld files. Simply double-click the .mcworld file to open Minecraft with the new map loaded. That's it!
 
  For older files that use the .zip extension, you'll have to extract them and manually move the contents to the minecraftWorlds folder.
@@ -108,16 +101,16 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 You're all set!
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install Minecraft Maps on Mac
 
 ![Installed maps in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-worlds-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To install Minecraft maps on macOS, you'll have to move the map files to the Minecraft saves folder, just like the Windows Java Edition. Start by downloading the .zip file for your map as before.
 
@@ -130,6 +123,13 @@ You're all set!
 7. Paste the**map folder** inside the**saves** folder.
 
  The new map will appear in the single-player menu as a new world. Now you can explore your freshly downloaded Minecraft map! You can even[create a Minecraft server](https://www.makeuseof.com/how-to-make-a-minecraft-server/) to explore the map with your friends.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install Minecraft Maps on Android (Bedrock)
 
@@ -152,6 +152,13 @@ Here's how you can install older Minecraft maps on Android:
 
  Done! Your Minecraft map should now show up in the game. Alternatively, you could also skip having to navigate on your phone by[moving the files from your computer to your Android device](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install Minecraft Maps on iOS (Bedrock)
 
 ![Person playing Minecraft on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-ios-map.jpg)
@@ -170,13 +177,6 @@ Here's how you can install older Minecraft maps on Android:
  You should see your new map under the Worlds heading. Tap it, and select the new world to explore it!
 
  If the steps in this method seem inconvenient, you can prime the files on your PC and then[transfer the files from your PC to your iPhone or iPad](https://www.makeuseof.com/tag/transfer-files-wirelessly-computers-ios-devices-fileapp/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Explore Other Worlds in Minecraft
 
@@ -199,18 +199,18 @@ Here's how you can install older Minecraft maps on Android:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-prime-selector-20-twitters-animated-treasure-chest/"><u>[New] Prime Selector 2.0 Twitter's Animated Treasure Chest</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-engaging-tactics-for-increased-subscriber-count/"><u>[Updated] Engaging Tactics for Increased Subscriber Count</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-mac-snapshot-strategies-revealed-the-top-5-innovative-approaches/"><u>[Updated] In 2024, Mac Snapshot Strategies Revealed The Top 5 Innovative Approaches</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-apples-latest-wearable-audio-tech-rumors-and-specs-included/"><u>All You Need to Know About Apple's Latest Wearable Audio Tech, Rumors & Specs Included!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-apple-devices-offline-game-roundup/"><u>Exclusive Apple Devices Offline Game Roundup</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-currency-how-to-get-it-with-ps5/"><u>Fortnite Currency: How to Get It with PS5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-csr-bluetooth-devices-official-drivers-here/"><u>Get Your CSR Bluetooth Device's Official Drivers Here!</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-reactivate-a-dead-microsoft-controller-on-windows/"><u>How to Reactivate a Dead Microsoft Controller on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/insights-into-nvidias-ai-improved-dlss-35/"><u>Insights Into Nvidia’s AI-Improved DLSS 3.5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-when-msvcrctdll-file-is-absent-on-windows/"><u>Troubleshooting Steps for When Msvcrct.dll File Is Absent on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/typing-efficiency-and-the-hidden-factor-of-refresh-intervals/"><u>Typing Efficiency and the Hidden Factor of Refresh Intervals</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-3-essential-voice-logging-tactics-for-ipad/"><u>[New] In 2024, The 3 Essential Voice Logging Tactics for iPad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>2024 Approved Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-proficiently-navigating-win-10/"><u>2024 Approved The Ultimate Guide to Proficiently Navigating Win 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-winxdvd-dvd-iphone/"><u>DVD 保存技術：WinXDVD 正版網站提供的 DVD 開膚手遊、影片換裝程式、iPhone 媒体共享</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-renaissance-classic-nintendo-roms-for-iphone/"><u>Gaming Renaissance: Classic Nintendo ROMs for iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-two-player-minecraft-on-the-nintendo-switch/"><u>How to Play Two-Player Minecraft on the Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-back-in-time-best-rated-ps3-game-emulators-for-a-blissful-gaming-experience-on-pc/"><u>Journey Back in Time: Best-Rated PS3 Game Emulators for a Blissful Gaming Experience on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/offline-odyssey-finding-joy-in-mobile-gaming-without-the-web/"><u>Offline Odyssey: Finding Joy In Mobile Gaming Without the Web</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premiere-mkv-player-suite-pcmobile-for-2024/"><u>Premiere MKV Player Suite (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strategies-for-effective-obs-live-feeds-on-facebook-for-2024/"><u>Strategies for Effective OBS Live Feeds on Facebook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamtech-analysis-rethinking-the-standard-choice/"><u>Streamtech Analysis Rethinking the Standard Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-enhance-gaming-experience/"><u>Top 4 iOS Emulation Apps: Enhance Gaming Experience</u></a></li>
+<li><a href="https://win-studio.techidaily.com/ultimate-walkthrough-upgrade-acer-aspire-laptop-hard-drive-to-solid-state-for-enhanced-performance-in-various-windows-versions/"><u>Ultimate Walkthrough: Upgrade Acer Aspire Laptop Hard Drive to Solid State for Enhanced Performance in Various Windows Versions</u></a></li>
 </ul></div>
 

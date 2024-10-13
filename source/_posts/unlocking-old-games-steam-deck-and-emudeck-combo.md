@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Old Games: Steam Deck & EmuDeck Combo"
-date: 2024-10-06T17:35:35.090Z
-updated: 2024-10-07T17:44:42.859Z
+date: 2024-10-11T08:56:05.823Z
+updated: 2024-10-13T07:28:57.062Z
 tags:
   - games
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 * [Should You Use EmuDeck to Emulate Games on Steam Deck?](#should-you-use-emudeck-to-emulate-games-on-steam-deck)
 * [How to Set Up EmuDeck on a Steam Deck](#how-to-set-up-emudeck-on-a-steam-deck)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * EmuDeck manages emulators and their installation for the Steam Deck, making it easier for those using the Linux-based SteamOS.
@@ -40,15 +33,22 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  You've probably heard plenty about how great the Steam Deck is as an emulation platform, but how do you actually get the emulators up and running? Let's take a look at how to play emulated games on the Steam Deck using EmuDeck.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use EmuDeck to Emulate Games on Steam Deck?
 
 ![screenshot of the main emudeck screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The first decision you'll need to make is which emulator to use. For this guide, we chose EmuDeck. For most users, this is an easy option because of the convenience of the platform.
 
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've switched to Desktop Mode, you'll need to head to the[EmuDeck website](https://www.emudeck.com) and download the install package. Make sure you do this on your actual Steam Deck, unless you're willing to copy it over from another device.
 
  This install package will need to be placed on your Steam Deck's desktop before you run it. You'll find this file in your**Downloads** folder unless saved elsewhere. Drag and drop this file onto the desktop. It's important to do this because the script will not run otherwise.
@@ -80,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 ![screenshot of the emudeck set up screen showing a selection between easy mode or custom mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_setup_easymode_or_custommode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We'll choose easy mode, as it's the most straightforward.
 
  The rest of the options are fairly self-explanatory. You'll have the option to choose between installing EmuDeck on your internal storage or an SD card. You'll also be provided a list of emulators you wish to install. Installing all of them will have a minimal impact on space, so feel free to do so if you want to avoid installing any emulators down the line.
 
  After you've chosen your emulators, the installation process is done. You now have all of your emulators ready and pre-configured for the Steam Deck's hardware and control layout.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Move Your ROMS Over to EmuDeck
 
@@ -121,13 +128,6 @@ We'll choose easy mode, as it's the most straightforward.
 
 ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
  EmuDeck has its own solution to this problem. Under the**Tools & Stuff** category in EmuDeck, you'll see something called the**Steam ROM Manager.** Launch this option, making sure to hit**Yes** on the warning message.
@@ -135,16 +135,10 @@ We'll choose easy mode, as it's the most straightforward.
 ![screenshot of the emudeck main screen showing steam rom manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen_showing_steam_rom_manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Steam ROM Manager automates the process of adding shortcuts to your Steam library, meaning that they can be launched from gaming mode. Specifically, it will scan your emulation library and add individual games as shortcuts.
@@ -174,16 +168,22 @@ We'll choose easy mode, as it's the most straightforward.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-are-camera-shakes-less-troublesome-after-photostable-effects/"><u>[New] In 2024, Are Camera Shakes Less Troublesome After PhotoStable Effects?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-skyrocketing-fb-engagement-masterful-seo-techniques-explored-for-2024/"><u>[Updated] Skyrocketing FB Engagement Masterful SEO Techniques Explored for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-undercover-upsell-simple-image-saving/"><u>[Updated] The Undercover Upsell Simple Image Saving</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-8-enhanced-peripherals-for-a-richer-metaverse-experience-for-2024/"><u>[Updated] Top 8 Enhanced Peripherals for a Richer Metaverse Experience for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-safety-of-enhancing-gameplay-in-roblox/"><u>Evaluating the Safety of Enhancing Gameplay in Roblox</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gimbal-guide-to-elevate-dslrmirrorless-footage/"><u>In 2024, Gimbal Guide to Elevate DSLR/Mirrorless Footage</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-connectivity-issues-on-switch/"><u>Navigating Connectivity Issues on Switch</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-free-switch-console-emulators/"><u>Premium Free Switch Console Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-deck-gaming-add-epic-and-gog-to-your-setup/"><u>Stream Deck Gaming: Add Epic & GOG to Your Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-gaming-on-the-switch-with-these-setups/"><u>Transforming Gaming on the Switch with These Setups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transformative-strategies-in-creating-engaging-fb-content/"><u>[Updated] 2024 Approved Transformative Strategies in Creating Engaging FB Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-content-crusaders-route-to-rapid-instagram-fame/"><u>[Updated] In 2024, Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-streamlining-communication-essentials-of-discords-video-sharing-feature/"><u>[Updated] In 2024, Streamlining Communication Essentials of Discord's Video Sharing Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-3d-blu-ray-players-for-2024/"><u>Best 3D Blu-Ray Players for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-ps4-reset-procedure-walkthrough/"><u>Detailed PS4 Reset Procedure Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-top-30-games-for-a-ps5-night-in/"><u>EA Play’s Top 30 Games for a PS5 Night In</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancinas-microsofts-windows-core-functions/"><u>Enhancinas Microsoft's Windows Core Functions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-itel-p55-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Itel P55 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-peak-performance-journey-for-your-docked-steam-deck/"><u>Navigating the Peak Performance Journey for Your Docked Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-control-transfer-sharing-your-mousekeyboard-with-the-steam-deck-through-barriers/"><u>Optimal Control Transfer: Sharing Your Mouse/Keyboard With the Steam Deck Through Barriers</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcome-steams-content-restriction-hiccup/"><u>Overcome Steam's Content Restriction Hiccup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sing-your-heart-out-detailed-assessment-of-the-vibrant-and-hassle-free-karaoke-experience-with-sml385btbk/"><u>Sing Your Heart Out: Detailed Assessment of the Vibrant and Hassle-Free Karaoke Experience with SML385BTBK.</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-titans-clash-xbox-series-x-vs-pc-gamers/"><u>Tech Titans Clash: Xbox Series X Vs. PC Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-downside-play-to-earn-model-in-game-development/"><u>The Downside: Play-to-Earn Model in Game Development</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-amazonbasics-flat-antenna-review-for-economical-free-to-air-tv-enthusiasts/"><u>The Ultimate AmazonBasics Flat Antenna Review for Economical Free-to-Air TV Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-customized-steam-deck-roadmap/"><u>Your Customized Steam Deck Roadmap</u></a></li>
 </ul></div>
 

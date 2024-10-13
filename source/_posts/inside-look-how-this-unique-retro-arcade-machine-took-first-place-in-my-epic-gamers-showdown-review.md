@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How This Unique Retro Arcade Machine Took First Place in My Epic Gamers’ Showdown Review."
-date: 2024-09-13T19:17:40.512Z
-updated: 2024-09-20T21:58:06.030Z
+date: 2024-10-10T09:40:53.597Z
+updated: 2024-10-13T06:10:13.529Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,16 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -85,10 +93,16 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
@@ -147,5 +161,24 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-reno-8t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo Reno 8T Activity | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>2024 Approved Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-creativity-iosandroids-best-caption-apps/"><u>Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-tips-and-tricks-how-to-perform-a-firmware-update-on-samsung-televisions/"><u>Easy Tips & Tricks: How To Perform A Firmware Update on Samsung Televisions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-walkthrough-uploading-and-installing-the-epson-xp-410-printer-drivers-for-optimal-windows-performance/"><u>Easy Walkthrough: Uploading and Installing the Epson XP- 410 Printer Drivers for Optimal Windows Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-sonys-portable-gaming-device-ps-portable/"><u>Exploring Sony's Portable Gaming Device: PS Portable</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-world-of-mobile-gaming-via-google-play-games-pc/"><u>Exploring the World of Mobile Gaming via Google Play Games PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-every-title-count-in-epic-games-repository/"><u>Guaranteeing Every Title Count in Epic Games Repository</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-swift-guide-to-screenshots-via-ipados/"><u>In 2024, Swift Guide to Screenshots via iPadOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-multi-functional-display-features-for-games/"><u>Investigating Multi-Functional Display Features for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-paying-for-ea-play-a-sensible-spend/"><u>Is Paying for EA Play a Sensible Spend?</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-your-game-victories-a-screenshot-strategy/"><u>Keeping Your Game Victories: A Screenshot Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-film-fanfare-discover-how-to-enjoy/"><u>PS5 Film Fanfare: Discover How To Enjoy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-for-iphone-hotspot-not-working-error/"><u>Step-by-Step Solution for 'iPhone Hotspot Not Working' Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncharted-upsurges-ephemeral-play-advantages/"><u>Uncharted Upsurges: Ephemeral Play Advantages</u></a></li>
+</ul></div>
 

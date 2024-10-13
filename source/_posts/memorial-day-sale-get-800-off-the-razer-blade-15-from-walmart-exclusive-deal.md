@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Sale: Get $800 Off the Razer Blade 15 From Walmart - Exclusive Deal"
-date: 2024-09-15T23:25:04.392Z
-updated: 2024-09-21T00:08:32.532Z
+date: 2024-10-08T16:09:56.681Z
+updated: 2024-10-12T17:10:06.229Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -60,10 +67,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -78,6 +85,19 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
@@ -85,10 +105,16 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -141,5 +167,22 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-adding-sounds-to-your-story-a-premiere-pro-guide/"><u>[Updated] 2024 Approved Adding Sounds to Your Story A Premiere Pro Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-camera-woes-ended-by-fix-obs/"><u>[Updated] 2024 Approved Camera Woes Ended by Fix - OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-restore-lost-facebook-watch-thumbnail-for-2024/"><u>[Updated] Restore Lost Facebook Watch Thumbnail for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-clarifying-gap-between-full-view-and-immersive-videos/"><u>2024 Approved Clarifying Gap Between Full View & Immersive Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-decisive-captures-combatting-disarray/"><u>2024 Approved Decisive Captures Combatting Disarray</u></a></li>
+<li><a href="https://games-able.techidaily.com/dangers-in-the-idea-of-paying-for-gaming-development/"><u>Dangers in the Idea of Paying for Gaming Development</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-transform-itunes-library-to-mp3-format-with-no-cost-compatible-with-both-windows-and-mac-os/"><u>Download and Transform iTunes Library to MP3 Format with No Cost, Compatible with Both Windows and Mac OS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elite-selection-of-must-see-vr-films-for-2024/"><u>Elite Selection of Must-See VR Films for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-accurate-game-detections-by-steam/"><u>Ensuring Accurate Game Detections by Steam</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-3-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 3 Prowith/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-smart-with-a-self-fixed-xbox-controller-setup/"><u>Play Smart with a Self-Fixed Xbox Controller Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/playful-discovers-integrating-board-games-on-discord/"><u>Playful Discovers: Integrating Board Games on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-allure-and-popularity-of-cozy-gameplay/"><u>The Allure and Popularity of Cozy Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-underrated-value-of-gaming-accessories/"><u>The Underrated Value of Gaming Accessories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-coin-experts-cant-be-replaced-by-gpt-analysis-tools/"><u>Why Coin Experts Can't Be Replaced by GPT Analysis Tools</u></a></li>
+</ul></div>
 

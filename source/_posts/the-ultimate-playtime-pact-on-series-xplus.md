@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Playtime Pact on Series X+
-date: 2024-10-04T17:19:40.090Z
-updated: 2024-10-07T16:46:46.522Z
+date: 2024-10-07T21:34:43.312Z
+updated: 2024-10-13T08:47:09.124Z
 tags:
   - games
 categories:
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
  If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Make a Club on My Xbox Series X|S?
@@ -52,32 +52,27 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 2. Scroll to the right until you reach the**People** tab.  
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Select**Create club** once you’ve made your choices.
 8. From there, you can customize your club by giving it a background and profile image, choosing a color scheme, and making tags to help others find and join your exclusive club.  
@@ -87,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
 
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
 
@@ -99,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedc
 5. Head to the**Club settings** .  
 ![Delete Club Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-club-screen-xbox.jpg)
 6. Make your way to the**Ownership** section, and press**Delete club** .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your Club will now be deleted.
 
@@ -130,22 +125,20 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-top-8-safe-online-collaboration-software-for-businesses/"><u>[New] Top 8 Safe Online Collaboration Software for Businesses</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-steps-to-record-films-on-computersmacs-and-phones/"><u>[Updated] 2024 Approved Essential Steps to Record Films on Computers/Macs & Phones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-music-infused-content-sharing-strategies-for-facebook/"><u>[Updated] In 2024, Music-Infused Content Sharing Strategies for Facebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac-for-2024/"><u>Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-system-enhancements-cpu-vs-gpu-priority/"><u>Deciphering System Enhancements: CPU Vs. GPU Priority</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-the-go-phone-or-larger-screen/"><u>Game on the Go: Phone or Larger-Screen?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-t2-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo T2 Pro 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/in-depth-dive-origin-of-foddian-titles/"><u>In-Depth Dive: Origin of Foddian Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-gear-for-nintendos-switch-the-premier-guide/"><u>Mastery Gear for Nintendo's Switch – The Premier Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-passcode-no-problem-keeping-games-offline/"><u>No Passcode, No Problem: Keeping Games Offline</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-the-steam-remote-link-to-your-windows-system/"><u>Securing the Steam Remote Link to Your Windows System</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-platform-for-gamers-debated/"><u>The Best Platform for Gamers Debated</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oneplus-nord-ce-3-lite-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 OnePlus Nord CE 3 Lite 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-non-functioning-integrated-webcams-in-windows/"><u>Ultimate Guide: Resolving Non-Functioning Integrated Webcams in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-visual-potential-and-slip-ups-of-pimax-crystal/"><u>Unleash the Visual Potential and Slip-Ups of Pimax Crystal</u></a></li>
-<li><a href="https://techidaily.com/x5-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>X5 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-videos-to-vault-ajays-revenue-journey-on-youtube-for-2024/"><u>[Updated] From Videos to Vault AJay’s Revenue Journey on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-monetization-value-per-million-views-for-2024/"><u>[Updated] Youtube's Monetization Value per Million Views for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-guide-to-applying-luts-in-professional-production/"><u>2024 Approved Expert Guide to Applying LUTs in Professional Production</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-quality-meets-convenience-the-best-5-hd-webcams-and-mics/"><u>2024 Approved Quality Meets Convenience - The Best 5 HD Webcams & Mics</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicating-display-driver-failed-error-in-windows-devices/"><u>Eradicating Display Driver Failed Error in Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/freedom-from-realms-exporting-your-creations/"><u>Freedom From Realms: Exporting Your Creations</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-cost-chronicles-steam-edition/"><u>Game Cost Chronicles: Steam Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-freedom-fights-vs-service-shackles/"><u>Game Freedom Fights Vs. Service Shackles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-hand-on-the-latest-50-youtube-promo-banners/"><u>Get Your Hand on the Latest 50 YouTube Promo Banners!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-12-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-10-best-free-video-cutters-for-mp4-files/"><u>New The 10 Best Free Video Cutters for MP4 Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneering-led-lights-and-their-impact/"><u>Pioneering LED Lights and Their Impact</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/proficient-techniques-securely-embedding-a-url-in-tiktok-profiles-for-2024/"><u>Proficient Techniques Securely Embedding a URL in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-longevity-turn-it-off-to-keep-going/"><u>PS5 Longevity: Turn It Off to Keep Going</u></a></li>
+<li><a href="https://games-able.techidaily.com/remote-play-mastery-with-steams-storage-and-drive-management/"><u>Remote Play Mastery with Steam’s Storage and Drive Management</u></a></li>
 </ul></div>
 

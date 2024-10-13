@@ -1,7 +1,7 @@
 ---
 title: Transform Your Arcade Space with Big Box Backdrops
-date: 2024-10-01T19:21:28.594Z
-updated: 2024-10-07T19:08:33.088Z
+date: 2024-10-10T23:37:15.474Z
+updated: 2024-10-12T22:25:08.111Z
 tags:
   - games
 categories:
@@ -43,26 +43,32 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This saves days’ worth of work alone, and means[LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Big Box Adds Context to Your Library
@@ -74,19 +80,25 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
@@ -132,21 +144,21 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-set-up-facebook-cover-videos/"><u>[New] 2024 Approved Set up Facebook Cover Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-expedite-your-videos-on-tiktok-secrets-revealed/"><u>[Updated] 2024 Approved Expedite Your Videos on TikTok Secrets Revealed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevating-your-android-experience-through-recording/"><u>[Updated] In 2024, Elevating Your Android Experience Through Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos/"><u>2024 Approved Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-am08-pro-transform-acemagic-experience/"><u>Does AM08 Pro Transform AceMagic Experience?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-13t-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi 13T</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor X9b? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-subtitle-skills-with-this-complete-guide-and-tips/"><u>In 2024, Perfect Your Subtitle Skills with This Complete Guide & Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-cold-weather-spectacle-of-beijing-2022-for-2024/"><u>The Cold-Weather Spectacle of Beijing 2022 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-definitive-list-of-switch-cart-holder-innovations/"><u>The Definitive List of Switch Cart Holder Innovations</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps-vr2-extras/"><u>The Ultimate Guide to PS VR2 Extras</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-wheel-debate-arcade-vs-modern-race-control/"><u>The Wheel Debate: Arcade Vs. Modern Race Control</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-off-system-gaming-potential-with-steam-storage-manager/"><u>Unlocking Off-System Gaming Potential with Steam Storage Manager</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unpacking-features-a-deep-dive-into-free2xs-tools-for-2024/"><u>Unpacking Features A Deep Dive Into Free2X's Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-consoles-core-an-xbox-s-controller-study/"><u>Unveiling the Console's Core: An Xbox S Controller Study</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-to-expect-from-amds-graphics-powerhouses-xt-series-review/"><u>What to Expect From AMD's Graphics Powerhouses: XT Series Review</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-3-steps-for-perfect-instagram-video-margins/"><u>[New] 2024 Approved 3 Steps for Perfect Instagram Video Margins</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[Updated] In 2024, AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutting-costs-without-losing-sound-beeloud-41/"><u>Cutting Costs Without Losing Sound: BeeLoud 41</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elite-scripting-plugins-for-ae/"><u>Elite Scripting Plugins for AE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-0xc0000022-effective-strategies-for-repairing-your-adobe-programs/"><u>Error 0Xc0000022: Effective Strategies for Repairing Your Adobe Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-to-securely-share-your-pcs-devices-with-a-steam-deck-using-barriers/"><u>Expert Tips to Securely Share Your PC's Devices with a Steam Deck Using Barriers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-and-use-a-ps5-controller-on-your-pc/"><u>How to Connect and Use a PS5 Controller on Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-smart-8-hd-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Smart 8 HD Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/investing-smartly-in-virtual-reality-headsets/"><u>Investing Smartly in Virtual Reality Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-data-safety-securing-your-steam-images/"><u>Maximize Data Safety: Securing Your Steam Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-playfulness-6-tactics-to-curb-burnout/"><u>Restoring Playfulness: 6 Tactics to Curb Burnout</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-display-enhanced-update-complete-for-2024/"><u>Shorts Display Enhanced – Update Complete for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-is-now-6-cases-for-retro-project-and-raspberry-pi/"><u>The Future Is Now - 6 Cases for Retro Project and Raspberry Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-hidden-steam-accomplishments-quickly/"><u>Unveiling Hidden Steam Accomplishments Quickly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-stardew-valleys-most-innovative-game-updates/"><u>Unveiling Stardew Valley's Most Innovative Game Updates</u></a></li>
 </ul></div>
 

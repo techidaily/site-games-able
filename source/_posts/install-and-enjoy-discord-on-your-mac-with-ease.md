@@ -1,7 +1,7 @@
 ---
 title: Install and Enjoy Discord on Your Mac with Ease
-date: 2024-10-03T19:14:50.432Z
-updated: 2024-10-07T19:09:17.813Z
+date: 2024-10-10T21:29:04.195Z
+updated: 2024-10-13T10:08:55.371Z
 tags:
   - games
 categories:
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Install Discord on Your Mac
 
  You now have to run Discord's DMG file. Here's how to do it:
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 4. Close the Finder window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
@@ -66,15 +59,28 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Sign Up or Sign In to Discord
 
 ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
@@ -82,16 +88,10 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
  If you don't have an account, click**Register** at the bottom and fill in your details.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Started With Discord on Your Mac
@@ -115,18 +115,22 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-listenleads-whats-better-than-dacast/"><u>[New] ListenLeads What's Better than DaCast?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-in-depth-analysis-top-15-youtube-channels-for-epic-product-reviews/"><u>[Updated] 2024 Approved In-Depth Analysis Top 15 YouTube Channels for Epic Product Reviews</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practices-for-filming-and-sharing-immersive-content-on-fb/"><u>[Updated] In 2024, Best Practices for Filming and Sharing Immersive Content on FB</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-laughter-is-free-access-to-top-meme-creations/"><u>[Updated] Laughter Is Free Access to Top Meme Creations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>2024 Approved Step-by-Step Manual Implementing Speech to Text with Google Docs</u></a></li>
-<li><a href="https://games-able.techidaily.com/cozy-game-trends-a-closer-look/"><u>Cozy Game Trends: A Closer Look</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixes-and-solutions-how-to-troubleshoot-an-hp-wireless-keyboard-that-wont-respond/"><u>Fixes & Solutions: How to Troubleshoot an HP Wireless Keyboard That Won't Respond</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-chic-crests-curating-the-best-websites-for-aesthetic-laptop-backgrounds/"><u>In 2024, Chic Crests Curating the Best Websites for Aesthetic Laptop Backgrounds</u></a></li>
-<li><a href="https://games-able.techidaily.com/lost-in-the-web-how-to-reestablish-your-mc-network-link/"><u>Lost in the Web: How to Reestablish Your MC Network Link</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-integration-incorporating-gpt-3-into-your-python-projects/"><u>Mastering AI Integration: Incorporating GPT-3 Into Your Python Projects</u></a></li>
-<li><a href="https://games-able.techidaily.com/mouse-vs-graphics-tablet-which-is-better-for-rhythm-games/"><u>Mouse Vs. Graphics Tablet: Which Is Better for Rhythm Games?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-the-essentials-of-streaming-tools/"><u>Navigating Through the Essentials of Streaming Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/strengthening-the-eastern-front/"><u>Strengthening the Eastern Front</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-interactive-stories-in-real-time-with-fb-screen-features-for-2024/"><u>[New] Interactive Stories in Real-Time with FB Screen Features for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-metaverse-multiverse-dichotomy-explained/"><u>[New] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discovering-elite-emoji-design-tools-on-discord-platform-for-2024/"><u>[Updated] Discovering Elite Emoji Design Tools on Discord Platform for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-interest-a-list-of-30-video-themes/"><u>[Updated] Ignite Interest A List of 30 Video Themes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-friends-first-gaming-metaverses-10-best-picks/"><u>2024 Approved Friends First Gaming Metaverse’s 10 Best Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/convenient-connectivity-streaming-pc-games-to-steam-deck/"><u>Convenient Connectivity: Streaming PC Games to Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-nvidias-latest-app-elevate-your-gameplay/"><u>Discovering Nvidia's Latest App: Elevate Your Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/emudeck-integration-guide-for-ultimate-gaming-experience/"><u>EmuDeck Integration Guide for Ultimate Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-rejoice-akkos-mod007b-keys-reviewed-for-you/"><u>Gamers Rejoice! Akko's MOD007B Keys Reviewed for You</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-premium-justifiable-or-overpriced/"><u>Gaming Premium: Justifiable or Overpriced?</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-a-study-in-engaging-successful-games/"><u>Helldivers 2: A Study in Engaging, Successful Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-helldivers-ii-collapsing-in-pc-effective-solutions/"><u>Resolving Issues with Helldivers II Collapsing in PC - Effective Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-audio-clarity-to-your-xbox-console/"><u>Restoring Audio Clarity to Your Xbox Console</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/simplified-system-copying-a-step-by-step-guide-to-replicating-your/"><u>Simplified System Copying: A Step-by-Step Guide to Replicating Your</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-itel-p55plus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Itel P55+ Phones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-blogging-essentials-step-by-step-path-to-success/"><u>Travel Blogging Essentials Step-by-Step Path to Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-full-potential-a-complete-ps4-reset/"><u>Unleashing Full Potential: A Complete PS4 Reset</u></a></li>
 </ul></div>
 

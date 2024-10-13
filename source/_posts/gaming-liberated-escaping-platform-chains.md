@@ -1,7 +1,7 @@
 ---
 title: "Gaming Liberated: Escaping Platform Chains"
-date: 2024-10-02T17:19:40.221Z
-updated: 2024-10-07T18:34:20.251Z
+date: 2024-10-10T20:20:02.372Z
+updated: 2024-10-12T16:02:50.643Z
 tags:
   - games
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
  Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy[arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
@@ -71,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
@@ -94,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why I'm Glad Platform Exclusives Are No More
 
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
@@ -108,10 +108,16 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
@@ -135,24 +141,24 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-chorus-climaxes-ultimate-hits-to-accompany-your-promise-for-2024/"><u>[New] Chorus Climaxes Ultimate Hits to Accompany Your Promise for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-pro-level-insights-for-perfectly-crafted-snaps/"><u>[Updated] In 2024, Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-join-the-visual-speech-the-simple-guide-to-posting-and-uploading-gifs-on-instagram-for-2024/"><u>[Updated] Join the Visual Speech The Simple Guide to Posting and Uploading GIFs on Instagram for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-seamless-sound-shift-ultimate-guide-to-video-to-audio-tools-for-2024/"><u>[Updated] Seamless Sound Shift Ultimate Guide to Video-to-Audio Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-top-10-strategies-for-youtube-shorts-that-make-an-impact/"><u>[Updated] Top 10 Strategies for Youtube Shorts That Make an Impact</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leveraging-android-for-immersive-virtual-and-360-videos/"><u>2024 Approved Leveraging Android for Immersive Virtual and 360 Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-unleashing-creativity-writing-scripts-for-youtube-content-excellence/"><u>2024 Approved Unleashing Creativity Writing Scripts for YouTube Content Excellence</u></a></li>
-<li><a href="https://games-able.techidaily.com/compile-of-engaging-games-for-universal-player-partnerships/"><u>Compile of Engaging Games for Universal Player Partnerships</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-discords-idle-signal-fact-or-fiction/"><u>Deciphering Discord's 'Idle' Signal - Fact or Fiction?</u></a></li>
-<li><a href="https://games-able.techidaily.com/dynamic-cooling-design-maximizes-graphics-output-speed/"><u>Dynamic Cooling Design Maximizes Graphics Output Speed</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-hdi-display-fidelity-mouse-options/"><u>Elite HDI Display Fidelity Mouse Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-together-dual-gameplay-in-minecraft-switch-edition/"><u>Exploring Together: Dual Gameplay in Minecraft Switch Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-world-warfare-ps5-vs-inexpensive-pc-gamers/"><u>Game World Warfare: PS5 V/S Inexpensive PC Gamers</u></a></li>
-<li><a href="https://win11.techidaily.com/gpu-strain-tested-the-most-effective-win-utilities-ranked/"><u>GPU Strain Tested: The Most Effective Win Utilities Ranked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-reno-10-5g-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Reno 10 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/survivors-odyssey-navigating-through-the-infinite-cycle-of-black-resilience/"><u>Survivors' Odyssey: Navigating Through the Infinite Cycle of Black Resilience</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-impermanence-of-games-does-it-matter-to-gamers/"><u>The Impermanence of Games – Does It Matter to Gamers?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-quick-lifecycle-of-game-servers-to-care-or-not/"><u>The Quick Lifecycle of Game Servers: To Care or Not?</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-personalized-steam-login-number/"><u>Unraveling Personalized Steam Login Number</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-swift-srt-to-text-transformation/"><u>[New] Master the Art of Swift SRT to Text Transformation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-say-goodbye-to-excess-master-the-art-of-editing-tiktok-drafters/"><u>[New] Say Goodbye to Excess Master the Art of Editing TikTok Drafters</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-crusader-kings-3-stalling-performance-in-pc/"><u>[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-chucklebox-build-memes-free-of-charge/"><u>[Updated] 2024 Approved ChuckleBox Build Memes Free of Charge</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>[Updated] In 2024, The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-vivo-v30-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V30 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-the-popularity-of-cozy-games/"><u>Delving Into the Popularity of Cozy Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/eye-candy-or-expense-top-6-arguments-against-gaming-displays/"><u>Eye Candy or Expense? Top 6 Arguments Against Gaming Displays</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-xr-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone XR Display? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>In 2024, Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-mobile-titles-with-controller-use/"><u>Masterful Mobile Titles With Controller Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-high-definition-screen-scale-glitches/"><u>Overcoming High-Definition Screen Scale Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-ps4-pad-problems-a-handbook-for-controller-rejuvenation/"><u>Overcoming PS4 Pad Problems: A Handbook for Controller Rejuvenation</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-computing-experience-install-nvidia-driver-updates/"><u>Streamline Your Computing Experience – Install Nvidia Driver Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-phenomenon-how-cozy-gaming-captures-hearts/"><u>The Phenomenon: How Cozy Gaming Captures Hearts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-retro-gaming-top-ps3-emulators-for-pc-enthusiasts/"><u>Unlock Retro Gaming: Top PS3 Emulators for PC Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/veiled-gaming-on-steam/"><u>Veiled Gaming on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-xbox-game-pass-everything-you-need-to-know/"><u>What Is Xbox Game Pass? Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-without-drive-letters-reasons-and-redeeming-solutions-explored/"><u>Windows Without Drive Letters: Reasons and Redeeming Solutions Explored</u></a></li>
 </ul></div>
 

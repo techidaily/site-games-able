@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Pleasures: The Indie Game Selection Journey"
-date: 2024-10-06T16:43:20.727Z
-updated: 2024-10-07T19:33:28.515Z
+date: 2024-10-08T23:22:11.724Z
+updated: 2024-10-13T01:34:10.672Z
 tags:
   - games
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -43,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
  To progress in the game, you build up conversational capital and challenge the other characters to various debates, basically RPG battles where “fight” and “magic” have been replaced by “pow” and “tact” to represent your conversational prowess.
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Untitled Goose Game
 
@@ -53,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -71,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -91,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
  What’s great about itch.io is not just that it’s sort of a free-for-all for indie games, but many of those games are playable in your browser, meaning you don’t have to sign up for an account or download any files, so it’s easy enough to dip in and out of new titles.
 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
@@ -128,21 +128,19 @@ thumbnail: https://thmb.techidaily.com/b940b6b0f5ea7e32cad1821c53c7dd63eece1d15c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-quick-connectivity-iphone-images-to-windows/"><u>[New] 2024 Approved Quick Connectivity IPhone Images to Windows</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-in-depth-review-the-full-picture-of-facetunes-new-features/"><u>2024 Approved In-Depth Review The Full Picture of Facetune's New Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/5yuv55s744gu5lik44gr55s75yop44ks6ywn572u44gz44kl44gf44kb44gu44k344o844og44os44k544gq44k944ov44oi44km44kn44ki44o744oe44o844or44ks44kk44oj/"><u>動画の上に画像を配置するためのシームレスなソフトウェア・ツールガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/did-your-wordle-streak-disappear-on-iphone-or-android-heres-the-fix/"><u>Did Your Wordle Streak Disappear on iPhone or Android? Here’s the Fix</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-list-of-free-global-communication-tools/"><u>Discover the Ultimate List of Free Global Communication Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-up-the-freeze-0x887a0006-error-in-windows-11/"><u>Easing Up the Freeze: 0X887A0006 Error in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/elevate-playtime-with-new-driver-updates-for-dell-g3-gpu-optimal-gaming-experience-awaits/"><u>Elevate Playtime with New Driver Updates for Dell G3 GPU: Optimal Gaming Experience Awaits</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-immersive-worlds-a-step-by-step-guide-to-playing-games-on-meta-quest-and-steam-headset/"><u>Enjoy Immersive Worlds - A Step-by-Step Guide to Playing Games on Meta Quest & Steam Headset</u></a></li>
-<li><a href="https://games-able.techidaily.com/flashback-to-fun-modern-tactics-for-game-enjoyment-post-flash/"><u>Flashback to Fun: Modern Tactics for Game Enjoyment Post-Flash</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-playstation-portable-to-windows-the-steam-deck-method/"><u>From PlayStation Portable to Windows - The Steam Deck Method</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/icy-illusions-reveling-at-beijings-olympic-event-2022-for-2024/"><u>Icy Illusions Reveling at Beijing's Olympic Event, 2022 for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic-6-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic 6 Phone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-digital-revolution-integrating-dslr-into-online-platforms-from-home-pcsmacs/"><u>In 2024, Digital Revolution Integrating DSLR Into Online Platforms From Home PCs/Macs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-youtube-tactics-for-maximum-impact-heres-what-you-need-to-know-for-2024/"><u>Proven YouTube Tactics for Maximum Impact – Here's What You Need to Know for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-your-pc-transition-to-nvidias-latest-rtx-technology-right-now/"><u>Should Your PC Transition to Nvidia's Latest RTX Technology Right Now?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-mobile-gamers-dilemma-pros-and-cons/"><u>The Mobile Gamer's Dilemma: Pros & Cons</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clearer-anonymity-discreet-faces-deletion/"><u>[New] Clearer Anonymity Discreet Faces Deletion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-creative-tinder-bio-ideas-to-make-your-profiles-cant-resist/"><u>[Updated] Creative Tinder Bio Ideas to Make Your Profiles Can't Resist</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-new-short-form-fb-story/"><u>[Updated] The New Short-Form FB Story</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-vr-buying-guide-mobile-liberty-or-tethered-unity/"><u>2024 Approved The Ultimate VR Buying Guide Mobile Liberty or Tethered Unity?</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-rgb-customization-on-your-win11-device/"><u>Enabling RGB Customization on Your Win11 Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/is-inshot-the-best-of-the-best-expert-reviews-speak-up/"><u>Is InShot The Best of the Best? Expert Reviews Speak Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/precursors-in-selecting-an-ideal-portable-gaming-system/"><u>Precursors in Selecting an Ideal Portable Gaming System</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-unresponsive-mouse-scroll-wheel/"><u>Remedy Unresponsive Mouse Scroll Wheel</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-of-xbox-discounts-on-series-sandx/"><u>Secrets of Xbox Discounts on Series S&X</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-world-with-windows-and-steamos-coexistence/"><u>Step Into a World with Windows & SteamOS Coexistence</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-value-chroma-membrane-and-mechanical-keys-reviewed/"><u>Top Value Chroma Membrane & Mechanical Keys Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-redefines-family-gaming-with-new-sharing-update/"><u>Valve Redefines Family Gaming with New Sharing Update</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-gaming-audio-problem-anchor-yourself-with-the-ultimate-anthem-soundfix-guide/"><u>Windows 10 Gaming Audio Problem: Anchor Yourself with the Ultimate Anthem Soundfix Guide</u></a></li>
 </ul></div>
 

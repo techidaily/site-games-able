@@ -1,7 +1,7 @@
 ---
 title: Score Three Months More on Xbox Game Pass Ultimate with a Low-Cost Plan - Secrets Unveiled by ZDNET
-date: 2024-09-13T18:39:32.468Z
-updated: 2024-09-20T21:51:41.376Z
+date: 2024-10-08T19:49:58.220Z
+updated: 2024-10-12T16:44:45.782Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -60,10 +74,10 @@ There's a single screw holding the cover in place; remove it and set it aside in
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
@@ -85,16 +99,10 @@ Slide the SSD into the connector at an angle. Push it in until you feel it lock 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Format the SSD
@@ -147,5 +155,16 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-goovision-elite-next-gen-screen-capture/"><u>[New] 2024 Approved GooVision Elite Next-Gen Screen Capture</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>[New] In 2024, Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-level-up-your-screen-shots-the-experts-approach-to-ps4-capture-for-2024/"><u>[New] Level Up Your Screen Shots The Expert's Approach to PS4 Capture for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-from-theory-to-practice-mastering-instagram-livestreams-through-obs/"><u>[Updated] 2024 Approved From Theory to Practice Mastering Instagram Livestreams Through OBS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-essential-fps-for-pristine-slow-motion-film-quality-for-2024/"><u>[Updated] Essential FPS for Pristine Slow-Motion Film Quality for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-through-recovery-strategies/"><u>Enhancing Gameplay Through Recovery Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-games-back-manual-ejection-on-xbox-sx/"><u>Get Your Games Back! Manual Ejection on Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-companions-for-your-ps5-console/"><u>Perfect Companions for Your PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/pointer-playfulness-stylus-superiority-in-syncopation/"><u>Pointer Playfulness: Stylus Superiority in Syncopation</u></a></li>
+</ul></div>
 
