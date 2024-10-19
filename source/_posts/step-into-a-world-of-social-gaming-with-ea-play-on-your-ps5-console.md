@@ -1,7 +1,7 @@
 ---
 title: Step Into a World of Social Gaming with EA Play on Your PS5 Console
-date: 2024-10-07T00:17:12.568Z
-updated: 2024-10-13T05:05:19.493Z
+date: 2024-10-16T00:06:55.923Z
+updated: 2024-10-18T20:26:50.984Z
 tags:
   - games
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 4. Select**$4.99** and choose**Order & Pay** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
@@ -62,25 +62,26 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 2. Select**View Games** , and you’ll find yourself in the**EA Play Play List** .  
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -88,14 +89,14 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
- Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
 ## EA Play Saves You Money
 
@@ -118,22 +119,22 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-elite-tech-selection-the-15-finest-cameras/"><u>[New] Elite Tech Selection – The 15 Finest Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-countdown-magic-discover-10-must-have-androidios-clocks/"><u>[New] In 2024, Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-curbing-common-mishaps-youtube-short-edition/"><u>[New] In 2024, Curbing Common Mishaps YouTube Short Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-dissecting-reversed-photo-searches-in-the-virtual-cosmos-fb/"><u>[Updated] 2024 Approved Dissecting Reversed Photo Searches in the Virtual Cosmos (FB)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-showcasing-the-best-of-image-integration-in-frames-for-24/"><u>[Updated] Showcasing the Best of Image Integration in Frames for '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/adventure-parks-at-your-fingertips-with-ar-gaming/"><u>Adventure Parks at Your Fingertips with AR Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-vs-you-discover-top-6-challenging-online-chess-platforms/"><u>AI vs You: Discover Top 6 Challenging Online Chess Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-you-putting-too-much-emphasis-on-steam-points/"><u>Are You Putting Too Much Emphasis on Steam Points?</u></a></li>
-<li><a href="https://games-able.techidaily.com/astral-artisan-examining-emerging-pc-brands/"><u>Astral Artisan: Examining Emerging PC Brands</u></a></li>
-<li><a href="https://games-able.techidaily.com/backtracking-xbox-series-xs-controller-update/"><u>Backtracking Xbox Series X/S Controller Update</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-of-titans-on-a-tech-platform-batocera-vs-retropie/"><u>Battle of Titans on a Tech Platform: Batocera Vs. RetroPie</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-11-affordable-word-game-apps-for-smartphones/"><u>Best 11 Affordable Word Game Apps for Smartphones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-memes-with-a-humor-shaper-for-2024/"><u>Best Memes with a Humor Shaper for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expanding-your-workspace-setting-up-secondary-displays-on-macos/"><u>Expanding Your Workspace: Setting up Secondary Displays on macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167382104-free-isnt-always-best-explore-these-5-reasons-to-pay-up/"><u>Free Isn't Always Best: Explore These 5 Reasons to Pay Up!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-quick-guide-to-cloud-gaming-with-xbox-game-pass-ultimate/"><u>The Quick Guide to Cloud Gaming With Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-magic-6-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor Magic 6 Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-ultimate-fb-downloading-kit-best-for-ff-browser-users-for-2024/"><u>[New] Ultimate FB Downloading Kit - Best for FF Browser Users for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-customizing-terminal-color-schemes/"><u>A Guide to Customizing Terminal Color Schemes</u></a></li>
+<li><a href="https://games-able.techidaily.com/criteria-for-selecting-standout-discord-groups-today/"><u>Criteria for Selecting Standout Discord Groups Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-the-language-labyrinth-with-nyts-latest-puzzle-thriller-strands/"><u>Decode the Language Labyrinth with NYT's Latest Puzzle Thriller - 'Strands'</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-all-in-one-video-editor-for-mac-edit-convert-share/"><u>In 2024, All-in-One Video Editor for Mac Edit, Convert, Share</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-brand-your-channel-innovative-banner-templates-for-gamers/"><u>In 2024, Brand Your Channel Innovative Banner Templates for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-a14-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy A14 5G Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-pivot-to-personal-how-to-directly-send-tweets-videos-on-whatsapp/"><u>In 2024, Pivot to Personal How to Directly Send Tweets' Videos on WhatsApp</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-into-nvidia-g-sync-the-ultimate-smoother-gaming-tool/"><u>Journey Into Nvidia G-Sync: The Ultimate Smoother Gaming Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-how-to-install-logitech-wireless-mice-on-windows-systems/"><u>Latest Updates: How to Install Logitech Wireless Mice on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-hidden-user-technique-for-steam/"><u>Mastering the Hidden User Technique for Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalizing-variable-refresh-rate-on-your-xbox-console/"><u>Personalizing Variable Refresh Rate on Your Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-crashes-a-guide-to-steam-big-picture/"><u>Preventing Crashes: A Guide to Steam Big Picture</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-refresh-rates-in-240hz-gamer-tech/"><u>Superior Refresh Rates in 240Hz Gamer Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-emulators-for-the-steam-deck/"><u>The 9 Best Emulators for the Steam Deck</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformer-des-fichiers-caf-en-aiff-gratuite-et-facile-avec-movavi-en-ligne/"><u>Transformer Des Fichiers CAF en AIFF Gratuite Et Facile Avec Movavi en Ligne</u></a></li>
 </ul></div>
 

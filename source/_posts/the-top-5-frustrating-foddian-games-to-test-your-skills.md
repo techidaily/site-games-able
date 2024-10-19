@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Frustrating Foddian Games to Test Your Skills
-date: 2024-10-11T23:03:06.794Z
-updated: 2024-10-12T20:14:42.102Z
+date: 2024-10-16T10:16:55.009Z
+updated: 2024-10-19T04:29:01.904Z
 tags:
   - games
 categories:
@@ -46,22 +46,21 @@ Let’s explore some of the names leading the scene.
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
@@ -80,10 +79,10 @@ Let’s explore some of the names leading the scene.
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
@@ -108,15 +107,22 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
@@ -150,14 +156,15 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fundamental-blueprints-to-enhance-facebook-ad-engagement/"><u>[New] In 2024, Fundamental Blueprints to Enhance Facebook Ad Engagement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/5-easy-techniques-for-incornporating-audio-in-instavids/"><u>5 Easy Techniques for Incornporating Audio in InstaVids</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-close-look-at-some-unconventional-indie-game-choices/"><u>A Close Look at Some Unconventional Indie Game Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-game-breaking-signal-disruptions-in-pokemon-go/"><u>Avoiding Game-Breaking Signal Disruptions in Pokémon GO</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-your-way-through-artistic-gameplay-with-tablets/"><u>Beat Your Way Through Artistic Gameplay with Tablets</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-from-a-missing-openal32dll-file-effective-fixes-and-tips/"><u>How to Recover From a Missing openal32.dll File - Effective Fixes & Tips</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-7-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 7 Plus</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-imagecaptor-3000-windowsmacs-ultimate-choice/"><u>In 2024, ImageCaptor 3000 Windows/Mac's Ultimate Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719162480304-the-most-reliable-ios-gaming-tools-ranked-find-out-now/"><u>The Most Reliable iOS Gaming Tools Ranked: Find Out Now</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-behind-the-scenes-crafting-confidential-snap-narratives/"><u>[New] 2024 Approved Behind the Scenes Crafting Confidential Snap Narratives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-directing-content-flow-uploading-imovie-films-to-youtube-for-2024/"><u>[Updated] Directing Content Flow Uploading IMovie Films to YouTube for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-from-tweets-to-device-storage-android-and-iphone-gif-steps-for-2024/"><u>[Updated] From Tweets to Device Storage Android & iPhone GIF Steps for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-profits-how-much-do-creators-earn-from-each-ad/"><u>[Updated] Unveiling Profits How Much Do Creators Earn From Each Ad?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-mac-friendly-switch-titles/"><u>Discovering Mac-Friendly Switch Titles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/masterpiece-dialogues-across-8-film-genres/"><u>Masterpiece Dialogues Across 8 Film Genres</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-your-chat-using-whatsapp-with-facebook-avatars/"><u>Maximizing Your Chat: Using WhatsApp with Facebook Avatars</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-terrain-of-steam-playtime-tracking-and-awards/"><u>Navigating the Terrain of Steam Playtime Tracking and Awards</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-settings-the-guide-to-enabling-password-on-your-nintendo-switch/"><u>Secure Settings: The Guide to Enabling Password on Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/when-to-reinitialize-your-playstation-5-controller/"><u>When to Reinitialize Your PlayStation 5 Controller</u></a></li>
 </ul></div>
 

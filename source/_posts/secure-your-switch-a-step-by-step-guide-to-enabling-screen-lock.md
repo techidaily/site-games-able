@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Switch: A Step-by-Step Guide to Enabling Screen Lock"
-date: 2024-09-18T20:14:09.242Z
-updated: 2024-09-20T22:00:50.118Z
+date: 2024-10-12T02:52:30.903Z
+updated: 2024-10-18T19:58:05.410Z
 tags:
   - games
 categories:
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
  Just because you share a console with someone, doesn't mean they should be able to see everything in your account. Here's how to set up a password (or pin code) on your Nintendo Switch or Switch Lite.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is a Nintendo Switch Passcode?
 
  For most users, a passcode is more than enough for their privacy needs. Similar to mobile phones, a passcode on your Nintendo Switch will help prevent other people from opening certain games or software on your console without your consent.
@@ -41,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
  Unfortunately, there's still no official way to put a passcode on a Switch in the same way you can put one on a mobile phone, for example. Adding a passcode to your Nintendo Switch doesn't prevent people from picking it up and being able to use it.
 
  Instead, it is a Parental Control measure that blocks players from accessing games of their choosing and places a time limit on the Switch. While you can't add a passcode to your Nintendo Switch in the traditional sense and lock it completely, the passcode options the Switch does offer are still great for parents who are keen on protecting their children on the device.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable a Passcode on the Nintendo Switch Using Parental Controls
 
@@ -70,16 +90,16 @@ Close
 
 ![Nintendo Switch Time's Up Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Nintendo-Switch-Times-Up-Button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To use your Switch freely again, select the**Time's Up** button on the top part of your screen.
 
 ![Nintendo Switch Parental Control Pin Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Nintendo-Switch-Parental-Control-Pin-Code.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, use your control stick to enter your passcode as shown on the screen. You can press the**R** button to easily see if what you are entering is correct.
 
@@ -89,20 +109,13 @@ Close
 
 ![NIntendo Switch Time's Up Button Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/NIntendo-Switch-Times-Up-Button-Off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To check if you were able to successfully disable your Parental Controls, simply look at the top part of your screen and check if the Time's Up button now shows**Off** instead. All restricted features will then be accessible until the next time that your Switch wakes from sleep mode.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Your Switch Safe
@@ -128,5 +141,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-broadcast-battle-which-platform-wins/"><u>[Updated] 2024 Approved Broadcast Battle Which Platform Wins?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>[Updated] ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/add-a-twist-to-instagram-interactions-by-incorporating-gifs-into-comments/"><u>Add a Twist to Instagram Interactions by Incorporating GIFs Into Comments</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gaming-setups-high-refreshing-displays/"><u>Elite Gaming Setups: High-Refreshing Displays</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c55-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C55</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fixes-overcoming-continuous-crashing-glitches-in-tower-of-fantasy-game-pc-edition/"><u>Mastering the Fixes: Overcoming Continuous Crashing Glitches in 'Tower of Fantasy' Game PC Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-huawei-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Huawei</u></a></li>
+<li><a href="https://games-able.techidaily.com/monthly-gaming-access-battle-psplus-xbgplus/"><u>Monthly Gaming Access Battle: PS+ XBG+</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-purchase-pc-analysis-for-seamless-integration/"><u>Pre-Purchase PC Analysis for Seamless Integration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stumped-by-hiding-ios-notifications-heres-a-guide-to-fix-it-in-7-steps/"><u>Stumped by Hiding iOS Notifications? Here's a Guide to Fix It in 7 Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/three-methods-reactivate-your-steam/"><u>Three Methods: Reactivate Your Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-palworld-fundamentals/"><u>Understanding PalWorld Fundamentals</u></a></li>
+</ul></div>
 

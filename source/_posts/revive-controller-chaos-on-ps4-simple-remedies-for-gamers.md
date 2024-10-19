@@ -1,7 +1,7 @@
 ---
 title: Revive Controller Chaos on PS4 - Simple Remedies for Gamers
-date: 2024-10-05T19:59:27.428Z
-updated: 2024-10-13T04:13:33.927Z
+date: 2024-10-14T13:23:04.536Z
+updated: 2024-10-19T07:02:56.473Z
 tags:
   - games
 categories:
@@ -44,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PS4 Controller Keeps Disconnecting
@@ -64,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
 ![PS4 Quick Menu Battery Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Quick-Menu-Battery-Level.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Plug your controller into your PS4 (or a wall outlet) and visit the Quick Menu again to make sure you see the battery charging animation. After your controller charges for some time, try using it as normal.
 
  If the battery wasn't causing your PS4 controller issue, make sure you aren't trying to use your controller too far away from your system. The typical range for Bluetooth is around 30 feet; depending on your setup, you may be able to use your controller further than this or be restricted to using it closer.
@@ -73,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
  Finally, remember that the PS4 has a setting that turns off controllers after they're idle for some time. If you don't want your PS4 controller to turn off when you're watching media apps like YouTube, go to **Settings > Power Save Settings > Set Time Until Controllers Turn Off** and choose**Never** . Note that this will use up the controller battery even while you're idle.
 
 ![PS4 Never Turn Off Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Never-Turn-Off-Controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## General Fixes When Your PS4 Controller Isn't Working
 
@@ -85,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
  If your controller is working enough to access menus, hold the**PS Button** to open the Quick Menu, then go to**Power > Restart PS4** to reboot your system.
 
 ![turn off ps4 quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/turn-off-ps4-quick-menu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In case your controller isn't cooperating, press and hold the**Power** button on your PS4 console until you hear two beeps. This will fully shut it down—once it's powered off (with no lights on the front), press the**Power** button again to turn it back on. If you see an orange light, your system went into Rest Mode, which isn't a full shutdown.
 
@@ -102,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
  If this doesn't work, turn your PS4 back on and try pairing it the normal way, as above.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Hard Reset Your PS4 Controller
 
  If removing and re-pairing the controller didn't work, you can next try the full reset procedure for the DualShock 4\. You'll need a small pointed object, like a bent paper clip or a SIM card ejection tool, to do this. This won't reset anything on your PS4 or affect your controller aside from having to pair it again, so it's a non-intrusive troubleshooting step.
@@ -120,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
  Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
@@ -140,13 +148,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
 ![PS4 Use USB Cable Communication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Use-USB-Cable-Communication.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
 
 ## DualShock 4 Hardware Fix Options
@@ -158,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
  Be sure that you haven't[remapped your PS4 controller buttons](https://www.makeuseof.com/tag/how-to-remap-buttons-on-your-ps4-for-improved-control/) , either inside a certain game or at the system level. This might cause you to think your PS4 controller is faulty when it's just an option you've changed.
 
  Otherwise, you can attempt hardware fixes on your own by opening your controller. If you've gotten this far and still can't fix the problem, chances are that something inside your controller is jammed or disconnected. But depending on the specific issue, this may be difficult or impossible. We recommend speaking to a local repair technician if you don't feel comfortable doing this yourself.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## PS4 Controller Issues, Patched Up
 
@@ -187,22 +181,20 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-conversations-and-sharing-in-facebook-world-for-2024/"><u>[New] Mastering Conversations and Sharing in Facebook World for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-reimagining-posts-a-new-perspective-on-ig/"><u>[New] Reimagining Posts A New Perspective on IG</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-art-of-youtube-thumbnails-for-mac-professionals/"><u>[New] The Art of YouTube Thumbnails for Mac Professionals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-global-vr-landscape-recent-developments/"><u>2024 Approved Global VR Landscape Recent Developments</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensible-guide-for-itchios-great-gaming-finds/"><u>A Comprehensible Guide for Itch.io’s Great Gaming Finds</u></a></li>
-<li><a href="https://games-able.techidaily.com/achievement-arenas-champion-clusters/"><u>Achievement Arenas: Champion Clusters</u></a></li>
-<li><a href="https://games-able.techidaily.com/advantages-to-late-game-debuts/"><u>Advantages to Late Game Debuts</u></a></li>
-<li><a href="https://games-able.techidaily.com/akkos-mod007b-keyboard-elevating-gaming-performance/"><u>Akko's MOD007B Keyboard - Elevating Gaming Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/algorithmic-realities-in-the-world-of-gaming/"><u>Algorithmic Realities in the World of Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-pro-at-mobile-gaming-learn-button-controls/"><u>Become a Pro at Mobile Gaming: Learn Button Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164863987-gamers-discover-the-future-oled-monitors/"><u>Gamers, Discover the Future - OLED Monitors!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-se-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone SE</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-invest-in-quality-screen-capture-bandicam-or-camtasia/"><u>In 2024, Invest in Quality Screen Capture Bandicam or Camtasia?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-how-to-easily-cut-large-videos-faster-on-mac-for-2024/"><u>New How to Easily Cut Large Videos Faster on Mac for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-performance-hitches-maximize-gpu-functionality-in-warzone-for-win10-players/"><u>Overcoming Performance Hitches: Maximize GPU Functionality in Warzone for Win10 Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172605573-step-up-your-game-designs-with-wide-cabinetry-options/"><u>Step Up Your Game Designs with Wide Cabinetry Options</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-capture-to-screen-the-complete-process-of-uploading-360-vids-on-youtube/"><u>[New] From Capture to Screen The Complete Process of Uploading 360 Vids on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-gamers-sound-selection-top-5-noise-canceling-earbuds/"><u>[Updated] Gamers’ Sound Selection Top 5 Noise-Canceling Earbuds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-time-is-money-the-best-facebook-schedulers-reviewed/"><u>2024 Approved Time Is Money The Best Facebook Schedulers Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/dreamcatcher-delights-playing-classic-games-on-android/"><u>Dreamcatcher Delights: Playing Classic Games on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-best-java-gaming-elements/"><u>Examining the Best Java Gaming Elements</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 15 Pro?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/every-youtube-video-count-learn-how-to-free-transcribe-easily/"><u>Make Every YouTube Video Count Learn How to Free-Transcribe Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-volume-mixer-windows-11-sounds-configuration-steps/"><u>Mastering the Volume Mixer: Windows 11 Sounds Configuration Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-the-right-system-build/"><u>Maximizing Gameplay - The Right System Build</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-your-playstation-5-login-information/"><u>Removing Your PlayStation 5 Login Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-seasons-not-timezones-update-xbox-system/"><u>Shift Seasons, Not Timezones: Update Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-family-sharing-revamp-brings-10-years-of-changes/"><u>Steam's Family Sharing Revamp Brings 10 Years of Changes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-resolving-iphones-persistent-headphones-trouble/"><u>Ultimate Guide: Resolving iPhone's Persistent Headphones Trouble</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11</u></a></li>
 </ul></div>
 

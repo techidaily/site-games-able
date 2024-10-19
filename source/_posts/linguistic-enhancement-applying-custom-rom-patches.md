@@ -1,7 +1,7 @@
 ---
 title: "Linguistic Enhancement: Applying Custom ROM Patches"
-date: 2024-10-11T02:24:12.892Z
-updated: 2024-10-13T03:03:11.418Z
+date: 2024-10-15T06:35:54.421Z
+updated: 2024-10-19T13:05:00.078Z
 tags:
   - games
 categories:
@@ -30,10 +30,16 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Working Emulator and ROM File
@@ -42,15 +48,22 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Translation Patch File
@@ -61,33 +74,20 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### A Patch Tool
 
  A patch tool works by binding a patch file to a ROM file, thus creating a new ROM file with the parameters of the patch baked in. It’s the same concept as your platform of choice auto-updating a game you’re about to play before you can play.
 
  In the past, you needed to know the different types of patch files. But today, that's not really the case, especially as you can[create your own Rom Hacks for games like Pokémon](https://www.makeuseof.com/how-to-create-rom-hacks/) from an Android device or straight from the web with sites like Rom Patcher JS. Let's use the former as an example.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Apply a Fan Translation Patch to Your ROM
 
@@ -120,20 +120,17 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-android-audio-archive-a-curated-list-of-top-6-free-music-downloading-apps/"><u>[New] 2024 Approved Android Audio Archive A Curated List of Top 6 Free Music Downloading Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-complete-rundown-how-google-podcast-works/"><u>[Updated] Complete Rundown How Google Podcast Works</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reimagine-imagery-best-online-wallpaper-changer-list/"><u>2024 Approved Reimagine Imagery Best Online Wallpaper Changer List</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-gaming-thrills-the-best-1440p-monitors-worth-every-penny/"><u>Affordable Gaming Thrills: The Best 1440P Monitors Worth Every Penny</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/avoiding-content-id-alerts-strategies-on-youtube-for-2024/"><u>Avoiding Content ID Alerts Strategies on YouTube for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nokia-c12-pro-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nokia C12 Pro.</u></a></li>
-<li><a href="https://games-able.techidaily.com/energize-vision-ideas-for-change/"><u>Energize Vision: Ideas for Change</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-console-joy-to-computer-control-the-process-explained-156-chars/"><u>From Console Joy to Computer Control: The Process Explained (156 Chars)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-the-editors-shadows-top-tips-for-outstanding-videos/"><u>In the Editor's Shadows Top Tips for Outstanding Videos</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-citation-incorporating-chatgpt-into-your-references/"><u>Mastering the Art of Citation: Incorporating ChatGPT Into Your References</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-vs-edge-the-ultimate-browser-face-off-for-gamers/"><u>Opera Vs. Edge - The Ultimate Browser Face-Off for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723003640318-restore-sounds-in-roblox-games-for-windows-11-and-10-common-fixes-exposed/"><u>Restore Sounds in Roblox Games for Windows 11 and 10 - Common Fixes Exposed!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-gaming-controls-buttons-and-controllers-on-mobile/"><u>The Art of Gaming Controls: Buttons and Controllers on Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-sound-accessories-for-switch-players/"><u>Top Sound Accessories For Switch Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/unbeatable-5-reasons-choosing-the-right-retro-handheld/"><u>Unbeatable 5 Reasons: Choosing the Right Retro Handheld</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc-for-2024/"><u>[New] Expert Tips on Angling Videos Unlocking Full Potential with VLC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ignite-interest-a-list-of-30-video-themes/"><u>[Updated] Ignite Interest A List of 30 Video Themes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-effortless-itunes-for-podcast-enthusiasts/"><u>2024 Approved Effortless iTunes for Podcast Enthusiasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-idea-inception-using-google-trends-to-fuel-videography/"><u>2024 Approved Idea Inception Using Google Trends to Fuel Videography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-innovative-techniques-for-igtv-backgrounds/"><u>2024 Approved Innovative Techniques for IGTV Backgrounds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028580678-clipchamp/"><u>Clipchampにおけるビデオ再生速度調整の簡単ガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-the-go-phone-or-larger-screen/"><u>Game on the Go: Phone or Larger-Screen?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-dive-origin-of-foddian-titles/"><u>In-Depth Dive: Origin of Foddian Titles</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/leading-picture-holding-portals/"><u>Leading Picture Holding Portals</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-gear-for-nintendos-switch-the-premier-guide/"><u>Mastery Gear for Nintendo's Switch – The Premier Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-visual-potential-and-slip-ups-of-pimax-crystal/"><u>Unleash the Visual Potential and Slip-Ups of Pimax Crystal</u></a></li>
 </ul></div>
 

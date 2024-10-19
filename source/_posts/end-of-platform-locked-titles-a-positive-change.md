@@ -1,7 +1,7 @@
 ---
 title: End of Platform-Locked Titles - A Positive Change
-date: 2024-09-13T18:42:15.080Z
-updated: 2024-09-21T00:35:22.956Z
+date: 2024-10-12T02:49:37.755Z
+updated: 2024-10-19T10:19:19.535Z
 tags:
   - games
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -64,15 +71,22 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
@@ -88,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why I'm Glad Platform Exclusives Are No More
@@ -119,5 +133,24 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-bridging-identities-with-100-creative-and-empowering-insta-captions/"><u>[New] 2024 Approved Bridging Identities with 100 Creative and Empowering Insta Captions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-how-to-extract-youtube-srt-effortlessly-in-3-ways-for-2024/"><u>[New] How to Extract YouTube SRT Effortlessly in 3 Ways for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastery-manual-for-dynamic-distracting-filters/"><u>[New] Mastery Manual for Dynamic, Distracting Filters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-remote-comic-genius-app/"><u>[Updated] Remote Comic Genius App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-perfect-package-presentation-transformative-openings/"><u>2024 Approved Perfect Package Presentation Transformative Openings</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-improve-photo-scaling-in-windows-11/"><u>A Step-by-Step Guide to Improve Photo Scaling in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-ideals-of-handheld-gameplay-the-flip-side/"><u>Debunking Ideals of Handheld Gameplay: The Flip Side</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-personalized-interaction-contribute-to-chatgpts-learning-process/"><u>Does Personalized Interaction Contribute To ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-streaming-xbox-games-with-glossi/"><u>Elevate Your Gaming Experience: Streaming Xbox Games with GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-visibility-for-games-in-eg-libraries/"><u>Enhancing Visibility for Games in EG Libraries</u></a></li>
+<li><a href="https://win-web.techidaily.com/error-almacenamiento-inadecuado-causando-falla-de-backup-en-windows-server/"><u>Error Almacenamiento Inadecuado Causando Falla De Backup en Windows Server</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-calm-amidst-virtual-chaos-6-approaches/"><u>Finding Calm Amidst Virtual Chaos: 6 Approaches</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-classics-iphone-and-legendary-titles/"><u>Rediscovering Classics: IPhone and Legendary Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-for-component-absence-warning-on-windows/"><u>Remedy for “Component Absence” Warning on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-on-how-to-reverse-game-console-purchase/"><u>Step-by-Step on How to Reverse Game Console Purchase</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-preventing-crashes-in-forza-horizon-5-for-pc-users/"><u>Ultimate Guide to Preventing Crashes in Forza Horizon 5 for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-pairing-woes-revive-controllers-for-pc-use/"><u>Xbox Pairing Woes? Revive Controllers for PC Use</u></a></li>
+</ul></div>
 

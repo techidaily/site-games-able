@@ -1,7 +1,7 @@
 ---
 title: Prepping Your Steam Deck for SD Insertion
-date: 2024-10-06T21:42:05.102Z
-updated: 2024-10-13T09:07:13.270Z
+date: 2024-10-16T09:39:07.421Z
+updated: 2024-10-19T04:29:59.615Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  It's time to expand your storage on your Steam Deck. But is it as easy as popping in an SD card? Do you have to do any special formatting? Let's take a look at how to install an SD card on your Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I Use Any SD Card on My Steam Deck?
 
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Format Your SD Card for the Steam Deck
@@ -55,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
@@ -71,23 +78,9 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Move Games to Your Steam Deck's SD Card
 
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
@@ -98,6 +91,19 @@ thumbnail: https://thmb.techidaily.com/7e37922976a0cd02bd45d34c10fef6f069d63ae07
  Secondly, accessing folders on your SD card is a little different from accessing your SSD.
 
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
 
@@ -124,15 +130,24 @@ run/media/mmcblk0p1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-best-buys-in-the-realm-of-4k-video-tools/"><u>[New] 2024 Approved Best Buys in the Realm of 4K Video Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-techniques-in-cs2-the-mac-approach/"><u>Advanced Techniques in CS2 - The Mac Approach</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dominating-next-gen-entertainment-the-unrivaled-performance-of-xbox-one-x-revealed/"><u>Dominating Next-Gen Entertainment: The Unrivaled Performance of Xbox One X Revealed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/full-guide-mastering-the-reinstall-of-video-drivers/"><u>Full Guide: Mastering the Reinstall of Video Drivers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-create-a-square-video-for-instragram-in-imovie-for-2024/"><u>How to Create a Square Video for Instragram in iMovie for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/irksome-quest-five-difficult-games-to-master/"><u>Irksome Quest: Five Difficult Games to Master</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-oneplus-11-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your OnePlus 11 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-premier-7-in-mobile-mmo-world/"><u>The Premier 7 in Mobile MMO World</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-reality-check-unraveling-six-fallacies-of-mac-gaming/"><u>The Reality Check: Unraveling Six Fallacies of Mac Gaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube/"><u>[New] In 2024, The Complete Guide for Professional Livestreaming Using Zoom on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-photo-border-elimination/"><u>[New] Mastering the Art of Photo Border Elimination</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-ten-capture-hardware-rankings-for-professional-streamers-for-2024/"><u>[New] Top Ten Capture Hardware Rankings for Professional Streamers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-advanced-scheduling-with-premium-recording-software/"><u>[Updated] Advanced Scheduling with Premium Recording Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-7-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 7 Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/full-featured-baldurs-gate-3-mac-gaming-via-crossover/"><u>Full-Featured Baldur’s Gate 3 Mac Gaming via CrossOver</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-100-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor 100 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-trend-shifting-towards-higher-gpu-prices/"><u>Is the Trend Shifting Towards Higher GPU Prices?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-obstacles-cleaning-up-error-262-in-roblox/"><u>Navigating Obstacles: Cleaning Up Error 262 in Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgic-journey-revisited-emulate-xbox-classics-on-pc/"><u>Nostalgic Journey Revisited: Emulate Xbox Classics on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-finances-and-trending-games/"><u>PlayStation Finances & Trending Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-to-integrating-chatgpt-widget/"><u>Step-by-Step to Integrating ChatGPT Widget</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Realme 12 Pro 5G FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-3-best-xbox-video-transmission-tools/"><u>Top 3 Best Xbox Video Transmission Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-compact-android-versions-computers-and-macs/"><u>Top 8 Compact Android Versions, Computers & Macs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-frustrating-fiddles-a-test-for-the-bravehearted/"><u>Top Frustrating Fiddles: A Test for the Bravehearted</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-power-surge-issues-in-your-usb-ports-on-windows-10/"><u>Troubleshooting Guide: Resolving 'Power Surge' Issues in Your USB Ports on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-portable-games-may-not-always-win/"><u>Why Portable Games May Not Always Win</u></a></li>
 </ul></div>
 

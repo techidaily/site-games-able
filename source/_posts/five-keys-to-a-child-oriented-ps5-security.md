@@ -1,7 +1,7 @@
 ---
 title: Five Keys to a Child-Oriented PS5 Security
-date: 2024-10-07T02:12:40.363Z
-updated: 2024-10-13T04:25:03.600Z
+date: 2024-10-15T11:42:48.153Z
+updated: 2024-10-19T12:25:20.830Z
 tags:
   - games
 categories:
@@ -47,13 +47,6 @@ Here’s how to set up a child account:
 
  Next, you have to add the child to your PS5\. To do that, you must[create an account on your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) using the email you provided for the child.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Preset or Custom Content Restriction Levels
 
  Now you have a child account added to the PS5; you can set the restriction level you want.
@@ -64,22 +57,8 @@ Follow these steps:
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Choose**Confirm** when you’re finished.
 
@@ -94,6 +73,13 @@ You can set age restrictions for the following options:
 
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set Up Console Restrictions and User Passcodes
 
  Console restrictions are a group of features on the PS5 that allows you to control how users can create accounts on the PS5\. A smart kid can bypass your content restrictions by simply creating a new account on the PS5 to use instead of the child account you created for them. Or they could log into an adult account if you haven’t set a passcode on it.
@@ -105,17 +91,18 @@ Here’s how to set up the console restrictions passcode:
 1. Go to **Settings > Family and Parental Controls > PS5 Console Restrictions** .  
 ![Family and Parental Controls page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-and-parental-controls-page-on-the-ps5.JPG)
 2. Enter the default passcode:**0000** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
 3. Select**Change Your Console Restriction Passcode** .  
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -140,7 +127,27 @@ Here’s how to set up the console restrictions passcode:
 ![PS5 Monthly Spending Limit dropdown menu in Parental Controls page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-monthly-spending-limit-dropdown-menu-in-parental-controls-page.JPG)
 5. Select**Confirm** after you’re finished.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enforce Playtime Limits
 
@@ -155,13 +162,6 @@ Here’s how to do it:
 ![Playtime Settings toggle on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-settings-toggle-on-the-ps5.JPG)
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
@@ -169,6 +169,13 @@ Here’s how to do it:
 6. Choose**Save** on the right-hand side of the page when you’re done.
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The PS5 Offers Extensive Safety Provisions for Children
 
@@ -193,24 +200,22 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-core-elements-in-storytelling-skills/"><u>[New] 2024 Approved Core Elements in Storytelling Skills</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-exploring-the-best-youtube-extractors-for-android-devices/"><u>[New] In 2024, Exploring the Best YouTube Extractors for Android Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-leverage-likes-and-brands-to-boost-ig-income/"><u>[New] Leverage Likes and Brands to Boost IG Income</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-intro-to-drone-flying-check-out-the-syma-x5c-review/"><u>[Updated] Intro to Drone Flying? Check Out the Syma X5C Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-impressive-hdr-portraits-explained/"><u>2024 Approved The Art of Impressive HDR Portraits Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/craft-a-new-brand-altering-username-and-tagline-at-riot-studios/"><u>Craft a New Brand: Altering Username & Tagline at Riot Studios</u></a></li>
-<li><a href="https://games-able.techidaily.com/eas-cost-increase-my-gaming-path-changed/"><u>EA's Cost Increase, My Gaming Path Changed</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-different-realms-a-journey-to-epic-plus-steam-unity/"><u>From Different Realms: A Journey to Epic + Steam Unity</u></a></li>
-<li><a href="https://games-able.techidaily.com/gain-advantage-limited-edition-spider-man-2-preorder-guide/"><u>Gain Advantage: Limited-Edition Spider-Man 2 Preorder Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/home-viewing-made-easy-watching-fandango-movies-with-amazon-fire-stick/"><u>Home Viewing Made Easy: Watching Fandango Movies with Amazon Fire Stick</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-a56s-5g-lock-screen-password-by-drfone-android/"><u>How To Change Oppo A56s 5G Lock Screen Password?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v11-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.1 document with electronic signature software</u></a></li>
-<li><a href="https://games-able.techidaily.com/principles-for-creating-effective-directional-symbols-that-are-universally-understood/"><u>Principles for Creating Effective Directional Symbols that Are Universally Understood;</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-correct-win-oculus-connectivity-problems/"><u>Steps to Correct Win-Oculus Connectivity Problems</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-infinix-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Infinix without backup.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-toms-computer-components-and-tech-reviews-the-go-to-gear-guide/"><u>Top Tom's Computer Components & Tech Reviews: The Go-To Gear Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-game-room-with-expert-3d-lighting-choices/"><u>Transform Your Game Room with Expert 3D Lighting Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/vintage-videogame-files-on-your-windows-photo-folder/"><u>Vintage Video/Game Files on Your Windows Photo Folder</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-you-may-be-seen-as-idle-on-discord-what-does-it-mean/"><u>Why You May Be Seen As Idle on Discord - What Does It Mean?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-dive-into-high-quality-audio-7-royalty-free-selections-for-2024/"><u>[New] Dive Into High-Quality Audio 7 Royalty-Free Selections for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-humour-haven-strategies-for-parody-video-creation-for-2024/"><u>[Updated] Humour Haven Strategies for Parody Video Creation for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-calculating-podcasters-annual-earnings/"><u>[Updated] In 2024, Calculating Podcasters' Annual Earnings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-in-the-classroom-best-practices-and-tips-for-educators/"><u>2024 Approved YouTube in the Classroom Best Practices and Tips for Educators</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-superiority-of-xbox-game-pass-ultimate/"><u>Discover the Superiority of Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://extra-support.techidaily.com/latest-podcast-question-bank-for-engaging-audiences-for-2024/"><u>Latest Podcast Question Bank for Engaging Audiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedins-latest-gamification-move-is-it-worth-the-risk/"><u>LinkedIn's Latest Gamification Move - Is It Worth The Risk?</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-video-gaming-youtubes-newest-minigames-test/"><u>Master the Art of Video Gaming: YouTube’s Newest Minigames Test</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-crafting-gripping-game-reviews/"><u>Mastering Steam: Crafting Gripping Game Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-low-power-mode-options/"><u>Navigating Through Windows' Low-Power Mode Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-basilisk-v3-pro-review-low-latency-and-high-performance/"><u>Razer Basilisk V3 Pro Review: Low Latency and High Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/rekindle-the-joy-classics-reimagined-for-your-device/"><u>Rekindle the Joy: Classics Reimagined for Your Device!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-ghostrunner-malfunction-on-windows-11-platforms-successfully/"><u>Troubleshooting Ghostrunner Malfunction on Windows 11 Platforms Successfully</u></a></li>
+<li><a href="https://discover-help.techidaily.com/troubleshooting-guide-successfully-merging-clips-with-vlc-no-more-issues/"><u>Troubleshooting Guide: Successfully Merging Clips with VLC - No More Issues!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-fixes-for-ac1st16dll-error-not-found-solutions-and-tips/"><u>Ultimate Fixes for ac1st16.dll Error: Not Found Solutions and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/valuepixelplaystation27m2v-mini-led/"><u>ValuePixelPlayStation27M2V Mini-LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-edge-a-top-contender-among-browser-games/"><u>What Makes Edge a Top Contender Among Browser Games?</u></a></li>
 </ul></div>
 

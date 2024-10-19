@@ -1,7 +1,7 @@
 ---
 title: "Lemokey L3 Review: Keychron's First Gaming Keyboard Is Pure Quality"
-date: 2024-10-08T13:46:29.894Z
-updated: 2024-10-13T13:07:47.399Z
+date: 2024-10-17T16:26:14.438Z
+updated: 2024-10-18T16:58:33.871Z
 tags:
   - games
 categories:
@@ -122,13 +122,6 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
@@ -140,6 +133,13 @@ No
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Style and Construction
 
@@ -154,6 +154,13 @@ No
  The case is relatively uniform. Around each of the main areas is a slightly raised lip for decoration, while there is a small vent at the front of the case for airflow (and style). The USB-C input is on the rear, along with a switch for moving between wired, Bluetooth, and 2.4GHz wireless (using the supplied USB dongle).
 
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -173,13 +180,6 @@ No
 
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
 ## Lemokey L3 Typing Experience
@@ -194,25 +194,11 @@ No
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customization With VIA
 
@@ -225,15 +211,22 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -248,6 +241,13 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -272,18 +272,22 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-increasing-likes-and-shares-facebooks-best-practices/"><u>[Updated] 2024 Approved Increasing Likes & Shares Facebook's Best Practices</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-the-importance-of-speedy-resume-on-xbox/"><u>Assessing the Importance of Speedy Resume on Xbox</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-a60s-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel A60s Pattern Lock Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-insights-what-helldivers-2-teaches-about-successful-titles/"><u>Gaming Insights: What Helldivers 2 Teaches About Successful Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/low-cost-high-quality-game-accessories-revealed/"><u>Low-Cost, High-Quality Game Accessories Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-two-os-worlds-the-essential-steam-deck-guide/"><u>Navigating Two OS Worlds: The Essential Steam Deck Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/protect-your-privacy-disable-caller-id-display-for-android-users/"><u>Protect Your Privacy: Disable Caller ID Display for Android Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-the-keyboard-space-razers-hot-swap-blackwidow-v4/"><u>Revolutionizing the Keyboard Space: Razer's Hot-Swap BlackWidow V4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-30-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 30 5G Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-securing-excellent-offers-when-buying-a-brand-new-mobile-device/"><u>The Ultimate Guide to Securing Excellent Offers When Buying a Brand New Mobile Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-notch-nintendo-switch-audio-experience/"><u>Top-Notch Nintendo Switch Audio Experience</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-list-of-budget-friendly-web-based-daw-tools-for-2024/"><u>Updated Ultimate List of Budget-Friendly, Web-Based DAW Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-vivo-y100a-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo Y100A Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seamless-mp4-to-fb-video-transfer-technology/"><u>[New] 2024 Approved Seamless MP4-to-FB Video Transfer Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-youtube-ad-revenue-keeping-cc-active/"><u>[New] In 2024, Boosting YouTube Ad Revenue Keeping CC Active</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-psd-visual-enhancements/"><u>2024 Approved Prime PSD Visual Enhancements</u></a></li>
+<li><a href="https://games-able.techidaily.com/deletion-dynamics-streamlining-your-steam-game-inventory/"><u>Deletion Dynamics: Streamlining Your Steam Game Inventory</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-razr-40-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Razr 40 has native MOV support?</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-financial-planning-for-steam-game-buying/"><u>Effective Financial Planning for Steam Game Buying</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-playstation-transactions-techniques/"><u>Efficient PlayStation Transactions Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-premier-3d-blu-ray-systems-of-today-for-2024/"><u>Explore The Premier 3D Blu-Ray Systems of Today for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ranking-videos-youtubes-everlasting-classics/"><u>High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-gionee-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Gionee Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a18-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-photographic-tapestry-assembly-techniques/"><u>In 2024, Photographic Tapestry Assembly Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-javas-top-rated-games-and-their-features/"><u>Inside Java's Top-Rated Games and Their Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-it-more-important-to-upgrade-your-cpu-or-gpu-first/"><u>Is It More Important to Upgrade Your CPU or GPU First?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-and-cons-of-pre-release-gaming/"><u>Pros & Cons of Pre-Release Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/spine-support-ergonomic-gaming-chair-hacks/"><u>Spine Support: Ergonomic Gaming Chair Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-peak-performance-in-mobile-gaming-a-dual-method-for-checking-fps/"><u>Unlock Peak Performance in Mobile Gaming: A Dual Method for Checking FPS</u></a></li>
 </ul></div>
 

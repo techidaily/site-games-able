@@ -1,7 +1,7 @@
 ---
 title: "PC Compatibility 101: Attaching Your Modern Xbox Controller (139 Chars)"
-date: 2024-09-17T18:04:29.799Z
-updated: 2024-09-20T20:21:44.214Z
+date: 2024-10-14T18:51:13.666Z
+updated: 2024-10-19T05:24:21.755Z
 tags:
   - games
 categories:
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
 
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Xbox Support  
   
   To use Bluetooth in Windows 10, head to**Settings > Devices > Bluetooth & other devices** . On Windows 11, go to**Settings > Bluetooth & devices** . There, enable the**Bluetooth** slider (if it isn't turned on already), then choose**Add Bluetooth or other device** (Windows 10) or**Add device** (Windows 11). Select**Bluetooth** from the resulting list.
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  From here, your Xbox controller should show up in the Bluetooth pairing menu on your PC. Select it and complete the steps to pair them. If you have trouble, see[how to fix Bluetooth pairing errors in Windows](https://www.makeuseof.com/try-connecting-device-bluetooth-pairing-error-windows/) .
 
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reconnect Your Xbox Controller to Your Console
@@ -95,16 +109,16 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
+<span id="1983473">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect an Xbox Controller to Your PC Easily
@@ -126,5 +140,24 @@ thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-roadmap-to-creating-unforgettable-facebook-cover-videos/"><u>[New] 2024 Approved The Roadmap to Creating Unforgettable Facebook Cover Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-advice-on-constructing-clear-concise-image-previews/"><u>[New] In 2024, Expert Advice on Constructing Clear, Concise Image Previews</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevating-your-vimeo-presence-with-imovie-videos/"><u>[Updated] 2024 Approved Elevating Your Vimeo Presence with iMovie Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ideal-techniques-for-garnering-background-visuals/"><u>[Updated] 2024 Approved Ideal Techniques for Garnering Background Visuals</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-timeline/"><u>ABBYY Timelineで強力に利用するためのプロセスマイニング:実践的な事例とアクティベーションポイント</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-videography-tools-for-ios-devices/"><u>Best Videography Tools for iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-game-with-essential-steam-deck-add-ons/"><u>Elevating Your Game with Essential Steam Deck Add-Ons</u></a></li>
+<li><a href="https://win-dash.techidaily.com/flawless-setup-how-to-obtain-and-install-the-hp-laserjet-pro-m402n-driver-for-windows-operating-systems/"><u>Flawless Setup: How to Obtain and Install the HP LaserJet Pro M402n Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-fun-swapping-the-switchs-old-joystick/"><u>Jumpstart Fun: Swapping the Switch's Old Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-voice-controlled-devices-the-premier-smart-speakers-to-own/"><u>Leading Voice-Controlled Devices: The Premier Smart Speakers to Own</u></a></li>
+<li><a href="https://fox-search.techidaily.com/navigating-the-manage-relationships-interface-insights-into-the-dependency-tab-features/"><u>Navigating the Manage Relationships Interface: Insights Into the Dependency Tab Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-friends-unreachable-steam-issue/"><u>Overcoming Friends Unreachable Steam Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/rebuild-records-ultimate-free-software/"><u>Rebuild Records - Ultimate Free Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-strategies-to-win-at-pokemon-iphoneipad-games/"><u>Step-by-Step Strategies to Win at Pokémon iPhone/iPad Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-and-brightest-in-java-gaming-world/"><u>The Best and Brightest in Java Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-the-classic-explore-novel-online-chess-variants/"><u>Transform the Classic: Explore Novel Online Chess Variants</u></a></li>
+</ul></div>
 

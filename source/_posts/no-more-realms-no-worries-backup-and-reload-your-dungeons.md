@@ -1,7 +1,7 @@
 ---
 title: "No More Realms, No Worries: Backup & Reload Your Dungeons"
-date: 2024-09-19T01:16:49.716Z
-updated: 2024-09-20T19:06:56.559Z
+date: 2024-10-16T16:18:38.723Z
+updated: 2024-10-18T20:57:06.499Z
 tags:
   - games
 categories:
@@ -29,11 +29,32 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To get to your Microsoft account, you can open it from the Xbox app on PC. Click on your profile name on the upper left, then click**Settings > Account > View order history** . This will open up your[Microsoft order history](https://account.microsoft.com/billing/orders/) .
 
 ![View order history on Xbox Game Pass](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/view-order-history-on-xbox-game-pass.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can head directly to[Microsoft Services & Subscriptions](https://account.microsoft.com/services) which is where you’ll eventually end up.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe
 
@@ -42,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
  If you’re on the order history page, find your Minecraft Realms order and click on**Manage Subscription** . This will take you to the previously linked Services & Subscriptions page.
 
 ![Manage services on Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/manage-services-on-microsoft-account.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, click on the Minecraft Realms subscription**Manage** button on the right side.
 
@@ -63,34 +91,13 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
  If you don’t want to lose your backups, you should download them locally. Here’s how to download your backups and find the files so you can use them elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Downloading Your World on Minecraft Java Edition
 
 ![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To back up a Java Edition Realm world, select the Realm that contains the world you want to back up and click**Configure** .
 
 ![Minecraft Realms Java Edition World backups button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-world-backups-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, select the world in the Realm you want to back up and click on**World Backups** .
 
@@ -100,13 +107,20 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ![Minecraft Java Edition world saves file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-edition-world-saves-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once it’s saved, it’ll show up in your single-player worlds with your username. In this case it’s Majikoeda. The file location can be found in**AppData/Roaming/.minecraft/saves** in case you want to move it to a different device, upload it to a server hosting service, or save it on Google Drive. That file location can also be used to[add downloadable Minecraft maps](https://www.makeuseof.com/how-to-download-install-minecraft-maps/) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Downloading Your World on Minecraft Bedrock Edition
@@ -119,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 
 ![Download backup button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/download-backup-button-on-minecraft-realms-bedrock-edition.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click on**Backups,** then click on the**download** **icon** beside the backup of your choosing. In our case, we just have one backup for this test server.
 
  Once you download your backup, it will be available in the single-player section for offline play.
@@ -133,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
 ![Play on Realms and Export World Button Minecraft Bedrock edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/play-on-realms-and-export-world-button-minecraft-bedrock-edition.jpg)
 
  Clicking on the**pencil icon** beside the single-player downloaded backup will allow you to click**Play on Realm** in the future if you re-subscribe. Instead of finding the file on your device, you can also scroll down to the very bottom and click on**Export World** . This is much quicker as the Bedrock Edition’s world files are harder to find.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don't Lose Your Minecraft Realm While Being Unsubscribed
 
@@ -151,5 +165,18 @@ thumbnail: https://thmb.techidaily.com/3f251edfe87940db023c8b9c0c8cf809bbc15f1b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-transforming-single-shots-into-a-spectacular-tile-symphony/"><u>[Updated] 2024 Approved Transforming Single Shots Into a Spectacular Tile Symphony</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-background-replacement-get-cost-free-lessons-in-green-screen-effects-from-youtubes-best/"><u>[Updated] Mastering Background Replacement Get Cost-Free Lessons in Green Screen Effects From YouTube's Best</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-10-hidden-photoshop-photo-editing-tips-for-beginners/"><u>2024 Approved 10 Hidden Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-prime-uav-options-to-maximize-your-gopro-video-potential/"><u>2024 Approved Prime UAV Options to Maximize Your GoPro Video Potential</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-leading-video-ranking-tools-for-youtube-success-for-2024/"><u>Discover Leading Video Ranking Tools for YouTube Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-or-offline-the-case-for-and-against-digital-gaming/"><u>Game on or Offline? The Case for & Against Digital Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-sony-pictures-content-on-ps5/"><u>Navigating Sony Pictures Content on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-videogame-milestone-monitors/"><u>Prime Videogame Milestone Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-steams-financial-hiccups/"><u>Quick Fixes for Steam's Financial Hiccups</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-run-bg3-hardware-specs/"><u>What You Need to Run BG3: Hardware Specs</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-hypervisorbsod-here-are-5-fixes-you-need/"><u>Win11's HYPERVISOR_BSOD? Here Are 5 Fixes You Need</u></a></li>
+</ul></div>
 

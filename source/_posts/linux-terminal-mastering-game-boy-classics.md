@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal: Mastering Game Boy Classics"
-date: 2024-09-17T01:08:13.123Z
-updated: 2024-09-20T23:52:19.923Z
+date: 2024-10-14T21:58:46.986Z
+updated: 2024-10-19T07:20:25.517Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -83,6 +90,13 @@ Make it executable with:
 
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -106,10 +120,16 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -131,5 +151,21 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/connect-your-realms-a-step-by-step-guide-to-epicplussteam/"><u>Connect Your Realms: A Step by Step Guide to Epic+Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-surveillance-from-the-xbox-game-bar-on-windows/"><u>Curtailing Surveillance From the Xbox Game Bar on Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-playstation-4-pro-combining-console-gaming-with-ultra-hd-visuals/"><u>Expert Analysis of the PlayStation 4 Pro: Combining Console Gaming with Ultra HD Visuals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-and-purchasing-an-optimal-television-solution-tailored-to-your-home-environment/"><u>Finding and Purchasing an Optimal Television Solution Tailored to Your Home Environment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-from-ordinary-to-stunning-a-guide-to-hdr-portraits/"><u>In 2024, From Ordinary to Stunning A Guide to HDR Portraits</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-checking-pc-component-compatibility/"><u>Master the Art of Checking PC Component Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-gaming-on-idevices-these-are-the-best-4-emulators/"><u>Reimagine Gaming on iDevices: These Are the Best 4 Emulators</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-recovering-your-emails-using-windows-live-mail-backups/"><u>Step-by-Step Guide: Recovering Your Emails Using Windows Live Mail Backups</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-undercover-guide-to-enhancing-your-window-11-experience-for-2024/"><u>The Undercover Guide to Enhancing Your WINDOW 11 Experience for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unpacking-the-sudden-urge-how-apples-affordable-usb-c-earpods-became-my-prime-day-must-have-insights/"><u>Unpacking the Sudden Urge: How Apple's Affordable USB-C EarPods Became My Prime Day Must-Have – Insights</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-free-wmv-video-editing-tools-expert-recommendations/"><u>Updated In 2024, Top-Rated Free WMV Video Editing Tools Expert Recommendations</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-dualsense-remotely-a-step-by-step-guide/"><u>Upgrading DualSense Remotely: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-behind-xboxs-rule-enforcement/"><u>What Is Behind Xbox’s Rule Enforcement?</u></a></li>
+</ul></div>
 

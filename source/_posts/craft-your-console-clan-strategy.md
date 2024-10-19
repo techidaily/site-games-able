@@ -1,7 +1,7 @@
 ---
 title: Craft Your Console Clan Strategy
-date: 2024-10-07T03:20:03.872Z
-updated: 2024-10-12T23:24:21.764Z
+date: 2024-10-18T11:05:59.058Z
+updated: 2024-10-19T01:04:05.647Z
 tags:
   - games
 categories:
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 
  If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Make a Club on My Xbox Series X|S?
 
  Making a Club is simple. Start by booting up your Xbox Series X|S and follow the instructions below to create your very own Club:
@@ -39,18 +52,19 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 2. Scroll to the right until you reach the**People** tab.  
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Select**Create club** once you’ve made your choices.
 8. From there, you can customize your club by giving it a background and profile image, choosing a color scheme, and making tags to help others find and join your exclusive club.  
@@ -58,22 +72,15 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 9. Press**Done** to complete your club.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
 
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
 
@@ -87,14 +94,14 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 ![Delete Club Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-club-screen-xbox.jpg)
 6. Make your way to the**Ownership** section, and press**Delete club** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Your Club will now be deleted.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Share Your Love of Gaming With Others
 
@@ -117,20 +124,24 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-precisionvid-recorder-inspection/"><u>[New] 2024 Approved PrecisionVid Recorder Inspection</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-complete-guide-to-scheduling-and-recording-online-meetings-with-slack-and-filmora-for-2024/"><u>[New] The Complete Guide to Scheduling & Recording Online Meetings with Slack & Filmora for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/2024-wie-sie-ihre-wichtigsten-daten-effizient-von-computer-auf-usb-speicher-ubertragen-konnen/"><u>2024: Wie Sie Ihre Wichtigsten Daten Effizient Von Computer Auf USB-Speicher Übertragen Können</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-ways-to-stop-steam-web-helper-from-using-all-your-ram/"><u>5 Ways to Stop Steam Web Helper From Using All Your RAM</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-macs-the-future-of-pc-gaming/"><u>Are Macs the Future of PC Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/asus-rog-allys-game-changer-premiere-laptop-docks-of-2024/"><u>Asus ROG Ally's Game Changer - Premiere Laptop Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/bargain-hunting-done-right-affordable-mothers-for-gaming-enthusiasts/"><u>Bargain Hunting Done Right: Affordable Mothers for Gaming Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/becoming-the-master-storyteller-utilizing-chatgpt-for-text-based-adventures/"><u>Becoming the Master Storyteller: Utilizing ChatGPT for Text-Based Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719166175522-eliminate-glitches-with-the-latest-nvidia-graphics-update/"><u>Eliminate Glitches with the Latest Nvidia Graphics Update.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-tips-stop-vrchat-crashes-on-pc-with-these-proven-strategies-part-8/"><u>Essential Tips: Stop VRChat Crashes on PC with These Proven Strategies (Part 8)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-motorola-moto-g14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Motorola Moto G14</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-prime-streamers-selection-the-best-websites/"><u>In 2024, Prime Streamers' Selection The Best Websites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-proven-methods-to-secure-costless-illustrations/"><u>In 2024, Proven Methods to Secure Costless Illustrations</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/iphone-and-ipad-tutorial-easy-techniques-for-zooming-in-and-out-on-your-screen/"><u>IPhone & iPad Tutorial: Easy Techniques for ZOOMING IN and OUT on Your Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-step-by-step-strategies-downloading-audio-on-iphones-for-2024/"><u>[New] Step-by-Step Strategies Downloading Audio on iPhones for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-you-have-to-install-atk0100-driver/"><u>[Solved] You Have to Install ATK0100 Driver</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-cut-out-the-clutter-specialized-strategies-for-background-clearance-in-figma/"><u>[Updated] Cut Out the Clutter Specialized Strategies for Background Clearance in Figma</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-game-on-and-store-more-top-5-ssd-reviews-for-xbox-for-2024/"><u>[Updated] Game On & Store More Top 5 SSD Reviews for Xbox for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/broadcast-power-play-which-livestream-tool-should-you-use/"><u>Broadcast Power Play Which Livestream Tool Should You Use?</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-a-steam-deck-model/"><u>Deciding on a Steam Deck Model</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-mobile-gaming-what-to-look-out-for/"><u>Decoding Mobile Gaming: What to Look Out For</u></a></li>
+<li><a href="https://fox-http.techidaily.com/developing-eye-catching-podcast-previews-for-2024/"><u>Developing Eye-Catching Podcast Previews for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-video-pace-youtube-via-desktops-and-phones/"><u>Enhance Video Pace - YouTube via Desktops & Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-anywhere-phone-or-tablet-which/"><u>Game On Anywhere? Phone or Tablet, Which?</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-pace-165hz-game-screens/"><u>High-Pace 165Hz Game Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-the-world-of-palworld/"><u>Inside the World of PalWorld</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-on-what-to-evaluate-before-investing-in-portable-gaming/"><u>Insights on What to Evaluate Before Investing in Portable Gaming</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/revealing-the-top-10-secret-story-admirers-for-2024/"><u>Revealing the Top 10 Secret Story Admirers for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalized-features-for-the-budget-friendly-apple-watch-se-in-pipeline/"><u>Revitalized Features for the Budget-Friendly Apple Watch SE in Pipeline?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-secure-a-fortnite-purchase-reimbursement/"><u>Steps to Secure a Fortnite Purchase Reimbursement</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-steam-deck-typing-efficiency/"><u>Streamlining Your Steam Deck Typing Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/unshackled-from-realms-download-and-duplicate-worlds/"><u>Unshackled From Realms: Download and Duplicate Worlds</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-s-hottest-adobe-premiere-title-templates-free-download/"><u>Updated 2024 Approved S Hottest Adobe Premiere Title Templates - Free Download</u></a></li>
 </ul></div>
 

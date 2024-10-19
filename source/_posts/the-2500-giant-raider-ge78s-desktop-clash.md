@@ -1,7 +1,7 @@
 ---
 title: "The $2500 Giant: Raider GE78's Desktop Clash"
-date: 2024-10-12T08:21:28.714Z
-updated: 2024-10-12T21:10:21.911Z
+date: 2024-10-16T16:59:29.246Z
+updated: 2024-10-19T03:49:18.190Z
 tags:
   - games
 categories:
@@ -141,13 +141,6 @@ Physical Webcam cover
 
  This laptop is mostly intended as a desktop replacement rather than something you take on the go as much. Carrying around its massive 330W power adapter is a workout, and the battery life won't keep you gaming—let alone browsing the web—for extended periods. That said, MSI has put a premium on cooling and maximizing performance, and it shows in the benchmark results. Just be ready to hit the gym if you plan to lug this beast around.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Configurations
 
  The MSI Raider GE78 HX 13V lineup is a refreshing update from its predecessor, the 2022 Raider GE77\. It introduces a new chassis design and improved internals. Powered by Intel Raptor Lake-H CPUs and packing the mobile GeForce 40 GPUs, it promises serious gaming and productivity performance.
@@ -172,13 +165,6 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Front LED Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-led-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
  Compared to last year's MSI Raider GE77 series, which featured an all-black matte design with minimal branding, the GE78 Raider opts for a bolder look. It introduces gold plastic and red rubberized trims, which are purely aesthetic and unique to this model.
@@ -191,31 +177,11 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Plastic Trim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-plastic-trim.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
  On the build quality front, the Raider does reasonably well, with minimal creaking and just a bit of flex when pressure is applied to the outer lid. However, it's worth noting that it lacks the Unibody design found in competitors like the Razer Blade 18, which exudes a higher level of refinement.
 
  With its front LED bar, unique design elements, and lifted rear end, this laptop has a somewhat fragmented feel, but it's still solidly built. Whether you love its aesthetic or find it a bit over-the-top, it's impossible to ignore.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connectivity
 
@@ -237,29 +203,22 @@ Physical Webcam cover
 
  Paul Antill / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Display
 
  Our MSI Raider GE78 HX 13V uses a QHD+ panel boasting a resolution of 2560 x 1600\. The 16:10 aspect ratio is a new addition to the Raider series, providing a taller screen, traditionally associated with productivity work, but it's been making its way into most of MSI's lineup over the past few years. The display only opens up to about 120 degrees—so no extreme angles with this one.
 
 ![MSI Raider GE78 HX - Max Screen Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-max-screen-angle.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Paul Antill / MakeUseOf
 
  The 240Hz refresh rate strikes a good balance. While the benefits of a 360Hz display might be imperceptible to the average user, this "slower" display brings cost savings, making it a worthwhile compromise. For games like Overwatch 2, where frame rates can reach 190-220 fps on the highest settings, the advantages of a faster display would only become apparent if you dialed down the settings considerably.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Trackpad and Keyboard
 
@@ -270,10 +229,10 @@ Physical Webcam cover
 ![MSI Raider GE78 HX - Keyboard Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-keyboard-deck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
@@ -284,20 +243,14 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Trackpad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-trackpad.jpg)
 
- Paul Antill / MakeUseOf
-
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Paul Antill / MakeUseOf
 
 ## Performance
 
@@ -311,9 +264,29 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Underside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-underside.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  This is most noticeable while gaming if you are right-handed, as it can push out very hot air from its right side. With this being such a large laptop already, I tend to place my mouse within a few inches of the laptop. After about 15 minutes of gaming, the laptop can be unbearably hot if you're within 1-2 inches of it. I had to back away to about 4-5 inches not to notice the heat as much.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gaming Benchmarks
 
@@ -328,6 +301,13 @@ Physical Webcam cover
  The MSI Raider GE78 HX 13V is a gaming powerhouse designed to deliver a stellar experience at 1600p. You can consistently run AAA titles at maximum settings with over 100 fps, even with DLSS upscaling off and demanding RTX features enabled. In less demanding FPS games like Overwatch 2, you'll enjoy a staggering 180-220 fps, and if you need even more frames, simply lower the settings to 1080p with High or Medium settings for an even more buttery 300+ fps.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance Benchmarks
 
@@ -349,7 +329,21 @@ Close
 
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### MSI Raider GE78 HX
 
@@ -376,21 +370,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-7-secure-video-conferencing-systems-for-smbs/"><u>[New] Ultimate 7 Secure Video Conferencing Systems for SMBs</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-12-sign-bio-blueprints-on-whatsapp-for-2024/"><u>[Updated] The Ultimate 12-Sign Bio Blueprints on WhatsApp for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>2024 Approved Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-leading-7-twitch-streamer-assistants/"><u>Discover the Leading 7 Twitch Streamer Assistants</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028434465-dvdand/"><u>DVDプレーヤーでのディスク読み取り失敗:原因分析&解決策</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-google-pixel-7a-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Google Pixel 7a.</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-watch-movies-on-your-ps5-with-sony-pictures-core/"><u>How to Watch Movies on Your PS5 With Sony Pictures Core</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-gameplay-joy-and-concerns/"><u>Portable Gameplay: Joy and Concerns</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-for-voice-chat-failure-in-world-of-warcraft-effective-strategies-inside/"><u>Quick Fix for Voice Chat Failure in World of Warcraft - Effective Strategies Inside</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ranking-the-finest-windows-11-video-grabbers/"><u>Ranking the Finest Windows 11 Video Grabbers</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-windows-11-steam-service-disruptions/"><u>Resolving Windows 11: Steam Service Disruptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/retro-revelry-playing-vintage-pokemon-games/"><u>Retro Revelry: Playing Vintage Pokémon Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-vanished-wordle-streaks-on-smartphones/"><u>Revive Vanished Wordle Streaks on Smartphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-locking-down-your-playstation-5-games/"><u>Step-by-Step Guide to Locking Down Your PlayStation 5 Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-definitive-collection-of-the-mafia-series-gets-official-release-date-announcement/"><u>The Definitive Collection Of The Mafia Series Gets Official Release Date Announcement</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-online-meetings-with-clarity-and-precision-for-2024/"><u>Capturing Online Meetings with Clarity and Precision for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/channel-building-strategies-to-hit-a-million-view-mark/"><u>Channel Building Strategies to Hit a Million-View Mark</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-tutorial-transferring-your-entire-itunes-library-to-an-external-hdd/"><u>Complete Tutorial: Transferring Your Entire iTunes Library to an External HDD</u></a></li>
+<li><a href="https://games-able.techidaily.com/determine-if-cpu-is-restricting-your-pcs-abilities/"><u>Determine if CPU Is Restricting Your PC's Abilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-flaw-in-the-greatness-of-google-play-pass/"><u>Discovering the Flaw in the Greatness of Google Play Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-the-ps5-game-top-9-exclusive-benefits/"><u>Elevating the PS5 Game: Top 9 Exclusive Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gamers-monitor-165hz-pro/"><u>Elite Gamer's Monitor: 165Hz Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-online-visibility-with-cookiebot-power-effective-seo-techniques/"><u>Enhance Online Visibility with Cookiebot Power: Effective SEO Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-11-typing-speed-7-latency-fixes-revealed/"><u>Enhance Windows 11 Typing Speed: 7 Latency Fixes Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/guide-to-getting-1000-subscribers-for-your-youtube-channel-for-2024/"><u>Guide to Getting 1000 Subscribers for Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-your-games-spark-with-raspberry-pi-six-reasons/"><u>Ignite Your Game's Spark with Raspberry Pi - Six Reasons</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-8-plus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-wi-fi-free-gaming-titles-ios/"><u>The Ultimate List of Wi-Fi Free Gaming Titles (iOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-of-quick-resume-on-xbox-series-xands/"><u>Value of Quick Resume on Xbox Series X&S</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Itel P55T? | Dr.fone</u></a></li>
 </ul></div>
 

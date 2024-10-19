@@ -1,7 +1,7 @@
 ---
 title: "Joypad to Controller: Nintendo on Steam"
-date: 2024-10-07T23:10:25.480Z
-updated: 2024-10-13T06:35:42.337Z
+date: 2024-10-16T12:19:57.925Z
+updated: 2024-10-18T17:31:26.985Z
 tags:
   - games
 categories:
@@ -50,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
@@ -71,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
@@ -82,16 +88,10 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
@@ -101,10 +101,16 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
@@ -128,20 +134,24 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-hidden-treasures-10-newest-coolest-fb-meme-pages/"><u>[Updated] In 2024, Hidden Treasures 10 Newest, Coolest FB Meme Pages</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-warrior-whistles-expertly-chosen-destinations-to-download-game-ringtones/"><u>[Updated] Warrior Whistles Expertly Chosen Destinations to Download Game Ringtones</u></a></li>
-<li><a href="https://games-able.techidaily.com/bright-future-leading-leds-of-the-year/"><u>Bright Future: Leading LEDs of the Year</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixes-for-the-droopy-effect-in-monitors/"><u>Fixes for the 'Droopy' Effect in Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-delight-keychron-meets-lemokey-l3/"><u>Gamer's Delight: Keychron Meets Lemokey L3</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-t2-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo T2 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-fix-the-tiktok-refresh-error-instantly/"><u>In 2024, Fix the TikTok Refresh Error Instantly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-8s-proplus-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 8S Pro+ Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-low-light-photos-on-ios-11/"><u>Mastering Low-Light Photos on iOS 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-resolving-4-frequent-gpu-issues/"><u>Mastering the Art of Resolving 4 Frequent GPU Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-edge-guide-for-gaming-browser-enthusiasts/"><u>The Ultimate Edge Guide for Gaming Browser Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-15-youtube-openings-elevate-your-contents-impact-for-2024/"><u>Top 15 YouTube Openings Elevate Your Content's Impact for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-nintendo-switch-grips-and-pads-2024-edition/"><u>Top Nintendo Switch Grips and Pads, 2024 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/win-11-bring-back-old-gaming-memories-via-pics-folder/"><u>Win 11 - Bring Back Old Gaming Memories via Pics Folder</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-fixed-shorts-are-now-easily-accessible-for-2024/"><u>YouTube Fixed Shorts Are Now Easily Accessible for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-free-cam-software-roundup-innovation-at-your-fingertips-for-2024/"><u>[New] Free Cam Software Roundup Innovation at Your Fingertips for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-selecting-the-ideal-imagery-for-remote-meetings/"><u>[Updated] 2024 Approved Selecting the Ideal Imagery for Remote Meetings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-step-by-step-approach-to-uncovering-favorite-youtube-remarks/"><u>[Updated] In 2024, Step-by-Step Approach to Uncovering Favorite YouTube Remarks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-photography-transformed-simplifying-edges-and-corners/"><u>[Updated] Photography Transformed Simplifying Edges and Corners</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ideation-at-its-peak-crafting-impressive-youtube-titles/"><u>2024 Approved Ideation at Its Peak Crafting Impressive YouTube Titles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-infographic-hottest-social-media-trends-that-will-take-over-2023/"><u>2024 Approved Infographic - Hottest Social Media Trends That Will Take Over 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-sharing-your-content-on-facebook/"><u>2024 Approved Step-by-Step Sharing Your Content on Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-explained-the-key-factors-distinguishing-strong-from-weak-ai/"><u>Artificial Intelligence Explained: The Key Factors Distinguishing Strong From Weak AI</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cost-vs-benefit-of-replacing-apple-device-batteries/"><u>Cost Vs. Benefit of Replacing Apple Device Batteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/handheld-horizon-nintendo-2024-rumor-round-up/"><u>Handheld Horizon: Nintendo 2024 Rumor Round-Up</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-apples-game-mode-in-macos-sonoma-work/"><u>How Does Apple's Game Mode in macOS Sonoma Work?</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unveils-game-streaming-service-but-whats-the-verdict/"><u>Nvidia Unveils Game Streaming Service, But What's the Verdict?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-ability-to-run-ps4-games/"><u>PS5's Ability to Run PS4 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-issues-revive-your-gaming-experience-with-headsets/"><u>Reconnecting Issues? Revive Your Gaming Experience with Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/smartchoice-display-gamemonitor-27m2v-led/"><u>SmartChoice Display: GameMonitor 27M2V LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-selecting-prime-participation-rich-discs/"><u>The Art of Selecting Prime, Participation-Rich Discs</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-rise-and-risks-assessing-facebooks-role-in-multi-app-accessibility/"><u>The Rise and Risks: Assessing Facebook's Role in Multi-App Accessibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-value-gaming-motherboard-deals/"><u>Ultimate Value Gaming Motherboard Deals</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-advantages-of-different-elgato-decks/"><u>Understanding the Advantages of Different Elgato Decks</u></a></li>
 </ul></div>
 

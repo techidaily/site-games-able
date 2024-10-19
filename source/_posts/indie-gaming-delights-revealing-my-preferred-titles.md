@@ -1,7 +1,7 @@
 ---
 title: "Indie Gaming Delights: Revealing My Preferred Titles"
-date: 2024-10-08T20:02:41.412Z
-updated: 2024-10-13T03:36:07.242Z
+date: 2024-10-14T23:37:48.681Z
+updated: 2024-10-19T13:15:52.919Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 A Short Hike
@@ -72,15 +65,28 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
@@ -92,16 +98,16 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -128,22 +134,20 @@ thumbnail: https://thmb.techidaily.com/8823459ab6574b19c976d6905c67df41ee5da3519
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-quick-pics-windows-11s-fast-photo-viewer/"><u>[New] 2024 Approved Quick Pics Windows 11'S Fast Photo Viewer</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-churning-up-channels-top-gear-list/"><u>[New] Churning Up Channels Top Gear List</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-brightness-and-saturation-in-ps-basics/"><u>2024 Approved Unlocking Brightness and Saturation in PS Basics</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-engaging-virtual-experiences-to-fortify-design-expertise/"><u>7 Engaging Virtual Experiences to Fortify Design Expertise</u></a></li>
-<li><a href="https://games-able.techidaily.com/adaptive-thermal-control-curve-for-high-end-gpus/"><u>Adaptive Thermal Control Curve for High-End GPUs</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/an-enthusiasts-guide-to-favorite-offbeat-indie-games/"><u>An Enthusiast's Guide to Favorite, Offbeat Indie Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-subtleties-steam-vs-gog-service-providers/"><u>Analyzing Subtleties: Steam vs GOG Service Providers</u></a></li>
-<li><a href="https://games-able.techidaily.com/atlasos-your-old-machines-future/"><u>AtlasOS: Your Old Machine's Future</u></a></li>
-<li><a href="https://games-able.techidaily.com/baldurs-gate-3-for-m1m2-using-crossover-on-mac/"><u>Baldur’s Gate 3 for M1/M2: Using Crossover on Mac</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/any-viewers-equates-to-profit-decoding-youtubes-earnings-formula/"><u>How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-effortlessly-update-your-nvidia-rtx-1080-graphics-drivers-on-a-windows-10-system/"><u>How to Effortlessly Update Your NVIDIA RTX 1080 Graphics Drivers on a Windows 10 System</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-precision-playback-aligning-video-views-in-real-time/"><u>In 2024, Precision Playback Aligning Video Views in Real-Time</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169184228-my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-activating-gpts-advanced-features-for-web-browsers-and-plugins-in-beta-mode/"><u>Step-by-Step: Activating GPT's Advanced Features for Web Browsers and Plugins in Beta Mode</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-simple-steps-to-embed-youtube-playlists-on-any-website/"><u>The Simple Steps to Embed YouTube Playlists on Any Website</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sonic-artistry-and-video-prowess-in-sonys-xperia-xz/"><u>[New] Sonic Artistry and Video Prowess in Sony's Xperia XZ</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-5-pc-compatible-gb-advance-emulators-for-optimal-play/"><u>[Updated] 2024 Approved Top 5 PC-Compatible GB Advance Emulators for Optimal Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-new-horizons-with-windows-and-steamos-on-a-deck/"><u>Conquer New Horizons with Windows & SteamOS on a Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-missing-elements-alert-on-pc/"><u>Counteracting Missing Elements Alert on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-complex-interactions-between-endocannabinoid-receptors-and-brain-functions/"><u>Decoding the Complex Interactions Between Endocannabinoid Receptors and Brain Functions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhance-your-digital-viewing-experience-in-hd-with-android/"><u>Enhance Your Digital Viewing Experience in Hd with Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/forming-a-play-group-on-xbox-nextgen/"><u>Forming a Play Group on Xbox NextGen</u></a></li>
+<li><a href="https://games-able.techidaily.com/friendly-fights-across-phones-choice-of-mobile-matchups/"><u>Friendly Fights Across Phones: Choice of Mobile Matchups</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gadget-games-galore-quickest-quality-flash-titles/"><u>Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-retrieve-lost-sms-conversations-a-guide-to-restoring-deleted-texts/"><u>How To Retrieve Lost SMS Conversations: A Guide To Restoring Deleted Texts</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ios-12-update-how-to-delete-music-from-your-iphone-without-using-itunes/"><u>IOS 12 Update: How to Delete Music From Your iPhone Without Using iTunes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unleash-your-creativity-top-rated-alternatives-to-windows-10-photos/"><u>New 2024 Approved Unleash Your Creativity Top-Rated Alternatives to Windows 10 Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-choice-8-best-news-and-reviews-for-gamers/"><u>Prime Choice: 8 Best News & Reviews for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-alternatives-7-arguments-against-ray-tracing-embrace/"><u>Uncovering Alternatives: 7 Arguments Against Ray Tracing Embrace</u></a></li>
 </ul></div>
 

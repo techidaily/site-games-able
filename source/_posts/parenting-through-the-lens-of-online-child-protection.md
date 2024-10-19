@@ -1,7 +1,7 @@
 ---
 title: Parenting Through the Lens of Online Child Protection
-date: 2024-10-08T11:15:35.265Z
-updated: 2024-10-12T23:27:06.574Z
+date: 2024-10-15T03:38:33.011Z
+updated: 2024-10-19T10:01:11.771Z
 tags:
   - games
 categories:
@@ -43,37 +43,31 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Set Time Limits
 
@@ -84,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Encourage Critical Thinking
@@ -95,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
@@ -122,15 +116,20 @@ thumbnail: https://thmb.techidaily.com/0c5d42c4dd20613a1c9b759dc5acc559eb281ce84
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/channel-combat-determining-which-earns-more-from-videosdailymotion-or-youtube-for-2024/"><u>Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/dealing-with-steams-erratic-content-loading/"><u>Dealing with Steam's Erratic Content Loading</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminate-your-among-us-stuck-loader-expert-fixes-for-a-smooth-gameplay/"><u>Eliminate Your Among Us Stuck Loader: Expert Fixes for a Smooth Gameplay</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/guia-paso-a-paso-para-convertir-archivos-png-a-jpeg-sin-costo-alguno-mediante-movavi-metodo-mas-eficiente-y-facil-de-usar/"><u>Guía Paso a Paso Para Convertir Archivos PNG a JPEG Sin Costo Alguno Mediante Movavi: Método Más Eficiente Y Fácil De Usar</u></a></li>
-<li><a href="https://games-able.techidaily.com/identifying-the-most-critical-gaming-mouse-qualities-with-ease/"><u>Identifying the Most Critical Gaming Mouse Qualities with Ease</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-setup-continuous-auto-video-in-fb/"><u>In 2024, How to Setup Continuous Auto-Video in Fb</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-13-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 13 Pro Properly | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-your-way-through-choosing-handheld-gaming-devices/"><u>Navigating Your Way Through Choosing Handheld Gaming Devices</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/patriot-viper-vp4300-lite-solid-state-drive-in-depth-4tb-storage-analysis/"><u>Patriot Viper VP4300 Lite Solid State Drive - In-Depth 4TB Storage Analysis</u></a></li>
-<li><a href="https://games-able.techidaily.com/thrifty-gaming-excellent-value-240hz-monitors/"><u>Thrifty Gaming: Excellent Value 240Hz Monitors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-your-video-call-process-with-obs-and-skype/"><u>[New] 2024 Approved Streamlining Your Video Call Process with OBS & Skype</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-time-capsule-in-digital-form-storing-historic-pictures/"><u>[Updated] A Time Capsule in Digital Form Storing Historic Pictures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-live-streamer-audience-metrics/"><u>[Updated] Live Streamer Audience Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-camouflage-for-gamers/"><u>Digital Camouflage for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-quest-revealed-10-superior-pc-selections-from-google-play-beta/"><u>Game Quest Revealed - 10 Superior PC Selections From Google Play Beta</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-5-vision-new-functionalities-on-the-horizon/"><u>GPT-5 Vision: New Functionalities on the Horizon</u></a></li>
+<li><a href="https://games-able.techidaily.com/handy-hints-for-repairing-your-xbox-series-xs/"><u>Handy Hints for Repairing Your Xbox Series X|S</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-13-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 13 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-a-controller-when-emulating-switch-games-with-ryujinx/"><u>How to Use a Controller When Emulating Switch Games With Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-lenovo-legion-go-next-gen-gaming-experience/"><u>IFA 2023: Lenovo Legion Go - Next-Gen Gaming Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-examination-hero4-black-innovation/"><u>In 2024, In-Depth Examination Hero4 Black Innovation</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-game-exits-on-console-xb19-and-s/"><u>Streamline Game Exits on Console XB19 and S</u></a></li>
+<li><a href="https://games-able.techidaily.com/toggle-gaming-interface-elements-on-discord/"><u>Toggle Gaming Interface Elements on Discord</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-recording-your-ps4-gaming-sessions/"><u>Ultimate Guide: Recording Your PS4 Gaming Sessions</u></a></li>
 </ul></div>
 

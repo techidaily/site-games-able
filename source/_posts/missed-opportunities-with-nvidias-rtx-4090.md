@@ -1,7 +1,7 @@
 ---
 title: Missed Opportunities with NVIDIA's RTX 4090
-date: 2024-10-05T22:41:11.864Z
-updated: 2024-10-13T06:21:36.589Z
+date: 2024-10-16T16:08:25.641Z
+updated: 2024-10-19T08:34:17.338Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 * [Power Consumption Is Very High](#power-consumption-is-very-high)
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The games I normally play don't utilize my RTX 4090 fully, and my CPU holds its performance back at 1440p resolution.
@@ -32,6 +39,19 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 * Consider the RTX 4080 Super if you don't plan to play games at 4K resolution. It's far less power hungry with a 320W TDP.
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
 
@@ -47,20 +67,19 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
@@ -74,22 +93,15 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
 
@@ -116,15 +128,22 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-cutting-edge-strategies-for-instagram-video-cropping/"><u>[New] 2024 Approved Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>[New] Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-inshot-unveiled-assessing-its-edge-over-other-editors/"><u>[New] InShot Unveiled Assessing Its Edge Over Other Editors</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/5qw144kb44gm44k344oz44ox44or77yb44oe44od44kt44gu44oh44k444k44or5qmf5zmo44gn44os44oz44k44or44ot44oh44kq44ks57ch5y2y44gr44oq44od44kv44ki44od44ox44gx44gplus44g4/"><u>極めてシンプル！マッキのデジタル機器でレンタルビデオを簡単にバックアップしませんか？</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-tale-of-three-missteps-my-rtx-4090-journey/"><u>A Tale of Three Missteps: My RTX 4090 Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-rtx-now-essential-post-gtx-era/"><u>Are RTX Now Essential Post-GTX Era?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173882396-bid-farewell-to-single-os-on-steam-deck/"><u>Bid Farewell to Single OS on Steam Deck</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guia-paso-a-paso-para-insertar-texto-en-un-gif-metodos-de-vanguardia/"><u>Guía Paso a Paso Para Insertar Texto en Un GIF: Métodos De Vanguardia</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-c51-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco C51 to iPod | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170335503-what-is-the-essence-of-meta-in-video-games-compliance-matters/"><u>What Is the Essence of Meta in Video Games? Compliance Matters!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-boost-your-engagement-now-discover-these-key-youtube-shortcuts/"><u>[New] 2024 Approved Boost Your Engagement Now! - Discover These Key YouTube Shortcuts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-memes-top-ten-template-showcase/"><u>[New] Mastering Memes Top Ten Template Showcase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-write-podcast-magic-a-comprehensive-guide-with-sample-chapters/"><u>[Updated] 2024 Approved Write Podcast Magic A Comprehensive Guide with Sample Chapters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-igtv-posts-with-best-video-edit-apps/"><u>[Updated] In 2024, Enhance IGTV Posts with Best Video Edit Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-closer-look-detailed-test-on-lg-ud88-w-oled-screen/"><u>2024 Approved A Closer Look Detailed Test on LG UD88-W OLED Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatible-pc-building-a-7-step-blueprint/"><u>Compatible PC Building - A 7-Step Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafted-connections-5-ways-to-play-minecraft-with-your-pals/"><u>Crafted Connections: 5 Ways to Play Minecraft with Your Pals</u></a></li>
+<li><a href="https://games-able.techidaily.com/deceptively-disconnected-the-steam-offline-method/"><u>Deceptively Disconnected: The Steam Offline Method</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-drivers-for-logitech-g430-gaming-headset-improve-sound-quality-now/"><u>Download Drivers for Logitech G430 Gaming Headset - Improve Sound Quality Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensible-guide-to-softening-sound-via-lumafusion/"><u>In 2024, A Comprehensible Guide to Softening Sound via Lumafusion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-gaming-monitor-budget-friendly-speedster/"><u>InnoCN Gaming Monitor: Budget-Friendly Speedster</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigational-wisdom-to-prevent-no-signal-woes-in-pokemon-go/"><u>Navigational Wisdom to Prevent No Signal Woes in Pokémon Go</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/social-network-harmony-integrating-instagram-and-facebook/"><u>Social Network Harmony Integrating Instagram & Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/start-your-sim-racing-adventure-with-moza-r5-bundle/"><u>Start Your Sim Racing Adventure with MOZA R5 Bundle</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-upgrade-10-benefits-of-pc-over-console/"><u>The Ultimate Upgrade: 10 Benefits of PC over Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-dxvks-role-in-graphics-boosting-windows-games/"><u>Understanding DXVK's Role in Graphics Boosting Windows Games</u></a></li>
 </ul></div>
 

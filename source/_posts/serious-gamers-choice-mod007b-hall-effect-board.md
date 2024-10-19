@@ -1,7 +1,7 @@
 ---
 title: "Serious Gamer's Choice: Mod007B Hall Effect Board"
-date: 2024-09-19T18:41:20.396Z
-updated: 2024-09-21T01:24:27.440Z
+date: 2024-10-11T22:14:02.622Z
+updated: 2024-10-19T00:28:04.715Z
 tags:
   - games
 categories:
@@ -118,6 +118,13 @@ No
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
  The Akko MOD007B Hall Effect keyboard is a 75% keyboard, which has ditched the numeric keypad and smushed the control keys together for a more compact form factor. It also comes in two keycap themes: Blue Santorini and Pink Tokyo.
@@ -126,9 +133,29 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -137,6 +164,13 @@ No
  The extra keycaps contain Japanese icons, but installing them could potentially mix up the perfect pink-and-white combination on the stock keys already. But they’re still a great option if you want to customize your keyboard further and have memorized the placement of non-alphanumeric keys.
 
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -168,29 +202,22 @@ Related
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Typing on Cloud Nine
 
  Aside from the advantages of Hall Effect keys, the Akko MOD007B also delivers an excellent typing feel. The keyboard itself uses a gasket mount for a soft and relaxed typing experience. And when you press on the keys hard, you’ll notice them sink into the case, especially for keys near the edges.
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -216,13 +243,6 @@ Related
 
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Jowi Morales / MakeUseOf
 
  Another issue I faced with the Akko MOD007B is its battery life. I’ve never run out of power when reviewing other keyboards, but it’s the first time I did with this keyboard. Even with the RGB lights off, I need to charge more frequently. You also cannot check the power state while you're charging—you have to unplug it to see how much power is left by pressing Fn+Spacebar.
@@ -242,10 +262,10 @@ Related
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### AKKO MOD007B PC
@@ -333,5 +353,24 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-youtube-skip-the-top-8-novice-missteps/"><u>[New] 2024 Approved Navigating YouTube Skip the Top 8 Novice Missteps!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-evaluating-auroras-high-dynamic-range-benefits/"><u>[New] Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fb-stream-downloading-on-different-operating-systems/"><u>[New] In 2024, FB Stream Downloading on Different Operating Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-intelligent-digital-diary-with-mematic-services/"><u>[Updated] Intelligent Digital Diary with Mematic Services</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-master-guide-implementing-chapters-in-vimeo-for-2024/"><u>[Updated] Master Guide Implementing Chapters in Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-freefire-content-creation-on-youtube/"><u>2024 Approved Prime FreeFire Content Creation on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-free-to-play-uncover-the-top-5-mobile-game-advantages/"><u>Beyond 'Free-to-Play': Uncover the Top 5 Mobile Game Advantages</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-efficiency-expert-advice-on-key-productivity-apps-and-strategies-for-streamlining-your-daily-tasks/"><u>Boosting Efficiency: Expert Advice on Key Productivity Apps & Strategies for Streamlining Your Daily Tasks</u></a></li>
+<li><a href="https://games-able.techidaily.com/brace-yourself-10-premier-pc-titles-from-google-play-games-beta/"><u>Brace Yourself: 10 Premier PC Titles From Google Play Games Beta</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-with-switch/"><u>Bridging Console and Computer with Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/broaden-horizons-top-6-alternative-online-chess-experiences/"><u>Broaden Horizons: Top 6 Alternative Online Chess Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/capturing-steam-gameplay-with-precision/"><u>Capturing Steam Gameplay with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/cease-steams-startup-routine/"><u>Cease Steam's Startup Routine</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-swings-for-gaming-optical-or-mechanical/"><u>Choosing Swings for Gaming: Optical or Mechanical?</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-desk-based-computers-to-gaming-pcs/"><u>Comparing Desk-Based Computers to Gaming PCs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-insta-flip-fundamentals-rotating-videos-for-maximum-engagement-and-reach/"><u>In 2024, Insta-Flip Fundamentals Rotating Videos for Maximum Engagement and Reach</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-5-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 5 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Guide to Labor Day 2024'S Greatest TV Specials and Savings on ZDNet
-date: 2024-09-17 12:58:50
-updated: 2024-09-20 12:28:39
+date: 2024-10-17T08:40:48.481Z
+updated: 2024-10-19T00:50:34.465Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-screen-capture-elite-top-10-on-pc-and-mac-revealed/"><u>[New] 2024 Approved Screen Capture Elite Top 10 on PC & Mac Revealed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamlining-your-way-through-youtubes-comment-forum/"><u>[New] In 2024, Streamlining Your Way Through YouTube's Comment Forum</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-privacy-preserving-recordings-methods-to-shield-sensitive-data/"><u>[Updated] In 2024, Privacy-Preserving Recordings Methods to Shield Sensitive Data</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-snapshots-and-snickers-the-art-of-memery/"><u>[Updated] In 2024, Snapshots and Snickers The Art of Memery</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-capturing-with-camstudio-complete-for-2024/"><u>[Updated] Mastering Capturing with CamStudio Complete for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-am08-pro-make-acemagic-authentic/"><u>Does AM08 Pro Make AceMagic Authentic?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-blind-spots-can-chatgpt-recognize-its-creations/"><u>Exploring AI Blind Spots: Can ChatGPT Recognize Its Creations?</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-power-up-choosing-between-directx-11-and-12/"><u>Graphics Power Up: Choosing Between DirectX 11 & 12</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-in-minecraft-and-get-back-to-gaming/"><u>How to Overcome the Endless Loading Screen in Minecraft & Get Back to Gaming</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-sustained-engagement-determining-the-ideal-frequency-for-your-youtube-channel/"><u>In 2024, Sustained Engagement Determining the Ideal Frequency for Your YouTube Channel</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-interface-language-of-steam-platform/"><u>Modify Interface Language of Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-and-task-oriented-pcs-vs-high-end-game-machines/"><u>Office and Task-Oriented PCs Vs. High-End Game Machines</u></a></li>
+<li><a href="https://games-able.techidaily.com/opt-for-another-preferred-steam-language/"><u>Opt for Another Preferred Steam Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-emulating-dreamcast-games/"><u>The Ultimate Guide to Emulating Dreamcast Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-streamers-gaming-selection-guide/"><u>The Ultimate Streamer's Gaming Selection Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-phone-gaming-with-perfect-controllers/"><u>Ultimate Phone Gaming with Perfect Controllers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-techniques-for-constant-screen-flutter-issues/"><u>Ultimate Troubleshooting Techniques for Constant Screen Flutter Issues</u></a></li>
+</ul></div>
+

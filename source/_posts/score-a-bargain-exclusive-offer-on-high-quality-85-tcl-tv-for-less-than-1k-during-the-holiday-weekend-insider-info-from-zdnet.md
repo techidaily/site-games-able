@@ -1,7 +1,7 @@
 ---
 title: Score a Bargain! Exclusive Offer on High-Quality 85 TCL TV for Less Than $1K During the Holiday Weekend – Insider Info From ZDNET.
-date: 2024-09-19 19:21:59
-updated: 2024-09-20 10:59:50
+date: 2024-10-13T09:12:22.394Z
+updated: 2024-10-18T19:29:12.832Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,29 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-solutions-to-decipher-muted-facebook-videos/"><u>[New] Solutions to Decipher Muted Facebook Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-8-premier-no-lag-screen-capture-tools/"><u>[Updated] 2024 Approved 8 Premier No-Lag Screen Capture Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-deciphering-trillers-unique-positioning-amidst-social-media-titles/"><u>[Updated] In 2024, Deciphering Triller's Unique Positioning Amidst Social Media Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-ps4-screens-with-obs-full-steps-for-2024/"><u>[Updated] Mastering PS4 Screens with OBS Full Steps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-ps-console-remotes-to-nintendo-switch/"><u>Connecting PS Console Remotes to Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-ps4-to-a-desktop-console-companion/"><u>Converting PS4 to a Desktop Console Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-to-reconnect-joy-cons-on-your-switch-console/"><u>Essential Tips to Reconnect Joy-Cons on Your Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/foremost-joypads-for-the-switch-reviews/"><u>Foremost Joypads for the Switch Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/gamegrabber-2024-unrestricted-screen-snapshots/"><u>GameGrabber 2024 Unrestricted Screen Snapshots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-tech-gear-with-toms-hardware-guide/"><u>In-Depth Analysis of Tech Gear with Tom's Hardware Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplistic-strategies-discover-indolent-mmos/"><u>Simplistic Strategies: Discover Indolent MMOs</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-protected-best-practices-for-switch-account-use/"><u>Stay Protected: Best Practices for Switch Account Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcoming-the-anticheat-module-disconnect-on-escape-from-tarkov/"><u>Step-by-Step Guide to Overcoming the ‘AntiCheat Module Disconnect’ on Escape From Tarkov</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-laserjet-p1e07-driver-downloads-and-compatibility-info/"><u>Update Your HP LaserJet P1e07 - Driver Downloads & Compatibility Info</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-download-amd-rx-6800-drivers-for-windows-7-10-and-11/"><u>Update Your PC: Download AMD RX 6800 Drivers for Windows 7, 10 & 11</u></a></li>
+</ul></div>
+

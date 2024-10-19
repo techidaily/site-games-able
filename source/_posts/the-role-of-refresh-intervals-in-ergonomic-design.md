@@ -1,7 +1,7 @@
 ---
 title: The Role of Refresh Intervals in Ergonomic Design
-date: 2024-10-07T10:36:54.417Z
-updated: 2024-10-13T08:03:21.666Z
+date: 2024-10-17T03:11:07.012Z
+updated: 2024-10-19T02:57:25.796Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
  But why does the keyboard polling rate matter to regular folks, and is a higher polling rate more important to gamers?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is a Keyboard Polling Rate?
 
  Keyboard polling rate determines how frequently your computer checks for key presses. Like many measurements with computers, polling rate is measured in Hertz (Hz), which tells us how many requests are made per second. As such, a higher figure means your computer and keyboard communicate more frequently, and key presses are detected and registered rapidly.
@@ -58,6 +51,19 @@ For example:
 
  The standard polling rate used to be around 125Hz, but higher speeds like 500-1,000Hz have become more common recently. Choosing the right polling rate depends on your needs—fast-paced gaming benefits from 500+Hz, while typical typing doesn't require extremely high rates.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does Keyboard Polling Rate Make a Difference When Gaming?
 
  Yes, the keyboard polling rate absolutely relates to in-game performance. Well, perhaps not for mere mortals, but those that game even vaguely competitively will want faster keyboard polling rates where possible.
@@ -65,13 +71,6 @@ For example:
  It makes sense; the faster your inputs are received and reacted upon by the keyboard and computer, the faster they are enacted in game. It could be the difference between dodging a shot in a competitive FPS versus getting taken down and losing the round.
 
 ![steelseries apex pro mini hand typing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-hand-typing.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As mentioned above, a higher polling rate reduces input lag. ESport professionals will use much higher polling rates than regular folks, with some keyboards offering up to 4,000Hz (0.25ms) and some even ramping up to 8,000Hz (0.125ms).
 
@@ -81,6 +80,13 @@ But nothing can replace actual in-game skills!
 
  It's also worth noting that higher polling rates typically place more strain on the system CPU. An 8,000Hz polling rate requires extremely fast communication at a near-constant rate, which can lead to some CPU overhead.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do Wired Keyboards Have Better Polling Rates Than Wireless Keyboards?
 
  You do not necessarily need a wired keyboard to achieve a high polling rate. Many modern wireless gaming keyboards can also have high polling rates of 500Hz or 1,000Hz.
@@ -88,10 +94,10 @@ But nothing can replace actual in-game skills!
 ![steelseries apex pro mini wireless switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-wireless-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, wired connections generally can more easily achieve higher and more consistent polling rates than wireless keyboards.
@@ -122,10 +128,10 @@ But nothing can replace actual in-game skills!
  Note that the above tool is for Windows and Linux. This[handy Reddit post](https://www.reddit.com/r/linux%5Fgaming/comments/15ii0um/how%5Fdo%5Fi%5Ffind%5Fmy%5Flaptop%5Fkeyboard%5Fpolling%5Frate/) explains how to check the keyboard polling rate on Linux using the command line.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Manual Calculation** : If you don't have any of the above tools to hand and can't get hold of them or use them, a manual keyboard polling rate check might suffice. However, it's not particularly accurate. To measure the keyboard polling rate manually, open a text editor, then set a ten-second timer. Hit go on the timer and press a key as many times as possible. Divide the number of keypresses by the time, and you'll get a very, very rough estimate of your polling rate.
@@ -165,16 +171,22 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-electronic-gamblers-journal/"><u>[New] ELECTRONIC GAMBLER'S JOURNAL</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-highview-monitor-27m2v-pixels/"><u>Affordable HighView Monitor, 27M2V Pixels</u></a></li>
-<li><a href="https://games-able.techidaily.com/banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-link-pc-to-airspace-w7/"><u>Effortlessly Link PC to Airspace W7</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-steam-games-failing-to-start-on-windows-11/"><u>Fixing the Issue of Steam Games Failing to Start on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-realme-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Realme .</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/immersive-experience-logging-top-tips-and-techniques-for-minecraft-recordings/"><u>Immersive Experience Logging Top Tips & Techniques for Minecraft Recordings</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172049939-secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/techniques-for-elongated-iphone-photography-for-2024/"><u>Techniques for Elongated iPhone Photography for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essentials-of-implementing-windows-11s-auto-hdr/"><u>The Essentials of Implementing Windows 11'S Auto HDR</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165694207-the-history-and-evolution-of-street-mapping-techniques-and-tools/"><u>The History and Evolution of Street Mapping Techniques and Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-framerate-and-quality-in-game-recorders-explored/"><u>[New] Framerate and Quality in Game Recorders Explored</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-pop-8-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Pop 8 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-debit-card-validation-mistakes-on-ps5/"><u>Correcting Debit Card Validation Mistakes on PS5</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-your-crypto-gains-forward-windows-and-amd-driver-compatibility-guide/"><u>Drive Your Crypto Gains Forward: Windows & AMD Driver Compatibility Guide</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/dynamic-broadcasting-with-manycam-high-quality-live-streaming-tools-and-online-camera-solutions/"><u>Dynamic Broadcasting with ManyCam - High-Quality Live Streaming Tools & Online Camera Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-f04-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-benefits-of-quick-resume-on-new-xbox-console/"><u>Navigating the Benefits of Quick Resume on New Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-pcs-new-life-experience-atlasos/"><u>Old PCs, New Life: Experience AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-unlocked-twitch-channels-await-you/"><u>Prime Unlocked: Twitch Channels Await You</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-unexpected-shutdowns-in-starcraft-ii-on-personal-computers-tips-and-tricks/"><u>Resolving Unexpected Shutdowns in StarCraft II on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-controller-functionality-with-a-new-joystick/"><u>Revitalize Controller Functionality with a New Joystick</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-edgeplus-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Edge+ (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-cracks-open-now-closes-gaming-payout-holes/"><u>Steam Cracks Open, Now Closes Gaming Payout Holes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-beginners-blueprint-to-dominate-new-york-times-strands-challenge/"><u>The Beginner’s Blueprint to Dominate New York Times' Strands Challenge</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-x6-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco X6 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-potential-a-comprehensive-guide-to-customize-xbox-game-bar-settings/"><u>Unraveling Potential: A Comprehensive Guide to Customize Xbox Game Bar Settings</u></a></li>
 </ul></div>
 

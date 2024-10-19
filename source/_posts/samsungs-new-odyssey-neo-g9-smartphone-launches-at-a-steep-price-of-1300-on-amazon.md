@@ -1,7 +1,7 @@
 ---
 title: Samsung's New Odyssey Neo G9 Smartphone Launches at a Steep Price of $1,300 on Amazon
-date: 2024-09-17 18:10:44
-updated: 2024-09-20 10:37:12
+date: 2024-10-12T20:56:46.099Z
+updated: 2024-10-18T16:48:58.237Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,27 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastery-of-magnified-mining-maps/"><u>2024 Approved Mastery of Magnified Mining Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-expansion-cost-of-switch-online-access/"><u>Dissecting the Expansion Cost of Switch Online Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-the-link-restoring-steam-deck-cloud-sync/"><u>Fixing the Link: Restoring Steam Deck Cloud Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-local-to-global-the-art-of-dualsense-remote-refinement/"><u>From Local to Global: The Art of DualSense Remote Refinement</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-x100-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo X100 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-hot-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Hot 30i without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-tech-unveiled-ai-hardware-from-computex/"><u>Revolutionary Tech Unveiled: AI Hardware From Computex</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/secure-and-quality-the-top-5-choice-of-recorders-for-2024/"><u>Secure and Quality - The Top 5 Choice of Recorders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-past-expenditure-for-video-games-explored/"><u>Steam's Past Expenditure for Video Games Explored</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-economics-behind-sonys-game-pass/"><u>Understanding the Economics Behind Sony’s Game Pass</u></a></li>
+</ul></div>
+

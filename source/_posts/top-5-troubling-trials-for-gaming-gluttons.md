@@ -1,7 +1,7 @@
 ---
 title: Top 5 Troubling Trials for Gaming Gluttons
-date: 2024-10-07T03:29:53.128Z
-updated: 2024-10-12T20:12:11.826Z
+date: 2024-10-12T22:16:58.288Z
+updated: 2024-10-19T13:07:04.377Z
 tags:
   - games
 categories:
@@ -61,23 +61,9 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -87,16 +73,16 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -109,15 +95,22 @@ Let’s explore some of the names leading the scene.
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -128,6 +121,13 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -150,22 +150,24 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-arcadearchive-annotator-for-2024/"><u>[New] ArcadeArchive Annotator for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-definitive-guide-to-srt-editing-on-mac/"><u>[Updated] The Definitive Guide to SRT Editing on Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-things-to-do-if-your-nintendo-account-gets-hacked/"><u>5 Things to Do if Your Nintendo Account Gets Hacked</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-reasons-why-all-gamers-should-use-steam/"><u>9 Reasons Why All Gamers Should Use Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-blueprint-for-enhancing-player-retention-four-xbox-reward-adjustments/"><u>A Blueprint for Enhancing Player Retention: Four Xbox Reward Adjustments</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-cooling-lesson-learned-graphics-failure/"><u>A Cooling Lesson Learned: Graphics Failure</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-adding-memory-expansion-in-steam-deck/"><u>A Guide to Adding Memory Expansion in Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-look-at-steam-vs-gog-digital-storefront-divergences/"><u>A Look at Steam vs GOG: Digital Storefront Divergences</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-your-xbox-games-on-steam-glossis-guide/"><u>Access Your Xbox Games on Steam - GlosSI's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-leap-forward-in-graphics-the-significance-of-rdna-35-and-its-launch-window/"><u>AMD's Leap Forward in Graphics - The Significance of RDNA 3.5 & Its Launch Window</u></a></li>
-<li><a href="https://fox-access.techidaily.com/first-steps-into-the-world-of-av1-for-2024/"><u>First Steps Into the World of AV1 for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-3dr-the-soloists-voyage-in-3d-printing-tech/"><u>In 2024, '3DR' The Soloist’s Voyage in 3D Printing Tech</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/macxdvd-announces-grand-opening-giveaway-of-4-premium-mac-apps-hidden-in-a-deluge-of-10000-easter-eggs-get-your-stash-now/"><u>MacXDVD Announces Grand Opening Giveaway of 4 Premium Mac Apps Hidden in a Deluge of 10,000 Easter Eggs - Get Your Stash Now!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-pixiz-photo-video-creation-guide/"><u>Mastering Pixiz Photo Video Creation Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-redmi-note-13-proplus-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Redmi Note 13 Pro+ 5G FRP</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/transforma-tu-musica-ogg-a-ficheros-flac-superiores-y-gratuitos-facilmente-con-la-herramienta-online-perfecta/"><u>Transforma Tu Música OGG a Ficheros FLAC Superiores Y Gratuitos Fácilmente Con La Herramienta Online Perfecta!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams-for-2024/"><u>[New] Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sj7-unveils-its-ultimate-4k-action-camera-a-comprehensive-report/"><u>[New] SJ7 Unveils Its Ultimate 4K Action Camera - A Comprehensive Report</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transform-your-presence-advanced-tricks-for-live-video-graphics/"><u>[New] Transform Your Presence Advanced Tricks for Live Video Graphics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-nintendo-switch-top-hd-game-captures/"><u>[Updated] In 2024, Nintendo Switch Top HD Game Captures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-registering-for-access-to-the-playstation-community/"><u>Complete Walkthrough: Registering for Access to the PlayStation Community</u></a></li>
+<li><a href="https://games-able.techidaily.com/determining-the-peak-of-visual-technology-oled-amoled-or-ips/"><u>Determining The Peak Of Visual Technology: OLED, AMOLED or IPS?</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-frame-by-frame-gaming-archives/"><u>Efficient Frame-by-Frame Gaming Archives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevating-video-production-the-advantages-of-bandicams-technology-for-2024/"><u>Elevating Video Production The Advantages of Bandicam's Technology for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-fallouts-multi-media-journey/"><u>Embark on Fallout’s Multi-Media Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-utilizing-snapchat-highlights-effectively-for-2024/"><u>Expert Tips for Utilizing Snapchat Highlights Effectively for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-early-access-to-starfield/"><u>How to Get Early Access to Starfield</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-narzo-60x-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Narzo 60x 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-samsung-galaxy-a24-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Samsung Galaxy A24 and Browser | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/interpreting-idle-on-discord-accurate-representation/"><u>Interpreting Idle on Discord: Accurate Representation?</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-your-windows-personalized-spotlight-image/"><u>Modify Your Windows Personalized Spotlight Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-mmos-new-horizon-a-fresh-perspective/"><u>Navigating MMO’s New Horizon: A Fresh Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-razer-basilisk-v3-pro-for-gamers/"><u>Pushing Boundaries: Razer Basilisk V3 Pro for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconciling-missing-games-with-your-steam-database/"><u>Reconciling Missing Games with Your Steam Database</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharging-ps5-with-these-essential-features/"><u>Supercharging PS5 with These Essential Features</u></a></li>
 </ul></div>
 

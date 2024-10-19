@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft Should Refine Its Xbox Rewards System
-date: 2024-09-13T19:47:35.666Z
-updated: 2024-09-20T21:33:12.428Z
+date: 2024-10-15T05:58:27.911Z
+updated: 2024-10-18T20:56:45.250Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 
  So while there may be ways to quickly earn Microsoft Reward Points, readily available rewards earn few points, while heavy-earners are time-capped. This combination creates a timely and frustrating cycle for the service where you can only redeem a reward after months and months of earning.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Xbox Monthly and Weekly Rewards Are Getting Worse
 
  While the monthly and weekly reward activities provide a substantial amount of points for you to earn, it's not only the time restraints of these activities that hold back the service as a whole.
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
  The biggest issue associated with the monthly bonus activities was its capped time frame, forcing you to earn the associated points once a month. But now, with the rewarded points literally slashed in half, the feature becomes even more frustrating.
 
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
@@ -61,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
  Even if you look outside the traditional ways you earn Microsoft Reward Points, other methods involving specific titles can act as Xbox Game Pass advertisements or represent a game you may need to purchase.
@@ -77,21 +84,28 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
@@ -112,5 +126,16 @@ thumbnail: https://thmb.techidaily.com/7a684ff6b3f7243ec032f5ae8a931d190264bae1e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-slick-online-apps-for-direct-gif-to-video-updates/"><u>[New] Top 5 Slick Online Apps for Direct GIF to Video Updates</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-basic-to-brilliant-elevating-your-tiktok-profile/"><u>[Updated] In 2024, From Basic to Brilliant Elevating Your TikTok Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-fog-of-ray-tracing-seeing-through-its-allure/"><u>Beyond the Fog of Ray Tracing: Seeing Through Its Allure</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-docked-steam-deck-efficiency-step-by-step-tips/"><u>Boosting Docked Steam Deck Efficiency: Step-by-Step Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-control-to-mobile-screen/"><u>Bridging Console Control to Mobile Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-robloxs-error-403-your-ultimate-fix-manual-for-windows-pcs/"><u>Combatting Roblox's Error 403: Your Ultimate Fix Manual for Windows PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live/"><u>In 2024, Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/maximize-online-presence-through-automated-marketing-driven-by-cutting-edge-cookiebot-technology/"><u>Maximize Online Presence Through Automated Marketing - Driven by Cutting-Edge Cookiebot Technology</u></a></li>
+</ul></div>
 

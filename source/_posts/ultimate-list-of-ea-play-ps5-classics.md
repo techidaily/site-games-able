@@ -1,7 +1,7 @@
 ---
 title: Ultimate List of EA Play PS5 Classics
-date: 2024-10-10T04:33:22.882Z
-updated: 2024-10-13T05:45:34.048Z
+date: 2024-10-15T10:17:21.694Z
+updated: 2024-10-19T10:33:28.806Z
 tags:
   - games
 categories:
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. FIFA 23
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Need for Speed Heat
@@ -81,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
@@ -88,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
@@ -101,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  In this story, Cal Kestis, once a Jedi Padawan, is living in hiding before he is found by Imperial Inquisitors. Playing as Cal, you will attempt to outfox the Inquisitors, traveling across the galaxy and trying to rebuild the Jedi Order.
 
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. UFC 3
 
@@ -138,20 +132,20 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-top-5-apps-for-turning-spotify-listens-into-youtube-videos/"><u>[Updated] 2024 Approved Top 5 Apps for Turning Spotify Listens Into YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-enhance-content-discovery-with-instagrams-changes-for-2024/"><u>[Updated] How to Enhance Content Discovery with Instagram's Changes for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easily-access-w11plus-windows-7-with-asus-bluetooth-driver/"><u>Easily Access W11+ Windows 7 with Asus Bluetooth Driver</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gaming-navigating-android-with-advanced-buttons/"><u>Enhancing Gaming: Navigating Android with Advanced Buttons</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/g-genres-a-youtube-music-strategy-for-2024/"><u>Fusing Genres A YouTube Music Strategy for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-identifying-and-fixing-the-six-most-common-errors/"><u>Mastering ChatGPT: Identifying & Fixing the Six Most Common Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-steam-deck-dock-mastery-techniques/"><u>Optimize Your Steam Deck: Dock Mastery Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/platinum-membership-fees-at-sony-online-entertainment/"><u>Platinum Membership Fees at Sony Online Entertainment</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-to-steams-picture-vault-placement/"><u>Secrets to Steam's Picture Vault Placement</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-detective-genre-expands-to-pc-with-the-resolved-launch-of-la-noire/"><u>The Detective Genre Expands to PC with the Resolved Launch of L.A. Noire</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-cold-war-load-problems-in-pc-and-gaming-consoles/"><u>Troubleshooting Guide for Cold War Load Problems in PC and Gaming Consoles</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/"><u>Ultimate Console Content: PS+ or Xbox Game Pass?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unintended-tiktok-reset-how-to-get-back-old-videos-in-2024/"><u>Unintended TikTok Reset – How to Get Back Old Videos, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-potential-of-your-steam-wallet-with-right-funding/"><u>Unleash the Potential of Your Steam Wallet with Right Funding</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-subtle-sound-reduction-tactics-with-garageband/"><u>[New] 2024 Approved Subtle Sound Reduction Tactics with Garageband</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-strategies-for-enhanced-chromebook-zoom/"><u>[New] Cutting-Edge Strategies for Enhanced Chromebook Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-from-concept-to-capture-the-breakdown-of-apeaks-recorder-software/"><u>[New] From Concept to Capture The Breakdown of Apeak's Recorder Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[Updated] Tailoring Content to Trends Organic Growth Strategies for YouTubers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversione-gratuita-da-mp4-a-mp3-per-windows-11-il-modo-piu-semplice/"><u>Conversione Gratuita Da MP4 a MP3 per Windows 11: Il Modo Più Semplice</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-minecraft-launcher-issues-code-0x803f8001/"><u>Correcting Minecraft Launcher Issues Code 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xbox-gaming-hours-tracking/"><u>Exploring Xbox Gaming Hours Tracking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-practices-for-youtube-to-mpeg-format-switching/"><u>In 2024, Best Practices for YouTube to MPEG Format Switching</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-90-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor 90 Pro Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/operas-secret-weapon-gaining-month-long-free-disco-access/"><u>Opera's Secret Weapon: Gaining Month-Long FREE Disco Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/past-glories-which-7-games-should-see-the-light-of-day-again/"><u>Past Glories: Which 7 Games Should See the Light of Day Again?</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-playstation-delights-explored/"><u>Portable PlayStation Delights Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/regaining-true-navigational-aid-for-pokemon-go/"><u>Regaining True Navigational Aid for Pokémon Go</u></a></li>
+<li><a href="https://win-dash.techidaily.com/secure-software-update-get-the-newest-dell-graphics-utility-tool-for-windows-directly-from-official-source/"><u>Secure Software Update: Get the Newest Dell Graphics Utility Tool for Windows Directly From Official Source</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On HTC U23 | Dr.fone</u></a></li>
 </ul></div>
 

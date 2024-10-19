@@ -1,7 +1,7 @@
 ---
 title: "Intrigue Online: Play Through 4 AI-Generated Mysteries"
-date: 2024-10-06T18:47:53.064Z
-updated: 2024-10-13T06:48:28.577Z
+date: 2024-10-16T23:16:26.153Z
+updated: 2024-10-19T06:01:27.297Z
 tags:
   - games
 categories:
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -62,28 +55,15 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -92,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  The wording on the site isn't crystal clear, so here's the explanation. There are three people (Alice, Eddie, and Carol), one of whom will be murdered. There are four rooms (kitchen, living room, bedroom, and bathroom), and you'll have to pay attention to the daily layout to see how the rooms are connected. Any character can move from one room to another in 15 minutes, but not two rooms in 15 minutes. You'll also be told about four possible murder weapons (knife, gun, poison, rope) and where they were located. Finally, you'll get a few statements from the three characters involved or based on what the police found.
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4. Murdle
 
@@ -104,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -126,21 +120,19 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos-for-2024/"><u>[New] Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/choosing-quality-over-quantity-the-best-reasons-to-purchase-gaming-apps/"><u>Choosing Quality Over Quantity: The Best Reasons to Purchase Gaming Apps</u></a></li>
-<li><a href="https://win-web.techidaily.com/easy-tutorial-on-how-to-save-taylor-swifts-reputation-clips-in-high-quality-audio-and-video-formats/"><u>Easy Tutorial on How to Save Taylor Swift's 'Reputation' Clips in High-Quality Audio and Video Formats</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-solve-steam-errors-on-windows-11-system/"><u>Efficiently Solve Steam Errors on Windows 11 System</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-hp-deskjet-3700-printer-driver-downloads-and-firmware-upgrades/"><u>Essential HP Deskjet 3700 Printer Driver Downloads and Firmware Upgrades</u></a></li>
-<li><a href="https://games-able.techidaily.com/experience-the-next-level-of-video-games-with-stream-assist/"><u>Experience the Next Level of Video Games with Stream Assist</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-giants-and-the-threat-to-competition-online-forum/"><u>Gaming Giants and the Threat to Competition [Online Forum]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pop 8 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-gpu-thermals-for-maximum-gaming/"><u>Navigating GPU Thermals for Maximum Gaming</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/podcast-sharing-instagram-stories-and-posts-tutorial-for-2024/"><u>Podcast Sharing Instagram Stories & Posts Tutorial for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/steps-to-access-and-review-your-location-tracking-data-on-ios-devices/"><u>Steps to Access and Review Your Location Tracking Data on iOS Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-shaped-by-online-multiplayer-excellence/"><u>The Future Shaped by Online Multiplayer Excellence</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-social-networking-facebook-twitter-instagram-youtube/"><u>Top Four Platforms in Social Networking: Facebook | Twitter | Instagram | YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elevate-your-storytelling-10-prime-text-tricks-in-cinematography/"><u>[New] In 2024, Elevate Your Storytelling 10 Prime Text Tricks in Cinematography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-innovative-ways-to-implement-b-roll-in-productions/"><u>[Updated] 2024 Approved Innovative Ways to Implement B Roll in Productions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-press-pause-on-anxiety-with-these-games-for-2024/"><u>[Updated] Press Pause on Anxiety with These Games for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quintessential-screenplays-among-varied-genres/"><u>[Updated] Quintessential Screenplays Among Varied Genres</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-cost-vs-benefit-rtx-4090-dilemna/"><u>Evaluating Cost Vs. Benefit: RTX 4090 Dilemna</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Honor 70 Lite 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-tier-tactics-for-crafting-fbs-most-watched-videos/"><u>In 2024, Top-Tier Tactics for Crafting #FB's Most Watched Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-the-tongue-proven-strategies-for-eloquence/"><u>Master the Tongue: Proven Strategies for Eloquence</u></a></li>
+<li><a href="https://games-able.techidaily.com/modular-gaming-excellence-with-akkos-mod007b/"><u>Modular Gaming Excellence with Akko's MOD007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-netflix-and-hulu-within-your-series-x-s-setup/"><u>Navigating Netflix and Hulu Within Your Series X: S Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-conversation-a-guide-to-engaging-dialogues-in-chatgpt-roleplaying/"><u>The Art of Conversation: A Guide to Engaging Dialogues in ChatGPT Roleplaying</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-144hz-ultrawide-monitors-for-gaming/"><u>The Best 144Hz Ultrawide Monitors for Gaming</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-e13-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-controller-lockdown-on-ps4-simple-fixes-unveiled/"><u>Unlock Controller Lockdown on PS4: Simple Fixes Unveiled</u></a></li>
 </ul></div>
 

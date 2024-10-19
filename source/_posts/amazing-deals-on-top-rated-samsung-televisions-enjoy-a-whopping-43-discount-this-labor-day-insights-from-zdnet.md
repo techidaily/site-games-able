@@ -1,7 +1,7 @@
 ---
 title: "Amazing Deals on Top-Rated Samsung Televisions: Enjoy a Whopping 43%% Discount This Labor Day | Insights From ZDNet"
-date: 2024-09-19 20:25:55
-updated: 2024-09-20 10:35:39
+date: 2024-10-13T20:22:47.740Z
+updated: 2024-10-19T00:42:10.255Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -59,6 +66,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -71,11 +85,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unpacking-magix-video-editor-features/"><u>2024 Approved Unpacking MAGIX Video Editor Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-battle-the-prime-selection-of-online-fps-browser-games/"><u>Dive Into Battle: The Prime Selection of Online FPS Browser Games</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/effortlessly-stream-mp3-to-youtube-with-3-key-steps-for-2024/"><u>Effortlessly Stream MP3 to YouTube with 3 Key Steps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-and-connect-mastering-live-chats-and-gameplay-twitch-mobile/"><u>Engage and Connect: Mastering Live Chats & Gameplay (Twitch, Mobile)</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-ranking-of-premium-gaming-keyboards/"><u>Game On: A Ranking of Premium Gaming Keyboards</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-y200-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y200 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-hot-40i-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Hot 40i For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-livestreaming-hacks-every-broadcaster-should-know/"><u>In 2024, Livestreaming Hacks Every Broadcaster Should Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/making-your-stories-more-accessible-a-captioning-guide/"><u>Making Your Stories More Accessible A Captioning Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-complexity-of-steams-external-drive-use/"><u>Navigating the Complexity of Steam's External Drive Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-component-shortage-alert-on-devices/"><u>Resolving “Component Shortage” Alert on Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/sound-systems-for-esports-a-comparative-study/"><u>Sound Systems for Esports: A Comparative Study</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-trends-and-talk-gamings-pivot-point/"><u>Switch Trends & Talk - Gaming's Pivot Point</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-list-for-6-prevalent-chatgpt-issues/"><u>The Ultimate Fix List for 6 Prevalent ChatGPT Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-ranking-the-best-avchd-video-editing-software/"><u>Updated Ranking the Best AVCHD Video Editing Software</u></a></li>
+</ul></div>
+

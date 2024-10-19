@@ -1,7 +1,7 @@
 ---
 title: Steam Introduces Enhanced Family Features & Superior Parent-Control Options, Valve Announces
-date: 2024-09-17 16:29:44
-updated: 2024-09-20 12:20:58
+date: 2024-10-12T21:36:07.520Z
+updated: 2024-10-18T18:26:40.889Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,19 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +64,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +78,19 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +109,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +160,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-champions-guide-to-martial-arts-gaming-for-2024/"><u>[New] The Champion's Guide to Martial Arts Gaming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-masters-of-digital-avengers-realms/"><u>[Updated] In 2024, Masters of Digital Avengers Realms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-apple-music-with-cinematic-content-for-2024/"><u>Blending Apple Music with Cinematic Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/concealing-online-status-on-steam/"><u>Concealing Online Status on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-dance-off-tablet-vs-mice-mastery/"><u>Digital Dance-Off: Tablet Vs. Mice Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-potential-of-big-picture-steam/"><u>Discover the Potential of Big Picture Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-multi-port-connectors-for-ps5-devices/"><u>Essential Multi-Port Connectors for PS5 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-content-upgrade-to-game-pass-ultimate-now/"><u>Exclusive Content: Upgrade to Game Pass Ultimate Now</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-13-pro-max-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 13 Pro Max without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-xr-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone XR</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-gaming-delights-revealing-my-preferred-titles/"><u>Indie Gaming Delights: Revealing My Preferred Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-the-new-norm-earnings-in-vlogging-for-2024/"><u>Navigating the New Norm Earnings in Vlogging for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-school-triumphs-which-7-games-from-blizzard-will-return/"><u>Old-School Triumphs: Which 7 Games From Blizzard Will Return?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-car-control-conundrum-haptic-vs-gesture-inputs/"><u>The Car Control Conundrum: Haptic Vs. Gesture Inputs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-strategy-for-locating-photos-via-facebooks-image-search-feature/"><u>The Ultimate Strategy for Locating Photos via Facebook's Image Search Feature</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-safety-tips-for-kids-ps5-usage/"><u>Top 5 Safety Tips for Kids' PS5 Usage</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforme-arquivos-pcx-em-bmp-gratuitamente-online-com-a-ferramenta-especializada-da-movavi/"><u>Transforme Arquivos PCX Em BMP Gratuitamente Online Com a Ferramenta Especializada Da Movavi!</u></a></li>
+</ul></div>
+

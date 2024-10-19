@@ -1,7 +1,7 @@
 ---
 title: "Series S: A Forward-Thinking Console Without Disks"
-date: 2024-10-10T10:45:06.644Z
-updated: 2024-10-12T23:30:23.988Z
+date: 2024-10-15T16:19:11.895Z
+updated: 2024-10-18T22:25:30.031Z
 tags:
   - games
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 ![A screenshot of the Xbox Store homepage on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 ![A photograph of a silver and black disc drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Curiously, the patent inferred that to verify your physical games for digital use, you would use an external disc drive to scan physical games. So it would seem that even with external disc drive support, the Series S is incapable of playing game discs, and instead can only validate and play them as digital versions.
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
@@ -118,14 +118,14 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unlocking-the-secret-of-fbs-lately-viewed-videos/"><u>[New] 2024 Approved Unlocking the Secret of Fb’s Lately Viewed Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/4-essential-steps-for-amplifying-xbox-point-advantages/"><u>4 Essential Steps for Amplifying Xbox Point Advantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-unrecognized-benefits-in-ignoring-ray-tracings-hype/"><u>7 Unrecognized Benefits in Ignoring Ray Tracing's Hype</u></a></li>
-<li><a href="https://games-able.techidaily.com/apple-macos-sonoma-how-game-mode-enhances-gaming-experience/"><u>Apple MacOS Sonoma: How Game Mode Enhances Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-game-speakers-prioritize-headphones/"><u>Avoid Game Speakers, Prioritize Headphones</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-diy-digital-storytelling-making-moving-pictures-on-your-smartphone/"><u>In 2024, DIY Digital Storytelling Making Moving Pictures on Your Smartphone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a2-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A2 FRP</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-visual-storytelling-key-shot-techniques-for-beginners/"><u>Mastering Visual Storytelling Key Shot Techniques for Beginners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-photovideo-tips-manipulating-text-with-style/"><u>[New] Photo/Video Tips Manipulating Text with Style</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x50iplus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X50i+</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoidance-and-remedy-tackling-windows-10-photos-viewer-glitches/"><u>Avoidance and Remedy Tackling Windows 10 Photos Viewer Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-listening-tech-for-switch-games/"><u>Elite Listening Tech for Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-power-tussle-ps5-against-economical-computer-system/"><u>Game Power Tussle: PS5 Against Economical Computer System</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-games-galore-top-15-wi-fi-free-titles-for-ios/"><u>Indie Games Galore - Top 15 Wi-Fi Free Titles for iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/praising-google-play-pass-except-for-the-issue/"><u>Praising Google Play Pass, Except for the Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-privacy-understanding-the-risks-of-over-sharing-with-ai-insights-into-neural-network-mia/"><u>Protecting Privacy: Understanding the Risks of Over-Sharing with AI – Insights Into Neural Network MIA</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-htpc-systems-for-optimal-movie-nights/"><u>Top-Rated HTPC Systems for Optimal Movie Nights</u></a></li>
 </ul></div>
 

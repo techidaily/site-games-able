@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle Peripherals: Nintendo Switch Commanders, 2024"
-date: 2024-10-10T21:40:12.485Z
-updated: 2024-10-13T06:12:02.327Z
+date: 2024-10-17T19:07:38.009Z
+updated: 2024-10-19T06:01:47.360Z
 tags:
   - games
 categories:
@@ -99,15 +99,28 @@ Best Overall
 
 [See at Amazon](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0/?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Nintendo-Switch-Pro-Controller/55485228)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Budget Nintendo Switch Controller: PDP REMATCH Wired Controller
 
 ![PDP REMATCH Enhanced Wired Nintendo Switch Pro Controller being held](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/pdp-rematch-enhanced-wired-nintendo-switch-pro-controller-being-held.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 PDP
@@ -143,10 +156,10 @@ Best Budget
 [$25 at Amazon](https://www.amazon.com/REMATCH-Wired-Controller-Nintendo-Switch-Lite/dp/B0BDFGJ2SP?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/PDP-REMATCH-Wired-Controller-1-Up-Glow-in-the-Dark-For-Nintendo-Switch-Nintendo-Switch-OLED-Model/1558724868)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best Nintendo Switch Controller for Battery Life: PowerA Enhanced Wireless Controller
@@ -181,16 +194,16 @@ Best for Battery Life
 
 [$60 at Amazon](https://www.amazon.com/PowerA-Enhanced-Wireless-Controller-Nintendo-Switch-Mario/dp/B08GH6WY13?tag=makeusw-20&ascsubtag=UUmuoUeUpU35504&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-nintendo-switch-controllers%2F&asc%5Fcampaign=Commerce) [See at Walmart](https://www.walmart.com/ip/Enhanced-Wireless-Controller-for-Nintendo-Switch-Mario-Pop-Nintendo-Switch/189685660)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Nintendo Switch Controller for Customization: GuliKit KingKong 2 Pro
 
 ![white gulikit kingkong 2 pro controller alongside packaging, usb cable and case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/white-gulikit-kingkong-2-pro-controller-alongside-packaging-usb-cable-and-case.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 GuliKit
 
@@ -224,6 +237,13 @@ Most Customization
 ## Best Joy-Con Replacements: Hori Nintendo Switch Split Pad Pro
 
 ![black colored Hori Split Pad Pro attached to a nintendo switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/black-colored-hori-split-pad-pro-attached-to-a-nintendo-switch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 HORI
 
@@ -259,13 +279,6 @@ Best Joy-Con Replacements
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ### Q: Can I use a third-party controller with the Nintendo Switch?
@@ -277,22 +290,15 @@ Best Joy-Con Replacements
  Yes, but it involves using an adapter. If you prefer a slimmer, more traditional controller, you can easily[connect PS4 and PS5 controllers to the Nintendo Switch](https://www.makeuseof.com/how-to-connect-ps4-ps5-controller-to-nintendo-switch/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: Can a pair of Joy-Cons be used as separate controllers?
 
  Indeed, they can. It doesn't work for every game on the Nintendo Switch, but many of Nintendo's first-party titles can be played with a single Joy-Con, like Mario Kart 8 Deluxe.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Are Joy-Cons still susceptible to stick drift?
 
@@ -313,24 +319,16 @@ Best Joy-Con Replacements
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-how-to-spot-your-video-enthusiasts/"><u>[New] 2024 Approved Deciphering How to Spot Your Video Enthusiasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-the-art-of-screen-recording-best-software-guide-for-2024/"><u>[Updated] Mastering the Art of Screen Recording Best Software Guide for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-quick-fixes-to-resume-paused-stream-on-facebook-for-2024/"><u>[Updated] Quick Fixes to Resume Paused Stream on Facebook for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-meme-magic-for-laughter/"><u>2024 Approved Mastering Meme Magic for Laughter</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-reign-in-your-posts-the-ultimate-guide-to-choosing-8-best-timers/"><u>2024 Approved Reign in Your Posts The Ultimate Guide to Choosing 8 Best Timers</u></a></li>
-<li><a href="https://games-able.techidaily.com/amp-up-playtime-exciting-20-fast-playing-games-for-phones/"><u>Amp Up Playtime: Exciting 20 Fast-Playing Games for Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-strategic-alliance-between-tech-giant-microsoft-and-game-industry-heavyweight-blizzardactivision/"><u>Analyzing the Strategic Alliance Between Tech Giant Microsoft & Game Industry Heavyweight Blizzard/Activision</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gaming-bliss-uncover-5-game-changing-strategies-for-mac-users/"><u>Elevate Gaming Bliss: Uncover 5 Game-Changing Strategies for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/entertainment-evolution-showdown-ps5-vs-thrifty-computer-setup/"><u>Entertainment Evolution Showdown: PS5 vs Thrifty Computer Setup</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-inexpensive-ssl-vendors-worth/"><u>Evaluating Inexpensive SSL Vendors' Worth</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173711358-experience-game-on-youtube-introduces-mini-games-for-all/"><u>Experience Game On: YouTube Introduces Mini-Games for All</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/expert-advice-creating-and-uploading-vr-videos-to-boost-fb-visibility/"><u>Expert Advice Creating & Uploading VR Videos to Boost FB Visibility</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-samsung-ue590-4k-freesync-gaming-monitor-review/"><u>In 2024, Samsung UE590 4K FreeSync Gaming Monitor Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-reporting-process-for-uncivil-players-xbox/"><u>Navigating the Reporting Process for Uncivil Players (Xbox)</u></a></li>
-<li><a href="https://games-able.techidaily.com/opening-a-second-front/"><u>Opening a Second Front</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ps5-ssd-picks/"><u>Top PS5 SSD Picks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-your-non-functional-bose-speakers/"><u>Troubleshooting Guide: Repairing Your Non-Functional Bose Speakers</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-ai-on-nvidias-dlss-update-35/"><u>Understanding the Impact of AI on Nvidia’s DLSS Update 3.5</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wireless-connection-pairing-your-airpods-with-a-windows-based-hp-notebook/"><u>Wireless Connection: Pairing Your AirPods with a Windows-Based HP Notebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-industry-standards-prime-gimbals-for-drones/"><u>[New] 2024 Approved Industry Standards Prime Gimbals for Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-photo-editing-tricks-unveiling-iphones-hidden-features/"><u>[New] Free Photo Editing Tricks Unveiling iPhone's Hidden Features</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-youtube-webinar-guide-host-without-spending/"><u>[Updated] 2024 Approved YouTube Webinar Guide Host Without Spending</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unveiling-the-true-income-potential-in-podcasting-for-2024/"><u>[Updated] Unveiling the True Income Potential in Podcasting for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-touchscreen-accuracy-windows-11-tutorial/"><u>Enhancing Touchscreen Accuracy: Windows 11 Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-razr-40-ultra-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Razr 40 Ultra Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-endgame-for-subscriptions-ownership-wins/"><u>The Endgame for Subscriptions: Ownership Wins</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-toolkit-choosing-the-best-lens-technology-in-4k/"><u>The Essential Toolkit Choosing the Best Lens Technology in 4K</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-overlooked-efficiency-gains-when-ignoring-ray-tracing/"><u>The Overlooked Efficiency Gains When Ignoring Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-mobile-duo-delights-for-social-gamers/"><u>Top 15 Mobile Duo Delights for Social Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pace-display-gaming-at-165hz/"><u>Top Pace Display - Gaming at 165Hz</u></a></li>
 </ul></div>
 

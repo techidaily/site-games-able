@@ -1,7 +1,7 @@
 ---
 title: Critical Reasons to Elevate Xbox's Loyalty Benefits
-date: 2024-09-17T01:41:51.344Z
-updated: 2024-09-20T22:26:28.393Z
+date: 2024-10-12T10:40:18.666Z
+updated: 2024-10-18T21:25:46.779Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
  So while there may be ways to quickly earn Microsoft Reward Points, readily available rewards earn few points, while heavy-earners are time-capped. This combination creates a timely and frustrating cycle for the service where you can only redeem a reward after months and months of earning.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Xbox Monthly and Weekly Rewards Are Getting Worse
 
  While the monthly and weekly reward activities provide a substantial amount of points for you to earn, it's not only the time restraints of these activities that hold back the service as a whole.
@@ -43,9 +50,23 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
 ![A screenshot of the July Monthly Bonus Round for Microsoft Rewards on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/monthly-rewards.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The biggest issue associated with the monthly bonus activities was its capped time frame, forcing you to earn the associated points once a month. But now, with the rewarded points literally slashed in half, the feature becomes even more frustrating.
 
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
@@ -69,22 +90,15 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
 
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
@@ -106,5 +120,21 @@ thumbnail: https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-apex-pcs-the-summit-of-desktop-technology/"><u>[Updated] Apex PCs - The Summit of Desktop Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-smooth-iphone-screen-recording-made-simple/"><u>[Updated] Smooth iPhone Screen Recording Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-fresh-take-on-an-old-favorite-the-remastered-ratchet-and-clank-odyssey-explored/"><u>A Fresh Take on an Old Favorite: The Remastered Ratchet & Clank Odyssey Explored</u></a></li>
+<li><a href="https://tools.techidaily.com/ailtware/products/"><u>Ailtware's Products</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cinematic-continuity-a-kinemaster-led-guide/"><u>Cinematic Continuity A Kinemaster-Led Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-your-consoles-gameplay-statistics/"><u>Decoding Your Console's Gameplay Statistics</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-computer-glitches-how-to-stop-elex-ii-from-suddenly-closing/"><u>Eliminating Computer Glitches: How to Stop Elex II From Suddenly Closing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-se-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone SE</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nubia-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nubia Phone FRP Lock</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-reno-8t-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo Reno 8T 5G FRP Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/renaming-in-riot-games-username-and-logo-update-guide/"><u>Renaming in Riot Games: Username & Logo Update Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/samsung-galaxy-s8-in-depth-4k-phone-analysis-for-2024/"><u>Samsung Galaxy S8 In-Depth 4K Phone Analysis for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-online-oasis-weighing-9-benefits-against-potential-drawbacks/"><u>The Online Oasis: Weighing 9 Benefits Against Potential Drawbacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-hidden-treasures-of-gaming-history-using-emudeck-and-steam-deck/"><u>Unlock Hidden Treasures of Gaming History Using EmuDeck and Steam Deck</u></a></li>
+</ul></div>
 

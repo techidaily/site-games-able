@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Ultimate Guide to the Ideal Gaming Displays : Rankings & Reviews"
-date: 2024-09-18 11:48:25
-updated: 2024-09-20 11:11:23
+date: 2024-10-15T16:11:18.953Z
+updated: 2024-10-19T08:54:19.600Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://data-safeguard.techidaily.com/bring-back-your-missing-files-and-photos-from-iphone-using-stellar-software/"><u>Bring Back Your Missing Files and Photos From iPhone Using Stellar Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/command-attention-in-advertising-using-20-powerful-terms-for-2024/"><u>Command Attention in Advertising Using 20 Powerful Terms for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-11-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 11 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enhance-privacy-in-firefox-how-to-safeguard-stored-usernames-and-passwords-using-a-primary-key/"><u>Enhance Privacy in Firefox: How to Safeguard Stored Usernames and Passwords Using a Primary Key</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/expert-insight-on-wise-data-recovery-software-comprehensive-feature-assessment-and-tradeoffs/"><u>Expert Insight on Wise Data Recovery Software: Comprehensive Feature Assessment & Tradeoffs</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-online-adventures-a-question-of-value/"><u>Fleeting Online Adventures: A Question of Value</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-mac-video-captures-compilation-under-156-characters/"><u>In 2024, Best Mac Video Captures Compilation (Under 156 Characters)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-fish-tastic-top-5-action-cameras-for-catch/"><u>In 2024, Fish-Tastic Top 5 Action Cameras for Catch</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-your-internet-coverage-with-the-netgear-nighthawk-x4-wi-fi-mesh-system-a-detailed-examination/"><u>Maximizing Your Internet Coverage with the Netgear Nighthawk X4 Wi-Fi Mesh System: A Detailed Examination</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-compatibility-7-must-know-checks-for-pc-parts/"><u>Seamless Compatibility: 7 Must-Know Checks for PC Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-surprises-the-art-of-gifting-virtual-games/"><u>Steam Surprises: The Art of Gifting Virtual Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Vivo Y200? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbocharge-your-play-upgrade-windows-fps-rate/"><u>Turbocharge Your Play: Upgrade Window's FPS Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-screen-gameplay-in-steam/"><u>Unlocking Full-Screen Gameplay in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steam-insights-measuring-hours-and-achievement-progress/"><u>Unlocking Steam Insights: Measuring Hours and Achievement Progress</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-choosing-the-best-accessories-for-steam-deck-power/"><u>Your Guide to Choosing the Best Accessories for Steam Deck Power</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Genesis of a Gaming Giant
-date: 2024-10-06T13:25:13.186Z
-updated: 2024-10-13T02:01:04.568Z
+date: 2024-10-17T05:12:47.794Z
+updated: 2024-10-19T03:25:39.412Z
 tags:
   - games
 categories:
@@ -27,16 +27,16 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 ### The Rise of Jump King
 
 ![The Jump King lying flat on a mossy platform after falling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-jump-king.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jump King is a title that transcends the Foddian game genre. You may have heard about the game thanks to its tendency to be played live on Twitch streams. Speedrunners are especially fond of the small series of Jump King games.
 
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Evolution of Foddian Games
@@ -85,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
  Only Up! has become popular enough to dominate the viewership on Twitch for concurrent weeks. And while the hype is not the same as it was during release, many people still actively play the title.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Foddian Games: Difficult but Rewarding Platforming
 
  There is a gradual shift in the type of video game content enjoyed live on stream or alone on a slow Saturday afternoon.
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
  Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 ### Q: How Long Is Only Up!?
 
  A popular Foddian game, Only Up! takes around 40 to 120 minutes to complete. However, because of the game's difficulty, it will more than likely take quite a lot longer than the listed competition time, especially due to a lack of checkpoints. Because of this, you may be looking at a completion time of around four to five hours depending on your skill level.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Who Popularized the Only Up! Game?
 
@@ -134,24 +134,14 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>[New] 2024 Approved How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-do-youtubers-get-paid-monthly/"><u>[New] In 2024, Do YouTubers Get Paid Monthly?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-techs-time-capsule-a-screen-review/"><u>[New] In 2024, Tech's Time Capsule A Screen Review</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-culmination-of-day-blackout-effects-for-2024/"><u>[Updated] Culmination of Day - Blackout Effects for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>[Updated] In 2024, Rhythm on Rings Creating Tamil Ringtone Playlists</u></a></li>
-<li><a href="https://games-able.techidaily.com/clear-out-your-ps5-identity-information/"><u>Clear Out Your PS5 Identity Information</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cyberlink-power2go/"><u>CyberLink Power2Goレビュー：デジタルメディア専用高機能映像編集ソフトの詳細</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-google-pixel-8-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Google Pixel 8 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-setup-in-5-steps-for-2024/"><u>Mastering Twitter Setup in 5 Steps for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-game-tracker-software-guide/"><u>Prime Game Tracker Software Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/regaining-zest-in-virtual-worlds-6-tips/"><u>Regaining Zest in Virtual Worlds: 6 Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/simplified-speed-with-the-aukey-usb-hub-a-review-of-its-sleek-design-and-performance/"><u>Simplified Speed with the Aukey USB Hub - A Review of Its Sleek Design & Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-matters-in-home-computing-choosing-a-small-or-big-pc/"><u>Size Matters in Home Computing: Choosing a Small or Big PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/stealth-mode-playing-quietly-on-xbox-one/"><u>Stealth Mode: Playing Quietly on Xbox One</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-bold-move-overhauling-family-game-access-for-10-years/"><u>Steam's Bold Move: Overhauling Family Game Access for 10 Years</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-keyswap-speed-importance-and-impact/"><u>Understanding Keyswap Speed: Importance & Impact</u></a></li>
-<li><a href="https://blog-min.techidaily.com/waiting-ends-with-launch-the-windows-release-of-goodnotes-on-the-ipad-is-here/"><u>Waiting Ends with Launch: The Windows Release of GoodNotes on the iPad Is Here!</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-quick-guide-to-palworld-basics/"><u>Your Quick Guide to PalWorld Basics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[Updated] 2024 Approved Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-lens-innovative-techniques-using-hero5-black/"><u>[Updated] Behind the Lens Innovative Techniques Using Hero5 Black</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-photos-and-instagram-effortless-integration/"><u>[Updated] Photos & Instagram Effortless Integration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-facile-de-videos-mkv-vers-aac-gratuite-en-ligne-solutions-movavi/"><u>Conversion Facile De Vidéos MKV Vers AAC Gratuite en Ligne - Solutions Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-apple-devices-offline-game-roundup/"><u>Exclusive Apple Devices Offline Game Roundup</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-currency-how-to-get-it-with-ps5/"><u>Fortnite Currency: How to Get It with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-a-dead-microsoft-controller-on-windows/"><u>How to Reactivate a Dead Microsoft Controller on Windows</u></a></li>
+<li><a href="https://fox-where.techidaily.com/simple-hacks-to-enhance-iphone-speeds-under-ios-8/"><u>Simple Hacks to Enhance iPhone Speeds Under iOS 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/typing-efficiency-and-the-hidden-factor-of-refresh-intervals/"><u>Typing Efficiency and the Hidden Factor of Refresh Intervals</u></a></li>
 </ul></div>
 

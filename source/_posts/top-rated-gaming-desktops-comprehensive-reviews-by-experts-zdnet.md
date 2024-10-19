@@ -1,7 +1,7 @@
 ---
 title: "Top-Rated Gaming Desktops : Comprehensive Reviews by Experts | ZDNet"
-date: 2024-09-18 14:18:25
-updated: 2024-09-20 12:38:44
+date: 2024-10-11T20:38:41.184Z
+updated: 2024-10-18T19:04:02.634Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -59,6 +66,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -71,11 +85,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-inshot-video-magic-mastering-segment-shifts/"><u>[New] Inshot Video Magic Mastering Segment Shifts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-of-both-worlds-androids-8-most-popular-free-and-paid-videomosaic-apps/"><u>2024 Approved Best of Both Worlds Android's 8 Most Popular Free & Paid Videomosaic Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-discover-whats-brewing-in-windows-10-gaming-world/"><u>2024 Approved Discover What’s Brewing in Windows 10 Gaming World</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-critical-shortcomings-of-using-chatgpt-for-crypto-studies/"><u>5 Critical Shortcomings of Using ChatGPT for Crypto Studies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-motorola-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Motorola Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-at-great-prices-top-economical-board-listings/"><u>Game On at Great Prices: Top Economical Board Listings</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-with-style-customizing-your-xbox-light-setup/"><u>Gaming with Style: Customizing Your Xbox Light Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-gameplay-with-the-top-5-paid-mobile-apps/"><u>Maximize Your Gameplay with the Top 5 Paid Mobile Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gpu-giants-battle-sups-ti-and-4080-supers-versus-each-other/"><u>Nvidia's GPU Giants Battle: Sups, Ti, and 4080 Supers Versus Each Other</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-controller-enhanced-mobile-titles/"><u>Top 30 Controller-Enhanced Mobile Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-live-broadcasting-the-best-7-bots-for-twitch-innovators/"><u>Transform Live Broadcasting: The Best 7 Bots For Twitch Innovators</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-your-mac-efficiency-with-hot-corners-setup-tutorial-discover-the-ultimate-shortcut-technique-from-zdnet/"><u>Unleash Your Mac Efficiency with Hot Corners Setup Tutorial | Discover the Ultimate Shortcut Technique From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-full-potential-with-a-new-ps4-setup/"><u>Unlocking the Full Potential with a New PS4 Setup</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/wireless-audio-on-a-budget-meet-activbuds/"><u>Wireless Audio on a Budget - Meet ActivBuds</u></a></li>
+</ul></div>
+

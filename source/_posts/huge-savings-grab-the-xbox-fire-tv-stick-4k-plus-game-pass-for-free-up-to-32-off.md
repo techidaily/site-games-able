@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings: Grab the Xbox Fire TV Stick 4K + Game Pass for Free - Up to 32%% Off!"
-date: 2024-09-17 12:36:51
-updated: 2024-09-20 11:59:39
+date: 2024-10-17T16:28:40.010Z
+updated: 2024-10-18T18:31:31.177Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,19 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +64,19 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +84,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -70,6 +103,13 @@ There are various holes inside the SSD housing that correspond with the various 
 I then placed the spacer over the hole -- it's held in place by three dots, so don't worry about perfectly lining it up or keeping it in place. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Insert the SSD and use the mounting screw
 
@@ -120,11 +160,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplified-guide-fb-video-to-mp3-audio-transformations/"><u>[New] Simplified Guide FB Video to MP3 Audio Transformations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-today-changes-and-what-they-mean-for-you/"><u>[Updated] 2024 Approved Facebook Today Changes and What They Mean for You</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-livestream-showdown-fb-live-yt-live-and-twittv/"><u>[Updated] In 2024, Livestream Showdown FB Live, YT Live, & TwitTV</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unraveling-youtubes-monetization-policy-overhaul/"><u>2024 Approved Unraveling YouTube’s Monetization Policy Overhaul</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-walkthrough-for-installing-windows-11-os-on-new-storage-drives/"><u>Beginner's Walkthrough for Installing Windows 11 OS on New Storage Drives</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dubai-2020-expo-pioneering-multilingual-education/"><u>Dubai 2020 Expo: Pioneering Multilingual Education</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-mini-led-pixelmaster-hd/"><u>Economical Mini-LED PixelMaster HD</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-mobile-gaming-streaming-steam-via-your-smartphone/"><u>Jump Into Mobile Gaming: Streaming Steam via Your Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-path-to-conjoined-epic-steam-play/"><u>Navigating the Path to Conjoined Epic-Steam Play</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-6-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 6 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-vits-and-early-starfield-entry/"><u>Understanding VITS and Early Starfield Entry</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gaming-alter-your-nintendo-switch-region/"><u>Upgrade Gaming: Alter Your Nintendo Switch Region</u></a></li>
+</ul></div>
+

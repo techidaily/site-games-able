@@ -1,7 +1,7 @@
 ---
 title: The Filing Process for Player Infractions in Xbox Games
-date: 2024-09-13T17:31:14.752Z
-updated: 2024-09-20T21:57:39.431Z
+date: 2024-10-12T10:16:31.794Z
+updated: 2024-10-18T22:16:49.981Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
  It's also important to note that you can access people's profiles in multiple ways. You can even[report players via your Xbox console or the Xbox app](https://www.makeuseof.com/xbox-one-xbox-app-how-to-block-and-report-users/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Report Inappropriate Xbox Messages
 
  Aside from experiencing inappropriate behavior from in-game gameplay or a way associated with a player's profile, another common form of social disruption is presented through online messaging.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 * Highlight the options for**Parties & chats** , and select**Chats** .
 
 ![A screenshot of the Parties and Chats section of the Xbox Series X Guide menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2989.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select the conversation that contains the inappropriate messages you received.
 * Choose the**More** option at the end of the conversation history, and select**Report person** .
@@ -74,9 +88,23 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![A screenshot of the My Games and Apps page of an Xbox Series X Guide with See All highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/see-all.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Highlight**Apps** , and open the**Friends & Community Updates** application.
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * From here, select the game capture or post you want to report.
 * With the post open, choose**More actions** , followed by**Report** .
@@ -98,13 +126,6 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![A screenshot of the Parties and Chats section of the Guide menu for Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/guide-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select**Save voice clip (last 60s)** .
 
 ![A screenshot of the Report In Game Voice Chat settings on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-voice-clip.jpg)
@@ -116,18 +137,18 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
 
 ![A screenshot of the Saved Voice Clips menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saved-voice-clips.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Choose the clip you saved that features the inappropriate behavior you wish to report.
 
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
  Much like other reporting methods, your Xbox will then ask you to define specific elements of the report associated with voice chats. Once you have defined these elements, like associated Xbox profiles and Gamertags, you can select**Submit Report** to finalize.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Report Toxic Gaming and Keep Your Xbox Experience Safe
 
@@ -148,5 +169,22 @@ thumbnail: https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-critical-platforms-offering-twitter-like-interaction-for-2024/"><u>[New] Critical Platforms Offering Twitter-Like Interaction for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-batteries-future-focus/"><u>Beyond Batteries: Future Focus</u></a></li>
+<li><a href="https://games-able.techidaily.com/broadcast-your-gaming-adventures-with-xbox-on-discord/"><u>Broadcast Your Gaming Adventures with Xbox on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-graphic-mastery/"><u>Budget-Friendly Graphic Mastery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y77t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y77t?</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-of-scenery-your-switchs-new-geographic-home/"><u>Change of Scenery: Your Switch's New Geographic Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-unleashed-6-techniques-to-perfect-your-dungeon-mastering/"><u>ChatGPT Unleashed: 6 Techniques to Perfect Your Dungeon Mastering</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-top-quality-work-flooring-systems/"><u>Choosing Top-Quality Work Flooring Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/combating-crashing-fixes-for-steams-widescreen-issue/"><u>Combating Crashing: Fixes for Steam's Widescreen Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-steps-to-perform-a-full-system-reset-on-your-lenovo-pc/"><u>Complete Guide: Steps to Perform a Full System Reset on Your Lenovo PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-tech-efficient-screen-recording-methods-on-dell/"><u>In 2024, Navigating Tech Efficient Screen-Recording Methods on Dell</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/is-itops-feature-set-enough-to-justify-usage-for-2024/"><u>Is ITop's Feature Set Enough to Justify Usage for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-setup-how-to-update-or-download-epson-drivers-for-windows-with-ease/"><u>Seamless Setup: How to Update or Download Epson Drivers for Windows with Ease</u></a></li>
+</ul></div>
 

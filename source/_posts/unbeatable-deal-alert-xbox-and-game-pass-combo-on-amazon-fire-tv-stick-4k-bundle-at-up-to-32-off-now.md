@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Deal Alert! Xbox & Game Pass Combo on Amazon Fire TV Stick 4K Bundle at up to 32%% Off Now!
-date: 2024-09-17 15:53:33
-updated: 2024-09-20 12:48:21
+date: 2024-10-16T04:27:48.769Z
+updated: 2024-10-18T23:17:20.505Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-ultimate-list-igtv-masterminds-and-maestros/"><u>[Updated] In 2024, The Ultimate List IGTV Masterminds & Maestros</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-15ipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 15/iPad/iPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-keyboard-dynamics-for-enhanced-performance/"><u>Decoding Keyboard Dynamics for Enhanced Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/frustration-in-games-galore-the-ultimate-list/"><u>Frustration in Games Galore: The Ultimate List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-pro-at-iphone-hdr-imaging/"><u>In 2024, Becoming a Pro at iPhone HDR Imaging</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-definitive-guide-to-perfecting-vimeo-recordings/"><u>In 2024, The Definitive Guide to Perfecting Vimeo Recordings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-10c-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark 10C Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/intels-innovation-for-uninterrupted-online-games/"><u>Intel's Innovation for Uninterrupted Online Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-blur-apps-for-clear-portraits/"><u>Mastering Blur Apps for Clear Portraits</u></a></li>
+<li><a href="https://games-able.techidaily.com/quantifying-systems-gpu-memory-reserve/"><u>Quantifying System's GPU Memory Reserve</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-sync-problem-in-steam-for-os-x/"><u>Rectifying Sync Problem in Steam for OS X</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-s-a-forward-thinking-console-without-disks/"><u>Series S: A Forward-Thinking Console Without Disks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-xboxs-strict-accountability-system/"><u>Unmasking Xbox’s Strict Accountability System</u></a></li>
+</ul></div>
+

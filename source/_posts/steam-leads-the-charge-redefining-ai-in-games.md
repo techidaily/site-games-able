@@ -1,7 +1,7 @@
 ---
 title: "Steam Leads the Charge: Redefining AI in Games"
-date: 2024-10-11T01:43:45.177Z
-updated: 2024-10-13T06:42:09.940Z
+date: 2024-10-14T02:15:41.147Z
+updated: 2024-10-19T10:23:29.898Z
 tags:
   - games
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 * [Steam Takes a Softer Stance on Games Using AI](#steam-takes-a-softer-stance-on-games-using-ai)
 * [How Steam's AI Games Policy Could Affect Gamers](#how-steam-39-s-ai-games-policy-could-affect-gamers)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,9 +59,29 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
@@ -65,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
@@ -81,23 +108,9 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
@@ -108,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 > "Using the in-game overlay, players can easily submit a report when they encounter content that they believe should have been caught by appropriate guardrails on AI generation."
 
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
@@ -139,17 +145,17 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-transform-footage-into-stunning-ig-images/"><u>[New] In 2024, Transform Footage Into Stunning IG Images</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>[New] The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-soundwaves-flow-into-imovie-effortlessly/"><u>[Updated] YouTube Soundwaves Flow Into iMovie Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024-ddr5-high-performance-selection/"><u>2024 DDR5 High-Performance Selection</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-expired-card-issues-on-sony-console/"><u>Addressing Expired Card Issues on Sony Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/androids-time-machine-playing-old-school-pokemon/"><u>Android's Time Machine: Playing Old-School Pokémon</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-practices-for-cleaning-up-ps5-saved-gaming-history/"><u>Best Practices for Cleaning Up PS5 Saved Gaming History</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-m185-drivers/"><u>Download Logitech M185 Drivers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-guide-prime-auto-camera-systems/"><u>Essential Guide Prime Auto Camera Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone XS? 5 Tips You Must Know</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/uniting-conversations-across-platforms-twitter-vids-on-whatsapp/"><u>Uniting Conversations Across Platforms Twitter Vids on WhatsApp</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-photosvideos-the-role-of-watermarks-for-2024/"><u>[New] Facebook Photos/Videos The Role of Watermarks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discovering-the-advantages-of-multi-angle-recording/"><u>[New] In 2024, Discovering the Advantages of Multi-Angle Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bypass-the-limits-access-imessages-even-if-youre-not-an-apple-user-on-android/"><u>Bypass the Limits: Access iMessages Even if You're Not an Apple User on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-robloxs-performance-upgrades-work/"><u>How Does Roblox's Performance Upgrades Work?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-moto-g04-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Moto G04</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-se-2022-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone SE (2022) After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://games-able.techidaily.com/insider-tips-the-most-addictive-features-in-games/"><u>Insider Tips: The Most Addictive Features in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-tailoring-security-for-kids/"><u>PlayStation 5: Tailoring Security for Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-the-deletion-of-playstation-5-profiles/"><u>Simplifying the Deletion of PlayStation 5 Profiles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-updating-your-microsoft-sculpt-ergonomic-keyboard-drivers/"><u>Step-by-Step Instructions for Updating Your Microsoft Sculpt Ergonomic Keyboard Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-to-windows-11-seamlessly-on-mac-via-parallels-pro/"><u>Transition to Windows 11 Seamlessly on Mac via Parallels Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/weighing-the-worth-mini-pcs-versus-desktop-computers-for-you/"><u>Weighing the Worth: Mini Pcs Versus Desktop Computers for You</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save on Your Favorite Shows : Unmissable Labor Day TV Specials Over 55 – ZDNET's Guide to Last-Minute Deals"
-date: 2024-09-19 21:48:11
-updated: 2024-09-20 11:21:41
+date: 2024-10-12T07:16:05.518Z
+updated: 2024-10-19T07:15:43.633Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,27 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/1-enhanced-image-quality-with-midjourney-v5-say-goodbye-to-frustrating-mishaps/"><u>1. Enhanced Image Quality with MidJourney v5: Say Goodbye to Frustrating Mishaps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-samsung-revolution-diving-deep-into-the-ue590-monitor-review/"><u>2024 Approved The Samsung Revolution - Diving Deep Into the UE590 Monitor Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-a1-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo A1 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/broadcasting-to-the-big-screen-watching-fb-videos-on-tv-in-2024/"><u>Broadcasting to the Big Screen Watching FB Videos on TV, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-entertainment-with-switchs-top-ftp-games/"><u>Effortless Entertainment with Switch's Top FTP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-playstation-5-scarcity-awaiting-market-impact/"><u>End of PlayStation 5 Scarcity: Awaiting Market Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-ps5-solid-state-drive-selection/"><u>Ideal PS5 Solid State Drive Selection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-enhancing-twitters-visual-capacity-to-fhd-level/"><u>In 2024, Enhancing Twitter's Visual Capacity to FHD Level</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lolkit-rapid-meme-and-image-creation-app-for-2024/"><u>LolKit Rapid Meme and Image Creation App for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/missed-opportunities-with-nvidias-rtx-4090/"><u>Missed Opportunities with NVIDIA's RTX 4090</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-playmates-five-methods-to-multitask-with-minecraft-pals/"><u>Pixel Playmates: Five Methods to Multitask with Minecraft Pals</u></a></li>
+<li><a href="https://extra-support.techidaily.com/steady-shot-enhancer-for-traveling-filmmakers-for-2024/"><u>Steady Shot Enhancer for Traveling Filmmakers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perils-of-pay-by-play-in-gaming-development-business-models/"><u>The Perils of Pay-by-Play in Gaming Development Business Models</u></a></li>
+</ul></div>
+

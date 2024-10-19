@@ -1,7 +1,7 @@
 ---
 title: The Perils of Pay-by-Play in Gaming Development Business Models
-date: 2024-10-07T10:43:50.635Z
-updated: 2024-10-12T20:18:00.273Z
+date: 2024-10-12T07:19:59.268Z
+updated: 2024-10-18T17:54:37.642Z
 tags:
   - games
 categories:
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
@@ -41,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -61,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tipping is an interesting idea, but do we really need one more payment method?
 
 [Sites like Patreon and Ko-fi](https://www.makeuseof.com/patreon-vs-ko-fi-for-creators/) approach the issue of funding in different ways. The former focuses on subscription and recurring payments to provide creators with a side income; regular tips, if you like. Ko-fi, meanwhile, encourages small, one-off or regular payments, more akin to the nature of tipping, but less directly associated with service.
@@ -70,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
@@ -85,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Tips Might Work
@@ -138,24 +138,24 @@ thumbnail: https://thmb.techidaily.com/26300a30b40be91fd1403de278cb19bb64bc0cc7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-fine-tune-your-cinematography-mastering-kinemaster-zoom-features/"><u>[New] Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-leading-e-conference-headline-generator-for-2024/"><u>[New] Leading E-Conference Headline Generator for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-audiovisual-powerhouses-select-best-laptops-for-editing-for-2024/"><u>[Updated] Audiovisual Powerhouses Select Best Laptops for Editing for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-10-online-tools-to-retrieve-youtube-graphics/"><u>[Updated] In 2024, 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-age-for-gaming-the-mmo-evolution-tale/"><u>A New Age for Gaming: The MMO Evolution Tale</u></a></li>
-<li><a href="https://games-able.techidaily.com/activities-galore-chess-and-poker-in-discord-servers/"><u>Activities Galore: Chess & Poker in Discord Servers</u></a></li>
-<li><a href="https://games-able.techidaily.com/adjusting-mouse-sensitivity-for-maximum-precision/"><u>Adjusting Mouse Sensitivity for Maximum Precision</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-and-gaming-the-revolution-of-nvidias-dlss-technology-in-update-35/"><u>AI and Gaming: The Revolution of Nvidia’s DLSS Technology in Update 3.5</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-next-gen-graphics-rdna-35-and-release-forecast/"><u>AMD's Next-Gen Graphics: RDNA 3.5 & Release Forecast</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-os-launched-in-linux-environment/"><u>Android OS Launched in Linux Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-your-needs-before-committing-to-ps5/"><u>Assessing Your Needs Before Committing to PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-buys-in-playstation-summer-clearance-sale/"><u>Best Buys in PlayStation Summer Clearance Sale</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ferramenta-livre-e-gratuita-para-transformar-vob-em-flv-na-web-o-guia-completo-da-movavi/"><u>Ferramenta Livre E Gratuita Para Transformar VOB Em FLV Na Web: O Guia Completo Da Movavi</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/previewed-activities-on-facebook-are-you-exposed-in-2024/"><u>Previewed Activities on Facebook Are You Exposed, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719166879528-revitalize-your-pc-with-the-newest-nvidia-driver-update/"><u>Revitalize Your PC with the Newest Nvidia Driver Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-ghost-runner-game-errors-on-windows-10-pc/"><u>Step-by-Step Guide: Resolving Ghost Runner Game Errors on Windows 10 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-start-your-amd-radeon-drivers-successfully/"><u>Step-by-Step Solutions to Start Your AMD Radeon Drivers Successfully</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unlock-the-magic-of-motion-in-video-text-elements/"><u>Unlock the Magic of Motion in Video Text Elements</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-your-chromebooks-potential-how-to-install-linux/"><u>Updated Unlock Your Chromebooks Potential How to Install Linux</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-core-dll-is-undetected/"><u>[Solved]: Windows Core DLL Is Undetected</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-ai-assistant-how-to-determine-if-claude-or-chatgpt-fits-your-needs/"><u>Choosing the Right AI Assistant: How to Determine if Claude or ChatGPT Fits Your Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-updated-intel-iris-xe-graphics-driver-enhance-your-windows-11-experience/"><u>Download Updated Intel Iris Xe Graphics Driver - Enhance Your Windows 11 Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-lovers-paradise-discover-our-top-10-zero-ad-games/"><u>Game Lover's Paradise: Discover Our Top 10 Zero Ad Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>In 2024, Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-redefining-the-greatest-movies-2023-edition/"><u>In 2024, Redefining The Greatest Movies 2023 Edition</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-storytelling-mastery-top-video-marketing-tactics-explored-for-2024/"><u>Instagram Storytelling Mastery Top Video Marketing Tactics Explored for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mindful-gaming-6-ways-to-stay-present-and-fresh/"><u>Mindful Gaming: 6 Ways to Stay Present and Fresh</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-playstation-perso-4-golden-system-malfunctions-successfully/"><u>Overcoming Playstation Perso 4 Golden System Malfunctions Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-gaming-on-a-high-note-top-144hz-widescreen-picks/"><u>Pro Gaming on a High Note: Top 144Hz Widescreen Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/separating-fake-flagship-trailers-from-real-ones/"><u>Separating Fake Flagship Trailers From Real Ones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-the-world-of-chroma-keying-youtubes-guide-to-green-screens-for-2024/"><u>Step Into the World of Chroma Keying – YouTube's Guide to Green Screens for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g14-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G14 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tranquil-gameplay-without-controller-jolt/"><u>Tranquil Gameplay Without Controller Jolt</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-laptop-into-a-powerful-game-screen/"><u>Transform Your Laptop Into a Powerful Game Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncomplicating-your-steam-decks-cloud-functionality/"><u>Uncomplicating Your Steam Deck's Cloud Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-a-dual-mode-gaming-monitor-and-do-you-need-one/"><u>What Is a “Dual-Mode” Gaming Monitor, and Do You Need One?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-tipping-game-devs-would-be-a-bad-idea/"><u>Why Tipping Game Devs Would Be a Bad Idea</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Infinite Options: Universal Game Availability"
-date: 2024-10-10T13:55:12.791Z
-updated: 2024-10-12T16:15:08.843Z
+date: 2024-10-13T09:22:29.597Z
+updated: 2024-10-19T05:36:32.129Z
 tags:
   - games
 categories:
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
  Console exclusives started in the 1980s, with Atari securing exclusive home console rights to popular arcade games such as Space Invaders and Pac-Man. At this point, the idea was to persuade regular arcade-goers to buy a home console in order to play their favorite titles from the comfort of their sofa and without having to feed a machine with endless quarters. Ironically, you can now buy[arcade machines designed for your home](https://www.makeuseof.com/best-home-arcade-machines/) .
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
@@ -71,28 +85,15 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
@@ -112,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -141,17 +135,19 @@ thumbnail: https://thmb.techidaily.com/d599dad7b998abdf06ca417d32becc28547b33f18
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/iming-and-frequency-their-effect-on-youtube-rankings/"><u>[New] Timing & Frequency Their Effect on YouTube Rankings</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-compre-omprehensive-razer-video-cam-test-for-2024/"><u>[Updated] Compre Omprehensive Razer Video Cam Test for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-critical-considerations-against-incorporating-ray-tracing/"><u>7 Critical Considerations Against Incorporating Ray Tracing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieving-persistent-ps5-network-links/"><u>Achieving Persistent PS5 Network Links</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719162140368-enter-the-world-of-fun-with-chatgpts-6-best-games/"><u>Enter the World of Fun with ChatGPT's 6 Best Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168976644-gaming-revolution-embracing-the-power-of-oled-monitors/"><u>Gaming Revolution: Embracing the Power of OLED Monitors.</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-have-a-products-sponsorship-in-youtube-for-2024/"><u>How to Have a Products Sponsorship in Youtube for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-13-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 13 in the Best Ways</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-vs-2frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic Vs 2FRP Lock</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-correcting-palworld-search-function-glitches/"><u>Step-by-Step Guide: Correcting 'PalWorld' Search Function Glitches</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171836864-unlock-every-steam-badge-in-minutes/"><u>Unlock Every Steam Badge in Minutes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-chronoscape-controls-rewinding-iphone-footage-efficiently/"><u>[New] 2024 Approved Chronoscape Controls Rewinding iPhone Footage Efficiently</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-craft-your-story-aspect-ratios-for-powerful-yt-thumbnails/"><u>[New] 2024 Approved Craft Your Story Aspect Ratios for Powerful YT Thumbnails</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-insights-on-youtube-tvs-unique-features-for-2024/"><u>[New] Essential Insights on YouTube TV's Unique Features for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-picks-laptops-that-transform-raw-footage/"><u>2024 Approved Expert Picks Laptops That Transform Raw Footage</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>2024 Approved Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/build-funny-images-kapwings-meme-studio-for-2024/"><u>Build Funny Images Kapwing’s Meme Studio for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-shooter-skills-with-key-settings/"><u>Elevate Your Shooter Skills with Key Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-and-performance-the-best-nintendo-switch-docks-of-2024/"><u>Innovation & Performance: The Best Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-deciding-on-prime-gaming-browsers/"><u>Opera Vs. Edge: Deciding on Prime Gaming Browsers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-anthems-infinite-launch-loop-a-step-by-step-solution/"><u>Overcoming Anthem's Infinite Launch Loop - A Step-by-Step Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ps5-debate-pros-and-cons-explored/"><u>The PS5 Debate - Pros and Cons Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-cost-of-gaming-why-standard-displays-outweigh-hdrs/"><u>The Real Cost of Gaming: Why Standard Displays Outweigh HDRs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unofficially-run-old-school-video-games-on-your-iphone-no-hacking-needed/"><u>Unofficially Run Old-School Video Games on Your iPhone - No Hacking Needed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-warriors-ways-amplify-your-windows-gaming-speed/"><u>Winning Warrior’s Ways: Amplify Your Window's Gaming Speed</u></a></li>
 </ul></div>
 

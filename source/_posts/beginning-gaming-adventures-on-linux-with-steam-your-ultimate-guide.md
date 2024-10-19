@@ -1,7 +1,7 @@
 ---
 title: Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide
-date: 2024-09-18 20:16:48
-updated: 2024-09-20 12:57:34
+date: 2024-10-15T13:27:26.065Z
+updated: 2024-10-19T12:27:16.766Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -59,6 +66,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -71,11 +85,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/fixed-no-device-detected-for-wireless-connection-on-pc/"><u>[FIXED] No Device Detected for Wireless Connection on PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>[New] Choosing Between GoPro Max and Hero 11 Top Cameras Compared</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics-for-2024/"><u>[New] Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-7-best-waterproof-action-camera-for-2024/"><u>[Updated] Top 7 Best Waterproof Action Camera for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-electronics-with-tom-in-depth-hardware-insights/"><u>Exploring Electronics with Tom: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-ios-video-games-pick-these-four-emulators/"><u>Ideal iOS Video Games: Pick These Four Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-how-xbox-sanctions-misconduct/"><u>Inside Look: How Xbox Sanctions Misconduct</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/introductory-tutorial-utilizing-video-chat-features-on-insta/"><u>Introductory Tutorial Utilizing Video Chat Features on Insta</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-control-techniques-for-xbox-games/"><u>Quiet Control Techniques for Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-smart-budget-boards-for-gamers-needs/"><u>Saving Smart: Budget Boards for Gamers' Needs</u></a></li>
+<li><a href="https://win-able.techidaily.com/stardew-valley-launch-problem-heres-what-you-need-to-do/"><u>Stardew Valley Launch Problem? Here's What You Need to Do!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-volume-surge-controllers-for-windowsmacos-for-2024/"><u>Top 10 Volume Surge Controllers for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-steam-deck-extras-list/"><u>Ultimate Steam Deck Extras List</u></a></li>
+</ul></div>
+

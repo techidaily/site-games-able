@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Gaming Library: Fixing EGL Shortcomings"
-date: 2024-10-06T00:02:19.465Z
-updated: 2024-10-13T00:02:16.180Z
+date: 2024-10-18T04:33:03.868Z
+updated: 2024-10-18T23:16:51.981Z
 tags:
   - games
 categories:
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![Stop Epic Games from running in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/end-epic-games-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then, relaunch the app and check if all of your games are now showing within the library.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Log Out and Log In to Epic Game
 
@@ -52,11 +52,25 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check the Game’s Availability
 
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
@@ -68,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
  In the Library tab, click on**Filters** and uncheck the options. Alternatively, if there are multiple filters, click**Reset** . Then, refresh the library and check if all of your games are now visible.
 
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
 
@@ -103,10 +103,16 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
@@ -128,15 +134,20 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-ultimate-gif-hack-top-twitter-tool-2024/"><u>[New] Ultimate GIF Hack Top Twitter Tool 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-discovering-the-metaverses-hidden-joys/"><u>[Updated] In 2024, Discovering the Metaverse's Hidden Joys</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tips-for-reducing-vr-induced-symptoms/"><u>2024 Approved Tips for Reducing VR-Induced Symptoms</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-settings-that-every-nintendo-switch-owner-should-use/"><u>9 Settings That Every Nintendo Switch Owner Should Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/adventure-awaits-in-these-7-terminal-game-picks/"><u>Adventure Awaits in These 7 Terminal Game Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/audio-pairing-sony-and-bluetooth-headset/"><u>Audio Pairing: Sony & Bluetooth Headset</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167009807-google-play-pass-generally-fantastic-except/"><u>Google Play Pass: Generally Fantastic Except</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-maximizing-video-quality-in-steam-game-recording/"><u>In 2024, Maximizing Video Quality in Steam Game Recording</u></a></li>
-<li><a href="https://win-answers.techidaily.com/monitor-your-diet-certain-foods-and-beverages-may-irritate-your-bladder-and-contribute-to-uti-symptoms-limit-intake-of-caffeine-alcohol-spicy-foods-and-arti401/"><u>Monitor Your Diet: Certain Foods and Beverages May Irritate Your Bladder and Contribute to UTI Symptoms. Limit Intake of Caffeine, Alcohol, Spicy Foods, and Artificial Sweeteners, Which Can Potentially Worsen the Condition.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-endorsed-8-tripods-for-flawless-4k-footage/"><u>[New] Expert-Endorsed 8 Tripods for Flawless 4K Footage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-drone-category-definitions-for-2024/"><u>[Updated] Drone Category Definitions for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/can-you-locate-an-offline-iphone-demystifying-and-resolving-find-my-iphone-issues/"><u>Can You Locate an Offline iPhone? Demystifying and Resolving 'Find My iPhone' Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-top-4-sites-to-skyrocket-your-score/"><u>Elevate Gameplay - Top 4 Sites to Skyrocket Your Score</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expert-guide-6-ways-to-document-your-minecraft-experiences/"><u>Expert Guide 6 Ways to Document Your Minecraft Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-understanding-and-leveraging-twitch/"><u>From Novice to Pro: Understanding and Leveraging Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-get-uninterrupted-remote-gameplay-with-steam-and-windows/"><u>How to Get Uninterrupted Remote Gameplay with Steam & Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls/"><u>In 2024, The Invisible Trail Hidden Steps for Tracking WhatsApp Calls</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revving-up-fun-and-education-an-in-depth-look-at-the-dash-by-wonder-workshop/"><u>Revving Up Fun and Education: An In-Depth Look at the Dash by Wonder Workshop</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sequential-viewing-order-for-the-epic-indiana-jones-movie-series/"><u>Sequential Viewing Order for the Epic Indiana Jones Movie Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-gaming-phones-versus-tablets/"><u>Size Matters in Gaming: Phones Versus Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-game-footage-extraction-on-various-gpus/"><u>Streamlining Game Footage Extraction on Various GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-truth-about-a-disc-drive-on-xbox-series-s/"><u>The Truth About a Disc Drive on Xbox Series S?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-streamline-your-movie-collection-how-to-convert-dvds-to-digital-formats/"><u>Updated In 2024, Streamline Your Movie Collection How to Convert DVDs to Digital Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-are-my-digital-paintings-preserved/"><u>Where Are My Digital Paintings Preserved?</u></a></li>
 </ul></div>
 

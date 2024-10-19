@@ -1,7 +1,7 @@
 ---
 title: "What You Need to Run BG3: Hardware Specs"
-date: 2024-10-07T16:26:24.587Z
-updated: 2024-10-13T11:07:10.627Z
+date: 2024-10-13T02:41:32.912Z
+updated: 2024-10-18T23:06:42.263Z
 tags:
   - games
 categories:
@@ -45,22 +45,15 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Baldur’s Gate 3 came out for PC on August 3rd, but it will come out for macOS and PS5 on September 6th, and perhaps next year for Xbox Series X|S. Larian Studios has issues getting the split-screen to work effectively on the[cheaper and less powerful Xbox Series S](https://www.makeuseof.com/xbox-series-x-vs-xbox-series-s-which-should-you-buy/) .
 
@@ -70,6 +63,13 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
  There are mods for Baldur’s Gate 3, but we suggest you wait a little longer to try them out since most were made with early access in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Does Baldur's Gate 3 Have a Multiplayer, and How Does It Work?
 
  Baldur’s Gate 3 has a single-player mode you can play by yourself. However, you can quickly change your single-player game into a multiplayer game where your friends can join and control characters in your game.
@@ -78,18 +78,18 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
 
  And yes, you can play split-screen simply by activating another controller in-game.
 
  You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Baldur's Gate 3 Okay for Kids?
 
@@ -98,10 +98,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
@@ -125,17 +125,17 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-secure-your-travel-documents-grab-10-free-passport-photos-onlinedesktop/"><u>[Updated] Secure Your Travel Documents Grab 10 FREE Passport Photos Online/Desktop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlock-success-top-12-tycoon-games-to-capture-your-attention-for-2024/"><u>[Updated] Unlock Success Top 12 Tycoon Games to Capture Your Attention for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steam-errors-in-windows-rust-setup/"><u>Addressing Steam Errors in Windows-Rust Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-every-corner-of-baldurs-gate-3-on-m1m2-via-crossover/"><u>Explore Every Corner of Baldur's Gate 3 on M1/M2 via Crossover</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-permanently-remove-your-records-from-chatgpt-platform/"><u>How to Permanently Remove Your Records From ChatGPT Platform</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-smart-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Smart 8 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-poco-f5-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-and-leveraging-influencers-on-snapchat/"><u>In 2024, Understanding and Leveraging Influencers on Snapchat</u></a></li>
-<li><a href="https://games-able.techidaily.com/legacy-console-emulation-via-linux-command-line/"><u>Legacy Console Emulation via Linux Command Line</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-the-most-of-steams-offline-illusion/"><u>Making the Most of Steam's Offline Illusion</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-smart-why-you-shouldnt-use-mic-on-ps5-controller/"><u>Play Smart: Why You Shouldn't Use Mic on PS5 Controller</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-hd-capture-software-for-windows-and-macos/"><u>[New] 2024 Approved Ultimate HD Capture Software for Windows & macOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-revolutionize-your-video-content-with-free-intro-designers/"><u>[Updated] Revolutionize Your Video Content with Free Intro Designers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-turn-your-iphone-images-upside-down-with-precision/"><u>[Updated] Turn Your iPhone Images Upside Down with Precision</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-troubleshooting-streaming-issues-on-mac-with-mixer/"><u>2024 Approved Troubleshooting Streaming Issues on Mac with Mixer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-wordle-streaks-on-smartphones/"><u>How to Restore Wordle Streaks on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/lost-in-transit-finding-the-way-back-to-mc-lan/"><u>Lost in Transit: Finding the Way Back to MC LAN</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/messengervideo-snapper-directaccess/"><u>MessengerVideo Snapper – DirectAccess</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-your-controller-on-windows-calibration-techniques/"><u>Optimizing Your Controller on Windows: Calibration Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-corrected-graphical-hardware-error/"><u>Overwatch: Corrected Graphical Hardware Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/portable-powerhouses-the-premier-nintendo-switch-docks-of-2024/"><u>Portable Powerhouses: The Premier Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-guide-to-uninterrupted-ps5-connection/"><u>Precision Guide to Uninterrupted PS5 Connection</u></a></li>
 </ul></div>
 

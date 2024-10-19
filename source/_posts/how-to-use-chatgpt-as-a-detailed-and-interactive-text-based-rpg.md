@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT as a Detailed and Interactive Text-Based RPG
-date: 2024-10-07T23:59:49.089Z
-updated: 2024-10-13T07:24:18.378Z
+date: 2024-10-17T08:09:39.817Z
+updated: 2024-10-19T03:55:04.364Z
 tags:
   - games
 categories:
@@ -65,19 +65,6 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -122,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -142,14 +136,14 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
- You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 ## Add Combat and Magic Rules
 
@@ -177,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/4c2c83dc76ea031999e2259b4bcb5ed3cf0b94afc
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -202,16 +189,16 @@ And finally, don’t forget to actually start the game:
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -311,6 +298,13 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -332,24 +326,24 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-peak-memes-ranking-the-viral-ones-on-both-platforms-for-2024/"><u>[New] Peak Memes Ranking the Viral Ones on Both Platforms for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-from-live-to-digital-preserving-your-skype-talks/"><u>[Updated] From Live to Digital Preserving Your Skype Talks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-essential-guide-to-angular-video-compilation-android/"><u>[Updated] In 2024, The Essential Guide to Angular Video Compilation (Android)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/enhance-videos-with-music-inshots-simple-methods-for-2024/"><u>Enhance Videos with Music InShot's Simple Methods for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-analysis-top-picks-for-the-best-microwave-safe-mugs-reviews-included/"><u>Expert Analysis: Top Picks for the Best Microwave-Safe Mugs - Reviews Included</u></a></li>
-<li><a href="https://games-able.techidaily.com/grasp-total-console-playtime-using-xbox-series-xs/"><u>Grasp Total Console Playtime Using Xbox Series X/S</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 8 Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-broaden-your-messenger-network/"><u>How-To: Broaden Your Messenger Network</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-apple-m1-and-windows-games-with-crossover-software/"><u>Mastering Apple M1 and Windows Games with Crossover Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-rtx-4070-super-apex-vs-titan-x-vs-4080-super/"><u>Nvidia's RTX 4070 Super - Apex Vs. Titan X Vs. 4080 Super</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-ps5-flash-drive-choices/"><u>Premier PS5 Flash Drive Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/price-patterns-investigating-gaming-costs-on-steam/"><u>Price Patterns: Investigating Gaming Costs on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-smartphone-battles-using-gamepads/"><u>Prime Smartphone Battles Using Gamepads</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-your-pc-experience-by-managing-game-bar/"><u>Securing Your PC Experience by Managing Game Bar</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165156100-step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts!</u></a></li>
-<li><a href="https://games-able.techidaily.com/summiting-styles-selecting-gamer-chair-models/"><u>Summiting Styles: Selecting Gamer Chair Models</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-fixing-continuous-crashes-in-samurai-warriors-5-pc-version/"><u>Troubleshooting Steps: Fixing Continuous Crashes in Samurai Warriors 5 PC Version</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-12-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Redmi Note 12 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-growth-on-a-dime-attracting-sponsors-with-simplicity-for-2024/"><u>[New] Channel Growth on a Dime Attracting Sponsors with Simplicity for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-from-airplay-to-download-apple-podcasts-simplified/"><u>[New] From Airplay to Download Apple Podcasts Simplified</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-mr-beasts-monetary-milestones/"><u>[New] Mr. Beast’s Monetary Milestones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screenstreamer-breaking-down-the-newest-recorder-for-2024/"><u>[New] ScreenStreamer Breaking Down the Newest Recorder for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hero-session-evolution-four-to-five/"><u>2024 Approved Hero Session Evolution Four to Five</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ps5s-undisclosed-browsing-function/"><u>Deciphering PS5's Undisclosed Browsing Function</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-absence-signals-in-the-gaming-realm-of-series-xs/"><u>Decoding Absence Signals in the Gaming Realm of Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-excellence-java-gaming-delights/"><u>Discovering Excellence: Java Gaming Delights</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-flailing-ps4-controllers-a-step-by-step-guide/"><u>Fixing Flailing Ps4 Controllers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-nord-ce-3-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change OnePlus Nord CE 3 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-passcode-screen-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Passcode Screen?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-premier-producer-a-choreography-of-colors-and-tones/"><u>In 2024, Premier Producer A Choreography of Colors & Tones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgic-gaming-revolution-playing-classic-dreamcast-titles-on-android-platforms/"><u>Nostalgic Gaming Revolution: Playing Classic Dreamcast Titles on Android Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-price-inspection-for-games-on-steam/"><u>Retro Price Inspection for Games on Steam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revolutionize-your-online-audio-with-these-5-methods/"><u>Revolutionize Your Online Audio with These 5 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rpi-gaming-duel-who-wins-batocera-or-retropie/"><u>The RPi Gaming Duel: Who Wins, Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unspoken-flaw-in-macs-fortnite-experience/"><u>The Unspoken Flaw in Mac's Fortnite Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-on-storage-space/"><u>Understanding the Impact on Storage Space</u></a></li>
 </ul></div>
 

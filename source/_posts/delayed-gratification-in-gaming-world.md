@@ -1,7 +1,7 @@
 ---
 title: Delayed Gratification in Gaming World
-date: 2024-10-10T03:53:21.967Z
-updated: 2024-10-13T08:57:40.089Z
+date: 2024-10-14T03:19:58.603Z
+updated: 2024-10-18T20:18:18.568Z
 tags:
   - games
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
  While some people work well under pressure, positive environments often produce the best results. When you actually look at[whether crunch culture creates better video games](https://www.makeuseof.com/does-crunch-culture-deliver-good-bad-games/) , in the end, the answer is far from a resounding yes. Great games have come from crunch culture, sure. But it's simply not worth subjecting workers to crunch culture when it is entirely possible to create brilliant games without it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Delaying Video Games Improves the Final Product
 
  When a video game is delayed, it’s because it’s simply not ready yet. Pulling your chicken out of the oven before it’s finished cooking doesn’t automatically make it done. If you take it out too early, it will be inedible. Although that’s a bit of an extreme example, the same general idea applies to games that are released before they’re finished.
@@ -48,15 +41,28 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
 ![A screenshot taken from CD Projekt Red of the key art for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cyberpunk-2077-key-art.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[CD Projekt Red](https://www.cdprojektred.com/en/our-games)
 
  Developers continued working on Cyberpunk 2077 well after its release date, and it's great now. But it is clear to see that the game would have met a much warmer reception if the developers had been given enough time to finish it before it was released.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Better Games Mean Better Sales
@@ -66,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
  Delaying the release of games allows the final product to be better, which means better sales, which means creators have the resources required to make more titles for gamers to enjoy. That is the circle of life for video games, but that cycle stops if a game doesn’t sell well enough to recoup costs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Gamers Will Actually Get What They Paid For
@@ -79,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 ![Man holding white piece over paper that reads balance over burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-white-piece-over-paper-that-reads-balance-over-burnout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In situations like this, everyone loses. The consumer loses, the development team loses, and the publisher loses. All for something that could have possibly been avoided if the game’s release date was pushed back a bit and developers had enough time to create a more polished experience.
@@ -108,16 +114,19 @@ thumbnail: https://thmb.techidaily.com/f244a4b607ff1304250df827a08b69767edd00f8e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-bold-bio-brilliance-groundbreaking-ideas-for-increasing-follower-count-on-tiktok-through-filmora/"><u>[New] 2024 Approved Bold Bio Brilliance Groundbreaking Ideas for Increasing Follower Count on TikTok Through Filmora</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-farm-tastic-fun-and-games-top-friendly-farming-titles/"><u>[Updated] In 2024, Farm-Tastic Fun & Games Top Friendly Farming Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypass-the-big-apples-social-hierarchy-with-these-tips/"><u>Bypass the Big Apple's Social Hierarchy with These Tips</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/idefault-program-fa-qanda-your-guide-to-understanding-and-optimizing-the-default-application/"><u>IDefault Program FA Q&A - Your Guide to Understanding and Optimizing the Default Application</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-honor-90-lite-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Honor 90 Lite</u></a></li>
-<li><a href="https://games-able.techidaily.com/live-laugh-and-stream-with-twitch-app-on-the-go/"><u>Live, Laugh & Stream with Twitch App on the Go</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-focus-and-depth-with-videoleaps-zoom-feature/"><u>Mastering Focus and Depth with Videoleap's Zoom Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172972874-psp-reimagined-iphone-edition-now-available/"><u>PSP Reimagined: IPhone Edition Now Available</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-offline-friends-error-in-steam/"><u>Resolving Offline Friends Error in Steam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721912687913-the-fascinating-world-of-chatbot-communication-speak-to-chatgpt-now/"><u>The Fascinating World of Chatbot Communication - Speak to ChatGPT Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/1726028664984-youtube/"><u>YouTubeトラックをウォークマンに移し替える方法</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unleashing-the-power-of-spotifys-ad-platform-for-marketers/"><u>[New] In 2024, Unleashing the Power of Spotify's Ad Platform for Marketers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-8-free-software-solutions-revolutionizing-corporate-video-meetings/"><u>[New] Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings</u></a></li>
+<li><a href="https://games-able.techidaily.com/expand-your-gaming-horizon-using-external-drives-on-steam/"><u>Expand Your Gaming Horizon: Using External Drives on Steam</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a15-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A15 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-roundup-led-lighting-of-2024/"><u>Innovation Roundup: LED Lighting of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-edge-joy-cons-and-controllers-the-best-of-2024/"><u>Leading-Edge Joy-Cons and Controllers: The Best of 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quietude-creation-garageband-volume-control-methods-for-2024/"><u>Quietude Creation Garageband Volume Control Methods for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Motorola Moto G24 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/securely-installing-apple-podcasts-episodes/"><u>Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-modify-your-riot-username-and-tagline/"><u>Steps to Modify Your Riot Username and Tagline</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-advent-of-ai-in-windows-11-shaping-the-next-gen-user-experience/"><u>The Advent of AI in Windows 11: Shaping the Next-Gen User Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-complete-guide-to-voice-overs-in-multimedia-projects/"><u>The Complete Guide to Voice-Overs in Multimedia Projects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-destiny-2-compatible-with-pc-previous-startup-errors-corrected/"><u>Update: Destiny 2 Compatible with PC, Previous Startup Errors Corrected</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-master-hrtf-to-win-at-valorant/"><u>Why Master HRTF to Win at Valorant?</u></a></li>
 </ul></div>
 

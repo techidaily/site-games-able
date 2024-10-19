@@ -1,7 +1,7 @@
 ---
 title: "Quick & Easy Guide: Upgrading PS5 Console with Extra Storage - Complete Within 10 Minutes! [ZDNet]"
-date: 2024-09-19 16:21:17
-updated: 2024-09-20 11:29:29
+date: 2024-10-13T10:50:40.880Z
+updated: 2024-10-18T16:17:28.861Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>[New] Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secrets-of-professional-rl-broadcasts/"><u>[New] In 2024, Secrets of Professional RL Broadcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-zoom-class-chronicling/"><u>2024 Approved Zoom Class Chronicling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-video-and-audio-format-conversion-with-winx-free-software/"><u>Easy Video and Audio Format Conversion with WinX Free Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-leaderships-via-superior-language-learning-platforms/"><u>Global Leaderships via Superior Language Learning Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-pc-performance-5-ways-to-reduce-steams-memory-usage/"><u>Mastering PC Performance: 5 Ways to Reduce Steam's Memory Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-roblox-decode-of-error-262/"><u>Mending Roblox: Decode of Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-specifications-choosing-a-game-ready-display/"><u>Navigating Specifications: Choosing a Game-Ready Display</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-shake-reduction-companion-for-cams/"><u>Quick Shake Reduction Companion for Cams</u></a></li>
+<li><a href="https://android-frp.techidaily.com/realme-12-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Realme 12 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-reducing-energy-consumption-on-xbox-joystick/"><u>Strategies for Reducing Energy Consumption on Xbox Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-toxicity-report-mechanism-for-xbox-gamers/"><u>Tackling Toxicity: Report Mechanism for Xbox Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/vintagescreen-minis-handheld-retro-thrills/"><u>VintageScreen Minis: Handheld Retro Thrills</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Top Labor Day 2024 Television Bargains: Expert Picks From ZDNet"
-date: 2024-09-19 21:14:31
-updated: 2024-09-20 12:36:42
+date: 2024-10-12T01:30:38.199Z
+updated: 2024-10-19T05:39:01.246Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-10-royale-showdowns/"><u>[New] Ultimate 10 Royale Showdowns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>[Updated] Exclusive Exploration Superior VR Games on Google Cardboard</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-harmony-through-play-our-best-10-gems-for-2024/"><u>[Updated] Harmony Through Play Our Best 10 Gems for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-windows-graphic-hang-fixed-error-code-0x887a0006/"><u>Correcting Window's Graphic Hang: Fixed Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/craft-your-console-clan-strategy/"><u>Craft Your Console Clan Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-console-area-with-the-best-gaming-lights/"><u>Elevate Your Console Area with the Best Gaming Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-screen-shoppers-guide-steering-clear-of-blunders/"><u>Essential Screen Shopper's Guide: Steering Clear of Blunders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oppo-a18-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Oppo A18</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-youtube-for-asmr-enthusiasts/"><u>In 2024, Essential YouTube for ASMR Enthusiasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-definition-heroes-10-in-4ktvs/"><u>In 2024, High Definition Heroes – #10 in 4KTVs</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-retro-gaming-top-ranked-ps3-emulators-for-your-pc/"><u>Journey Through Retro Gaming: Top-Ranked PS3 Emulators for Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/pathways-in-troubleshooting-your-nintendo-switch-concerns/"><u>Pathways in Troubleshooting Your Nintendo Switch Concerns</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-controller-chaos-on-ps4-simple-remedies-for-gamers/"><u>Revive Controller Chaos on PS4 - Simple Remedies for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-solutions-for-launch-failure-in-farming-simulator-22/"><u>Step-by-Step Guide: Solutions for Launch Failure in Farming Simulator 22</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-playing-experience-via-ps5-assist-controller/"><u>Transform Your Playing Experience via Ps5 Assist Controller</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728469345950-usb/"><u>USBメモリからのデータ復旧：エレコムストレージ簡単なガイド</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-you-should-consider-a-free-hulu-trial/"><u>Why You Should Consider a Free Hulu Trial</u></a></li>
+</ul></div>
+

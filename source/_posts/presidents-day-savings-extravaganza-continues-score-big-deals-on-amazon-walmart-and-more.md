@@ -1,7 +1,7 @@
 ---
 title: President's Day Savings Extravaganza Continues - Score Big Deals on Amazon, Walmart and More!
-date: 2024-09-17 22:10:31
-updated: 2024-09-20 12:52:54
+date: 2024-10-14T17:18:04.425Z
+updated: 2024-10-19T12:26:58.567Z
 tags:
   - gaming
 categories:
@@ -51,6 +51,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +65,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -71,11 +85,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-intimate-perspectives-with-team-zooms/"><u>[New] Intimate Perspectives with Team Zooms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[New] The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-streamlining-gameplay-logs-for-social-media-sharing/"><u>[Updated] In 2024, Streamlining Gameplay Logs for Social Media Sharing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-winning-with-mov-files-on-your-windows-system-for-2024/"><u>Capture Winning with MOV Files on Your Windows System for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-youtubes-interactive-mini-gaming-experience/"><u>Dive Into YouTube's Interactive Mini Gaming Experience</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/efficient-installation-guide-setting-up-vmware-tools-in-your-virtual-environment/"><u>Efficient Installation Guide: Setting up VMware Tools in Your Virtual Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulate-d-pad-gaming-experience/"><u>Emulate D-Pad Gaming Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-elite-digital-image-grabbers/"><u>In 2024, Elite Digital Image Grabbers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/level-up-in-subway-surfers-expert-advice-on-navigating-the-track-like-a-champion/"><u>Level Up in 'Subway Surfers': Expert Advice on Navigating the Track Like a Champion</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-highlight-capture-via-any-gpu-technology/"><u>Seamless Highlight Capture via Any GPU Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-steam-library-the-art-of-deleting-games/"><u>Transform Your Steam Library: The Art of Deleting Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-potential-of-ps5-with-these-9-features/"><u>Unleashing the Potential of PS5 with These 9 Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-4-pivotal-points-against-a-disc-drive-on-xbox-s/"><u>Unveiling 4 Pivotal Points Against a Disc Drive on Xbox S</u></a></li>
+</ul></div>
+

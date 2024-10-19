@@ -1,7 +1,7 @@
 ---
 title: "Revealing the Missing Link: Xbox's Offline Status"
-date: 2024-10-12T10:21:14.790Z
-updated: 2024-10-13T00:58:24.501Z
+date: 2024-10-12T20:21:02.753Z
+updated: 2024-10-19T03:26:23.674Z
 tags:
   - games
 categories:
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  If you find a recent post by an offline friend, you know they are appearing offline. And through the type of posts you find, you can see the games, achievements, or captures your friend has posted.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. View the Xbox Series X|S Gamerscore Leaderboard
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Navigate to the options for**People** , and select**Gamerscore leaderboard** .
 
 ![A screenshot of the Gamerscore Leaderboard on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3160-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Look through the rankings of you and your friends, looking for an offline friend who has been consistently earning Gamerscore.
 
@@ -79,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
@@ -97,31 +111,17 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
@@ -144,18 +144,18 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-prelude-to-cinematic-dialogue/"><u>[New] Prelude to Cinematic Dialogue</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[New] Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-reasons-gamefi-will-never-take-off-or-attract-real-gamers/"><u>5 Reasons GameFi Will Never Take Off or Attract Real Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/8-effective-fixes-for-steams-widescreen-woes/"><u>8 Effective Fixes for Steam's Widescreen Woes</u></a></li>
-<li><a href="https://games-able.techidaily.com/aaa-games-on-the-rise-innovation-in-jeopardy-thought-leadership-discussion/"><u>AAA Games on the Rise: Innovation in Jeopardy? [Thought Leadership Discussion]</u></a></li>
-<li><a href="https://games-able.techidaily.com/apcs-desktop-titan-msi-raider-reviewed/"><u>APC's Desktop Titan: MSI Raider Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-of-the-titans-opera-gx-and-edge-in-browsers/"><u>Battle of the Titans: Opera GX and Edge in Browsers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-fresh-install-of-evga-drivers-for-enhanced-gaming-on-windows-pcs/"><u>Guide: Fresh Install of EVGA Drivers for Enhanced Gaming on Windows PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-apple-iphone-13-pro-in-3-ways-drfone-by-drfone-virtual-ios/"><u>In 2024, Edit and Send Fake Location on Telegram For your Apple iPhone 13 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-photo-tips-for-exquisite-iphone-close-ups-and-macros/"><u>In 2024, Innovative Photo Tips for Exquisite iPhone Close-Ups & Macros</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-survival-sagas-ultimate-10-roguely-games/"><u>In 2024, Survival Sagas Ultimate 10 Roguely Games</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-instagram-growth-strategy-handbook/"><u>In 2024, The Instagram Growth Strategy Handbook</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165142774-overheat-no-more-top-accessories-listed/"><u>Overheat No More: Top Accessories Listed!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-dividing-devices-top-cam-rating-review/"><u>[New] 2024 Approved Dividing Devices Top Cam Rating Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-time-travel-on-fb-accessing-historical-posts/"><u>[Updated] 2024 Approved Time Travel on FB Accessing Historical Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-earning-potential-revenue-from-youtube-advertisements/"><u>[Updated] Exploring Earning Potential Revenue From YouTube Advertisements?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-bg3-extras-beyond-core-gameplay/"><u>Discover BG3 Extras Beyond Core Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-gaming-wonders-with-the-lessons-of-helldivers-2/"><u>Discovering Gaming Wonders with the Lessons of Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-via-steams-workshop-integration/"><u>Elevate Your Gameplay via Steam's Workshop Integration</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone 7 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/installing-sd-card-in-steam-deck/"><u>Installing SD Card in Steam Deck</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/schlusselstrategien-zur-behebung-des-datentrager-ist-schreibgeschutzt-fehlers-in-windows-eine-einfache-anleitung/"><u>Schlüsselstrategien Zur Behebung Des 'Datenträger Ist Schreibgeschützt' Fehlers in Windows: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-your-smartphones-glass-shield/"><u>Step-by-Step Guide: Removing Your Smartphone's Glass Shield</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-twitch-journey-essential-skills-for-successful-streaming/"><u>Your Twitch Journey: Essential Skills for Successful Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/zeroize-xboxs-loud-noises-effortlessly/"><u>Zeroize Xbox's Loud Noises Effortlessly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How Xbox Sanctions Misconduct"
-date: 2024-10-08T16:03:19.451Z
-updated: 2024-10-13T10:28:59.350Z
+date: 2024-10-16T02:48:40.573Z
+updated: 2024-10-19T09:30:09.724Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  Xbox has even likened this system to how driver's license points work in many countries, and how the severity and frequency of the incidents reflect how many points are taken from your license. But with all the variables in Xbox's system, it can still be quite unclear, especially regarding the effects of varying offenses.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Different Kinds of Strikes Xbox Issues
 
  While you may have an overview of how Xbox's enforcement system works, the varying types of online gaming offenses and how they relate to the strike system can still be confusing.
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A photograph of a Wooden Gavel against a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/gavel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And on the other end of the scale, Xbox defines factors that will result in removing strikes from your account. For instance:
 
 * Successfully appealing against any amount of strikes to Xbox's moderators will remove all strikes for the offense in question.
@@ -67,22 +67,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Xbox](https://www.xbox.com/en-us/xbox-game-pass)
 
  However, while Xbox has many ways to[alter your privacy and security settings on Xbox](https://www.makeuseof.com/xbox-series-xs-how-to-set-up-privacy-and-online-safety-settings/) , tracking and managing enforcement against your account isn't supported. Luckily, there are other ways you can condense and track all the information relevant to you, so you don't have to know the system in its entirety.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to View Your Enforcement History
 
@@ -93,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 ![A screenshot of the Xbox Support page for Enforcement History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2854.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From here you can view any**Current** or**Previous** offenses, as well as your level within the 8-tier system, and any**Active suspensions** or**Completed suspensions** against your account.
@@ -106,16 +106,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  So while the overall strike system may seem overbearing and full of variation, the**Enforcement History** page can at least streamline all the pertinent strike information against your account, should you ever need it.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Xbox's Enforcement Strike System Provides a Pathway to Better Online Gaming
@@ -139,22 +133,22 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-desktop-snapshot-made-simple-free-tools-for-windows-for-2024/"><u>[Updated] Desktop Snapshot Made Simple – Free Tools for Windows for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-conquering-the-labyrinth-of-lesser-known-youtube-content/"><u>[Updated] In 2024, Conquering the Labyrinth of Lesser-Known YouTube Content</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-ace-soundtracks-collection-for-cinematography/"><u>2024 Approved Ace Soundtracks Collection for Cinematography</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-synchronizing-dates-with-visual-memories/"><u>2024 Approved Synchronizing Dates with Visual Memories</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-asus-rog-phone-7-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Asus ROG Phone 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/inside-the-top-10-virtual-reality-smartphone-gaming/"><u>Inside the Top 10 Virtual Reality Smartphone Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-controllers-in-smartphone-entertainment/"><u>Leading Controllers in Smartphone Entertainment</u></a></li>
-<li><a href="https://games-able.techidaily.com/mixed-realities-unleashed-by-metaquest-3/"><u>Mixed Realities Unleashed by MetaQuest 3</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/real-time-streaming-best-practices-with-manycam-and-virtual-camera-solutions/"><u>Real-Time Streaming: Best Practices with ManyCam and Virtual Camera Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/seven-myths-about-the-metaverse-fact-checked/"><u>Seven Myths About the Metaverse, Fact-Checked</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-steam-experience-fixes-for-windows-11/"><u>Streamline Your Steam Experience: Fixes for Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-wireless-or-hardwired-optimal-gaming-connections/"><u>Superior Wireless or Hardwired? Optimal Gaming Connections</u></a></li>
-<li><a href="https://games-able.techidaily.com/sync-up-smoothly-implementing-controller-updates-virtually/"><u>Sync Up: Smoothly Implementing Controller Updates Virtually</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-evolution-of-smoother-gaming-introducing-nvidia-g-sync/"><u>The Evolution of Smoother Gaming: Introducing Nvidia G-Sync</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-pathway-to-your-steam-login-reference-code/"><u>The Pathway to Your Steam Login Reference Code</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/toolwiz-photos-app-complete-review-2023-for-2024/"><u>Toolwiz Photos App - Complete Review 2023 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-shell-the-creme-de-la-creme-case-2024/"><u>Ultimate Shell: The Crème De La Crème Case, 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-producing-shareable-videos-as-memes-on-social-media/"><u>[New] 2024 Approved Step-by-Step Producing Shareable Videos as Memes on Social Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-a-streamlined-approach-simplifying-film-projects-with-movie-maker/"><u>[New] In 2024, A Streamlined Approach Simplifying Film Projects with Movie Maker</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enhancing-productivity-with-efficient-nvidia-capture-for-2024/"><u>[Updated] Enhancing Productivity with Efficient NVIDIA Capture for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-breaking-down-itunes-video-recording-basics/"><u>[Updated] In 2024, Breaking Down iTunes Video Recording Basics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-no-more-latency-choose-av1-for-youtube-playback-for-2024/"><u>[Updated] No More Latency Choose AV1 for YouTube Playback for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-how-to-obtain-the-official-epson-xp-330-printer-drivers-today/"><u>Easy Installation: How to Obtain the Official Epson XP-330 Printer Drivers Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevated-sitting-solutions-for-giant-gamers/"><u>Elevated Sitting Solutions for Giant Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-security-adding-a-passcode-to-your-nintendo-switch/"><u>Enhancing Security: Adding a Passcode to Your Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gear-for-the-next-level-of-ps-vr2-gaming/"><u>Essential Gear for the Next Level of PS VR2 Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-mending-and-troubleshooting-xbox-series-xs/"><u>Guide to Mending and Troubleshooting Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-manipulate-robloxs-fps-control/"><u>How to Manipulate Roblox's FPS Control</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-note-50mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme Note 50Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-vivo-x100-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Vivo X100 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-deck-games-epic-and-gog/"><u>Streamline Your Steam Deck Games: Epic and GOG</u></a></li>
+<li><a href="https://games-able.techidaily.com/supers-battle-zone-evaluating-4070-4070-ti-and-rtx-4080-performance/"><u>Supers Battle Zone: Evaluating 4070, 4070 Ti & RTX 4080 Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-gamers-choices-all-at-no-cost/"><u>Top 6 Gamers' Choices: All at No Cost</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-full-potential-rokus-sound-plus-stream-enhancements/"><u>Unlock Full Potential: Roku's Sound + Stream Enhancements</u></a></li>
 </ul></div>
 

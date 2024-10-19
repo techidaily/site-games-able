@@ -1,7 +1,7 @@
 ---
 title: Cutting Edge or Classic Swings for Games?
-date: 2024-10-11T23:37:58.794Z
-updated: 2024-10-13T08:13:24.213Z
+date: 2024-10-13T06:55:35.632Z
+updated: 2024-10-19T05:38:18.537Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do Optical Switches Work?
 
  In contrast, optical switches use a process called light induction. When you press the key down, the stem (the part that would usually hit the keyboard) blocks a beam of infrared light. An infrared sensor then detects the lack of light and signals the key has been pressed to the computer.
@@ -40,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 So, which is better for gaming?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Optical Switches vs. Mechanical Switches
@@ -87,22 +94,21 @@ Let's take a look at these four factors in closer detail.
 
  The[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Price and Availability
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
@@ -112,10 +118,10 @@ Let's take a look at these four factors in closer detail.
  Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Should You Buy: Optical or Mechanical Switches?
@@ -147,14 +153,20 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-prime-audio-solutions-for-creators/"><u>[Updated] 2024 Approved Prime Audio Solutions for Creators</u></a></li>
-<li><a href="https://games-able.techidaily.com/11-exciting-gaming-options-without-wifi/"><u>11 Exciting Gaming Options Without WiFi</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-zoom-presentations-with-stunning-visuals/"><u>2024 Approved Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-passionate-pursuit-uncovering-stunning-indie-titles/"><u>A Passionate Pursuit: Uncovering Stunning Indie Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-your-games-with-optimal-windows-fps-settings/"><u>Ace Your Games with Optimal Windows FPS Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-practices-for-live-streaming-services-and-local-channels/"><u>Best Practices for Live Streaming Services & Local Channels</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-google-pixel-8-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Google Pixel 8 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-1-v-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 1 V Pattern Lock Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719159121499-upgrade-your-game-cabinet-with-broad-bold-framing/"><u>Upgrade Your Game Cabinet with Broad, Bold Framing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-apex-producer-syncing-shots-and-songs/"><u>[New] 2024 Approved Apex Producer Syncing Shots & Songs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>[New] Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sparking-interest-customized-anime-style-subscribers-on-your-youtube-channel-filmora/"><u>2024 Approved Sparking Interest Customized, Anime-Style Subscribers on Your YouTube Channel (Filmora)</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-your-laptop-stream-games-through-steam-deck/"><u>Connect Your Laptop, Stream Games Through Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-treasure-hunting-top-3-strategies-for-xbox/"><u>Digital Treasure Hunting: Top 3 Strategies for Xbox</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-videos-which-aspect-ratio-fits-in-2024/"><u>Facebook Videos Which Aspect Ratio Fits, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-delete-ps5-user-accounts/"><u>How to Delete PS5 User Accounts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-easily-resolve-error-messages-on-wireless-adapters-and-access-points-aps/"><u>How To Easily Resolve Error Messages on Wireless Adapters and Access Points (APs)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a70-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel A70 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://games-able.techidaily.com/incisive-guide-evaluating-your-gaming-hours-on-series-s/"><u>Incisive Guide: Evaluating Your Gaming Hours on Series S</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-your-gaming-sphere-with-the-steam-workshop-method/"><u>Innovate Your Gaming Sphere with the Steam Workshop Method</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-nvidia-gtx-970-software-release/"><u>Latest Nvidia GTX 970 Software Release</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-8-compact-emulators-android-gaming-pcmac/"><u>Leading 8 Compact Emulators: Android Gaming PC/Mac</u></a></li>
+<li><a href="https://discover-best.techidaily.com/master-your-nighttime-routine-with-aabbs-insights-on-call-blocking-restful-sleep-and-selecting-the-perfect-film/"><u>Master Your Nighttime Routine with AABB's Insights on Call Blocking, Restful Sleep & Selecting the Perfect Film</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-and-solutions-for-nonfunctional-logitech-g933-mic/"><u>Troubleshooting and Solutions for Nonfunctional Logitech G933 Mic</u></a></li>
 </ul></div>
 

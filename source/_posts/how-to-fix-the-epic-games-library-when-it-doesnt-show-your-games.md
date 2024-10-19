@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Epic Games Library When It Doesn’t Show Your Games
-date: 2024-10-07T02:53:27.733Z
-updated: 2024-10-13T02:29:42.733Z
+date: 2024-10-16T09:37:33.163Z
+updated: 2024-10-18T22:28:57.207Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![How to refresh the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/refresh-library-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart the Epic Games Launcher
 
  If refreshing the library didn’t fix the issue, try restarting the Epic Games Launcher app. This way, you stop its processes from running in the background and give it a fresh start. Once you close the app, press**Ctrl + Shift + Esc** to bring up the Task Manager.
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check the Game’s Availability
@@ -57,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
@@ -75,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -82,19 +89,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
  In the Library tab, click on**Filters** and uncheck the options. Alternatively, if there are multiple filters, click**Reset** . Then, refresh the library and check if all of your games are now visible.
 
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
 
@@ -109,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
@@ -134,18 +128,18 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-why-does-facebook-use-a-blue-icon-insights-into-chat-communication/"><u>[New] 2024 Approved Why Does Facebook Use a Blue Icon? Insights Into Chat Communication</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-utilizing-zooms-snap-functionality-for-2024/"><u>[Updated] Utilizing Zoom's Snap Functionality for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/5-outstanding-window-8-screensaver-programs-expert-reviews-and-user-ratings/"><u>5 Outstanding Window 8 Screensaver Programs: Expert Reviews and User Ratings</u></a></li>
-<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-future-of-gaming-streamline-your-experience-with-steam-and-meta-quest/"><u>Discover the Future of Gaming: Streamline Your Experience with Steam and Meta Quest</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-control-experiences-on-smartphones/"><u>Excellent Control Experiences on Smartphones</u></a></li>
-<li><a href="https://driver-error.techidaily.com/gadget-disallows-car-load/"><u>Gadget Disallows Car Load</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-zte-blade-a73-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on ZTE Blade A73 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-seamless-steps-to-gather-thousands-of-videos-on-tiktok/"><u>In 2024, Seamless Steps to Gather Thousands of Videos on TikTok</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-screenshot-taking-on-steam/"><u>Mastering Screenshot Taking on Steam</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-fixing-continuous-crashes-in-cityskylines-updated-guide/"><u>Ultimate Troubleshooting: Fixing Continuous Crashes in CitySkylines (Updated Guide)</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-steam-deck-games/"><u>Unleash the Full Potential of Steam Deck Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/vanquishing-vexed-virtual-vector-load/"><u>Vanquishing Vexed Virtual Vector Load</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-no-followers-to-a-million-top-15-tricks-to-become-an-instagram-phenomenon/"><u>[Updated] From No Followers to a Million Top 15 Tricks to Become an Instagram Phenomenon</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelperfect-screen-capture-software-for-2024/"><u>[Updated] PixelPerfect Screen Capture Software for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-13-pro-how-to-unlock-a-disabled-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 13 Pro How to Unlock a Disabled Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixing-compatibility-startech-drivers-for-windows-operating-systems-windows-1087/"><u>Fixing Compatibility: StarTech Drivers for Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-systems-face-off-consoles-against-pcs/"><u>Gaming Systems Face-Off: Consoles Against PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-through-installing-discord-app-on-mac-easily/"><u>Navigate Through Installing Discord App on Mac Easily</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-editing-software-for-beginners-2022-top-list/"><u>New Best Video Editing Software for Beginners 2022 Top List</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-past-perfection-4-motivations-to-improve-xbox-rewards/"><u>Pushing Past Perfection: 4 Motivations to Improve Xbox Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-cost-of-ps5-after-supply-recovers/"><u>The Future Cost of PS5 After Supply Recovers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-tutorial-using-vlc-player-to-open-and-view-iso-files/"><u>The Ultimate Tutorial: Using VLC Player to Open and View ISO Files</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-insider-tips-mastering-the-world-of-computing-hardware/"><u>Tom's Insider Tips: Mastering the World of Computing Hardware</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-explainer-video-creation-made-easy-top-picks-for-2024/"><u>Updated Explainer Video Creation Made Easy Top Picks for 2024</u></a></li>
 </ul></div>
 

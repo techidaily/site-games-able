@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Multilingual Mastery: How Roblox's Latest AI Chat Translation Breakthrough Spans 16 Languages - Insights From ZDNet"
-date: 2024-09-17 19:18:17
-updated: 2024-09-20 12:22:13
+date: 2024-10-16T16:27:23.033Z
+updated: 2024-10-19T09:45:30.529Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,19 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +102,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,29 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/approved-craftsmanship-in-marvellous-marvel-creation/"><u>2024 Approved Craftsmanship in Marvellous Marvel Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-edge-40-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Edge 40 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-performance-asus-rog-ally-vs-steam-deck-review/"><u>Evaluating Performance: ASUS ROG Ally Vs. Steam Deck Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-epic-games-library-when-it-doesnt-show-your-games/"><u>How to Fix the Epic Games Library When It Doesn’t Show Your Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 13 and iPad</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-the-craft-of-epic-gopro-time-lapse-video/"><u>In 2024, Mastering the Craft of Epic GoPro Time Lapse Video</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-step-by-step-reversing-video-order-on-vlc-platform/"><u>In 2024, Step-by-Step Reversing Video Order on VLC Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/protect-yourself-from-facebook-messenger-threats-essential-safety-tips/"><u>Protect Yourself From Facebook Messenger Threats: Essential Safety Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/running-android-games-with-linux-support/"><u>Running Android Games with Linux Support</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-getting-world-of-warcraft-up-and-running-on-windows/"><u>Solution Steps: Getting World of Warcraft Up and Running on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-2500-giant-raider-ge78s-desktop-clash/"><u>The $2500 Giant: Raider GE78's Desktop Clash</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-assist-controller-on-ps5-your-key-to-better-gaming/"><u>The Assist Controller on PS5 - Your Key to Better Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwanted-wattage-excessive-gpu-power/"><u>Unwanted Wattage: Excessive GPU Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-defines-a-game-displays-dual-capability/"><u>What Defines a Game Display's Dual Capability?</u></a></li>
+</ul></div>
+

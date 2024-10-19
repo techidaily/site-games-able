@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Network Nebula: Find Online Players"
-date: 2024-10-05T22:39:27.020Z
-updated: 2024-10-13T13:54:02.155Z
+date: 2024-10-15T02:05:22.189Z
+updated: 2024-10-19T13:11:47.628Z
 tags:
   - games
 categories:
@@ -53,22 +53,15 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 ![A screenshot of the Gamerscore Leaderboard on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3160-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Look through the rankings of you and your friends, looking for an offline friend who has been consistently earning Gamerscore.
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
@@ -81,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 * Find and select the friend you want to check and choose**See full profile** .
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
@@ -110,18 +96,32 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
@@ -144,17 +144,18 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-thoroughly-reviewed-chilled-treats-screenshot-capture/"><u>[New] Thoroughly Reviewed Chilled Treats Screenshot Capture</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-link-and-leverage-your-fb-story-for-greater-impact/"><u>[Updated] 2024 Approved Link & Leverage Your FB Story for Greater Impact</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-zooming-in-closer-expert-tips-for-roblox-enthusiasts/"><u>[Updated] In 2024, Zooming In Closer Expert Tips for Roblox Enthusiasts</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/acurites-pro-01036m-weather-station-user-friendly-setup-and-resilient-design-unveiled-in-review/"><u>AcuRite's Pro 01036M Weather Station – User Friendly Setup & Resilient Design Unveiled in Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/cheap-gaming-conquered-top-11-websites-for-low-cost-games/"><u>Cheap Gaming Conquered: Top 11 Websites for Low-Cost Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-management-of-multiple-xbox-subscriptions-in-a-single-console/"><u>Effective Management of Multiple Xbox Subscriptions in a Single Console</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-nba-live-your-ultimate-guide-to-15-streaming-methods/"><u>In 2024, NBA Live Your Ultimate Guide to 15 Streaming Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-forces-4-ai-powered-mystery-challenges/"><u>Join Forces: 4 AI-Powered Mystery Challenges</u></a></li>
-<li><a href="https://games-able.techidaily.com/safeguarding-your-playstation-5-games-with-a-passcode/"><u>Safeguarding Your PlayStation 5 Games with a Passcode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-inputstream-adaptive-with-kodis-matrix-and-leia-addons/"><u>Step-by-Step Guide: Setting up InputStream Adaptive with Kodi's Matrix & Leia Addons</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/usc-enhances-cancer-registry-efficiency-using-abbyy-technology-for-accurate-health-data-management/"><u>USC Enhances Cancer Registry Efficiency Using ABBYY Technology for Accurate Health Data Management</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-virtual-journey-logging-top-6-methods-for-minecraft-recordings/"><u>[New] 2024 Approved Virtual Journey Logging Top 6 Methods for Minecraft Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-5-free-video-players-vlc-or-mpc-winner-in-2024/"><u>[New] Top 5 Free Video Players VLC or MPC Winner, In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-gopro-video-faceoff-expert-review-of-max-360-and-hero-11-capabilities/"><u>[Updated] 2024 Approved GoPro Video Faceoff Expert Review of Max 360 & Hero 11 Capabilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/catch-the-hottest-sales-on-oneplus-gadgets-this-prime-day-sale/"><u>Catch the Hottest Sales on OnePlus Gadgets This Prime Day Sale</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-steam-game-repository/"><u>Hidden Steam Game Repository</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-nullify-and-receive-your-money-back-on-fortnite-spendings/"><u>How to Nullify and Receive Your Money Back on Fortnite Spendings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turn-video-to-sound-youtube-to-mp3-with-appleos/"><u>In 2024, Turn Video to Sound YouTube to MP3 with AppleOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-switch-games-on-a-mac/"><u>Journey Through Switch Games on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-segas-past-dreamcast-reworked-for-android/"><u>Jump Into Sega's Past: Dreamcast Reworked for Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ais-influence-ethical-considerations-in-content-creation/"><u>Navigating AI's Influence: Ethical Considerations in Content Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-ps5-movie-magic-unveiled/"><u>Sony PS5 Movie Magic Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolutionary-tale-of-foddian-titles/"><u>The Evolutionary Tale of Foddian Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042 – A Step-by-Step Guide</u></a></li>
 </ul></div>
 

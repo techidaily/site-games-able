@@ -1,7 +1,7 @@
 ---
 title: "Top President's Day Blowout Discounts Alive: Exclusive Offers at Amazon, Walmart & Best Buy"
-date: 2024-09-18 17:55:46
-updated: 2024-09-20 12:10:59
+date: 2024-10-18T07:05:22.627Z
+updated: 2024-10-19T00:36:41.474Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -50,6 +57,13 @@ Before you begin, power off the PS5 and unplug the power cable, HDMI, and anythi
 To gain access to the SSD slot, you'll need to remove the back cover. If you have it positioned face down and the back of the console facing you, lift up on the front right corner and slide to the left. Once it's off, set the panel to the side. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove the expansion slot cover
 
@@ -71,11 +85,31 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +154,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-how-to-stream-google-meet-to-youtube-step-by-step-guide/"><u>[New] 2024 Approved How To Stream Google Meet to YouTube [Step-by-Step Guide]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-expert-tips-on-producing-high-quality-facebook-video/"><u>[New] In 2024, Expert Tips on Producing High-Quality Facebook Video</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-morphvox-transformation-tactics-for-professionals/"><u>2024 Approved MorphVOX Transformation Tactics for Professionals</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725285366730-dvdmp4/"><u>如何将DVD文件成功转化为MP4格式 - 专家推荐的最佳转换工具</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027026691-1080p/"><u>無料で高解像度(1080P)フルシーン動画が見られる！美術館・博物館・アニメ等、あなたが好きな映画をダウンロード!</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-where-to-find-steam-captured-artifacts/"><u>Deciphering Where to Find Steam Captured Artifacts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-xs-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone XS Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-asus-rog-allys-finest-docks/"><u>Explore ASUS ROG Ally's Finest Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-reaction-time-with-optimal-mouse-settings/"><u>Increase Reaction Time with Optimal Mouse Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-resolving-windows-steam-server-error/"><u>Methods for Resolving Windows Steam Server Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-android-with-ease-button-mapping-essentials/"><u>Navigating Android with Ease: Button Mapping Essentials</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-google-plays-best-of-the-best-top-android-apps/"><u>New In 2024, Google Plays Best of the Best Top Android Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchat-for-mac-users-install-and-enjoy/"><u>Snapchat for MAC Users - Install and Enjoy</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-game-passs-features-and-benefits/"><u>Understanding Xbox Game Pass's Features & Benefits</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/44oh44kj44k544kv44gu44kv44oq44o844oz44ki44od44ox5b6m44gr5asx44kp44km44gf5oof5acx44ks5zue5b6p44gz44kl44kz44oe/"><u>ディスクのクリーンアップ後に失われた情報を回復するコツ</u></a></li>
+</ul></div>
+

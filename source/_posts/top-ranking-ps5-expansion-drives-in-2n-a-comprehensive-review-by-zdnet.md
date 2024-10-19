@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranking PS5 Expansion Drives in 2N: A Comprehensive Review by ZDNet"
-date: 2024-09-18 17:10:31
-updated: 2024-09-20 12:47:12
+date: 2024-10-15T02:16:41.750Z
+updated: 2024-10-19T06:48:55.463Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-efficient-look-up-table-techniques-for-movies/"><u>[New] Efficient Look-Up Table Techniques for Movies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[Updated] Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-are-thoughtful-analyses-monetarily-rewarded/"><u>2024 Approved Are Thoughtful Analyses Monetarily Rewarded?</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-and-rectifying-steam-auth-delays-in-rust-games/"><u>Deciphering & Rectifying Steam Auth Delays in Rust Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-converter-transform-flv-files-into-high-quality-mp3s-with-ease/"><u>Free Online Converter: Transform FLV Files Into High-Quality MP3s with Ease</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-editortech-examination-visualflow-pro-the-complete-guide/"><u>In 2024, EditorTech Examination VisualFlow Pro, The Complete Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-to-the-lands-of-java-miners-methodology/"><u>Journey to the Lands of Java: Miners' Methodology</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-2024-highlights-and-hits-makeuseof-top-picks/"><u>MWC 2024 Highlights & Hits: MakeUseOf Top Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-common-steam-issues-in-windows-11/"><u>Overcoming Common Steam Issues in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-remote-work-fast-and-memory-friendly/"><u>Revitalizing Remote Work: Fast and Memory-Friendly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/stay-protected-from-phishing-expert-tips-and-tricks-for-recognizing-scam-emails/"><u>Stay Protected From Phishing: Expert Tips and Tricks for Recognizing Scam Emails</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-to-windows-a-step-by-step-walkthrough/"><u>Steam Deck to Windows: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/universal-gaming-shift-xbox-zones-and-time-change/"><u>Universal Gaming Shift: Xbox Zones & Time Change</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/unlocking-the-secrets-of-high-efficiency-video-coding-hevch265-enable-smooth-x265-media-playback-on-windows-10-systems/"><u>Unlocking the Secrets of High-Efficiency Video Coding (HEVC/H.265): Enable Smooth X265 Media Playback on Windows 10 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/wi-fi-woes-7-easy-to-follow-solutions-for-playstation-4-users/"><u>Wi-Fi Woes? 7 Easy-to-Follow Solutions for PlayStation 4 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-0x8007045d-an-effective-resolution-blueprint/"><u>Win11's 0X8007045D: An Effective Resolution Blueprint</u></a></li>
+</ul></div>
+

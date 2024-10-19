@@ -1,7 +1,7 @@
 ---
 title: "Guaranteeing Every Game Count: Solving EGL Missing Titles Problems"
-date: 2024-09-15T20:59:40.819Z
-updated: 2024-09-21T02:10:41.578Z
+date: 2024-10-17T11:00:33.203Z
+updated: 2024-10-19T06:55:05.833Z
 tags:
   - games
 categories:
@@ -39,24 +39,31 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 
  Then, relaunch the app and check if all of your games are now showing within the library.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Log Out and Log In to Epic Game
 
  Another quick fix that you can try is to log out and log back in. This way, you force Epic Games Launcher to verify your account information and display your complete library. Also, make sure you’ve logged in using the right account.
 
  If there’s someone else with an Epic Games account using the same device as you, you’ll see only the games purchased by their account.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check the Game’s Availability
 
  As you may know, you can[get free games on the Epic Games store](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) . Besides its permanent free games catalog, you can get a new free game every week. However, not every free game is yours forever.
 
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -77,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -94,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
 5. Relaunch Epic Games and check if the problem is now solved.
 
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
 
@@ -119,5 +126,19 @@ thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-classic-rogelikes-vs-roguelites-dynamics-for-2024/"><u>[New] Classic Rogelikes Vs. Roguelites' Dynamics for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-viral-vault-finns-financial-findings-for-2024/"><u>[New] Viral Vault Finn's Financial Findings for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-motorola-g54-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Motorola G54 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-process-behind-xbox-cloud-games/"><u>Discovering the Process Behind Xbox Cloud Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s23-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S23 Ultra Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-looking-gopro-videos-without-shakiness/"><u>Professional-Looking GoPro Videos without Shakiness</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-joystick-jamming-troubleshooting-tips-you-need/"><u>PS4 Joystick Jamming? Troubleshooting Tips You Need</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguard-meets-style-leading-2024-steam-deck-cases/"><u>Safeguard Meets Style: Leading 2024 Steam Deck Cases</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-trap-of-tricksy-traffic-instagrams-hidden-hazard/"><u>The Trap of Tricksy Traffic Instagram's Hidden Hazard</u></a></li>
+<li><a href="https://games-able.techidaily.com/tiny-tech-big-benefits-is-the-mini-pc-right-for-you/"><u>Tiny Tech, Big Benefits: Is the Mini PC Right for You?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/transforming-vision-into-visual-impact-on-tiktok-via-templates/"><u>Transforming Vision Into Visual Impact on TikTok via Templates</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-hdri-everything-you-need-to-know-about-hdri-for-2024/"><u>What Is HDRI? Everything You Need to Know About HDRI for 2024</u></a></li>
+</ul></div>
 

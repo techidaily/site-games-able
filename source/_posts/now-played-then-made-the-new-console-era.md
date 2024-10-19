@@ -1,7 +1,7 @@
 ---
 title: "Now Played, Then Made: The New Console Era"
-date: 2024-10-07T22:11:21.394Z
-updated: 2024-10-12T17:54:16.184Z
+date: 2024-10-14T12:23:19.786Z
+updated: 2024-10-19T12:29:41.756Z
 tags:
   - games
 categories:
@@ -440,10 +440,16 @@ Sixty SEGA classics under one roof
  For nostalgia fans and retro game enthusiasts, this mini console is a real treat. There are arguably a few classics missing from the list, and it certainly could have used an extra controller in this pack, especially with many two-player titles included. However, it’s an enjoyable walk down memory lane. And once that second controller has been procured, it provides a great way to settle old scores, and set new ones!
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Finding the Right Retro Console for You
@@ -465,16 +471,10 @@ Sixty SEGA classics under one roof
 ![Switch OLED](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Switch-OLED.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best Overall
@@ -513,19 +513,24 @@ Best Overall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-conquer-the-social-scene-top-tools-for-post-and-follower-boost/"><u>[New] In 2024, Conquer the Social Scene Top Tools for Post and Follower Boost</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-bright-beginnings-on-youtube-launching-and-revenue-strategies/"><u>[Updated] Bright Beginnings on YouTube Launching and Revenue Strategies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-how-can-you-improve-zoom-video-resolution-quality-in-2024/"><u>[Updated] How Can You Improve Zoom Video Resolution Quality, In 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-unique-methods-for-playing-on-your-ps5-console/"><u>6 Unique Methods for Playing on Your PS5 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-reasons-to-rethink-mobile-game-advantages/"><u>7 Reasons to Rethink Mobile Game Advantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-live-game-highlight-extraction/"><u>A Guide to Live Game Highlight Extraction</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-showcase-of-nintendos-finest-switch-docks/"><u>A Showcase of Nintendo's Finest Switch Docks</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-game-preorder-limited-marvels-spidey-ps5/"><u>Ace the Game - Preorder Limited Marvel's Spidey PS5</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-m34-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy M34</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convert-your-wmv-videos-to-portable-3g2-format-at-no-cost-with-movavi/"><u>Convert Your WMV Videos to Portable 3G2 Format at No Cost with Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-locating-and-unveiling-your-personalized-melodic-repository-on-youtube/"><u>In 2024, Locating and Unveiling Your Personalized Melodic Repository on Youtube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximize-creativity-with-top-10-cost-free-photo-editors-online/"><u>Maximize Creativity with Top 10 Cost-Free Photo Editors Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-instructions-for-incorporating-custom-gifs-and-icons-into-your-story-posts-on-instagram/"><u>Step-by-Step Instructions for Incorporating Custom GIFS & Icons Into Your Story Posts on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-4-top-ranked-ways-to-grab-your-chromebook-screen-shot/"><u>[New] 4 Top-Ranked Ways To Grab Your Chromebook Screen Shot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-animation-solutions-with-advanced-3d-modellers/"><u>[New] Innovative Animation Solutions with Advanced 3D Modellers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Steam Keeps Crashing | Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-key-to-professional-filming-without-spending-free-lessons-from-the-best-in-green-screen-artistry/"><u>[Updated] 2024 Approved The Key to Professional Filming Without Spending Free Lessons From the Best in Green Screen Artistry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-guide-to-claude-3-features/"><u>A Comprehensive Guide to Claude 3 Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/capture-more-than-memories-adding-fun-filters-to-snaps-for-2024/"><u>Capture More Than Memories Adding Fun Filters to Snaps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-for-choosing-your-next-game-console/"><u>Essential Factors for Choosing Your Next Game Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-11-steam-disconnect-glitch/"><u>Fixing Windows 11 Steam Disconnect Glitch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-run-android-apps-and-games-on-linux/"><u>How to Run Android Apps and Games on Linux</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50-ultra-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50 Ultra to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restored-unwavering-light-on-laptop-screen/"><u>Restored Unwavering Light on Laptop Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/starforge-voyager-creator-is-this-custom-gaming-pc-brand-worth-checking-out/"><u>Starforge Voyager Creator: Is This Custom Gaming PC Brand Worth Checking Out?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insider-guide-to-changing-gamer-identities-on-riot-platforms/"><u>The Insider Guide to Changing Gamer Identities on Riot Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-android-setup-for-dreamcast-games-lovers/"><u>The Perfect Android Setup for Dreamcast Games Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upsurge-of-infiltration-in-game-realms/"><u>The Upsurge of Infiltration in Game Realms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Camon 20 Premier 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-pc-potential-with-4-major-upgrades-from-corsairs-icue-link/"><u>Unleash PC Potential with 4 Major Upgrades From Corsair's iCUE Link</u></a></li>
 </ul></div>
 

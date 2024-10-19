@@ -1,7 +1,7 @@
 ---
 title: Remedy for Games Ignored by Steam System
-date: 2024-10-06T22:57:49.442Z
-updated: 2024-10-12T23:48:30.139Z
+date: 2024-10-17T11:57:41.452Z
+updated: 2024-10-19T09:31:34.701Z
 tags:
   - games
 categories:
@@ -47,16 +47,24 @@ C:\Program Files (x86)\Steam\steamapps\common
 3. If yes, Launch the Steam desktop app and log in if the session has expired.  
 ![exit family view steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-family-view-steam.jpg)
 4. Next, make sure you are not in**Family View** . To do this, click the**Family View** icon in the top right corner of the screen and enter your**PIN** to exit Family View.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, open the**Library** tab in the top left corner. It lists all the games that you own and installed on your PC.
 6. Click on the affected game and then click the**Install** button.  
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
 7. As Steam begins to install the game, it will likely recognize the existing files and complete the installation without downloading the game files all again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Add an Existing Installation Folder
@@ -70,39 +78,19 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-settings.jpg)
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select**Add Drive** from the drop-down options.  
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
 6. Click the drop-down in**Add a New Steam Library Folder** dialog, and select the**Let me choose another location** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
 7. Next, click the**Add** button.
@@ -123,18 +111,19 @@ C:\Program Files (x86)\Steam\steamapps\common
 4. Click the**Install** button, select the installation directory and click**Finish** .  
 ![steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-install-counter-strike.jpg)
 5. Next, hover your cursor over the**Library** tab and select**Download** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![pause steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/pause-steam-install-counter-strike.jpg)
 
 1. Click the**Pause** button to pause the download for the affected game.  
 ![exit steam jpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-steam-jpg.jpg)
 2. Next, click on**Steam** (in the top left corner) and select**Exit** . It is important to exit the Steam client. If you close the app without exiting, you won't be able to make the necessary changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Press**Win + E** to open File Explorer and navigate to the following location:  
 C:\Program Files (x86)\Steam\steamapps\
@@ -148,6 +137,13 @@ C:\Program Files (x86)\Steam\steamapps\
 4. Next, move the**appmanifest\_appid.acf** file back to the steamapps folder at**C:\\Program Files (x86)\\Steam\\steamapps\\** .  
 ![Steam install counter strike after moving acf file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Steam-install-counter-strike-after-moving-acf-file.jpg)
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Steam Recognize Installed Games
 
@@ -170,24 +166,24 @@ C:\Program Files (x86)\Steam\steamapps\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-best-cameras-for-pixel-art-animation/"><u>[New] Best Cameras for Pixel Art Animation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-guide-to-premium-free-phone-video-chat-apps-iosandroid/"><u>[New] Essential Guide to Premium-Free Phone Video Chat Apps - iOS/Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-secrets-of-successful-twitch-stream-capturing/"><u>[Updated] In 2024, Secrets of Successful Twitch Stream Capturing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-story-remix-to-edit-a-video-in-windows-11-photos/"><u>2024 Approved How to Use Story Remix to Edit a Video in Windows 11 Photos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users/"><u>2024 Approved Review of Syma X5C – The Ultimate Drone Guide for New Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-cost-dynamics-in-game-purchases-on-steam/"><u>Analyzing the Cost Dynamics in Game Purchases on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-game-mode-revolutionizing-mac-gaming-on-sonoma-os/"><u>Apple’s Game Mode – Revolutionizing Mac Gaming on Sonoma OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-ps5-intermittent-connection-issues/"><u>Combatting PS5 Intermittent Connection Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/diagnosing-and-solving-gpu-induced-image-droop/"><u>Diagnosing & Solving GPU-Induced Image Droop</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-silver-to-core-xbox-live-gold-upgrade/"><u>From Silver to Core: Xbox Live Gold Upgrade</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-edge-40-neo-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Edge 40 Neo Phones with/without a PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-7-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 7 to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-itel-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Itel Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/psps-golden-age-delivered-via-your-iphone/"><u>PSP's Golden Age, Delivered via Your iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-gamer-inputs/"><u>The Definitive Guide to Gamer Inputs</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-11-websites-for-price-conscious-gamers-to-buy-games/"><u>Top 11 Websites for Price-Conscious Gamers to Buy Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/twin-victories-uncovering-the-hottest-two-player-phonesports-top-15/"><u>Twin Victories: Uncovering the Hottest Two-Player Phonesports (Top 15)</u></a></li>
-<li><a href="https://win-forum.techidaily.com/windows-latest-patch-introduces-more-bsod-troubles-for-users-systems/"><u>Windows Latest Patch Introduces More BSOD Troubles for Users' Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/winkling-typefaces-the-essence-of-bouncy-text-for-2024/"><u>[New] Twinkling Typefaces The Essence of Bouncy Text for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlocking-idevice-screen-playback-perfection/"><u>[Updated] 2024 Approved Unlocking iDevice Screen Playback Perfection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/curating-cinema-lists-through-chatgpt-dialogues/"><u>Curating Cinema Lists Through ChatGPT Dialogues</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-7-myths-the-limited-value-of-ray-tracing/"><u>Debunking 7 Myths: The Limited Value of Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023s-gaming-hardware-roundup-what-to-expect/"><u>IFA 2023'S Gaming Hardware Roundup – What to Expect?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifas-new-tech-pushing-the-boundaries-in-gaming-hardware/"><u>IFA's New Tech: Pushing the Boundaries in Gaming Hardware</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-12-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 12</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>In 2024, Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-v30-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo V30 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-7s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 7s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/incorporating-safety-in-family-steam-playtime/"><u>Incorporating Safety in Family Steam Playtime</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-elements-in-selecting-a-portable-gaming-device/"><u>Key Elements in Selecting a Portable Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-shooter-skills-with-perfect-mouse-sensitivity/"><u>Maximizing Your Shooter Skills with Perfect Mouse Sensitivity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photoshop-tutorial-creating-3d-text-illusions-for-2024/"><u>Photoshop Tutorial Creating 3D Text Illusions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-steam-image-management/"><u>Simplifying Steam Image Management</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribers-sorrow-the-missing-manual-for-gamers/"><u>Subscriber's Sorrow: The Missing Manual for Gamers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-leading-list-where-to-find-gamers-music-without-costs/"><u>The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-8-lite-virtual-platforms-android-on-pcmac/"><u>Ultimate 8 Lite Virtual Platforms: Android on PC/Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-digital-acknowledgements-recognizing-when-your-text-messages-are-read/"><u>Understanding Digital Acknowledgements: Recognizing when Your Text Messages Are Read</u></a></li>
 </ul></div>
 

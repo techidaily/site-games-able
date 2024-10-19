@@ -1,7 +1,7 @@
 ---
 title: Mending PS4 Controller's Loose Link to Windows System
-date: 2024-10-07T10:52:13.631Z
-updated: 2024-10-13T13:23:48.632Z
+date: 2024-10-13T08:31:42.609Z
+updated: 2024-10-18T17:21:00.508Z
 tags:
   - games
 categories:
@@ -29,16 +29,16 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Port Issues
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
@@ -52,20 +52,13 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend[running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Hard Reset Your Controller
@@ -73,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
  It could also be that your controller has suffered a temporary glitch, and you can fix it with a hard reset. To do that, grab a pointy and thin object, such as a straightened paper clip or toothpick, and insert it into the small hole at the back of your DS4 controller (it's below the Left Trigger button). Push it until you press the**Reset** button, hold it for about five seconds, and then let go.
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
 
@@ -91,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
@@ -118,24 +118,17 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-explore-the-most-economical-video-conference-software-best-10-recommendations-for-business-and-education/"><u>[New] 2024 Approved Explore the Most Economical Video Conference Software Best 10 Recommendations for Business & Education</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-decoding-editing-excellence-can-pickup-outshine-the-competition-on-android/"><u>[Updated] 2024 Approved Decoding Editing Excellence Can PickUp Outshine the Competition on Android?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-5-best-gba-emulators-for-pc-that-hook-you-up/"><u>[Updated] 5 Best GBA Emulators for PC That Hook You Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/audio-integration-playstation-5-plus-wireless-headphones/"><u>Audio Integration: PlayStation 5 + Wireless Headphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-pc-excellence-and-control-4-strong-points-in-corsairs-icue-link/"><u>Elevate PC Excellence and Control: 4 Strong Points in Corsair’s iCUE Link</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-lost-location-pokemon-go-fix-guide/"><u>Finding Lost Location: Pokémon GO Fix Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-your-broadcom-ethernet-connection-on-windows-10-latest-drivers-downloaded-and-installed/"><u>Fixing Your Broadcom Ethernet Connection on Windows 10: Latest Drivers Downloaded and Installed</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-close-up-power-in-videoleap-zooming-made-easy/"><u>In 2024, Close-Up Power in VideoLeap Zooming Made Easy</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximizing-connectivity-on-a-budget-with-the-tp-link-archer-c50-a-users-guide/"><u>Maximizing Connectivity on a Budget with the TP-LInk Archer C50 - A User's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-gaming-mouse-logitechs-innovation/"><u>Next Gen Gaming Mouse - Logitech's Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-earbuds-for-switch-titles/"><u>Premium Earbuds for Switch Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconnect-your-controller-windows-xpxbox-failsafe/"><u>Reconnect Your Controller: Windows XPXbox Failsafe</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stabilizing-windows-card-drivers-no-more-mc-hangs/"><u>Stabilizing Windows Card Drivers, No More MC Hangs</u></a></li>
-<li><a href="https://games-able.techidaily.com/techniques-to-secure-your-kids-online-interactions-on-discord/"><u>Techniques to Secure Your Kid's Online Interactions on Discord</u></a></li>
-<li><a href="https://win-blog.techidaily.com/total-war-saga-troy-bust-through-pc-game-crash-barriers-with-our-expert-fixes/"><u>Total War Saga: Troy - Bust Through Pc Game Crash Barriers with Our Expert Fixes!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-mystery-foddians-beginnings/"><u>Unraveling the Mystery: Foddian's Beginnings</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-top-virtualdub-replacements-for-video-editing-enthusiasts-and-pros/"><u>Updated The Top Virtualdub Replacements for Video Editing Enthusiasts and Pros</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-generated-text-for-2024/"><u>Updated What Is AI Generated Text for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-amds-new-fsr-3-overtake-nvidias-advanced-dlss-tech/"><u>Will AMD's New FSR 3 Overtake NVIDIA’s Advanced DLSS Tech?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stitching-pictures-and-chords-into-compelling-narratives/"><u>[New] Stitching Pictures & Chords Into Compelling Narratives</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-facebooks-in-app-video-preferences/"><u>[Updated] 2024 Approved Unlocking Facebook's In-App Video Preferences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-infusing-your-reels-with-soundscape-elements/"><u>2024 Approved Infusing Your Reels with Soundscape Elements</u></a></li>
+<li><a href="https://games-able.techidaily.com/constructing-infinite-realms-a-look-at-video-game-worlds/"><u>Constructing Infinite Realms: A Look at Video Game Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-retro-gaming-like-never-before-with-steam-deck-plus-emudeck/"><u>Experience Retro Gaming Like Never Before with Steam Deck + EmuDeck</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-how-to-clear-your-iphones-memory-thoroughly/"><u>Expert Tips on How to Clear Your iPhone's Memory Thoroughly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-nubia-red-magic-9-proplus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Nubia Red Magic 9 Pro+ Data? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-ps5-vs-slimmer-a-technological-shift/"><u>Old PS5 Vs. Slimmer: A Technological Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotlight-on-the-best-leds-of-2024/"><u>Spotlight on the Best LEDs of 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted-for-2024/"><u>The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-picks-unbeatable-headphone-offers-in-march-2023-zdnet/"><u>Top Picks: Unbeatable Headphone Offers in March 2023 | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-price-maximum-joy-your-switch-companion/"><u>Zero Price, Maximum Joy - Your Switch Companion</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unwanted Wattage: Excessive GPU Power"
-date: 2024-10-05T17:05:24.657Z
-updated: 2024-10-12T17:24:31.094Z
+date: 2024-10-17T04:21:04.742Z
+updated: 2024-10-18T17:38:21.182Z
 tags:
   - games
 categories:
@@ -28,16 +28,16 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
 
@@ -47,35 +47,22 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Higher Operating Temperature
 
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
 
  This isn't a major issue if you have a triple-fan GPU with massive heatsinks or if it's liquid-cooled. My RTX 4090 is a liquid-cooled AIO unit with a 360mm radiator. So, for me personally, this is the least of my problems.
 
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Screen Flickering
 
@@ -86,15 +73,28 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
 
@@ -119,24 +119,22 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-dji-innovation-in-aviation-mavic-pro-deep-dive/"><u>[New] DJI Innovation in Aviation Mavic Pro Deep Dive</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-free-music-for-videos-finding-the-right-sources/"><u>[Updated] 2024 Approved Free Music for Videos Finding the Right Sources</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-initiate-your-facebook-analysis-journey/"><u>[Updated] 2024 Approved Initiate Your Facebook Analysis Journey</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-mastering-iphoneipad-premium-podcast-recording-tips/"><u>[Updated] In 2024, Mastering iPhone/iPad Premium Podcast Recording Tips</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-insta-marketing-mastery-crafting-viral-video-campaigns-on-social-media-for-2024/"><u>[Updated] Insta-Marketing Mastery Crafting Viral Video Campaigns on Social Media for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-sims-chronicles-uncut-expert-techniques-to-preserve-the-heart-of-your-gaming-life-in-sims-4/"><u>2024 Approved Sims Chronicles Uncut Expert Techniques to Preserve the Heart of Your Gaming Life in Sims 4</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-in-game-console-reimbursements/"><u>Avoiding Common Pitfalls in Game Console Reimbursements</u></a></li>
-<li><a href="https://games-able.techidaily.com/ea-plays-costly-hike-subscription-is-over-for-me/"><u>EA Play’s Costly Hike, Subscription Is Over for Me</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-performance-with-quick-download-of-new-amd-ryzen-5-n-2600-graphics-card-get-the-latest-updates-today/"><u>Enhance Performance with Quick Download of New AMD Ryzen 5 N 2600 Graphics Card - Get the Latest Updates Today</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination-for-2024/"><u>From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/groundbreaking-gradients-adobes-best-lut-choices-to-boost-your-lightroom-work-for-2024/"><u>Groundbreaking Gradients Adobe's Best LUT Choices to Boost Your LightRoom Work for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-repair-an-xbox-one-when-no-picture-appears/"><u>How to Repair an Xbox One When No Picture Appears</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconnecting-steps-for-windows-to-solve-ps4-controller-dropping-out/"><u>Reconnecting: Steps for Windows to Solve PS4 Controller Dropping Out</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-controller-syncing-for-android-phonestablets/"><u>Seamless Controller Syncing for Android Phones/Tablets</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-ultimate-visual-experience-big-picture/"><u>Steam’s Ultimate Visual Experience: Big Picture</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-storage-challenges-in-steam-games/"><u>Tackling Storage Challenges in Steam Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-game-changer-essential-nintendo-switch-customizations/"><u>The Game Changer: Essential Nintendo Switch Customizations</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-affordable-gaming-list-top-11-sites-of-the-season/"><u>The Ultimate Affordable Gaming List: Top 11 Sites of the Season</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-6-diverse-titles-for-broadcasters-gameplay/"><u>Top 6 Diverse Titles for Broadcasters' Gameplay</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-globalscreen-top-ranked-local-and-live-tv-streams/"><u>[New] 2024 Approved GlobalScreen Top-Ranked Local & Live TV Streams</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enhancing-switch-gaming-with-top-cards/"><u>[New] In 2024, Enhancing Switch Gaming with Top Cards</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premium-multi-device-video-talks-solutions/"><u>[New] In 2024, Premium Multi-Device Video Talks Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-what-is-virtual-reality-headset-for-2024/"><u>[Updated] What Is Virtual Reality Headset for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-blaze-2-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Blaze 2 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-motherboards-geared-towards-gaming/"><u>Economical Motherboards Geared Towards Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-unseen-hazards-in-linkedins-new-gaming-section/"><u>Explore the Unseen Hazards in LinkedIn’s New Gaming Section</u></a></li>
+<li><a href="https://games-able.techidaily.com/four-witty-comic-exchange-games-for-friendship-delight/"><u>Four Witty Comic Exchange Games for Friendship Delight</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-mastery-with-steam-heres-how-top-9-advantages-to-know/"><u>Gaming Mastery with Steam (Here's How): Top 9 Advantages to Know</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/how-to-correct-your-dvds-incorrect-display-settings-with-our-thorough-guide/"><u>How to Correct Your DVD's Incorrect Display Settings with Our Thorough Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-battle-royale-iphone-and-fortnite-with-geforce-now/"><u>Navigating the Battle Royale: IPhone & Fortnite with GeForce Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-playstation-5-game-storage/"><u>Optimize Your PlayStation 5 Game Storage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/outro-optimization-making-lasting-impacts-for-2024/"><u>Outro Optimization Making Lasting Impacts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/seamless-video-sharing-from-youtube-to-fb-for-2024/"><u>Seamless Video Sharing From YouTube to FB for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-assist-unveiled-the-key-to-flawless-gameplay/"><u>Stream Assist Unveiled: The Key to Flawless Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-full-potential-boosting-ps4-power-levels/"><u>Unlock Full Potential: Boosting PS4 Power Levels</u></a></li>
 </ul></div>
 

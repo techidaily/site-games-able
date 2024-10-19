@@ -1,7 +1,7 @@
 ---
 title: Connecting PS5 to a Previous Generational Console?
-date: 2024-10-10T01:53:19.652Z
-updated: 2024-10-13T05:19:34.207Z
+date: 2024-10-16T16:34:28.294Z
+updated: 2024-10-19T13:20:14.047Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
@@ -48,18 +48,19 @@ Here’s how to do that:
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
 ![signing in to the ps remote play app on pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sign-in-ps-remote-play-pc.jpg)
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
 6. Enjoy your game.
 
  The PS5 controller will now work on your PS4, but if you unplug it from your computer, it will lose the connection. Keep it plugged in at all times.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
 
@@ -73,16 +74,23 @@ Here’s how to do that:
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
@@ -91,13 +99,6 @@ Close
  Once you purchase the Titan Two, all you have to do is plug it into your PS4 console and then plug in your DualSense into the adapter using a USB-C cable.
 
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use the DualSense Controller on PS4 the Hard Way
 
@@ -120,16 +121,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-all-star-software-selecting-best-bdr-players-for-pcmac/"><u>[New] All-Star Software Selecting Best BDR Players for PC/Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-hype-is-nvidias-new-game-service-practical/"><u>Beyond Hype - Is Nvidia’s New Game Service Practical?</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-tv-uncover-fallouts-video-games-worldwide/"><u>Beyond TV: Uncover Fallout's Video Games Worldwide</u></a></li>
-<li><a href="https://games-able.techidaily.com/bluetooth-harmony-with-ps5-gaming-setup/"><u>Bluetooth Harmony with PS5 Gaming Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/change-background-on-playstation-5-console/"><u>Change Background on PlayStation 5 Console</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-microsoft-office-appearance-with-a-simple-step-by-step-guide-on-changing-themes-and-colors/"><u>Customizing Microsoft Office Appearance with a Simple Step-by-Step Guide on Changing Themes and Colors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nubia-red-magic-9-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nubia Red Magic 9 Pro+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-for-prolonging-gopros-energy-stamina/"><u>In 2024, Tips for Prolonging GoPro's Energy Stamina</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/is-insta-snap-verification-worth-it/"><u>Is Insta-Snap Verification Worth It?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stepwise-guide-to-uploading-and-livestreaming-video-recordings-for-2024/"><u>Stepwise Guide to Uploading and Livestreaming Video Recordings for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>[New] 2024 Approved Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-affordable-tools-the-10-free-screen-sharing-platforms-for-2024/"><u>[New] Best Affordable Tools The 10 Free Screen Sharing Platforms for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-discovering-the-details-a-guide-to-roblox-closeups/"><u>[New] Discovering the Details A Guide to Roblox Closeups</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-mastering-screenplay-essential-dialogue-techniques/"><u>[New] Mastering Screenplay Essential Dialogue Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-productivity-as-a-freelance-writer-with-chatgpt-tools/"><u>Enhancing Productivity as a Freelance Writer with ChatGPT Tools</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-the-excellence-of-stellar-file-wiping-software-windows-standard-edition-for-efficiently-clearing-digital-clutter/"><u>Experience the Excellence of Stellar File Wiping Software - Windows Standard Edition for Efficiently Clearing Digital Clutter</u></a></li>
+<li><a href="https://games-able.techidaily.com/indulge-in-off-line-play-with-these-11-favorite-phone-games/"><u>Indulge in Off-Line Play with These 11 Favorite Phone Games</u></a></li>
+<li><a href="https://driver-install.techidaily.com/next-gen-speaker-suite-amds-offering/"><u>Next-Gen Speaker Suite - AMD's Offering</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-charger-accessories-for-sonys-ps5-dualsense/"><u>Next-Level Charger Accessories for Sony's PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-usb-power-fluctuation/"><u>Reverse USB Power Fluctuation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-mac-cleaner-pro-harness-the-power-of-automated-file-purging-with-version-5/"><u>Stellar Mac Cleaner Pro: Harness the Power of Automated File Purging with Version 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pdw4-a-hands-on-high-end-portable-pc/"><u>The PDW4: A Hands-On, High-End Portable PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-intriguing-attributes-of-todays-hit-games/"><u>Top Intriguing Attributes of Today’s Hit Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-guide-nier-replicant-remaster-wont-boot/"><u>Troubleshooting Guide: NieR Replicant Remaster Won't Boot</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Gamers' Guide: 6 Essentials Before Purchasing PS5"
-date: 2024-10-09T17:52:29.891Z
-updated: 2024-10-12T19:12:02.140Z
+date: 2024-10-13T12:06:51.682Z
+updated: 2024-10-19T10:37:09.631Z
 tags:
   - games
 categories:
@@ -28,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
  If you haven't picked up a PS5 yet, but are thinking about it, you should consider whether it's the right move for you. Here are several points to think about before you spend several hundred dollars on Sony's latest console.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Can You Afford the Total Cost of a PS5?
@@ -46,19 +52,6 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 
  Depending on how many extras you want to buy, the initial \~$450 price tag could quickly climb to hundreds more. To help offset this cost, you might consider[selling your PlayStation 4](https://www.makeuseof.com/sell-ps4-where-why-how-much/) and putting the cash towards a PlayStation 5, after considering...
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Are You Done Playing PlayStation 4 Games?
 
  The[PS4 is home to tons of great games](https://www.makeuseof.com/tag/best-ps4-exclusives/) . If you picked up the system partway through its lifespan, chances are that you haven't had a chance to play them all. Thus, you should consider whether you have PS4 games you still want to check out.
@@ -68,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
  Once you do upgrade, you'll be glad to know[the PlayStation 5 is backward-compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) with almost all PlayStation 4 games. You can use PS4 controllers to play PS4 games, and the PS5 also supports playing PS4 titles from an external drive. And while some PS4 games run slightly better on PS5, the difference isn't huge.
 
 ![PS5 Download PS4 Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/03-PS5-Download-PS4-Game.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're not in a rush to play certain PS5 games, you might as well finish your backlog on PS4\. With the PS5's limited SSD space, finishing them before you upgrade means less juggling of installed games.
 
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
  If the next entry in your favorite series is only coming to PS5, then you should get the newer console. It's up to you whether you should[upgrade for the superior PS5 version of cross-generational titles](https://www.makeuseof.com/reasons-wait-play-ps5-version-cross-gen-games/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. There Are Now Two Models of PS5
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
  Aside from the smaller size, the only other[notable improvement in the Slim PS5](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) is that the new model has 1TB of internal space compared to the 825GB in the original. Thus, if you decide to move forward with a PS5, it's a good idea to grab the new, Slim model. For around the same cost, you get a few improvements that will help you enjoy your console for years to come.
 
  Thankfully, the PS5's notorious stock issues have mostly cleared up as of this writing, so you shouldn't have much trouble getting your hands on one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Waiting May Get You Better Deals
 
@@ -120,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
  Both new Xbox consoles are backward-compatible with loads of Xbox One, Xbox 360, and original Xbox titles. If you're interested in bygone Xbox games, the new Xbox might be a better fit. And[Xbox Game Pass provides amazing value](https://www.makeuseof.com/reasons-to-get-xbox-game-pass/) with hundreds of high-quality games for a monthly cost, making it a selling point for both Xbox systems.
 
  Alternatively, you could[build a decent gaming PC](http://www.makeuseof.com/build-gaming-pc/) for the cost of a PlayStation 5, though you can put a lot more money into that project if you like. PC gaming has a lot of benefits, such as more control options, better graphical performance, and free multiplayer. If you're not sold on the PS5, perhaps this would be a good time to try PC gaming.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Carefully Consider Buying a PlayStation 5
 
@@ -142,20 +142,24 @@ thumbnail: https://thmb.techidaily.com/f68ad44dfce4596bff961c8c73128e503881dbfbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-inspiring-vistas-top-20-scenic-shots-for-social-media-success/"><u>[New] In 2024, Inspiring Vistas Top 20 Scenic Shots for Social Media Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-stunning-images-with-the-latest-iphone-camera-features/"><u>[New] In 2024, Stunning Images with the Latest iPhone Camera Features</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-zoom-companion-for-snapchat-enthusiasts/"><u>[New] The Ultimate Zoom Companion for Snapchat Enthusiasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-elevate-your-visuals-the-definitive-guide-to-zooming-with-videoleap/"><u>[Updated] In 2024, Elevate Your Visuals The Definitive Guide to Zooming With Videoleap</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-valorant-efficiency-addressing-windows-frames-per-second-lags/"><u>Boosting Valorant Efficiency: Addressing Windows Frames Per Second Lags</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/endnutzervertrage-und-lizenzen-von-digiarty-software-xdvd-angebotskonten/"><u>Endnutzerverträge Und Lizenzen Von Digiarty Software – XDVD Angebotskonten</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-unveils-its-ai-warrior-bard-aiming-to-challenge-chatgpt/"><u>Google Unveils Its AI Warrior 'Bard,' Aiming to Challenge ChatGPT</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>In 2024, How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/master-list-of-vimeo-video-capturers-for-2024/"><u>Master List of Vimeo Video Capturers for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/shedding-light-on-videography-excellence-for-2024/"><u>Shedding Light on Videography Excellence for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-cinema-experience-on-ps5/"><u>Streamline Your Cinema Experience on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-detailed-review-comparing-amds-rx-7800xt-with-7700xt-series/"><u>The Detailed Review: Comparing AMD's RX 7800XT with 7700XT Series</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-5-characteristics-of-high-performance-game-mice/"><u>The Ultimate 5 Characteristics of High-Performance Game Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-team-guide-to-split-screen-minecraft/"><u>The Ultimate Team Guide to Split-Screen Minecraft</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrading-iphone-for-immersive-gameplay-experience/"><u>Upgrading iPhone for Immersive Gameplay Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-quintessential-video-tools-for-perfecting-instagram-reels/"><u>[New] 2024 Approved Quintessential Video Tools for Perfecting Instagram Reels</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arryminati-financial-triumphs-with-ajey-nagar-for-2024/"><u>[New] CarryMinati Financial Triumphs with Ajey Nagar for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-soundtrack-of-successful-snapchat-stories/"><u>[New] The Soundtrack of Successful Snapchat Stories</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-through-the-hype-to-real-skills-for-twitch-live/"><u>Cutting Through the Hype to Real Skills for Twitch Live</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easy-instructions-how-to-enable-wtv-file-support-for-windows-and-mac-computers/"><u>Easy Instructions: How to Enable WTV File Support for Windows and Mac Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-a-secondary-laptop-display-for-xbox/"><u>Enhancing Gameplay with a Secondary Laptop Display for Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steam-connectivity-woes-in-windows-11/"><u>Fixing Steam Connectivity Woes in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015784553-get-your-turtle-beach-hpxearpods-microphone-up-and-running-again/"><u>Get Your Turtle Beach HPX/EarPods' Microphone Up and Running Again!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-lava-blaze-2-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Lava Blaze 2 Pro Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 14 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-baldurs-gate-3-full-game-on-mac-via-crossover/"><u>Mastering Baldur's Gate 3: Full Game on Mac via Crossover</u></a></li>
+<li><a href="https://games-able.techidaily.com/method-for-permanently-eliminating-ps5-profile/"><u>Method for Permanently Eliminating PS5 Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-battle-station-chair-edition/"><u>My Battle Station: Chair Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcome-muffled-gaming-experience-reconnecting-solutions/"><u>Overcome Muffled Gaming Experience: Reconnecting Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-lost-wordle-streaks-on-mobile-devices/"><u>Revive Lost Wordle Streaks on Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/trendsetting-led-lights/"><u>Trendsetting LED Lights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-scroll-issues-with-touchpad-in-windows-10/"><u>Troubleshooting Scroll Issues with Touchpad in Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/m4vvob/"><u>オンラインでのただ今、完全無償でM4V/VOBフォーマットを変換: ムヴァビ - 手軽に動画コンバート!</u></a></li>
 </ul></div>
 

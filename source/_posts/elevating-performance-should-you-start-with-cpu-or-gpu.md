@@ -1,7 +1,7 @@
 ---
 title: "Elevating Performance: Should You Start with CPU or GPU?"
-date: 2024-09-19T23:38:56.001Z
-updated: 2024-09-20T18:24:55.510Z
+date: 2024-10-12T05:43:27.483Z
+updated: 2024-10-18T17:41:36.711Z
 tags:
   - games
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 * [Upgrade Your CPU if Your GPU Isn't Fully Utilized](#upgrade-your-cpu-if-your-gpu-isn-39-t-fully-utilized)
 * [Upgrade Your GPU to Fix Low FPS in Games](#upgrade-your-gpu-to-fix-low-fps-in-games)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Run some tests to find whether your CPU or GPU is bottlenecking your PC.
@@ -44,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 
  Another easy way to check if your CPU is holding your PC back is by simply[using Task Manager on Windows](https://www.makeuseof.com/how-to-use-windows-task-manager/) to monitor CPU usage as you perform basic tasks like web browsing, photo editing, etc.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Upgrade Your CPU if It Struggles to Handle Basic Tasks
 
 ![CPU usage being monitored in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cpu-usage-being-monitored-in-task-manager.png)
@@ -66,15 +60,22 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
 [Open Task Manager on Windows](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) , group apps by CPU usage, and see if the app you're running is consuming half of your CPU resources. But before you conclude that your CPU is the bottleneck, monitor your resources using MSI Afterburner while playing a game. We'll cover that below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Upgrade Your CPU if Your GPU Isn't Fully Utilized
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To monitor your PC hardware while gaming, you need to open MSI Afterburner and Rivatuner Statistics Server first. Then, load up a game you play regularly, and you should see the stats appear in the top-left corner of the screen.
 
@@ -85,6 +86,19 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
  This isn't ideal for me because I play on a[360Hz monitor](https://www.amazon.com/s?k=360hz+monitor&tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) . So, I should upgrade my CPU first to a[Ryzen 7800X3D](https://www.amazon.com/AMD-Ryzen-7800X3D-16-Thread-Processor/dp/B0BTZB7F88/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) or[7950X3D](https://www.amazon.com/AMD-Ryzen-7950X3D-Hexadeca-core-Processor/dp/B0BTRH9MNS/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032015&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fupgrade-cpu-or-gpu-first%2F&asc%5Fcampaign=Evergreen) to get a higher and more consistent frame rate.
 
  However, it's worth testing your GPU usage across multiple games to confirm the bottleneck. More often than not, poor optimization can also cause low GPU usage, as that was the case when I first tested Battlefield 2042 on my PC.
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upgrade Your GPU to Fix Low FPS in Games
 
@@ -109,5 +123,16 @@ thumbnail: https://thmb.techidaily.com/c77188d301673882c7bd2416a75ef28040661515c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-windows-screencast-champions-revealed-for-2024/"><u>[Updated] Windows Screencast Champions Revealed for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/free-dvd-to-mp3-converter-2020-how-to-effortlessly-transform-your-audio-cds-into-digital-files/"><u>Free DVD to MP3 Converter 2020: How to Effortlessly Transform Your Audio CDs Into Digital Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-version-of-canoscan-lide-220-drivers-installed-easily/"><u>Get the Newest Version of CanoScan LiDE 220 Drivers Installed Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-asus-rog-phone-8-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Asus ROG Phone 8?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-ryan-kaji-youthful-wealth-through-internet-popularity/"><u>In 2024, Ryan Kaji Youthful Wealth Through Internet Popularity</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-the-xbox-game-pass-on-steam-link-glossis-approach/"><u>Joining the Xbox Game Pass on Steam Link - GlosSI's Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-efficient-technique-to-remove-ps5-accounts/"><u>The Efficient Technique to Remove PS5 Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/trust-in-triviality-uncovering-hidden-biases-in-critiques/"><u>Trust in Triviality: Uncovering Hidden Biases in Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-steams-hidden-user-pockets/"><u>Unlock Steam's Hidden User Pockets</u></a></li>
+</ul></div>
 

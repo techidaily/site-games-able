@@ -1,7 +1,7 @@
 ---
 title: "Unlock Full-Price Xbox Game Pass Ultimate Access at Just $36: Exclusive Guide Revealed by ZDNet!"
-date: 2024-09-17 23:53:34
-updated: 2024-09-20 10:21:33
+date: 2024-10-15T20:50:09.866Z
+updated: 2024-10-18T20:44:05.495Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,19 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +103,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +154,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-stand-out-on-youtube-with-these-20-top-font-choices/"><u>[New] 2024 Approved Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-search-of-perfect-sound-top-10-podcast-microphones/"><u>[New] In Search of Perfect Sound Top 10 Podcast Microphones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-troubleshooting-stop-live-streaming-lags-in-obs-for-2024/"><u>[Updated] Troubleshooting Stop Live Streaming Lags in OBS for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-the-art-of-ifunny-memes/"><u>2024 Approved Mastering the Art of iFunny Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/guide-to-uploading-videos-into-youtube-lists/"><u>Guide to Uploading Videos Into YouTube Lists</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-shield-your-data-from-vulnerabilities-with-adapted-generative-pre-trained-transformers/"><u>How to Shield Your Data From Vulnerabilities with Adapted Generative Pre-Trained Transformers</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-gaming-library-fixing-egl-shortcomings/"><u>Maximizing Your Gaming Library: Fixing EGL Shortcomings</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-step-by-step-the-top-10-video-players-for-frame-by-frame-analysis-for-2024/"><u>New Step-by-Step The Top 10 Video Players for Frame-by-Frame Analysis for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-missing-components-warning-in-win-1011/"><u>Overcoming Missing Components Warning in Win 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-nintendo-setup-guide-maximizing-your-experience/"><u>The Ultimate Nintendo Setup Guide: Maximizing Your Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-python2tdll-file-not-found-error-in-windows/"><u>Troubleshooting the 'python2t.dll' File Not Found Error in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-cozy-games-magnetic-pull/"><u>Unveiling Cozy Games' Magnetic Pull</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-a-display-dual-in-the-gaming-world/"><u>What Makes a Display ‘Dual’ in the Gaming World?</u></a></li>
+</ul></div>
+

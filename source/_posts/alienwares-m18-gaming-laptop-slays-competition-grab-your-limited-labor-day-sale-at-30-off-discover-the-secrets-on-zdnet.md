@@ -1,7 +1,7 @@
 ---
 title: Alienware's M18 Gaming Laptop Slays Competition, Grab Your Limited Labor Day Sale at 30%% Off | Discover the Secrets on ZDNet
-date: 2024-09-19 10:21:18
-updated: 2024-09-20 12:47:12
+date: 2024-10-16T10:07:49.192Z
+updated: 2024-10-18T17:50:38.126Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,19 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -59,6 +72,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -71,11 +91,31 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +160,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-nikon-d850-vs-d7500-features/"><u>[New] Exploring Nikon D850 Vs D7500 Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-videotoaudiotweeter-direct-output-for-2024/"><u>[New] VideoToAudioTweeter Direct Output for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[Updated] How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-monitoring-lost-instagram-connections/"><u>[Updated] In 2024, Monitoring Lost Instagram Connections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-scenes-with-filmora-top-10-must-haves/"><u>2024 Approved Behind the Scenes with Filmora Top 10 Must-Haves</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-tech-triumphs-cutting-edge-vr-devices-reviewed/"><u>2024 Approved Tech Triumphs Cutting-Edge VR Devices Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploiting-discord-for-social-gaming-sessions-chesspoker-tactics/"><u>Exploiting Discord for Social Gaming Sessions: Chess/Poker Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-plant-to-patient-the-journey-of-cannabinoid-biotransformation/"><u>From Plant to Patient: The Journey of Cannabinoid Biotransformation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-does-your-channel-benefit-from-regular-youtube-payments/"><u>In 2024, Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-mts-in-top-shelf-gaming-experiences/"><u>Integrating MTs in Top-Shelf Gaming Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-gaming-unleashed-on-linux-systems/"><u>Mobile Gaming Unleashed on Linux Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-powerhouse-challenge-vs-microsofts-xbox-sx/"><u>PS5 Powerhouse Challenge - VS. Microsoft's Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-blueprint-for-epic-and-steam-account-linkage/"><u>The Essential Blueprint for Epic & Steam Account Linkage</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-unavailable-graphics-configurations/"><u>Troubleshooting Unavailable Graphics Configurations</u></a></li>
+</ul></div>
+

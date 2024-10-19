@@ -1,7 +1,7 @@
 ---
 title: Uncover Xbox X/S Playtime Details
-date: 2024-09-19T21:57:47.807Z
-updated: 2024-09-20T19:46:55.955Z
+date: 2024-10-17T16:06:33.249Z
+updated: 2024-10-18T20:24:29.712Z
 tags:
   - games
 categories:
@@ -48,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
 
@@ -59,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -77,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
@@ -102,5 +123,22 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers/"><u>[New] Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-monetization-mastery-top-youtubers-earnings/"><u>[Updated] 2024 Approved Monetization Mastery - Top Youtubers Earnings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-zoom-room-basics-for-newbies/"><u>[Updated] In 2024, Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://facebook.techidaily.com/achieve-secure-email-engagement-mastery-of-2fa-on-popular-mail-services-like-google-and-microsoft/"><u>Achieve Secure Email Engagement: Mastery of 2FA on Popular Mail Services Like Google and Microsoft</u></a></li>
+<li><a href="https://games-able.techidaily.com/bias-beyond-the-boxscore-questioning-the-sanctity-of-scores/"><u>Bias Beyond the Boxscore: Questioning the Sanctity of Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-ps5-to-a-previous-generational-console/"><u>Connecting PS5 to a Previous Generational Console?</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-charger-gear-for-sonys-ps5-dualsense-accessory/"><u>Essential Charger Gear for Sony's PS5 DualSense Accessory</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-in-depth-hardware-analysis/"><u>Exploring Technology with Tom: In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/freedom-from-realms-securely-store-your-spheres-destiny/"><u>Freedom From Realms: Securely Store Your Sphere's Destiny</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-pads-in-harmony-with-rhythm-games/"><u>Graphics Pads in Harmony with Rhythm Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-adventure-playing-steam-games-on-meta-quest-xr/"><u>Jumpstart Your Adventure: Playing Steam Games on Meta Quest XR</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/reviewing-fujitsus-ix1600-the-perfect-desktop-solution-for-all-your-document-needs/"><u>Reviewing Fujitsu's iX1600 - The Perfect Desktop Solution for All Your Document Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-usb-hubs-for-the-ps5/"><u>The Best USB Hubs for the PS5</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unbeatable-value-why-the-acer-aspire-e-15-is-a-must-have-for-budget-tech-seekers/"><u>Unbeatable Value: Why the Acer Aspire E 15 Is a Must-Have for Budget Tech Seekers</u></a></li>
+<li><a href="https://win-able.techidaily.com/vanderperren-s-et-al-2008-the-impact-of-glyphosate-on-the-amphibian-rana-lessonae-evidence-for-a-non-target-effect-and-endocrine-disruption-at-environmental523/"><u>Vanderperren S., Et Al (2008). The Impact of Glyphosate on the Amphibian Rana Lessonae: Evidence for a Non-Target Effect and Endocrine Disruption at Environmentally Realistic Concentrations. Environ Sci Pollut Res, 15(6), 397-402.</u></a></li>
+</ul></div>
 

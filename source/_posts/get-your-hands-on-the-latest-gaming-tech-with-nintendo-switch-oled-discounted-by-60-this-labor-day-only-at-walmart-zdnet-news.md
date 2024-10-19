@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the Latest Gaming Tech with Nintendo Switch OLED Discounted by $60 This Labor Day, Only at Walmart | ZDNET News.
-date: 2024-09-19 16:55:33
-updated: 2024-09-20 12:21:46
+date: 2024-10-12T20:54:44.246Z
+updated: 2024-10-19T10:24:58.120Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,29 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,27 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-top-10-tips-for-excellent-xbox-game-playbacks/"><u>2024 Approved Top 10 Tips for Excellent Xbox Game Playbacks</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-files-to-wmv-format-free-online-converter-by-movavi/"><u>Convert Files to WMV Format Free - Online Converter by Movavi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-content-that-captures-audiences-hearts-for-2024/"><u>Crafting Content that Captures Audiences' Hearts for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/engage-anytime-anywhere-mondly-and-huawei/"><u>Engage Anytime, Anywhere - Mondly and Huawei</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unveil-your-gaming-identity-code-on-steam/"><u>How to Unveil Your Gaming Identity Code on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-xbox-game-pass-ultimate-worth-switching-to/"><u>Is Xbox Game Pass Ultimate Worth Switching To?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macxdvd-by-digiarty-software-macxdvd-digiarty-software-common-questions-and-answers/"><u>MacXDVD by Digiarty Software - 一般的な疑問と回答について (MacXDVD Digiarty Software - Common Questions & Answers)</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-top-choices-for-windows-users-clearing-up-loud-ambiance-in-recorded-soundscape/"><u>New 2024 Approved Top Choices for Windows Users Clearing Up Loud Ambiance in Recorded Soundscape</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-start-to-discord-on-your-mac-system/"><u>Quick Start to Discord on Your Mac System</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-prevent-auto-start-of-steam/"><u>Steps to Prevent Auto-Start of Steam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-home-button-here-are-5-swift-fixes-to-try-out/"><u>Trouble with iPhone Home Button? Here Are 5 Swift Fixes to Try Out!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-smartwatches-defining-features-uses-and-benefits/"><u>Unveiling Smartwatches: Defining Features, Uses, and Benefits</u></a></li>
+</ul></div>
+

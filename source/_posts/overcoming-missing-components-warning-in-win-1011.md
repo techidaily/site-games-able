@@ -1,7 +1,7 @@
 ---
 title: Overcoming Missing Components Warning in Win 10/11
-date: 2024-10-09T19:24:21.907Z
-updated: 2024-10-13T01:52:34.546Z
+date: 2024-10-14T22:48:30.533Z
+updated: 2024-10-18T22:17:11.674Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -42,14 +49,15 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 3. Click the**three-dot button** beside the Visual C++ package version specified in the error message and select**Modify** . In Windows 10, you will need to select a Visual C++ package and click**Modify** .  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
-![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -61,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 2. Then click the X64 (64-bit) architecture download link for Visual Studio 2015-2022.  
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
@@ -85,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 4. Click**Next** to proceed to an offer for installing a Bing Bar.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
@@ -102,26 +97,26 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 6. Select**Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
@@ -144,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
@@ -171,20 +166,24 @@ thumbnail: https://thmb.techidaily.com/d568e250a0c9cf38c4b89f922cd02103ab4f1762a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-elevate-your-lenovo-experience-with-advanced-capture-methods/"><u>[New] Elevate Your Lenovo Experience with Advanced Capture Methods</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-essential-cameras-for-cutting-edge-concert-filming-in-4khd-for-2024/"><u>[New] Essential Cameras for Cutting-Edge Concert Filming in 4K/HD for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-expert-strategies-for-live-streaming-using-obs/"><u>[New] In 2024, Expert Strategies for Live Streaming Using OBS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-premier-tactics-capturing-high-quality-sporting-live-events-for-2024/"><u>[New] Premier Tactics Capturing High-Quality Sporting Live Events for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-face-hiding-masterclass-tools-and-techniques-reviewed/"><u>2024 Approved Face Hiding Masterclass Tools and Techniques Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/30-must-have-nintendo-switch-cartridge-holders/"><u>30 Must-Have Nintendo Switch Cartridge Holders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/50plus-text-wonders-in-video-editing/"><u>50+ Text Wonders in Video Editing</u></a></li>
-<li><a href="https://games-able.techidaily.com/adapt-and-thrive-enjoy-flash-games-without-flash-required/"><u>Adapt and Thrive: Enjoy Flash Games Without Flash Required</u></a></li>
-<li><a href="https://games-able.techidaily.com/all-games-everywhere-a-new-trend-emerges/"><u>All Games, Everywhere - A New Trend Emerges</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-the-necessity-of-mechanical-inputs-in-competitive-play/"><u>Assessing the Necessity of Mechanical Inputs in Competitive Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-iphoneipad-emulators-for-immersive-gameplay/"><u>Best iPhone/iPad Emulators for Immersive Gameplay</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-tp-links-av1300-wi-fi-extender-is-it-really-powerful-enough/"><u>Comprehensive Review of TP-Link's AV1300 Wi-Fi Extender - Is It Really Powerful Enough?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>How Can We Bypass Realme GT Neo 5 SE FRP?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-audio-editing-software-in-shaping-your-vtuber-image-for-2024/"><u>Leading Audio Editing Software in Shaping Your VTuber Image for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719164624136-top-ranked-gba-ios-simulators-unveiled/"><u>Top-Ranked GBA iOS Simulators Unveiled!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-fcp-freedom/"><u>[New] Mastering the Art of FCP Freedom</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-prime-8-android-apps-for-multi-person-video-conferencing/"><u>[New] Prime 8 Android Apps for Multi-Person Video Conferencing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tech-trends-spotlight-5-cutting-edge-camcorders-for-slow-motion/"><u>[New] Tech Trends Spotlight 5 Cutting-Edge Camcorders for Slow Motion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-game-capture-faceoff-evaluate-obs-and-shadowplay-for-2024/"><u>[Updated] Game Capture Faceoff Evaluate OBS & ShadowPlay for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-engage-audiences-on-all-sides-live-360-degree-video-broadcasting-for-youtube/"><u>[Updated] In 2024, Engage Audiences on All Sides Live 360-Degree Video Broadcasting for YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/closer-conversations-mastering-in-camera-precision-for-2024/"><u>Closer Conversations Mastering In-Camera Precision for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-clash-sonys-playstation-5-versus-frugal-gaming-desk/"><u>Console Clash: Sony's PlayStation 5 Versus Frugal Gaming Desk</u></a></li>
+<li><a href="https://games-able.techidaily.com/debating-the-need-for-mechanical-gaming-mice/"><u>Debating the Need for Mechanical Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-pc-brands-asus-tuf-proart-vs-prime/"><u>Dive Into the World of PC Brands: Asus, Tuf, ProArt Vs. Prime</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-chat-room-to-global-stage-broadcast-google-meet-on-youtube-for-2024/"><u>From Chat Room to Global Stage Broadcast Google Meet on YouTube for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-gaming-trove-on-steam/"><u>Hidden Gaming Trove on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-enhance-visual-fidelity-with-series-sx-tools/"><u>Learn to Enhance Visual Fidelity with Series S/X Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-integration-install-discord-seamlessly/"><u>Mac Integration: Install Discord Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gamers-image-with-a-new-riot-nickname-and-tagline/"><u>Mastering Your Gamer's Image with a New Riot Nickname and Tagline</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mosaicmind-pro-unleashing-creative-potential-for-2024/"><u>MosaicMind Pro Unleashing Creative Potential for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-functionality-to-unresponsive-steam-servers/"><u>Restoring Functionality to Unresponsive Steam Servers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-to-enjoy-hd-mp4-content-smoothly-on-any-android-phone-or-tablet/"><u>Simple Steps to Enjoy HD MP4 Content Smoothly on Any Android Phone or Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-iphoneipad-gaming-awaits-the-four-best-emulator-picks/"><u>Superior iPhone/iPad Gaming Awaits: The Four Best Emulator Picks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/superior-web-destinations-alarm-ringtone-downloads-guide-for-2024/"><u>Superior Web Destinations Alarm Ringtone Downloads Guide for 2024</u></a></li>
 </ul></div>
 

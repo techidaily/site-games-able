@@ -1,7 +1,7 @@
 ---
 title: Retrieving Cash for Unwanted Fortnite Items
-date: 2024-10-09T09:01:03.188Z
-updated: 2024-10-13T01:34:44.703Z
+date: 2024-10-17T10:18:17.126Z
+updated: 2024-10-18T18:39:16.113Z
 tags:
   - games
 categories:
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
@@ -55,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The deadline for applications is January 17, 2024.
@@ -68,10 +74,10 @@ The deadline for applications is January 17, 2024.
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Epic Win for Fortnite Gamers
@@ -93,20 +99,18 @@ The deadline for applications is January 17, 2024.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-capturing-impactful-voice-top-tips-for-podcasting-interviews-on-idevices/"><u>[Updated] Capturing Impactful Voice Top Tips for Podcasting Interviews on iDevices</u></a></li>
-<li><a href="https://games-able.techidaily.com/20-creative-messaging-match-ups-for-friendly-banter/"><u>20 Creative Messaging Match-Ups for Friendly Banter</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-step-by-step-guide-how-to-translate-tiktok-videos/"><u>2024 Approved Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/altering-steam-default-language/"><u>Altering Steam Default Language</u></a></li>
-<li><a href="https://games-able.techidaily.com/alternative-methods-for-steam-restart/"><u>Alternative Methods for Steam Restart</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-enhancement-for-gamers-through-macos-sonomas-game-mode/"><u>Apple’s Enhancement for Gamers Through macOS Sonoma's Game Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-the-rush-secure-mars-spiderman-2-on-ps5/"><u>Beat The Rush - Secure Mar's Spiderman 2 on PS5</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a05s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A05s without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-8-plus-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 8 Plus Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007026783-nba-2k21-pc-issues-resolved-no-more-crashes/"><u>NBA 2K21 PC Issues Resolved: No More Crashes!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/preserve-your-data-while-refreshing-windows-11-a-step-by-step-guide/"><u>Preserve Your Data While Refreshing Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171600737-ps3s-secrets-no-microphones-allowed-here/"><u>Ps3's Secrets: No Microphones Allowed Here</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/techniques-for-audience-friendly-audio-declines-in-imovie-projects/"><u>Techniques for Audience-Friendly Audio Declines in iMovie Projects</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-expertise-pathway-choosing-between-standard-studio-and-beta-for-2024/"><u>YouTube Expertise Pathway Choosing Between Standard Studio and Beta for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-steam-and-gog-game-distribution-analysis/"><u>Comparing Steam & GOG: Game Distribution Analysis</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-nokia-n309-an-excellent-beginners-cellphone-option/"><u>Comprehensive Evaluation of the Nokia N309: An Excellent Beginner's Cellphone Option</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-streamlining-steam-games-with-meta-quest/"><u>From Novice to Pro: Streamlining Steam Games with Meta Quest</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-windows-11s-microsoft-print-to-pdf-back-online-with-these-fixes/"><u>Get Your Windows 11'S Microsoft Print to PDF Back Online with These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/guardianship-in-the-digital-age-protect-your-children/"><u>Guardianship in the Digital Age: Protect Your Children</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-story-crafting-harness-over-a-hundred-ideas-for-your-unique-narrative/"><u>In 2024, Snapchat Story Crafting Harness over a Hundred Ideas for Your Unique Narrative</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/increasing-yuzu-response-time-on-windows/"><u>Increasing Yuzu Response Time on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leading-picture-data-holders/"><u>Leading Picture Data Holders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-indoor-brightness-sunlight-strategies-inside/"><u>Mastering Indoor Brightness Sunlight Strategies Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-windows-challenges-with-robloxs-error-code-403/"><u>Overcoming Windows' Challenges with Roblox's Error Code 403</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-record-hulu-everywhere-windowsmaciosandroid-for-2024/"><u>Step-by-Step Record Hulu Everywhere - Windows/Mac/iOS/Android for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/two-methods-to-perform-system-image-backups-on-windows-server-2011/"><u>Two Methods to Perform System Image Backups on Windows Server 2011</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-6-best-free-online-audio-editor-to-use-100-free-for-2024/"><u>Updated 6 Best Free Online Audio Editor to Use (100 Free) for 2024</u></a></li>
 </ul></div>
 

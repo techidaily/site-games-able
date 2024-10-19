@@ -1,7 +1,7 @@
 ---
 title: Converting Game Pads for Classics on PC
-date: 2024-09-19T01:38:08.999Z
-updated: 2024-09-21T00:50:18.871Z
+date: 2024-10-18T07:00:16.025Z
+updated: 2024-10-18T17:45:14.997Z
 tags:
   - games
 categories:
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
@@ -67,11 +74,38 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -92,12 +126,21 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevating-your-channels-profits-with-impactful-and-effective-trailers/"><u>[New] 2024 Approved Elevating Your Channels' Profits with Impactful and Effective Trailers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mycam-vs-others-a-comparative-camera-performance-study/"><u>[New] 2024 Approved MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reschedule-image-file-storage-from-mac/"><u>[Updated] Reschedule Image File Storage From Mac</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-profile-pictures-download-for-free/"><u>2024 Approved Profile Pictures - Download for FREE</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>2024 Approved The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-speed-analyzing-keyboard-input-latency-factors/"><u>Beyond Speed: Analyzing Keyboard Input Latency Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-bonus-points-why-trust-game-review-scores/"><u>Beyond the Bonus Points: Why Trust Game Review Scores?</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-ps5-and-pc-control-conversion-steps/"><u>Bridge PS5 & PC: Control Conversion Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/buy-ps5-top-6-factors-for-mindful-purchasing/"><u>Buy PS5: Top 6 Factors for Mindful Purchasing</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-am08-pro-offer-true-gaming-in-acemagic/"><u>Can AM08 Pro Offer True Gaming in AceMagic?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cropped-frames-in-media-pro-whats-the-cause-for-2024/"><u>Cropped Frames in Media Pro What's the Cause for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/hot-list-igs-favorite-after-effects-themes/"><u>Hot List IG's Favorite After Effects Themes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-printerscanner-drivers-on-windows-the-issue-has-been-resolved/"><u>How to Install Printer/Scanner Drivers on Windows The Issue Has Been Resolved</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+</ul></div>
 

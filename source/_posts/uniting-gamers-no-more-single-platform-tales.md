@@ -1,7 +1,7 @@
 ---
 title: "Uniting Gamers: No More Single-Platform Tales"
-date: 2024-09-15T19:05:55.107Z
-updated: 2024-09-20T21:13:35.975Z
+date: 2024-10-15T21:47:53.676Z
+updated: 2024-10-19T08:56:39.055Z
 tags:
   - games
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Platform Exclusives Are Coming to an End
 
@@ -64,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -94,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
@@ -119,5 +133,24 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-study-aids-top-10-educational-history-channels/"><u>[New] 2024 Approved Study Aids Top 10 Educational History Channels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-entrepreneurs-roadmap-turning-snapchat-into-a-profitable-venture/"><u>[New] 2024 Approved The Entrepreneur's Roadmap Turning Snapchat Into a Profitable Venture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-genesis-of-apples-m1-an-insight/"><u>[New] The Genesis of Apple's M1 An Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-playback-5-innovative-techniques-for-gamers-for-2024/"><u>[Updated] Perfect Playback 5 Innovative Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-c51-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-surface-how-tech-boosts-games/"><u>Beyond the Surface: How Tech Boosts Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/block-party-plan-engaging-friends-in-innovative-minecraft-gameplay/"><u>Block Party Plan: Engaging Friends in Innovative Minecraft Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-concept-of-dual-mode-monitors/"><u>Breaking Down the Concept of Dual-Mode Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-sound-to-xbox-one-unplug-headset-fixes/"><u>Bring Back Sound to Xbox One - Unplug Headset Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-breakdown-for-switch-online-expansion/"><u>Budget Breakdown for Switch Online Expansion</u></a></li>
+<li><a href="https://games-able.techidaily.com/calculating-graphics-card-memory-space/"><u>Calculating Graphics Card Memory Space</u></a></li>
+<li><a href="https://games-able.techidaily.com/capture-and-replay-gpus-unleashed-in-games/"><u>Capture and Replay: GPUs Unleashed in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/chip-challenge-intel-vs-amd-for-gamers-delight/"><u>Chip Challenge: Intel Vs. AMD for Gamers' Delight?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-seleccion-de-herramientas-gratis-para-comprimir-videos-sin-perder-calidad/"><u>Top Selección De Herramientas Gratis Para Comprimir Videos Sin Perder Calidad</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Updated In 2024, Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+</ul></div>
 

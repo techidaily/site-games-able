@@ -1,7 +1,7 @@
 ---
 title: Thwarted Trials in Top 5 Tricky Tick-Tock Titles
-date: 2024-10-07T04:43:36.554Z
-updated: 2024-10-13T07:25:12.933Z
+date: 2024-10-15T00:23:45.597Z
+updated: 2024-10-19T03:44:37.727Z
 tags:
   - games
 categories:
@@ -45,9 +45,23 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
@@ -66,10 +80,16 @@ Let’s explore some of the names leading the scene.
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
@@ -83,13 +103,6 @@ Let’s explore some of the names leading the scene.
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -105,13 +118,6 @@ Let’s explore some of the names leading the scene.
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -123,10 +129,10 @@ Let’s explore some of the names leading the scene.
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It’s About the Journey
@@ -150,19 +156,18 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>[New] In 2024, Simplify Your Content Creation Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-moments-10-essential-ig-tools-everyone-needs-for-2024/"><u>[Updated] Mastering Moments 10 Essential IG Tools Everyone Needs for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-comprehensive-how-to-for-customizing-windows-11-with-widgets/"><u>A Comprehensive How-To for Customizing Windows 11 with Widgets</u></a></li>
-<li><a href="https://games-able.techidaily.com/brightening-up-your-gaming-space-controlling-xbox-leds/"><u>Brightening Up Your Gaming Space: Controlling Xbox LEDs</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-your-game-night-to-discord-with-streamed-xbox/"><u>Bring Your Game Night to Discord with Streamed Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-your-text-based-kingdom-harnessing-the-power-of-chatgpt-rpgs/"><u>Building Your Text-Based Kingdom: Harnessing the Power of ChatGPT RPGs</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-trust-discords-idleness-status-feedback/"><u>Can You Trust Discord’s Idleness Status Feedback?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-an-nintendo-switch-oled-in-vintage-docks/"><u>Can You Use an Nintendo Switch OLED in Vintage Docks?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-mouse-pad-reviews-by-gamers/"><u>Champion Mouse Pad Reviews by Gamers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-speech-to-text-technology-absolutely-gratuitous/"><u>In 2024, Speech-to-Text Technology, Absolutely Gratuitous</u></a></li>
-<li><a href="https://extra-information.techidaily.com/steps-to-activate-auto-hdr-feature-in-windows-11/"><u>Steps to Activate Auto-HDR Feature in Windows 11</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/strategia-esegui-la-modifica-dei-dati-cancellati-manuale-dettagliato-guida-per-il-2024/"><u>Strategia Esegui La Modifica Dei Dati Cancellati: Manuale Dettagliato Guida per Il 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-gt-5-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme GT 5 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/xfinity-driver-correction-smooth-operation-restored/"><u>XFINITY Driver Correction: Smooth Operation Restored</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-masters-list-best-sierra-dvd-software-for-2024/"><u>[New] Master's List Best Sierra DVD Software for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-quick-fixes-for-common-iphone-voicemail-issues-get-started-now/"><u>9 Quick Fixes for Common iPhone Voicemail Issues - Get Started Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavi-windows/"><u>使用 Movavi Windows 版影片轉換器的全面引導 - 教程</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-disruptions-expert-advice-on-solving-pc-games-crash-issues-in-the-modern-era/"><u>Avoiding Disruptions: Expert Advice on Solving PC Games Crash Issues in the Modern Era</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-shape-insights-into-openais-innovative-explainability-tool/"><u>Decoding ShapE: Insights Into OpenAI's Innovative Explainability Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-game-changing-truly-real/"><u>Is AceMagic's AM08 Pro Game-Changing Truly Real?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mega-responsive-gaming-screen-innocn-39g1-r/"><u>Mega Responsive Gaming Screen: InnoCN 39G1 R</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-windows-games-on-m1-a-guide-with-crossover/"><u>Playing Windows Games on M1: A Guide with Crossover</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sion-and-proficiency-youtube-edits-in-adobe-premiere/"><u>Precision & Proficiency YouTube Edits in Adobe Premiere</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-play-facing-the-rising-game-crime-wave/"><u>Safe Play: Facing the Rising Game Crime Wave</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-switch-essential-3-live-stream-platforms/"><u>Supercharge Your Switch: Essential 3 Live-Stream Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-powershot-sx720hs-a-compact-versatile-zoomer-revealed/"><u>The PowerShot SX720HS: A Compact, Versatile Zoomer Revealed</u></a></li>
 </ul></div>
 

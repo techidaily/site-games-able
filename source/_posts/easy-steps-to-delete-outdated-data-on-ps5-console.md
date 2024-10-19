@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Delete Outdated Data on PS5 Console
-date: 2024-09-16T20:24:10.535Z
-updated: 2024-09-20T18:52:10.665Z
+date: 2024-10-18T02:14:05.728Z
+updated: 2024-10-19T10:23:10.556Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
  This gives you the flexibility to[uninstall and re-download games on your PS5](https://www.makeuseof.com/how-to-uninstall-and-redownload-ps5-games/) with nothing to lose. But how much space does leaving that saved data intact take away from your console?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should I Delete Saved Data Off My PS5?
 
  Storing old saved data on your PS5 uses a minimal amount of space overall. But it all adds up, and even saved data build-up from a year or less can take precious gigabytes away from your storage total.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 ![Saved Data Storage Settings PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/saved-data-storage-settings-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, you will be given the option of reviewing the saved data for your**PS4** or**PS5 Games** . Select the console you’re after, and you will immediately be brought to a checklist of your games. Scroll down your list, select the games you are happy to get rid of and press**Delete** on the right-hand side once you’re done.
 
 ![Press Delete to Delete Saved Data PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/press-delete-to-delete-saved-data-ps5.jpg)
@@ -59,13 +73,20 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
 
 ![Upload Saved Data to Cloud PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upload-saved-data-to-cloud-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you would rather not deal with the headache of deleting things off of your PS5 all the time, there is another option. You can upgrade your storage by purchasing an SSD for your PS5\. There are plenty of options on the market, including both[internal and external PS5 SSDs](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) . Finding[the best SSD for your PS5](https://www.makeuseof.com/best-m2-ssd-for-ps5/) can be daunting, but at least you won't have to worry about space anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save as Much Space as You Can on Your PS5
@@ -87,5 +108,18 @@ thumbnail: https://thmb.techidaily.com/62017b9a75f2be738008dfd82e88e32736119212b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-discover-the-creme-de-la-creme-of-iphoneipad-videos-for-2024/"><u>[New] Discover the Crème De La Créme of iPhone/iPad Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-practices-the-8-truly-effective-promotion-techniques/"><u>[Updated] 2024 Approved Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-storage-devices-matching-playstation-5/"><u>Best Storage Devices Matching PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-ps5-performance-mastering-the-assist-controller/"><u>Boost Your PS5 Performance - Mastering the Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steams-order-processing-lags/"><u>Bypassing Steam's Order Processing Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/charge-towards-tomorrow-visionary-ideas/"><u>Charge Towards Tomorrow: Visionary Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-outdated-games-from-playstation-5/"><u>Clear Outdated Games From PlayStation 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-honor-90-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Honor 90 Pro Phone?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/linksys-ea2700-80211ac-network-adapter-drivers-download-and-installation-manual-simplified/"><u>Linksys EA2700 802.11Ac Network Adapter Drivers Download & Installation Manual - Simplified</u></a></li>
+<li><a href="https://fox-where.techidaily.com/securisez-vos-fichiers-avec-un-mot-de-passe-sous-windows-10-and-11-methodes-completement-expliquees/"><u>Sécurisez Vos Fichiers Avec Un Mot De Passe Sous Windows 10 & 11 : Méthodes Completement Expliquées</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamlining-gameplay-solve-computer-based-civ5-issues/"><u>Streamlining Gameplay: Solve Computer-Based CIV5 Issues</u></a></li>
+</ul></div>
 

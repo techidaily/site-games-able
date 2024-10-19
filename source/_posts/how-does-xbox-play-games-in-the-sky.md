@@ -1,7 +1,7 @@
 ---
 title: How Does Xbox Play Games in The Sky?
-date: 2024-10-11T02:22:41.453Z
-updated: 2024-10-13T00:30:53.999Z
+date: 2024-10-17T23:59:05.410Z
+updated: 2024-10-19T00:11:11.547Z
 tags:
   - games
 categories:
@@ -27,16 +27,22 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  If you want to play Xbox games wherever you are, or you want to try out the latest releases but your computer can't handle them, then Xbox Cloud Gaming is for you. It's a perk you get when you subscribe to Xbox Game Pass Ultimate. But what is Xbox Cloud Gaming and how good is it?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Xbox Cloud Gaming?
 
 ![a person holding a smartphone with the xbox cloud app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/a-person-holding-a-smartphone-with-the-xbox-cloud-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Diego Thomazini/[Shutterstock](https://www.shutterstock.com/image-photo/girl-holding-smartphone-xbox-cloud-gaming-2148832863)
 
@@ -46,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  Xbox Cloud Gaming lets you play the latest games at their best graphics fidelity on devices that could otherwise not run them. For example, you can play games on your phone, an underpowered PC, or even a television without a console attached.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Does Xbox Cloud Gaming Work?
 
  It may seem odd that you can play the latest and greatest games on something as small as your phone, but the key to Xbox Cloud Gaming (and cloud gaming in general) is that your device doesn't render any of the game's graphics whatsoever.
@@ -60,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
  When you use Xbox Cloud Gaming to play a game, Microsoft's servers do all the heavy lifting for you. The servers load, process, and render the game for you. Then, the server sends what it rendered to your device. In turn, your device sends your input to the server so you can control what you see.
 
  If you have a bad connection, the visuals may look choppy and your input may lag behind. However, if your internet is good, the game will look and feel almost as if you were playing it natively at home.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You Need to Get Started With Xbox Cloud Gaming
 
@@ -77,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 ![Selecting cloud-compatible games on Xbox Game Pass](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-cloud-gaming-compatibility.png)
 
  Not every game supports cloud play. If you want to check which games work on Xbox Cloud Gaming before you dive in, head to the[Xbox Game Pass library](https://www.xbox.com/en-US/xbox-game-pass/games) , select**Plays on** via the filters to the left, and select**Cloud** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Use Xbox Cloud Gaming on iOS and Android
 
@@ -103,22 +88,29 @@ Close
 
 ![The Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-game-pass-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to use your browser, head over to[xbox.com/play](http://xbox.com/play) . When you follow the link, you should immediately see the Xbox Game Pass library. If you do, click on a game to start streaming.
 
  If you don't see a library and instead land on a splash page advertising the Xbox Game Pass, it means something has gone wrong. First, double-check that you're signed in to your Microsoft account.
 
  If you're not signed in, or you are on an account without an active Xbox Game Pass Ultimate subscription, sign in with that account and click the above link again. If you are logged into the right account, make sure your subscription is still active, and that it's set to the Ultimate tier.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is the Xbox Cloud Gaming Service Any Good?
 
  So, playing Xbox games no matter where you are is easier than it has ever been. The question is, is the service worth subscribing to? I gave the Xbox Game Pass Ultimate service a spin and noted my discoveries as I played.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Good: Xbox Cloud Gaming Gives a Responsive Experience With Decent Visuals
 
@@ -134,9 +126,23 @@ Close
 
  I also noticed that you could hot-swap your devices and continue playing without interruption. For example, if you played a game via the PC Xbox app, you could close the stream, boot up the Android app, and continue exactly where you left off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bad: Controllers Are a Must to Play With Xbox Cloud Gaming
 
 ![The Xbox app asking for a controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-cloud-gaming-controller.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  How much are you a fan of playing all of your games with a controller? If you're not bothered by it, you'll get along with Xbox Cloud Gaming just fine. However, if you want to use mouse and keyboard, you're in for a rough time.
 
@@ -165,22 +171,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-the-novices-net-a-comprehensive-look-at-visual-quality-measures/"><u>[New] In 2024, The Novice’s Net A Comprehensive Look at Visual Quality Measures</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-communication-scheduling-monthly-meets/"><u>[New] Streamlining Communication Scheduling Monthly Meets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-digital-green-magic-top-4-youtube-sources-for-no-cost-background-workshops/"><u>[Updated] 2024 Approved Dive Into Digital Green Magic Top 4 YouTube Sources for No-Cost Background Workshops</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-vimeo-integration-for-professional-instagram-users/"><u>[Updated] 2024 Approved Vimeo Integration for Professional Instagram Users</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-techniques-for-crafting-encouraging-personal-growth-vids/"><u>[Updated] Techniques for Crafting Encouraging Personal Growth Vids</u></a></li>
-<li><a href="https://win-forum.techidaily.com/demystifying-the-social-media-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Demystifying the Social Media Giants: A Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://win-web3.techidaily.com/emeditor-plugins-can-you-make-google-translate-accessible-directly-from-the-text-editor/"><u>EmEditor Plugins: Can You Make Google Translate Accessible Directly From the Text Editor?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-success-selecting-co-stars-for-youtube-projects/"><u>In 2024, Unlocking Success Selecting Co-Stars for YouTube Projects</u></a></li>
-<li><a href="https://games-able.techidaily.com/masterclass-enhancing-games-through-model-efficiency/"><u>Masterclass: Enhancing Games Through Model Efficiency</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/navigating-the-new-youtube-earnings-landscape-for-2024/"><u>Navigating the New YouTube Earnings Landscape for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/nurturing-kids-through-safe-playstation-5-games/"><u>Nurturing Kids Through Safe Playstation 5 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-next-move-must-you-upgrade-to-rtx-now/"><u>Nvidia's Next Move: Must You Upgrade to RTX Now?</u></a></li>
-<li><a href="https://games-able.techidaily.com/primes-direct-link-to-your-favorite-twitch-stars/"><u>Prime's Direct Link to Your Favorite Twitch Stars</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-gameplay-integrating-old-games-into-steam-deck/"><u>Seamless Gameplay: Integrating Old Games Into Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-annual-gaming-plan-and-its-financial-implications/"><u>Sony's Annual Gaming Plan and Its Financial Implications</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-xbox-series-clubs/"><u>The Ultimate Guide to Xbox Series Clubs</u></a></li>
-<li><a href="https://games-able.techidaily.com/you-can-now-properly-hide-steam-games-by-marking-them-as-private/"><u>You Can Now Properly Hide Steam Games by Marking Them as Private</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/chieve-optimum-stability-incorrances-for-tripods-in-vlog-shoots/"><u>[New] Achieve Optimum Stability Incorrances for Tripods in Vlog Shoots</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-game-masters-guide-to-4k-monitors/"><u>2024 Approved Game Masters' Guide to 4K Monitors</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-tactics-to-maximize-engagement-with-every-reddit-post/"><u>2024 Approved Tactics to Maximize Engagement with Every Reddit Post</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-system-enhancements-cpu-vs-gpu-priority/"><u>Deciphering System Enhancements: CPU Vs. GPU Priority</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-nyt-power-web-gameplay/"><u>Decoding the NYT Power Web Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-joy-in-clicks-a-balanced-overview-of-digital-games-upsides/"><u>Finding Joy in Clicks: A Balanced Overview of Digital Games' Upsides</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-brilliance-by-razer-in-the-blackwidow-v4/"><u>Hot-Swap Brilliance by Razer in the BlackWidow V4</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-p55-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel P55 Safely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-over-your-function-keys-in-win10/"><u>Regain Control Over Your Function Keys in Win10</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/egic-thinking-keywords-that-lead-to-online-victory-for-2024/"><u>Strategic Thinking Keywords that Lead to Online Victory for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultra-portable-lg-gram-17-analysis-light-as-a-feather-powerful-as-ever/"><u>Ultra-Portable LG Gram 17 Analysis: Light as a Feather, Powerful as Ever</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-subtle-power-of-trendy-tech/"><u>Unveiling the Subtle Power of Trendy Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-new-console-rules-the-game-this-season/"><u>Which New Console Rules the Game This Season?</u></a></li>
 </ul></div>
 

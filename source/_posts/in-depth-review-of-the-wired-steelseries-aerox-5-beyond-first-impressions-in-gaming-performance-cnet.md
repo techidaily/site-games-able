@@ -1,7 +1,7 @@
 ---
 title: In-Depth Review of the Wired SteelSeries Aerox 5 - Beyond First Impressions in Gaming Performance | CNET
-date: 2024-09-19 19:34:17
-updated: 2024-09-20 10:10:23
+date: 2024-10-17T11:39:47.339Z
+updated: 2024-10-19T12:47:05.687Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-command-and-conquer-the-pinnacle-of-strategic-sagas-in-7-total-war-games/"><u>[New] Command & Conquer The Pinnacle of Strategic Sagas in 7 Total War Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-build-a-facebook-image-tapestry-fast/"><u>[Updated] Build a Facebook Image Tapestry Fast</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-score-big-with-these-8-no-cost-3d-videos-apps-for-windows-and-mac-os-for-2024/"><u>[Updated] Score Big with These 8 No-Cost 3D Videos Apps for Windows & Mac OS for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-editors-guide-to-powerful-notebooks-and-more-for-2024/"><u>[Updated] The Editor's Guide to Powerful Notebooks and More for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-leaders-in-fan-following-top-10-global-youtubers-subs-for-2024/"><u>[Updated] The Leaders in Fan Following Top 10 Global YouTubers' Subs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-alan-turings-legacy-top-5-contemporary-approaches-for-assessing-artificial-intelligence/"><u>Beyond Alan Turing's Legacy: Top 5 Contemporary Approaches for Assessing Artificial Intelligence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/double-down-on-youtube-visibility-2-quick-methods-for-2024/"><u>Double Down on YouTube Visibility (2 Quick Methods) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-boosting-gameplay-experience-on-a-mac/"><u>Essential Techniques: Boosting Gameplay Experience on a Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-6-essentials-before-purchasing-ps5/"><u>Gamers' Guide: 6 Essentials Before Purchasing PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-xbox-play-games-in-the-sky/"><u>How Does Xbox Play Games in The Sky?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oneplus-12r-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from OnePlus 12R to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovations-finest-mwcs-top-picks-by-makeuseof/"><u>Innovation's Finest: MWC's Top Picks by MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/linguistic-enhancement-applying-custom-rom-patches/"><u>Linguistic Enhancement: Applying Custom ROM Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/razers-innovation-at-work-hot-swappable-keyboard-reviewed/"><u>Razer's Innovation at Work - Hot-Swappable Keyboard Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-playtime-essential-5-steps-to-optimize-games-on-macos/"><u>Revolutionize Your Playtime: Essential 5 Steps to Optimize Games on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-online-troubles-lets-fix-it/"><u>Switch Online Troubles? Let's Fix It!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-ultimate-gaming-potential-choose-from-these-top-4-ios-emulators/"><u>Unleash Ultimate Gaming Potential - Choose From These Top 4 iOS Emulators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/k-brand-potential-access-50-banners-at-no-cost/"><u>Unlock Brand Potential - Access 50 Banners at No Cost</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: InnoVision 40 Curved Gaming Monitor with 144Hz - Ultra-Wide Display & Performance Analysis | TechRadar
-date: 2024-09-19 20:30:23
-updated: 2024-09-20 12:34:49
+date: 2024-10-11T16:21:07.778Z
+updated: 2024-10-19T10:11:21.935Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,19 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +103,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +154,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-how-to-effortlessly-convert-spoken-language-into-written-content-using-microsoft-word/"><u>[New] How to Effortlessly Convert Spoken Language Into Written Content Using Microsoft Word</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-how-to-embed-a-youtube-video-in-powerpoint-4-methods/"><u>[New] How to Embed a YouTube Video in PowerPoint [4 Methods]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-avis-to-gifs-with-help-from-filmora/"><u>[Updated] Navigating the World of AVIs to GIFs with Help From Filmora</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-realme-note-50-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-free-visual-treasury-select-10-sites-included/"><u>2024 Approved Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagram-live-broadcasting-unseen-and-unknown/"><u>2024 Approved Instagram Live Broadcasting Unseen and Unknown</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-androidiphone-to-players-pcs-easily-steam-link-tutorial/"><u>Connect Android/iPhone to Players' PCs Easily - Steam Link Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-fixes-for-elusive-steam-application-accessibility/"><u>Easy Fixes for Elusive Steam Application Accessibility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-transform-your-caf-music-tracks-into-m4a-with-movavis-no-cost-file-converter/"><u>Effortlessly Transform Your CAF Music Tracks Into M4A with Movavi's No-Cost File Converter</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-advice-for-navigating-cs2-made-simple-for-macs/"><u>Expert Advice for Navigating CS2, Made Simple for Macs</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-showcase-spotlight-lenovo-legion-gos-edge/"><u>IFA Showcase Spotlight: Lenovo Legion Go's Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/infinite-options-universal-game-availability/"><u>Infinite Options: Universal Game Availability</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/optimal-techniques-for-verbal-note-taking-expertise-for-2024/"><u>Optimal Techniques for Verbal Note-Taking Expertise for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-165hz-monitor-selection/"><u>Superior 165Hz Monitor Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-feet-sweat-play-the-7-top-sports-games-iosandroid/"><u>Swift Feet, Sweat, Play: The 7 Top Sports Games (iOS/Android)</u></a></li>
+<li><a href="https://facebook.techidaily.com/together-through-technology-7-platforms-for-social-solidarity/"><u>Together Through Technology: 7 Platforms for Social Solidarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gameplay-with-ea-plays-multitude-of-features-on-ps5-console/"><u>Transform Your Gameplay with EA Play's Multitude of Features on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwanted-virtual-goods-refunding-your-fortnite-costs/"><u>Unwanted Virtual Goods? Refunding Your Fortnite Costs</u></a></li>
+</ul></div>
+

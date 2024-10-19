@@ -1,7 +1,7 @@
 ---
 title: Unleashing Playnite's Potential with TV Fullscreen
-date: 2024-10-09T12:34:39.166Z
-updated: 2024-10-13T03:42:16.560Z
+date: 2024-10-11T19:22:48.615Z
+updated: 2024-10-18T18:11:03.564Z
 tags:
   - games
 categories:
@@ -47,13 +47,40 @@ To install third-party themes to Playnite:
 1. Click on its icon on the top left of Playnite's window to access the app's main menu, and select**Add-ons** , or hit**F9** .  
 ![Playnite Menu Add Ons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-menu-add-ons.jpg)
 2. Expand the "**Browse** " section on the left of the**Add-ons** window, and visit the**Themes Fullscreen** page. There, check the list of available themes. Select any to read its description and see some preview thumbnails. Click the**Install** button on the right to bring it on board.  
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Playnite Add Ons Browse Themes Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-add-ons-browse-themes-fullscreen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customize Fullscreen Mode
@@ -66,21 +93,7 @@ To install third-party themes to Playnite:
 
 ![Playnite Fullscreen Mode Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-settings-entry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here are some of the spots you might want to visit:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### General
 
@@ -89,10 +102,10 @@ Here are some of the spots you might want to visit:
 ![Playnite Fullscreen Mode Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-general.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also select if you want to see the**Clock** ,**Battery Status** (useful if using a laptop), and if you prefer the app's**Image rendering scaler** to prioritize speed or quality.
@@ -102,13 +115,6 @@ Here are some of the spots you might want to visit:
  This is where you can configure how your games appear in Playnite's interface:
 
 ![Playnite Fullscreen Mode Settings Visuals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-visuals.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Should the app**Darken not installed games** ?
 * Would you prefer to**Show Game Titles** instead of trying to tell your games apart by their covers?
@@ -125,6 +131,13 @@ Here are some of the spots you might want to visit:
 
  You might want to avoid playing with the**Horizontal Scrolling** and**Smooth scrolling** checkboxes, but keep their location in mind: some themes will send you back here to change those options.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Input
 
  If your joypad doesn't work correctly (or at all) with Playnite's Fullscreen Mode, try enabling "**XInput Device Support** " here.
@@ -132,10 +145,16 @@ Here are some of the spots you might want to visit:
 ![Playnite Fullscreen Mode Settings Input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-input.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fans of imported games used to alternative input approaches may also want to enable**Inverted X/A main view button binding** and**Swap confirmation/cancelation button binding** .
@@ -151,10 +170,10 @@ Here are some of the spots you might want to visit:
 ![Playnite Desktop Menu Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-desktop-menu-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ensure you're on the**General** page from the list on the left, and place a checkmark on**Launch in Fullscreen Mode** and**Launch Playnite when you start your computer** .
@@ -186,22 +205,17 @@ Here are some of the spots you might want to visit:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-rank-the-best-tools-top-8-apps-to-increase-likes-on-fb/"><u>[New] 2024 Approved Rank the Best Tools Top 8 Apps to Increase Likes on FB</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-snapchat-audio-ensuring-whole-video-playback-every-time/"><u>[New] 2024 Approved Snapchat Audio Ensuring Whole Video Playback Every Time</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-master-the-art-of-video-annotation-using-markers-with-ease/"><u>[Updated] In 2024, Master the Art of Video Annotation Using Markers with Ease</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-video-editing-tips-for-beginner-editors/"><u>2024 Approved YouTube Video Editing Tips for Beginner Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-studies-top-4-benefits-of-leveraging-artificnial-intelligence/"><u>Boosting Scholarly Studies: Top 4 Benefits of Leveraging Artificnial Intelligence</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-your-steam-balance-with-savvy-investments/"><u>Boosting Your Steam Balance with Savvy Investments</u></a></li>
-<li><a href="https://games-able.techidaily.com/brief-life-in-virtual-servers-a-concerning-factor/"><u>Brief Life in Virtual Servers: A Concerning Factor?</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-back-yesteryear-pokemon-with-mobile-devices/"><u>Bring Back Yesteryear Pokémon with Mobile Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-trust-in-home-steam-experiences-for-kids/"><u>Building Trust in Home Steam Experiences for Kids</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-steams-read-only-library-in-windows-11/"><u>Bypassing Steam's Read-Only Library in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/catch-the-audience-top-6-versatile-titles/"><u>Catch the Audience: Top 6 Versatile Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/click-vs-draw-for-game-rhythm-control/"><u>Click Vs. Draw for Game Rhythm Control</u></a></li>
-<li><a href="https://games-able.techidaily.com/command-control-flawless-xbox-one-sync-setup/"><u>Command Control: Flawless Xbox One Sync Setup</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-sony-xperia-5-v-phone-without-google-account-by-drfone-android/"><u>How to Unlock Sony Xperia 5 V Phone without Google Account?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-glacial-gala-winter-olympics-excellence/"><u>In 2024, Glacial Gala Winter Olympics Excellence</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-prime-gopro-protectors-top-10-reviewed/"><u>In 2024, Guide to Prime GoPro Protectors - Top 10 Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-lgs-visionary-pursuit-deep-insights-into-the-31mu97-b-monitor-review-for-2024/"><u>[New] LG's Visionary Pursuit Deep Insights Into the 31MU97-B Monitor Review for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-which-screencasting-tool-takes-the-lead-bandicam-vs-camtasia-for-2024/"><u>[Updated] Which Screencasting Tool Takes the Lead? - Bandicam Vs. Camtasia for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-best-free-vector-art-and-graphics-websites/"><u>2024 Approved Best Free Vector Art and Graphics Websites</u></a></li>
+<li><a href="https://fox-access.techidaily.com/astronomys-best-showcase-10-prime-hd-sky-archives-for-2024/"><u>Astronomy's Best Showcase - 10 Prime HD Sky Archives for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-90-gt-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor 90 GT For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-13t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi 13T Data? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-nycs-influential-maze-with-these-tips/"><u>Overcoming NYC's Influential Maze with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-buy-checklist-ensuring-your-ps5-decision/"><u>Pre-Buy Checklist: Ensuring Your PS5 Decision</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gaming-justified-for-mts/"><u>Premium Gaming: Justified for MTs?</u></a></li>
+<li><a href="https://games-able.techidaily.com/procedural-generation-explained-in-gaming-contexts/"><u>Procedural Generation Explained in Gaming Contexts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/timeworn-texts-the-linguistic-legacy-of-ancient-greece/"><u>Timeworn Texts: The Linguistic Legacy of Ancient Greece</u></a></li>
 </ul></div>
 

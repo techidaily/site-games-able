@@ -1,7 +1,7 @@
 ---
 title: "Upgrading DualSense Remotely: A Step-by-Step Guide"
-date: 2024-10-08T11:14:49.283Z
-updated: 2024-10-13T02:56:07.924Z
+date: 2024-10-13T20:58:41.226Z
+updated: 2024-10-19T06:15:55.168Z
 tags:
   - games
 categories:
@@ -25,31 +25,11 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
  To have the ability to wirelessly update your controller, you need to make sure that your PS5 is running the latest firmware update. So, if you haven't done so lately, make sure to[update your PS5](https://www.makeuseof.com/how-to-update-ps5/) . Updates are also important because they can also introduce things like new features, bug fixes, performance improvements, and security upgrades.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Go to the Controller Settings Screen
 
  Once you update your PS5, and it grabs the latest controller update from Sony's servers, you should be able to update your controller right from the Home Screen when you boot up your console. Once the prompt comes up, all you have to do is select**Update Now** .
 
 ![the prompt to update DualSense controller on PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/prompt-to-update-dualsense-controller-on-ps5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If someone else is using your console, or you weren't paying attention, the**Notify After 24 Hours** option might have been selected. If that is the case, and you want to update your controller right away, you can go to the controller settings to update the controller.
 
@@ -57,15 +37,22 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 ![selecting Accessories from the PS5 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/selecting-accessories-from-the-ps5-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the popup, select the DualSense controller you want to update, and then select**Controller Settings** in the menu that appears on the left.
 
 ![selecting Controller Settings in the PS5 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/selecting-controller-settings-in-the-ps5-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can get to the controller settings screen by going to**Settings > Accessories > Controller (General)** .
@@ -77,15 +64,28 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 ![PS5 controller settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ps5-controller-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To trigger the wireless update, just select**Update** . Since this is not a full system software update, the process will only take a few seconds to complete. If you find that the**Update** option is grayed out, connect your PS5 controller to the console with a USB-C cable and update it the old way. The next time, your controller will be able to update wirelessly.
 
  We recommend you install PS5 controller updates the moment they're available or when you experience issues with your DualSense (it's actually one of the ways to[fix PS5 controller drift](https://www.makeuseof.com/fix-drifting-ps5-dualsense-controller/) ).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Updating Your DualSense Controller Has Never Been Easier
 
@@ -106,16 +106,24 @@ thumbnail: https://thmb.techidaily.com/69ee34b64cf92db1f2232edf38c3580f65ba5a6c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-captions-101-the-essential-guide/"><u>[New] Vimeo Captions 101 The Essential Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-visual-narratives-unleashed-top-5-filmmaking-skills/"><u>2024 Approved Visual Narratives Unleashed Top 5 Filmmaking Skills</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-poco-x5-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Poco X5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/cultivating-a-virtual-garden-the-9-positive-factors-and-negative-factorsthat-shape-digital-games-world/"><u>Cultivating a Virtual Garden: The 9 Positive Factors and Negative Factorsthat Shape Digital Games' World</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-meta-what-it-is-and-should-gamers-follow/"><u>Demystifying 'Meta': What It Is & Should Gamers Follow?</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-pass-saves-money-but-not-without-exceptions/"><u>Google Play Pass Saves Money, But Not Without Exceptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-adjust-the-brightness-of-your-xbox-controller-and-console-light/"><u>How to Adjust the Brightness of Your Xbox Controller and Console Light</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/leveraging-videos-to-skyrocket-your-fb-audience/"><u>Leveraging Videos to Skyrocket Your FB Audience</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-connection-problems-in-windows-steam-remote-play/"><u>Resolving Connection Problems in Windows-Steam Remote Play</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unlocking-sound-potential-mastering-mac-audio-with-audacity/"><u>Unlocking Sound Potential Mastering Mac Audio with Audacity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-5-pioneering-ai-processor-technologies/"><u>Unveiling the Top 5 Pioneering AI Processor Technologies</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-selective-choice-top-cards-for-4k-videos/"><u>[New] 2024 Approved Selective Choice Top Cards for 4K Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-building-effective-podcast-rss-feeds-for-2024/"><u>[New] Building Effective Podcast RSS Feeds for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-craft-clearer-crisper-youtube-videos-with-quality-tools/"><u>[New] In 2024, Craft Clearer, Crisper YouTube Videos with Quality Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-screen-shot-ease-premium-free-software-for-desktop-recording-on-pcmac/"><u>[Updated] 2024 Approved Screen Shot Ease Premium FREE Software for Desktop Recording on PC/Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unparalleled-immersion-with-eizos-high-resolution-4k-display/"><u>[Updated] Unparalleled Immersion with EIZO’s High-Resolution 4K Display</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capturewiz-windows-10s-snapshot-hero/"><u>CaptureWiz Windows 10'S Snapshot Hero</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-worlds-vanish-in-a-blink-but-do-they-matter/"><u>Game Worlds Vanish in a Blink, But Do They Matter?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-rejuvenate-a-non-starting-display-driver-on-windows-11/"><u>How to Rejuvenate a Non-Starting Display Driver on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-key-to-spreading-online-jokes-fast/"><u>In 2024, The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-t2x-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo T2x 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-5-mac-video-tools-beyond-standard-bandicam/"><u>In 2024, Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://games-able.techidaily.com/indulge-your-curiosity-why-i-love-netflix-gaming/"><u>Indulge Your Curiosity: Why I Love Netflix Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodic-medium-finding-the-right-film-score/"><u>Melodic Medium Finding the Right Film Score</u></a></li>
+<li><a href="https://games-able.techidaily.com/prepare-for-fun-dive-into-chatgpts-favorite-6-games/"><u>Prepare For Fun: Dive Into ChatGPT’s Favorite 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/quieting-down-your-consoles-vibrations/"><u>Quieting Down Your Console's Vibrations</u></a></li>
+<li><a href="https://games-able.techidaily.com/restore-ps4-joystick-functionality-expert-advice-for-gamers/"><u>Restore PS4 Joystick Functionality: Expert Advice for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-playing-counter-strike-2-on-apple-devices/"><u>The Ultimate Guide to Playing Counter-Strike 2 on Apple Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-guide-ea-plays-ps5-favorites/"><u>Ultimate Gaming Guide: EA Play's PS5 Favorites</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-series-s-ditches-physical-game-discs/"><u>Why Xbox Series S Ditches Physical Game Discs</u></a></li>
 </ul></div>
 

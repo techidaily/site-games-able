@@ -1,7 +1,7 @@
 ---
 title: "Huge Savings Alert: Secure Your Discounted 85” TCL LED TV During the After Labor Day Clearance Event at ZDNET!"
-date: 2024-09-17 20:57:15
-updated: 2024-09-20 12:42:46
+date: 2024-10-14T01:26:37.246Z
+updated: 2024-10-19T00:15:54.569Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,29 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,31 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-integrated-dynamic-movement-analysis/"><u>[New] In 2024, Integrated Dynamic Movement Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-mac-capturing-utilities-ranked/"><u>[Updated] Best Mac Capturing Utilities Ranked</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/5-best-gba-emulators-for-pc-that-hook-you-up-for-2024/"><u>5 Best GBA Emulators for PC That Hook You Up for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-convertir-archivos-m4b-a-formato-flac-sin-coste-guia-de-transcodificacion-libre-con-movavi/"><u>Cómo Convertir Archivos M4B a Formato FLAC Sin Coste - Guía De Transcodificación Libre Con Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-guide-on-implementing-googles-text-conversion-service/"><u>Comprehensive Guide on Implementing Google's Text Conversion Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-nintendo-switch-new-joystick-installation/"><u>DIY Nintendo Switch: New Joystick Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-android-gaming-on-linux-platform/"><u>Enabling Android Gaming on Linux Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-a-protected-experience-how-to-guide-your-childs-safe-engagement-with-chatgpt/"><u>Ensuring a Protected Experience: How to Guide Your Child's Safe Engagement with ChatGPT</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-long-does-a-20mb-video-last-for-2024/"><u>How Long Does a 20MB Video Last for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-extend-the-battery-life-of-your-xbox-wireless-controller/"><u>How to Extend the Battery Life of Your Xbox Wireless Controller</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-saving-your-best-on-instagram-a-comprehensive-guide/"><u>In 2024, Saving Your Best on Instagram A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-launching-drivers-in-windows-1011/"><u>Mastering the Art of Launching Drivers in Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/revamping-your-steam-experience-a-guide-to-eliminating-games/"><u>Revamping Your Steam Experience: A Guide to Eliminating Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/systematic-guide-to-uninstall-and-redownload-ps5-games/"><u>Systematic Guide to Uninstall & Redownload PS5 Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-tapestry-translator-looms-screen-recording-guide/"><u>The Tapestry Translator Loom’s Screen Recording Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-view-count-with-these-7-innovative-twitch-bot-assistants/"><u>Transform Your View Count with These 7 Innovative Twitch Bot Assistants</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-pokemons-potential-ios-gaming-mastery/"><u>Unlocking Pokémon's Potential: IOS Gaming Mastery</u></a></li>
+</ul></div>
+

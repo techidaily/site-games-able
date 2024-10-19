@@ -1,7 +1,7 @@
 ---
 title: Up to 25%% Off on 85
-date: 2024-09-18 23:22:11
-updated: 2024-09-20 10:31:16
+date: 2024-10-16T17:25:00.921Z
+updated: 2024-10-19T12:01:06.294Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,29 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +145,33 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-upgrade-your-content-navigating-the-world-of-fb-video-full-scale/"><u>[Updated] 2024 Approved Upgrade Your Content Navigating the World of FB Video Full Scale</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-personalizing-your-windows-photos-experience-add-filters-sound/"><u>[Updated] Personalizing Your Windows Photos Experience Add Filters, Sound</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-snes-and-n64-to-steam/"><u>Connecting SNES & N64 to Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-idle-tag-in-online-discussions/"><u>Demystifying the 'Idle' Tag in Online Discussions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-tool-how-to-convert-wmv-files-to-mp4-format-on-macos-and-windows-11/"><u>Free Online Tool: How to Convert WMV Files to MP4 Format on macOS and Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gerer-vos-medias-ios-avec-aisance-grace-a-winx-mediatrans-le-choix-ideal-pour-transferer-photos-musique-videos-and-ibooks-entre-iphone-et-windowsmac-pc/"><u>Gérer Vos Médias iOS Avec Aisance Grâce À WinX MediaTrans – Le Choix Idéal Pour Transférer Photos, Musique, Vidéos & iBooks Entre iPhone Et Windows/Mac PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-bring-up-the-keyboard-on-your-steam-deck/"><u>How to Bring Up the Keyboard on Your Steam Deck</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-peek-into-personality-traits-top-6-quizzes-to-determine-youtuber-preferences/"><u>In 2024, Peek Into Personality Traits Top 6 Quizzes to Determine YouTuber Preferences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tailor-made-downloads-selecting-your-perfect-4k-app/"><u>In 2024, Tailor-Made Downloads Selecting Your Perfect 4K App</u></a></li>
+<li><a href="https://games-able.techidaily.com/instantaneous-storage-solutions-via-steam-device-cloning/"><u>Instantaneous Storage Solutions via Steam Device Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-your-computer-glitching-install-this-nvidia-driver-update-now-to-fix-it/"><u>Is Your Computer Glitching? Install This Nvidia Driver Update Now to Fix It</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-setup-for-mobile-app-compatibility/"><u>Linux Setup for Mobile App Compatibility</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/missed-opportunities-apples-showcase-lacks-two-major-innovations-in-its-latest-ai-offering-will-they-make-amends/"><u>Missed Opportunities: Apple's Showcase Lacks Two Major Innovations in Its Latest AI Offering - Will They Make Amends?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-sluggish-chrome-instantly-with-these-proven-techniques/"><u>Resolve Sluggish Chrome Instantly with These Proven Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/success-in-games-unveiled-by-helldivers-2s-secrets/"><u>Success in Games Unveiled by Helldivers 2'S Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/these-are-some-of-my-favorite-indie-games-and-how-i-found-them/"><u>These Are Some of My Favorite Indie Games, and How I Found Them</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-recording-companion-az-tests-and-alternatives-for-2024/"><u>Ultimate Recording Companion - AZ Tests & Alternatives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwrapping-windows-rust-steam-login-glitches/"><u>Unwrapping Windows-Rust Steam Login Glitches</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-whiteboard-animation-software-for-windows-and-mac-top-10-picks/"><u>Updated In 2024, Free Whiteboard Animation Software for Windows and Mac Top 10 Picks</u></a></li>
+</ul></div>
+

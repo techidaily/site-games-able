@@ -1,7 +1,7 @@
 ---
 title: Unwanted Virtual Goods? Refunding Your Fortnite Costs
-date: 2024-10-11T09:40:17.871Z
-updated: 2024-10-13T11:01:29.823Z
+date: 2024-10-18T03:57:28.737Z
+updated: 2024-10-19T10:28:59.328Z
 tags:
   - games
 categories:
@@ -36,10 +36,16 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
@@ -55,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The deadline for applications is January 17, 2024.
@@ -68,10 +74,10 @@ The deadline for applications is January 17, 2024.
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Epic Win for Fortnite Gamers
@@ -93,17 +99,20 @@ The deadline for applications is January 17, 2024.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-utilizing-luts-for-professional-color-grading/"><u>[New] 2024 Approved Utilizing LUTs for Professional Color Grading</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-video-chat-zoom-on-xbox/"><u>[Updated] Navigating Video Chat Zoom on Xbox</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-innovative-thumbnail-tips-for-mac-users-youtube/"><u>2024 Approved Innovative Thumbnail Tips for Mac Users - YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-system-specs-to-elevate-your-big-sur-experience/"><u>2024 Approved System Specs to Elevate Your Big Sur Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/audio-control-a-guide-to-peaceful-gaming-experience/"><u>Audio Control: A Guide to Peaceful Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-game-installation-oversight-by-steam/"><u>Avoiding Game Installation Oversight by Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/before-you-join-the-linkedin-game-consider-these-points/"><u>Before You Join the LinkedIn Game, Consider These Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-seated-player-partnerships-top-16-on-xbox-series-sx/"><u>Best Seated Player Partnerships - Top 16 on Xbox Series S/X</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-sumind-bt7/"><u>Comprehensive Sumind BT7</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/discover-the-next-wave-of-effective-facebook-ad-techniques-for-2024/"><u>Discover the Next Wave of Effective Facebook Ad Techniques for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-nubia-red-magic-9-proplus-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nubia Red Magic 9 Pro+ Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-vlc-a-guide-to-streaming-videos-on-apple-tv/"><u>Mastering VLC: A Guide to Streaming Videos on Apple TV</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevate-your-video-content-with-effective-unboxing-tactics/"><u>[New] Elevate Your Video Content with Effective Unboxing Tactics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-tips-choosing-the-ideal-screen-recorder-software-for-2024/"><u>[New] Expert Tips Choosing the Ideal Screen Recorder Software for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-cured-non-appearance-of-tiny-vid-content/"><u>[Updated] 2024 Approved Cured Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-novel-talk-points-for-daily-videos/"><u>[Updated] Novel Talk Points for Daily Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-gaming-a-step-by-step-controller-tear-down/"><u>Decoding Gaming: A Step-by-Step Controller Tear Down</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/effortless-hd-streaming-from-huawei-p50-to-personal-laptop-or-desktop/"><u>Effortless HD Streaming From Huawei P50 to Personal Laptop or Desktop</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-safety-of-enhancing-gameplay-in-roblox/"><u>Evaluating the Safety of Enhancing Gameplay in Roblox</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-crash-ultimate-guide-to-resolving-error-code-0xc000021a-bsod-in-windows-10-and-8/"><u>Fixing the Crash: Ultimate Guide to Resolving Error Code 0xC000021A (BSoD) in Windows 10 & 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-gpus-why-i-overpaid-and-overlooked-alternatives/"><u>High-End GPUs: Why I Overpaid & Overlooked Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-submission-that-works-on-apples-platform/"><u>In 2024, Crafting a Submission that Works on Apple's Platform</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-gradual-dimming-of-sound-in-audacity-masterclass/"><u>In 2024, Gradual Dimming of Sound in Audacity Masterclass</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-connectivity-issues-on-switch/"><u>Navigating Connectivity Issues on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-deck-gaming-add-epic-and-gog-to-your-setup/"><u>Stream Deck Gaming: Add Epic & GOG to Your Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-ten-terrors-of-trial-and-tribulation-in-games/"><u>The Top Ten Terrors of Trial and Tribulation in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-gaming-on-the-switch-with-these-setups/"><u>Transforming Gaming on the Switch with These Setups</u></a></li>
 </ul></div>
 

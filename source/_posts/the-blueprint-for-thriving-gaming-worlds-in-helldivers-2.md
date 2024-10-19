@@ -1,7 +1,7 @@
 ---
 title: The Blueprint for Thriving Gaming Worlds in Helldivers 2
-date: 2024-10-09T07:16:00.114Z
-updated: 2024-10-12T23:17:04.706Z
+date: 2024-10-17T23:35:26.716Z
+updated: 2024-10-19T11:31:51.276Z
 tags:
   - games
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 * [Have a Free Progression System](#have-a-free-progression-system)
 * [Balance Gameplay Mechanics](#balance-gameplay-mechanics)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Cross-platform play and free progression without making in-game purchases mandatory are key to player satisfaction.
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 ## 1 Allow Cross-Platform Multiplayer Play
 
 ![Screenshot of Helldivers 2 Super Earth public service announcement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0416461.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Helldivers 2 is a third-person shooter live service game where players become Helldivers fighting for Super Earth. Players join teammates in missions on different planets across the universe to eradicate Terminids (bug-like alien life forms) and Automatons (robots). Helldivers harvest valuable resources from planets that are home to Terminids and Automatons.
 
@@ -54,19 +68,6 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
 
 ## 3 Have A Strong Social Media Presence
@@ -75,20 +76,27 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Offer Community Challenges
 
 ![Screenshot of Major Order in Helldivers 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415472.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Helldivers 2 also succeeded in creating a sense of community through weekly challenges known as Major Orders. One recent Major Order required the game's player base to kill 2 million Terminids to receive in-game currency called medals.
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Have a Free Progression System
 
@@ -101,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
@@ -113,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 Balance Gameplay Mechanics
 
  With new weapons, armor, and emotes dropping monthly, game developers watch to see if these newer weapons are over- or under-powered based on gameplay and community feedback.
@@ -127,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
  For example, the SG-225 Breaker shotgun got "nerfed", meaning the game developers reduced its overall power by reducing its ammo capacity and increasing its recoil to balance the game and encourage using other weapons.
 
 ![Screenshot of Helldivers 2 SG-225 Breaker automatic shotgun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0504130.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Balancing game mechanics helps keep the experience varied and allows people to use different combinations of guns and other strategies to succeed in the game.
 
@@ -154,20 +154,24 @@ thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-brand-alliances-elevating-youtube-content-for-2024/"><u>[Updated] Brand Alliances Elevating YouTube Content for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-tecno-spark-10c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Tecno Spark 10C to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719163251677-achieve-peak-performance-install-updated-nvidia-graphics-driver-now/"><u>Achieve Peak Performance - Install Updated Nvidia Graphics Driver Now.</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieving-an-optimal-steam-inventory-with-simple-steps/"><u>Achieving an Optimal Steam Inventory with Simple Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-the-blockade-fixing-obs-studios-server-error-window/"><u>Bypassing the Blockade: Fixing OBS Studio's Server Error Window</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-the-game-subscribe-and-optimize-ps5s-ea-play-experience/"><u>Embrace the Game: Subscribe & Optimize PS5's EA Play Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-guide-emulating-games-for-steam-deck-users/"><u>Essential Guide: Emulating Games for Steam Deck Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722954425985-get-the-latest-logitech-k350-keyboard-software-here/"><u>Get the Latest Logitech K350 Keyboard Software Here!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-fainter-frequencies-for-pc-and-mac-harmony/"><u>In 2024, Fainter Frequencies for PC & Mac Harmony</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-revolutionary-video-editor-top-tier-clarity/"><u>In 2024, Revolutionary Video Editor Top-Tier Clarity</u></a></li>
-<li><a href="https://article-files.techidaily.com/iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
-<li><a href="https://games-able.techidaily.com/more-than-a-series-explore-the-full-fallout-video-game-repertoire/"><u>More than a Series: Explore the Full Fallout Video Game Repertoire</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-sub-to-ea-play-with-skyrocketing-fees/"><u>No Sub to EA Play With Skyrocketing Fees</u></a></li>
-<li><a href="https://games-able.techidaily.com/safeguarding-games-how-to-activate-screen-lock-on-switch-console/"><u>Safeguarding Games: How to Activate Screen Lock on Switch Console</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unleash-collaborative-power-in-virtual-settings-the-top-10-free-recorders/"><u>Unleash Collaborative Power in Virtual Settings - The Top 10 Free Recorders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precise-mac-recording-without-costs-for-2024/"><u>[New] Precise Mac Recording Without Costs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elevating-4k-video-output-on-your-devices/"><u>[Updated] Elevating 4K Video Output on Your Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-high-end-psd-lighting-tweaks/"><u>[Updated] In 2024, High-End PSD Lighting Tweaks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>2024 Approved Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/current-consciousness-beyond-the-switch/"><u>Current Consciousness: Beyond the Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-twitch-step-by-step-for-live-stream-users/"><u>Demystifying Twitch: Step-by-Step for Live Stream Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashgame-features-seasonal-strategy-surge/"><u>FlashGame Features: Seasonal Strategy Surge</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-tips-for-mac-users-audacitys-audio-recording-features/"><u>In 2024, Expert Tips for Mac Users Audacity's Audio Recording Features</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-stuck-in-attempting-to-recover-data-loop-heres-how-to-break-free/"><u>IPhone Stuck in ‘Attempting to Recover Data’ Loop? Here’s How to Break Free!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mute-the-chaos-setting-up-your-xbox-notification-scheme/"><u>Mute the Chaos: Setting Up Your Xbox Notification Scheme</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-dxgierror-0x887a0006-in-win1111/"><u>Navigating Through DXGI_ERROR 0X887A0006 in Win11/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-your-ps-vr2-setup/"><u>Optimizing Your PS VR2 Setup</u></a></li>
+<li><a href="https://win-web3.techidaily.com/secrets-de-mise-en-place-dun-sauvegarde-fiable-avec-aomei-backupper/"><u>Secrets De Mise en Place D'un Sauvegarde Fiable Avec AOMEI Backupper</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/y-and-simple-steps-for-posting-short-videos-online-for-2024/"><u>Snappy and Simple Steps for Posting Short Videos Online for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-steps-to-fix-hp-beats-audio-driver-conflicts-in-windows-operating-systems/"><u>Troubleshooting Steps to Fix HP Beats Audio Driver Conflicts in Windows Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-hidden-steam-account-code-digit/"><u>Uncovering the Hidden Steam Account Code Digit</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-twitch-the-ultimate-guide-for-live-streams/"><u>Understanding Twitch: The Ultimate Guide for Live Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-six-paths-to-power-up-your-ps5/"><u>Unlocking the Six Paths to Power Up Your PS5</u></a></li>
 </ul></div>
 

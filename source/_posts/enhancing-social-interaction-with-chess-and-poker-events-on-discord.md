@@ -1,7 +1,7 @@
 ---
 title: Enhancing Social Interaction with Chess & Poker Events on Discord
-date: 2024-09-18T20:35:16.434Z
-updated: 2024-09-21T00:41:53.855Z
+date: 2024-10-12T08:51:22.622Z
+updated: 2024-10-19T09:34:01.106Z
 tags:
   - games
 categories:
@@ -43,19 +43,39 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ![Starting an activity on Discord-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/starting-an-activity-on-discord-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you'll see a menu of all the activities you can play with your friends. Hover on each to see a preview, and pick an activity.
 
 ![Discord activities list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/discord-activities-list.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A window will appear, asking for authorization for the activity to access your account. Click on**Authorize** to allow it. Now your friends can join the activity!
 
 ![Discord activity asking for authorization](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/discord-activity-asking-for-authorization.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Join an Existing Activity on a Discord Channel
@@ -65,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![Joining an activity on Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/joining-an-activity-on-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once in, click**Join Activity** to join them. If you haven't previously authorized the activity, click**Authorize** to get it started. If you're looking for people to play with, try[joining one of the best Discord servers](https://www.makeuseof.com/tag/how-to-find-best-discord-servers/) .
@@ -88,5 +108,18 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-into-making-the-most-out-of-mac-preview/"><u>[Updated] Expert Insights Into Making the Most Out of Mac Preview</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movavi3gpwebm/"><u>「通過Movavi簡便免費工具自動轉換3GP到WebM，最大限度地提高儲存空間效率！」</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-secrets-sharing-restricted-youtube-content-via-email/"><u>2024 Approved Unveiling Secrets Sharing Restricted YouTube Content via Email</u></a></li>
+<li><a href="https://driver-install.techidaily.com/activate-tablet-with-new-avstar-network-adapter/"><u>Activate Tablet with New AVSTAR Network Adapter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-precise-codex-of-conduct-in-the-digital-realm/"><u>In 2024, Precise Codex of Conduct in the Digital Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/intrigue-and-investigation-with-smart-ai-games/"><u>Intrigue & Investigation with Smart AI Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-pc-mouse-and-keyboard-sharing-with-steam-deck-the-barrier-method/"><u>Mastering PC Mouse & Keyboard Sharing with Steam Deck: The Barrier Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/pricing-playtime-before-release-reviewed/"><u>Pricing Playtime Before Release Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-dynamics-of-gamings-metagame/"><u>The Hidden Dynamics of Gaming’s Metagame</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-visionos-enhancements-the-exciting-possibilities-we-hope-apple-unveils-at-the-upcoming-wwdc/"><u>Top 10 VisionOS Enhancements: The Exciting Possibilities We Hope Apple Unveils at the Upcoming WWDC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/which-is-the-top-screener-bandicam-or-camtasia-for-2024/"><u>Which Is the Top Screener? - Bandicam Or Camtasia for 2024</u></a></li>
+</ul></div>
 

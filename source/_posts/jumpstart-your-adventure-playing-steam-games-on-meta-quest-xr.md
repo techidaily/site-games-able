@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Your Adventure: Playing Steam Games on Meta Quest XR"
-date: 2024-10-08T18:13:00.833Z
-updated: 2024-10-12T19:39:20.245Z
+date: 2024-10-13T21:22:27.752Z
+updated: 2024-10-19T00:30:44.914Z
 tags:
   - games
 categories:
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![steam link no computer found](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-no-computer-found.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it successfully locates your computer, click**Connect** , and you'll be given a four-digit code to enter on the Steam side. You'll only need to do this once.
 
 ![steam link connect computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-connect-computer.jpg)
@@ -61,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
  You'll be greeted with the usual "big screen" Steam menu and can proceed to use Steam VR as if you were on a desktop. You can jump straight into your VR games with full Quest controller support.
 
 ![steam link vr bigscreen mode vr titles only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-bigscreen-mode-vr-titles-only.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While it is possible to play non-VR flatscreen games using Steam Link as well, I found that the Meta Quest controllers aren't emulated as a gamepad, nor will Steam Link pass through a gamepad that's connected via Bluetooth to your Quest.
 
@@ -80,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 * The method can be awkward for non-VR games due to the lack of controller support, Bluetooth passthrough, or easy mouse emulation.
 * Many users report problems with performance.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using a Virtual Desktop to Play Steam Games on the Meta Quest
 
 [Virtual Desktop](https://www.vrdesktop.net/) is my preferred connection method, but it's a paid application. At $15, it's not exactly expensive, and it offers by far the most feature-rich and reliable method of streaming wirelessly from your desktop.
@@ -94,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![virtual desktop screenshot app about my pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/virtual-desktop-screenshot-app-about-my-pc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Start by downloading the streaming software to your PC using the[Virtual Desktop website](https://www.vrdesktop.net/) . Make sure that it's running (it sits quietly in the taskbar usually).
@@ -106,18 +119,18 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 ![meta store download virtual desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/meta-store-download-virtual-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Start the Virtual Desktop app on your headset, then pop over to your PC and click the**Allow** button in the dialog that comes up—it should say your Oculus username. From there, you'll be automatically connected.
 
  You can now use the Meta Quest controllers to interact with your desktop and open SteamVR or any other application as you would with a mouse. Alternatively, press the left controller button and select the Games tab. It'll list any Steam (and Oculus) VR games so that you can launch them directly.
 
 ![virtual desktop games library view in headset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/virtual-desktop-games-library-view-in-headset.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also emulate a standard gamepad using the Meta Quest controllers—though it can take some getting used to. Virtual Desktop will pass through an actual Bluetooth gamepad as well, so if you aren't in the same room, you can[connect a gamepad to your Quest](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/controllers-and-hand-tracking/gamepad-with-oculus-quest-2/) and use that to play.
 
@@ -134,10 +147,10 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 * This method requires a server app to be installed on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Using the Meta Quest AirLink
@@ -147,13 +160,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
  The main requirement is that you'll need the[Oculus desktop app](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-rift-s/install-app-for-link/) installed on your PC. There are no additional apps needed on your headset; just open up the**Quick Settings** menu and then click on the**Quest Link** option on the right.
 
 ![enable quest link from quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enable-quest-link-from-quick-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For wireless connectivity, click the**Enable AirLink** option. Your computer should then be listed below. Click to pair, and if this is your first time, you'll need to confirm the pairing request on the PC side (a code is shown to verify from the headset, but you don't need to note it down or type it in).
 
@@ -179,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 * It needs the Oculus desktop app (also known as Meta Quest Link app), which can add overhead and degrade performance.
 * It has an outdated UI and a frustrating experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using the Meta Link Cable (Wired)
 
  Finally, for the highest quality but less convenience, you can simply plug your Meta Quest directly into your gaming PC—provided you have a high-speed USB port (USB-C or A 3.1/3.2) and a suitable cable.
@@ -204,6 +203,13 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 * This method is almost as buggy as AirLink.
 * You're tethered to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Method Should You Use to Play Steam Games on Your Meta Quest?
 
@@ -226,16 +232,22 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-starting-offright-how-to-register-with-youtube/"><u>[New] 2024 Approved Starting Offright How to Register With YouTube</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-instagrams-secrets-for-creating-must-watch-unboxings/"><u>[New] In 2024, Instagram's Secrets for Creating Must-Watch Unboxings</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-live-broadcasting-on-fb-tips-for-success/"><u>[New] Live Broadcasting on FB Tips for Success</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-optimize-tiktok-videos-for-snappy-playback-times-for-2024/"><u>[Updated] Optimize TikTok Videos for Snappy Playback Times for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-deciphering-instagrams-video-snippet-size/"><u>2024 Approved Deciphering Instagram's Video Snippet Size</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-averages-questioning-game-score-credibility/"><u>Beyond Averages: Questioning Game Score Credibility</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-plugin-new-ways-to-engage-with-flash-gaming/"><u>Beyond the Plugin: New Ways to Engage with Flash Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/breakthrough-rog-allys-core-console-fixation/"><u>Breakthrough: RoG Ally's Core Console Fixation</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-audio-worlds-on-playstation-5/"><u>Bridging Audio Worlds on PlayStation 5</u></a></li>
-<li><a href="https://games-able.techidaily.com/cinematic-journey-with-ps5-and-sony-pictures/"><u>Cinematic Journey with PS5 & Sony Pictures</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-itel-a05s-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Itel A05s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-beginners-guide-to-seo-skyrocket-your-view-count/"><u>[New] 2024 Approved A Beginner’s Guide to SEO Skyrocket Your View Count</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-key-elements-for-successful-engagement-with-facebook-livestreams-for-2024/"><u>[Updated] Key Elements for Successful Engagement with Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picscanner-tricks-uncomplicated-approaches-to-image-anonymity/"><u>2024 Approved PicScanner Tricks Uncomplicated Approaches to Image Anonymity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-confrontation-analysis-how-does-chatgpt-measure-up-to-google-bard/"><u>AI Confrontation Analysis: How Does ChatGPT Measure Up to Google Bard?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/avoiding-malware-while-securing-free-and-safe-vlc-download-on-macos/"><u>Avoiding Malware While Securing Free & Safe VLC Download on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-enhancement-11-vs-12-comparison-guide/"><u>DirectX Enhancement: 11 Vs. 12 Comparison Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-wild-with-augmented-fun/"><u>Discover the Wild With Augmented Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-top-6-innovative-chess-mobile-games/"><u>Elevate Your Gameplay: Top 6 Innovative Chess Mobile Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fade-to-black-in-premiere-pro/"><u>Fade To Black In Premiere Pro</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-chill-the-ultimate-id-cooling-frozn-a720-and-a620-air-cooler-reviews/"><u>Innovative Chill: The Ultimate ID-Cooling FROZN A720 & A620 Air Cooler Reviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/skepticism-in-spades-why-rely-on-game-reviews/"><u>Skepticism in Spades: Why Rely on Game Reviews?</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-fix-create-file-failed-windows-error-30005/"><u>Steps to Fix Create File Failed - Windows Error 30005</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-list-youtube-alternatives-for-video-creators-for-2024/"><u>The Ultimate List YouTube Alternatives for Video Creators for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-bots-that-transform-your-twitch-broadcasting-experience/"><u>Top Bots That Transform Your Twitch Broadcasting Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-independent-games-uncovered-my-personal-gaming-journey/"><u>Top Independent Games Uncovered: My Personal Gaming Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-startup-issues/"><u>Troubleshooting City Skylines 2 Startup Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-move-to-curtail-misused-return-options/"><u>Valve's Move to Curtail Misused Return Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Hidden Metrics: Total Gameplay Hours on Xbox Series S"
-date: 2024-09-20T01:38:41.150Z
-updated: 2024-09-20T21:59:23.016Z
+date: 2024-10-16T10:03:26.685Z
+updated: 2024-10-19T10:55:08.556Z
 tags:
   - games
 categories:
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
@@ -56,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -74,14 +95,14 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
- But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -102,5 +123,21 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-golden-grounds-guided-the-finest-treasure-maps/"><u>[New] In 2024, Golden Grounds Guided The Finest Treasure Maps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unlock-your-screen-androids-premier-free-recorder-tools/"><u>[New] Unlock Your Screen Android's Premier Free Recorder Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[Updated] In 2024, The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-instantly-connecting-fans-how-to-take-your-fb-live-further-for-2024/"><u>[Updated] Instantly Connecting Fans How to Take Your FB Live Further for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategic-forecasts-for-social-media-success-fbs-vision-in-2ranking-for-2024/"><u>[Updated] Strategic Forecasts for Social Media Success FB's Vision in 2Ranking for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-connections-the-hidden-risks-of-linkedin-gaming/"><u>Beyond Connections: The Hidden Risks of LinkedIn Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-a-safe-steam-world-for-young-ones/"><u>Building a Safe Steam World for Young Ones</u></a></li>
+<li><a href="https://games-able.techidaily.com/clouding-up-game-highlights-store-screenshots-easily/"><u>Clouding Up Game Highlights: Store Screenshots Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/coding-conundrum-the-advantages-and-disadvantages-of-digital-gaming/"><u>Coding Conundrum: The Advantages and Disadvantages of Digital Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/comet-craftsmanship-evaluating-next-gen-computers/"><u>Comet Craftsmanship: Evaluating Next-Gen Computers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/purging-protection-logs-on-windows-1011-with-ease/"><u>Purging Protection Logs on Windows 10/11 with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-9-fb-scraper-apps-for-films/"><u>Top 9 FB Scraper Apps for Films</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-a-sluggish-pc-how-revo-uninstaller-can-help/"><u>Troubleshooting a Sluggish PC: How Revo Uninstaller Can Help</u></a></li>
+</ul></div>
 

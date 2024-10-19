@@ -1,7 +1,7 @@
 ---
 title: Mega Savings on Xbox & Fire TV Stick Bundle, Including Xbox Game Pass at No Charge | Tech Reviews ZDNet
-date: 2024-09-17 19:18:22
-updated: 2024-09-20 12:32:19
+date: 2024-10-18T13:15:48.391Z
+updated: 2024-10-19T05:51:13.611Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -59,6 +66,19 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -71,11 +91,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +154,27 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unveiling-social-media-stars-your-niches-influencers-guide/"><u>[New] 2024 Approved Unveiling Social Media Stars Your Niche’s Influencers Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-fb-slideshows-for-content-sharing/"><u>[New] In 2024, Mastering FB Slideshows for Content Sharing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-master-your-images-top-10-pixlr-hacks-revealed/"><u>[Updated] 2024 Approved Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-how-to-fix-common-instagram-video-errors/"><u>2024 Approved How to Fix Common Instagram Video Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-repair-minecraft-launcher-issue-code-0x803f8001/"><u>How to Repair Minecraft Launcher Issue Code 0X803F8001</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unlock-your-presentation-potential-with-these-high-quality-templates/"><u>In 2024, Unlock Your Presentation Potential with These High-Quality Templates</u></a></li>
+<li><a href="https://games-able.techidaily.com/rise-rapidly-from-runway-rejection/"><u>Rise Rapidly From Runway Rejection</u></a></li>
+<li><a href="https://win11.techidaily.com/synchronize-subtitles-navigating-textual-glitches-with-prime-and-windows-11/"><u>Synchronize Subtitles: Navigating Textual Glitches with Prime & Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-top-budget-pick-from-apples-lineup-an-insightful-review-of-the-upgraded-8th-gen-ipad/"><u>The Top Budget Pick From Apple's Lineup: An Insightful Review of the Upgraded 8Th Gen iPad.</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-mechanics-behind-an-xbox-360-slims-design/"><u>Uncovering the Mechanics Behind an Xbox 360 Slim's Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-vanguard-the-top-11-pivotal-war-strategies/"><u>Virtual Vanguard: The Top 11 Pivotal War Strategies</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/wybrane-solucy-apn-i-nnp-w-postaci-wolontarnych-kopii-zapasowych-na-dysku-zwrotnym-nowe-idee-dla-przyrostu-infrastruktury/"><u>Wybrane Solucy APN I NNP W Postaci Wolontarnych Kopii Zapasowych Na Dysku Zwrotnym: Nowe Idee Dla Przyrostu Infrastruktury</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/your-music-masterpiece-awaits-step-by-step-to-youtube-playlist-perfection-webmobile/"><u>Your Music Masterpiece Awaits Step-by-Step to YouTube Playlist Perfection (Web/Mobile)</u></a></li>
+</ul></div>
+

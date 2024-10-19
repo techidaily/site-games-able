@@ -1,7 +1,7 @@
 ---
 title: These Are Some of My Favorite Indie Games, and How I Found Them
-date: 2024-10-05T17:16:01.096Z
-updated: 2024-10-12T21:49:39.893Z
+date: 2024-10-15T09:24:32.867Z
+updated: 2024-10-19T12:26:11.734Z
 tags:
   - games
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Untitled Goose Game
@@ -58,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  If you’re not familiar with this game, it’s pretty simple: you are a goose and your job is to cause trouble. Specifically, the game gives you a list of tasks to perform throughout a small, quaint English village, tasks that, in many cases, are annoying and sometimes even mean to the inhabitants of said village.
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 A Short Hike
 
@@ -71,22 +71,15 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
@@ -102,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
@@ -128,18 +128,19 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-smoothly-view-youtube-videos-without-borders/"><u>[New] 2024 Approved How to Smoothly View YouTube Videos without Borders?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-obs-studio-excellence-the-top-5-editing-strategies/"><u>[New] OBS Studio Excellence The Top 5 Editing Strategies</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-spark-ar-maximizing-realism-with-downloadable-lut-files/"><u>[New] Spark AR Maximizing Realism with Downloadable LUT Files</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-win10-screen-snapshot-maker-pro-for-2024/"><u>[New] Win10 Screen Snapshot Maker Pro for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-continuous-screenshot-providers/"><u>[Updated] Continuous Screenshot Providers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-artisans-guide-mastering-gopro-video-editing-for-2024/"><u>[Updated] The Artisan's Guide Mastering GoPro Video Editing for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-defense-reviewed-an-expert-look-at-procases-macbook-pro-13-case/"><u>Budget-Friendly Defense Reviewed: An Expert Look at ProCase’s MacBook Pro 13 Case</u></a></li>
-<li><a href="https://games-able.techidaily.com/gpu-market-trends-are-higher-costs-on-the-horizon/"><u>GPU Market Trends: Are Higher Costs on the Horizon?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-in-this-case-you-would-prefer-to-rotate-3gp-videos-90-degrees-for-a-better-viewing-here-is-a-list-of-top-5-free-3gp-video-rotators/"><u>New 2024 Approved In This Case, You Would Prefer to Rotate 3GP Videos 90 Degrees for a Better Viewing. Here Is a List of Top 5 Free 3GP Video Rotators</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-showdown-ps5-versus-low-cost-gaming-machine/"><u>Next-Gen Showdown: PS5 Versus Low-Cost Gaming Machine</u></a></li>
-<li><a href="https://games-able.techidaily.com/stellar-sculptors-guide-to-next-level-gaming/"><u>Stellar Sculptor's Guide to Next-Level Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-for-deciding-to-mend-or-replace-your-console/"><u>Tips for Deciding to Mend or Replace Your Console</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-images-without-spending-a-dime-quick-tips-here/"><u>[New] YouTube Images Without Spending a Dime – Quick Tips Here</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-subtitles-revolution-srt-to-sub-upgrade/"><u>[Updated] 2024 Approved Subtitles Revolution SRT to SUB Upgrade</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-drone-motors-choose-the-5-best-motors-for-your-quadcopter/"><u>[Updated] Drone Motors Choose the 5 Best Motors for Your Quadcopter</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-breathe-life-into-your-reel-tips-for-perfect-slow-motion/"><u>[Updated] In 2024, Breathe Life Into Your Reel Tips for Perfect Slow Motion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-on-apples-flagship-supercharged-16-inch-macbook-pro-with-m1-max-chip-late-2021-zdnet-insights/"><u>Comprehensive Review on Apple's Flagship Supercharged 16-Inch MacBook Pro with M1 Max Chip (Late 2021) | ZDNET Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-statistics-assessing-gameplay-performance/"><u>Decoding Steam Statistics: Assessing Gameplay Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-handhraniable-titles-with-controller/"><u>Excellent Handhraniable Titles With Controller</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-advice-remedying-mysteries-in-macos-folders/"><u>Expert Advice: Remedying '?' Mysteries in macOS Folders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/exploring-technology-with-tom-your-ultimate-resource/"><u>Exploring Technology with Tom - Your Ultimate Resource</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-evga-driver-software-on-a-windows-pc/"><u>How to Update Your EVGA Driver Software on a Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimaxs-clear-cut-vision-with-a-side-of-software-glitches/"><u>Pimax's Clear Cut Vision with a Side of Software Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/tricks-for-unrestricted-gaming-experience-with-xbox-one/"><u>Tricks for Unrestricted Gaming Experience with Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-exciting-terminals-games-in-linux/"><u>Your Guide to Exciting Terminals Games in Linux</u></a></li>
 </ul></div>
 

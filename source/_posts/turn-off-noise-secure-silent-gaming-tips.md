@@ -1,7 +1,7 @@
 ---
 title: "Turn Off Noise: Secure Silent Gaming Tips"
-date: 2024-10-10T06:45:21.734Z
-updated: 2024-10-13T00:34:32.657Z
+date: 2024-10-17T07:05:13.799Z
+updated: 2024-10-18T22:17:50.167Z
 tags:
   - games
 categories:
@@ -44,58 +44,32 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 ![Controller settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/controller-setting-xbox.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On the**Xbox Accessories** page, you’ll see your controller. Select**Configure** and choose your profile on the**Profiles** panel. You should see your controller’s profile open up on the right. Select the pencil icon to open controller settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Xbox One Accessories page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessories-xbox.jpeg)
 5. On this page, you'll see several options for configuring your Xbox controller, including options for[remapping your Xbox controller buttons](https://www.makeuseof.com/tag/how-to-remap-your-xbox-one-controller-buttons/) . From these options, locate and select the**Turn on vibration** setting and press**A** on your controller to uncheck the box next to it.  
 ![Xbox configure setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-configure-setting.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With this, your Xbox controller's vibration is now disabled. Remember that you can enable it again following the same steps if you wish to revert to the default setting.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Mute Sounds on Your Xbox Console
 
  Muting the audio sounds on your Xbox console is a straightforward process. On your Xbox console, go to**Settings > Accessibility > Audio** .
 
 ![Xbox One accessibility audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessibility-audio-settings.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You’ll see several audio-related settings, such as**Mute navigation sounds** ,**Mute notification sounds** ,**Power chime** , and**Mute startup sounds** , that can be enabled or disabled to suit your preferences.
 
@@ -107,7 +81,21 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 ![Xbox One power chime setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-chime-setting.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can choose the**Only with power button or voice** option or select**Off** from the drop-down menu to completely mute the chime sound. With the first option selected, the Xbox will only chime when you use the power button on the console or voice commands to turn the console on or off.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Mute Sounds on Your Xbox Console and Controller With These Easy Steps
 
@@ -130,24 +118,18 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-guide-choosing-your-first-film-camera/"><u>[New] A Beginner's Guide Choosing Your First Film Camera</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-sharing-youtube-content-on-facebook-a-step-by-step-guide/"><u>[New] Sharing YouTube Content on Facebook A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-perfecting-vlog-shots-how-to-use-a-tripod-like-a-pro/"><u>[Updated] 2024 Approved Perfecting Vlog Shots How to Use a Tripod Like a Pro</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>2024 Approved The Complete Haul Video Manual From Shopping to Screen Time</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024s-leading-ddr5-motherboards-unveiled/"><u>2024'S Leading DDR5 Motherboards Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/2024s-most-stylish-and-functional-switch-accessories/"><u>2024'S Most Stylish and Functional Switch Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-on-selecting-a-portable-games-system-that-suits-you-best/"><u>A Guide on Selecting a Portable Games System that Suits You Best</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessing-steam-games-from-mobile-iphone-and-android-steam-link-methods/"><u>Accessing Steam Games From Mobile: IPhone & Android Steam Link Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-luxury-for-your-virtual-journey/"><u>Affordable Luxury for Your Virtual Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/amds-latest-tech-fsr-3-threat-to-nvidias-dlss-supremacy/"><u>AMD's Latest Tech, FSR 3: Threat to NVIDIA's DLSS Supremacy?</u></a></li>
-<li><a href="https://games-able.techidaily.com/beating-high-costs-of-xbox-game-pass-briefly-effective-tips/"><u>Beating High Costs of Xbox Game Pass – Briefly Effective Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/behind-the-scenes-of-twitch-live-broadcast-fundamentals/"><u>Behind the Scenes of Twitch: Live Broadcast Fundamentals</u></a></li>
-<li><a href="https://common-error.techidaily.com/blackout-brink-visual-puzzle/"><u>Blackout Brink: Visual Puzzle</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171487913-bring-your-psp-experience-to-todays-technology/"><u>Bring Your PSP Experience to Today's Technology!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-mini-official-method-to-unlock-your-iphone-13-mini-by-drfone-ios/"><u>How To Unlock iPhone 13 mini Official Method to Unlock Your iPhone 13 mini</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity/"><u>In 2024, Unlocking Verified Status Essential Strategies for Increasing Instagram Popularity</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncovering-the-practical-benefits-of-photo-stability-features-for-2024/"><u>Uncovering the Practical Benefits of Photo Stability Features for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-shots-to-screens-the-importance-of-camera-lenses-in-vlogs-for-2024/"><u>[New] From Shots to Screens The Importance of Camera Lenses in Vlogs for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pro-tips-for-immediate-use-of-io-screen-recorder-for-2024/"><u>[New] Pro Tips for Immediate Use of IO Screen Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beware-the-allure-of-sham-youtube-audience/"><u>[Updated] In 2024, Beware the Allure of Sham YouTube Audience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-classic-gaming-a-comprehensive-list-of-ps3-games-perfectly-emulated-on-pc/"><u>Elevate Classic Gaming: A Comprehensive List of PS3 Games, Perfectly Emulated on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/execute-android-software-seamlessly-on-linux/"><u>Execute Android Software Seamlessly on Linux</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-m14-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy M14 5G Through Google Earth?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-and-xbox-wireless-restore-lost-linking-synchrony/"><u>PC & Xbox Wireless: Restore Lost Linking Synchrony</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tailored-viewing-experience-constructing-a-personalized-watch-later-list/"><u>Tailored Viewing Experience Constructing a Personalized 'Watch Later' List</u></a></li>
+<li><a href="https://games-able.techidaily.com/take-charge-of-teams-without-spending-a-dime-pc/"><u>Take Charge of Teams Without Spending a Dime (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-magic-behind-transparent-xbox-streaming/"><u>The Magic Behind Transparent Xbox Streaming</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-mini-usb-wi-fi-adapter-u631-unmatched-connectivity-and-reliable-design/"><u>The Ultimate Mini USB Wi-Fi Adapter (U631): Unmatched Connectivity & Reliable Design</u></a></li>
 </ul></div>
 

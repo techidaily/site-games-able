@@ -1,7 +1,7 @@
 ---
 title: "The Case for Reinventing Xbox's Loyalty Program: Four Critical Upgrades"
-date: 2024-10-10T23:21:03.397Z
-updated: 2024-10-13T05:39:22.496Z
+date: 2024-10-17T07:19:31.305Z
+updated: 2024-10-19T10:33:40.426Z
 tags:
   - games
 categories:
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  So while there may be ways to quickly earn Microsoft Reward Points, readily available rewards earn few points, while heavy-earners are time-capped. This combination creates a timely and frustrating cycle for the service where you can only redeem a reward after months and months of earning.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Xbox Monthly and Weekly Rewards Are Getting Worse
 
  While the monthly and weekly reward activities provide a substantial amount of points for you to earn, it's not only the time restraints of these activities that hold back the service as a whole.
@@ -51,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ![A screenshot of the July Monthly Bonus Round for Microsoft Rewards on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/monthly-rewards.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The biggest issue associated with the monthly bonus activities was its capped time frame, forcing you to earn the associated points once a month. But now, with the rewarded points literally slashed in half, the feature becomes even more frustrating.
@@ -72,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 ![A screenshot of Xbox messages detailing earned Reward Points for purchases made on the Xbox Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/point-messages.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To put it in plainer terms, if you go off Microsoft's one-point-per-dollar system, 7000 points for a free month of Xbox Live Gold represents $7000 dollars worth of store purchases. And while this is slightly contrary, it would be ridiculous if points given were equivalent to store purchases, the system seems highly unfair.
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
@@ -90,22 +90,16 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
@@ -128,16 +122,20 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-snapchat-enhancement-the-power-of-spotlight-feature/"><u>[New] In 2024, Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-efficient-classroom-documentation-choose-the-best-screen-recorder-for-2024/"><u>[Updated] Efficient Classroom Documentation Choose the Best Screen Recorder for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-mastering-the-art-of-defeating-youtube-short-issues/"><u>2024 Approved Mastering the Art of Defeating YouTube Short Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-top-tier-face-off-hero5-b-and-sessions/"><u>In 2024, GoPro's Top Tier Face-Off Hero5 B & Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-safety-into-everyday-child-steam-games/"><u>Integrating Safety Into Everyday Child Steam Games</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-conundrum-solved-reactivate-corsair-led-lighting-today/"><u>Keyboard Conundrum Solved - Reactivate Corsair LED Lighting Today</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u-for-2024/"><u>The Elevation of Professional Display An In-Depth Examination of the BL2711U for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hidden-challenges-6-critical-points-on-mac-gaming/"><u>The Hidden Challenges: 6 Critical Points on Mac Gaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-tip-for-finding-vanished-contact-details-on-android-phones/"><u>The Ultimate Tip for Finding Vanished Contact Details on Android Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-win1111s-0x887a0006-error/"><u>Troubleshooting Win11/11's 0X887A0006 Error</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-new-fun-levels-board-games-and-card-gaming-in-discord/"><u>Unlocking New Fun Levels: Board Games and Card Gaming in Discord</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-2023s-best-mobile-emulators-top-choices-for-your-classic-psp-adventures/"><u>[New] 2024 Approved 2023'S Best Mobile Emulators Top Choices for Your Classic PSP Adventures</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-getting-started-with-macos-11-big-sur-upgrade/"><u>[New] 2024 Approved Getting Started with macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-journey-mastering-the-art-of-gs-with-kinemaster/"><u>[Updated] Step-by-Step Journey Mastering the Art of GS with KineMaster</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vob-2024mp48/"><u>最新VOB フリーコンバイトアプリ：2024年版！MP4に順調な移行方法を教えます、強化された選択8つ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/demystifying-the-concept-behind-patch-tuesday-explained/"><u>Demystifying the Concept Behind Patch Tuesday Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-hardware-breakthroughs-set-to-unveil-at-ifa-2023/"><u>Game Hardware Breakthroughs Set to Unveil at IFA 2023</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-leading-tag-tracker-software-on-major-platforms-like-fb-tweet-and-insta/"><u>In 2024, Leading Tag Tracker Software on Major Platforms Like FB, Tweet & Insta</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/it-support-excellence-fabios-exchange-recovery-video/"><u>IT Support Excellence - Fabio’s Exchange Recovery Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-maintaining-steam-bp-mode/"><u>Mastering the Art of Maintaining Steam BP Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventative-measures-against-gpu-sag/"><u>Preventative Measures Against GPU Sag</u></a></li>
+<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-3d-light-panels-for-your-gaming-setup/"><u>The Best 3D Light Panels for Your Gaming Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-seated-partnerships-in-co-op-games-xbox-series-sx/"><u>Top Seated Partnerships in Co-Op Games - Xbox Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbo-charge-your-win-chances-in-csgo/"><u>Turbo Charge Your Win Chances in CS:GO</u></a></li>
 </ul></div>
 

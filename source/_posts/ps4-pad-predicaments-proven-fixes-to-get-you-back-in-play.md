@@ -1,7 +1,7 @@
 ---
 title: Ps4 Pad Predicaments? Proven Fixes to Get You Back in Play
-date: 2024-10-08T16:44:16.505Z
-updated: 2024-10-12T16:00:36.093Z
+date: 2024-10-15T23:08:00.086Z
+updated: 2024-10-19T09:55:43.051Z
 tags:
   - games
 categories:
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PS4 Controller Keeps Disconnecting
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
  Try using your controller again after a reboot (connecting it via a USB cable if needed) and see if that helps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Forget and Re-Pair Your PS4 Controller
 
  If you have a second PS4 controller (or a PS Move controller for PS VR), you can use that to access a menu that lets you delete the controller having an issue. Head to**Settings > Devices > Bluetooth Devices** and select the**DualShock 4** entry—it's the one that does not have a green light next to it. (The green light indicates a controller that's currently connected and in use.)
@@ -104,14 +111,14 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
 ![PS4 Controller Reset Pinhole](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Controller-Reset-Pinhole.jpg)
 
- Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you've done this, connect your controller to your PS4 again via USB cable and see if it pairs successfully.
 
 ### 4\. Try Connecting the PS4 Controller Elsewhere
 
@@ -120,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
  It's also a good idea to try using another PS4 controller with your console, if possible. If you borrow a friend's DualShock 4 that you know works properly and find that it has issues with your system, something is probably wrong with your PS4's wireless connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Use the Controller in Wired Mode
@@ -136,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
  If this works, you should get a long USB cable so you can still enjoy gaming from the couch even when wired in.[Ailun's three-pack of 10-foot micro-USB cables](https://www.amazon.com/10ft3Pack-Charging-Smartphone-Connection-Blackwhite/dp/B06XYH75NQ?linkCode=ll1&tag=muo-v2-76tv1pg-20&linkId=f9f8e8d9d67b2bc78306aa8cfd5356be&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU93672&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps4-controller-not-working-fix-common-issues%2F&asc%5Fcampaign=Evergreen) is a good cost-effective option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## DualShock 4 Hardware Fix Options
 
  Like most hardware, DualShock 4 controllers have a one-year warranty. If you bought your PS4 controller within the last year and it's still not working after all the above tips, you should visit[PlayStation's Repairs page](https://repairs.playstation.com/) to put in a request for repair on your controller.
@@ -154,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
  Otherwise, you can attempt hardware fixes on your own by opening your controller. If you've gotten this far and still can't fix the problem, chances are that something inside your controller is jammed or disconnected. But depending on the specific issue, this may be difficult or impossible. We recommend speaking to a local repair technician if you don't feel comfortable doing this yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PS4 Controller Issues, Patched Up
@@ -181,21 +181,16 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-obs-studio-screen-capture-an-in-depth-analysis-for-2024/"><u>[New] OBS Studio Screen Capture An In-Depth Analysis for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-news-end-credits-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting News End Credits A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-decoding-youtubes-payment-scheme/"><u>[Updated] Decoding YouTube's Payment Scheme</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cognition-computation-showdown-deciphering-gpt-and-bert/"><u>Cognition Computation Showdown: Deciphering GPT & BERT</u></a></li>
-<li><a href="https://games-able.techidaily.com/considering-an-immediate-switch-from-gtx-to-the-next-gen-rtx/"><u>Considering an Immediate Switch: From GTX to the Next Gen RTX?</u></a></li>
-<li><a href="https://facebook.techidaily.com/convergence-of-realms-defining-the-metaverse-nexus/"><u>Convergence of Realms: Defining the Metaverse Nexus</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-puzzles-navigating-through-the-good-and-bad-aspects/"><u>Digital Puzzles: Navigating Through the Good & Bad Aspects</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-zero-30-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Zero 30 5G.</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-ready-for-revolutionary-hardware-at-the-biggest-tech-event/"><u>Get Ready for Revolutionary Hardware at the Biggest Tech Event</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-vs-edge-which-is-superior-in-the-online-gaming-arena/"><u>Opera GX vs Edge: Which Is Superior in the Online Gaming Arena?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reestablishing-accurate-battery-life-projections-for-win-11-systems/"><u>Reestablishing Accurate Battery Life Projections for Win 11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamlessly-merge-epic-games-plus-steam/"><u>Seamlessly Merge Epic Games + Steam</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-verdict-on-the-versatile-linksys-ac1900-router/"><u>The Definitive Verdict on the Versatile Linksys AC1900 Router</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-skeptical-approach-to-fake-playtime-teasers/"><u>The Skeptical Approach to Fake Playtime Teasers</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-backward-compatibility-for-ps4-games-on-ps5/"><u>Understanding Backward Compatibility for PS4 Games on PS5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-secrets-of-writing-impressive-podcast-summaries/"><u>[New] The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-quick-fortnite-tile-sketch-a-30-second-guide/"><u>[Updated] In 2024, Quick Fortnite Tile Sketch A 30-Second Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightning-flicker-viewer-windows-photos/"><u>2024 Approved Lightning Flicker Viewer - Windows Photos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlock-your-lost-iphone-xs-potentials-with-these-tricks/"><u>2024 Approved Unlock Your Lost iPhone X's Potentials with These Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-economics-behind-ea-play/"><u>Demystifying the Economics Behind EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-spending-on-mid-range-gaming-mothers/"><u>Essential Spending on Mid-Range Gaming Mothers</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-identify-and-manage-installed-programs-on-your-computer/"><u>How to Identify and Manage Installed Programs on Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-efficiency-and-its-role-in-enhancing-xbox-sx-play/"><u>Résumé Efficiency & Its Role in Enhancing Xbox S/X Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/ryujinx-for-playstation-and-nintendo-switch-the-ultimate-guide/"><u>Ryujinx for PlayStation and Nintendo Switch: The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-sonys-console-controller-in-windowsmacos/"><u>Setting Up Sony's Console Controller in Windows/macOS</u></a></li>
 </ul></div>
 

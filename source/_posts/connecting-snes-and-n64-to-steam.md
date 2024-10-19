@@ -1,7 +1,7 @@
 ---
 title: Connecting SNES & N64 to Steam
-date: 2024-10-08T01:41:20.431Z
-updated: 2024-10-13T06:36:07.305Z
+date: 2024-10-14T04:14:12.880Z
+updated: 2024-10-19T01:01:20.512Z
 tags:
   - games
 categories:
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
@@ -80,17 +73,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
- The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
-
-![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
 <!-- affiliate ads begin -->
 <span id="1793213">
@@ -105,7 +87,25 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+ The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
+
+![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -128,22 +128,16 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-reducing-background-melodies-windowsmac-guide/"><u>[New] Reducing Background Melodies Windows/Mac Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-revolutionary-srt-adjustments-unleash-potential-on-both-oses-for-2024/"><u>[Updated] Revolutionary SRT Adjustments Unleash Potential on Both OSes for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-revolutionize-sharing-youtube-video-integration-with-facebook/"><u>[Updated] Revolutionize Sharing YouTube Video Integration with Facebook</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1728500851359-windows-114/"><u>最適化されたWindows 11アップデートダウンロードの問題：4つの有効な回避策</u></a></li>
-<li><a href="https://games-able.techidaily.com/entertain-yourself-with-these-quick-web-gaming-hits/"><u>Entertain Yourself with These Quick Web Gaming Hits</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-non-commercial-intense-gaming-titles/"><u>Explore Non-Commercial, Intense Gaming Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-at-lightning-speed-basilisk-v3-reviewed/"><u>Game On at Lightning Speed: Basilisk V3 Reviewed</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/guida-rapida-al-riconversione-di-video-avchd-m2ts-a-formato-mp4-senza-compromettere-la-qualita-i-metodi-piu-efficienti/"><u>Guida Rapida Al Riconversione Di Video AVCHD M2TS a Formato MP4 Senza Compromettere La Qualità: I Metodi Più Efficienti</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a60-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A60 Phone FRP Lock</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23plus-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23+ Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/share-your-games-seamlessly-on-ps5/"><u>Share Your Games Seamlessly on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167756680-the-unmatched-performance-of-2-years-on-an-oled-monitor/"><u>The Unmatched Performance of 2 Years on an OLED Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-correcting-panel-deformation/"><u>Understanding and Correcting Panel Deformation</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-game-enthusiasm-with-a-revamped-microsoft-xbox-points-system/"><u>Unlocking Game Enthusiasm with a Revamped Microsoft Xbox Points System</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-cuts-off-abuse-avenues-in-gaming-refunds/"><u>Valve Cuts Off Abuse Avenues in Gaming Refunds</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-share-tiktok-videos-to-facebook-for-2024/"><u>[Updated] How to Share TikTok Videos to Facebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-professional-grade-8-filters-for-live-feeds/"><u>[Updated] Professional-Grade 8 Filters for Live Feeds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mold-personal-memes-that-resonate/"><u>2024 Approved Mold Personal Memes That Resonate</u></a></li>
+<li><a href="https://win-forum.techidaily.com/boosting-your-pcs-boot-speed-optimizing-windows-11-startup/"><u>Boosting Your PC's Boot Speed: Optimizing Windows 11 Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/do-microtransactions-have-a-place-in-premium-games/"><u>Do Microtransactions Have a Place in Premium Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-use-of-steam-writes-and-reads-to-optimize-games/"><u>Effective Use of Steam' Writes & Reads to Optimize Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pth-analysis-the-top-7-android-apps-to-combat-ads-effectively-for-2024/"><u>In-Depth Analysis The Top 7 Android Apps to Combat Ads Effectively for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps4s-hardware-restart/"><u>Mastering PS4's Hardware Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-handhelds-is-switch-the-frontier/"><u>Next-Gen Handhelds - Is Switch the Frontier?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snizeny-tempo-prekvapeni-kamera-program-movavi-na-zpomalenou-vidu/"><u>Snížený Tempo Překvapení - Kamera Program Movavi Na Zpomalenou Vidu</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ultimate-guide-resolving-dota-ns-voice-chat-issues-on-windowsmac/"><u>Ultimate Guide - Resolving Dota N's Voice Chat Issues on Windows/Mac</u></a></li>
 </ul></div>
 

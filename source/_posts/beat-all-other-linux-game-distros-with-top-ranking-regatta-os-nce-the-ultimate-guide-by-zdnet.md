@@ -1,7 +1,7 @@
 ---
 title: Beat All Other Linux Game Distros with Top-Ranking Regatta OS Nce – The Ultimate Guide by ZDNet
-date: 2024-09-19 23:20:34
-updated: 2024-09-20 10:22:29
+date: 2024-10-18T09:27:41.397Z
+updated: 2024-10-19T09:48:11.594Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -51,6 +58,13 @@ To gain access to the SSD slot, you'll need to remove the back cover. If you hav
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Remove the expansion slot cover
 
 There's not a whole lot to look at with the panel removed from the PS5\. There's a fan, a lot of black, and then the expansion slot cover near the top of the housing. I rotated the PS5 so that the SSD slot was closer to me and easier to work on. 
@@ -58,6 +72,13 @@ There's not a whole lot to look at with the panel removed from the PS5\. There's
 There's a single screw holding the cover in place; remove it and set it aside in a safe place. Optional step: Take a few seconds to appreciate the PlayStation button icons on the head of the screw. 
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Move the screw and spacer inside the SSD housing
 
@@ -76,6 +97,13 @@ Jason Cipriani/ZDNET
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,29 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/amd-claims-epyc-processors-surpass-nvidias-arm-based-grace-cpu-superchip-in-speed-outperforming-by-double-on-various-benchmark-tests/"><u>AMD Claims EPYC Processors Surpass NVIDIA's ARM-Based Grace CPU Superchip in Speed, Outperforming by Double on Various Benchmark Tests</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/craft-a-win10-restore-drive-for-peer-computers-3-effective-methods/"><u>Craft a Win10 Restore Drive for Peer Computers: 3 Effective Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/designed-with-the-educator-in-mind-asus-s15-review-revealed/"><u>Designed with the Educator in Mind: ASUS S15 Review Revealed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ver-the-top-30-freefire-hashtags-for-amplifying-video-growth-for-2024/"><u>Discover the Top 30 FreeFire Hashtags for Amplifying Video Growth for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-mac-graphic-collector/"><u>Expert Mac Graphic Collector</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-misconceptions-why-macs-dont-rule-in-pc-games/"><u>Exploring Misconceptions: Why Macs Don't Rule in PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-revert-joystick-settings-in-xbox-sx/"><u>How to Revert Joystick Settings in Xbox S/X</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-thorough-examination-adobe-lightroom-for-android-users/"><u>In 2024, A Thorough Examination Adobe Lightroom for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/keyboard-kings-keychrons-take-on-gaming-with-lemokey-l3/"><u>Keyboard Kings: Keychron's Take on Gaming with Lemokey L3</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-g54-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Motorola G54 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/parenting-through-the-lens-of-online-child-protection/"><u>Parenting Through the Lens of Online Child Protection</u></a></li>
+<li><a href="https://games-able.techidaily.com/peaceful-pixel-playgrounds-idle-worlds-await/"><u>Peaceful Pixel Playgrounds: Idle Worlds Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-for-games-ignored-by-steam-system/"><u>Remedy for Games Ignored by Steam System</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectacular-8k-cameras-top-picks-for-quality-for-2024/"><u>Spectacular 8K Cameras Top Picks for Quality for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+</ul></div>
+

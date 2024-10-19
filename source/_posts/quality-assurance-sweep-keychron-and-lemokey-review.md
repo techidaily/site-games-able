@@ -1,7 +1,7 @@
 ---
 title: "Quality Assurance Sweep: Keychron & Lemokey Review"
-date: 2024-10-08T07:16:03.484Z
-updated: 2024-10-13T11:38:02.799Z
+date: 2024-10-14T05:50:36.335Z
+updated: 2024-10-19T12:38:35.160Z
 tags:
   - games
 categories:
@@ -128,6 +128,13 @@ No
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
@@ -139,6 +146,19 @@ No
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -156,19 +176,6 @@ No
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
@@ -180,13 +187,20 @@ No
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -201,10 +215,10 @@ No
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -223,13 +237,6 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
@@ -245,13 +252,6 @@ No
  Overall, the Lemokey L3 might not be an outright gaming keyboard, but it's a brilliant keyboard in all other areas.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -278,19 +278,22 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-practices-for-producing-eye-catching-slow-motion-videos-on-instagram/"><u>[New] In 2024, Best Practices for Producing Eye-Catching Slow-Motion Videos on Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-snaprecorder-expert-breakdowns/"><u>[Updated] 2024 Approved SnapRecorder Expert Breakdowns</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-much-do-podcasters-earn-on-average/"><u>[Updated] In 2024, How Much Do Podcasters Earn on Average?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-highlighting-the-best-practices-in-screen-recording-facetime-calls/"><u>2024 Approved Highlighting the Best Practices in Screen Recording FaceTime Calls</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/online-mp4ogv-movavis/"><u>安価なOnline MP4/OGVコンバータ - Movavi's無料サービス</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-button-controls-android-games-via-controller-mapping/"><u>Mastering Button Controls: Android Games via Controller Mapping</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-minecraft-launcher-problem-code-0x803f8001-in-win/"><u>Resolving Minecraft Launcher Problem Code 0X803F8001 in Win</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-connect-classic-games-with-mypics-w11/"><u>Step-by-Step: Connect Classic Games with MyPics W11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ditors-toolkit-elevating-your-youtube-videos-via-windows-pc/"><u>The Editor's Toolkit Elevating Your YouTube Videos via Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-key-elements-of-crafting-engrossing-steam-game-reviews/"><u>The Key Elements of Crafting Engrossing Steam Game Reviews</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-edge-40-neo-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Edge 40 Neo without backup.</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-20-best-gamer-progress-tools/"><u>Top 20 Best Gamer Progress Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-pathway-to-personalized-apple-assistance-appointment-procedures-revealed/"><u>Your Pathway to Personalized Apple Assistance: Appointment Procedures Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-depth-assessment-gopro-silver-hero4-sliver-for-2024/"><u>[New] In-Depth Assessment GoPro Silver Hero4 Sliver for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unleash-creativity-with-these-top-10-video-text-effects/"><u>[Updated] 2024 Approved Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-simple-processes-for-logging-vimeo-content/"><u>2024 Approved Simple Processes for Logging Vimeo Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nokia-c12-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nokia C12 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-software-for-ripping-dvds-on-mac-handbrake-or-mactheripper/"><u>Best Free Software for Ripping DVDs on Mac: HandBrake or MacTheRipper?</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-165hz-screen-selection-guide/"><u>High-Speed 165Hz Screen Selection Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-back-in-time-xbox-classics-via-xemu-for-pc/"><u>Jump Back in Time: Xbox Classics via Xemu for PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-profits-the-top-13-no-experience-reddit-hacks/"><u>Maximize Profits The Top 13 No-Experience Reddit Hacks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/maximizing-performance-optimize-mov-files-in-win-11-for-2024/"><u>Maximizing Performance Optimize MOV Files in Win 11 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-preorders-smartly-marvel-spidey-ps5-exclusive/"><u>Navigate Preorders Smartly - Marvel Spidey PS5 Exclusive</u></a></li>
+<li><a href="https://games-able.techidaily.com/online-play-heightened-attention-to-cybersecurity/"><u>Online Play: Heightened Attention to Cybersecurity</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-and-xbox-series-x-a-gaming-comparison/"><u>PlayStation 5 & Xbox Series X: A Gaming Comparison</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-nokia-150-2023-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Nokia 150 (2023) has been deleted.</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-and-speedy-sd-card-swap-for-decks/"><u>Simplified and Speedy SD Card Swap for Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-3-consoles-framerate-advantage-for-gamers/"><u>Top 3: Console's Framerate Advantage for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-should-prioritize-refinement-in-its-xbox-point-system/"><u>Why Microsoft Should Prioritize Refinement in Its Xbox Point System</u></a></li>
 </ul></div>
 

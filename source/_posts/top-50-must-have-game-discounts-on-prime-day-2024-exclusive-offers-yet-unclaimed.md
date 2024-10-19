@@ -1,7 +1,7 @@
 ---
 title: "Top 50 Must-Have Game Discounts on Prime Day 2024: Exclusive Offers Yet Unclaimed!"
-date: 2024-09-18 15:29:34
-updated: 2024-09-20 12:43:58
+date: 2024-10-12T04:35:34.998Z
+updated: 2024-10-19T00:55:12.575Z
 tags:
   - gaming
 categories:
@@ -41,6 +41,13 @@ Finally, you'll need a #1 Phillips head screwdriver. I have [this kit from iFixi
 
 I'd never installed an SSD in PS5, and it took me under 10 minutes from start to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove the back cover
 
 Before you begin, power off the PS5 and unplug the power cable, HDMI, and anything else connected to it. Lay the console on a table, with the front of the console (it's the side with the PS logo) facing down, and the rear of the console towards you. I put mine on top of a desk mat to prevent scratches on the case. 
@@ -59,6 +66,13 @@ There's a single screw holding the cover in place; remove it and set it aside in
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Move the screw and spacer inside the SSD housing
 
 With the expansion slot cover removed, locate and remove the screw and spacer near the end of the SSD housing. 
@@ -71,11 +85,25 @@ I then placed the spacer over the hole -- it's held in place by three dots, so d
 
 Jason Cipriani/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Insert the SSD and use the mounting screw
 
 Slide the SSD into the connector at an angle. Push it in until you feel it lock into place, and then place and tighten the mounting screw to hold the SSD down. 
 
 Put the expansion slot cover back onto the housing using the included screw, then put the back cover back on the PS5\. Connect it to power and the HDMI cable. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Format the SSD
 
@@ -120,11 +148,28 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-faster-vimeo-video-viewing/"><u>[Updated] 2024 Approved Tips for Faster Vimeo Video Viewing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram/"><u>[Updated] Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>2024 Approved The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-deskjet-2755e-drivers-for-smooth-windows-printing/"><u>Download & Install HP Deskjet 2755E Drivers for Smooth Windows Printing</u></a></li>
+<li><a href="https://win-web.techidaily.com/guida-completa-alla-ricostruzione-del-sistema-operativo-windows-server-tramite-prompt-dei-comandi/"><u>Guida Completa Alla Ricostruzione Del Sistema Operativo Windows Server Tramite Prompt Dei Comandi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-accessing-playstation-5-written-web-world/"><u>Inside Look: Accessing PlayStation 5’ Written Web World</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-the-phone-experience-through-games/"><u>Revolutionizing the Phone Experience Through Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-the-assist-controller-a-quick-ps5-tutorial/"><u>Setting Up the Assist Controller: A Quick PS5 Tutorial</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-a-screen-shot-on-your-hp-laptop/"><u>Step-by-Step Guide: Capturing a Screen Shot on Your HP Laptop</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-7-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 7 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-a-brighter-gaming-atmosphere-with-xbox-led-controls/"><u>Tips for a Brighter Gaming Atmosphere with Xbox LED Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-virtual-crimes-with-artificial-intelligence-games/"><u>Unravel Virtual Crimes with Artificial Intelligence Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/vigilance-in-virtuality-countering-game-intrusions/"><u>Vigilance in Virtuality: Countering Game Intrusions</u></a></li>
+</ul></div>
+

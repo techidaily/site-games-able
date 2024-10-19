@@ -1,7 +1,7 @@
 ---
 title: "Debunking Ideals of Handheld Gameplay: The Flip Side"
-date: 2024-10-06T07:23:43.400Z
-updated: 2024-10-12T21:00:06.361Z
+date: 2024-10-15T10:00:41.220Z
+updated: 2024-10-18T22:06:02.561Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  But the problem with the freemium model is that it's not suitable for making big-budget console-level games. It's too risky for developers to invest so much time and money creating a high-end mobile game, in the vain hope that people might pay for it later... after playing it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. App Store Algorithms Only Favor Top Charts
 
  We can place part of the blame for mobile gaming being so lacking on how app stores organize their directories. To give you some perspective, according to another[Statista report](https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/) there are roughly 2.6 million apps on the Google Play Store and almost 2 million apps on the Apple App Store.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This means if you're a game developer—especially a new one—the chances of your game succeeding are very low. Forget standing out from the sea of apps. It's a miracle if you even get discovered. And app stores do little to help new developers get seen.
 
  When searching for an app, most people just pick one from the items at the top of the list. And because of this, winners keep winning and losers keep losing.
@@ -52,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Low Consumer Expectations
@@ -78,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
@@ -87,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
  Unlike consoles, smartphones don't just store games but also photos, videos, songs, movies, documents, apps, and more. So naturally, storage space is often an issue. Now, to be fair, we've already seen smartphones with 1TB of storage space, so this isn't as big a problem as the issues above.
 
  However, because a higher storage space also means a higher price, the only phones that can take advantage of this are flagships. And since most smartphones sales aren't flagships but budget and mid-range phones, the advantage of higher storage space becomes redundant.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Lack of Standardized Platforms
 
@@ -107,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Frequent In-Game Ads
 
 ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
@@ -123,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
  However, as a gamer, it really sucks to have to watch an ad every single time after completing a race, finishing a match, or opening a loot box. On top of that, these ads can sometimes be irrelevant and inappropriate, and there's no way to tweak them either.
 
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mobile Gaming Could Be So Much More
 
@@ -152,20 +152,19 @@ thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-transform-ideas-into-images-access-free-banner-resources/"><u>[New] 2024 Approved Transform Ideas Into Images - Access Free Banner Resources</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-the-mysteries-of-video-monetization/"><u>[New] 2024 Approved Unveiling the Mysteries of Video Monetization</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-fine-tuning-minecrafts-ram-for-better-gaming-results/"><u>[New] Fine-Tuning Minecraft's RAM for Better Gaming Results</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-revolutionary-ideas-to-empower-your-webcam/"><u>2024 Approved Revolutionary Ideas to Empower Your Webcam</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor X9a? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-se-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone SE Device from iCloud</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-comprehensive-srt-breakdown-for-professionals/"><u>In 2024, Comprehensive SRT Breakdown for Professionals</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-your-stream-with-these-pioneering-7-twitch-ai-partners/"><u>Master Your Stream with These Pioneering 7 Twitch AI Partners</u></a></li>
-<li><a href="https://os-tips.techidaily.com/mastering-rooting-on-android-a-comprehensive-tutorial-using-kingo-root-software/"><u>Mastering Rooting on Android: A Comprehensive Tutorial Using Kingo Root Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-privacy-on-console-voice-communications/"><u>Navigating Privacy on Console Voice Communications</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinpointing-the-perfect-mouse-for-gamers-our-top-five-suggestions/"><u>Pinpointing the Perfect Mouse for Gamers - Our Top Five Suggestions</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-asus-rog-ally-dock-compilation-2024-edition/"><u>Premium ASUS ROG Ally Dock Compilation, 2024 Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-discords-gaming-potential-chesspoker-edition/"><u>Unveiling Discord's Gaming Potential: Chess/Poker Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/voltage-visions-more-than-electricity/"><u>Voltage Visions: More than Electricity</u></a></li>
-<li><a href="https://games-able.techidaily.com/you-can-now-fix-your-own-xbox-controller/"><u>You Can Now Fix Your Own Xbox Controller</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-alter-twitter-video-headline-image/"><u>[Updated] Alter Twitter Video Headline Image</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unwrapping-utopia-creating-magical-unboxing-moments/"><u>2024 Approved Unwrapping Utopia Creating Magical Unboxing Moments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-the-msvcr100dll-not-detected-issue-with-effective-fixes/"><u>Demystifying the 'MSVCR100.DLL Not Detected' Issue with Effective Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-11-vs-directx-12-what-are-the-differences-and-which-should-you-use/"><u>DirectX 11 Vs. DirectX 12: What Are the Differences and Which Should You Use?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-guide-to-incorporating-launchers-on-dev-consoles/"><u>Game On: A Guide to Incorporating Launchers on Dev Consoles</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-insights-setting-up-streamlabs-on-mac-with-obs/"><u>In 2024, Essential Insights Setting Up Streamlabs on Mac with OBS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-home-vr-construct-how-to-assemble-your-own-google-cardboard/"><u>In 2024, Home VR Construct How to Assemble Your Own Google Cardboard</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-hot-30i-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Hot 30i Screen | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-x9a-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor X9a Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-11-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme 11 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-turning-your-psp-into-a-game-boy/"><u>Retro Gaming: Turning Your PSP Into a Game Boy</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playstation-summer-sale-list/"><u>The Ultimate PlayStation Summer Sale List</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-are-xbox-console-wraps/"><u>What Are Xbox Console Wraps?</u></a></li>
+<li><a href="https://solve-news.techidaily.com/win-movavis-1000-prize-with-just-2-minutes-of-video-editing-apply-now/"><u>Win Movavi's $1,000 Prize with Just 2 Minutes of Video Editing: Apply Now!</u></a></li>
 </ul></div>
 

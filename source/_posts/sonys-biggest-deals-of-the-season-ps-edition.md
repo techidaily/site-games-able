@@ -1,7 +1,7 @@
 ---
 title: Sony’s Biggest Deals of the Season – PS Edition
-date: 2024-10-09T21:51:35.407Z
-updated: 2024-10-13T05:53:49.544Z
+date: 2024-10-17T02:05:53.968Z
+updated: 2024-10-18T18:16:20.607Z
 tags:
   - games
 categories:
@@ -29,18 +29,18 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -55,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -68,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -87,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -130,24 +142,17 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-desktop-recording-battle-go-with-obs-or-shadowplay/"><u>[New] 2024 Approved Desktop Recording Battle Go with OBS or ShadowPlay</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-quick-view-windows-photos/"><u>[New] In 2024, Ultimate Quick View - Windows Photos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unmask-phony-followers-a-speedy-cost-free-approach-for-instagram/"><u>[New] In 2024, Unmask Phony Followers A Speedy, Cost-Free Approach for Instagram</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-streaming-high-quality-cricket-matches/"><u>2024 Approved The Ultimate Guide to Streaming High-Quality Cricket Matches</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-xiaomi-14-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Xiaomi 14 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-reasons-to-challenge-ray-tracings-dominance-in-gaming/"><u>7 Reasons to Challenge Ray Tracing's Dominance in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessories-more-than-just-visual-enhancements/"><u>Accessories: More Than Just Visual Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/acquiring-and-attaching-mojang-maps-with-ease/"><u>Acquiring and Attaching Mojang Maps with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-powered-narrative-building-for-games/"><u>AI-Powered Narrative Building for Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-variances-in-asus-tuf-proart-prime-pcs/"><u>Analyzing the Variances in Asus, Tuf, ProArt, Prime PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/athletic-adventures-7-exciting-sporting-titles-for-ios-and-android/"><u>Athletic Adventures: 7 Exciting Sporting Titles for iOS & Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-royale-at-your-desktop-selecting-the-best-online-fps-games/"><u>Battle Royale at Your Desktop: Selecting the Best Online FPS Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-competitors-to-grab-spider-man-2-limited-edition/"><u>Beat Competitors to Grab Spider-Man 2 Limited Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/practices-the-8-truly-effective-promotion-techniques-for-2024/"><u>Best Practices The 8 Truly Effective Promotion Techniques for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-z-flip-5-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy Z Flip 5 support MOV videos ?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/expert-analysis-top-picks-for-the-best-microwave-safe-mugs-reviews-included/"><u>Expert Analysis: Top Picks for the Best Microwave-Safe Mugs - Reviews Included</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-revolutionize-digital-diaries-with-complimentary-tools/"><u>In 2024, Revolutionize Digital Diaries with Complimentary Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167559846-ioss-elite-gbadvance-emulators-replaying-the-golden-days/"><u>IOS's Elite GBAdvance Emulators: Replaying the Golden Days</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212007420-troubleshoot-persistent-computer-hibernation-issues-with-easy-solutions/"><u>Troubleshoot Persistent Computer Hibernation Issues with Easy Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-digital-frame-snatchers-top-video-tools/"><u>[New] 2024 Approved Digital Frame Snatchers Top Video Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-from-cluttered-to-clear-a-canva-guide-for-borders-removal-for-2024/"><u>[New] From Cluttered to Clear A Canva Guide for Borders Removal for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>[New] Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-channel-identity-made-simple-with-these-top-11-zero-cost-tools/"><u>[Updated] 2024 Approved Channel Identity Made Simple with These Top 11 Zero-Cost Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-bedtime-videos-breakdown-stories-and-reviews-for-2024/"><u>[Updated] Bedtime Videos Breakdown Stories and Reviews for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/diy/"><u>「映える！DIYで高品質のブルーレイ映像をスムーズにキャプチャー」</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/achieve-instagram-stardom-in-just-10-moves-secrets-to-virality-unveiled/"><u>Achieve Instagram Stardom in Just 10 Moves – Secrets to Virality Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/connected-commandments-how-to-synch-up-controllers/"><u>Connected Commandments: How To Synch Up Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-optimized-keyboard-settings/"><u>Elevating Your Gaming Experience with Optimized Keyboard Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tools-for-documenting-computer-speakers-and-mics-for-2024/"><u>Essential Tools for Documenting Computer Speakers & Mics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pick-premium-xbox-capture-kits/"><u>Top Pick: Premium Xbox Capture Kits</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-deceptive-gaming-promos-essentials-explored/"><u>Unveiling Deceptive Gaming Promos: Essentials Explored</u></a></li>
 </ul></div>
 

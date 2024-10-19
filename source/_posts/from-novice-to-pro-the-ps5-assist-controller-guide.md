@@ -1,7 +1,7 @@
 ---
 title: "From Novice to Pro: The PS5 Assist Controller Guide"
-date: 2024-10-07T17:20:59.501Z
-updated: 2024-10-13T01:51:16.529Z
+date: 2024-10-17T19:47:49.745Z
+updated: 2024-10-18T22:51:25.008Z
 tags:
   - games
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does an Assist Controller Do on the PS5?
@@ -42,15 +42,22 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
@@ -75,22 +82,15 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
@@ -122,17 +122,19 @@ thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-ultimate-framework-for-captivating-streams-on-youtube-for-2024/"><u>[New] The Ultimate Framework for Captivating Streams on YouTube for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-xperience-photoshoot-iphone-x-classic-clicks/"><u>[Updated] 2024 Approved Xperience Photoshoot IPhone X Classic Clicks</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-lure-of-cozy-game-genres/"><u>Analyzing the Lure of Cozy Game Genres</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-windows-access-denial-mysteries/"><u>Deciphering Windows Access Denial Mysteries</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/il-top-decodeur-gratuite-pour-tous-les-dvd-decouvrez-la-solution-optimale/"><u>Il Top Decodeur Gratuite Pour Tous Les DVD, Découvrez La Solution Optimale</u></a></li>
-<li><a href="https://facebook.techidaily.com/instagram-now-awaits-your-no-media-live-broadcast/"><u>Instagram Now Awaits Your No-Media Live Broadcast</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-streaming-prime-gaming-channel-subscription-guide/"><u>Master Streaming: Prime Gaming Channel Subscription Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/nightly-serenity-with-asmr-top-choices-to-listen-to/"><u>Nightly Serenity with ASMR Top Choices to Listen To</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-issues-with-steams-payment-system/"><u>Resolving Issues with Steam's Payment System</u></a></li>
-<li><a href="https://games-able.techidaily.com/restore-your-xbox-series-xands-repair-tips/"><u>Restore Your Xbox: Series X&S Repair Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/valves-move-against-exploitative-game-returns/"><u>Valve's Move Against Exploitative Game Returns</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ngaging-audiences-triad-of-effective-storytelling/"><u>[New] Engaging Audiences Triad of Effective Storytelling</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-halls-of-fame-on-reddit-celebrating-best-rated-threads-for-2024/"><u>[Updated] Halls of Fame on Reddit Celebrating Best-Rated Threads for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-live-recording-via-logitech-camera-guide/"><u>2024 Approved Mastering Live Recording via Logitech Camera Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-security-manage-your-switch-gaming-profile/"><u>Elevate Security: Manage Your Switch Gaming Profile</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-your-photos-the-art-and-science-of-using-3d-luts/"><u>Elevating Your Photos The Art and Science of Using 3D LUTs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-se-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone SE Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-unlocking-steam-gameplay-footage-secrets/"><u>In 2024, Unlocking Steam Gameplay Footage Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/mend-your-xbox-series-xs-troubleshooting-guide/"><u>Mend Your Xbox: Series X|S Troubleshooting Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-monopoly-commanding-the-cube-on-android-and-ios/"><u>Mobile Monopoly: Commanding the Cube on Android and iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-steam-web-helpers-ram-footprint-top-5-techniques/"><u>Reducing Steam Web Helper's RAM Footprint: Top 5 Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-more-hot-gadgets-revealed/"><u>Stay Cool, Play More: Hot Gadgets Revealed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/time-taming-learn-youtube-video-length-cuts/"><u>Time Taming Learn YouTube Video Length Cuts</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-ps5s-full-entertainment-potential/"><u>Unlock Your PS5's Full Entertainment Potential</u></a></li>
 </ul></div>
 

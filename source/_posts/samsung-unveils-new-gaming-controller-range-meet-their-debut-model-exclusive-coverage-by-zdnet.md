@@ -1,7 +1,7 @@
 ---
 title: "Samsung Unveils New Gaming Controller Range: Meet Their Debut Model - Exclusive Coverage by ZDNet"
-date: 2024-09-19 11:42:30
-updated: 2024-09-20 10:15:46
+date: 2024-10-16T09:11:36.398Z
+updated: 2024-10-18T23:57:39.885Z
 tags:
   - gaming
 categories:
@@ -20,6 +20,13 @@ Artie Beaty/ZDNET
 The [75-inch Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) is available for $1,998, a $1,000 discount on one of the best Samsung TVs available. It's our number-one pick for the [best 75-inch TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-75-inch-tv/). 
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -89,9 +96,23 @@ From that bar, there's a deeper game mode settings option, which lets you tune t
 
 Most casual gamers wouldn't dive this deep into these settings, but this is a fantastic thing to have for serious gamers. It's the deepest level of customization I've seen from a gaming menu. I'd call this easily one of the [best gaming TVs](https://www.zdnet.com/home-and-office/home-entertainment/best-gaming-tv/) I've come across. 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 The [Samsung QN90C](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSAMSUNG-Tracking-Anti-Glare-Q-Symphony-QN55QN90C%2Fdp%2FB0BTTVBDVD%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca809cba9-2efa-4131-bfb0-67fc93c07357%7Cdtp&dtb=1) TV has a few minor annoyances -- I'm hesitant to call the wobbliness and installation process shortcomings -- but its picture quality in every instance and gaming features more than made up for those. If you're looking for a premium-level TV that does well in any environment with any content, keep this one on your list.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -118,11 +139,33 @@ Deals are subject to sell out or expire anytime, though ZDNET remains committed 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pinnacle-of-hd-recording-expertly-curated-list/"><u>[New] Pinnacle of HD Recording Expertly Curated List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/blurry-video-woes-solved-fix-on-mobile-devices/"><u>Blurry Video Woes Solved Fix on Mobile Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/calculate-the-absolute-deviations-85-25-15-35-45-65/"><u>Calculate the Absolute Deviations: $8.5, 2.5, 1.5, 3.5, 4.5, 6.5$</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-misconited-ideas-6-mac-limitations-in-gaming-world/"><u>Dissecting Misconited Ideas: 6 Mac Limitations in Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-intrigue-the-must-watch-features-in-apps/"><u>Essential Intrigue: The Must-Watch Features in Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-or-offline-the-case-for-and-against-digital-gaming/"><u>Game on or Offline? The Case for & Against Digital Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-bring-old-games-back-steam-deck-and-emudeck/"><u>How to Bring Old Games Back: Steam Deck & EmuDeck</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-troubleshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails/"><u>In 2024, Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-delights-my-passionate-support-for-apple-arcade/"><u>IOS Delights – My Passionate Support for Apple Arcade</u></a></li>
+<li><a href="https://win-web3.techidaily.com/microsoft-reveals-engineers-affinity-for-windows-11-insights-from-zdnet/"><u>Microsoft Reveals Engineers' Affinity for Windows 11: Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-sony-pictures-content-on-ps5/"><u>Navigating Sony Pictures Content on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-common-graphics-setbacks-a-four-step-process/"><u>Overcoming Common Graphics Setbacks: A Four-Step Process</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/quick-fixes-enhancing-colors-with-ps-tools/"><u>Quick Fixes Enhancing Colors with PS Tools</u></a></li>
+<li><a href="https://win-updates.techidaily.com/restore-missing-voicemail-audio-files-on-your-ios-device/"><u>Restore Missing Voicemail Audio Files on Your iOS Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-shopping-xbox-s-edition-secrets-revealed/"><u>Smart Shopping: Xbox S Edition Secrets Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solved-how-to-successfully-transfer-non-apple-music-to-your-iphone-via-itunes/"><u>Solved: How to Successfully Transfer Non-Apple Music to Your iPhone via iTunes!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-performing-240hz-panels-for-competitive-play/"><u>Top Performing 240Hz Panels for Competitive Play</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-full-potential-of-3d-printing-using-ai-powered-tools/"><u>Unlock the Full Potential of 3D Printing Using AI-Powered Tools</u></a></li>
+</ul></div>
+
