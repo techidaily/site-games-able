@@ -1,7 +1,7 @@
 ---
 title: Switching to Retro Gaming Setup
-date: 2024-10-17T12:08:35.253Z
-updated: 2024-10-19T09:49:38.011Z
+date: 2024-10-18T01:15:23.818Z
+updated: 2024-10-25T06:40:38.338Z
 tags:
   - games
 categories:
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
@@ -95,10 +95,16 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
@@ -122,19 +128,22 @@ thumbnail: https://thmb.techidaily.com/d68b2c77d9bc6992a97b4d45a79ba7275bc346cfc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-detailed-theta-s-analysis-a-comprehensive-look/"><u>[New] 2024 Approved Detailed Theta S Analysis A Comprehensive Look</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-smart-selections-essential-mac-programs-for-videograbbing/"><u>[Updated] Smart Selections Essential Mac Programs for Videograbbing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-ppt-capture-excellence/"><u>[Updated] The Ultimate Guide to PPT Capture Excellence</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embracing-digital-friendship-how-chatgpt-can-alleviate-feelings-of-solitude/"><u>Embracing Digital Friendship: How ChatGPT Can Alleviate Feelings of Solitude</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-nostalgia-using-emudeck-for-old-games/"><u>Exploring Nostalgia: Using EmuDeck for Old Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/nanofiber-filters-ability-to-trap-ultrafine-particles-that-traditional-filters-may-miss-and-the-importance-in-environments-requiring-high-level-contaminatio386/"><u>Nanofiber Filters' Ability to Trap Ultrafine Particles that Traditional Filters May Miss and the Importance in Environments Requiring High-Level Contamination Control</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-cleanup-automating-deletion-of-files-in-windows/"><u>Quick Cleanup: Automating Deletion of Files in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-prevent-online-predators-on-discord/"><u>Strategies to Prevent Online Predators on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-why-youre-labeled-idle-on-discord-platform/"><u>Understanding Why You're Labeled 'Idle' On Discord Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-secret-to-captivating-videos-freeze-frames-made-easy/"><u>Updated 2024 Approved The Secret to Captivating Videos Freeze Frames Made Easy</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/video-content-battle-who-wins-with-vimeo-youtube-or-dailymotion-for-2024/"><u>Video Content Battle Who Wins with Vimeo, YouTube, or DailyMotion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unveiling-the-latest-in-sony-blu-ray-s6700/"><u>[New] In 2024, Unveiling the Latest in Sony Blu-Ray S6700</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video/"><u>[Updated] In 2024, Decoding Dimensions The Key to Perfect Aspect Ratios in Video</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>[Updated] In 2024, Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-type-on-your-apple-device-here-are-6-solutions/"><u>Can't Type on Your Apple Device? Here Are 6 Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/delve-deeper-into-fallouts-universe-through-games/"><u>Delve Deeper Into Fallout's Universe Through Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-to-achieve-maximum-from-your-steam-deck-on-the-go/"><u>Discover How to Achieve Maximum From Your Steam Deck on the Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-potential-of-steam-deck-for-pc-gaming/"><u>Exploring the Potential of Steam Deck for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xbox-golds-upgrade-to-game-pass-core/"><u>Exploring Xbox Gold's Upgrade to Game Pass Core</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro 5G Phone without Google Account?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/is-active-setting-new-standards-in-screen-recording-in-2024/"><u>Is Active Setting New Standards in Screen Recording, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-mastery-the-ultimate-showdown-of-musical-quizzes/"><u>Melody Mastery: The Ultimate Showdown of Musical Quizzes</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-tech-new-energy-via-atlasos/"><u>Old Tech, New Energy via AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-swap-for-smooth-play-new-joy-con-joystick-guide/"><u>Swift Swap for Smooth Play: New Joy-Con Joystick Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-mac-players-guide-to-counter-strike-2/"><u>The Ultimate Mac Player's Guide to Counter-Strike 2</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-and-solutions-for-hcmondriver-installation-issues/"><u>Troubleshooting and Solutions for Hcmondriver Installation Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-face-swap-revolution-top-apps-for-iphone-and-android-for-2024/"><u>Updated The Face Swap Revolution Top Apps for iPhone and Android for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step Into Varied Chess Worlds with These 6 Apps
-date: 2024-10-15T18:33:22.764Z
-updated: 2024-10-19T07:27:40.206Z
+date: 2024-10-21T16:41:55.075Z
+updated: 2024-10-24T22:59:24.204Z
 tags:
   - games
 categories:
@@ -33,28 +33,21 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  For reference, you can refer to the Wikipedia Elo rating range table. Above a rating of 1000, every 2000 points puts you in a different class of chess player.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2. Kung Fu Chess
 
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  The free version of Chesswith.Ai gives you one credit when you verify your account, which allows you to make 40 moves—the average length of any game. You'll need to purchase additional credits to play further moves or games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4. Halfchess
 
  Halfchess is made for those who don't have the time to play a full game of chess but want to get a quick game in. Instead of a blitz game though, Halfchess reduces the size of the board. While the standard board is 8x8 squares, Halfchess is set on a 4x8 board. It also reduces you to a maximum of 8 pieces.
@@ -89,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
  You can also undo a couple of moves in each game. When you're in an obvious position of piece advantage, Halfchess allows you to claim a victory so that you don't waste further time. While playing with friends, you can set a maximum time and even choose to play in Blind Mode. In Blind Mode, pieces disappear after 5 seconds, forcing you to remember where everything is.
 
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5. Really Bad Chess
 
@@ -100,22 +93,29 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
 
  One of the most popular games on Green Chess is 3-player chess. It's played with three half boards (4x8) that are distorted in shape to join at a center, turning it into a hexagon. Apart from white and black, the third player is usually red and has the last turn.
 
  Green Chess categorizes the variants by types, such as different initial positions, different board sizes, randomly changing pieces, modified rules, different shapes of boards, three-player chess, and four-player chess. Create a game, join from the lobby, or start learning by watching someone else's public game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Play Chess Variants Offline
 
@@ -138,19 +138,20 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-free-luts-showcase-10-standouts-with-direct-downloads/"><u>[New] 2024 Approved Free LUTs Showcase 10 Standouts with Direct Downloads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-streaming-powerhouses-face-off-streamlabs-versus-obs-analysis/"><u>[New] Streaming Powerhouses Face-Off Streamlabs versus OBS Analysis</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-edge-enhancement-3-essential-methods/"><u>[Updated] 2024 Approved Instagram Edge Enhancement - 3 Essential Methods</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-brother-hl-l2360dw-printing-drivers-for-optimal-performance/"><u>Download & Install Brother HL-L2360DW Printing Drivers for Optimal Performance</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-tips-for-adding-text-on-digital-images/"><u>Essential Tips for Adding Text on Digital Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-non-alcoholic-pathways-for-endocannabinoid-delivery-to-the-brain/"><u>Exploring Non-Alcoholic Pathways for Endocannabinoid Delivery to the Brain</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-with-filmora-top-10-must-haves/"><u>In 2024, Behind the Scenes with Filmora Top 10 Must-Haves</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-x50-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor X50 for Free? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-xbox-xs-track-your-gaming-hours/"><u>Mastering Xbox X/S: Track Your Gaming Hours</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-video-editor-gratis-installazione-facile-e-download-assolutamente-sicuro/"><u>Movavi Video Editor Gratis - Installazione Facile E Download Assolutamente Sicuro</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-launcher-problem-code-0x803f8001-on-windows/"><u>Navigating Launcher Problem Code 0X803F8001 on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/ready-for-a-game-check-out-chatgpts-best-six-games/"><u>Ready for a Game? Check Out ChatGPT's Best Six Games!</u></a></li>
-<li><a href="https://games-able.techidaily.com/reminiscing-the-past-playing-xbox-games-in-modern-times-pc/"><u>Reminiscing the Past: Playing Xbox Games in Modern Times (PC)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-erase-live-video-on-facebook-windows-android-tactics/"><u>[New] 2024 Approved Erase Live Video on Facebook Windows, Android Tactics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-to-youtube-comment-insight/"><u>[Updated] Unveiling the Secrets to YouTube Comment Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-optimizing-video-capture-with-mov-on-windows-10/"><u>2024 Approved Optimizing Video Capture with MOV on Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/p-by-step-approach-to-crafting-your-video-market-standouts/"><u>A Step-by-Step Approach to Crafting Your Video' Market Standouts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-cover-video-excellence-strategies-for-leadership-in-social-media/"><u>FB Cover Video Excellence Strategies for Leadership in Social Media</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 8 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-essential-steps-for-youtube-video-preservation/"><u>In 2024, Essential Steps for YouTube Video Preservation</u></a></li>
+<li><a href="https://howto.techidaily.com/infinix-note-30-vip-racing-edition-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 VIP Racing Edition Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-essentials-of-hybrid-dual-capable-displays/"><u>Investigating the Essentials of Hybrid Dual-Capable Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-playing-not-cluttering-retro-gaming-simplified-using-the-chdman-technique/"><u>Keep Playing, Not Cluttering: Retro Gaming Simplified Using the ChDMan Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-ai-innovation-the-emergence-of-dlss-35/"><u>Nvidia's AI Innovation: The Emergence of DLSS 3.5</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-icloud-challenges-expert-tips-for-ensuring-seamless-device-synchronization/"><u>Overcoming iCloud Challenges: Expert Tips for Ensuring Seamless Device Synchronization</u></a></li>
+<li><a href="https://games-able.techidaily.com/restore-peace-to-your-gamespace-with-epic-launcher-tweaks/"><u>Restore Peace to Your Gamespace with Epic Launcher Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfolding-new-horizons-experience-additional-fallout-games/"><u>Unfolding New Horizons: Experience Additional Fallout Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/whats-different-in-the-new-ps5-model/"><u>What's Different in the New PS5 Model?</u></a></li>
 </ul></div>
 

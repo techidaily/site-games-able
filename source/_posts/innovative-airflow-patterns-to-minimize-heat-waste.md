@@ -1,7 +1,7 @@
 ---
 title: Innovative Airflow Patterns to Minimize Heat Waste
-date: 2024-09-13T19:23:34.050Z
-updated: 2024-09-21T00:06:51.035Z
+date: 2024-10-20T03:19:11.085Z
+updated: 2024-10-24T20:18:48.367Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 * [Should Your GPU Fans Run at 100%?](#should-your-gpu-fans-run-at-100)
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can create a custom GPU fan curve to unlock your graphics card's full potential and prevent thermal throttling.
@@ -47,6 +54,19 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
@@ -57,6 +77,13 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
@@ -66,10 +93,10 @@ Jhet Borja/MakeUseOf
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
@@ -77,19 +104,6 @@ Jhet Borja/MakeUseOf
  To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
@@ -106,13 +120,6 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
@@ -121,6 +128,13 @@ Jhet Borja/MakeUseOf
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
@@ -128,19 +142,6 @@ Jhet Borja/MakeUseOf
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -165,5 +166,23 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-infuse-projects-with-sounds-in-adobe-premiere-pro/"><u>[New] In 2024, Infuse Projects with Sounds in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-make-thumbnails-for-youtube-with-mobile-phones-for-2024/"><u>[Updated] How to Make Thumbnails for YouTube With Mobile Phones for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-dreaded-crash-repair-strategies-for-helldivers-n-blue-screen-mishap/"><u>Defeat the Dreaded Crash: Repair Strategies for Helldivers N Blue Screen Mishap</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-impact-of-hrtf-on-valorant-sensory-engagement/"><u>Dissecting the Impact of HRTF on Valorant Sensory Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-multi-port-hubs-for-next-gen-games/"><u>Elite Multi-Port Hubs for Next-Gen Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-dissecting-asuss-proart-pa-329q-an-expert-review-on-its-professional-capabilities/"><u>In 2024, Dissecting Asus's ProArt PA 329Q An Expert Review on Its Professional Capabilities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode without Computer?</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-unveiled-gaming-board-redefined-by-keychron/"><u>Lemokey L3 Unveiled: Gaming Board Redefined by Keychron</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/love-around-the-globe-multilingual-expressions-for-valentines-day/"><u>Love Around The Globe: Multilingual Expressions for Valentine's Day</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-windows-10-the-hidden-paths-for-importation-for-2024/"><u>Mastering Windows 10 The Hidden Paths for Importation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-landscape-high-quality-discords-revealed/"><u>Navigating the Landscape: High-Quality Discords Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-tech-buying-learning-from-past-oled-choices/"><u>Smart Tech Buying: Learning From Past OLED Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-solo-broadcasters-playbook-for-optimal-live-streams-for-2024/"><u>The Solo Broadcaster's Playbook for Optimal Live Streams for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-outdoor-game-guide-ar-edition/"><u>The Ultimate Outdoor Game Guide (AR Edition)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-beatit-bt-d11-power-bank-strength-unleashed/"><u>Ultimate Guide to the Beatit BT-D11 Power Bank - Strength Unleashed</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-meta-mean-in-gaming-and-should-you-obey-it/"><u>What Does Meta Mean in Gaming? And Should You Obey It?</u></a></li>
+</ul></div>
 

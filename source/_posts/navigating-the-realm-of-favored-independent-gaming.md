@@ -1,7 +1,7 @@
 ---
 title: Navigating the Realm of Favored Independent Gaming
-date: 2024-09-14T23:09:45.897Z
-updated: 2024-09-21T02:04:53.741Z
+date: 2024-10-17T23:22:52.231Z
+updated: 2024-10-24T18:20:44.432Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
  Years and years ago, I came across this short, charming little game called[Storyteller](https://annapurnainteractive.com/en/games/storyteller) where you would click and drag various elements to tell a particular story. I was certainly surprised when I found out the developer was making a full version for PC and console. That game was released last year under the same title, expanding the original with more characters and situations into more complicated puzzles.
@@ -78,15 +85,22 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  Storyteller is also now available on mobile as one of[Netflix's games](https://www.makeuseof.com/how-to-play-games-on-netflix/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 VA-11 Hall-A: Cyberpunk Bartender Action
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
@@ -112,5 +126,22 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-downloads-for-mac-easy-steps-included/"><u>[New] Snapchat Downloads for Mac - Easy Steps Included</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x/"><u>[Updated] 2024 Approved The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-huawei-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Huawei Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/googles-next-big-thing-unveiling-rumored-news-on-the-pixel-fold-2s-specs-cost-and-launch-date/"><u>Google's Next Big Thing? Unveiling Rumored News on the Pixel Fold 2’S Specs, Cost, and Launch Date</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpd-win-4-unleashing-ultimate-mobile-performance/"><u>GPD Win 4: Unleashing Ultimate Mobile Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-13-mini-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 13 mini</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-game-setup-for-diverse-channels/"><u>Ideal Game Setup for Diverse Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-playtime-with-series-x-offers/"><u>Maximize Your Playtime with Series X Offers</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-into-how-xbox-harnesses-remote-play/"><u>Peering Into How Xbox Harnesses Remote Play</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-mousepads-a-players-perspective/"><u>Premium Mousepads: A Player's Perspective</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-the-apple-narrative-in-pc-gaming/"><u>Rethinking the Apple Narrative in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/scorching-discounts-on-ps-games-and-accessories/"><u>Scorching Discounts on PS Games & Accessories</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-when-lost-ark-fails-to-connect-to-servers/"><u>Ultimate Fixes for When 'Lost Ark' Fails to Connect to Servers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover the Hidden Risks in LinkedIn’s New Gaming Platform
-date: 2024-10-12T07:07:27.438Z
-updated: 2024-10-19T01:28:02.927Z
+date: 2024-10-18T04:27:42.708Z
+updated: 2024-10-24T17:23:27.333Z
 tags:
   - games
 categories:
@@ -40,24 +40,24 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
  Now, LinkedIn has decided to join in with the fun, adding a Games tab populated with (at the time of writing), three "fun" games. These are Pinpoint, Crossclimb, and Queens.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pinpoint
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
-[Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
 
 ### Crossclimb
 
@@ -70,16 +70,16 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
+<span id="1938141">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
@@ -122,21 +122,24 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-top-5-winter-scenes-to-enhance-your-video-warmth/"><u>[New] In 2024, Top 5 Winter Scenes to Enhance Your Video Warmth</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-animated-text-in-video-landscapes/"><u>[Updated] The Art of Animated Text in Video Landscapes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-how-to-screen-record-facetime-calls/"><u>2024 Approved How to Screen Record FaceTime Calls</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/choosing-excellence-a-buyers-guide-to-hdr-cameras/"><u>Choosing Excellence A Buyer's Guide to HDR Cameras</u></a></li>
-<li><a href="https://games-able.techidaily.com/connect-xbox-to-laptop-a-guide-to-effective-gaming-display-setup/"><u>Connect Xbox to Laptop: A Guide to Effective Gaming Display Setup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-techniques-to-remove-horizontal-and-vertical-lines-from-tv-screens/"><u>DIY Techniques to Remove Horizontal and Vertical Lines From TV Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/empowering-your-dev-console-a-step-by-step-guide-for-launcher-installations/"><u>Empowering Your Dev Console: A Step-by-Step Guide for Launcher Installations</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-the-best-of-jedi-fallen-order-expert-tips-to-prevent-pc-crashes-and-glitches/"><u>Get the Best of 'Jedi: Fallen Order': Expert Tips to Prevent PC Crashes and Glitches</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-c22-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia C22 FRP</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-mobile-entertainment-steam-link-on-iosandroid-devices/"><u>Master Mobile Entertainment - Steam Link on iOS/Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-performance-order-should-you-upgrade-your-cpu-or-gpu-first/"><u>Optimal Performance Order: Should You Upgrade Your CPU or GPU First?</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-differently-now-how-steams-rules-reshape-ai-games/"><u>Playing Differently Now: How Steam's Rules Reshape AI Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/scrutinizing-sham-buzzwords-in-fake-game-ads/"><u>Scrutinizing Sham Buzzwords in Fake Game Ads</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-smartphone-ps5-connection-process/"><u>Streamlining Smartphone-PS5 Connection Process</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-computer-restarts-when-playing-games/"><u>[SOLVED] Computer Restarts When Playing Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-harnessing-lut-power-for-free-high-quality-colorization/"><u>2024 Approved Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-offline-car-racer-games-of-2024-top-picks-you-can-play-anytime-anywhere/"><u>Best Offline Car Racer Games of 2024 - Top Picks You Can Play Anytime, Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-core-duel-nvidia-intel-or-amd/"><u>Gaming Core Duel: Nvidia, Intel or AMD?</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-p55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel P55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-comprehensive-roadmap-to-effective-reddit-sharing/"><u>In 2024, The Comprehensive Roadmap to Effective Reddit Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/inexpensive-durable-multi-keyboards-explored/"><u>Inexpensive, Durable Multi-Keyboards Explored</u></a></li>
+<li><a href="https://win-net.techidaily.com/loschen-von-windows-partitionen-in-version-10-oder-11-vier-strategien/"><u>Löschen Von Windows-Partitionen in Version 10 Oder 11: Vier Strategien</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/metaspace-contrasted-with-cosmic-universe/"><u>Metaspace Contrasted with Cosmic Universe</u></a></li>
+<li><a href="https://games-able.techidaily.com/platform-choices-and-add-ons-for-bg3-players/"><u>Platform Choices and Add-Ons for BG3 Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-supplies-s-ps5-dualsense/"><u>Precision Power Supplies 'S PS5 DualSense</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-solving-cyberpunk-2077-launch-difficulties/"><u>Resolved! Solving Cyberpunk #2077 Launch Difficulties</u></a></li>
+<li><a href="https://blog-min.techidaily.com/sin-compromisos-como-convertir-con-excelencia-su-video-avchd-a-mp4-usando-los-mejores-tecnicas-de-la-industria/"><u>Sin Compromisos: Cómo Convertir Con Excelencia Su Video AVCHD a MP4 Usando Los Mejores Técnicas De La Industria</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-creativity-5-techniques-for-upgrading-the-xbox-game-bar-interface/"><u>Unleashing Creativity: 5 Techniques for Upgrading the Xbox Game Bar Interface</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-top-tier-games-in-apples-game-library/"><u>Unlocking the Top-Tier Games in Apple's Game Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-gameplay-display-tvs-fullscreen-in-playnite/"><u>Upgrade Gameplay Display: TV's Fullscreen in Playnite</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-6-stats-show-macs-fall-behind-on-gaming-benchmarks/"><u>Why 6 Stats Show Macs Fall Behind on Gaming Benchmarks</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-todays-mmos-on-smartphones/"><u>Your Ultimate Guide to Today's MMOs on Smartphones</u></a></li>
 </ul></div>
 

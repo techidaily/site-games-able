@@ -1,7 +1,7 @@
 ---
 title: Tackling Persistent PS4 Controller Detachments in Windows
-date: 2024-10-16T01:44:38.028Z
-updated: 2024-10-19T07:10:54.419Z
+date: 2024-10-18T21:17:45.352Z
+updated: 2024-10-24T16:42:14.560Z
 tags:
   - games
 categories:
@@ -29,29 +29,36 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  If it's the controller, consider contacting Sony or taking it to a hardware professional to see if they can fix it. If none of them can help, you might have to replace the controller. But if the controller works fine after testing it on other devices, the problem could be your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check for Port Issues
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rule Out Controller's Range Issues
 
  If you're using the controller wirelessly with the DS4Windows app, then make sure you're within Bluetooth range. We recommend being within 10 feet of your computer. If the controller keeps disconnecting, try moving closer, and if it continues when you're too close, then it's probably not a range issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Rule Out Issues on the OS Side
 
@@ -61,18 +68,18 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend[running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Hard Reset Your Controller
 
  It could also be that your controller has suffered a temporary glitch, and you can fix it with a hard reset. To do that, grab a pointy and thin object, such as a straightened paper clip or toothpick, and insert it into the small hole at the back of your DS4 controller (it's below the Left Trigger button). Push it until you press the**Reset** button, hold it for about five seconds, and then let go.
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
 
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![the Wireless Controller in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wireless-controller-in-device-manager.jpg)
 
  Once you update the driver, check if you can use the controller properly without it disconnecting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Ensure DS4Windows Is Properly Installed
 
@@ -118,22 +118,24 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-the-zoom-tool-on-snapchat-for-better-photos-and-videos/"><u>[New] In 2024, Mastering the Zoom Tool on Snapchat for Better Photos & Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-definitive-guide-to-classic-anime-themes/"><u>[New] In 2024, The Definitive Guide to Classic Anime Themes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ransforming-channels-via-youtube-music-upload/"><u>[New] Transforming Channels via Youtube Music Upload</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-aerial-artistry-in-motion-examining-gopro-karma-performance/"><u>[Updated] Aerial Artistry in Motion Examining GoPro Karma Performance</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-free-and-online-facebook-music-downloaders/"><u>2024 Approved Free And Online Facebook Music Downloaders</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-proof-gaming-tech-keyboard-selection-guide-2024/"><u>Future-Proof Gaming Tech: Keyboard Selection Guide 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-titans-4070-super-vs-titan-x-and-rtx-4080-super/"><u>Graphics Titans: 4070 Super Vs. Titan X and RTX 4080 Super</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-shoot-hdr-photos-with-iphone/"><u>In 2024, How to Shoot HDR Photos with iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c210-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C210 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo-for-2024/"><u>Love in Full Bloom Top 7 Premium Marriage Films From YouTube and Vimeo for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximize-your-apple-watchs-battery-top-8-essential-setting-adjustments-revealed/"><u>Maximize Your Apple Watch's Battery: Top 8 Essential Setting Adjustments Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-with-purpose-top-15-gaming-titles-for-ios-devices-without-wi-fi/"><u>Playing with Purpose: Top 15 Gaming Titles for iOS Devices Without Wi-Fi</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-blue-light-reducer-sunglasses/"><u>Premium Blue Light Reducer Sunglasses</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-unlocks-new-features-for-families-today/"><u>Steam Unlocks New Features for Families Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/sustaining-performance-5-fixes-for-your-switch/"><u>Sustaining Performance: 5 Fixes for Your Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-functionality-of-xbox-wraps/"><u>The Functionality of Xbox Wraps</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secret-to-every-steam-award-unlock/"><u>The Secret to Every Steam Award Unlock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-bandicam-scrutiny-a-detailed-evaluation-for-screen-capture-users/"><u>[Updated] 2024 Approved Bandicam Scrutiny A Detailed Evaluation for Screen Capture Users</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-x-fold-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo X Fold 2 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-games-on-linux-devices-explained/"><u>Android Games on Linux Devices Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-breathe-new-life-into-your-old-gaming-rig/"><u>AtlasOS: Breathe New Life Into Your Old Gaming Rig</u></a></li>
+<li><a href="https://games-able.techidaily.com/channel-control-mastery-using-twitchs-blocku-block-feature/"><u>Channel Control Mastery: Using Twitch's Block/U-Block Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-palworld/"><u>Demystifying PalWorld</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-non-starting-display-drivers-in-win1011-oses/"><u>Fixing Non-Starting Display Drivers in Win10/11 OSes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/generic-bluetooth-adapter-driver-latest-download-for-windows/"><u>Generic Bluetooth Adapter Driver | Latest Download | For Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-counteract-missed-steam-icons/"><u>How to Counteract Missed Steam Icons</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-broadcasting-with-ease-screen-sharing-techniques-for-facebook/"><u>In 2024, Broadcasting with Ease Screen Sharing Techniques for Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-90-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor 90</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-ensuring-legal-compliance-in-skype-recordings-via-obs/"><u>In 2024, Ensuring Legal Compliance in Skype Recordings via OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-step-by-step-obs-integration-for-youtube-and-twitch-viewers/"><u>In 2024, Step-by-Step OBS Integration for YouTube & Twitch Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/shine-a-brighter-spotlight-on-your-xbox-console/"><u>Shine a Brighter Spotlight on Your Xbox Console</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-complete-routine-for-hulu-capture-on-diverse-devices-for-2024/"><u>The Complete Routine for Hulu Capture on Diverse Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-economic-impact-of-a-psplus-gaming-pass/"><u>The Economic Impact of a PS+ Gaming Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-road-ahead-haptic-grip-or-digital-direct-control/"><u>The Road Ahead: Haptic Grip or Digital Direct Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-remote-recovery/"><u>The Ultimate Guide to PS5 Remote Recovery</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-11-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus 11 5G</u></a></li>
 </ul></div>
 

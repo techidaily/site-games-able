@@ -1,7 +1,7 @@
 ---
 title: Steps for Rectifying Joy-Con Erratic Movements
-date: 2024-09-18T23:46:31.134Z
-updated: 2024-09-21T00:39:50.990Z
+date: 2024-10-21T22:21:18.483Z
+updated: 2024-10-24T19:05:43.270Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  But before you try to fix your Xbox Wireless Controller, you may want to check whether a software error is the actual cause of the stick drift. Luckily, the ways to do this are relatively simple:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update Your Xbox Wireless Controller
 
  One of the easiest ways to see whether a system error from either your Xbox controller or console is causing the stick drift is to update your Xbox Wireless Controller.
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 ![A photograph of a white Xbox One controller being held in front of a monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/stock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With your Xbox controller reconnected you have successfully reset your Xbox Wireless Controller. However, this method of troubleshooting only really tells you if the stick drift issue is a temporary problem caused by a system error.
 
  If your stick drift issues continue, a larger software fault could be to blame, and you may need to[reset your Xbox console](https://www.makeuseof.com/tag/reset-xbox-one-xbox-360/) . But before doing something that drastic, it's worthwhile attempting to physically fix the stick drift issues with your Xbox Wireless Controller.
@@ -58,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 ## How to Physically Repair Xbox Wireless Controller Stick Drift
 
  If it doesn't seem like a software error is to blame for your controller's stick drift, there is likely a physical fault. In this scenario, it's worth double-checking your controller for obvious physical damage. If there is no apparent cause, the most likely ways to fix Xbox Wireless Controller stick drift physically are as follows:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Repair Xbox Wireless Controller Stick Drift With Compressed Air
 
@@ -98,26 +105,26 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 ![A photograph of an Xbox One controller with its grips removed and highlighting the revealed screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/grip-screws.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * With all the screws removed, you can take the casing off your Xbox Wireless Controller to reveal the internal parts.
 
 ![A photograph of a dismantled Xbox One controller with the internal parts accessible](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controller-dismantled.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now the internal parts of your Xbox Wireless Controller are accessible, you should be able to see whether there are any blockages interfering with the analog stick mechanism. If you want to replace the sticks altogether, simply pull each plastic cover off and replace them with your new analog sticks.
 
  You can also take the opportunity to[clean your Xbox Wireless Controller](https://www.makeuseof.com/how-to-clean-xbox-one-controller/) . After all, a clean and well-maintained controller is less likely to develop faults in the first place and the internal parts are a nightmare for gathering dust and muck.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Your Xbox One and Xbox Series X|S Controllers Healthy
 
@@ -138,5 +145,17 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-evaluating-vlc-for-screen-recordings-for-2024/"><u>[New] Evaluating VLC for Screen Recordings for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-beginners-guide-to-personal-brand-craftsmanship/"><u>[Updated] In 2024, A Beginner's Guide to Personal Brand Craftsmanship</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/diy-guide-to-removing-all-content-from-your-iphone-safely-and-securely/"><u>DIY Guide to Removing All Content From Your iPhone Safely and Securely</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-review-of-premium-xbox-streaming-devices/"><u>Exclusive Review of Premium Xbox Streaming Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-power-playoffs-rtx-4070-super-and-4080-super-in-the-spotlight/"><u>Graphics Power Playoffs: RTX 4070 Super & 4080 Super in the Spotlight</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Phone without Google Account?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/kostenlos-kopieren-von-daten-auf-eine-externe-festplatte-eine-einfache-anleitung/"><u>Kostenlos Kopieren Von Daten Auf Eine Externe Festplatte: Eine Einfache Anleitung</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-high-responsive-mouse-masters/"><u>Superior High Responsive Mouse Masters</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-gaming-experience-of-bg3-for-your-apple-m-device/"><u>Unlock the Full Gaming Experience of BG3 for Your Apple M Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download & DLC Details for Baldur's Gate 3
-date: 2024-09-17T22:04:29.198Z
-updated: 2024-09-20T19:24:24.837Z
+date: 2024-10-20T20:43:10.619Z
+updated: 2024-10-25T02:54:28.879Z
 tags:
   - games
 categories:
@@ -44,6 +44,13 @@ Here’s a table for Baldur’s Gate 3’s specs:
 * M1 and M2 Macs with 16GB of RAM can run Baldur’s Gate 3 on high or ultra settings.
 * (Intel) MacBook Pros from 2016 to early 2020 might need to run on low settings unless they have the recommended specs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Platforms Can You Get Baldur's Gate 3 On, and How Much Is It?
 
 ![Baldur's Gate 3 Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-steam-store-page.jpeg)
@@ -64,6 +71,13 @@ Here’s a table for Baldur’s Gate 3’s specs:
 
 ![Baldur's Gate 3's multiplayer menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-s-multiplayer-menu.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can load saves across different platforms, but there’s no cross-play for PS5 and PC. Meaning that you can’t play with a friend using a PS5 if you’re using a PC and vice-versa.
 
  And yes, you can play split-screen simply by activating another controller in-game.
@@ -71,10 +85,10 @@ Here’s a table for Baldur’s Gate 3’s specs:
  You should run your split-screen game with DirectX instead of Vulkan because it could crash otherwise.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Baldur's Gate 3 Okay for Kids?
@@ -84,10 +98,16 @@ Here’s a table for Baldur’s Gate 3’s specs:
  There is a toggle to hide nudity in the character creation stage. This might help reduce the chances of a child seeing something inappropriate while you play.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You’re Ready to Play Baldur’s Gate 3 (or Not)
@@ -109,5 +129,21 @@ Here’s a table for Baldur’s Gate 3’s specs:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-dramatic-portraits-with-hdr-a-complete-tutorial/"><u>[Updated] Dramatic Portraits with HDR A Complete Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-highlights-from-chinas-winter-olympiad-2022/"><u>[Updated] Highlights From China's Winter Olympiad 2022</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-recommended-videos-block-the-videos/"><u>[Updated] In 2024, YouTube Recommended Videos - Block the Videos</u></a></li>
+<li><a href="https://win-docs.techidaily.com/discover-the-leading-seo-service-providers-in-bristol-comprehensive-list-and-comparisons-for-enhanced-online-visibility/"><u>Discover the Leading SEO Service Providers in Bristol - Comprehensive List & Comparisons for Enhanced Online Visibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-new-york-times-connection-strategies/"><u>Exploring New York Times Connection Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-face-off-extravaganza-4070-supers-meet-4080/"><u>Graphics Face-Off Extravaganza: 4070 Supers Meet 4080</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-video-impact-selecting-the-best-rank-trackers-for-youtubers/"><u>In 2024, Maximizing Video Impact Selecting the Best Rank Trackers for YouTubers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-compatible-logitech-brio-camera-driver-software-for-enhanced-video-calls-on-windows-11/"><u>Latest Compatible Logitech BRIO Camera Driver Software for Enhanced Video Calls on Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-fun-finding-hot-images-at-pexelscom-for-2024/"><u>Maximizing Fun Finding Hot Images at Pexels.com for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-xands-the-ultimate-offer-extravaganza/"><u>Series X&S: The Ultimate Offer Extravaganza</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-device-sharing-the-secure-connection-between-desktop-and-steam-deck/"><u>Strategic Device Sharing: The Secure Connection Between Desktop & Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-veracity-of-being-labeled-as-idle-on-discord/"><u>The Veracity of Being Labeled as 'Idle' On Discord</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-hue-harmonizer-tool-for-2024/"><u>Ultimate Hue Harmonizer Tool for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-key-points-when-shopping-for-a-handheld-gaming-system/"><u>Understanding the Key Points When Shopping for a Handheld Gaming System</u></a></li>
+</ul></div>
 

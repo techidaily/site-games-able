@@ -1,7 +1,7 @@
 ---
 title: "From PS Console to Joy-Con: The Controller Bridge Explained"
-date: 2024-09-17T18:22:04.058Z
-updated: 2024-09-20T22:42:15.142Z
+date: 2024-10-21T18:25:21.784Z
+updated: 2024-10-25T06:09:16.483Z
 tags:
   - games
 categories:
@@ -41,9 +41,29 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
@@ -52,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
@@ -70,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
@@ -95,5 +122,26 @@ thumbnail: https://thmb.techidaily.com/c9af2386c6798b3575f6d66e9544981a45984b6b6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-to-use-platforms-for-free-youtube-thumbnail-extracting/"><u>[New] 2024 Approved Easy-to-Use Platforms for Free YouTube Thumbnail Extracting</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-high-end-psd-lighting-tweaks/"><u>[New] 2024 Approved High-End PSD Lighting Tweaks</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/comment-reinitialiser-correctement-le-bios-de-windows-11-pour-une-demarche-en-douceur/"><u>Comment Réinitialiser Correctement Le BIOS De Windows 11 Pour Une Démarche en Douceur</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/delightful-yuletide-cinema-on-youtube-savor-nine-whole-film-gems-for-2024/"><u>Delightful Yuletide Cinema on YouTube Savor Nine Whole-Film Gems for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-headphone-buzzing-problems-a-users-handbook/"><u>Diagnosing and Resolving Headphone Buzzing Problems: A User's Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-2024s-ultimate-gaming-setup-guide/"><u>Elite 2024'S Ultimate Gaming Setup Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fenty-mysteries-solved-immortals-fenyx-rising-ready-to-roll-out/"><u>Fenty Mysteries Solved - Immortals Fenyx Rising Ready to Roll Out</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-c55-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme C55 to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimizing-internet-latency-strategies-for-improved-response-times/"><u>Minimizing Internet Latency: Strategies for Improved Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-era-of-computers-at-taipei-expo/"><u>New Era of Computers at Taipei Expo</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/partnered-amd-motherboards-deploy-critical-bios-patch-to-resolve-emblematic-failure-issue/"><u>Partnered AMD Motherboards Deploy Critical BIOS Patch to Resolve Emblematic Failure Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-ambiance-tailoring-console-lights-on-xbox/"><u>Perfecting Ambiance: Tailoring Console Lights on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-exclusive-steam-deck-upgrades-revealed/"><u>Pushing Boundaries: Exclusive Steam Deck Upgrades Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-game-visuals-with-models-in-mind/"><u>Redefining Game Visuals with Models in Mind</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-home-computer-guide-mini-pc-vs-desktops/"><u>The Ultimate Home Computer Guide: Mini PC Vs. Desktops</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-oriented-wireless-controller-keys/"><u>Value-Oriented Wireless Controller Keys</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-roadmap-to-earn-all-badges-on-steam-gaming/"><u>Your Roadmap to Earn All Badges on Steam Gaming</u></a></li>
+</ul></div>
 

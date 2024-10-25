@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Gaming Rig, Not Just the Graphics
-date: 2024-09-15T17:15:46.305Z
-updated: 2024-09-21T01:01:33.030Z
+date: 2024-10-22T22:57:34.344Z
+updated: 2024-10-25T04:32:48.230Z
 tags:
   - games
 categories:
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 ![On the left, a high-end graphics card inside a computer setup, and on the right, miniature figures appear to be working on a motherboard with a prominent CPU.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/is_it_more_important_to_upgrade_your_cpu_or_gpu_first.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Miker Rivero/Midjourney/MakeUseOf
 
  At the heart of any gaming PC lies the CPU (Central Processing Unit) and GPU (Graphics Processing Unit). These two components work in tandem to handle the complex calculations and rendering required for gaming.
@@ -64,15 +71,22 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
  Remember, prioritizing one component over the other is fine as long as both the CPU and GPU are working at around the same capacity when gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 RAM
 
 ![Two RAM sticks on top of a computer motherboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/two-ram-sticks-on-top-of-a-computer-motherboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Zoomik/[Shutterstock](https://www.shutterstock.com/image-photo/computer-memory-ram-on-motherboard-background-1892887324)
@@ -90,13 +104,6 @@ When buying RAM, here are the specifications you need to check out:
  In terms of speed, you'll want to choose RAM no slower than 3000 MHz /MT/s for DDR4 compatible motherboards and RAM speeds of at least 5000 Mhz/MTs for DDR5\. Due to labeling mistakes in the past becoming a common convention today,[RAM data rate and frequency rates have become quite a confusing](https://www.makeuseof.com/mts-vs-mhz-datarate-vs-frequency-in-ram-explained/) topic.
 
  There is no need to worry about it right now as it doesn't really affect performance. As long as you don't go below 3000 MHz /MT/s for DDR4 and 5000 Mhz/MTs for DDR5, your gaming PC should work fine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 A Solid State Drive (SSD)
 
@@ -127,10 +134,10 @@ When buying RAM, here are the specifications you need to check out:
 ![Two OLED monitors VESA mounted on a desk with keyboard and mouse below it](https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1ab69f246e6dc4f6374786b65.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hamlin Rozario/MakeUseOf
@@ -162,5 +169,17 @@ When buying RAM, here are the specifications you need to check out:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-fixing-invisible-areas-within-youtube-videos-for-2024/"><u>[Updated] Fixing Invisible Areas Within YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-deep-dive-into-vscos-creative-palette/"><u>A Deep Dive Into VSCO's Creative Palette</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-privacy-and-convenience-in-your-nintendo-experience/"><u>Ensuring Privacy and Convenience in Your Nintendo Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review-for-2024/"><u>Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-k11-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo K11 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-unearth-excellent-indie-titles-on-itchio/"><u>How to Unearth Excellent Indie Titles on Itch.io</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s24-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S24? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-two-titans-clash-in-the-vr-arena/"><u>In 2024, Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-upgrading-to-ultimate-a-wise-decision/"><u>Is Upgrading to Ultimate a Wise Decision?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-new-horizons-in-console-gaming-embarking-on-the-4k-odyssey/"><u>Navigating New Horizons in Console Gaming: Embarking on the 4K Odyssey</u></a></li>
+</ul></div>
 

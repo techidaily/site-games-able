@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Optimizing: Expert Tips on Using Your Steam Deck"
-date: 2024-09-16T22:52:04.864Z
-updated: 2024-09-20T23:54:45.431Z
+date: 2024-10-21T01:29:59.981Z
+updated: 2024-10-24T18:28:08.582Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
  Now that your image is being output at a higher resolution, you'll be able to access higher resolutions in game. It will look a lot nicer on the big screen, but it's also going to be more taxing on your performance. Let's see what other tools the Steam Deck has to manage performance.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using Per-Game Settings
 
 ![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
@@ -56,6 +63,19 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
  If you've docked your Steam Deck, it's likely you're using a controller instead of the controls on the unit itself. In this case, holding the**system button + A** will display this menu.
 
 ![screenshot of steam deck quick menu game profile selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_game_profile.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  First thing to do is to enable**Use Per-Game Profile** . This will ensure that any changes you make in this menu will only affect the currently active game.
 
@@ -77,9 +97,29 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Target 30 or 40 FPS Over 60 FPS
 
 ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
 
@@ -88,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
  So, get comfortable with 30 or 40 FPS. 30 FPS is generally considered more than playable on the handheld screen, and 40 FPS is a decent upgrade to that to make the docked experience a little easier. If 60 FPS is the goal for you, you can always[take steps to further optimize individual games on the Steam Deck](https://www.makeuseof.com/how-to-optimize-steam-deck/) .
 
  Steam allows you to target 30 FPS using the performance overlay, but this framerate limiter occurs outside the game itself. For the best results, check if the game you're playing has an inbuilt framerate limiter. These are more accurate and responsive than the Steam Deck's overlay menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Docking Your Steam Deck Is a Balancing Act
 
@@ -115,5 +148,23 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-converting-youtubes-into-vivid-gifs-no-save/"><u>[Updated] The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-lenssnap-feature-examination/"><u>2024 Approved LensSnap Feature Examination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-cinematic-content-with-video-enhance-v22/"><u>Crafting Cinematic Content with Video Enhance V2.2</u></a></li>
+<li><a href="https://games-able.techidaily.com/decision-making-steps-before-committing-to-a-handheld-games-console/"><u>Decision-Making Steps Before Committing to a Handheld Games Console</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/engage-in-digital-creativity-contact-innovative-artists-at-digiartespace/"><u>Engage in Digital Creativity - Contact Innovative Artists at DigiArteSpace</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-games-six-alternatives-to-controls/"><u>Exploring PS5 Games: Six Alternatives to Controls</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-se-2022-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone SE (2022) Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 12</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-itel-p40-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Itel P40 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-game-bar-introspection-in-windows-11-scope/"><u>Managing Game Bar Introspection in Windows 11 Scope</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-strategies-to-locate-gamers-on-steam/"><u>Masterful Strategies to Locate Gamers on Steam</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-giants-overview-understanding-facebook-twitter-instagram-and-youtube-impact/"><u>Social Giants Overview: Understanding Facebook, Twitter, Instagram & YouTube Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-firmly-stops-exploiting-refund-protocols/"><u>Steam Firmly Stops Exploiting Refund Protocols</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-why-gamers-should-choose-steam/"><u>The Definitive Guide to Why Gamers Should Choose Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-potential-best-ethernets-for-gamers/"><u>Unleash Your Potential: Best Ethernets For Gamers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Nvidia's Titans Face-Off: RTX 4070 Super Meets 4080"
-date: 2024-10-15T04:19:47.475Z
-updated: 2024-10-19T00:09:16.305Z
+date: 2024-10-21T05:12:44.785Z
+updated: 2024-10-24T20:26:37.869Z
 tags:
   - games
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 * [RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared](#rtx-4070-ti-super-vs-rtx-4070-super-vs-rtx-4080-super-compared)
 * [Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?](#should-you-upgrade-to-the-rtx-4070-ti-super-rtx-4070-super-or-rtx-4080-super)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Nvidia launches its RTX 4000 "Super" and "Super Ti" branded GPUs with significant performance boosts.
@@ -33,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  Nvidia's new RTX 4070 Ti Super, RTX 4070 Super, and RTX 4080 Super are causing a stir because, despite being part of the RTX 4000 Series, the new GPUs bring some significant boosts—and unlike their counterparts, appear to be reasonably priced this time around.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared
@@ -66,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 | TGP              | 320W             | 320W              | 285W             | 220W             | 200W       |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Specs
@@ -85,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  Similarly, the RTX 4070 Super Ti receives a further boost, with its CUDA cores rising to 8,448\. Importantly, the 4070 Super Ti also has 16GB memory, rising from 12GB, while its memory bus also rises to 256-bit (bringing it in line with the RTX 4080 and 4080 Super). The 4GB memory increase and wider memory bus should see the RTX 4070 Super Ti deliver a hefty performance boost over the original RTX 4070 (as well as the RTX 4070 Ti, which is already on the market).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Price to Performance
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  Now, Nvidia is dropping the price of the RTX 4080 Super to $999\. It's still an expensive outlay; there's no escaping that, but the performance boost and price drop make the new RTX 4080 Super more palatable.
 
  But the price drops stop there. The RTX 4070 Super and Super Ti will launch at the same prices as the non-Super predecessors, coming in at $600 and $800, respectively. Given the performance upgrade for both GPUs, the lack of a price drop doesn't seem problematic, as you'll get more bang for your buck.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?
 
@@ -127,20 +127,20 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-free-guide-to-windows-desktop-captures-and-recordings-for-2024/"><u>[Updated] Free Guide to Windows Desktop Captures & Recordings for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos-for-2024/"><u>Bite-Size Broadcasting Battle Which Platform Dominates in Shorter Videos for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bring-back-the-beats-effective-remedies-for-silent-lenovo-laptops/"><u>Bring Back the Beats: Effective Remedies for Silent Lenovo Laptops</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/corrective-measures-applied-to-winos-comexceptions/"><u>Corrective Measures Applied to WinOS COMExceptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-windows-gaming-with-dxvk/"><u>Dive Into the World of Windows Gaming with DXVK</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-facetime-woes-a-comprehensive-list-of-15-tips-to-restore-service/"><u>Fix Your FaceTime Woes: A Comprehensive List of 15 Tips to Restore Service!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-accelerate-downloads-in-utorrent-expert-advice-for-faster-torrenting/"><u>How To Accelerate Downloads in uTorrent – Expert Advice for Faster Torrenting</u></a></li>
-<li><a href="https://games-able.techidaily.com/interact-and-master-youtubes-fresh-fun-mini-gaming-challenges/"><u>Interact & Master YouTube's Fresh, Fun Mini Gaming Challenges</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pictorial-insight-mastery-of-vsco-tools-for-2024/"><u>Pictorial Insight Mastery of VSCO Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-limits-upgrade-pc-csgo-performance/"><u>Pushing Limits: Upgrade PC CS:GO Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamlessly-connect-steam-and-xbox-game-pass-via-glossi/"><u>Seamlessly Connect Steam & Xbox Game Pass via GlosSI</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-for-activatingdeactivating-offline-file-functionality-in-windows-10-systems/"><u>Step-by-Step Tutorial for Activating/Deactivating Offline File Functionality in Windows 10 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-20-must-watch-films-on-demand-today/"><u>Top 20 Must-Watch Films on Demand Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-asus-rog-allys-top-docking-stations-24/"><u>Unveiling ASUS ROG Ally's Top Docking Stations '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-every-gamer-needs-steam-in-their-arsenal-heres-why/"><u>Why Every Gamer Needs Steam in Their Arsenal (Here's Why)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-non-standard-video-editing-applications-on-windows/"><u>[New] In 2024, Non-Standard Video Editing Applications on WIndows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unleash-the-power-of-live-captures-an-introduction-to-vimeo-record/"><u>[New] In 2024, Unleash the Power of Live Captures An Introduction to Vimeo Record</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unraveling-friends-pixels-speed-up-searches-for-2024/"><u>[New] Unraveling Friends' Pixels Speed Up Searches for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-tier-free-screen-capture-programs-2023-edition/"><u>[Updated] In 2024, Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-building-immersive-thumbnails-for-igtv-videos/"><u>2024 Approved Building Immersive Thumbnails for IGTV Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bring-back-your-touchpad-driver-missing-heres-what-you-can-do/"><u>Bring Back Your Touchpad: Driver Missing? Here's What You Can Do</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversione-libera-online-di-file-wtv-in-formato-mkv-con-movavi/"><u>Conversione Libera Online Di File WTV in Formato MKV Con Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-your-ideal-display-which-surpasses-oled-or-amoled/"><u>Deciding Your Ideal Display: Which Surpasses, OLED or AMOLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-affordable-wired-and-wireless-keys/"><u>Gamer's Guide to Affordable Wired and Wireless Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-like-a-pro-mastering-controller-settings-on-ryujinx/"><u>Gaming Like a Pro: Mastering Controller Settings on Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/illuminating-ideas-energy-and-inspiration/"><u>Illuminating Ideas: Energy & Inspiration</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-gaming-groups-achievement-avenues/"><u>Peak Gaming Groups: Achievement Avenues</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-fps-amplification-counter-strike-edition/"><u>Strategic FPS Amplification - Counter-Strike Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-a-new-default-language-in-steam/"><u>Switch to a New Default Language in Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723200794078-troubleshooting-tips-for-windows-10-issues-with-the-duo-approach-system-file-checker-sfc-and-deployment-image-servicing-dism/"><u>Troubleshooting Tips for Windows 10 Issues with The Duo Approach: System File Checker (SFC) and Deployment Image Servicing (DISM)</u></a></li>
 </ul></div>
 

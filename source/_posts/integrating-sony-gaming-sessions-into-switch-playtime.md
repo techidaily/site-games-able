@@ -1,7 +1,7 @@
 ---
 title: Integrating Sony Gaming Sessions Into Switch Playtime
-date: 2024-09-16T01:24:55.546Z
-updated: 2024-09-20T16:26:17.417Z
+date: 2024-10-17T16:56:08.601Z
+updated: 2024-10-25T04:32:07.147Z
 tags:
   - games
 categories:
@@ -35,11 +35,25 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
  For the first step, you must ensure that your Nintendo Switch is docked and turned on, and then plug in the wireless USB adapter to one of the USB slots on the left side of the dock. Next, you must navigate to the**System Settings** on the Switch’s main menu and select**Controllers and Sensors** .
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
@@ -53,6 +67,19 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
 ## Things to Consider When Using PlayStation Controllers on Switch
@@ -65,16 +92,22 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -95,5 +128,23 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-elite-twitters-shortlist-of-top-tiktok-hits/"><u>[Updated] 2024 Approved The Elite Twitter's Shortlist of Top TikTok Hits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-efficient-ways-to-archive-facetime-chats-for-2024/"><u>[Updated] Efficient Ways to Archive FaceTime Chats for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategy-unveiled-masterful-box-opening-tactics/"><u>[Updated] In 2024, Strategy Unveiled Masterful Box-Opening Tactics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-peekintobettercams-beyond-mycam/"><u>[Updated] PeekIntoBetterCams Beyond MyCam?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-sd-compatibility-with-sony-a7s-ii/"><u>[Updated] Ultimate SD Compatibility with Sony A7S II</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-resume-feature-key-to-smoother-xbox-gaming/"><u>Fast Resume Feature: Key to Smoother Xbox Gaming</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-your-apple-watch-can-become-an-effective-video-recording-tool-a-guide/"><u>How Your Apple Watch Can Become an Effective Video Recording Tool: A Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-fps-conundrum-deciding-between-standard-and-higher-video-speeds/"><u>In 2024, The FPS Conundrum Deciding Between Standard & Higher Video Speeds</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-frame-rate-knowledge-2-approaches-for-android-players/"><u>Increase Frame Rate Knowledge: 2 Approaches for Android Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/mystery-steam-picks-preservation/"><u>Mystery Steam Picks Preservation</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactile-gaming-finding-the-perfect-mouse-sensitivity/"><u>Tactile Gaming: Finding the Perfect Mouse Sensitivity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-smart-explorers-choice-premium-vr-gear-ranked/"><u>The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-reasoning-5-investing-in-old-school-gaming-units/"><u>Top Reasoning 5: Investing in Old-School Gaming Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-impact-why-not-prioritize-ray-tracing/"><u>Unraveling the Impact: Why Not Prioritize Ray Tracing?</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-nvidia-g-sync-heres-how-it-delivers-smoother-gaming/"><u>What Is Nvidia G-Sync? Here's How It Delivers Smoother Gaming</u></a></li>
+</ul></div>
 

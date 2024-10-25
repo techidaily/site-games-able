@@ -1,7 +1,7 @@
 ---
 title: "Old Vs. New PlayStation: In-Depth Differences"
-date: 2024-10-14T03:52:50.808Z
-updated: 2024-10-18T18:38:08.944Z
+date: 2024-10-23T00:08:20.516Z
+updated: 2024-10-25T03:03:48.903Z
 tags:
   - games
 categories:
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Size and Weight
 
  A major change to the PS5's design is the size. The launch PS5's dimensions were 390mm x 260mm x 104mm (height, width, depth) for the disc edition, while the digital edition had dimensions of 390mm x 260mm x 92mm. The smaller PS5s have dimensions of 358mm x 216mm x 96mm and 358mm x 216mm x 80mm for the disc and digital editions, respectively.
@@ -52,22 +45,15 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
@@ -84,19 +70,33 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
@@ -122,24 +122,20 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-complete-screen-recorder-in-depth-az-reviewing-for-2024/"><u>[New] Complete Screen Recorder - In-Depth AZ Reviewing for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-edit-with-precision-mastery-of-photoshops-eraser/"><u>[New] Edit with Precision Mastery of Photoshop's Eraser</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-snes-and-n64-to-steam/"><u>Connecting SNES & N64 to Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-the-idle-tag-in-online-discussions/"><u>Demystifying the 'Idle' Tag in Online Discussions</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhancing-user-experience-creating-high-roi-animated-ads-for-fb/"><u>Enhancing User Experience Creating High-ROI Animated Ads for FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/fresh-beginnings-for-your-playstation-4-console/"><u>Fresh Beginnings for Your PlayStation 4 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamings-evolution-tracker-nintendos-new-era-predicted/"><u>Gaming's Evolution Tracker - Nintendo's New Era Predicted</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-bring-up-the-keyboard-on-your-steam-deck/"><u>How to Bring Up the Keyboard on Your Steam Deck</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-peeking-behind-the-curtain-of-virtual-reality-pros-and-cons/"><u>In 2024, Peeking Behind the Curtain of Virtual Reality Pros & Cons</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/innovative-ways-to-archive-voice-transcripts-from-whatsapp/"><u>Innovative Ways to Archive Voice Transcripts From WhatsApp</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/instantaneous-storage-solutions-via-steam-device-cloning/"><u>Instantaneous Storage Solutions via Steam Device Cloning</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-your-computer-glitching-install-this-nvidia-driver-update-now-to-fix-it/"><u>Is Your Computer Glitching? Install This Nvidia Driver Update Now to Fix It</u></a></li>
-<li><a href="https://games-able.techidaily.com/lemokey-l3-review-keychrons-first-gaming-keyboard-is-pure-quality/"><u>Lemokey L3 Review: Keychron's First Gaming Keyboard Is Pure Quality</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-8-plus-5-ways-to-get-into-a-locked-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 8 Plus? 5 Ways to get into a Locked Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-video-sharing-understanding-vimeo-membership-plans-for-2024/"><u>Mastering Video Sharing Understanding Vimeo Membership Plans for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-constant-collapses-of-age-of-empires-4-gameplay-in-pc-environment/"><u>Overcoming the Constant Collapses of Age of Empires 4 Gameplay in PC Environment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ate-profit-prodigy-in-the-digital-age/"><u>Ultimate Profit Prodigy in the Digital Age</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwrapping-windows-rust-steam-login-glitches/"><u>Unwrapping Windows-Rust Steam Login Glitches</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-exploring-gopros-peak-adapters-the-ultimate-6-selection-guide/"><u>[New] In 2024, Exploring GoPro's Peak Adapters The Ultimate 6 Selection Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>[Updated] GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/boost-your-sound-quality-with-steelseries-engine-compatible-with-windows-10/"><u>Boost Your Sound Quality with SteelSeries Engine - Compatible with Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-traits-to-look-out-for-gaming-chairs/"><u>Crucial Traits to Look Out for Gaming Chairs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-to-get-your-logitech-mouse-scroll-wheel-back-on-track/"><u>DIY Fixes to Get Your Logitech Mouse Scroll Wheel Back on Track</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-savings-roundup-the-finest-discount-game-buying-hubs/"><u>Exclusive Savings Roundup: The Finest Discount Game Buying Hubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidelines-for-a-kid-friendly-playstation-5-setup/"><u>Guidelines for a Kid-Friendly Playstation 5 Setup</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-lava-blaze-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Lava Blaze Pro 5G Is Unlocked</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-playing-games-on-the-go-with-steam/"><u>Mastering the Art of Playing Games On-the-Go with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimize-xbox-game-bars-intrusion-in-win-11/"><u>Minimize Xbox Game Bar's Intrusion in Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-winxbox-controllers-that-wont-work/"><u>Reconnect: WinXbox Controllers That Won't Work</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-on-youtube-the-guide-to-affiliates/"><u>Thriving on YouTube The Guide to Affiliates</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-15-recommended-video-downloaders-on-reddit-a-comprehensive-guide/"><u>Top 15 Recommended Video Downloaders on Reddit : A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/ultimate-download-hub-for-social-media-videos-fb-for-2024/"><u>Ultimate Download Hub for Social Media Videos (FB) for 2024</u></a></li>
 </ul></div>
 

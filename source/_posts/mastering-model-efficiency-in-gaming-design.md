@@ -1,7 +1,7 @@
 ---
 title: Mastering Model Efficiency in Gaming Design
-date: 2024-10-17T19:34:58.253Z
-updated: 2024-10-19T05:00:41.398Z
+date: 2024-10-22T02:44:59.990Z
+updated: 2024-10-25T02:38:36.984Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  Asset reuse is very common in the video game development industry, and it’s something you should always consider when designing complex levels and scenes. Engines like Unity offer a prefabrication system to make this easier.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Compress Textures and Optimize Shaders
 
  Textures act like skin on the outside of a 3D object, adding patterns and other visual features to make the object look more real. Textures come in the form of image files, and each of these files needs to be loaded when it is used in a scene. By using compressed textures, you can free up a lot of resources.
@@ -45,15 +52,22 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use Occlusion Culling
 
  Engines like Unity and Unreal Engine feature an optimization tool called occlusion culling. This reduces resource usage by only rendering the 3D objects that the player can see in the scene. Outside of the player’s field of view, objects will not appear until they are looked at. This is an easy way to save resource usage in large scenes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Implement LOD (Level of Detail)
@@ -62,29 +76,22 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3D Model Game Optimization: Design Workflow
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -95,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
 * **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Automated Geometry Optimization
 
@@ -130,20 +130,21 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-professional-streaming-made-simple-in-obs-studio-android-edition/"><u>[Updated] In 2024, Professional Streaming Made Simple in OBS Studio, Android Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/deciphering-crossfade-techniques-in-music/"><u>Deciphering Crossfade Techniques in Music</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-computing-components-with-tom-detailed-hardware-insights/"><u>Exploring Computing Components with Tom - Detailed Hardware Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-interactive-text-based-realms-online/"><u>Five Interactive, Text-Based Realms Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-overcoming-steam-server-disconnection/"><u>Guide to Overcoming Steam Server Disconnection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-repair-image-id-0x80780119-on-windows-os/"><u>How To Repair Image ID: 0X80780119 on Windows OS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-strategizing-effective-movie-sneak-peeks/"><u>In 2024, Strategizing Effective Movie Sneak Peeks</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-entertainment-evolution-mobile-fortnite-via-streaming/"><u>Interactive Entertainment Evolution: Mobile Fortnite via Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseofs-highlighted-innovations-at-mwc-2024/"><u>MakeUseOf's Highlighted Innovations at MWC 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-quick-elgato-driver-downloads-a-comprehensive-guide/"><u>Mastering Quick Elgato Driver Downloads: A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-realme-10t-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Realme 10T 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/rectifying-the-issue-error-code-262-on-roblox/"><u>Rectifying the Issue: Error Code 262 on Roblox</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-nokia-c22-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Nokia C22 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-premier-nintendo-switch-cartridge-holsters-of-2024/"><u>The Premier Nintendo Switch Cartridge Holsters of 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-document-and-photo-scanners-in-2e24/"><u>Top-Rated Document & Photo Scanners in 2E24</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-innovative-strategies-for-sharing-on-instagram-stories/"><u>[New] 2024 Approved Innovative Strategies for Sharing on Instagram Stories</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-offline-android-delights-top-screen-free-game-list-you-must-play/"><u>[New] In 2024, Offline Android Delights Top Screen-Free Game List You Must Play</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-video-flexibility-unleashed-5-powerful-online-methods-to-edit-videos-on-vimeo/"><u>[Updated] In 2024, Video Flexibility Unleashed 5 Powerful Online Methods to Edit Videos on Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-wintvcapture-learn-the-art-of-free-screen-recording-for-2024/"><u>[Updated] WinTVCapture Learn the Art of Free Screen Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-your-xbox-controllers-energy-lifespan/"><u>Extending Your Xbox Controller's Energy Lifespan</u></a></li>
+<li><a href="https://games-able.techidaily.com/fashion-meets-functionality-leading-2024-case-trends/"><u>Fashion Meets Functionality: Leading 2024 Case Trends</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-phone-without-pin-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Phone without PIN</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-basics-enhancing-audio-clarity-in-valorant/"><u>HRTF Basics: Enhancing Audio Clarity in Valorant?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-game-pauseresume-on-chrome/"><u>Master Game Pause/Resume on Chrome</u></a></li>
+<li><a href="https://article-posts.techidaily.com/monetary-aspects-of-shopping-reviews-vlogs-for-2024/"><u>Monetary Aspects of Shopping Reviews Vlogs for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-xiaomi-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Xiaomi Mix Fold 3, is it possible?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-streamers-choice-best-twitch-vod-downloading-options/"><u>Pro-Streamer's Choice: Best Twitch VOD Downloading Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-your-access-to-ps5-gaming-libraries/"><u>Simplifying Your Access to PS5 Gaming Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gamers-progress-systems/"><u>Top-Rated Gamers' Progress Systems</u></a></li>
 </ul></div>
 

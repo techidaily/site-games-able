@@ -1,7 +1,7 @@
 ---
 title: Eliminating System Components Deficiency on Windows 11 OS
-date: 2024-10-15T17:59:14.841Z
-updated: 2024-10-19T08:43:32.711Z
+date: 2024-10-22T00:52:29.412Z
+updated: 2024-10-24T21:44:15.141Z
 tags:
   - games
 categories:
@@ -32,16 +32,10 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair Visual C++ Packages on Your PC
@@ -55,7 +49,28 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 3. Click the**three-dot button** beside the Visual C++ package version specified in the error message and select**Modify** . In Windows 10, you will need to select a Visual C++ package and click**Modify** .  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -69,26 +84,6 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -106,33 +101,32 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 6. Select**Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
@@ -141,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -175,17 +176,22 @@ thumbnail: https://thmb.techidaily.com/0c63aae4422094d29361ca7d174981f6a34db77ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-effective-visual-branding-crafting-compelling-youtube-logos/"><u>[New] 2024 Approved Effective Visual Branding Crafting Compelling YouTube Logos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-mini-masterpieces-top-6-coolest-mini-houses-in-mc-for-2024/"><u>[New] Mini Masterpieces Top 6 Coolest Mini-Houses in MC for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-screencast-success-stories-lessons-from-industry-experts/"><u>[New] Screencast Success Stories Lessons From Industry Experts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-a-new-era-in-iptv-recording-technology-exploration/"><u>2024 Approved A New Era in IPTV Recording Technology Exploration</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-skyline-spectacular-the-gopro-karma-edition/"><u>2024 Approved Skyline Spectacular The GoPro Karma Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/considerations-beyond-your-steam-score/"><u>Considerations Beyond Your Steam Score</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-overcome-launcher-crash-on-windows-error-0x803f8001/"><u>How to Overcome Launcher Crash on Windows: Error 0X803F8001</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-jumpstart-your-professional-filmmaking-exclusive-cost-free-green-screen-training-from-top-youtube-educators/"><u>In 2024, Jumpstart Your Professional Filmmaking Exclusive, Cost-Free Green Screen Training From Top YouTube Educators</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-sharing-the-vibe-how-to-post-tiktok-videos-to-facebook/"><u>In 2024, Sharing the Vibe How to Post TikTok Videos to Facebook</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-accessories-for-a-next-level-ps5-setup/"><u>Innovative Accessories for a Next-Level PS5 Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-tips-for-extending-xbox-x-longevity/"><u>Top 5 Tips for Extending Xbox X Longevity</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-your-rights-for-xbox-digital-return/"><u>Understanding Your Rights for Xbox Digital Return</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-pictureprofessional-expert-guide-to-adjusting-ig-content-sizes/"><u>[New] PictureProfessional Expert Guide to Adjusting IG Content Sizes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-boost-your-income-with-effective-snapchat-ads/"><u>[Updated] 2024 Approved Boost Your Income with Effective Snapchat Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/college-students-dream-simple-tips-for-a-homemade-wireless-entertainment-retreat/"><u>College Student's Dream: Simple Tips for a Homemade Wireless Entertainment Retreat</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-frequent-pc-crashes/"><u>Fixes & Solutions: How To Stop Valheim From Frequent PC Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-separate-to-synced-attaching-a-controller-on-your-phonetablet/"><u>From Separate to Synced: Attaching a Controller on Your Phone/Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-ps5-costs-after-resolving-shortages/"><u>Future PS5 Costs After Resolving Shortages</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-premium-logitech-mice/"><u>Gamers’ Choice: Premium Logitech Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-finesse-for-the-financially-prudent/"><u>Graphic Finesse for the Financially Prudent</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-record-your-ps4-games-like-a-pro-expert-advice/"><u>How to Effortlessly Record Your PS4 Games Like a Pro: Expert Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>In 2024, The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-the-secrets-to-iphone-stellar-images/"><u>In 2024, Unlocking the Secrets to iPhone Stellar Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-fun-smartphone-or-tablet-games/"><u>Maximizing Fun: Smartphone or Tablet Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/price-surge-precludes-my-return-to-ea-play/"><u>Price Surge Precludes My Return to EA Play</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973597595-quick-install-download-hp-officejet-5740-printer-drivers-today/"><u>Quick Install: Download HP OfficeJet 5740 Printer Drivers Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/synaptics-drivers-for-windows-made-easy-free-download-and-update-options/"><u>Synaptics Drivers for Windows Made Easy – Free Download & Update Options!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quest-for-availability-tracking-xbox-users/"><u>The Quest for Availability: Tracking Xbox Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-lite-android-gaming-software-for-pc-and-mac/"><u>Top 8 Lite Android Gaming Software for PC & Mac</u></a></li>
 </ul></div>
 

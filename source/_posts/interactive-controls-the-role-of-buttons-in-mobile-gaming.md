@@ -1,7 +1,7 @@
 ---
 title: "Interactive Controls: The Role of Buttons in Mobile Gaming"
-date: 2024-10-13T05:45:46.233Z
-updated: 2024-10-19T10:47:19.347Z
+date: 2024-10-18T05:10:38.097Z
+updated: 2024-10-25T04:02:03.978Z
 tags:
   - games
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 * [How to Get Started With Button Mapping on Android](#how-to-get-started-with-button-mapping-on-android)
 * [How to Assign Buttons to an Android Game](#how-to-assign-buttons-to-an-android-game)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Button mapping is handy if you want to use your controller with Android games that don't support it.
@@ -40,28 +33,34 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
  Plenty of gamepads can turn your smartphone into a portable handheld, but only a minority of Android games actually support physical controls. Fortunately, you can solve this problem by mapping buttons to different parts of the screen using apps.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Button Mapping?
 
  Button mapping refers to the process of manually determining what happens when you press a button on your game controller or keyboard. When it comes to gaming on Android devices, it typically means getting games that lack controller support to work by telling buttons to activate different parts of the touchscreen.
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Get Started With Button Mapping on Android
 
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
@@ -69,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -91,10 +97,10 @@ Close
  Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like[Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and[Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Assign Buttons to an Android Game
@@ -111,18 +117,24 @@ Close
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
@@ -147,16 +159,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-what-are-the-best-site-to-promote-youtube-videos/"><u>[New] 2024 Approved What Are the Best Site to Promote YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essential-techniques-for-procuring-facebook-vids/"><u>[Updated] 2024 Approved Essential Techniques for Procuring Facebook Vids</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-huawei-p60-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-gamers-milestone-ledger/"><u>Elite Gamers' Milestone Ledger</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-visual-clarity-explore-2-ways-to-measure-your-phones-fps/"><u>Enhance Visual Clarity: Explore 2 Ways to Measure Your Phone's FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-hottest-dual-play-mobile-adventures-top-15-list/"><u>Explore the Hottest Dual Play Mobile Adventures (Top 15 List)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-vloggers-guide-top-5-audio-excellence-headphones/"><u>In 2024, Vloggers’ Guide Top 5 Audio Excellence Headphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-redefined-introducing-these-9-features-that-revolutionize-gaming/"><u>PS5 Redefined: Introducing These 9 Features That Revolutionize Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-gpu-prices-set-to-rise/"><u>Are GPU Prices Set to Rise ?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-overcoming-issues-when-vcompdll-is-missing-or-undetected/"><u>Guide: Overcoming Issues When vcomp.dll Is Missing or Undetected</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-library-not-writable-on-pc-windows-11/"><u>Overcoming Steam Library Not Writable on PC Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-driver-conflicts-restoring-memory-shields-on-the-ftdibus-bus-system/"><u>Resolving Driver Conflicts: Restoring Memory Shields on the Ftdibus Bus System</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revealing-the-network-behind-your-viral-facebook-content-a-detailed-walkthrough/"><u>Revealing the Network Behind Your Viral Facebook Content – A Detailed Walkthrough</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-study-avoiding-edgenuity-videos-efficiently/"><u>Streamline Your Study Avoiding Edgenuity Videos Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-console-revamps-for-the-present-era/"><u>Timeless Console Revamps for the Present Era</u></a></li>
 </ul></div>
 

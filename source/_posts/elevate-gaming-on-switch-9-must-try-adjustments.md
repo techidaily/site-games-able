@@ -1,7 +1,7 @@
 ---
 title: "Elevate Gaming on Switch: 9 Must-Try Adjustments"
-date: 2024-10-15T16:56:32.160Z
-updated: 2024-10-18T16:19:25.047Z
+date: 2024-10-20T01:37:05.999Z
+updated: 2024-10-25T04:36:57.608Z
 tags:
   - games
 categories:
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
  To do so, head to the settings and make your way to**Data Management** . From there, click**Save Data Cloud** and choose your**user profile** . Scroll down to**Settings** at the bottom and turn on**Automatically Back Up Save Data** . Once you have activated this setting, you will be able to retrieve any data you lose. This feature is only available if you have a Nintendo Switch Online Membership.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Flight Mode to Extend Your Switch’s Battery Life
 
  Putting your Nintendo Switch in Flight Mode limits your ability to connect to the internet. But if the game you’re currently playing doesn’t use internet, you can save a decent amount of battery life by putting your Switch in Flight Mode even when your feet are planted firmly on the ground.
@@ -49,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 ![Flight Mode Menu on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/flight-mode-menu-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To put your phone on Flight Mode. Simply open your settings and scroll down to**Flight Mode** . It’s the second option on the menu and will only take a moment to activate, but could save you precious moments in your game.
@@ -68,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
  The Switch doesn’t have a lot of storage space. A Switch Lite, for example, only has 32GB of space available, and a portion of that is reserved for the system. 32GB may sound like a lot, but if you’re looking at downloading big games, even the Switch OLED's improved 64 GB will quickly disappear.
 
 ![Quick Archive on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quick-archive-on-nintendo-switch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
 
@@ -87,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
  Not everyone keeps up to date with the ins and outs of every Nintendo Switch update that comes out. So, if you, like many others, were still unaware of the fact that you could connect Bluetooth headphones to your Switch, this may come as a welcome surprise to you. Connecting and[using Bluetooth headphones on your Switch](https://www.makeuseof.com/use-bluetooth-headphones-nintendo-switch/) is a simple and easy process that could change the way you listen to your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Tweak Your TV Resolution Settings to Get Better Graphics
@@ -107,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This issue can cause some serious headaches in-game, but there is a way to fix it (if the case is mild enough.) That is by recalibrating your Joy-Cons or any other controller you may be having issues with. Simply head to your settings, select**Controllers and Sensors** , and press**Calibrate Control Sticks** . The Switch will guide you through the rest of the process, and you should finally experience some relief from drift for a little while, at least.
 
 ## 7\. Alter the MTU Setting to Unlock Faster Download Speeds
@@ -114,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
  MTU stands for Maximum Transfer Units. So, by increasing your MTU, you can allow more data to flow into your Switch at a faster rate, thus helping you achieve faster download speeds. It is also extremely quick and easy, making[improving the internet speeds on your Nintendo Switch](https://www.makeuseof.com/how-to-improve-internet-speed-on-nintendo-switch/) a process that will only take a few seconds at most.
 
 ![MTU Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mtu-settings-on-nintendo-switch.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To begin, make sure your Switch is connected to the internet and go to your**Internet Settings** . From there, select the Wi-Fi you’re connected to and press**Change Settings** . Then scroll down and bump the**MTU** up from**1400** to**1500** . That will ensure that the maximum amount of data is being transferred, and you should experience an improvement in your download speeds.
 
@@ -133,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 ![Auto Sleep on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/auto-sleep-on-nintendo-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To customize auto-sleep on your Nintendo Switch, head to the settings and scroll down to**Sleep Mode** . You have two choices for auto-sleep, one for when you’re using your console in handheld mode and the other for when you’re playing on the TV.
@@ -149,9 +129,23 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
 ![A promotional image of the Maintanance Mode options for Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/img06-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Nintendo](https://www.nintendo.com/my/support/switch/data%5Fmanagement/initialization/index.html)
 
  To open Maintenance Mode, hold the**volume up + volume down + power buttons** down for a couple of seconds until the system boots up in Maintenance Mode, and you can troubleshoot your Switch from there.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Level Up Your Switch With These Helpful Switch Tips
 
@@ -174,24 +168,22 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram/"><u>[New] Sharpened Focus on Squares Creating Striking iMovie Content for Instagram</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/avoiding-the-samsung-gear-360-hurdle-top-camera-alternatives-of-2023-for-2024/"><u>Avoiding the Samsung Gear 360 Hurdle - Top Camera Alternatives of 2023 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/does-chatgpt-ever-tread-the-line-of-plagiarism-a-deep-dive-into-its-data-practices/"><u>Does ChatGPT Ever Tread the Line of Plagiarism? A Deep Dive Into Its Data Practices.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhance-your-apple-tv-experience-watch-any-video-using-the-versatility-of-vlc-player/"><u>Enhance Your Apple TV Experience: Watch Any Video Using the Versatility of VLC Player</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/from-passive-page-peeps-to-paying-patrons-facebook-monetization-magic-for-2024/"><u>From Passive Page Peeps to Paying Patrons Facebook Monetization Magic for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-acquainted-with-amds-radeon-rx-7800-and-7700xt/"><u>Get Acquainted with AMD's Radeon RX 7800 & 7700XT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>In 2024, Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-usb-and-bluetooth-peripherals-on-switch-89-chars/"><u>Mastering USB & Bluetooth Peripherals on Switch (89 Chars)</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-path-implementing-2fa-on-facebook-platform/"><u>Navigating the Path: Implementing 2FA on Facebook Platform</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters/"><u>Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-steps-for-resolving-steam-access-issues/"><u>Quick Steps for Resolving Steam Access Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/ranking-the-superior-console-emulators-on-macos/"><u>Ranking the Superior Console Emulators on macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-steam-deck-launcher-mastery-tips/"><u>Supercharge Your Steam Deck: Launcher Mastery Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-method-for-making-your-xbox-360-slims-interiors-known/"><u>The Method for Making Your Xbox 360 Slim's Interiors Known</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-new-languages-in-your-roms-instantly/"><u>Unlock New Languages in Your ROMs Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/upholding-sanctity-of-chat-block-and-unblock-mechanics-on-twitch/"><u>Upholding Sanctity of Chat: Block & Unblock Mechanics on Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-reward-program-overhaul-four-imperative-changes-needed/"><u>Xbox Reward Program Overhaul: Four Imperative Changes Needed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nlocking-profits-the-essential-3-step-guide-for-gauging-youtube-earnings/"><u>[New] Unlocking Profits The Essential 3-Step Guide for Gauging YouTube Earnings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-leading-6-virtual-venues-propelling-professional-connections/"><u>[Updated] In 2024, Leading 6 Virtual Venues Propelling Professional Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/action-plan-when-to-fix-when-to-trade-in-your-switch/"><u>Action Plan: When to Fix, When to Trade-In Your Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-modern-xbox-joysticks-to-windows-systems-140-chars/"><u>Connecting Modern Xbox Joysticks to Windows Systems (140 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/contrary-to-belief-the-strength-of-30fps/"><u>Contrary to Belief: The Strength of 30FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/disabling-steam-at-system-start/"><u>Disabling Steam at System Start</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-accessibility-to-twitch-content-via-premium-extractors/"><u>Enhancing Accessibility to Twitch Content via Premium Extractors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-tips-for-smooth-screen-sharing-on-skype-while-working-from-home-for-2024/"><u>Essential Tips for Smooth Screen Sharing on Skype While Working From Home for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-compatible-drivers-for-logitech-g203-on-windows-7-10-and-11/"><u>Free Download: Compatible Drivers for Logitech G203 on Windows 7, 10 & 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-casual-gaming-to-serious-playtime-switch-to-windows/"><u>From Casual Gaming to Serious Playtime - Switch to Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-huawei-p60-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Huawei P60 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-most-recent-bluetooth-driver-updates-and-downloads-optimized-for-win-11win-10win-8win-7-users/"><u>Microsoft's Most Recent Bluetooth Driver Updates & Downloads - Optimized for Win 11/Win 10/Win 8/Win 7 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/natural-beauty-video-suggestions/"><u>Natural Beauty Video Suggestions</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-handheld-console-unpacked/"><u>Sony’s Handheld Console Unpacked</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-entertainment-with-netflixs-games/"><u>Unlock a World of Entertainment with Netflix's Games</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated 2024 Approved Unleash Your Creativity Top PowerDirector Alternatives for Android and iOS</u></a></li>
 </ul></div>
 

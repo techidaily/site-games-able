@@ -1,7 +1,7 @@
 ---
 title: "Lemokey L3 Unveiled: Gaming Board Redefined by Keychron"
-date: 2024-10-12T10:52:25.326Z
-updated: 2024-10-18T22:52:59.835Z
+date: 2024-10-22T04:01:12.757Z
+updated: 2024-10-24T19:46:35.030Z
 tags:
   - games
 categories:
@@ -128,6 +128,13 @@ No
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
@@ -140,13 +147,6 @@ No
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  With dimensions of 15.8 x 5.4 x 1.7 inches, the Lemokey L3 is a 91-key, tenkeyless design. However, the larger-than-usual footprint for a tenkeyless keyboard comes by way of the four additional customizable macro keys, above which sits the customizable media control knob. A full-size keyboard is usually around 17 inches wide, while most TKLs are around 14 inches.
@@ -156,10 +156,10 @@ No
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -169,13 +169,6 @@ No
  The Lemokey L3 is available in three color schemes: Carbon Black, Navy Blue, and Space Silver. I've been sent the Space Silver design, which looks mechanical and futuristic, but the Navy Blue and Carbon Black designs both look tidy, and the double-shot PBT keycaps are sculpted to maximize efficiency. Each color scheme comes with a unique set of additional keys; in a nod to the keyboard's gaming credentials, some of the additional keys bear the iconic PlayStation symbols.
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -189,13 +182,6 @@ No
 
  Hannah Stryker / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -207,6 +193,13 @@ No
  If you're going to use the Lemokey L3 for gaming (it's a gaming mechanical keyboard, after all), I suggest using wired or 2.4GHz wireless mode. This way, you can put the Lemokey's 1,000Hz polling rate to good use, ensuring that your inputs are registered as quickly as possible in-game.
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -228,6 +221,13 @@ No
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
  The fully assembled knob version of the Lemokey L3 retails for $214\. It's a great price for a truly top-notch keyboard and one that will last you a literal lifetime.
@@ -241,10 +241,10 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
@@ -272,24 +272,21 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-virtual-producer-duel/"><u>[New] 2024 Approved Virtual Producer Duel</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-instagram-livestreams-with-obs-technology-for-2024/"><u>[Updated] Perfecting Instagram Livestreams with OBS Technology for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/pirational-winter-bgs-to-heat-your-videos/"><u>5 Inspirational Winter Bgs to Heat Your Videos</u></a></li>
-<li><a href="https://win-guides.techidaily.com/iphone7/"><u>如何将计算机上的照片传输到iPhone—7步骤指南解码方法</u></a></li>
-<li><a href="https://games-able.techidaily.com/conveniently-activate-your-ps5-6-approaches/"><u>Conveniently Activate Your PS5: 6 Approaches</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciding-factors-to-weigh-when-looking-for-your-ideal-handheld-gaming-console/"><u>Deciding Factors to Weigh When Looking for Your Ideal Handheld Gaming Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-freedom-top-9-switch-ftp-games/"><u>Dive Into Freedom: Top 9 Switch FTP Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-deal-499-moza-r5-bundle-for-sim-fans/"><u>Exclusive Deal: $499 MOZA R5 Bundle for Sim Fans</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-to-restore-skype-microphone-functionality-on-microsofts-latest-os/"><u>Expert Tips to Restore Skype Microphone Functionality on Microsoft's Latest OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-nuances-of-consoles-at-30hz/"><u>Exploring the Nuances of Consoles at 30Hz</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-your-favorite-game-news-at-these-top-8-picks/"><u>Find Your Favorite Game News at These Top 8 Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-canceling-digital-xbox-purchase/"><u>Guide to Canceling Digital Xbox Purchase</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-awarded-top-12-camcorders-including-satellite-position-tracking/"><u>In 2024, Awarded Top 12 Camcorders Including Satellite Position Tracking</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-your-minecraft-woes-overcoming-error-5/"><u>Mastering Fixes for Your Minecraft Woes - Overcoming Error 5</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713963240441-new-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-premiere/"><u>New Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-retro-games-on-steam-deck-with-emudeck/"><u>Playing Retro Games on Steam Deck with EmuDeck</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-strategies-for-troubleshooting-powerpoint-video-playback-glitches-your-definitive-resource/"><u>Step-by-Step Strategies for Troubleshooting PowerPoint Video Playback Glitches: Your Definitive Resource</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-game-space-lighting-on-microsofts-devices/"><u>Transforming Game Space Lighting on Microsoft's Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unleash-the-full-potential-of-your-iphone-with-secret-voice-control-tricks-learn/"><u>Unleash the Full Potential of Your iPhone with Secret Voice Control Tricks - Learn</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-selecting-a-premier-fb-cover-photo-designer/"><u>[New] In 2024, The Ultimate Guide to Selecting a Premier FB Cover Photo Designer</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-customized-financing-blueprint-for-steam-gaming/"><u>Crafting a Customized Financing Blueprint for Steam Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008081717-cyberpunk-2077-steam-installation-problems-heres-how-to-overcome-them/"><u>Cyberpunk 2077 Steam Installation Problems? Here's How to Overcome Them!</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-mysteries-of-steams-gametime-metrics-a-comprehensive-guide/"><u>Deciphering the Mysteries of Steam's Gametime Metrics: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/develop-engaging-facebook-visuals-for-2024/"><u>Develop Engaging FACEbook Visuals for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-video-gaming-youtubes-latest-minigames/"><u>Dive Into the World of Video Gaming: YouTube's Latest Minigames</u></a></li>
+<li><a href="https://games-able.techidaily.com/diy-gaming-repair-and-customize-your-xbox-controls/"><u>DIY Gaming: Repair and Customize Your Xbox Controls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-insights-on-lg-communication-channels/"><u>Essential Insights on LG Communication Channels</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-y100-frp-by-drfone-android/"><u>How Can We Bypass Vivo Y100 FRP?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-regions-on-your-nintendo-switch/"><u>How to Change Regions on Your Nintendo Switch</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-se-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone SE Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-networking-your-wi-fi-problems-guide/"><u>Mastering PS5 Networking: Your Wi-Fi Problems Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/online-games-unfolding-a-look-at-the-transformation/"><u>Online Games Unfolding: A Look at the Transformation</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-loneliness-with-the-help-of-chatgpt-innovation/"><u>Overcoming Loneliness with the Help of ChatGPT Innovation</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-leading-text-tracking-solutions-for-animators-for-2024/"><u>Updated Leading Text Tracking Solutions for Animators for 2024</u></a></li>
 </ul></div>
 

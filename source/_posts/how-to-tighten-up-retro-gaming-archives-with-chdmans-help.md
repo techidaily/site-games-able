@@ -1,7 +1,7 @@
 ---
 title: How to Tighten Up Retro Gaming Archives with CHDMAN's Help
-date: 2024-09-16T22:16:14.033Z
-updated: 2024-09-20T23:26:59.766Z
+date: 2024-10-23T17:40:48.019Z
+updated: 2024-10-24T20:51:06.564Z
 tags:
   - games
 categories:
@@ -74,6 +74,13 @@ Our command was:
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
  CHDMAN and the CHD format can also be used to store compressed HDD backups. Those may share the same extension with optical backups saved as BIN and IMG, but you have to use a tweaked version of the above command to compress HDDs to CHDs:
@@ -91,6 +98,13 @@ Our command was:
  Although CHD files are now considered a standard for storing optical media and HDD backups in a compressed emulation-friendly format, not all emulators support them.
 
 ![DuckStation File Selector set to MAME CHD images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duckstation-chd-file-selection-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're looking for a CHD-compatible emulator then, luckily some of the most popular emulators support them. Here are a few examples of emulators that allow you to play CHDs:
 
@@ -118,10 +132,10 @@ Our command was:
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can You Decompress CHDs?
@@ -131,10 +145,10 @@ Our command was:
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
@@ -164,5 +178,24 @@ Our command was:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/0-best-intro-maker-apps-for-iphone-and-android/"><u>[New] 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-seamlessly-add-vimeo-videos-to-insta-feed/"><u>[Updated] How to Seamlessly Add Vimeo Videos to Insta Feed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-maximizing-video-quality-on-periscope-live-streams/"><u>[Updated] Maximizing Video Quality on Periscope Live Streams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-text-presets-for-visual-impact/"><u>2024 Approved Top 10 Text Presets for Visual Impact</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-deep-dive-into-the-apple-macbook-air-13s-m1-202e-enhanced-capabilities-and-stunning-efficiency/"><u>A Deep Dive Into The Apple MacBook Air 13'S (M1, 202E) Enhanced Capabilities and Stunning Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/compatible-combos-the-most-social-multiplayer-games/"><u>Compatible Combos: The Most Social Multiplayer Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ditch-the-realms-exporting-adventure-landscapes/"><u>Ditch the Realms: Exporting Adventure Landscapes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humorhexagonhub-photofunniesfactory-for-2024/"><u>HumorHexagonHub PhotoFunniesFactory for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-se-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone SE to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-ways-iphone-adapted-into-a-gaming-haven/"><u>Innovative Ways: IPhone Adapted Into a Gaming Haven</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ipad-showdown-should-you-opt-for-ipad-9-or-upgrade-to-ipad-10/"><u>IPad Showdown: Should You Opt for iPad 9 or Upgrade to iPad 10?</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-picks-of-11-prime-free-mobile-word-games/"><u>Perfect Picks of 11 Prime Free Mobile Word Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-thermal-dynamics-lower-heat-higher-graphics/"><u>Tailored Thermal Dynamics: Lower Heat, Higher Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-high-price-of-advanced-gpu-technology/"><u>The High Price of Advanced GPU Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/think-twice-linkedins-new-games-may-not-be-what-they-seem/"><u>Think Twice: LinkedIn’s New Games May Not Be What They Seem</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-choose-corsair-for-your-next-system-upgrade-discover-four-compelling-reasons/"><u>Why Choose Corsair for Your Next System Upgrade? Discover Four Compelling Reasons</u></a></li>
+</ul></div>
 

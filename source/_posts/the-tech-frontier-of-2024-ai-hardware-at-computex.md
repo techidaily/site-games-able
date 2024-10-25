@@ -1,7 +1,7 @@
 ---
 title: "The Tech Frontier of 2024: AI Hardware at Computex"
-date: 2024-10-17T22:41:10.732Z
-updated: 2024-10-18T23:24:14.851Z
+date: 2024-10-19T06:49:41.172Z
+updated: 2024-10-24T18:11:28.700Z
 tags:
   - games
 categories:
@@ -26,16 +26,10 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -55,10 +49,10 @@ So, these are the best bits of AI hardware launched at Computex 2024.
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -73,6 +67,13 @@ Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -84,10 +85,10 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -95,13 +96,6 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 AMD
 
@@ -124,22 +118,17 @@ AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-imagery-top-7-free-thumbnail-makers/"><u>[New] 2024 Approved Harness the Power of Imagery Top 7 Free Thumbnail Makers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-turning-viewership-into-cash-with-carminati-ajay/"><u>[New] 2024 Approved Turning Viewership Into Cash with Carminati (Ajay)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-ninja-level-strategies-for-instagram-video-magic/"><u>[Updated] 2024 Approved Ninja-Level Strategies for Instagram Video Magic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-professional-posting-hacks-for-instagram-tv/"><u>[Updated] In 2024, Professional Posting Hacks for Instagram TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-reasons-why-your-games-keep-crashing-and-how-to-fix-issues/"><u>10 Reasons Why Your Games Keep Crashing (And How to Fix Issues)</u></a></li>
-<li><a href="https://video-capture.techidaily.com/5-ways-to-fix-obs-black-screen-game-capture/"><u>5 Ways to Fix OBS Black Screen Game Capture</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-f04-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy F04 Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-unlocking-every-steam-badge/"><u>A Guide to Unlocking Every Steam Badge</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://games-able.techidaily.com/assistant-controller-the-secret-to-ps5-mastery/"><u>Assistant Controller: The Secret to PS5 Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-ps-vr2-adventure/"><u>Enhancing Your PS VR2 Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-the-perplexing-roblox-error-code-403-for-windows-users/"><u>Fixing the Perplexing Roblox Error Code 403 for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-invalidate-and-reclaim-your-fortnite-expenses/"><u>How to Invalidate and Reclaim Your Fortnite Expenses</u></a></li>
-<li><a href="https://fox-info.techidaily.com/perfecting-tiktok-videos-efficient-techniques-for-numerical-edits-for-2024/"><u>Perfecting TikTok Videos Efficient Techniques for Numerical Edits for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-console-with-3-innovative-strategies/"><u>Supercharge Your Console with 3 Innovative Strategies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/transcription-triumphs-quick-methods-for-fb-call-records-for-2024/"><u>Transcription Triumphs Quick Methods for FB Call Records for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-rewarding-gamers-with-tips-could-undermine-industry-standards/"><u>Why Rewarding Gamers with Tips Could Undermine Industry Standards</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-upload-from-twitter-to-tumblr-for-2024/"><u>[New] Direct Upload From Twitter to Tumblr for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-skyrocket-traffic-the-ultimate-list-of-video-growth-techniques/"><u>[Updated] 2024 Approved Skyrocket Traffic The Ultimate List of Video Growth Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-steam-deck-experience-integrate-windows-successfully/"><u>Elevating Your Steam Deck Experience: Integrate Windows Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-excited-for-next-gen-gaming-devices-at-ifa-2023/"><u>Get Excited for Next-Gen Gaming Devices at IFA 2023</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/merging-melodies-and-memories-online/"><u>Merging Melodies and Memories Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-joy-con-connection-issues-with-switch-system/"><u>Navigating Through Joy-Con Connection Issues with Switch System</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/quick-tips-for-transforming-pinterest-videos-into-mp3s/"><u>Quick Tips for Transforming Pinterest Videos Into MP3s</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-antiquated-systems-to-high-performers/"><u>Transforming Antiquated Systems to High-Performers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transforming-photos-remove-background-with-ease-for-2024/"><u>Transforming Photos Remove Background with Ease for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-setting-up-the-ghetto-astronaut-add-on-in-kodi/"><u>Ultimate Guide: Setting Up the Ghetto Astronaut Add-On in Kodi</u></a></li>
 </ul></div>
 

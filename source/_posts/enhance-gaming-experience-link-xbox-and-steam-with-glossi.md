@@ -1,7 +1,7 @@
 ---
 title: Enhance Gaming Experience - Link Xbox and Steam with GlosSI
-date: 2024-10-15T23:37:12.904Z
-updated: 2024-10-18T21:58:59.644Z
+date: 2024-10-21T06:48:01.944Z
+updated: 2024-10-24T19:12:08.535Z
 tags:
   - games
 categories:
@@ -59,27 +59,20 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 ![Download GlosSI installer page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-glossi-installer-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To download GlosSI, first head to[GlosSI download page](https://glossi.flatspot.pictures/#downloads) and look for the**Download Installer button** .
 
 ![GlosSI installing components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-installing-components-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the installer is downloaded, open it and set it up. When you get to the page where you have to choose the components, make sure everything is selected. Hit next and choose your installation location, then click**Install** . Once you click install, the other components that were selected will also ask to be installed, install those as well.
 
  After all the components have been installed, you must restart your PC to make it work.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Import GlosSI-Target to Steam
 
@@ -88,6 +81,19 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
  Now that your PC is restarted, two programs have been added to your PC; the GlosSI-Target and GlosSI. You will be able to see these on your Windows Start menu. You can also search them up if you can’t find them.
 
 ![Add a Non-Steam Game button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/add-a-non-steam-game-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open up Steam and on the bottom left, you’ll see a**plus** with**Add a Game** next to it. Click that and click on**Add a Non-Steam Game…** when it pops up.
 
@@ -108,19 +114,19 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 ![Enabling Steam Input for Xbox controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/enabling-steam-input-for-xbox-controllers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’re at the Controller tab, switch on**Enable Steam Input for Xbox controllers** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Open the GlosSI Configurator and Add Your UWP Games
@@ -130,15 +136,22 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 ![GlosSI-Target and GlosSI on Windows Start page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-target-and-glossi-on-windows-start-page-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Head to the Windows Start menu and search for**GlosSI** , not GlosSI-Target. Open GlosSI.
 
 ![GlosSI config adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-adding-uwp-app-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once it’s open, click on the**\+ button** on the lower right side of the window. A pop-up will show asking what type of shortcut you want to add to GlosSI, click on**UWP app.**
 
@@ -148,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 ![GlosSI config saving UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-config-saving-uwp-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once selected, click the blue**Save** button on the bottom right.
 
 ![GlosSI adding UWP app to Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/glossi-adding-uwp-app-to-steam-1.jpg)
@@ -163,23 +169,9 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 ![GlosSI config restart Steam after adding UWP app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/glossi-config-restart-steam-after-adding-uwp-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After clicking on the Steam icon, you’ll be told to restart Steam to finalize your settings. You can choose to ignore this to add more games and restart Steam later once you’ve added everything.
 
  Finally, restart Steam and open up the games you’ve added just to make sure that they work; especially with a controller.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connect Your Steam Link Device to Your PC and Test Out Your Games
 
@@ -211,11 +203,25 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Jhet Borja
 
  As an example, we’ve chosen Minecraft for Windows 10 (Bedrock Edition), a UWP game you can’t find on Steam but can play on Xbox Game Pass; yet we’re playing it on Steam Link. Even though Bedrock is inferior to Java Edition, the latter isn’t a UWP app.
 
  If it shows just a blank screen after starting up a UWP game, hit**Alt+Tab** on your keyboard to switch to the game, and it should be good to go.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Steam Link for Almost Any UWP Microsoft Game
 
@@ -238,18 +244,20 @@ thumbnail: https://thmb.techidaily.com/6ef16648595e97873cff52eb597372e60de93b060
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-obs-studio-for-professional-gamers/"><u>[New] In 2024, OBS Studio for Professional Gamers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos-for-2024/"><u>[Updated] Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/4-examples-that-show-you-cannot-trust-zerogpt-and-other-ai-detection-tools/"><u>4 Examples That Show You Cannot Trust ZeroGPT and Other AI Detection Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-xbox-console-cases/"><u>Decoding Xbox Console Cases</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-gaming-on-windows-via-dxvk-software/"><u>Elevating Your Gaming on Windows via DXVK Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-clone-your-steam-decks-ssd-for-an-easier-upgrade/"><u>How to Clone Your Steam Deck's SSD for an Easier Upgrade</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-redmi-note-12-pro-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi Redmi Note 12 Pro 4G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>In 2024, Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-sound-sleuths-exceptional-music-detection-software-to-uncover-your-favorite-tunes-on-android/"><u>In 2024, Sound Sleuths Exceptional Music Detection Software to Uncover Your Favorite Tunes on Android</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-visual-storytelling-on-social-media-crafting-an-effective-plan/"><u>In 2024, Visual Storytelling on Social Media Crafting an Effective Plan</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-play-on-a-mac-the-exceptional-caveat/"><u>Mastering the Art of Play on a Mac – The Exceptional Caveat</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-switch-with-these-key-settings/"><u>Supercharge Your Switch with These Key Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-twitchs-secrets-building-a-thriving-live-platform/"><u>Unveiling Twitch's Secrets: Building a Thriving Live Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-every-moment-exploring-free-high-quality-cameras-for-2024/"><u>[New] Capture Every Moment – Exploring Free, High-Quality Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-invigorating-cold-season-selecting-warm-video-themes/"><u>[New] Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-photographers-choice-top-10-watermarks-software/"><u>2024 Approved Photographer's Choice Top 10 Watermarks Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-buy-an-hdr-monitor-for-pc-gaming/"><u>6 Reasons Why You Shouldn't Buy an HDR Monitor for PC Gaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-caixun-75/"><u>Affordable Caixun 75</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-brag-and-beat-the-odds-essential-achievement-websites/"><u>Boost, Brag & Beat The Odds: Essential Achievement Websites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-a-smooth-gaming-experience-with-snowrunner-fixes-for-common-desktop-issues/"><u>Ensuring a Smooth Gaming Experience with SnowRunner - Fixes for Common Desktop Issues</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/mastering-the-art-of-web-pages-boost-your-online-presence/"><u>Mastering the Art of Web Pages: Boost Your Online Presence</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
+<li><a href="https://games-able.techidaily.com/questful-commuting-smart-tips-for-in-transit-gaming/"><u>Questful Commuting: Smart Tips for In-Transit Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-blackwidow-v4-75-review-razers-first-ever-hot-swappable-mechanical-gaming-keyboard/"><u>Razer BlackWidow V4 75% Review: Razer's First Ever Hot-Swappable Mechanical Gaming Keyboard</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/scripted-escapades-your-path-to-interactive-storytelling/"><u>Scripted Escapades: Your Path to Interactive Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-heat-management-kit-for-your-steam-deck/"><u>The Ultimate Heat Management Kit for Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tech-debate-is-oled-superior-to-amoled-or-ips/"><u>Top Tech Debate: Is OLED Superior to AMOLED or IPS?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-resolve-your-computers-stuck-at-loading-windows/"><u>Troubleshoot and Resolve Your Computer's 'Stuck at Loading Windows'</u></a></li>
 </ul></div>
 

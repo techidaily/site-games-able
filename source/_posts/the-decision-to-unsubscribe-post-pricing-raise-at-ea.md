@@ -1,7 +1,7 @@
 ---
 title: The Decision to Unsubscribe Post-Pricing Raise at EA
-date: 2024-10-16T06:10:48.555Z
-updated: 2024-10-18T18:54:43.632Z
+date: 2024-10-20T01:00:12.952Z
+updated: 2024-10-24T20:24:49.634Z
 tags:
   - games
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 * [Other Gaming Subscriptions Offer Better Value for Money](#other-gaming-subscriptions-offer-better-value-for-money)
 * [I Can Get EA Play With Xbox Game Pass](#i-can-get-ea-play-with-xbox-game-pass)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * EA Play prices globally are increasing, making the service less cost-effective.
@@ -45,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 ## EA Play Prices Are Increasing Globally
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
@@ -88,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
@@ -106,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
  As I said earlier, EA Play is still the most affordable gaming subscription in 2024\. However, it doesn't mean it offers excellent value for your money. That's because while other gaming subscriptions are more expensive, they also have a more extensive library.
@@ -117,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -148,22 +142,14 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-screen-capture-shortcut-driven-mac-techniques/"><u>[New] 2024 Approved Unlocking Screen Capture Shortcut-Driven Mac Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-mac-cam-alternatives-to-elevate-your-digital-screens/"><u>[New] In 2024, Top 5 Mac Cam Alternatives to Elevate Your Digital Screens</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-iphones-role-in-the-revolution-of-animated-image-sharing-for-2024/"><u>[New] IPhone's Role in the Revolution of Animated Image Sharing for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-instagram-image-enhancement-tips/"><u>[Updated] In 2024, Instagram Image Enhancement Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-gpu-use-for-immediate-replay-access/"><u>Cutting-Edge GPU Use for Immediate Replay Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-unique-features-of-steam-and-gog/"><u>Exploring the Unique Features of Steam & GOG</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-channels-a-guide-to-youtube-metrics/"><u>In 2024, Elevate Your Channels A Guide to YouTube Metrics</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huaweiwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huaweiwith/without a PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-lenssplit-viewer-insight/"><u>In 2024, LensSplit Viewer Insight</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-8k-capture-the-ultimate-camera-guide/"><u>In 2024, Premier 8K Capture The Ultimate Camera Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-deck-sd-card-insertion/"><u>Mastering Steam Deck SD Card Insertion</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-console-duel-sonys-ps5-against-microsofts-xbox-sx/"><u>Next Gen Console Duel: Sony’s PS5 Against Microsoft’s Xbox SX</u></a></li>
-<li><a href="https://games-able.techidaily.com/shattered-digital-landscapes-should-we-care/"><u>Shattered Digital Landscapes – Should We Care?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/soundwave-startups-curating-melodies-for-your-podcast-opener/"><u>Soundwave Startups Curating Melodies for Your Podcast Opener</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-game-changing-strategy-for-enhanced-ai-titles/"><u>Steam’s Game-Changing Strategy for Enhanced AI Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-top-5-twitch-download-apps/"><u>The Ultimate List of Top 5 Twitch Download Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/who-holds-sway-in-emulator-battle-on-raspberry-pi-batocera-or-retropie/"><u>Who Holds Sway in Emulator Battle on Raspberry Pi: Batocera or RetroPie?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-explore-elite-gaming-opening-tutorials-free-and-premium-alternatives/"><u>[New] In 2024, Explore Elite Gaming Opening Tutorials Free & Premium Alternatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginner-to-pro-selecting-the-best-cinema-cameras/"><u>Beginner to Pro Selecting the Best Cinema Cameras</u></a></li>
+<li><a href="https://games-able.techidaily.com/different-routes-for-steam-reload/"><u>Different Routes for Steam Reload</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-performance-and-features-of-the-netgear-c3ergy-cable-modemrouter-an-outdated-model/"><u>Evaluating the Performance and Features of the Netgear C3ergy Cable Modem/Router: An Outdated Model?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168336940-exclusive-pre-installed-ios-games-play-without-wi-fi/"><u>Exclusive Pre-Installed iOS Games - Play without Wi-Fi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-layered-comfort-selecting-snug-winter-themes-for-filming/"><u>In 2024, Layered Comfort Selecting Snug Winter Themes for Filming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-game-changing-keyboards/"><u>The Ultimate Guide to Game-Changing Keyboards</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-recommended-settings-when-sharing-videos-on-twitter-what-you-need-to-know-for-successful-engagement/"><u>Top Recommended Settings When Sharing Videos on Twitter: What You Need To Know For Successful Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-recovery-addressing-common-series-sandx-problems/"><u>Xbox Recovery: Addressing Common Series S&X Problems</u></a></li>
 </ul></div>
 

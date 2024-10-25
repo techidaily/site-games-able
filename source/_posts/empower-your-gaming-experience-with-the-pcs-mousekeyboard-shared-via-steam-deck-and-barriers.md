@@ -1,7 +1,7 @@
 ---
 title: Empower Your Gaming Experience with the PC's Mouse/Keyboard Shared via Steam Deck and Barriers
-date: 2024-10-17T19:00:50.886Z
-updated: 2024-10-19T11:37:32.661Z
+date: 2024-10-20T18:28:12.840Z
+updated: 2024-10-24T18:01:20.003Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
 ![Barrier GitHub Releases Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-github-releases-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Download and install Barrier on your PC, and when done,**run** the app. Set its mode to**Server** , select that you want to**Configure** (it)**interactively** , and click on**Configure Server** .
 
 ![Barrier Configure Server Interactively](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-configure-server-interactively.jpg)
@@ -39,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
 ![Barrier Adding Steam Deck Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-adding-steam-deck-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Setting up Barrier to match your devices' physical layout is best. If you keep your Steam Deck on the left of your PC's monitor, place its Barrier "screen" on the left of your host PC.
 
 ![Barrier Steam Deck Screen Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-steam-deck-screen-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you double-click on a spot on the grid, you'll have to enter a name for your Steam Deck in the field next to**Screen name** .You can leave the rest of the options as they are. When returning to Barrier's initial window, note the first of the**IP addresses** , for you'll have to input it on your Steam Deck in the next section.
 
@@ -58,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
 ![Steam Deck Discover Software Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-discover-software-center.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the search field (on the top left) to seek "barrier" and install it. When done, close the Discovery app, and search for "barrier" on the main menu (with the**Steam Deck logo** , on the left, where you'd expect to find Start on Windows). Alternatively, you'll find it in the**Utilities** section.
 
 ![Steam Deck Menu Running Barrier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-menu-running-barrier.jpg)
@@ -66,40 +80,33 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
 ![Steam Deck Barrier Client Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-barrier-client-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on the**Start** button on the bottom right of the Barrier client on your Steam Deck, and do the same for the Barrier server on your host PC.
 
 ![Barrier Server Running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-server-running.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try moving your mouse cursor to the side where you've placed your Steam Deck's virtual monitor in Barrier. It should exit your screen and appear on the right side of your Steam Deck's desktop.
 
 ![Barrier Controlling Steam Deck Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-controlling-steam-deck-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can return to your PC's desktop the same way by "jumping over" the same barrier between the two device's screens.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Help Your Steam Deck and PC Connect With Each Other
 
  If Barrier on one of your devices can't see the other, don't fret: the following are the usual causes for such issues, and they're easy to solve.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check Your App Settings
 
@@ -109,22 +116,15 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
  On the Windows side, ensure your firewall grants access to Barrier. Check our guide on[how to allow apps through Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for more information on that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check Your Router
 
  In rare cases, you might need to manually configure your router to "open" Barrier's port. Check our guide on[what are default open ports and should you change them](https://www.makeuseof.com/tag/technology-explained-open-router-ports-their-security-implications/) , where we also cover how to open ports on a router.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## One For All
@@ -146,22 +146,22 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-podcastpathfinder-charting-new-courses-for-2024/"><u>[New] PodcastPathfinder Charting New Courses for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-decode-and-resolve-youtube-short-errors/"><u>[Updated] Decode and Resolve YouTube Short Errors</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-webcam-and-screen-capture-unison-techniques/"><u>[Updated] Mastering Webcam & Screen Capture Unison Techniques</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-spherical-videos-on-the-go-iphones-social-media-blueprint/"><u>[Updated] Spherical Videos on the Go IPhone's Social Media Blueprint</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-step-into-the-shoes-of-a-pro-screen-capture-techniques-for-mac-enthusiasts/"><u>[Updated] Step Into the Shoes of a Pro Screen Capture Techniques for Mac Enthusiasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-videoleap-zoom-hacks-for-detailed-video-insight/"><u>2024 Approved Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
-<li><a href="https://games-able.techidaily.com/dual-monitor-configuration-for-enhanced-xbox-experience/"><u>Dual Monitor Configuration for Enhanced Xbox Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/earn-save-and-spend-a-guide-to-steam-credits/"><u>Earn, Save & Spend: A Guide to Steam Credits</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-strategies-for-purging-ps5-saved-games/"><u>Effective Strategies for Purging PS5 Saved Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/founders-vs-aib-graphics-processing-power-comparison/"><u>Founders Vs. AIB Graphics Processing Power Comparison</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-step-by-step-guide-to-obs-streaming-success/"><u>In 2024, The Step-by-Step Guide to OBS Streaming Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-characteristics-of-premium-gaming-mice/"><u>Key Characteristics of Premium Gaming Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinnacle-peripherals-nintendo-switch-commanders-2024/"><u>Pinnacle Peripherals: Nintendo Switch Commanders, 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps4-pad-predicaments-proven-fixes-to-get-you-back-in-play/"><u>Ps4 Pad Predicaments? Proven Fixes to Get You Back in Play</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-obs-skype-screen-recording/"><u>Step-by-Step OBS Skype Screen Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-hidden-pitfalls-of-linkedins-game-feature/"><u>Understanding the Hidden Pitfalls of LinkedIn's Game Feature</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-double-down-on-your-youtube-success-in-a-month/"><u>[New] 2024 Approved How to Double Down on Your YouTube Success in a Month</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029921217-20246/"><u>2024年最高のオンラインビデオ編集プラットフォームベスト6</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2022-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2022) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-c12-plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia C12 Plus to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-iphone-photo-albums-seamless-integration-with-icloud/"><u>In 2024, Perfecting iPhone Photo Albums Seamless Integration with iCloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-faster-resume-functionality-an-edge-for-xbox-series-sx-gaming/"><u>Is Faster Résumé Functionality an Edge for Xbox Series S/X Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5s-covert-online-portal/"><u>Navigating Ps5's Covert Online Portal</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-and-xbox-controllers-reconnect-troubleshooting/"><u>PC and Xbox Controllers: Reconnect Troubleshooting</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-windows-graphics-hang-error-0x887a0006-fix/"><u>Preventing Window's Graphics Hang - Error 0X887A0006 Fix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-computing-power-new-driver-update/"><u>Revamp Computing Power - New Driver Update</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-reinvents-its-data-recovery-software-for-consumers-ease-of-use-news-of-stellar/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease of Use - News of Stellar</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/stepwise-guide-to-leveraging-pip-feature-on-microsoft-edge/"><u>Stepwise Guide to Leveraging PIP Feature on Microsoft Edge</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-expand-your-digital-gaming-library-on-steam/"><u>Strategies to Expand Your Digital Gaming Library on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ps5-accessories/"><u>The Best PS5 Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-flexible-art-of-ps5-initialization-6-variations/"><u>The Flexible Art of PS5 Initialization (6 Variations)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-hdr-sky-experience-online-resource-listing-for-2024/"><u>The HDR Sky Experience Online Resource Listing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-steams-content-exchange-error/"><u>Unblocking Steam’s Content Exchange Error</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Game Files with Steam's Space Control
-date: 2024-09-18T16:20:17.637Z
-updated: 2024-09-20T23:38:20.750Z
+date: 2024-10-20T06:16:40.639Z
+updated: 2024-10-24T18:51:20.035Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
@@ -55,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
  While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a New Steam Library Folder or Drive
 
  Adding a new Steam Library folder is quite easy. You can add a new Steam Library folder within the same drive, or on a new drive. Simply click on the drive name at the top of the Storage section and click**Add Drive** .
@@ -72,31 +72,44 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set a Default Steam Library Folder or Drive
 
  Setting a default folder is great for convenience as you won’t have to choose where your game goes every time you download one. Chances are, you’ve already set a default folder for your Steam games, but if you need to set it to another one because it’s full here’s how you can do so:
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
@@ -110,14 +123,14 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![Move Steam games to selected drive or folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/move-steam-games-to-selected-drive-or-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the**Move Content** pop-up shows, you can choose where to move your Steam game. Note that the only drives that will show up are the ones that have an existing Steam Library folder inside. If not, go back to adding a new Steam Library folder or drive so that where you want to place it shows.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manage Your Steam Games the Right Way
 
@@ -138,5 +151,22 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch/"><u>2024 Approved The Essential Guide to Streaming Quality via OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://win-unique.techidaily.com/complete-pc-backup-guide-in-windows-versions-11-10-8-and/"><u>Complete PC Backup Guide in Windows (Versions 11, 10, 8 & ^)</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-the-charlatans-behind-fake-game-ads/"><u>Exposing the Charlatans Behind Fake Game Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-perspectives-5-points-the-case-for-retro-handheld-games/"><u>Fresh Perspectives 5 Points: The Case for Retro Handheld Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-system-failure-to-launch/"><u>Graphics System Failure to Launch</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977753050-history-and-evolution-of-hahron-spice-co-ltd/"><u>History and Evolution of HAHRON SPICE CO., LTD</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-zoom-skills-for-exceptional-audio-capture-in-podcasting/"><u>In 2024, Essential Zoom Skills for Exceptional Audio Capture in Podcasting</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-11x-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme 11X 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incorporate-chatgpt-into-your-app-essential-api-instructions/"><u>Incorporate ChatGPT Into Your App: Essential API Instructions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-15-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 15 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-auto-start-no-more-steam-prompt/"><u>Stop Auto-Start: No More Steam Prompt</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-critical-8-aspects-to-evaluate-when-buying-a-cooler/"><u>The Critical 8 Aspects to Evaluate When Buying a Cooler</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-rig-razer-basilisk-v3-reviewed-inside/"><u>The Ultimate Game Rig - Razer Basilisk V3 Reviewed Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-the-gaming-experience-with-4-key-rewards-program-changes/"><u>Transforming the Gaming Experience with 4 Key Rewards Program Changes</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-controls-using-ps5-on-legacy-ps4-devices/"><u>Transitioning Controls: Using PS5 on Legacy PS4 Devices?</u></a></li>
+</ul></div>
 

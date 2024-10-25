@@ -1,7 +1,7 @@
 ---
 title: Is AMD's New FSR 3 Future-Proof, Or Just NVIDIA's Step Backwards?
-date: 2024-09-16T01:12:06.186Z
-updated: 2024-09-20T20:44:14.105Z
+date: 2024-10-21T21:23:12.101Z
+updated: 2024-10-24T18:02:40.964Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
  However, that doesn't mean AMD has given up on FSR. Far from it, in fact. At Gamescom 2023, alongside the launch of its new GPUs, AMD also announced FSR 3, which promises great improvements over its predecessor in performance and image fidelity. It's a major upgrade, but can it compete with NVIDIA DLSS 3.5?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is AMD's FSR 3?
 
  You might already know what FSR, or[FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to[NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the[Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
@@ -37,11 +44,25 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ![AMD FSR 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/fsr-3-1.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credits: AMD
 
  AMD is employing a series of new party tricks to further improve its experience, including one called "Fluid Motion Frames." Essentially, it's a competitor to DLSS's Frame Generation, which generates and fits new frames between actual rendered frames, dramatically improving your frame rates. Fluid Motion Frames will be supported on games that support FSR 3 and in all DirectX 11 and 12 games, as long as you have a Radeon 7000-Series GPU.
 
  FSR 3 will be available on all Radeon RDNA cards (5000-Series, 6000-Series, and 7000-Series), Intel Arc GPUs, and NVIDIA RTX GPUs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Does FSR 3 Compare to DLSS 3.5?
 
@@ -52,22 +73,15 @@ Image Credits: AMD
  As for how well it works compared to its direct competitor, we'll have to see FSR 3 in use in-game to compare properly. We'd expect things to remain pretty similar to how they are, with FSR producing similar framerate gains but with less detail than DLSS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Use FSR 3?
 
  If you have an AMD GPU or another GPU that doesn't support DLSS, using FSR is a no-brainer. It can greatly help your framerates, especially if you have a higher-resolution monitor. FSR 3 is a great improvement to an already great technology, and you should give it a spin as soon as it's available. AMD says that new titles Forspoken and Immortals of Aveum will get support in September, with other games following suit.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FSR 3 is a Big Improvement
 
@@ -86,5 +100,21 @@ Image Credits: AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/download-free-mov-format-support-software-for-windows-11/"><u>Download Free MOV Format Support Software for Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-consistent-mouse-wheel-response/"><u>Ensuring Consistent Mouse Wheel Response</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-zero-to-hero-mastering-steam-tokens/"><u>From Zero to Hero: Mastering Steam Tokens</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-vivo-y27-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Vivo Y27 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-default-settings-on-your-ps4-console/"><u>How to Restore Default Settings on Your PS4 Console</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-flip-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Phantom V Flip Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update your drivers on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>In 2024, Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/pursuit-of-the-glinted-gems-in-scarlet-and-violet-93/"><u>Pursuit of the Glinted Gems in Scarlet & Violet (93)</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-steams-invalid-file-confirmation-error/"><u>Tackling Steam's Invalid File Confirmation Error</u></a></li>
+<li><a href="https://win-premium.techidaily.com/tecnica-eficiente-de-sincronizacion-bidireccional-usando-robocopy-en-microsoft-windows/"><u>Técnica Eficiente De Sincronización Bidireccional Usando Robocopy en Microsoft Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/together-towards-progress-facebook-and-rust-in-code-development/"><u>Together Towards Progress: Facebook & Rust in Code Development</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tomorrows-insight-rethinking-choices/"><u>Tomorrow's Insight Rethinking Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-full-mobile-gaming-experience-with-paid-play/"><u>Unlocking the Full Mobile Gaming Experience with Paid Play</u></a></li>
+</ul></div>
 

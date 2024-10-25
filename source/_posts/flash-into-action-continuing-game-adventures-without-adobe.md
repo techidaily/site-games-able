@@ -1,7 +1,7 @@
 ---
 title: "Flash Into Action: Continuing Game Adventures without Adobe"
-date: 2024-09-16T02:37:49.719Z
-updated: 2024-09-21T01:31:41.453Z
+date: 2024-10-24T01:20:58.071Z
+updated: 2024-10-25T01:32:47.316Z
 tags:
   - games
 categories:
@@ -33,9 +33,23 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 
  As a lightweight animation tool, it helped turn the static text-based interface of the internet into the interactive portal it has become today. It wouldn’t take long to get noticed by the gaming community, who would start using it to build video games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Gaming Legacy That Spans Over Two Decades
 
 ![dark arcade room with adobe flash logo in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flash-arcade-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Logo Credit: Adobe/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Adobe%5FFlash%5FPlayer%5F32.svg)
 
@@ -55,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
 
 ![A screenshot of BlueMaxima's Flashpoint home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/bluemaximas-flashpoint-home-page-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Efforts to save Flash games began with the individual contributions of Ben Latimore[(Medium)](https://medium.com/@bluemaximax011) . After Latimore published a[Medium article](https://medium.com/@bluemaximax011/adobe-flashs-gaming-legacy-thousands-upon-thousands-of-titles-and-my-efforts-to-save-it-58c14811558a) that gathered very positive attention over his efforts, Flashpoint turned into the international web game preservation project that it is now.
 
  Latimore’s efforts started in January 2018, in an attempt to outrun the loss of content before the death of Flash. Since then, Flashpoint has evolved into a preservation project for web games and animations created for different internet plugins, frameworks, and standards.
@@ -64,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
  BlueMaxima’s Flashpoint uses a custom-built launcher, Apache, and its very own app, Flashpoint Secure Player. With these, you can play web-based media in a quick, user-friendly environment without leaving permanent changes or security holes on your computer.
 
  Flashpoint offers two versions of its software:**Ultimate** , a 478GB full-size version that contains every piece of media saved by the project in an offline-ready format, and**Infinity** , a smaller 500MB version that allows you to download and play Flash games without Flash at will.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2. The Flash Game Archive
 
@@ -85,22 +99,15 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
  Games and other media are stored in a data center, with over 4000 games currently in the archive. With each update, more games are added to the Flash Game Archive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3. The Internet Archive
 
 ![internet archive software library webpage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/internet-archive-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Internet Archive, the non-profit digital library of internet sites and other cultural artifacts famous for[the Wayback Machine](https://archive.org/web/) , is now emulating Flash games and content. Following its tenet, "access drives preservation," the Internet Archive launched the Emularity project, which makes a wide range of old software run.
 
@@ -137,5 +144,26 @@ thumbnail: https://thmb.techidaily.com/85e59c055b67b955137888fcf7f73876f5aa86545
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-perfect-picture-presentation-tools-for-2024/"><u>[New] Perfect Picture Presentation Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-dxgi-error-after-device-removal/"><u>Addressing DXGI Error After Device Removal</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-a54-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-of-dall-e-3s-webp-images-to-desired-jpeg-or-png-files/"><u>Effortless Conversion of DALL-E 3'S WebP Images to Desired JPEG or PNG Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ess-online-invitation-crafting-youtube-subscription-buttons/"><u>Flawless Online Invitation Crafting YouTube Subscription Buttons</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/investing-wisely-in-playstation-entertainment/"><u>Investing Wisely in PlayStation Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/jammed-discs-the-quick-guide-to-safely-remove-from-series-x/"><u>Jammed Discs? The Quick Guide to Safely Remove From Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-control-prowess-in-switch-emulation-using-ryujinx/"><u>Perfect Control Prowess in Switch Emulation Using Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-membership-premier-twitch-access/"><u>Prime Membership, Premier Twitch Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-buying-made-easier-with-these-6-tips/"><u>PS5 Buying Made Easier with These 6 Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securely-deleting-information-on-a-dell-computer-a-comprehensive-guide/"><u>Securely Deleting Information on a Dell Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-ambiance-customize-game-sounds-and-noise-levels/"><u>Tailoring Ambiance: Customize Game Sounds & Noise Levels</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-xboxs-strike-process/"><u>The Science Behind Xbox's Strike Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-non-validated-transaction-on-ps5/"><u>Troubleshooting Non-Validated Transaction on PS5</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-tips-resolving-playback-issues-with-dji-videos/"><u>Troubleshooting Tips: Resolving Playback Issues with DJI Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-create-failed-windows-error-code-analysis/"><u>Understanding Create Failed - Windows Error Code Analysis</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728509881388-windows-11usb6/"><u>Windows 11でのUSBメモリ非認証を改善しよう!最新手法ベスト6ピックアップ</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Compress Your Retrogame ISOs With CHDMAN (and Keep Using Them)
-date: 2024-10-13T11:38:11.580Z
-updated: 2024-10-18T23:54:03.029Z
+date: 2024-10-22T22:27:17.416Z
+updated: 2024-10-24T23:47:00.606Z
 tags:
   - games
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 * CDR.
 * IMG.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Compress Your ISOs With CHDMAN
 
  CHDMAN is distributed with the MAME emulator. If you already use that, you'll find CHDMAN's executable in MAME's installation directory. If not, download[the latest version of MAME from its official site](https://www.mamedev.org/) and install it on your PC to also get CHDMAN.
@@ -53,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 
 ![A screenshot of a BIN and CUE ROM image from the File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bin-and-cue-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Windows CMD or PowerShell. Then, move to the folder with your game's files with the Change Directory (CD) command:
 
 `cd PATH_TO_FOLDER`
@@ -62,6 +76,13 @@ Our command was:
 `cd "H:\Emulation\ROMs\PS1\Compress-to-CHD"`
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To compress your game with CHDMAN to CHD format, use the following:
 
@@ -74,13 +95,6 @@ Our command was:
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
  CHDMAN and the CHD format can also be used to store compressed HDD backups. Those may share the same extension with optical backups saved as BIN and IMG, but you have to use a tweaked version of the above command to compress HDDs to CHDs:
@@ -89,16 +103,16 @@ Our command was:
 
  CHDMAN can also back up to the CHD format actual HDDs connected to the PC. That, though, should be rarely needed by the average user.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Else Should You Know About CHDs?
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Which Emulators Support CHDs?
 
@@ -124,13 +138,6 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -151,13 +158,6 @@ Our command was:
  You don't have to specify the BIN file; CHDMAN creates it automatically using the same name used for the CUE file. To extract compressed HDD backups, swap "extractcd" with "extracthd" as follows:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Storage, More Gaming
 
@@ -180,19 +180,20 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-peak-performances-in-oly-x-cross-2022/"><u>[Updated] Peak Performances in Oly X-Cross 2022</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/24-revolutionary-metaverse-concepts-explored-diligently/"><u>24 Revolutionary Metaverse Concepts Explored Diligently</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gameplay-using-an-external-hard-drive-via-steam/"><u>Elevate Gameplay: Using an External Hard Drive via Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-reviews-steam-deck-models/"><u>Expert Reviews: Steam Deck Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-rom-repository-with-terminal-tools/"><u>Exploring the ROM Repository with Terminal Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/guilty-gear-strive-still-not-out-heres-why-and-when-we-can-expect-it/"><u>Guilty Gear Strive Still Not Out - Here's Why and When We Can Expect It</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-hd-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 HD without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-streaming-prime-and-twitch-collaboration/"><u>Mastering Streaming: Prime & Twitch Collaboration</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-computex-pioneering-ai-technologies-revealed/"><u>New Computex: Pioneering AI Technologies Revealed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-the-amd-rx-560-graphics-drivers-problem-in-windows-11-10-8-and-7/"><u>Resolving the AMD RX 560 Graphics Drivers Problem in Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-gaming-fund-allocation-and-game-acquisition/"><u>Strategic Gaming: Fund Allocation & Game Acquisition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-pc-gear-choices-to-enhance-your-stable-diffusion-experience/"><u>Top PC Gear Choices to Enhance Your Stable Diffusion Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-path-to-perfect-visuals-an-advanced-course-in-vce-22/"><u>[New] 2024 Approved The Path to Perfect Visuals An Advanced Course in VCE 2.2</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-which-is-superior-gopro-v5-edge-or-keymission-in-2024/"><u>[New] Which Is Superior, GoPro V5 Edge or Keymission, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-comprehensive-analysis-mycams-video-capture-technology/"><u>[Updated] 2024 Approved A Comprehensive Analysis MyCam's Video Capture Technology</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-how-to-shoot-a-green-screen-video/"><u>[Updated] In 2024, How to Shoot a Green Screen Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-free-online-converter-effortless-switch-from-m4r-to-wav-files-movavi/"><u>1. Free Online Converter: Effortless Switch From M4R to WAV Files - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gaming-with-an-immersive-multiplayer-adventure-using-ea-play-ps5/"><u>Boost Your Gaming with an Immersive Multiplayer Adventure Using EA Play PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-big-apple-barriers-a-guide-to-personal-success/"><u>Bypassing Big Apple Barriers: A Guide to Personal Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-great-sound-beyerdynamic-mmx-200-review/"><u>Discovering Great Sound: Beyerdynamic MMX 200 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminates-main-issue-in-portable-consoles/"><u>Eliminates Main Issue in Portable Consoles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/iphone-filmmakers-choice-top-8-free-and-paid-app-list/"><u>IPhone Filmmakers' Choice Top 8 Free & Paid App List</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-fun-why-netflixs-gameplay-seduces-us/"><u>Join the Fun: Why Netflix's Gameplay Seduces Us</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-a-facebook-purchase-reimbursement-process/"><u>Securing a Facebook Purchase Reimbursement Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-captures-storage-locations-explained/"><u>Steam Captures: Storage Locations Explained</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unpacking-the-strengths-of-nokias-72-a-comprehensive-look-at-a-mid-range-market-disruptor/"><u>Unpacking the Strengths of Nokia's 7.2: A Comprehensive Look at a Mid-Range Market Disruptor</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-zero-cost-video-editors-for-split-screen-effects-online-and-offline/"><u>Updated 2024 Approved Best Zero-Cost Video Editors for Split-Screen Effects Online & Offline</u></a></li>
 </ul></div>
 

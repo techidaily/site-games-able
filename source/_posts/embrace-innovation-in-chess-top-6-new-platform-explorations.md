@@ -1,7 +1,7 @@
 ---
 title: "Embrace Innovation in Chess: Top 6 New Platform Explorations"
-date: 2024-09-19T23:06:11.563Z
-updated: 2024-09-20T21:04:03.542Z
+date: 2024-10-17T19:20:24.221Z
+updated: 2024-10-24T19:59:14.498Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
  Apart from waiting for your turn, the rest of the rules of chess are intact. The pieces move and behave like standard, and the objective is to capture the king. When you move a piece to any square, the square turns yellow and starts cooling down, blocking you from moving the piece for 10 seconds. You can obviously move any other piece in that cooldown period. You can also see the cooldown effect on the opponent's pieces. The idea is to plan your movements in such a way that you can make the perfect moves.
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 ## 3. Chesswith.Ai
 
 ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Among the many[cool things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) is to use it to chat with a fictional character. Chesswith.Ai has created profiles of several popular fictional characters and even real historical people such as Harry Potter, Dwight Schrute, John F. Kennedy, Marie Curie, etc. And you can now play a game of chess with them while they chat with you.
 
@@ -63,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -81,21 +88,22 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
 
@@ -122,5 +130,26 @@ thumbnail: https://thmb.techidaily.com/3546fd9956a8b6a73b831712e52723669b090c846
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-capture-and-review-with-az/"><u>[Updated] Comprehensive Capture & Review with AZ</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-lifes-moments-flawlessly-phones-with-superior-image-stabilizing-tech/"><u>2024 Approved Capture Life's Moments Flawlessly Phones with Superior Image Stabilizing Tech</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>2024 Approved The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
+<li><a href="https://techtrends.techidaily.com/eenvoudig-schikken-van-wav-naar-mp3-onlinerecursieven-en-kostenloos/"><u>Eenvoudig Schikken Van WAV Naar MP3: Onlinerecursieven en Kostenloos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/efficient-mac-space-recovery-stellar-file-eraser-5-with-automated-cleaning-options/"><u>Efficient Mac Space Recovery: Stellar File Eraser 5 with Automated Cleaning Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-online-combat-discovering-the-best-fps-games-on-a-browser/"><u>Elite Online Combat: Discovering the Best FPS Games on a Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-every-part-perfectly-pairs-up-for-a-new-pc/"><u>Ensuring Every Part Perfectly Pairs Up for a New PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essence-of-tale-spinning-techniques/"><u>Essence of Tale-Spinning Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-to-smooth-youtube-video-documentation-for-2024/"><u>Guide to Smooth YouTube Video Documentation for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-red-magic-8s-proplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Red Magic 8S Pro+ Phone Now with These Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-gaming-fixes-the-top-20-mobile-games-to-relax-and-entertain/"><u>Instant Gaming Fixes: The Top 20 Mobile Games to Relax and Entertain</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-joystick-juice-prolonging-battery-life/"><u>Maximizing Xbox Joystick Juice: Prolonging Battery Life</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-zoom-in-on-powerpoint-easy-ways-for-2024/"><u>New How to Zoom in on PowerPoint Easy Ways for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-ultimate-challenge-to-identify-best-game-browser/"><u>Opera Vs Edge - Ultimate Challenge to Identify Best Game Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-effective-steam-game-review-writing/"><u>Strategies for Effective Steam Game Review Writing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-easy-to-remember-ways-to-activate-ps5/"><u>The 6 Easy-to-Remember Ways To Activate PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gamers-mouse-pads/"><u>Top-Rated Gamers' Mouse Pads</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-hidden-depths-of-your-playstation-5-games/"><u>Unlock the Hidden Depths of Your PlayStation 5 Games</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-of-the-linksys-velop-a-detailed-router-review/"><u>Unveiling the Strengths of the Linksys Velop - A Detailed Router Review</u></a></li>
+</ul></div>
 

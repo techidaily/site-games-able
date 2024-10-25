@@ -1,7 +1,7 @@
 ---
 title: Inquiring About Video Memory Specifications
-date: 2024-09-18T23:40:18.257Z
-updated: 2024-09-20T20:59:37.718Z
+date: 2024-10-17T23:21:00.512Z
+updated: 2024-10-25T04:47:23.240Z
 tags:
   - games
 categories:
@@ -35,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 2. Click**Advanced Display** under**Related settings** .  
 ![Windows Settings screenshot showing advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-1.jpg)
 3. Finally, click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot showing VRAM in Windows settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-2.jpg)
 
  If you've got more than one GPU in your system (one discrete and one integrated) or multiple displays, you might want to check the others as well to make sure you're seeing the right type of VRAM.
@@ -54,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Third-Party Tools
@@ -66,20 +74,14 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check VRAM on Linux
 
@@ -90,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 `
 
 ![Linux lshw tool showing GPU information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linux-vram-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you can also use the`nvtop` or`radeontop` tools for Nvidia and AMD GPUs, respectively, if you'd like more information. These also include graphs of how your GPU is being used in real time. You can install these tools by using the following commands:
 
@@ -124,16 +133,10 @@ sudo apt-get install radeontop`
  There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Knowing Your PC Specs Is Important
@@ -153,5 +156,23 @@ sudo apt-get install radeontop`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-complete-guide-to-selecting-and-raising-valheim-crops/"><u>[New] In 2024, The Complete Guide to Selecting & Raising Valheim Crops</u></a></li>
+<li><a href="https://games-able.techidaily.com/delve-deeper-into-fallouts-universe-through-games/"><u>Delve Deeper Into Fallout's Universe Through Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-potential-of-steam-deck-for-pc-gaming/"><u>Exploring the Potential of Steam Deck for PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-xbox-golds-upgrade-to-game-pass-core/"><u>Exploring Xbox Gold's Upgrade to Game Pass Core</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-image-clarity-techniques-for-online-cropping/"><u>In 2024, Unlocking Image Clarity Techniques for Online Cropping</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-insights-from-toms-hardware-review/"><u>Mastering Tech Essentials: Insights From Tom's Hardware Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-mastery-the-ultimate-showdown-of-musical-quizzes/"><u>Melody Mastery: The Ultimate Showdown of Musical Quizzes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-eco-friendly-driving-distinguishing-between-ev-types-and-hybrids/"><u>Navigating the World of Eco-Friendly Driving: Distinguishing Between EV Types and Hybrids</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-tech-new-energy-via-atlasos/"><u>Old Tech, New Energy via AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-swap-for-smooth-play-new-joy-con-joystick-guide/"><u>Swift Swap for Smooth Play: New Joy-Con Joystick Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-mac-players-guide-to-counter-strike-2/"><u>The Ultimate Mac Player's Guide to Counter-Strike 2</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-tutorial-for-lut-use-in-after-effects-for-2024/"><u>The Ultimate Tutorial for LUT Use in After Effects for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016592001-to-calculate-sensible-heat-exchange-multiply-mass-g-specific-heat-capacity-jgk-and-temperature-change-or-k/"><u>To Calculate Sensible Heat Exchange, Multiply Mass (G), Specific Heat Capacity (J/G·K), and Temperature Change (℃ or K)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
+</ul></div>
 

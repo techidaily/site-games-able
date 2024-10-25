@@ -1,7 +1,7 @@
 ---
 title: "Old Vs. Slim: The PS5 Redesign Journey"
-date: 2024-10-13T03:25:54.610Z
-updated: 2024-10-19T05:11:50.059Z
+date: 2024-10-23T19:28:55.025Z
+updated: 2024-10-24T20:04:32.840Z
 tags:
   - games
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Old PS5 Models vs. New PS5 Models: The Differences
@@ -50,29 +50,22 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -85,15 +78,28 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Stand
 
@@ -122,22 +128,22 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-pinnacle-of-asmr-sound-quality-in-recorded-microphones/"><u>[New] In 2024, Pinnacle of ASMR Sound Quality in Recorded Microphones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-streamline-twitters-from-video-to-audible-format/"><u>[New] Streamline Twitters From Video to Audible Format</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-velocity-video-tape-echoes-included/"><u>[Updated] In 2024, Velocity Video Tape Echoes Included</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-news-compilation-services-our-picks-s-standouts/"><u>Best News Compilation Services: Our Picks 'S Standouts</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-the-power-amds-rx-7800xt-vs-rx-7700xt/"><u>Comparing the Power: AMD's RX 7800XT vs RX 7700XT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convert-avchd-files-to-mp4-gratis-with-easy-steps-on-windows-11/"><u>Convert AVCHD Files to MP4 Gratis with Easy Steps on Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crown-jewels-of-online-watching-youtubes-treasures-for-2024/"><u>Crown Jewels of Online Watching YouTube's Treasures for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nubia-z50-ultra-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nubia Z50 Ultra FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-playthrough-nullify-controller-shake/"><u>Peaceful Playthrough: Nullify Controller Shake</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-subscription-aps-plus-games-journey/"><u>Post-Subscription: APS Plus Games' Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/stealthy-gaming-techniques-end-controller-shake/"><u>Stealthy Gaming Techniques: End Controller Shake</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-downloading-and-upgrading-your-asus-laptop-drivers/"><u>Step-by-Step Tutorial on Downloading and Upgrading Your ASUS Laptop Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-your-computer-into-a-hybrid-console-monitor-system/"><u>Transforming Your Computer Into a Hybrid Console-Monitor System</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-nvidias-dlss-35-with-ai-integration/"><u>Understanding Nvidia's DLSS 3.5 with AI Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-strikes-as-gamers-deterrent-on-xbox/"><u>Understanding Strikes as Gamer's Deterrent on Xbox</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unleashing-the-power-of-your-instagram-vids-appeal/"><u>Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-android-and-iphone-gaming-with-steam-link/"><u>Unlocking Android and iPhone Gaming with Steam Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-charging-solutions-ideal-for-sony-consoles/"><u>Advanced Charging Solutions: Ideal for Sony Consoles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audacitys-sound-device-dilemma-5-proven-methods-to-restore-audio-functionality/"><u>Audacity's Sound Device Dilemma: 5 Proven Methods to Restore Audio Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-xbox-experience-simple-code-redeeming-tricks/"><u>Boost Your Xbox Experience: Simple Code Redeeming Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-backwards-compatibility-between-sony-consoles/"><u>Breaking Down Backwards Compatibility Between Sony Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/decreasing-digital-communication-time-techniques-for-lowering-response-times/"><u>Decreasing Digital Communication Time: Techniques for Lowering Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-the-right-gaming-system-pieces/"><u>Elevate Your Gameplay - The Right Gaming System Pieces</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-precision-with-core-parts/"><u>Enhancing Gaming Precision with Core Parts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/evolving-channels-8-fastest-video-climbers/"><u>Evolving Channels 8 Fastest Video Climbers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/grateful-for-viewership-template-choices-at-no-cost-for-2024/"><u>Grateful for Viewership! Template Choices at No Cost for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/how-to-create-text-memes-with-meme-text-generator-in-2024/"><u>How to Create Text Memes with Meme Text Generator, In 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-7-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-global-music-livestreams/"><u>In 2024, Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-top-list-of-best-vhs-video-effect-makers/"><u>New Top List of Best VHS Video Effect Makers</u></a></li>
+<li><a href="https://games-able.techidaily.com/saving-battery-life-for-portable-play/"><u>Saving Battery Life for Portable Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-disassemblers-path-to-understanding-an-xbox-360-slim/"><u>The Disassembler's Path to Understanding an Xbox 360 Slim</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nokia C12 Pro</u></a></li>
 </ul></div>
 

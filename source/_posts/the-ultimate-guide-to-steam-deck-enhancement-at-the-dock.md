@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Steam Deck Enhancement at the Dock
-date: 2024-09-15T02:24:00.947Z
-updated: 2024-09-20T17:23:34.063Z
+date: 2024-10-23T18:09:00.980Z
+updated: 2024-10-24T21:51:27.357Z
 tags:
   - games
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 ![screenshot of steam deck quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that you've bumped up the resolution, you've significantly increased the performance overhead for your game. Many games will run worse, requiring you to adjust the in-game settings. Seeing as we're playing on a larger screen, this isn't desirable.
 
  The solution here is to become familiar with per-game performance profiles for your games.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  If you've docked your Steam Deck, it's likely you're using a controller instead of the controls on the unit itself. In this case, holding the**system button + A** will display this menu.
 
 ![screenshot of steam deck quick menu game profile selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_game_profile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  First thing to do is to enable**Use Per-Game Profile** . This will ensure that any changes you make in this menu will only affect the currently active game.
 
@@ -77,9 +91,23 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
  You'll eventually find yourself with a very pleasant image and a comfortable framerate.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Target 30 or 40 FPS Over 60 FPS
 
 ![screenshot of steam deck quick menu framerate limiter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_steam_deck_quick_menu_framerate_cap.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A major part of gaming on the Steam Deck is being comfortable with lower framerates.
 
@@ -88,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  So, get comfortable with 30 or 40 FPS. 30 FPS is generally considered more than playable on the handheld screen, and 40 FPS is a decent upgrade to that to make the docked experience a little easier. If 60 FPS is the goal for you, you can always[take steps to further optimize individual games on the Steam Deck](https://www.makeuseof.com/how-to-optimize-steam-deck/) .
 
  Steam allows you to target 30 FPS using the performance overlay, but this framerate limiter occurs outside the game itself. For the best results, check if the game you're playing has an inbuilt framerate limiter. These are more accurate and responsive than the Steam Deck's overlay menu.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Docking Your Steam Deck Is a Balancing Act
 
@@ -115,5 +136,18 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/chronicles-unveiled-diving-into-windows-11-history/"><u>Chronicles Unveiled: Diving Into Windows 11 History</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/convert-m4v-and-wmv-videos-for-free-with-movavis-web-based-media-transcoder/"><u>Convert M4V and WMV Videos for Free with Movavi's Web-Based Media Transcoder</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutsche-tagesstruktur-lerne-die-deutschen-tage-verstehen/"><u>Deutsche Tagesstruktur: Lerne Die Deutschen Tage Verstehen</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-tv-and-monitors-at-ifa/"><u>Discover the Best TV & Monitors at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-steam-remote-play-windows-tips/"><u>Enabling Steam Remote Play: Windows Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-passs-unmatched-benefits-except-for-this-exception/"><u>Google Play Pass's Unmatched Benefits, Except for This Exception</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/learn-how-to-configure-and-browse-shared-drives-on-a-mac-using-the-built-in-finder-tool/"><u>Learn How to Configure and Browse Shared Drives on a Mac Using the Built-In Finder Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-pi-fans-decision-time-batocera-vs-retropie/"><u>Retro Pi Fans, Decision Time: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/saving-game-moments-with-fbx-recorder-for-2024/"><u>Saving Game Moments with FBX Recorder for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-switching-laser-focused-or-lever-based/"><u>Swift Switching: Laser-Focused or Lever-Based?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unraveling-tech-mysteries-inside-toms-hardware-wisdom/"><u>Unraveling Tech Mysteries: Inside Tom's Hardware Wisdom</u></a></li>
+</ul></div>
 

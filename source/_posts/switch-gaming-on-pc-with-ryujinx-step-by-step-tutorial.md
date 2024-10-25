@@ -1,7 +1,7 @@
 ---
 title: "Switch Gaming on PC with Ryujinx: Step-by-Step Tutorial"
-date: 2024-09-17T22:10:45.940Z
-updated: 2024-09-20T21:23:35.160Z
+date: 2024-10-18T04:21:31.056Z
+updated: 2024-10-25T02:48:47.604Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
  With some of the specific features of Ryujinx defined, you should be ready to start mapping a controller for Nintendo Switch emulation. So, as long as you have Ryujinx installed on your device of choice, you can map a Nintendo, PlayStation, Xbox, or third-party controller by following these steps:
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 * From the main menu of Ryujinx, select**Options** followed by**Settings** .
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
@@ -58,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Customize Your Ryujinx Controller Settings
 
  Much like other[Nintendo Switch emulators available for Windows](https://www.makeuseof.com/windows-best-nintendo-switch-emulators/) , now you have a connected and mapped controller for Ryujinx, there are a few extra tips to help streamline and customize your emulating experience.
@@ -70,14 +91,14 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
- While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
@@ -98,5 +119,21 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-elite-collection-of-online-video-grabbers-and-savers-for-2024/"><u>[Updated] Elite Collection of Online Video Grabbers & Savers for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-image-text-overlay-online/"><u>[Updated] Step-by-Step Guide to Image Text Overlay Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-all-about-color-grading/"><u>2024 Approved All About Color Grading</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-bypassing-errors-in-facebook-story-postings-and-viewing/"><u>2024 Approved Bypassing Errors in Facebook Story Postings & Viewing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-from-free-to-paid-transitioning-your-channel-via-partnership/"><u>2024 Approved From Free to Paid Transitioning Your Channel via Partnership</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-gaming-navigating-surge-in-attacks/"><u>Digital Gaming: Navigating Surge in Attacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/formulating-complaints-about-player-misbehavior-on-gaming-system/"><u>Formulating Complaints About Player Misbehavior on Gaming System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x6-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X6 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innesti-efficaci-di-taglio-video-mp4-in-windows-10-e-11/"><u>Innesti Efficaci Di Taglio Video MP4 in Windows 10 E 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-game-absence-in-eg-libraries/"><u>Resolving Game Absence in EG Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-subscribe-engage-and-revel-in-ps5s-ea-play-experience/"><u>Step-by-Step Guide: Subscribe, Engage, and Revel in PS5's EA Play Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-6-downfalls-with-upcoming-intel-processors/"><u>The Top 6 Downfalls with Upcoming Intel Processors</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-game-on-my-desk/"><u>Why I Game on My Desk?</u></a></li>
+</ul></div>
 

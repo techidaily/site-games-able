@@ -1,7 +1,7 @@
 ---
 title: Will The Microsoft/Activision Merger Enhance or Endanger Gamer Interests?
-date: 2024-10-15T11:40:37.548Z
-updated: 2024-10-19T02:39:25.814Z
+date: 2024-10-21T03:13:54.463Z
+updated: 2024-10-24T19:11:38.170Z
 tags:
   - games
 categories:
@@ -35,16 +35,16 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Xbox Owns a Sizable Chunk of the Entire Gaming Industry
 
@@ -60,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  Xbox could use Activision/Blizzard exclusivity to monopolize some of gaming's most popular franchises, forcing you to own an Xbox Series X|S as competitors may not be able to sell specific Activision/Blizzard titles.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Both Xbox and PlayStation Are Prioritizing Exclusivity
 
  Aside from Xbox having a monopoly over Activision/Blizzard exclusivity and a sizable chunk of the industry, the deal further fuels the exclusivity race with rival platforms like PlayStation.
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 ![A promotional image of God of War Ragnarok depicting a scene from the game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/god-of-war.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: [PlayStation](https://www.playstation.com/en-us/games/god-of-war-ragnarok/)
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  The deal creates a precedent for PlayStation to match Xbox's practices as its main rival. And with Xbox and PlayStation vying for further exclusivity, consumer choices narrow, forcing you to pick one platform over another to play certain games.
 
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
@@ -96,11 +96,31 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  While not guaranteed, the acquisition of Activision/Blizzard by Microsoft is connected by the CMA to a potential increase in the costs you may face for your games and gaming services.
 
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
@@ -120,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
  So, while exclusivity may worry you, the deal is unable to affect platform exclusivity for at least 15 years, and even if it goes on to do so, it would only be following pre-established trends within the gaming industry.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Xbox Is Focused on Consumer-Orientated Gaming
 
  While you may see the deal between Microsoft and Activision/Blizzard as stoking problematic issues for gamers, Xbox and its emphasis on consumer choice implies otherwise.
@@ -134,13 +147,6 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  Despite Xbox holding exclusivity on franchises like Halo and owning massive games like Minecraft, Xbox prioritizes allowing you to choose how you play. Halo: The Master Chief Collection is on Steam, and Minecraft is available and cross-compatible on all platforms.
 
 ![A screenshot of the loading screen for Halo The Master Chief Collection on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/halo-the-master-chief-collection-loading-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
@@ -185,22 +191,19 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-your-first-venture-into-hosting-effective-zoom-webinars/"><u>[New] 2024 Approved Your First Venture Into Hosting Effective Zoom Webinars</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-fixing-glitches-seeing-your-own-face-in-fb-live/"><u>[Updated] 2024 Approved Fixing Glitches Seeing Your Own Face in FB Live</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-classic-fanfare-fix-for-2024/"><u>[Updated] Classic Fanfare Fix for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-am08-pro-make-acemagic-authentic/"><u>Does AM08 Pro Make AceMagic Authentic?</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-power-up-choosing-between-directx-11-and-12/"><u>Graphics Power Up: Choosing Between DirectX 11 & 12</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-90-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor 90.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/iconic-inning-cameo-examination/"><u>Iconic Inning - Cameo Examination</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oneplus-ace-2-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your OnePlus Ace 2 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-100-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor 100 Pro Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/modify-interface-language-of-steam-platform/"><u>Modify Interface Language of Steam Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/office-and-task-oriented-pcs-vs-high-end-game-machines/"><u>Office and Task-Oriented PCs Vs. High-End Game Machines</u></a></li>
-<li><a href="https://games-able.techidaily.com/revamping-your-steam-experience-a-guide-to-eliminating-games/"><u>Revamping Your Steam Experience: A Guide to Eliminating Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-metaverse-race-begins-dont-miss-these-7-essential-tools-for-2024/"><u>The Metaverse Race Begins Don't Miss These 7 Essential Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-emulating-dreamcast-games/"><u>The Ultimate Guide to Emulating Dreamcast Games</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-pop-7-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Pop 7 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-view-count-with-these-7-innovative-twitch-bot-assistants/"><u>Transform Your View Count with These 7 Innovative Twitch Bot Assistants</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-phone-gaming-with-perfect-controllers/"><u>Ultimate Phone Gaming with Perfect Controllers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-analyzing-the-frequency-of-youtube-payments-for-2024/"><u>[New] Analyzing the Frequency of YouTube Payments for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-changing-ringtones-on-an-iphone-a-user-friendly-approach/"><u>[New] Changing Ringtones on an iPhone A User-Friendly Approach</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[Updated] Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-growth-in-the-game-publishing-sector-in-depth-analysis-podcast/"><u>Balancing Act: Growth in the Game Publishing Sector [In-Depth Analysis Podcast]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-every-game-of-the-2023-ncaa-march-madness-a-comprehensive-guide-for-online-viewers/"><u>Catch Every Game of the 2023 NCAA March Madness: A Comprehensive Guide for Online Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-pokemons-universe-on-your-ios-device-today/"><u>Explore Pokémon's Universe on Your iOS Device Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-mobile-to-hard-drive-best-online-and-os-x-exporters-for-instagram-videos/"><u>From Mobile to Hard Drive Best Online and OS X Exporters for Instagram Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionary-srt-adjustments-unleash-potential-on-both-oses/"><u>In 2024, Revolutionary SRT Adjustments Unleash Potential on Both OSes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-through-the-eyes-of-one-a-critical-look-at-3dr/"><u>In 2024, Through the Eyes of One A Critical Look at '3DR'</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-ps5-accesories-for-enthusiasts/"><u>Next Level PS5 Accesories for Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-chrome-glitches-load-game-issues/"><u>Solve Chrome Glitches - Load Game Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-era-of-gamer-vigilance-needed/"><u>The New Era of Gamer Vigilance Needed</u></a></li>
 </ul></div>
 

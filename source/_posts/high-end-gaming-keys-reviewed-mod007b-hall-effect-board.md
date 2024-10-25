@@ -1,7 +1,7 @@
 ---
 title: "High-End Gaming Keys Reviewed: Mod007B Hall Effect Board"
-date: 2024-10-13T13:36:43.092Z
-updated: 2024-10-19T02:36:52.105Z
+date: 2024-10-22T04:11:59.661Z
+updated: 2024-10-24T22:38:26.059Z
 tags:
   - games
 categories:
@@ -114,16 +114,16 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -133,9 +133,23 @@ No
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tokyo-Themed Keys and Accessories Included
 
 ![Akko MOD007B HE Tokyo-themed Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-tokyo-themed-accessories.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -145,27 +159,7 @@ No
 
 ![Akko MOD007B HE Keycap Accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-keycap-accessories.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Jowi Morales / MakeUseOf
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Akko MOD007B Means Serious Business Underneath
 
@@ -174,6 +168,13 @@ No
  On the other hand, Hall Effect switches have no moving parts. Instead, it uses the changing position of two magnets to determine a key’s position. Because of this, Hall Effect keyboards have a longer lifespan than traditional mechanical switches, just like[Hall Effect joysticks](https://www.makeuseof.com/what-are-hall-effect-joysticks-can-they-cure-controller-drift/) .
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jowi Morales / MakeUseOf
 
@@ -195,13 +196,6 @@ Related
 
  Jowi Morales / MakeUseOf
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Typing on Cloud Nine
 
  Aside from the advantages of Hall Effect keys, the Akko MOD007B also delivers an excellent typing feel. The keyboard itself uses a gasket mount for a soft and relaxed typing experience. And when you press on the keys hard, you’ll notice them sink into the case, especially for keys near the edges.
@@ -213,16 +207,10 @@ Related
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
@@ -230,13 +218,6 @@ Related
  You can also create up to two function layers to map more than 100 keys and shortcuts in just two presses. Finally, there’s the Macro menu for recording macros and the Light menu to change the keyboard’s RGB lighting as you see fit.
 
  But best of all, any changes you make to the keyboard are stored on it. So, even if you switch PCs or upgrade to a newer device, you don’t have to download the driver and recreate your saved keyboard settings.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Confusing Multi-Mode Pairing
 
@@ -263,6 +244,13 @@ Related
  Furthermore, the keyboard’s off switch sits on the OS mode slider (top for macOS and on battery power, center for Windows and power supply off, and bottom for Windows with the power turned on) under the caps lock keycap, making it inconvenient to turn off.
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Your Keyboard for Gaming Victory
 
@@ -361,21 +349,22 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-learn-to-edit-the-avalanche-reducing-clutter-in-your-tiktok-drafters/"><u>[New] 2024 Approved Learn to Edit the Avalanche Reducing Clutter in Your TikTok Drafters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-smart-explorers-choice-premium-vr-gear-ranked/"><u>[New] 2024 Approved The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-evasive-techniques-for-anonymous-instagram-broadcasting-for-2024/"><u>[New] Evasive Techniques for Anonymous Instagram Broadcasting for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-network-stardom-top-10-music-video-countdown/"><u>[New] In 2024, Social Network Stardom Top 10 Music Video Countdown</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unleash-your-vision-the-premier-6-for-artists-nfts/"><u>[New] In 2024, Unleash Your Vision The Premier 6 for Artists' NFTs</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unveiling-superior-screen-recording-obs-vs-fraps-face-off/"><u>[New] In 2024, Unveiling Superior Screen Recording OBS vs Fraps Face-Off</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-need-for-multifunctional-game-displays/"><u>Deciphering the Need for Multifunctional Game Displays</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oneplus-ace-2v-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for OnePlus Ace 2V</u></a></li>
-<li><a href="https://network-issues.techidaily.com/ignite-wifi-speeds-on-windows-xp7-networks/"><u>Ignite WiFi Speeds on Windows XP/7 Networks</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-game-files-mastering-chdman-iso-compression-and-use/"><u>Maximizing Game Files: Mastering CHDMAN ISO Compression & Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-york-times-word-game-extravaganza-unleash-your-inner-wizard-with-strands/"><u>New York Times’ Word Game Extravaganza: Unleash Your Inner Wizard with 'Strands'</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-idevice-gaming-with-our-best-4-emulator-picks/"><u>Revolutionize iDevice Gaming With Our Best 4 Emulator Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-prevent-random-ps4-controller-disconnection-on-windows/"><u>Steps to Prevent Random PS4 Controller Disconnection on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-playtest-ps5-versus-cost-effective-pc-build/"><u>Ultimate Playtest: PS5 Versus Cost-Effective PC Build</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-old-games-steam-deck-and-emudeck-combo/"><u>Unlocking Old Games: Steam Deck & EmuDeck Combo</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722990725459-why-isnt-my-discord-camera-working-expert-fixes/"><u>Why Isn't My Discord Camera Working? Expert Fixes!</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-virtual-frontier-the-meta-quest-3-story/"><u>A New Virtual Frontier: The Meta Quest 3 Story</u></a></li>
+<li><a href="https://techidaily.com/ai-powered-document-scanning-unleash-the-best-in-abbyy-finescanner-mobile-app/"><u>AI-Powered Document Scanning: Unleash the Best in ABBYY FineScanner Mobile App</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-players-in-tetris-arena-on-mobile-giants/"><u>Apex Players in Tetris Arena on Mobile Giants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-emerging-language-models-threatening-to-replace-established-search-engines-like-googles/"><u>Are Emerging Language Models Threatening to Replace Established Search Engines Like Google's?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/common-causes-of-systolic-dysfunction-include-ischemic-heart-disease-and-dilated-cardiomyopathies-which-can-damage-the-myocardial-tissue/"><u>Common Causes of Systolic Dysfunction Include Ischemic Heart Disease and Dilated Cardiomyopathies, Which Can Damage the Myocardial Tissue.</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-the-tech-behind-robloxs-fps-boosters/"><u>Deciphering the Tech Behind Roblox's FPS Boosters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discords-nitro-payoff-questioned/"><u>Discord's Nitro Payoff Questioned</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-steps-to-change-format-from-flv-to-avi-using-the-movavi-video-transcoder-tool/"><u>Easy Steps to Change Format From FLV to AVI Using the Movavi Video Transcoder Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/evading-inquisitive-trackers-in-games/"><u>Evading Inquisitive Trackers in Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862867245-limited-time-offer-asus-prime-x67n-wifi-am5-motherboard-for-a-low-price-of-135/"><u>Limited Time Offer: ASUS Prime X67n Wifi AM5 Motherboard for a Low Price of 135$!</u></a></li>
+<li><a href="https://games-able.techidaily.com/premature-play-gamers-perspective-unveiled/"><u>Premature Play: Gamers' Perspective Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-fixing-robloxs-error-403-on-pc/"><u>Step-by-Step Guide to Fixing Roblox's Error 403 on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-home-entertainment-with-playnite-fullscreen-tv/"><u>Transform Home Entertainment with Playnite Fullscreen TV</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-second-display-on-w11/"><u>Troubleshooting Missing Second Display on W11</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-copy-pro-dvd-isodvd/"><u>WinX DVD Copy Pro 協助在 DVD 上緊湛 ISO/DVD 備份</u></a></li>
 </ul></div>
 

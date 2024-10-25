@@ -1,7 +1,7 @@
 ---
 title: "Elevating the Gaming Experience: Four Upgrades for Xbox Points"
-date: 2024-09-15T22:34:44.776Z
-updated: 2024-09-20T17:29:54.235Z
+date: 2024-10-24T01:02:52.118Z
+updated: 2024-10-24T17:27:45.335Z
 tags:
   - games
 categories:
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 ![A screenshot of the July Monthly Bonus Round for Microsoft Rewards on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/monthly-rewards.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The biggest issue associated with the monthly bonus activities was its capped time frame, forcing you to earn the associated points once a month. But now, with the rewarded points literally slashed in half, the feature becomes even more frustrating.
 
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
@@ -57,22 +71,16 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 ![A screenshot of Xbox messages detailing earned Reward Points for purchases made on the Xbox Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/point-messages.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To put it in plainer terms, if you go off Microsoft's one-point-per-dollar system, 7000 points for a free month of Xbox Live Gold represents $7000 dollars worth of store purchases. And while this is slightly contrary, it would be ridiculous if points given were equivalent to store purchases, the system seems highly unfair.
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
@@ -82,16 +90,22 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
@@ -112,5 +126,16 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/approved-create-a-unique-identity-personalize-your-youtube-url-today/"><u>2024 Approved Create a Unique Identity Personalize Your YouTube URL Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-poco-f5-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Poco F5 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-into-full-rotation-cinematography-9-critical-tips/"><u>Dive Into Full Rotation Cinematography 9 Critical Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-recommendations-the-highest-rated-18-video-recorders-now-for-2024/"><u>Expert Recommendations The Highest-Rated 18 Video Recorders Now for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-effects-of-xboxs-ban-on-unauthorized-controller-use/"><u>Exploring the Effects of Xbox's Ban on Unauthorized Controller Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-frequent-loops-of-ps4-controller-disconnects-on-pc/"><u>Fixing Frequent Loops of PS4 Controller Disconnects on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-switch-with-simple-care-techniques/"><u>Maximizing Your Switch with Simple Care Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-slim-the-ps5-redesign-journey/"><u>Old Vs. Slim: The PS5 Redesign Journey</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-nord-n30-se-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus Nord N30 SE for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

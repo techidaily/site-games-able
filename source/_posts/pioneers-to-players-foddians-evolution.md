@@ -1,7 +1,7 @@
 ---
 title: "Pioneers to Players: Foddian's Evolution"
-date: 2024-09-15T23:44:46.168Z
-updated: 2024-09-20T16:21:03.685Z
+date: 2024-10-24T01:23:44.625Z
+updated: 2024-10-24T22:56:36.200Z
 tags:
   - games
 categories:
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
@@ -51,6 +64,19 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
  Almost every popular streamer and YouTuber you can think of has played Jump King to some extent, indirectly marketing the game to their viewers. As such, it didn’t take long for a community to spawn around this game, and it remains one of the most played in its genre.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Foddian Games and Content Creation
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
@@ -62,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Evolution of Foddian Games
@@ -78,27 +104,20 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
  Only Up! has become popular enough to dominate the viewership on Twitch for concurrent weeks. And while the hype is not the same as it was during release, many people still actively play the title.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Foddian Games: Difficult but Rewarding Platforming
 
  There is a gradual shift in the type of video game content enjoyed live on stream or alone on a slow Saturday afternoon.
 
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
@@ -125,5 +144,22 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-lenovo-perfecting-screen-capture-techniques-for-2024/"><u>[New] Mastering Lenovo Perfecting Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-best-assortment-professional-webcam-supports/"><u>2024 Approved Best Assortment Professional Webcam Supports</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/corrective-measures-for-xbox-joy-con-drifts/"><u>Corrective Measures for Xbox Joy-Con Drifts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-gpts-capability-to-manage-smart-homes/"><u>Discovering GPT's Capability to Manage Smart Homes</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-console-to-convenience-emulating-segas-dreamcatcher-games-on-mobile-devices/"><u>From Console to Convenience: Emulating Sega's Dreamcatcher Games on Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-gear-for-novice-fps-players/"><u>Game-Changing Gear for Novice FPS Players</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximum-comfort-sits-gaming-throne-recommendations/"><u>Maximum Comfort Sits: Gaming Throne Recommendations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-10-essential-stages-for-proficient-smm-expertise-for-2024/"><u>Navigating 10 Essential Stages for Proficient SMM Expertise for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-tapping-that-reset-button-preventing-game-crashes-with-top-10-insights/"><u>Stop Tapping That Reset Button: Preventing Game Crashes with Top 10 Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-process-to-delete-past-ps5-game-files/"><u>Streamlined Process to Delete Past PS5 Game Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-feasibility-of-ps4-gaming-on-ps5-systems/"><u>The Feasibility of PS4 Gaming on PS5 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-microsoft-store-effective-solutions-for-opening-issues/"><u>Unlocking the Microsoft Store: Effective Solutions for Opening Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-k70-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi K70 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

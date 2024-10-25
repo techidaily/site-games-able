@@ -1,7 +1,7 @@
 ---
 title: "From Cellular Mechanisms to Therapeutics: Charting the Course for Cancer-Fighting Cannabinoids"
-date: 2024-09-16T18:13:20.875Z
-updated: 2024-09-20T19:34:04.338Z
+date: 2024-10-22T01:04:34.349Z
+updated: 2024-10-25T04:41:20.957Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does an Assist Controller Do on the PS5?
 
  Being able to connect an assist controller to your PS5 is Sony's answer to the copilot feature on Xbox. Using an assist controller is a far different experience than simply connecting two DualSense controllers and calling it a day.
@@ -34,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  Adding a second controller adds another player, who becomes a player two. An assist controller, however, allows two different controllers to operate the same user profile, so the two controllers behave as one single controller.
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
@@ -57,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
@@ -74,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
@@ -99,5 +120,24 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-fx-library-to-enhance-youtube-productions-for-2024/"><u>[New] Free FX Library to Enhance YouTube Productions for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-step-by-step-guide-to-find-youtube-hidden-videos/"><u>[New] In 2024, Step-By-Step Guide to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-youtube-studio-a-must-have-knowledge-base-for-2024/"><u>[New] Unlocking YouTube Studio A Must-Have Knowledge Base for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-joy-of-portable-gaming-on-steam-deck/"><u>Discover the Joy of Portable Gaming on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-invalid-creditdebit-authorization-mistakes-on-console/"><u>Fixing Invalid Credit/Debit Authorization Mistakes on Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-quell-background-game-bar-noise-on-modern-devices/"><u>Guide to Quell Background Game Bar Noise on Modern Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor Through Google Earth?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-6-titles-for-multitasking-game-broadcasters/"><u>Ideal 6 Titles for Multitasking Game Broadcasters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-your-tiktok-profile-altering-account-numbers/"><u>In 2024, Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-monetization-tips-how-many-views-do-you-really-need-to-make-money/"><u>In 2024, YouTube Monetization Tips How Many Views Do You Really Need to Make Money</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-android-application-run-time-in-linux/"><u>Navigating Android Application Run-Time in Linux</u></a></li>
+<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-2-update-improves-latency-and-ensures-a-seamless-gaming-adventure/"><u>Star Wars Battlefront 2 Update Improves Latency and Ensures a Seamless Gaming Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-addressing-steam-installation-mistakes-on-windows-11/"><u>Swiftly Addressing Steam Installation Mistakes on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-hygiene-keeping-your-ps5-pristine/"><u>Tech Hygiene: Keeping Your PS5 Pristine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-prospect-of-building-a-sustainable-career-in-ai-driven-prompt-crafting-is-it-viable/"><u>The Prospect of Building a Sustainable Career in AI-Driven Prompt Crafting: Is It Viable?</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-ps5-modifications-and-extras/"><u>Top-Rated PS5 Modifications and Extras</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-best-free-video-editors-for-ubuntu/"><u>Updated 2024 Approved Best Free Video Editors for Ubuntu</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Preventing Window's Graphics Hang - Error 0X887A0006 Fix
-date: 2024-10-13T12:41:32.735Z
-updated: 2024-10-19T08:09:36.063Z
+date: 2024-10-18T21:45:57.360Z
+updated: 2024-10-25T03:02:37.859Z
 tags:
   - games
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 6. To save the settings, press the**Apply** button.
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
  Some players have fixed the 0x887A0006 error by selecting**Debug Mode** in the NVIDIA Control Panel. That option disables GPU (graphical processing unit) overclocking. If your PC has an NVIDIA graphics card, you can select the**Debug Mode** option as follows:
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ## 3\. Repair the Files for Any Affected Games
 
  There’s a possibility that the 0x887A0006 error sometimes occurs because of corrupted game files. So, it’s recommended players verify affected games with their gaming clients. Epic Games, Steam, Origin, and Battle.net all include options for verifying (repairing) games. This is how you can verify affected games in the Epic Game and Steam launchers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Repair Games on Epic Games
 
@@ -62,10 +76,17 @@ For Epic Games:
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Repair Games on Steam
@@ -80,10 +101,17 @@ For Steam:
 5. Select Steam’s**Verify integrity of game files** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
@@ -118,13 +146,6 @@ For Steam:
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable DirectX 12 in Any Affected Games
 
  DirectX 12 is the more advanced alternative version to DX11 that’s known to generate issues for some games. So, it’s recommended that you disable DX12 by setting DX11 for games where the 0x887A0006 error occurs.
@@ -136,16 +157,17 @@ For Steam:
 3. Select the**Settings** option on the menu that opens.  
 ![The Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-settings-option1.jpg)
 4. Then click the game title for which 0x887A0006 arises.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Additional Command Line Arguments** box.  
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add**d3d11** in the text box.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
 
@@ -159,28 +181,8 @@ For Steam:
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Don’t Overclock Your PC
 
@@ -203,10 +205,10 @@ For Steam:
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Close the Regedit app, and then restart your PC.
@@ -214,13 +216,6 @@ For Steam:
 ## 11\. Reinstall the Game That's Crashing
 
 ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
@@ -245,19 +240,20 @@ For Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-divergence-in-dungeons-classic-and-hybrid-games/"><u>[New] In 2024, Divergence in Dungeons Classic and Hybrid Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-visual-storytelling-for-social-media-editing-vt-videos-in-fcpx/"><u>[Updated] 2024 Approved Visual Storytelling for Social Media Editing VT Videos in FCPX</u></a></li>
-<li><a href="https://article-helps.techidaily.com/10-sci-fi-metaverse-movies-take-you-to-a-brand-new-world-for-2024/"><u>10 Sci-Fi Metaverse Movies Take You to a Brand New World for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cost-cutting-hacks-for-xbox-players/"><u>Cost-Cutting Hacks for Xbox Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-youtubes-interactive-mini-gaming-experience/"><u>Dive Into YouTube's Interactive Mini Gaming Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secure-and-simple-the-top-10-trusted-online-transformers/"><u>In 2024, Secure and Simple The Top 10 Trusted Online Transformers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-subtle-music-level-decrease-for-pcmac-users/"><u>In 2024, Subtle Music Level Decrease for PC/Mac Users</u></a></li>
-<li><a href="https://discover-data.techidaily.com/mastering-file-sync-in-windows-with-the-powerful-robocopy-cli-tool/"><u>Mastering File Sync in Windows with the Powerful Robocopy CLI Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-to-prevent-stuttering-and-crashing-while-playing-serious-sam-4/"><u>Optimizing Your PC Settings to Prevent Stuttering & Crashing While Playing Serious Sam 4</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-big-on-your-game-setup-with-alienwares-curved-masterpiece-secure-100-off-the-aw3225qf-stunning-4k-gaming-qd-oled-quality-and-ultra-fast-240-hz-refresh61/"><u>Score Big on Your Game Setup with Alienware's Curved Masterpiece: Secure $100 Off the AW3225QF - Stunning 4K Gaming, QD-OLED Quality & Ultra Fast 240 Hz Refresh Rate</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-highlight-capture-via-any-gpu-technology/"><u>Seamless Highlight Capture via Any GPU Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-steam-library-the-art-of-deleting-games/"><u>Transform Your Steam Library: The Art of Deleting Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-the-potential-of-ps5-with-these-9-features/"><u>Unleashing the Potential of PS5 with These 9 Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-4-pivotal-points-against-a-disc-drive-on-xbox-s/"><u>Unveiling 4 Pivotal Points Against a Disc Drive on Xbox S</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-quick-guide-to-quashing-facebooks-flashy-feed/"><u>[New] 2024 Approved The Quick Guide to Quashing Facebook's Flashy Feed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-screen-capturing-solutions-by-tunefab-experts/"><u>[Updated] In 2024, Top Screen Capturing Solutions by Tunefab Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-blueprint-for-youtube-video-success/"><u>[Updated] The Blueprint for YouTube Video Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-free-software-leaders-in-chromebook-screen-recording/"><u>2024 Approved Free Software Leaders in Chromebook Screen Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-palworld-inside-out/"><u>Discover PalWorld Inside Out</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/double-tap-for-apks-a-user-friendly-guide-in-win-11/"><u>Double-Tap for APKs: A User-Friendly Guide in Win 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-s17-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo S17 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-retro-reel-upgrade-converting-photographs-to-videos/"><u>In 2024, Retro Reel Upgrade Converting Photographs to Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-game-performance-android-fps-testing-guide-2-techniques/"><u>Maximize Game Performance: Android FPS Testing Guide (2 Techniques)</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-typing-speed-without-sacrificing-accuracy/"><u>Maximizing Typing Speed Without Sacrificing Accuracy</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-accessories-for-perfect-xbox-recording/"><u>Prime Accessories for Perfect Xbox Recording</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/set-a-regular-filefolder-purge-routine-on-windows-using-stellar-file-eraser-v5/"><u>Set a Regular File/Folder Purge Routine on Windows Using Stellar File Eraser V5</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-tackle-windows-graphics-hang-code-0x887a0006-solution/"><u>Swiftly Tackle Windows' Graphics Hang: Code 0X887A0006 Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-wonders-iphone-and-ipads-best-friend-apple-arcade/"><u>Unlocking Gaming Wonders: IPhone and iPad's Best Friend - Apple Arcade</u></a></li>
 </ul></div>
 

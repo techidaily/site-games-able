@@ -1,7 +1,7 @@
 ---
 title: Potential Harm From Allowing Players to Fund Game Creation
-date: 2024-10-14T03:30:09.903Z
-updated: 2024-10-19T05:32:01.295Z
+date: 2024-10-17T16:47:16.397Z
+updated: 2024-10-24T19:41:29.072Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -34,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -78,22 +85,15 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -132,18 +132,21 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>[New] In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unveiling-the-mystery-of-private-storymaking-in-snapchat/"><u>[New] In 2024, Unveiling the Mystery of Private Storymaking in Snapchat</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-and-twittersphere-crossover-the-viral-vids-for-2024/"><u>[Updated] TikTok and Twittersphere Crossover The Viral Vids for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>2024 Approved Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-innocuous-steam-fun-for-kids-and-parents/"><u>Creating Innocuous Steam Fun for Kids and Parents</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-white-hardware-choices-on-a-tight-budget/"><u>Essential White Hardware Choices on a Tight Budget</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-saving-your-whatsapp-pdfs-on-an-iphone-with-ease/"><u>Guide: Saving Your WhatsApp PDFs on an iPhone with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/mechanical-masterpiece-revealed-razers-hot-swap-widow-v4/"><u>Mechanical Masterpiece Revealed - Razer's Hot-Swap Widow V4</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/premium-voice-capture-apps-on-mac-the-best-five-ranked-for-2024/"><u>Premium Voice Capture Apps on Mac The Best Five Ranked for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-fixes-for-seamless-phone-screencasting/"><u>Quick Fixes for Seamless Phone Screencasting</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-decks-new-frontier-external-memory-expansion/"><u>Steam Deck's New Frontier: External Memory Expansion</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-asus-rog-ally-docks-of-2024/"><u>The Best ASUS ROG Ally Docks of 2024</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-auditory-hunt-locating-authentic-cricket-sfx/"><u>Updated 2024 Approved Auditory Hunt Locating Authentic Cricket SFX</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-online-free-video-editing-hacks/"><u>[New] Top Online Free Video Editing Hacks</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1726028295456-2/"><u>「オケラの最適なビデオダウンロード手段：2つの優れた選択肢」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225098840-aump3-movavi/"><u>網路上免費移轉AU到MP3 - 利用Movavi的音頻格式轉換器</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-switch-gaming-with-mac-support/"><u>Dive Into Switch Gaming with Mac Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-switch-endurance-through-regular-upkeep/"><u>Enhancing Switch Endurance Through Regular Upkeep</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-1440p-gaming-monitors-reviewed-by-budget-conscious-gamers/"><u>Essential 1440P Gaming Monitors Reviewed by Budget-Conscious Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-disc-in-limbo-unlock-your-series-x-with-this-tip/"><u>Game Disc in Limbo? Unlock Your Series X with This Tip</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-fps-the-ultimate-action-game-now-available-on-pc/"><u>God of War FPS: The Ultimate Action Game Now Available on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-the-culprit-behind-your-pcs-performance-slump/"><u>Identifying the Culprit Behind Your PC’s Performance Slump</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 6s</u></a></li>
+<li><a href="https://games-able.techidaily.com/relive-the-best-of-sonys-classics-top-rated-ps3-emulators-on-pc/"><u>Relive the Best of Sony's Classics: Top-Rated PS3 Emulators on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/topo-12-os-maiores-software-de-captura-de-tela-livres-para-sistema-windows-8-da-moveavi/"><u>Topo 12: Os Maiores Software De Captura De Tela Livres Para Sistema Windows 8 Da Moveávi</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-happens-to-unused-ps-plus-titles/"><u>What Happens to Unused PS Plus Titles?</u></a></li>
 </ul></div>
 

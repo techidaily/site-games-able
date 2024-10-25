@@ -1,7 +1,7 @@
 ---
 title: "Joystick Journey: From Broken To Functional Controllers"
-date: 2024-10-16T16:56:29.482Z
-updated: 2024-10-18T19:50:49.935Z
+date: 2024-10-23T03:35:48.701Z
+updated: 2024-10-25T01:41:46.675Z
 tags:
   - games
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  This is mainly helpful to gamers with older controllers that are out of warranty. If your controller is still under warranty, sending it back for a free repair or replacement would be cheaper and easier. But if you do feel like you want to have a go yourself, Xbox has announced that opening up your controller to fix it will not void the warranty as long as no damage is done during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get Started Fixing Your Own Xbox Controller
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why You Should Fix Your Own Xbox Controller
@@ -68,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://www.xbox.com/en-us/accessories/controllers/remix-special-edition#regrind)
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  Inspiring gamers to recycle and reuse their old controllers instead of throwing them out to buy new ones is yet another eco-friendly step in the right direction for Xbox.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Reuse, Recycle, Replay
@@ -106,20 +106,18 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-play-5-outstanding-gba-console-emulators-on-desktop-pcs-for-2024/"><u>[New] Perfect Play 5 Outstanding GBA Console Emulators on Desktop PCs for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-screenmaster-mastering-window-recordings-on-spring/"><u>[New] ScreenMaster Mastering Window Recordings on Spring</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-shorts-money-making-guide-key-requirements-and-potential-income/"><u>[New] Youtube Shorts Money-Making Guide Key Requirements & Potential Income</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-convert-youtube-videos-to-gifs-no-download/"><u>[Updated] In 2024, How to Convert YouTube Videos to GIFs [No Download]</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-ps5-to-a-previous-generational-console/"><u>Connecting PS5 to a Previous Generational Console?</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-charger-gear-for-sonys-ps5-dualsense-accessory/"><u>Essential Charger Gear for Sony's PS5 DualSense Accessory</u></a></li>
-<li><a href="https://games-able.techidaily.com/freedom-from-realms-securely-store-your-spheres-destiny/"><u>Freedom From Realms: Securely Store Your Sphere's Destiny</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-pads-in-harmony-with-rhythm-games/"><u>Graphics Pads in Harmony with Rhythm Games</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-11-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme 11 Pro?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-leading-your-audience-into-a-world-of-instagram-live/"><u>In 2024, Leading Your Audience Into a World of Instagram Live</u></a></li>
-<li><a href="https://games-able.techidaily.com/jumpstart-your-adventure-playing-steam-games-on-meta-quest-xr/"><u>Jumpstart Your Adventure: Playing Steam Games on Meta Quest XR</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-gaming-journey-with-steams-storage-wisdom/"><u>Optimize Your Gaming Journey with Steam’s Storage Wisdom</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-usb-hubs-for-the-ps5/"><u>The Best USB Hubs for the PS5</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-imovie-clip-integration-into-youtubes-vast-network/"><u>[Updated] 2024 Approved IMovie Clip Integration Into YouTube's Vast Network</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-clandestine-call-collectors-discreet-voice-capture-tools-list-for-2024/"><u>[Updated] Clandestine Call Collectors Discreet Voice Capture Tools List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-why-av1-may-outshine-vp9-in-video-compression-for-2024/"><u>[Updated] Why AV1 May Outshine VP9 in Video Compression for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-gaming-experience-link-xbox-and-steam-with-glossi/"><u>Enhance Gaming Experience - Link Xbox and Steam with GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-picks-superior-quality-xbox-capsules/"><u>Expert Picks: Superior Quality Xbox Capsules</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-microsoft-surfaces-superior-ergonomic-keyboard-features-and-quality/"><u>Expert Review of Microsoft Surface's Superior Ergonomic Keyboard Features and Quality</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphics-problem-no-cards-detected/"><u>Graphics Problem: No Cards Detected</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-asus-rog-phone-7-ultimate-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Asus ROG Phone 7 Ultimate Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-game-youtubes-exciting-new-mini-games/"><u>Step Up Your Game: YouTube's Exciting New Mini Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-gaming-skills-explore-these-top-9-steam-deck-simulators/"><u>Step Up Your Gaming Skills: Explore These Top 9 Steam Deck Simulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-core-attributes-your-game-tablet-should-have/"><u>The Core Attributes Your Game Tablet Should Have</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transitioning-from-sierra-to-legacy-os-el-capitan/"><u>Transitioning From Sierra To Legacy OS - El Capitan</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-to-exceptional-steam-review-writing/"><u>Unlocking the Secrets to Exceptional Steam Review Writing</u></a></li>
 </ul></div>
 

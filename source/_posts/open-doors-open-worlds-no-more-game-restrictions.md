@@ -1,7 +1,7 @@
 ---
 title: "Open Doors, Open Worlds: No More Game Restrictions"
-date: 2024-09-18T02:07:53.533Z
-updated: 2024-09-20T23:42:49.313Z
+date: 2024-10-18T19:01:04.137Z
+updated: 2024-10-25T00:23:20.963Z
 tags:
   - games
 categories:
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -42,11 +55,31 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Platform Exclusives Are Coming to an End
 
@@ -64,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -92,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
  While gamers have all gotten used to platform exclusivity as a kind of default, that doesn't mean all of us were happy about it. I have owned at least one console in each generation, but couldn't afford to buy the other consoles released in that generation. And that meant missing out on certain games that were only available on specific platforms.
 
 ![The PlayStation icons picked out in neon lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/playstation-logos-in-neon.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  mkfilm/[Shutterstock](https://www.shutterstock.com/image-illustration/geometry-neon-lights-room-modern-blue-1933780073)
 
@@ -119,5 +145,18 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-leaders-engineering-digital-marvel-realms/"><u>[New] In 2024, Leaders Engineering Digital Marvel Realms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-the-craft-of-engaging-your-viewers-from-the-start/"><u>[New] Mastering the Craft of Engaging Your Viewers From The Start</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dive-into-the-deep-end-of-facebook-meme-culture/"><u>[Updated] 2024 Approved Dive Into The Deep End of Facebook Meme Culture</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-engaging-facebook-video-ads/"><u>[Updated] Mastering the Art of Engaging Facebook Video Ads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-spectrum-of-sharing-navigating-video-distribution-on-fb-for-2024/"><u>[Updated] The Spectrum of Sharing Navigating Video Distribution on FB for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comment-recuperer-les-donnees-de-navigation-effacees-dans-firefox/"><u>Comment Récupérer Les Données De Navigation Effacées Dans Firefox ?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-heat-levels-for-rig-performance-in-games/"><u>Optimal Heat Levels for Rig Performance in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-passion-with-indie-games-from-itchio/"><u>Reigniting Passion with Indie Games From Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-exploring-xbox-cloud-play/"><u>The Future of Gaming: Exploring Xbox Cloud Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-steam-deck-key-usage/"><u>The Ultimate Guide to Steam Deck Key Usage</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-15-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 15</u></a></li>
+</ul></div>
 

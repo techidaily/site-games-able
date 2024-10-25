@@ -1,7 +1,7 @@
 ---
 title: Guidelines for a Kid-Friendly Playstation 5 Setup
-date: 2024-10-14T12:55:05.424Z
-updated: 2024-10-18T16:47:14.144Z
+date: 2024-10-20T21:12:37.141Z
+updated: 2024-10-25T04:20:03.914Z
 tags:
   - games
 categories:
@@ -47,13 +47,6 @@ Here’s how to set up a child account:
 
  Next, you have to add the child to your PS5\. To do that, you must[create an account on your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) using the email you provided for the child.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Preset or Custom Content Restriction Levels
 
  Now you have a child account added to the PS5; you can set the restriction level you want.
@@ -63,15 +56,16 @@ Follow these steps:
 1. Go to**Settings > Family and Parental Controls** , choose your child’s account from the list, and select**Parental Controls** .  
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
-![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
-3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
+3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
 
 4. Choose**Confirm** when you’re finished.
 
@@ -85,13 +79,6 @@ You can set age restrictions for the following options:
 * Online content.
 
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set Up Console Restrictions and User Passcodes
 
@@ -108,6 +95,19 @@ Here’s how to set up the console restrictions passcode:
 3. Select**Change Your Console Restriction Passcode** .  
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -135,10 +135,10 @@ Here’s how to set up the console restrictions passcode:
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Enforce Playtime Limits
@@ -154,20 +154,28 @@ Here’s how to do it:
 ![Playtime Settings toggle on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-settings-toggle-on-the-ps5.JPG)
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Playtime Duration dialogue window on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-duration-dialogue-window-on-the-ps5.JPG)
 6. Choose**Save** on the right-hand side of the page when you’re done.
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The PS5 Offers Extensive Safety Provisions for Children
 
@@ -192,22 +200,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-def-zoom-manipulator/"><u>[New] High-Def Zoom Manipulator</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-flashy-flights-prime-pc-and-mobile-game-hits/"><u>[New] In 2024, Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-becoming-a-green-mastermind-with-kinemasters-gs-knowledge/"><u>[Updated] In 2024, Becoming a Green Mastermind with KineMaster's GS Knowledge</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tips-for-reducing-unsteady-shots/"><u>[Updated] Tips for Reducing Unsteady Shots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-in-frame-creation-improve-performance-and-ensure-fluid-animation/"><u>Artificial Intelligence in Frame Creation: Improve Performance and Ensure Fluid Animation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/choose-your-champion-unveiling-distinct-features-of-iphone-15-pro-max-vs-samsung-galaxy-s2n-ultra/"><u>Choose Your Champion: Unveiling Distinct Features of iPhone 15 Pro Max Vs. Samsung Galaxy S2n Ultra</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2016-files-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2016 files document electronically</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-pc-performance-5-ways-to-reduce-steams-memory-usage/"><u>Mastering PC Performance: 5 Ways to Reduce Steam's Memory Usage</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-stable-voice-chats-advanced-solutions-for-fixing-discords-audio-dropouts-updated-guide/"><u>Mastering Stable Voice Chats: Advanced Solutions for Fixing Discord's Audio Dropouts - Updated Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/mending-roblox-decode-of-error-262/"><u>Mending Roblox: Decode of Error 262</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-specifications-choosing-a-game-ready-display/"><u>Navigating Specifications: Choosing a Game-Ready Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/prepping-your-steam-deck-for-sd-insertion/"><u>Prepping Your Steam Deck for SD Insertion</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-reducing-energy-consumption-on-xbox-joystick/"><u>Strategies for Reducing Energy Consumption on Xbox Joystick</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-toxicity-report-mechanism-for-xbox-gamers/"><u>Tackling Toxicity: Report Mechanism for Xbox Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-blueprint-for-thriving-gaming-worlds-in-helldivers-2/"><u>The Blueprint for Thriving Gaming Worlds in Helldivers 2</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-how-to-spot-top-rated-economical-radar-detectors-like-the-passport-s55/"><u>Ultimate Guide: How to Spot Top-Rated, Economical Radar Detectors Like the Passport S55</u></a></li>
-<li><a href="https://games-able.techidaily.com/vintagescreen-minis-handheld-retro-thrills/"><u>VintageScreen Minis: Handheld Retro Thrills</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-leading-resources-for-premium-vector-data/"><u>[New] 10 Leading Resources for Premium Vector Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/all-round-kinetics-examination-2023-for-2024/"><u>All-Round Kinetics Examination 2023 for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-locate-app-on-iphone-a-guide-to-finding-missing-mobile-programs/"><u>Can't Locate App on iPhone? A Guide to Finding Missing Mobile Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/friendly-fire-top-cross-device-games-to-bond-over/"><u>Friendly Fire? Top Cross-Device Games to Bond Over</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/insider-look-revolutionary-ai-hardware-at-computex/"><u>Insider Look: Revolutionary AI Hardware at Computex</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-playing-not-cluttering-retro-gaming-simplified-using-the-chdman-technique/"><u>Keep Playing, Not Cluttering: Retro Gaming Simplified Using the ChDMan Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-considerations-8-steps-for-optimal-cpu-cooler-purchase/"><u>Key Considerations: 8 Steps for Optimal CPU Cooler Purchase</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/live-sound-excellence-unveiled-our-top-picks-for-streaming-quality-for-2024/"><u>Live Sound Excellence Unveiled Our Top Picks for Streaming Quality for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-windows-11-pointer-more-visible-and-tactile/"><u>Making Your Windows 11 Pointer More Visible and Tactile</u></a></li>
+<li><a href="https://games-able.techidaily.com/synchronizing-online-interactions-minimizing-delay-in-data-transmission/"><u>Synchronizing Online Interactions: Minimizing Delay in Data Transmission</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-gpt-decoded-essential-knowledge-for-families/"><u>The GPT Decoded: Essential Knowledge for Families</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-soundtrack-of-stills-visual-audio-crafting-for-2024/"><u>The Soundtrack of Stills Visual-Audio Crafting for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-pc-potential-through-component-match/"><u>Unlocking Your PC Potential Through Component Match</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-palworld-now/"><u>What You Need to Know About PalWorld Now</u></a></li>
 </ul></div>
 

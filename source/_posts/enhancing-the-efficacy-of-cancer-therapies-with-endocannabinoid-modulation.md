@@ -1,7 +1,7 @@
 ---
 title: Enhancing the Efficacy of Cancer Therapies with Endocannabinoid Modulation
-date: 2024-10-12T13:04:04.891Z
-updated: 2024-10-18T20:58:40.470Z
+date: 2024-10-19T05:06:58.237Z
+updated: 2024-10-25T00:22:54.984Z
 tags:
   - games
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Does an Assist Controller Do on the PS5?
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do I Set Up an Assist Controller on My PS5?
 
  There are a few things to note before getting started. Firstly, the ability to connect an assist controller to your PS5 was introduced in an update. So, if you haven’t[enabled auto-updates on your PS5](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) yet, go ahead and update your PS5 manually to the latest version.
@@ -62,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
  Once you have ticked the boxes above, you are ready to begin. The process is very similar to[setting up and using the copilot feature on Xbox](https://www.makeuseof.com/how-to-set-up-and-use-co-pilot-on-xbox-series-xs/) , so if you have experience with that, it should be intuitive.
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Start by connecting a controller and logging into a user profile. From there, open the settings by pressing the**gear icon** in the top right corner.
 
@@ -79,26 +79,26 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
@@ -122,18 +122,17 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-simplified-screen-recording-for-gamers/"><u>[New] In 2024, Simplified Screen Recording for Gamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-techniques-for-ensuring-unbiased-decision-making/"><u>[New] Techniques For Ensuring Unbiased Decision-Making</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-transforming-video-capture-mastering-vimeos-tech/"><u>2024 Approved Transforming Video Capture Mastering Vimeo's Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-unable-to-sync-files-error-on-steam-for-windows/"><u>How to Fix the Unable to Sync Files Error on Steam for Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-silence-your-xbox-series-xs-or-one-console-and-controller/"><u>How to Silence Your Xbox Series X|S or One Console and Controller</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Edge 40 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-cost-entertainment-with-xbox-discounts/"><u>No-Cost Entertainment with Xbox Discounts</u></a></li>
-<li><a href="https://games-able.techidaily.com/practical-guide-inserting-sd-into-steam-deck/"><u>Practical Guide: Inserting SD Into Steam Deck</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-upside-down-screens-on-windows-10-os/"><u>Rectifying Upside-Down Screens on Windows 10 OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-integration-of-steam-images-in-workflows/"><u>Seamless Integration of Steam Images in Workflows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-escort-max-360-top-features-including-gps-technology/"><u>The Ultimate Guide to the Escort Max 360: Top Features Including GPS Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-underplaying-ray-tracing-can-lead-to-better-games/"><u>Why Underplaying Ray Tracing Can Lead to Better Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-10-viral-tweets-dominating-social-media/"><u>[New] In 2024, 10 Viral Tweets Dominating Social Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-tailoring-your-podcast-content-with-seo-in-mind/"><u>[New] In 2024, Tailoring Your Podcast Content with SEO in Mind</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweeted-cinematics-from-video-to-wavmp3/"><u>[Updated] 2024 Approved Tweeted Cinematics From Video to WAV/MP3</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-hardware-analysis-by-tom-stay-ahead-of-technology-trends/"><u>Expert Hardware Analysis by Tom - Stay Ahead of Technology Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-future-of-gaming-with-amd-rdna-35/"><u>Exploring the Future of Gaming with AMD RDNA 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedin-has-added-games-but-heres-why-you-shouldnt-play-them/"><u>LinkedIn Has Added Games, but Here's Why You Shouldn't Play Them</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximizing-your-education-perks-steps-to-obtain-a-microsoft-student-reduction/"><u>Maximizing Your Education Perks: Steps to Obtain a Microsoft Student Reduction</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-disabling-anonymous-numbers-on-your-iphone/"><u>Step-by-Step Guide: Disabling Anonymous Numbers on Your iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-quiet-voice-use-in-multiplayer-play/"><u>Strategies for Quiet Voice Use in Multiplayer Play</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintessential-selection-top-five-complimentary-cybersecurity-defenders-against-malware/"><u>The Quintessential Selection: Top Five Complimentary Cybersecurity Defenders Against Malware</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncovering-quantum-hdrs-core-principles/"><u>Uncovering Quantum HDR's Core Principles</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-riots-user-name-revision-procedures/"><u>Understanding Riot's User Name Revision Procedures</u></a></li>
 </ul></div>
 

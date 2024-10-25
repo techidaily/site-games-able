@@ -1,7 +1,7 @@
 ---
 title: What Does Meta Mean in Gaming? And Should You Obey It?
-date: 2024-10-18T01:11:49.637Z
-updated: 2024-10-18T17:21:25.056Z
+date: 2024-10-17T23:51:20.594Z
+updated: 2024-10-25T04:19:37.394Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f78a12d6fa260b60593d7d84df0572fbc03e543ca
 
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 OpenAI / MakeUseOf
 
  Designing a multiplayer game is tricky. Ideally, the game should provide players with lots of options at their disposal, giving them ways to develop their own play styles.
@@ -53,22 +60,15 @@ OpenAI / MakeUseOf
 
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Are Metas Good or Bad for Gaming?
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
@@ -76,13 +76,6 @@ OpenAI / MakeUseOf
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
 
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How Metas Can Help Games
 
@@ -96,6 +89,13 @@ OpenAI / MakeUseOf
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Metas Can Harm Games
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
@@ -105,13 +105,6 @@ OpenAI / MakeUseOf
  The card was so good that people would add it as a "must-have" no matter what archetype their deck was. And people would concede if their opponent managed to play Dr. Boom and they hadn't drawn it yet. Deck builders had to ask themselves if their deck could handle Dr. Boom; if it couldn't, it was a bad deck.
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Follow the Meta in Games?
 
@@ -130,6 +123,13 @@ OpenAI / MakeUseOf
  If you want to dig into the metas of the games you enjoy (or want to learn more about) a great place to start is gaming forums. Check if your game has a dedicated subreddit on reddit.com or elsewhere, like in forums on the developer's website, Steam, or so on. Gaming blogs aren't bad either, but you'll be hard-pressed to find any publication as committed to the meta-analysis of a single game as that game's subreddit.
 
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### But Sometimes Following the Meta Kills the Fun
 
@@ -160,22 +160,18 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-fb-video-downloads-on-linux-and-macos/"><u>[New] 2024 Approved Mastering FB Video Downloads on Linux & macOS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unraveling-virtual-realitys-interactive-gear/"><u>[New] 2024 Approved Unraveling Virtual Reality's Interactive Gear</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-bridging-language-gaps-with-translated-subs-in-igtv-for-2024/"><u>[New] Bridging Language Gaps with Translated Subs in IGTV for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-camera-compendium-best-in-class-filmmaking-gear-for-2024/"><u>[New] Camera Compendium Best in Class Filmmaking Gear for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-stealthy-techniques-to-skip-online-classroom-vids/"><u>[New] Stealthy Techniques to Skip Online Classroom Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-voicing-it-up-how-to-save-on-iphone/"><u>[New] Voicing It Up How to Save on iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/consider-the-advantages-of-upgrading-to-xbox-game-pass-ultimate/"><u>Consider the Advantages of Upgrading to Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ning-the-income-stream-for-t-series-youtube-channel/"><u>Examining the Income Stream for T-Series YouTube Channel</u></a></li>
-<li><a href="https://games-able.techidaily.com/fun-for-friends-or-foes-15-best-split-screen-titles-on-phone/"><u>Fun for Friends or Foes: 15 Best Split-Screen Titles on Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-gpt-4-to-the-masses-inside-look-at-its-easy-and-effective-deployment/"><u>Introducing GPT-4 to the Masses - Inside Look at Its Easy and Effective Deployment</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-a-mechanical-keyboard-crucial-for-games/"><u>Is a Mechanical Keyboard Crucial for Games?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-xbox-game-pass-benefits/"><u>Navigating Through Xbox Game Pass Benefits</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-must-have-3d-video-maker-tools-for-stunning-visuals/"><u>New Must-Have 3D Video Maker Tools for Stunning Visuals</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-your-networks-speed-techniques-for-lowering-high-response-times/"><u>Optimizing Your Network's Speed: Techniques for Lowering High Response Times</u></a></li>
-<li><a href="https://games-able.techidaily.com/six-witty-wordplay-wins-friends-favorite-chat-games/"><u>Six Witty Wordplay Wins: Friends' Favorite Chat Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-your-twitch-content-access-top-5-tools/"><u>Streamlining Your Twitch Content Access: Top 5 Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/unparalleled-couch-co-op-gaming-16-best-for-series-consoles/"><u>Unparalleled Couch Co-Op Gaming: 16 Best for Series Consoles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-recording-revelry-capturing-the-thrill-of-sports-games/"><u>[New] In 2024, Recording Revelry Capturing the Thrill of Sports Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-social-media-synergy-merging-instagram-and-facebook-feeds-for-2024/"><u>[New] Social Media Synergy Merging Instagram & Facebook Feeds for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/align-screen-horizons-uniformly/"><u>Align Screen Horizons Uniformly</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-observations-by-game-bar-on-os-11/"><u>Constraining Background Observations by Game Bar on OS 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-steams-image-archive-habits/"><u>Discovering Steam's Image Archive Habits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-obscure-to-popular-explore-these-top-5-ai-driven-book-discovery-platforms/"><u>From Obscure to Popular: Explore These Top 5 AI-Driven Book Discovery Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-huawei-p60-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Huawei P60 Phones? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-the-nyt-relationship-chess-game/"><u>How to Play the NYT Relationship Chess Game</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-phantom-v-fold-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-ultimate-video-twist-guide-from-portrait-to-panoramic-on-instagram/"><u>In 2024, The Ultimate Video Twist Guide From Portrait to Panoramic on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mp4mpeg-audio-extraction-tool/"><u>MP4/MPEG Audio Extraction Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-no-cost-gaming-experiences-worth-exploring/"><u>Six No-Cost Gaming Experiences Worth Exploring</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranked-fitness-wearables-a-comprehensive-guide/"><u>Top-Ranked Fitness Wearables : A Comprehensive Guide</u></a></li>
 </ul></div>
 

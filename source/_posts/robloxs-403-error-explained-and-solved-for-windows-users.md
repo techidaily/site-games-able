@@ -1,7 +1,7 @@
 ---
 title: Roblox's 403 Error Explained & Solved for Windows Users
-date: 2024-09-13T16:18:56.476Z
-updated: 2024-09-20T17:33:09.642Z
+date: 2024-10-18T18:05:09.905Z
+updated: 2024-10-24T18:42:16.776Z
 tags:
   - games
 categories:
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![Roblox folder in local folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-folder.jpg)
 5. Select everything inside by pressing the**Ctrl + A** hotkeys and then pressing**Shift + Delete** to delete the selected content permanently.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 That's it. Now restart your computer and check for the issue.
 
 ## 3\. Disable Any Active VPN Connections
@@ -87,10 +94,10 @@ You can run an SFC scan by following the below steps:
 5. Wait until the scan is complete. This may take a while, so be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer and then check for the problem. If the issue persists, you will have to run the Deployment Image Servicing and Management command line tool to restore the system files and repair any corrupted system images. Here's how:
@@ -103,10 +110,10 @@ Dism.exe /online /cleanup-image /restorehealth`
 After the scan is complete, check for the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Allow Roblox to Run Through Firewall
@@ -114,6 +121,13 @@ After the scan is complete, check for the issue.
  Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Switch to Google DNS
 
@@ -129,13 +143,6 @@ After the scan is complete, check for the issue.
 6. Type**8.8.8.8** in the**Preferred DNS server** box and**8.8.4.4** in the**Alternate** **DNS server** box.  
 ![Switching to the Google Public DNS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Public-DNS.jpg)
 7. Click**OK** to save the settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Highlight the**Internet Protocol Version 6 (TCP/IPv6)** and select**Properties.**
 9. Type**2001:4860:4860::8888** in the**Preferred DNS server** box and**2001:4860:4860::8844** in the**Alternate DNS server** box.
@@ -154,10 +161,10 @@ After the scan is complete, check for the issue.
 ![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Similary, give full control to**HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
@@ -179,5 +186,22 @@ After the scan is complete, check for the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-expert-advice-choosing-exceptional-videographers/"><u>[New] 2024 Approved Expert Advice Choosing Exceptional Videographers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-from-novice-to-pro-the-complete-creator-hub-guide/"><u>[Updated] 2024 Approved From Novice to Pro The Complete Creator Hub Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-8-best-youtube-video-promotion-services-real/"><u>[Updated] 8 Best Youtube Video Promotion Services (Real)</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-new-ps5-slim-essential-info/"><u>Discover the New PS5 Slim - Essential Info</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-4-must-visit-achievement-resources/"><u>Enhance Performance: 4 Must-Visit Achievement Resources</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-14-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 14</u></a></li>
+<li><a href="https://games-able.techidaily.com/masterful-joy-con-and-pro-controller-sets-the-ultimate-choice-of-2024/"><u>Masterful Joy-Con & Pro Controller Sets: The Ultimate Choice of 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-video-streams-across-networks-using-vlc/"><u>Navigating Video Streams Across Networks Using VLC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/primary-record-breakdown-and-supplemental-choices-for-2024/"><u>Primary Record Breakdown and Supplemental Choices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-ps4-connection-on-windows-against-disconnection/"><u>Securing PS4 Connection on Windows Against Disconnection</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-solutions-resolving-directx-issues-in-fifa-19-without-a-hitch/"><u>Simple Solutions: Resolving DirectX Issues in FIFA 19 Without a Hitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/terminal-play-navigating-old-school-gaming-worlds/"><u>Terminal Play: Navigating Old-School Gaming Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-absence-of-a-disc-drive-in-series-s-explained/"><u>The Absence of a Disc Drive in Series S Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/walletfriendly-27m2v-mini-led-monitor/"><u>WalletFriendly 27M2V Mini-LED Monitor</u></a></li>
+</ul></div>
 

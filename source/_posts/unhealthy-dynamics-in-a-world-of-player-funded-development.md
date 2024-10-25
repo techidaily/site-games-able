@@ -1,7 +1,7 @@
 ---
 title: Unhealthy Dynamics in a World of Player-Funded Development
-date: 2024-10-13T19:47:07.651Z
-updated: 2024-10-19T12:09:12.341Z
+date: 2024-10-19T04:55:40.936Z
+updated: 2024-10-24T22:59:59.085Z
 tags:
   - games
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
@@ -42,6 +42,19 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -50,23 +63,9 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -85,15 +84,22 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -132,24 +138,24 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-capture-the-moment-innovative-approaches-to-live-video-download/"><u>[New] 2024 Approved Capture the Moment Innovative Approaches to Live Video Download</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-peer-reviewed-best-action-replay-tech/"><u>[New] In 2024, Peer-Reviewed Best Action Replay Tech</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-smartphone-solutions-top-voice-changer-applications-for-2024/"><u>[New] Smartphone Solutions Top Voice Changer Applications for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-need-for-a-high-steam-rank/"><u>Evaluating the Need for a High Steam Rank</u></a></li>
-<li><a href="https://games-able.techidaily.com/geforce-now-pass-is-it-just-another-cloud-gaming-hype/"><u>GeForce Now Pass: Is It Just Another Cloud Gaming Hype?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-customize-win11-connection-protocols/"><u>How to Customize Win11 Connection Protocols</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-s24-ultra-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy S24 Ultra online without jailbreak</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/java-gaming-review-a-focused-look-at-best-aspects/"><u>Java Gaming Review: A Focused Look at Best Aspects</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-historical-gems-with-emudeck-on-your-steam-deck/"><u>Play Historical Gems with EmuDeck on Your Steam Deck</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-8t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 8T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/splurge-on-spending-less-top-value-1440p-gaming-monitors/"><u>Splurge on Spending Less: Top Value 1440P Gaming Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-inevitable-rise-of-gpu-prices-looms-near/"><u>The Inevitable Rise of GPU Prices Looms Near</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-next-generation-in-vintage-games-with-the-help-of-pi/"><u>The Next Generation in Vintage Games with the Help of Pi</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-getting-more-from-playstation-5/"><u>The Ultimate Guide to Getting More From PlayStation 5</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unravel-the-secrets-of-online-finnish-proficiency/"><u>Unravel The Secrets of Online Finnish Proficiency</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-apples-arcade-bests-strategies-for-game-lovers/"><u>Unraveling Apple's Arcade Bests: Strategies for Game-Lovers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-ken-burns-effect-in-final-cut-pro-tips-tricks-and-best-practices/"><u>Updated The Ultimate Guide to Ken Burns Effect in Final Cut Pro Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-the-art-of-monetization-with-ajey-carryminati/"><u>[New] Mastering the Art of Monetization with Ajey (CarryMinati)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-screen-captures-galore-expert-techniques-for-twitter-visuals/"><u>[Updated] Screen Captures Galore Expert Techniques for Twitter Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-the-magic-back-top-7-revival-candidates-from-activision-blizzard/"><u>Bring the Magic Back: Top 7 Revival Candidates From Activision Blizzard</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-public-support-and-morale/"><u>Building Public Support and Morale</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-unstable-mouse-wheel-performance/"><u>Correcting Unstable Mouse Wheel Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deciphering-and-fixing-local-steam-client-communication-breakdown-your-ultimate-guide/"><u>Deciphering and Fixing Local Steam Client Communication Breakdown - Your Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-key-gaming-hardware-features/"><u>Decoding Key Gaming Hardware Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-steams-ultimate-display/"><u>Delving Into Steam's Ultimate Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-tech-tussle-which-cpu-wins-the-game/"><u>Engage in Tech Tussle: Which CPU Wins the Game?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-logitech-f710-driver-problems-in-windows-11-10-8-and-7/"><u>Resolving Logitech F710 Driver Problems in Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-your-games-home-taking-control/"><u>Taking Your Games Home, Taking Control</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/the-end-of-the-road-for-printer-errors-with-windows-update/"><u>The End of the Road for Printer Errors with Windows Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essentials-for-mastering-palworld/"><u>The Essentials for Mastering PalWorld</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-x-flip-by-fonelab-android-recover-video/"><u>The way to get back lost videos from X Flip</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-fix-or-replace-a-broken-nintendo-switch/"><u>Troubleshooting: Fix or Replace a Broken Nintendo Switch</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>Updated In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-widgets-configuration-the-triad-approach/"><u>Windows 11 Widgets Configuration: The Triad Approach</u></a></li>
 </ul></div>
 

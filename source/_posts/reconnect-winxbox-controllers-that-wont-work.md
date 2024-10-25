@@ -1,7 +1,7 @@
 ---
 title: "Reconnect: WinXbox Controllers That Won't Work"
-date: 2024-10-12T01:13:10.985Z
-updated: 2024-10-18T18:27:40.008Z
+date: 2024-10-19T00:54:44.884Z
+updated: 2024-10-24T16:10:51.755Z
 tags:
   - games
 categories:
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Scan for Hardware Changes
 
  If unplugging and plugging the controller proves ineffective, you can scan your system for hardware changes using Device Manager. To do so, follow these steps:
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
  Following that, your controller should appear in the Device Manager window and work as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Relevant Window Troubleshooters
@@ -77,10 +70,16 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
@@ -93,10 +92,10 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After running the above troubleshooter, try using your controller again.
@@ -110,6 +109,13 @@ To run the Hardware and Devices troubleshooter, use these steps:
 3. Select**Search automatically for drivers** .
 4. Select the**Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Windows to check for any pending updates for the driver and install them.
 
@@ -142,19 +148,20 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-perfecting-the-art-of-facebook-live-recording-for-2024/"><u>[New] Perfecting the Art of Facebook Live Recording for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[Updated] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-attention-stirrer-supreme/"><u>2024 Approved Attention Stirrer Supreme</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-v30-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme V30 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/evaluation-of-fb-video-shapes-for-2024/"><u>Evaluation of FB Video Shapes for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-s17t-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo S17t 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-troubleshoot-and-repair-copypaste-malfunctions-in-windows/"><u>How to Troubleshoot and Repair Copy/Paste Malfunctions in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metaversal-motivation-a-curated-list-of-inspiring-quotes/"><u>Metaversal Motivation A Curated List of Inspiring Quotes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pivotal-data-analysis-excel-delivers-no-ai-matches/"><u>Pivotal Data Analysis Excel Delivers No AI Matches</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-sound-streaming-via-headphones/"><u>PlayStation Sound Streaming via Headphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-matches-explore-these-6-innovative-chess-tools/"><u>Revolutionize Your Matches: Explore These 6 Innovative Chess Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-gaming-experience-debate-ps5-vs-thrifty-pc/"><u>The Gaming Experience Debate: PS5 Vs. Thrifty PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-great-game-debate-sonys-console-versus-budget-pc/"><u>The Great Game Debate: Sony's Console Versus Budget PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-simulating-your-favorite-games-on-mac/"><u>The Ultimate Guide to Simulating Your Favorite Games on Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-turning-snapchat-into-cash-secrets-revealed/"><u>[New] 2024 Approved Turning Snapchat Into Cash Secrets Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-conversations-on-messenger-a-comprehensive-how-to/"><u>[New] In 2024, Capturing Conversations on Messenger A Comprehensive How-To</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[New] In 2024, The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-ig-beats-unleashed-an-insiders-guide-to-music-integration-for-2024/"><u>[Updated] IG Beats Unleashed An Insider’s Guide to Music Integration for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1726029657380-clipchamp/"><u>「Clipchamp」を使用したビデオカットテクニックとその仕組み</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-12-pro-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 12 Pro to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-essentials-of-hybrid-dual-capable-displays/"><u>Investigating the Essentials of Hybrid Dual-Capable Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-ai-innovation-the-emergence-of-dlss-35/"><u>Nvidia's AI Innovation: The Emergence of DLSS 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/restore-peace-to-your-gamespace-with-epic-launcher-tweaks/"><u>Restore Peace to Your Gamespace with Epic Launcher Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-varied-chess-worlds-with-these-6-apps/"><u>Step Into Varied Chess Worlds with These 6 Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfolding-new-horizons-experience-additional-fallout-games/"><u>Unfolding New Horizons: Experience Additional Fallout Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/vertical-victory-ultimate-gamers-chair-guide/"><u>Vertical Victory: Ultimate Gamers' Chair Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/whats-different-in-the-new-ps5-model/"><u>What's Different in the New PS5 Model?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Xbox Controllers Refuse to Connect - Fixes for PC
-date: 2024-09-16T01:07:48.539Z
-updated: 2024-09-21T01:51:39.813Z
+date: 2024-10-18T20:56:04.804Z
+updated: 2024-10-24T17:30:17.570Z
 tags:
   - games
 categories:
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of a paired Xbox Wireless Controller on a Windows PC with the option to Remove Device highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3219.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you will need to re-pair your Xbox Wireless Controller to your PC. To do this follow these steps:
 
 * Hold the**Pair button** down on your Xbox Wireless Controller for three seconds.
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 * Choose**Bluetooth** , and select**Xbox Wireless Controller** as soon as it becomes available.
 
 ![A screenshot of the Add A Device option available through the Bluetooth settings of a Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3200.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If done correctly, your PC will then re-pair with your Xbox Wireless Controller over Bluetooth and should remain connected for the foreseeable future.
 
@@ -80,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of fixed Bluetooth issues via the Windows Bluetooth Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3204.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once completed, the Bluetooth troubleshooter will inform you of any issues that have been detected and amended. If any issues have been found and fixed, you should try to reconnect your Xbox Wireless Controller over Bluetooth to see if your connectivity issues are also fixed.
 
 ## 4\. Restart Your Xbox Wireless Controller and PC
@@ -94,22 +115,15 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 ![A photograph of a white Xbox Series X controller with a neon pink reflection behind](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/middle-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With your PC and Xbox Wireless Controller up and running after a restart, you should try to connect your controller to your PC again.
 
  If your Xbox Wireless Controller still won't connect to your PC, a fault with your hardware may be the cause. In this case, you should see if other devices can connect to your PC. If they can, your controller is likely to blame. Luckily, you can still get a faulty Xbox Wireless Controller replaced through[the official Microsoft site](https://support.xbox.com/en-us/help/hardware-network/controller/controller-warranty) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Guarantee PC and Console Gaming With an Xbox Wireless Controller
 
@@ -128,5 +142,19 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-expertly-curated-facebooks-1-10-plays-for-2024/"><u>[New] Expertly Curated Facebook's #1-#10 Plays for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-kinemaster-edge-mastering-video-segmentation-and-transitioning-for-2024/"><u>[New] The Kinemaster Edge Mastering Video Segmentation and Transitioning for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-ace-the-social-game-10-essential-insta-tools-reviewed/"><u>[Updated] In 2024, Ace the Social Game 10 Essential Insta-Tools Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/economic-edition-top-11-game-sites-offering-deals-on-discounted-titles/"><u>Economic Edition: Top 11 Game Sites Offering Deals on Discounted Titles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2010-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2010 Cannot Access the File Error | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashfestival-fun-temporary-cheat-codes-revealed/"><u>FlashFestival Fun: Temporary Cheat Codes Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a79-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A79 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oneplus-ace-2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From OnePlus Ace 2 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-mac-for-switch-adventure/"><u>Jumpstart Your Mac for Switch Adventure</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/level-up-your-farming-life-explore-7-14-mods-for-2024/"><u>Level Up Your Farming Life - Explore #7-14 Mods for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-entering-online-subscription-for-ps5-games/"><u>Re-Entering Online Subscription for PS5 Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-utorrent-top-7-solutions-when-it-stops-responding/"><u>Troubleshooting Utorrent: Top 7 Solutions When It Stops Responding</u></a></li>
+</ul></div>
 

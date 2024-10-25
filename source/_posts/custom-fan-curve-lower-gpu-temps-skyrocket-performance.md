@@ -1,7 +1,7 @@
 ---
 title: "Custom Fan Curve: Lower GPU Temps, Skyrocket Performance"
-date: 2024-10-15T00:11:00.486Z
-updated: 2024-10-19T00:56:07.907Z
+date: 2024-10-18T03:07:14.476Z
+updated: 2024-10-24T19:22:14.510Z
 tags:
   - games
 categories:
@@ -39,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  Graphics cards rarely reach really high fan speeds, often reaching the thermal throttling threshold before it hits 80%. This could be because manufacturers don't want their graphics cards to be loud or for the fans to wear out prematurely.[GPU thermal throttling lowers performance](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) , and higher temperatures lower your GPU's lifespan, a lose-lose situation. Similar to CPU throttling, GPU throttling leads to random FPS drops, lag spikes, artifacts, screen tearing, and other issues when gaming as your hardware struggles to keep up with the in-game processing requirements.
@@ -60,22 +47,29 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
 
  If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of[Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
@@ -84,13 +78,6 @@ Jhet Borja/MakeUseOf
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
@@ -114,10 +101,10 @@ Jhet Borja/MakeUseOf
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
@@ -132,15 +119,28 @@ Jhet Borja/MakeUseOf
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
@@ -168,22 +168,16 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-record-and-evaluate-speech-files/"><u>[New] Record & Evaluate Speech Files</u></a></li>
-<li><a href="https://win-top.techidaily.com/2024windows4/"><u>2024年版：Windows上で消失したデータを4方法で再生する -【緊急ガイド】</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-or-classic-swings-for-games/"><u>Cutting Edge or Classic Swings for Games?</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-global-gaming-with-rom-language-tweaks/"><u>Embrace Global Gaming with ROM Language Tweaks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/from-camera-to-channel-a-thoroughly-researched-video-instruction-manual-for-2024/"><u>From Camera to Channel A Thoroughly Researched Video Instruction Manual for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oppo-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Oppo Find X7</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-v27-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo V27 Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-perfect-guide-for-linking-instagram-to-tiktok/"><u>In 2024, Perfect Guide for Linking Instagram to TikTok</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-gaming-wonders-revisit-nintendo-classics/"><u>IOS Gaming Wonders: Revisit Nintendo Classics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/meilleures-logiciels-de-montage-videos-libres-facile-a-utiliser-sur-windows-1187-et-mac-pour-clipping-video/"><u>Meilleures Logiciels De Montage Videos Libres: Facile À Utiliser Sur Windows 11/8/7 Et Mac Pour Clipping Vidéo</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-peak-of-switch-controls/"><u>Navigate the Peak of Switch Controls</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-in-play-setting-up-your-steam-launchers/"><u>Precision in Play: Setting Up Your Steam Launchers</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-8-lightweight-game-boxes-for-android-on-pcmac/"><u>Premium 8 Lightweight Game Boxes for Android on PC/Mac</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/reassert-true-look-corrected-video-error/"><u>Reassert True Look Corrected Video Error</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-clear-cut-guide-to-high-definition-twitter-videos/"><u>The Clear-Cut Guide to High Definition Twitter Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-top-5-frustrating-foddian-games-to-test-your-skills/"><u>The Top 5 Frustrating Foddian Games to Test Your Skills</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-30-ps3-games-on-pc-ultimate-emulator-guide/"><u>Top 30 PS3 Games on PC: Ultimate Emulator Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-brilliant-strategies-for-instant-signature-cleanup/"><u>[Updated] Brilliant Strategies for Instant Signature Cleanup</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-steams-user-algorithm-quickly/"><u>Decode Steam's User Algorithm Quickly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco F5 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-where-steams-screen-grabs-live/"><u>Investigating Where Steam's Screen Grabs Live</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-repair-vs-exchange-of-a-switch/"><u>Navigating the Repair Vs. Exchange of a Switch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pixel-9-leads-the-pack-as-the-premier-android-device-offering-life-saving-satellite-emergency-calls/"><u>Pixel 9 Leads the Pack as the Premier Android Device Offering Life-Saving Satellite Emergency Calls</u></a></li>
+<li><a href="https://games-able.techidaily.com/post-subscription-destiny-of-playstation-online-content/"><u>Post-Subscription Destiny of PlayStation Online Content</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rapid-and-hassle-free-guide-to-acquiring-your-wacom-graphics-tablet-drivers/"><u>Rapid and Hassle-Free Guide to Acquiring Your Wacom Graphics Tablet Drivers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/synergy-and-speed-a-roundup-of-elite-gaming-mice-and-keyboards-2024/"><u>Synergy & Speed: A Roundup of Elite Gaming Mice and Keyboards 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-elgoog-phenomenon-a-thorough-review-of-the-ultimate-reflective-site/"><u>The ElgooG Phenomenon: A Thorough Review of the Ultimate Reflective Site</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master System Performance: 5 Techniques to Limit Steam's RAM Usage"
-date: 2024-10-17T06:41:39.662Z
-updated: 2024-10-19T03:18:42.108Z
+date: 2024-10-23T18:16:39.832Z
+updated: 2024-10-24T23:25:09.002Z
 tags:
   - games
 categories:
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
@@ -35,15 +48,28 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
@@ -53,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -71,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/df4c1493c2f3e813888bfc3942921b3c21459900f
 4. Restart Steam after making this change.
 
  This will ease the burden that Steam's web pages have on your available memory.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Enable Low-Performance Mode
 
@@ -103,15 +115,22 @@ steam://open/minigameslist
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -127,13 +146,6 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Ensure that Steam is closed, and then open this .bat file. Steam should launch, looking very similar to the Steam Mini Games List from earlier. This version of Steam is extremely bare-bones. You will be unable to view friends, visit the store, organize screenshots, or check out the news, but you'll be able to run Steam on essentially anything this way.
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
 
@@ -154,24 +166,24 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/utting-through-the-noise-optimal-thumbnail-sizes/"><u>[New] Cutting Through the Noise Optimal Thumbnail Sizes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-get-tech-savvy-expert-guide-for-mac-screen-recording-via-shortcuts-for-2024/"><u>[New] Get Tech-Savvy Expert Guide for Mac Screen Recording via Shortcuts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[New] Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-virtual-symposium-streams/"><u>[Updated] 2024 Approved Virtual Symposium Streams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-boost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>[Updated] Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-creating-captivating-narratives-for-video-blogs/"><u>2024 Approved Creating Captivating Narratives for Video Blogs</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rethinking-gameplay-mavic-air-versus-spark-showdown/"><u>2024 Approved Rethinking Gameplay Mavic Air Versus Spark Showdown</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-steam-decks-best-friend-emulating-games-via-emudeck/"><u>A Steam Deck's Best Friend: Emulating Games via EmuDeck</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-graphics-stalls-error-0x887a0006-in-win10win11/"><u>Eliminate Graphics Stalls (Error 0X887A0006) in Win10/Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-5-insights-the-power-of-classic-portable-games/"><u>Essential 5 Insights: The Power of Classic Portable Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-analysis-top-cards-for-exceptional-xbox-capturing/"><u>Expert Analysis: Top Cards for Exceptional Xbox Capturing</u></a></li>
-<li><a href="https://games-able.techidaily.com/favorite-variety-games-for-multitasking-broadcasters/"><u>Favorite Variety Games for Multitasking Broadcasters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/improve-zoo-call-quality-banish-background-noise/"><u>Improve Zoo Call Quality Banish Background Noise</u></a></li>
-<li><a href="https://games-able.techidaily.com/investment-wise-finding-the-best-economical-1440p-displays-for-gamers/"><u>Investment Wise: Finding the Best Economical 1440P Displays for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-features-to-consider-for-ultimate-gaming-screens/"><u>Key Features to Consider for Ultimate Gaming Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-by-the-seat-of-your-pants-with-classic-psp-on-iphone/"><u>Play by the Seat of Your Pants with Classic PSP on iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-reconnect-with-steam-server-services/"><u>Strategies to Reconnect with Steam Server Services</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-spark-20c-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 20C Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vantage-point-critique/"><u>Vantage Point Critique</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/confundir-idiomas-50-frases-falsas-inglesa-espanola/"><u>Confundir Idiomas: 50 Frases Falsas Inglesa-Española</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/double-down-on-youtube-visibility-2-quick-methods-for-2024/"><u>Double Down on YouTube Visibility (2 Quick Methods) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-7-current-implementations-of-chatgpt-technology/"><u>Exploring 7 Current Implementations of ChatGPT Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-setup-for-intel-thunderbolt-controllers-download-instructions-now/"><u>Hassle-Free Setup for Intel Thunderbolt Controllers - Download Instructions Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-a-sound-decision-on-monitors-avoid-these-errors/"><u>How to Make a Sound Decision on Monitors: Avoid These Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-6-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 6 without Apple Account</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-f23-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo F23 5G Without PUK Codes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-gionee-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Gionee</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-war-ps5-vs-xbox-series-x-battle/"><u>Next Gen Gaming War: PS5 V/S Xbox Series X Battle</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-to-solving-file-creation-fail-error-30005/"><u>Quick Guide to Solving File Creation Fail (Error 30005)</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpening-the-edge-of-your-games-boost-fps-on-pc/"><u>Sharpening the Edge of Your Games: Boost FPS on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-controllers-meet-the-joy-con-world-on-switch/"><u>Sony Controllers Meet the Joy-Con World on Switch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-epochal-transition-scenes/"><u>Techniques for Epochal Transition Scenes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-consoles-face-off-ps5-vs-xbox-sx/"><u>The Ultimate Consoles Face-Off: PS5 V/S Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/todays-must-play-7-spectacenascious-mmos/"><u>Today's Must-Play: 7 Spectacenascious MMOs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-terminal-escapades-for-gamers-on-linux/"><u>Top Terminal Escapades for Gamers on Linux</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-iphone-sound-issues-making-calls-audible-again/"><u>Troubleshooting iPhone Sound Issues: Making Calls Audible Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-realities-collide-ps5-meets-affordable-gaming-pc/"><u>Virtual Realities Collide: PS5 Meets Affordable Gaming PC</u></a></li>
 </ul></div>
 

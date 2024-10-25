@@ -1,7 +1,7 @@
 ---
 title: "Strategizing Your Search: Top Indie Game Picks on Itch.io"
-date: 2024-09-14T22:08:53.019Z
-updated: 2024-09-21T00:35:44.196Z
+date: 2024-10-20T02:24:08.698Z
+updated: 2024-10-25T05:46:22.909Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
@@ -60,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
 
@@ -76,15 +90,22 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Follow Developers
@@ -94,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  Another way to discover developers to follow is by looking at your feed, which shows you recommendations based on your activity on itch.io. I usually switch to the**Featured Games Feed** or**Global Feed** tab to see what is trending based on my interests.
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
@@ -131,5 +145,22 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mr-beasts-wealth-estimated-net-worth/"><u>[New] 2024 Approved Mr. Beast's Wealth Estimated Net Worth</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-essential-guide-to-premium-discord-emoji-tools/"><u>[Updated] In 2024, The Essential Guide to Premium Discord Emoji Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-premier-macos-sierra-tools-for-video-changeovers-for-2024/"><u>[Updated] Premier macOS Sierra Tools for Video Changeovers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-exclusion-dilemma-is-someone-hidden-on-snapchat-for-2024/"><u>[Updated] The Exclusion Dilemma Is Someone Hidden On Snapchat for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-embed-webcam-footage-seamlessly-via-vlc-capture-feature/"><u>2024 Approved Embed Webcam Footage Seamlessly via VLC Capture Feature</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-rebound-creators-range/"><u>2024 Approved Rebound Creators' Range</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-c32-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia C32 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-your-ideal-display-which-surpasses-oled-or-amoled/"><u>Deciding Your Ideal Display: Which Surpasses, OLED or AMOLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-affordable-wired-and-wireless-keys/"><u>Gamer's Guide to Affordable Wired and Wireless Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-like-a-pro-mastering-controller-settings-on-ryujinx/"><u>Gaming Like a Pro: Mastering Controller Settings on Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-fps-amplification-counter-strike-edition/"><u>Strategic FPS Amplification - Counter-Strike Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/streamlining-audio-interpretation-a-comprehensive-guide-for-google/"><u>Streamlining Audio Interpretation A Comprehensive Guide for Google</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-a-new-default-language-in-steam/"><u>Switch to a New Default Language in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-critical-8-aspects-to-evaluate-when-buying-a-cooler/"><u>The Critical 8 Aspects to Evaluate When Buying a Cooler</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-story-of-resolving-fatal-errors-in-arise-an-unreal-engine-4-journey/"><u>The Story of Resolving Fatal Errors in 'Arise': An Unreal Engine 4 Journey</u></a></li>
+</ul></div>
 

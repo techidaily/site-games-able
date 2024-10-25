@@ -1,7 +1,7 @@
 ---
 title: Enhancing Neurological Function with Marijuana's Endocannabinoids
-date: 2024-10-13T16:44:45.941Z
-updated: 2024-10-19T09:08:18.586Z
+date: 2024-10-22T21:09:27.193Z
+updated: 2024-10-25T05:00:55.504Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 
  Using an assist controller on your PS5 allows you to connect two controllers that act like one. If you want to make use of this handy accessibility feature on your PS5 but you’re not sure how to, we’ve got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does an Assist Controller Do on the PS5?
 
  Being able to connect an assist controller to your PS5 is Sony's answer to the copilot feature on Xbox. Using an assist controller is a far different experience than simply connecting two DualSense controllers and calling it a day.
@@ -34,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
  Adding a second controller adds another player, who becomes a player two. An assist controller, however, allows two different controllers to operate the same user profile, so the two controllers behave as one single controller.
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
@@ -56,46 +56,52 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Start by connecting a controller and logging into a user profile. From there, open the settings by pressing the**gear icon** in the top right corner.
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
@@ -122,22 +128,18 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-top-15-science-youtube-channels-to-expand-knowledge/"><u>[Updated] In 2024, Top 15 Science YouTube Channels to Expand Knowledge</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files/"><u>2024 Approved One Frame at a Time How To Extract Images From Windows 10 Movie Files</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-pitch-perfect-promos-mastering-the-art-of-music-in-social-media/"><u>2024 Approved Pitch-Perfect Promos Mastering the Art of Music in Social Media</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smartphone-image-editing-the-best-free-layers-and-tools-guide-top-10/"><u>2024 Approved Smartphone Image Editing - The Best Free Layers & Tools Guide (Top 10)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steam-disconnection-issue-on-pc/"><u>Addressing Steam Disconnection Issue on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/cosmic-crafter-navigating-novel-pc-choices/"><u>Cosmic Crafter: Navigating Novel PC Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-ai-counselors-5-groundbreaking-bots-transforming-mental-health-support/"><u>Discover the Best AI Counselors: 5 Groundbreaking Bots Transforming Mental Health Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-complete-game-displays-in-epics-library/"><u>Ensuring Complete Game Displays in Epic's Library</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-fusing-melodies-to-visuals-in-virtual-space/"><u>In 2024, Fusing Melodies to Visuals in Virtual Space</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-precision-mastering-cs2-on-a-mac-laptop/"><u>Perfecting Precision: Mastering CS2 on a Mac Laptop</u></a></li>
-<li><a href="https://games-able.techidaily.com/preserving-games-on-disk-efficient-chdman-iso-compression-tips/"><u>Preserving Games on Disk: Efficient CHDMAN ISO Compression Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-your-pc-get-an-original-founders-gpu-or-asus-branded-vega/"><u>Should Your PC Get an Original Founder's GPU or Asus-Branded Vega?</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168126928-space-saving-systems-vs-traditional-workstations-make-your-choice/"><u>Space-Saving Systems Vs. Traditional Workstations: Make Your Choice!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-convenience-revolution-discover-how-teamgroup-reinvented-t-force-siren-aio-cpu-coolers-with-integrated-magnet-features-for-simplified-pc-setup/"><u>The Convenience Revolution: Discover How TeamGroup Reinvented T-Force Siren AIO CPU Coolers With Integrated Magnet Features for Simplified PC Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-playstation-5-with-best-add-ons/"><u>Transform Your PlayStation 5 With Best Add-Ons</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dive-into-gaming-how-to-build-and-prosper-on-youtube/"><u>[New] In 2024, Dive Into Gaming How to Build and Prosper on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>[New] In 2024, PeekSnapper A Critical Examination of Micro-Recording Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-televising-streamed-social-media-vids-in-households-for-2024/"><u>[New] Televising Streamed Social Media Vids in Households for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-step-by-step-guide-to-using-youtubes-creative-commons-license-for-2024/"><u>[Updated] A Step-by-Step Guide to Using YouTube's Creative Commons License for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-everyday-epics-in-a-lens-tips-to-avoid-common-mistakes-for-2024/"><u>[Updated] Everyday Epics in a Lens Tips to Avoid Common Mistakes for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-future-proof-file-storage-essential-cloud-services-revealed/"><u>[Updated] Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/boundless-video-recorder-app/"><u>Boundless Video Recorder App</u></a></li>
+<li><a href="https://fox-info.techidaily.com/design-and-share-your-unique-humor-piece/"><u>Design and Share Your Unique Humor Piece</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-classic-handheld-devices/"><u>Emulating Classic Handheld Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-turning-youtube-media-on-its-head/"><u>In 2024, The Art of Turning YouTube Media on Its Head</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-speed-in-gameplay-consoles/"><u>Reimagining Speed in Gameplay – Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-thc-absorption-in-human-tissue/"><u>The Science Behind THC Absorption in Human Tissue</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtubes-latest-buzz-engaging-mini-games-for-gamers/"><u>YouTube's Latest Buzz: Engaging Mini Games for Gamers</u></a></li>
 </ul></div>
 

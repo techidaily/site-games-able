@@ -1,7 +1,7 @@
 ---
 title: "Guide: Connect Classic Game Images in Win 11 Photos"
-date: 2024-10-16T18:15:37.519Z
-updated: 2024-10-18T19:13:11.899Z
+date: 2024-10-22T22:58:14.363Z
+updated: 2024-10-25T06:20:01.426Z
 tags:
   - games
 categories:
@@ -31,22 +31,29 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Give Read Access Rights for Older Games
 
 ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
 
@@ -58,16 +65,22 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Fixes for Old Games on Windows
 
@@ -76,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  With a few simple security adjustments, you can at least get your old games reading the folders they're supposed to.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -91,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 ### Q: Does Windows 11 Work With All Games?
 
  Windows 11 is similar to Windows 10, so most of your games compatible with Windows 10 should run just fine on your Windows 11 computer. If a game fails to work on your PC, you can use your PC's compatibility mode to make the game run in an older version of Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Does Windows 11 Delete Games?
 
@@ -118,20 +124,18 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-top-photo-enhancers-blurring-removal-online-edition-for-2024/"><u>[New] Top Photo Enhancers Blurring Removal Online Edition for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-15-best-youtube-movies-channels-for-you-to-kill-time-for-2024/"><u>[Updated] 15 Best YouTube Movies Channels for You to Kill Time for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-experience-revolutionized-with-ally-x/"><u>Gaming Experience Revolutionized with Ally X</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-hits-vs-misses-in-gaming/"><u>Handheld Hits vs Misses in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-fidelity-playground-choosing-between-intel-and-amd/"><u>High Fidelity Playground: Choosing Between Intel & AMD</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-solution-steps-to-successfully-overcome-csgo-not-opening-issues/"><u>Master the Solution: Steps to Successfully Overcome CSGO Not Opening Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/opt-for-another-preferred-steam-language/"><u>Opt for Another Preferred Steam Language</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-the-boundaries-of-classic-gaming-with-pi-power/"><u>Pushing the Boundaries of Classic Gaming with Pi Power</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-extended-waiting-period-error-semaphore-timeout-issue-resolved/"><u>Resolved: Extended Waiting Period Error - Semaphore Timeout Issue Resolved</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-240hz-monitors-for-gaming/"><u>The Best 240Hz Monitors for Gaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-m14-4g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy M14 4G Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-streamers-gaming-selection-guide/"><u>The Ultimate Streamer's Gaming Selection Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-15-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 15 Pro has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-immersive-escapes-delving-into-jaunt-vr/"><u>2024 Approved Immersive Escapes Delving Into Jaunt VR</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-x6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco X6 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/any-video-converter/"><u>Any Video Converterフリー版分析とその運用上の注意点解説</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-with-descriptive-folders-in-windows-11/"><u>Boosting Productivity with Descriptive Folders in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/crack-the-code-spotting-exceptional-games-in-apple-arcade/"><u>Crack the Code: Spotting Exceptional Games in Apple Arcade</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/expeditious-approaches-to-slide-storage/"><u>Expeditious Approaches to Slide Storage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-ace-3-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Ace 3 for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-game-design-with-helldivers-2/"><u>Mastering the Art of Game Design with Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-display-settings-xbox-series-xands-masterclass/"><u>Perfect Display Settings: Xbox Series X&S Masterclass</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-setup-how-to-secure-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Seamless Setup: How to Secure Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/soundscapes-enhancing-photography-online-for-2024/"><u>Soundscapes Enhancing Photography Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-achieving-optimal-display-on-xbox-sandx/"><u>Step-by-Step: Achieving Optimal Display on Xbox S&X</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-5-best-apps-for-voice-translation-from-english-to-bangla-for-2024/"><u>Updated 5 Best Apps for Voice Translation From English to Bangla for 2024</u></a></li>
 </ul></div>
 

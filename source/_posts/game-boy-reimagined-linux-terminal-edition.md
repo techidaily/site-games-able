@@ -1,7 +1,7 @@
 ---
 title: "Game Boy Reimagined: Linux Terminal Edition"
-date: 2024-09-19T21:53:47.126Z
-updated: 2024-09-20T20:55:22.606Z
+date: 2024-10-18T22:26:30.208Z
+updated: 2024-10-24T17:37:06.576Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -83,6 +90,13 @@ Make it executable with:
 
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -106,10 +120,10 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -131,5 +145,23 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-going-from-frame-to-note-on-instagrams-mp3-route/"><u>[New] 2024 Approved Going From Frame-to-Note on Instagram's Mp3 Route</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-13t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi 13T without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/canvas-audio-guide-adding-tweaking-and-refining-sounds-for-2024/"><u>Canva's Audio Guide Adding, Tweaking, & Refining Sounds for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deeper-5-ways-paying-for-mobile-games-improves-experience/"><u>Dive Deeper: 5 Ways Paying for Mobile Games Improves Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-guide-to-overcoming-file-creation-error-30005/"><u>Essential Guide to Overcoming File Creation Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/guaranteeing-steams-seamless-data-transfer/"><u>Guaranteeing Steam’s Seamless Data Transfer</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/how-to-transfer-images-from-your-computer-to-your-iphone-without-using-itunes-or-losing-data/"><u>How to Transfer Images From Your Computer to Your iPhone Without Using iTunes or Losing Data</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 8 Plus Lock Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-multiple-ps5-subscriptions-management/"><u>Mastering Multiple PS5 Subscriptions Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-image-size-on-windows-11-explore-the-best-techniques/"><u>Optimize Image Size on Windows 11: Explore the Best Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-joystick-settings-post-update-on-console/"><u>Resetting Joystick Settings Post-Update on Console</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/scrutinizing-splitcam-a-leader-in-video-tech/"><u>Scrutinizing SplitCam - A Leader in Video Tech?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insiders-guide-to-exclusive-free-steam-gaming-hits/"><u>The Insider's Guide to Exclusive, Free Steam Gaming Hits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users-for-2024/"><u>The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-tous-les-livres-electroniques-gratuits-pour-lecteurs-en-2024/"><u>Top Tous Les Livres Électroniques Gratuits Pour Lecteurs en 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-realms-unleashed-best-ethernets-for-seamless-playing/"><u>Virtual Realms Unleashed: Best Ethernets for Seamless Playing</u></a></li>
+</ul></div>
 

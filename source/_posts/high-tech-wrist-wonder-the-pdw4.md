@@ -1,7 +1,7 @@
 ---
 title: "High-Tech Wrist Wonder: The PDW4"
-date: 2024-10-17T18:16:58.857Z
-updated: 2024-10-19T03:57:10.192Z
+date: 2024-10-22T00:54:56.261Z
+updated: 2024-10-24T22:53:17.137Z
 tags:
   - games
 categories:
@@ -108,10 +108,10 @@ Windows 11 pre-installed
 [$1099 at Geek Buying](https://affiliate.geekbuying.com/gkbaffiliate.php?id=150&url=944873)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Can You Do With a GPD Win 4 Gaming Handheld?
@@ -121,19 +121,6 @@ Windows 11 pre-installed
  Picture Valve’s Steam Deck, then imagine how it might be running Windows and twice the processing power. That’s what you get with the GPD Win 4, a system that doesn’t only play the latest AAA titles on Steam, Epic, and Xbox Game Pass, it also lets you run classic titles. If your chosen emulation platform runs on Windows, you can play those old games on the GPD Win 4.
 
  In fact, apart from a few console titles, you can play most games ever released on this device.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It’s Like a Steam Deck With a Physical Keyboard
 
@@ -146,6 +133,13 @@ One of the most stunning features of this device is the keyboard.
  When keys are required, connecting a keyboard seems smarter; an onscreen keyboard should be adequate in most cases.
 
  That said, the action on the display’s sliding motion is nice. It feels like using a classic Windows Mobile phone, but this is arguably a direct lineage of “Pocket PC,” regardless of how many iterations and companies it took to get there.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Does the GPD Win 4 Gaming Handheld Ship With?
 
@@ -160,10 +154,10 @@ One of the most stunning features of this device is the keyboard.
 ![GPD Win 4 power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-left-power.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It supports 802.11ax Wi-Fi (Wi-Fi 6/6E) with 2.4 and 5GHz bands, and a dual channel maximum transmission rate of 2402Mbps. For audio and controllers, Bluetooth 5.2 is supported.
@@ -177,10 +171,10 @@ One of the most stunning features of this device is the keyboard.
 ![GPD Win 4 USB Type-C port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-usbc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Corning Gorilla Glass 5 display is a 6-inch H-IPS with 1080p resolution, 368PPI, and refresh rate options of 40Hz and 60Hz. It boasts flicker-free DC light dimming and hides a QWERTY keyboard beneath. Sliding the display up reveals the keyboard; no other controls are hidden.
@@ -197,13 +191,6 @@ One of the most stunning features of this device is the keyboard.
 
  Note that there is also a USB Type A 3.0 port on the console. This is suitable for everything from external storage to additional peripherals.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design and Comfort of the GPD Win 4 Gaming Handheld
 
  Available in various colors, I received the white version of the GPD Win 4 for review. It features a matte finish, which aids grip, although the two rear buttons are difficult to reach. The console isn’t as wide as a Steam Deck, and not as comfortable to use.
@@ -211,6 +198,13 @@ One of the most stunning features of this device is the keyboard.
  The GPD Win 4 has two thumbsticks, XYBA, D-Pad, dual shoulder buttons, and dual triggers, both left and right. In addition, the device features a Start button, Select button, and clickable mouse trackpad. A swift press acts as the left-click; a longer press corresponds to a right-click. This last feature is a necessity for PC gaming, but this implementation is often unwieldy. It’s also mostly useless for arcade/FPS gaming, although it does work with strategy titles where fast reactions are less important.
 
 ![GPD Win 4 controller right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-right-control.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For any game that requires “controller mode” a useful switch is situated on the left side of the console. This enables the thumbsticks and buttons to work as they would if you had plugged an Xbox controller into a PC.
 
@@ -233,6 +227,13 @@ One of the most stunning features of this device is the keyboard.
 
  In terms of audio, the onboard speakers are a bit on the tinny size, but it sounds fine over a wired or Bluetooth headset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Does the GPD Win 4 Compare to a Steam Deck?
 
  I’ve been using the Steam Deck since 2022, during which time it has become my main console. The reason for this is its pure flexibility, enabling me to game in any room in the house, or beyond if the mood takes me.
@@ -242,13 +243,6 @@ One of the most stunning features of this device is the keyboard.
  First, the GPD Win 4 is undeniably more powerful than the Steam Deck. Second, it runs Windows 11, an OS that while widely used, I dislike intensely. While running Steam in Big Picture mode can fool you into thinking you’re using a Steam Deck, it’s a short-lived illusion.
 
 ![GPD Win 4 vs Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-compare.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Third, and perhaps most important, is that the GPD Win 4 doesn’t feel as comfortable as the Steam Deck. In fact, I’d go as far as to say it’s akin to playing games on a house brick.
 
@@ -281,22 +275,16 @@ One of the most stunning features of this device is the keyboard.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-pixelpathway-pioneer-review/"><u>[New] 2024 Approved PixelPathway Pioneer Review</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-premier-platform-for-seminar-titles/"><u>[Updated] 2024 Approved Premier Platform for Seminar Titles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-android-photo-editor-is-pickup-top/"><u>[Updated] Best Android Photo Editor Is PickUp Top?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-screen-smartphone-video-creation-tips/"><u>[Updated] In 2024, From Idea to Screen Smartphone Video Creation Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-complete-process-of-adding-soundtracks-to-ig/"><u>[Updated] The Complete Process of Adding Soundtracks to IG</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/converting-psp-become-an-lcd-displayed-gba-mimic/"><u>Converting PSP: Become an LCD-Displayed GBA Mimic</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-childs-defensive-ps5-environment/"><u>Crafting a Child’s Defensive PS5 Environment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-pc-inputs-to-steam-deck-safely-using-a-barrier-approach/"><u>Integrating PC Inputs to Steam Deck Safely Using a Barrier Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ea-play-ps5-subscription-and-utilization-guide/"><u>Mastering EA Play: PS5 Subscription & Utilization Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/revitalize-your-iphone-top-3-methods-for-successful-backup-recovery/"><u>Revitalize Your iPhone: Top 3 Methods for Successful Backup Recovery</u></a></li>
-<li><a href="https://games-able.techidaily.com/streaming-simplicity-intels-contribution-with-stream-assist/"><u>Streaming Simplicity: Intel's Contribution with Stream Assist</u></a></li>
-<li><a href="https://games-able.techidaily.com/taking-a-glimpse-at-amds-future-with-rdna-35-and-its-expected-unveiling/"><u>Taking a Glimpse at AMD’s Future with RDNA 3.5 and Its Expected Unveiling</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-purging-past-games-from-playstation-5/"><u>The Ultimate Guide to Purging Past Games From PlayStation 5</u></a></li>
-<li><a href="https://games-able.techidaily.com/youtube-reworking-its-arsenal-with-cutting-edge-mini-games/"><u>YouTube Reworking Its Arsenal with Cutting-Edge Mini Games!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-rhythmic-raptor-rumba/"><u>[Updated] 2024 Approved Rhythmic Raptor Rumba</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfecting-audio-on-iphone-select-the-best-6-free-software-choices-for-2024/"><u>[Updated] Perfecting Audio on iPhone Select the Best 6 Free Software Choices for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-xml-files-in-fcpx-tips-tricks-and-best-practices/"><u>2024 Approved XML Files in FCPX Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-as-a-storyteller-in-game-development/"><u>AI as a Storyteller in Game Development</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ai-ocrrparpaabbyy/"><u>AI-OCRおよびRPA分野で強力コラボレーションを展開する日商エレ、RPAテクノロジーズとABBYYジャパン</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/avoid-unsolicited-podcast-selections-by-spotify-for-2024/"><u>Avoid Unsolicited Podcast Selections by Spotify for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/chromecast-plus-google-tv-review-the-rising-competition-for-firetv-enthusiasts/"><u>Chromecast + Google TV Review: The Rising Competition for FireTV Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-online-adventures-should-we-ponder-their-legacy/"><u>Ephemeral Online Adventures – Should We Ponder Their Legacy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-0x887a0006-dxgierrordevicehung-error-in-windows-11-and-11/"><u>How to Fix the 0X887A0006: DXGI_ERROR_DEVICE_HUNG Error in Windows 11 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-setup-oled-switch-with-vintage-power-source/"><u>Retro Gaming Setup: OLED Switch with Vintage Power Source</u></a></li>
 </ul></div>
 

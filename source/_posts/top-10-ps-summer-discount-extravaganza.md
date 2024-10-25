@@ -1,7 +1,7 @@
 ---
 title: Top 10 PS Summer Discount Extravaganza
-date: 2024-10-18T11:15:51.980Z
-updated: 2024-10-19T08:17:59.442Z
+date: 2024-10-22T16:16:45.618Z
+updated: 2024-10-25T00:59:32.702Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
@@ -41,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -92,18 +92,24 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -130,20 +136,16 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-bring-it-all-together-elevate-your-fb-video-experience/"><u>[Updated] 2024 Approved Bring It All Together Elevate Your FB Video Experience</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-artistry-your-ultimate-companion-for-boomerangs/"><u>[Updated] In 2024, Crafting Artistry Your Ultimate Companion for Boomerangs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/enhance-your-ebook-experience-with-flip-reader-specially-tailored-for-fbr-and-zip-files-built-using-flipbuilder-tools/"><u>Enhance Your eBook Experience with Flip Reader - Specially Tailored for .fbr and .zip Files | Built Using FlipBuilder Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expert-tips-on-amassing-stock-art-resources-for-2024/"><u>Expert Tips on Amassing Stock Art Resources for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-enjoy-xbox-anyhow-no-controller-needed/"><u>How To Enjoy Xbox Anyhow, No Controller Needed</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-speedster-ssd-for-playstation-5/"><u>Ideal Speedster SSD for PlayStation 5</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-out-xbox-series-sx-controller-exploration/"><u>Inside-Out Xbox Series S/X Controller Exploration</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-with-the-help-of-alomware-toolbox/"><u>Optimizing Windows with the Help of AlomWare Toolbox</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/premier-baking-studio-best-cookies-to-try-and-buy/"><u>Premier Baking Studio Best Cookies to Try and Buy</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-benefits-for-elite-twitch-streamers/"><u>Prime Benefits for Elite Twitch Streamers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/social-media-savvy-top-101-bio-tips-and-techniques-for-facebookers/"><u>Social Media Savvy Top 101 Bio Tips & Techniques for Facebookers</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-link-perfect-cables-for-precision-gaming/"><u>The Ultimate Link - Perfect Cables for Precision Gaming</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-itel-p55plus-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Itel P55+</u></a></li>
-<li><a href="https://games-able.techidaily.com/timelimited-treats-unlock-special-gameplay-secrets/"><u>TimeLimited Treats: Unlock Special Gameplay Secrets</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-cautions-against-ps5-purchase/"><u>Top 4 Cautions Against PS5 Purchase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-master-your-screen-essential-wins11-apps-and-games-for-2024/"><u>[New] Master Your Screen Essential Wins11 Apps & Games for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-beatniks-guide-to-music-enhanced-snapchats/"><u>[Updated] In 2024, Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://fox-within.techidaily.com/hddssdclonezilla/"><u>大きなHDD/SSDから小さなドライブへClonezillaで簡単クローン作成法</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-v27e-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo V27e</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-xbox-and-steam-via-glossi/"><u>Bridge the Gap Between Xbox and Steam via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-change-xbox-live-gold-merges-with-game-pass/"><u>Embracing Change: Xbox Live Gold Merges with Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-highlights-tech-streamlining-with-tecnos-new-releases/"><u>IFA 2023 Highlights Tech Streamlining with Tecno's New Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-worlds-together-using-ps5-controller-on-windows-pc/"><u>Joining Worlds Together: Using PS5 Controller on Windows PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/squared-up-crafting-square-format-videos-with-imovie-and-instagram-for-2024/"><u>Squared Up Crafting Square-Format Videos with iMovie and Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ubertragen-sie-ihr-dvd-bibliothek-auf-die-amazon-cloud-mit-einem-schritt/"><u>Übertragen Sie Ihr DVD-Bibliothek Auf Die Amazon Cloud Mit Einem Schritt</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-rewarding-game-making-could-hurt-the-industry/"><u>Why Rewarding Game Making Could Hurt the Industry</u></a></li>
 </ul></div>
 

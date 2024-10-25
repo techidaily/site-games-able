@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Gaming’s Meta: Understanding & Obedience"
-date: 2024-10-13T06:49:57.606Z
-updated: 2024-10-19T03:55:17.861Z
+date: 2024-10-24T03:50:26.065Z
+updated: 2024-10-24T22:59:44.563Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 * [Are Metas Good or Bad for Gaming?](#are-metas-good-or-bad-for-gaming)
 * [Should You Follow the Meta in Games?](#should-you-follow-the-meta-in-games)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Metas can help keep games fresh and introduce new play methods, benefiting from consistent updates and tweaks.
@@ -36,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 ## What Is a Meta in Gaming?
 
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 OpenAI / MakeUseOf
 
@@ -65,10 +65,10 @@ OpenAI / MakeUseOf
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
@@ -90,10 +90,10 @@ OpenAI / MakeUseOf
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Metas Can Harm Games
@@ -105,6 +105,13 @@ OpenAI / MakeUseOf
  The card was so good that people would add it as a "must-have" no matter what archetype their deck was. And people would concede if their opponent managed to play Dr. Boom and they hadn't drawn it yet. Deck builders had to ask themselves if their deck could handle Dr. Boom; if it couldn't, it was a bad deck.
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Follow the Meta in Games?
 
@@ -123,13 +130,6 @@ OpenAI / MakeUseOf
  If you want to dig into the metas of the games you enjoy (or want to learn more about) a great place to start is gaming forums. Check if your game has a dedicated subreddit on reddit.com or elsewhere, like in forums on the developer's website, Steam, or so on. Gaming blogs aren't bad either, but you'll be hard-pressed to find any publication as committed to the meta-analysis of a single game as that game's subreddit.
 
  That's where you'll find people actively discussing, debating, and often complaining about the meta of a given game. You'll have plenty of reading material!
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### But Sometimes Following the Meta Kills the Fun
 
@@ -160,18 +160,19 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/retweeting-and-re-tweeting-deciphering-the-subtle-differences-on-twitter/"><u>'Retweeting' And 'Re-Tweeting': Deciphering The Subtle Differences On Twitter.</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-for-top-10-affordable-recording-software/"><u>[New] 2024 Approved The Ultimate List for Top 10 Affordable Recording Software</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-win11-videographers-choices-roundup/"><u>[Updated] In 2024, Top Win11 Videographers' Choices Roundup</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-handbook-insta-to-tik-tok-connectivity/"><u>2024 Approved Ultimate Handbook Insta-to-Tik Tok Connectivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-your-first-poetry-anthology-with-chatgpt-a-step-by-step-guide/"><u>Crafting Your First Poetry Anthology with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-trending.techidaily.com/download-top-poker-matches-from-ruunitonce-exclusive-video-collection/"><u>Download Top Poker Matches From RuUnItOnce - Exclusive Video Collection</u></a></li>
-<li><a href="https://fox-http.techidaily.com/drones-unleashed-advanced-editing-for-ultimate-visuals-for-2024/"><u>Drones Unleashed Advanced Editing For Ultimate Visuals for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-google-pixel-8-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-resolve-common-steam-service-hurdles-in-windows-11/"><u>How to Resolve Common Steam Service Hurdles in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-narzo-n55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme Narzo N55 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/office-station-vs-playstation-differences-explored/"><u>Office Station Vs. PlayStation: Differences Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-gamepad-surfaces-explored/"><u>Premium Gamepad Surfaces Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-seamless-capture-of-games-with-universal-gpu-support/"><u>The Seamless Capture of Games with Universal GPU Support</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-best-photo-boosts-for-perfecting-your-feed/"><u>[New] Best Photo Boosts for Perfecting Your Feed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-group-chat-and-webcams-the-best-selection/"><u>[New] Elite Group Chat & Webcams The Best Selection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-artistry-at-heart-best-10-free-easy-mac-drawers/"><u>[Updated] Artistry at Heart Best 10 Free, Easy Mac Drawers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-richest-rewards-for-creators/"><u>2024 Approved Richest Rewards for Creators</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-why-is-my-instagram-video-rotated-unnaturally/"><u>2024 Approved Why Is My Instagram Video Rotated Unnaturally?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aging-wisely-the-power-of-multilingualism/"><u>Aging Wisely: The Power of Multilingualism</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-performance-metrics-polling-ratio-insights/"><u>Evaluating Performance Metrics: Polling Ratio Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/expedite-access-to-your-steam-collection-after-error/"><u>Expedite Access to Your Steam Collection After Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealthy-storage-of-virtual-games/"><u>Stealthy Storage of Virtual Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-art-of-blending-audio-with-video-in-premiere-pro-for-2024/"><u>The Art of Blending Audio with Video in Premiere Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-cod-black-ops-cold-war-overcoming-code-80070057-issue/"><u>Troubleshooting COD: Black Ops Cold War – Overcoming Code 80070057 Issue</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-assortment-of-gopro-modifications-for-2024/"><u>Ultimate Assortment of Gopro Modifications for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-hidden-pleasures-in-playstation-5/"><u>Unleashing Hidden Pleasures in PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-you-need-to-know-about-the-new-ps5-slim-model/"><u>What You Need to Know About the New PS5 Slim Model</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Joy-Con: The Gateway to Classic Games"
-date: 2024-09-14T01:34:10.461Z
-updated: 2024-09-20T18:00:33.995Z
+date: 2024-10-20T03:02:48.048Z
+updated: 2024-10-24T18:55:29.920Z
 tags:
   - games
 categories:
@@ -57,19 +57,47 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
@@ -92,12 +120,26 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlining-your-ps3-gaming-archive/"><u>[New] 2024 Approved Streamlining Your PS3 Gaming Archive</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>[New] 2024 Approved Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-10-best-free-image-hosting-sites-never-lost-your-photos/"><u>[Updated] 2024 Approved 10 Best Free Image Hosting Sites [Never Lost Your Photos]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-strategic-animation-techniques-to-boost-your-facebook-ad-roi/"><u>[Updated] In 2024, Strategic Animation Techniques to Boost Your Facebook Ad ROI</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-signature-checks-for-easy-updates/"><u>Bypassing Windows' Signature Checks for Easy Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-enhancement-installing-gaming-launchers-for-playstation-pcs/"><u>Effortless Enhancement: Installing Gaming Launchers for PlayStation PCs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-10-volume-augmenters-for-all-os/"><u>Elite 10 Volume Augmenters for All OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-for-conquering-clutter-in-steams-game-list/"><u>Essential Techniques for Conquering Clutter in Steam's Game List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-c12-plus-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Nokia C12 Plus Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/jadi-pemain-profesional-metode-gratis-untuk-memulai-dalam-resipi-digital-sd-card-terformat/"><u>Jadi Pemain Profesional : Metode Gratis Untuk Memulai Dalam Resipi Digital SD Card Terformat</u></a></li>
+<li><a href="https://games-able.techidaily.com/keystroke-countdown-why-it-matters-for-users/"><u>Keystroke Countdown: Why It Matters for Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-filtered-spectacles-for-computers/"><u>Optimal Filtered Spectacles for Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-mobile-experiences-optimal-controller-support/"><u>Premier Mobile Experiences: Optimal Controller Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-printer-driver-problems-in-windows-11-a-comprehensive-guide/"><u>Resolving Printer Driver Problems in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-dive-into-early-game-patches/"><u>Should You Dive Into Early Game Patches?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-steam-user-quest/"><u>Streamlining Your Steam User Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-gpu-suits-you-best-founders-original-or-aib/"><u>Which GPU Suits You Best? Founders Original or AIB</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-the-new-cost-isnt-worth-my-ea-membership/"><u>Why the New Cost Isn’t Worth My EA Membership</u></a></li>
+</ul></div>
 

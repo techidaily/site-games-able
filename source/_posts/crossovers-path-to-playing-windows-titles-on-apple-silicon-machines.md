@@ -1,7 +1,7 @@
 ---
 title: CrossOver's Path to Playing Windows Titles on Apple Silicon Machines
-date: 2024-09-15T19:17:34.310Z
-updated: 2024-09-20T22:54:14.491Z
+date: 2024-10-24T05:53:06.140Z
+updated: 2024-10-25T06:57:43.077Z
 tags:
   - games
 categories:
@@ -59,6 +59,13 @@ Here’s how to get Steam on CrossOver:
 
  Return back to CrossOver’s window, and you’ll notice that you have Steam as one of your bottles. Leave Steam alone for now and download some dependencies you would need to run the games you get from Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install DirectX and DXVK
 
  DXVK is a Direct3D translation layer for running 3D applications, while[DirectX is a Microsoft API for improving software access to hardware](https://www.makeuseof.com/what-is-directx-why-important-for-gaming/) . You’ll need them both to run your games fluidly.
@@ -74,13 +81,6 @@ Here’s how to install them to your Steam bottle:
 
  These two are very important because it lets Steam access your Mac’s GPU. If you try to install games without doing this, Steam will give you an error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set Up Steam, Log In, and Play
 
  You can now return back to Steam and input your username and password. Go to your library, select the game you want to play and install it.
@@ -88,10 +88,10 @@ Here’s how to install them to your Steam bottle:
 ![Knights of Pen & Paper II on CrossOver Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-paper-ii-on-crossover-steam.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the game is done installing, you’ll find it in your Steam bottle. You can launch it from there, or you can launch it directly from Steam if you like.
@@ -104,11 +104,25 @@ Here’s how to install them to your Steam bottle:
 ![Knights of Pen and Paper 2 context menu on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/knights-of-pen-and-paper-2-context-menu-on-steam.jpeg)
 4. Find and select the .exe file for the game and hit**Return** on your keyboard to run it directly from there.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can have both your Mac and CrossOver versions of Steam open at the same time. However, it can get a little confusing and easy to mix the two up. You can differentiate them by hovering over their icons on the Dock; CrossOver’s Steam will say**wine64** , while Mac’s Steam will simply say**Steam** .
 
  However, you don’t need to play only Steam games on CrossOver; most other popular gaming platforms will work. So, if you have your games on GOG or Epic Games Launcher, download those platforms instead of Steam and follow the instructions here all the same.
 
  Finally, watch out for your hardware. MacBook Airs are decent in processing power, but you could benefit a huge deal from using the extra memory from a MacBook Pro. We, therefore, recommend you use a MacBook Pro to run any serious AAA titles.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## CrossOver Offers More Power Than Parallels
 
@@ -129,5 +143,24 @@ Here’s how to install them to your Steam bottle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-everything-you-need-to-know-before-upgrading-to-windows-10/"><u>[Updated] Everything You Need To Know Before Upgrading To Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-speech-to-text-magic-in-your-next-presentation/"><u>[Updated] In 2024, Speech-to-Text Magic in Your Next Presentation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-swift-practices-efficient-recording-of-online-meetings/"><u>2024 Approved Swift Practices Efficient Recording of Online Meetings</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-audio-visual-experience-with-calibration-tool/"><u>Enhance Audio Visual Experience with Calibration Tool</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-steams-files-failed-to-validate-and-will-be-reacquired-error/"><u>How to Fix Steam's Files Failed to Validate and Will Be Reacquired Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-display-driver-failed-to-start-error-on-windows-11-and-11/"><u>How to Fix the “Display Driver Failed to Start” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-select-the-best-free-mobile-video-platforms-of-2023/"><u>In 2024, Select the Best Free Mobile Video Platforms of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-immediate-shift-from-gtx-to-rtx-justified/"><u>Is the Immediate Shift From GTX to RTX Justified?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reboot-your-ps5-games-with-fresh-installations/"><u>Reboot Your PS5 Games with Fresh Installations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-google-pixel-8-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Google Pixel 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-game-with-these-unique-chatgpt-titles/"><u>Step Up Your Game With These Unique ChatGPT Titles!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-cpu-coolers-identify-the-top-8-selection-indicators/"><u>The Best CPU Coolers – Identify the Top 8 Selection Indicators</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-rumored-unveiling-of-xboxs-virtual-reality-headset-pricing-hints-and-projection-of-arrival-dates/"><u>The Rumored Unveiling of Xbox's Virtual Reality Headset - Pricing Hints & Projection of Arrival Dates</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-showdown-apples-m1-cpu-takes-on-traditional-laptops-in-the-new-13-inch-macbook-pro/"><u>The Ultimate Showdown: Apple's M1 CPU Takes on Traditional Laptops in the New 13-Inch MacBook Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-performers-guide-10-tips-to-increase-frames-in-csgo/"><u>Top Performers' Guide - 10 Tips to Increase Frames in CS:GO</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp3-3gpp/"><u>블라우징 덕터의 MP3 태스크릿 - 오페라 3GPP 음성 파일을 무료로 체계적으로 전환하기</u></a></li>
+</ul></div>
 

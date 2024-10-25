@@ -1,7 +1,7 @@
 ---
 title: How to Play Game Boy Games in Your Linux Terminal
-date: 2024-09-14T16:42:05.670Z
-updated: 2024-09-20T18:42:06.882Z
+date: 2024-10-22T20:19:00.451Z
+updated: 2024-10-24T17:09:19.937Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  You should only use ROMS you legally own. You can find a huge variety of homebrew Game Boy ROMS at[Homebrew Hub](https://hh.gbdev.io/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install php-terminal-gameboy-emulator on Linux
 
  Before you install php-terminal-gameboy-emulator, you should first make sure you have PHP installed. To check this, open a terminal and enter:
@@ -83,6 +90,13 @@ Make it executable with:
 
 `sudo mv php-gameboy.phar /usr/local/bin/php-gameboy`
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Play Awesome Game Boy Games in Your Linux Terminal
 
  To start a game with php-terminal-gameboy-emulator, you need to pass the filename of the ROM file as an argument. For instance:
@@ -106,10 +120,10 @@ Make it executable with:
 | M                 | Start            |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impress Your Friends With php-terminal-gameboy-emulator
@@ -131,5 +145,26 @@ Make it executable with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-essential-user-manual-for-music-licensing-on-insta/"><u>[New] 2024 Approved The Essential User Manual for Music Licensing on Insta</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-monitoring-and-alerts/"><u>[New] Monitoring and Alerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thorough-breakdown-googles-podcast-app-unveiled/"><u>[New] Thorough Breakdown Google's Podcast App Unveiled</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-how-to-find-the-good-iphone-photography-angles/"><u>2024 Approved How to Find the Good iPhone Photography Angles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-12-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-effects-of-xboxs-ban-on-unauthorized-controller-use/"><u>Exploring the Effects of Xbox's Ban on Unauthorized Controller Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/glossi-techniques-streaming-xbox-to-steam-successfully/"><u>GlosSI Techniques: Streaming Xbox to Steam Successfully</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-seamlessly-integrate-captions-into-youtube-videos-for-2024/"><u>How to Seamlessly Integrate Captions Into YouTube Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/launch-league-logic-troubleshooting-stuck-screens/"><u>Launch League Logic: Troubleshooting Stuck Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-switch-with-simple-care-techniques/"><u>Maximizing Your Switch with Simple Care Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-vs-slim-the-ps5-redesign-journey/"><u>Old Vs. Slim: The PS5 Redesign Journey</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-defy-2-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Defy 2, is it possible?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+<li><a href="https://games-able.techidaily.com/short-term-solutions-to-xbox-ultimate-plan-hike/"><u>Short-Term Solutions to Xbox Ultimate Plan Hike</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-guide-to-blu-ray-mastery-in-xsx/"><u>The Complete Guide to Blu-Ray Mastery in XSX</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secure-pathway-making-steam-play-kid-friendly/"><u>The Secure Pathway: Making Steam Play Kid-Friendly</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-ways-to-connect-bluetooth-headphones-to-your-ps5/"><u>Two Ways to Connect Bluetooth Headphones to Your PS5</u></a></li>
+</ul></div>
 

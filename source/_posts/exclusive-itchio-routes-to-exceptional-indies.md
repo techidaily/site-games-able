@@ -1,7 +1,7 @@
 ---
 title: Exclusive Itch.io Routes to Exceptional Indies
-date: 2024-09-14T18:51:04.742Z
-updated: 2024-09-20T20:35:44.611Z
+date: 2024-10-18T23:37:11.437Z
+updated: 2024-10-24T23:44:44.930Z
 tags:
   - games
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 * [Follow Developers](#follow-developers)
 * [Look at User Reviews and Ratings](#look-at-user-reviews-and-ratings)
 * [Check Out Community Recommendations](#check-out-community-recommendations)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -63,22 +70,35 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Check Out Game Jams
 
  Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the[Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Follow Developers
 
@@ -88,14 +108,14 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
- Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
 ## 6 Look at User Reviews and Ratings
 
@@ -103,14 +123,14 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Check Out Community Recommendations
 
@@ -131,5 +151,26 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-bebop-parrot-the-ultimate-feathered-performance-review/"><u>[Updated] Bebop Parrot The Ultimate Feathered Performance Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-compreenasian-guide-to-obs-installation-on-apple-systems/"><u>2024 Approved A Compreenasian Guide to OBS Installation on Apple Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-hd-downloader-how-to-download-hd-facebook-videos-in-2024/"><u>FB HD Downloader | How to Download HD Facebook Videos, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-affordable-video-games-top-11-sites-ranked/"><u>Gamer's Guide to Affordable Video Games - Top 11 Sites Ranked</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-connect-classic-game-images-in-win-11-photos/"><u>Guide: Connect Classic Game Images in Win 11 Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-disrupted-wordle-streak/"><u>How to Restore Disrupted Wordle Streak</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-steam-deck-remote-play-to-stream-games-from-your-pc/"><u>How to Use Steam Deck Remote Play to Stream Games From Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-are-video-reviews-of-goods-paid-for-by-creators/"><u>In 2024, Are Video Reviews of Goods Paid For by Creators?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beginning-vlog-essential-gear-and-initial-editing-tools/"><u>In 2024, Beginning Vlog Essential Gear & Initial Editing Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ultimate-media-creator-win8/"><u>In 2024, Ultimate Media Creator Win8</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-past-moments-with-your-iphone/"><u>In 2024, Unveiling Past Moments with Your iPhone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-drivers/"><u>Install Your Epson XP-330 with Official Drivers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-10-best-list-for-free-video-conferencing-and-desktop-sharing/"><u>Leading 10-Best List for FREE Video Conferencing & Desktop Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-android-with-external-game-controls/"><u>Mastering Your Android with External Game Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-steam-installation-issues-on-windows-11/"><u>Quick Fixes for Steam Installation Issues on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickplay-quests-binge-on-cheat-hacks/"><u>QuickPlay Quests: Binge on Cheat Hacks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-steps-for-when-you-cant-start-a-game-checking-game-files/"><u>Solution Steps for When You Can’t Start a Game - Checking Game Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-counter-arguments-against-macs-in-pc-gaming/"><u>Top 6: Counter-Arguments Against Macs in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-the-microsoftactivision-merger-enhance-or-endanger-gamer-interests/"><u>Will The Microsoft/Activision Merger Enhance or Endanger Gamer Interests?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock Your PS5 Potentials with an Assist Controller
-date: 2024-10-18T13:29:55.494Z
-updated: 2024-10-18T23:14:11.328Z
+date: 2024-10-22T23:43:51.579Z
+updated: 2024-10-25T05:13:31.525Z
 tags:
   - games
 categories:
@@ -35,9 +35,23 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
@@ -53,54 +67,34 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
@@ -128,17 +122,20 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-flawless-pixel-processor-windowsmac-for-2024/"><u>[New] Flawless Pixel Processor (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-strategic-scheduling-leveraging-free-fb-resources/"><u>[New] Strategic Scheduling Leveraging Free FB Resources</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-create-effective-youtube-advertisements-on-a-budget-for-2024/"><u>[Updated] Create Effective YouTube Advertisements on a Budget for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-microphone-feedback-audio-recorder/"><u>[Updated] In 2024, Microphone Feedback Audio Recorder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-crafting-instagram-reels-like-professionals-top-10-tools/"><u>2024 Approved Crafting Instagram Reels Like Professionals - Top 10 Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-public-access-zen-beats/"><u>2024 Approved Public Access Zen Beats</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-strategic-screen-customization-timely-adjustments-in-teams/"><u>2024 Approved Strategic Screen Customization Timely Adjustments in Teams</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-photographers-toolkit-top-text-editors-for-images/"><u>2024 Approved The Photographer's Toolkit Top Text Editors for Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-systems-showdown-consoles-vs-personal-builds/"><u>Gaming Systems Showdown: Consoles Vs. Personal Builds</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-pc-management-the-4-powerful-upgrades-in-corsairs-icue-link/"><u>Mastering PC Management: The 4 Powerful Upgrades in Corsair's iCUE Link</u></a></li>
-<li><a href="https://games-able.techidaily.com/pure-playstation-cleaning-without-risk/"><u>Pure PlayStation: Cleaning Without Risk</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-non-joy-con-link-problems-for-switch-users/"><u>Troubleshooting Non-Joy-Con Link Problems for Switch Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-20-budget-friendly-screen-recorder-tools/"><u>[New] Top 20 Budget-Friendly Screen Recorder Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/auditory-interpretation-accessible-at-no-expense/"><u>Auditory Interpretation Accessible at No Expense</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-steams-reacquire-data-alert/"><u>Counteracting Steam's Reacquire Data Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-downloads-platforms-dlcs-more-for-bg3/"><u>Essential Downloads: Platforms, DLCs, More for BG3</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-selector-101-finding-your-next-apple-arcade-hit/"><u>Game Selector 101: Finding Your Next Apple Arcade Hit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-flip-5-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Flip 5 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-mix-fold-3-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi Mix Fold 3 and Browser | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>In 2024, Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-face-off-the-best-browsers-for-games/"><u>Opera GX & Edge Face-Off - The Best Browsers for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/preempting-compatibility-issues-in-your-next-computer-buy/"><u>Preempting Compatibility Issues in Your Next Computer Buy</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ascension-of-cloud-computing-versus-current-on-premises-systems-expert-analysis-by-zdnet/"><u>The Ascension of Cloud Computing Versus Current On-Premises Systems | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-listicle-of-premier-app-store-games-by-genres/"><u>The Ultimate Listicle of Premier App Store Games by Genres</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-how-to-successfully-complete-windows-installations/"><u>Troubleshooting: How To Successfully Complete Windows Installations</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upcoming-highlights-from-apples-fall-showcase-new-m4-mac-mini-and-advanced-ipad-models-insights-from-zdnet/"><u>Upcoming Highlights From Apple's Fall Showcase: New M4 Mac Mini & Advanced iPad Models - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Children's Online Presence: A Guide to Discord Safety"
-date: 2024-10-16T03:03:13.166Z
-updated: 2024-10-19T13:06:56.737Z
+date: 2024-10-19T02:31:03.396Z
+updated: 2024-10-24T23:06:03.718Z
 tags:
   - games
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
@@ -50,38 +50,37 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Set Time Limits
 
@@ -90,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Encourage Critical Thinking
 
@@ -116,16 +122,20 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-discovering-digital-dialogues-facebook-video-exchange/"><u>[Updated] 2024 Approved Discovering Digital Dialogues Facebook Video Exchange</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-art-of-video-production-initial-setup/"><u>[Updated] Mastering the Art of Video Production Initial Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/debunking-low-fps-myths-in-console-gaming/"><u>Debunking Low FPS Myths in Console Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/dualsense-functionality-on-ps4-systems/"><u>DualSense Functionality on PS4 Systems?</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-change-altering-names-and-logos-for-riot-players/"><u>Embrace Change: Altering Names & Logos for Riot Players</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tial-tactics-for-youtube-short-troubleshooting-for-2024/"><u>Essential Tactics for YouTube Short Troubleshooting for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/fb-and-gifpedia-face-possible-disentanglement-why-now/"><u>FB and Gifpedia Face Possible Disentanglement; Why Now?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/microsoft-bing-vs-google-bard-vs-chatgpt-the-ultimate-battle-for-best-ai-conversational-agent/"><u>Microsoft Bing Vs. Google Bard Vs. ChatGPT: The Ultimate Battle for Best AI Conversational Agent</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-up-your-gaming-streaming-on-phone-via-twitch-app/"><u>Step Up Your Gaming: Streaming on Phone via Twitch App</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-live-golds-evolution-into-a-full-game-pass-membership/"><u>Xbox Live Gold's Evolution Into a Full Game Pass Membership</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweaking-your-tweets-audience-engagement-techniques/"><u>[Updated] 2024 Approved Tweaking Your Tweets Audience Engagement Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-free-and-paid-non-microsoft-productivity-suites-of-2024-revealed/"><u>Best Free & Paid Non-Microsoft Productivity Suites of 2024 Revealed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-ps4-performance-a-comprehensive-guide/"><u>Boosting PS4 Performance: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-visual-frontier-steps-to-setting-up-your-xbox-series-x-in-4k/"><u>Conquer the Visual Frontier: Steps to Setting Up Your Xbox Series X in 4K</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-office-seat-style/"><u>Game on, Office Seat Style</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-meizu-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Meizu Phone with Broken Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseofs-pinnacle-innovations-from-mwc-2024/"><u>MakeUseOf's Pinnacle Innovations From MWC 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-unlocking-the-future-of-simulated-driving/"><u>MOZA R5: Unlocking the Future of Simulated Driving</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-memory-and-cpu-for-streamers-on-w11/"><u>Optimizing Memory & CPU for Streamers on W11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/snappy-zoom-calls-for-improved-engagement-for-2024/"><u>Snappy Zoom Calls for Improved Engagement for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-enhancing-controllers-remotely/"><u>The Future of Gaming: Enhancing Controllers Remotely</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vida-unveiled-a-gateway-to-professional-video-craftsmanship/"><u>Vida Unveiled A Gateway to Professional Video Craftsmanship</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-invest-in-corsairs-icue-link-uncover-the-four-transformative-perks/"><u>Why Invest in Corsair's iCUE Link? Uncover the Four Transformative Perks</u></a></li>
 </ul></div>
 

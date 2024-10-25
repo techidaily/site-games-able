@@ -1,7 +1,7 @@
 ---
 title: Perfect Control Prowess in Switch Emulation Using Ryujinx
-date: 2024-10-15T16:33:22.737Z
-updated: 2024-10-19T05:17:12.124Z
+date: 2024-10-19T00:27:54.770Z
+updated: 2024-10-25T06:18:15.860Z
 tags:
   - games
 categories:
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
  With some of the specific features of Ryujinx defined, you should be ready to start mapping a controller for Nintendo Switch emulation. So, as long as you have Ryujinx installed on your device of choice, you can map a Nintendo, PlayStation, Xbox, or third-party controller by following these steps:
@@ -45,23 +58,22 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
@@ -71,20 +83,13 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
 
@@ -97,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 * Changing the designated**Controller Type** , so you can map an entire controller as one Joy-Con controller or vice-versa.
 
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
@@ -121,21 +133,22 @@ thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe95
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-photographic-tool-dynamic-wallpaper-editor/"><u>[New] 2024 Approved Essential Photographic Tool Dynamic Wallpaper Editor</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-top-7-precision-shooter-classics-for-2024/"><u>[New] Top 7 Precision Shooter Classics for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-examining-performance-lg-bp350-screen-review/"><u>[Updated] Examining Performance LG BP350 Screen Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-drone-racing-guide-and-5-top-fpv-uavs-for-2024/"><u>Comprehensive Drone Racing Guide & 5 Top FPV UAVs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/delve-into-depth-and-detail-boosting-blu-ray-quality-in-xbox-sx/"><u>Delve Into Depth & Detail - Boosting Blu-Ray Quality in Xbox SX</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-11-pro-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 11 Pro Factory Reset? | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-14-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi 14 Lock Screen Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-xs-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone XS Max When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/localize-your-games-translation-patches-for-emulators/"><u>Localize Your Games - Translation Patches for Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendos-past-present-in-your-palm/"><u>Nintendo's Past, Present in Your Palm!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-vivo-v27e-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Vivo V27e</u></a></li>
-<li><a href="https://games-able.techidaily.com/rising-through-the-roosters-of-new-york-city-unconventionally/"><u>Rising Through the Roosters of New York City Unconventionally</u></a></li>
-<li><a href="https://games-able.techidaily.com/save-smart-spend-less-with-xbox-series/"><u>Save Smart, Spend Less with Xbox Series</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gaming-mice-and-buttons-2024-edition/"><u>Top Gaming Mice & Buttons, 2024 Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/winmc-lan-connectivity-issues-solving-with-7-easy-steps-on-windows/"><u>WinMC LAN Connectivity Issues - Solving with 7 Easy Steps on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-edge-editing-integrating-luts-into-your-ae-workflow-for-2024/"><u>[New] Cutting Edge Editing Integrating LUTs Into Your AE Workflow for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-for-effortless-apple-podcast-acquisition-swift-and-smooth-for-2024/"><u>[Updated] How-To for Effortless Apple Podcast Acquisition – Swift & Smooth for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/2024-wireless-earbud-highlights/"><u>2024 Wireless Earbud Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-day-to-day-strategies-for-circumventing-connections-gaming/"><u>8 Day-to-Day Strategies for Circumventing Connections Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-renaming-at-riot-studios/"><u>A Step-by-Step Guide to Renaming at Riot Studios</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-arcade-how-to-discover-highest-calibre-apple-titles/"><u>Ace Your Arcade: How to Discover Highest Calibre Apple Titles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-solution-making-your-astro-a50-compatible-with-the-control-hub/"><u>Comprehensive Solution: Making Your Astro A50 Compatible with the Control Hub</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-your-dormant-data-windows-storage-visualization-tactics/"><u>Discover Your Dormant Data: Windows Storage Visualization Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-games-unraveling-success-through-helldivers-2/"><u>Epic Games: Unraveling Success Through Helldivers 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-motorola-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Motorola</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-to-your-steam-id-online/"><u>Navigating to Your Steam ID Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-retro-classics-in-modern-console-formats/"><u>Reviving Retro Classics in Modern Console Formats</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecno-unveils-thinner-t1-vivid-s1-at-ifa-2023/"><u>Tecno Unveils Thinner T1, Vivid S1 at IFA 2023</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-how-to-resolve-the-issue-of-a-white-blank-cursor-in-microsoft-windows/"><u>Troubleshooting Guide: How to Resolve the Issue of a White Blank Cursor in Microsoft Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unbiased-review-of-the-rexing-v1-dash-cam-cost-effective-and-dependable-choice/"><u>Unbiased Review of the Rexing V1 Dash Cam: Cost-Effective & Dependable Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-potential-with-apples-game-mode-in-sonoma-os/"><u>Unlocking Gaming Potential with Apple's Game Mode in Sonoma OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-the-causes-of-hardware-malfunctions-dm/"><u>Unveiling the Causes of Hardware Malfunctions (DM)</u></a></li>
 </ul></div>
 

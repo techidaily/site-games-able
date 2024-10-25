@@ -1,7 +1,7 @@
 ---
 title: Is the Magic AceAM08 Pro Genuine or Not?
-date: 2024-10-15T00:29:57.355Z
-updated: 2024-10-19T05:50:27.594Z
+date: 2024-10-20T02:26:07.615Z
+updated: 2024-10-25T00:55:52.012Z
 tags:
   - games
 categories:
@@ -84,19 +84,6 @@ Wi-Fi 6E, Bluetooth 5.2
 
  But does it actually deliver? Can you really play the best recent games on this system, or does it just sit on your desk looking RGB-pretty?
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Ships With the AceMagic AM08 Pro?
 
  In some ways, the AceMagic AM08 Pro from AceMagician is a PC retailer’s dream. It’s reasonably affordable and ships in a tiny box that makes it cheap to store and distribute.
@@ -105,13 +92,6 @@ But what is in that box?
 
 ![ACEMAGIC AM08 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-vents.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You get the PC, measuring 5.89 x 3.06 x 7.42 inches (weighing 863 grams, or 30oz), a mains power adapter, power cable, HDMI cable, and a quick start guide. Unsurprisingly, you’ll need to provide your own keyboard and mouse and any other peripherals or input devices.
 
  Setting it up takes a few seconds, and within a minute you can be configuring Windows 11 Pro, which comes pre-installed. Of course, getting through the Windows 11 setup can take a while, and once that's done you’ll need to install a gaming platform or sign into PC Game Pass.
@@ -119,10 +99,10 @@ But what is in that box?
  But once you’re done with that, it’s time to start installing and playing games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who Is This Mini Gaming PC For?
@@ -139,13 +119,6 @@ So who would want an AceMagic AM08 Pro?
 
  Fortunately, I have a couple of children in this exact age range. One of them, Bruce, has helped by providing space in his bedroom and considerable time testing various games.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AceMagic AM08 Pro Device Specifications
 
  Two versions of the AceMagic Pro PC are available: the AM08 AMD model and the AD08 Intel variant (with an Intel Core i9 CPU). We received the AMD model, which features an AMD Ryzen 9 6900HX CPU (8 cores, 16 threads) with an AMD Radeon 680M GPU. (This is the same GPU as the[GPD Win 4 handheld](https://www.makeuseof.com/review-gpd-win-4-handheld-console-review/) ).
@@ -154,30 +127,31 @@ So who would want an AceMagic AM08 Pro?
 
 ![HDMI and Ethernet ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-rear-ports-1.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Up to three 4K displays can be connected to this computer. Dual HDMI ports are mounted on the device, along with a USB 4.0 Type-C port. This handles other data besides display output.
 
  In addition, the power button is mounted on a fan performance selector rocker switch. Affording control over the high-performance dual fans, this switches between Low, Normal, and Performance, with the middle option the default.
 
 ![ACEMAGIC AM08 Pro LEDs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-leds-1.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows 11 Pro is preinstalled, and the computer comes with AceMagic's 30-day refund and return and a 3-year warranty.
 
  A quick note on the size: the user guide indicates that the computer can be mounted on the back of a monitor using a VESA attachment, but no plate is included in the box.
 
 Perhaps most surprisingly, this unit is expandable.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Upgrade the AceMagic AM08 Pro
 
@@ -187,11 +161,25 @@ Perhaps most surprisingly, this unit is expandable.
 
 ![ACEMAGIC AM08 Pro expansion ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-ports.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Admittedly, these are laptop-style upgrades, but they’re upgrades nevertheless. It’s enough to give this machine a bit of longevity.
 
  One thing to note about the hardware is the wireless networking. I live in a small house, and the computer was set up in a room near our router (about 12 feet diagonally). However, there seemed to be an issue maintaining a strong Wi-Fi signal. This isn’t an issue with the room, as a tablet computer is regularly used there.
 
  This may be a quirk of the review device (I checked with the AceMagic people and the problem could not be replicated), but it was easily dealt with thanks to a powerline adapter. While your own experience may differ, this is worth keeping in mind.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Gaming on the AceMagic AM08 Pro
 
@@ -220,6 +208,13 @@ But how does this work out in practice?
 
  It should be no surprise to read that it handled them all perfectly. But then, all it has done throughout this review is surprise. Sure, it is a tiny computer, but it appears to be just as capable as any standard PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## No, It’s Not a Gaming PC, But It'll Do
 
  By this point, you’re probably thinking one of two things: “There's no way that’s really a gaming PC” or “Wow, a gaming PC for $500!”.
@@ -241,13 +236,6 @@ But how does this work out in practice?
  Essentially, this isn’t a “gaming PC” for people who live and breathe games, but it is a gaming PC for people who like games enough to spend a bit of time on them and expect them to be playable. Oh, and teenagers. Teens will love the AceMagic AM08 Pro.
 
 ![ACEMAGIC AM08 Pro LEDs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-reviews-acemagicianam08-leds-1.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### ACEMAGICIAN ACEMAGIC AM08 Pro
 
@@ -272,20 +260,22 @@ But how does this work out in practice?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-free-online-10-the-best-subtitles-tools/"><u>[Updated] In 2024, Free Online 10 The Best Subtitles Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-streamline-your-content-embedding-youtube-media-into-instagrams-story-section/"><u>[Updated] In 2024, Streamline Your Content Embedding YouTube Media Into Instagram's Story Section</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip-for-2024/"><u>[Updated] Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-currents-of-change/"><u>Current Currents of Change</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-console-playback-control-on-pc-games-150-chars/"><u>Enabling Console Playback Control on PC Games (150 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-very-best-8-game-news-plus-sites/"><u>Explore: The Very Best 8 Game News + Sites</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nspired-from-top-10-recruitment-videos/"><u>Get Inspired From Top 10 Recruitment Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-a60s-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel A60s</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-amplify-engagement-increase-youtube-viewers/"><u>In 2024, Amplify Engagement Increase YouTube Viewers</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-pilgrimages-a-top-9-travelers-guide-to-games/"><u>Pixel Pilgrimages: A Top 9 Traveler's Guide to Games</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolving-the-blue-screen-of-death-read-only-memory-write-error-fixes/"><u>Resolving the Blue Screen of Death: Read-Only Memory Write Error Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-gaming-revolution-new-era-of-ai-opportunities/"><u>Steam's Gaming Revolution: New Era of AI Opportunities</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-11-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 11 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-a-new-era-of-portability-connecting-pc-and-steam-deck-with-barrier-methods/"><u>Unleashing a New Era of Portability: Connecting PC & Steam Deck with Barrier Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-ea-play-a-guide-for-newcomers-and-veterans-alike/"><u>Unlock the Potential of EA Play - A Guide for Newcomers & Veterans Alike</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-entry-editor-for-seamless-edits-across-all-platforms/"><u>[New] Top Entry Editor for Seamless Edits Across All Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-science-of-captivating-steam-game-critiques/"><u>Breaking Down the Science of Captivating Steam Game Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-game-recognition-errors-in-steam-database/"><u>Correcting Game Recognition Errors in Steam Database</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-captivating-livestreams-with-zoom-for-youtube-audiences-for-2024/"><u>Crafting Captivating Livestreams with Zoom for YouTube Audiences for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/critical-considerations-for-selecting-the-perfect-pedometeractivity-tracking-device/"><u>Critical Considerations for Selecting the Perfect Pedometer/Activity Tracking Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/cultivating-a-virtual-garden-the-9-positive-factors-and-negative-factorsthat-shape-digital-games-world/"><u>Cultivating a Virtual Garden: The 9 Positive Factors and Negative Factorsthat Shape Digital Games' World</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-meta-what-it-is-and-should-gamers-follow/"><u>Demystifying 'Meta': What It Is & Should Gamers Follow?</u></a></li>
+<li><a href="https://games-able.techidaily.com/digging-deep-into-downloading-minecraft-dungeons/"><u>Digging Deep Into Downloading Minecraft Dungeons</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-techniques-to-get-rid-of-programs-missing-from-system-settings/"><u>Expert Techniques to Get Rid of Programs Missing From System Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-saves-money-but-not-without-exceptions/"><u>Google Play Pass Saves Money, But Not Without Exceptions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-se-2020-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone SE (2020)?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-pixelpreserve-a-comprehensive-screen-record-review/"><u>In 2024, 'PixelPreserve' A Comprehensive Screen Record Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-more-than-just-images-at-pexelscom/"><u>In 2024, Get More Than Just Images at Pexels.com</u></a></li>
+<li><a href="https://games-able.techidaily.com/reduce-expenses-increase-fun-with-xbox-s/"><u>Reduce Expenses, Increase Fun with Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-connection-problems-in-windows-steam-remote-play/"><u>Resolving Connection Problems in Windows-Steam Remote Play</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725289881166-ai-windows-mac-10/"><u>무료 AI 비디오 인핸서를 위해: Windows, Mac 모드로 시청하기! 가장 우수한 10개 선택</u></a></li>
 </ul></div>
 

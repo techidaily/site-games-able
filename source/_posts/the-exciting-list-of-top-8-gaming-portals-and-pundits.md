@@ -1,7 +1,7 @@
 ---
 title: The Exciting List of Top 8 Gaming Portals & Pundits
-date: 2024-10-14T07:09:03.796Z
-updated: 2024-10-19T05:04:57.434Z
+date: 2024-10-18T21:21:15.212Z
+updated: 2024-10-25T02:09:04.314Z
 tags:
   - games
 categories:
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
 ![Destructoid Site 2021](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/01-Destructoid-Site-2021.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Destructoid is a great all-around gaming site with a bit of everything. It publishes articles regularly, with lots of news posts, reviews, and features appearing each week. This includes updates on certain games, previews of upcoming games, and opinion pieces.
 
  It's not just a gaming news site, though. Destructoid publishes reviews of console and PC games, as well as mobile titles and even DLC. Its reviews are straightforward, and you can read[Destructoid's scoring system](https://www.destructoid.com/the-official-destructoid-review-guide-2011-203909.phtml) to understand how it rates games.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 ![GamesRadar 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/02-GamesRadar-2021-Screenshot.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another gaming news site that offers a healthy balance of content, GamesRadar+ provides news, reviews, features, hands-on looks at new games, and more. You can view reviews and guides for games on your favorite system, or check out the latest news and reviews.
@@ -66,15 +59,28 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
  In the reviews, clear**Pros** /**Cons** lists and a summary of the verdict make them easy to skim. Overall, GamesRadar+ provides lots of content to check out, as well as quick stories for staying abreast of gaming news.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3. Game Informer
 
 ![Game Informer 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/03-Game-Informer-2021-Screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Game Informer is a long-running video game magazine that also has a website. Unlike other gaming websites that also feature content for movies and TV, this one is all about games (occasionally covering movies and TV based on games). You'll find news, previews of upcoming games, reviews, and features.
 
@@ -93,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
  A lot of the time, it's hard to sum up a game's quality in a single number. Thus, many people have issues with the weight placed on Metacritic, but it's a fine place to start your research on a game. Just remember that a numbered score isn't everything. Consider[OpenCritic](https://opencritic.com/) as an alternative, which addresses some of the problems people have with Metacritic.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5. Nintendo Life
@@ -110,35 +116,27 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
  With a pleasant community in the forums and comment sections, this is a must-visit for all Nintendo fans. For similar sites in the same network, check out[Push Square](https://www.pushsquare.com/) (PlayStation) and[Pure Xbox](https://www.purexbox.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6. GameSpot
 
 ![GameSpot 2021 Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/06-GameSpot-2021-Screenshot.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  GameSpot is a well-known gaming site that's worth a visit. You'll find popular and recent news on its homepage, along with lists of upcoming games and recent reviews.
 
  The site reviews games, both popular and small, on every platform. For something a little different, you can also check out its video shows and[forums to connect with other gamers](https://www.makeuseof.com/tag/big-gaming-forums-video-game-talk/) .
 
  There are some occasional quirks with its reviews, like the writer mentioning that they didn't play through the entire game. Because of this, it is nice to see a summary of what the reviewer played at the bottom of the article. But overall, it's a quality resource.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7. Christ Centered Gamer
 
@@ -161,19 +159,33 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
  You can start by keeping an eye on the latest game releases and developments on the site's Gaming News page. Platformers of all types can get something as Game Rant comprehensively covers PC, PlayStation, Xbox, Nintendo, & mobile titles. If you are a beginner, the detailed Explainers on each game title can not only help you learn about different games but also make informed decisions about which games to buy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Websites for User-Written Game Reviews
 
  The above sites are all professional publications for game news and reviews. However, don't forget that there are tons of resources online to read user-created reviews too. Since opinions on games are subjective, you might prefer to read several reviews from everyday players in addition to, or instead of, professional articles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### YouTube
 
  Anyone with an opinion and a YouTube channel can make a video reviewing a game. If you prefer to watch gameplay for a game instead of just reading about it, this is a great option. Chances are that you'll be able to find someone talking about the game you're interested in. Have a look at the[best YouTube game review channels](https://www.makeuseof.com/tag/youtube-channels-video-game-reviews/) to start.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### GameFAQS
 
@@ -212,22 +224,21 @@ thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-direct-engagement-broadcast-from-twitch-to-facebook-friends/"><u>[Updated] 2024 Approved Direct Engagement Broadcast From Twitch to Facebook Friends</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-advanced-techniques-for-professional-mac-burned-discs/"><u>[Updated] Advanced Techniques for Professional Mac-Burned Discs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>[Updated] Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-snapchat-to-social-upload-videos-on-twit/"><u>[Updated] In 2024, From Snapchat to Social Upload Videos on Twit</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-real-world-examples/"><u>2024 Approved Real-World Examples</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/constructing-a-safe-pleasurable-steam-experience/"><u>Constructing a Safe, Pleasurable Steam Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-gaming-on-xbox-without-the-d-pad/"><u>Effortless Gaming on Xbox Without the D-Pad</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/fitbit-versa-lite-assessment-exceptional-wellbeing-supervision-at-a-friendly-price-point/"><u>Fitbit Versa Lite Assessment: Exceptional Wellbeing Supervision at a Friendly Price Point</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-connect-a-keyboard-and-mouse-to-your-nintendo-switch-2-ways/"><u>How to Connect a Keyboard and Mouse to Your Nintendo Switch: 2 Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/preferred-5-benefits-nostalgic-gamers-handheld-delight/"><u>Preferred 5 Benefits: Nostalgic Gamers' Handheld Delight</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-verbal-virtuoso-showdowns-for-chat-champions/"><u>Seven Verbal Virtuoso Showdowns for Chat Champions</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-itel-s23-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Itel S23</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-player-within-with-chatgpts-top-6-games/"><u>Unleash The Player Within with ChatGPT’s Top 6 Games</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-or-download-new-dell-wd1n-series-drivers-with-ease/"><u>Update or Download New Dell WD1n Series Drivers with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-comprehensive-codes-of-conduct-for-the-yt-community/"><u>[New] 2024 Approved Comprehensive Codes of Conduct for the Yt Community</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-accelerating-the-playback-of-instagram-videos-tips/"><u>[New] Accelerating the Playback of Instagram Videos (Tips)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-the-action-5-roblox-recordings-for-mac-users/"><u>[New] Capturing the Action 5 Roblox Recordings for Mac Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-blocking-made-simple/"><u>[New] Instagram Blocking Made Simple</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-laugh-and-cry-on-instagram-best-meme-accounts-of-the-year-for-2024/"><u>[New] Laugh and Cry on Instagram Best Meme Accounts of the Year for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bend-twist-and-shape-your-digital-pics/"><u>[Updated] Bend, Twist & Shape Your Digital Pics</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-selective-guide-to-exceptional-twitch-download-apps/"><u>A Selective Guide to Exceptional Twitch Download Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-every-gameplay-session-ensuring-optimal-frames-per-second-in-valorant-for-pc-users/"><u>Ace Every Gameplay Session: Ensuring Optimal Frames Per Second in Valorant for PC Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/connectivity-at-its-peak-strategies-for-broadcasting-videos-to-friends/"><u>Connectivity at Its Peak Strategies for Broadcasting Videos to Friends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-face-pixelation-choosing-top-8-software-options/"><u>Digital Face Pixelation - Choosing Top 8 Software Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-experience-google-play-games-on-pc/"><u>How to Experience Google Play Games on PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-to-tune-video-to-audible-file/"><u>In 2024, Tweet-to-Tune Video to Audible File</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-player-value-4-pivotal-enhancements-for-xbox-rewards/"><u>Redefining Player Value: 4 Pivotal Enhancements for Xbox Rewards</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upside-of-staggered-game-drops/"><u>The Upside of Staggered Game Drops</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-hd-144hz-gaming-displays-guide/"><u>Ultimate HD 144Hz Gaming Displays Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-mac-computers-revolutionize-pc-gameplay/"><u>Will Mac Computers Revolutionize PC Gameplay?</u></a></li>
 </ul></div>
 

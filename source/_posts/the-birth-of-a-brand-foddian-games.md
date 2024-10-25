@@ -1,7 +1,7 @@
 ---
 title: "The Birth of a Brand: Foddian Games"
-date: 2024-09-18T17:01:46.931Z
-updated: 2024-09-20T20:04:30.156Z
+date: 2024-10-19T23:31:13.293Z
+updated: 2024-10-24T17:39:10.540Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  Another attribute of Getting Over It’s success is the sheer difficulty and the entertainment tied to watching people either fail or succeed. Popular creators like Ludwig and CdawgVA saw the content potential and have helped popularize this title.
 
  Getting Over It wasn’t the first platformer, but it created a format that has been improved upon in newer games that fall under the Foddian genre. Bennet Foddy pioneered an era of gaming, whether he intended to or not, and complex puzzle platforming games are better for it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Rise of Jump King
 
@@ -55,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
  A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
@@ -62,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Evolution of Foddian Games
@@ -86,23 +107,9 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q: What Games Are Similar to Getting Over It With Bennett Foddy?
 
  Within the genre of Foddian games, numerous titles emulate the addicting frustration of games like Getting Over With Bennett Foddy. Of these games, titles like QWOP, an aggravating sprinting game in which you need to order every limb of your runner to move, or the classic browser game Happy Wheels, are some of the most popular Foddian-like games. That said, tons of[difficult browser games](https://www.makeuseof.com/tag/the-hardest-games-in-the-whole-wide-world/) also provide a similar Foddian experience.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: How Long Is Only Up!?
 
@@ -125,5 +132,23 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-exquisite-solution-for-vr-adventures/"><u>[New] 2024 Approved Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-techniques-to-avoid-blackout-issues-on-online-video-platform/"><u>[New] In 2024, Techniques to Avoid Blackout Issues on Online Video Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-gaming-filmmaking-techniques-to-record-games-flawlessly/"><u>[Updated] In 2024, Gaming Filmmaking Techniques to Record Games Flawlessly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamline-video-production-with-free-music/"><u>[Updated] Streamline Video Production with Free Music</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-inshots-superiority-in-the-editing-arena-for-2024/"><u>Assessing InShot's Superiority in the Editing Arena for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-your-xbox-controllers-energy-lifespan/"><u>Extending Your Xbox Controller's Energy Lifespan</u></a></li>
+<li><a href="https://games-able.techidaily.com/fashion-meets-functionality-leading-2024-case-trends/"><u>Fashion Meets Functionality: Leading 2024 Case Trends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-activation-key-offered-for-videoeditorplus-start-editing-now/"><u>Free Activation Key Offered for [VideoEditorPlus] – Start Editing Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-basics-enhancing-audio-clarity-in-valorant/"><u>HRTF Basics: Enhancing Audio Clarity in Valorant?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-2020-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE (2020) without Passcode or Face ID</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-game-pauseresume-on-chrome/"><u>Master Game Pause/Resume on Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-streamers-choice-best-twitch-vod-downloading-options/"><u>Pro-Streamer's Choice: Best Twitch VOD Downloading Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-your-access-to-ps5-gaming-libraries/"><u>Simplifying Your Access to PS5 Gaming Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gamers-progress-systems/"><u>Top-Rated Gamers' Progress Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unique-guide-changing-the-receiver-for-a-different-logitech-mouse-model/"><u>Unique Guide: Changing The Receiver For A Different Logitech Mouse Model</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upgrade and Conquer: The Art of Windows Implementation on Steam Deck"
-date: 2024-09-16T23:50:31.489Z
-updated: 2024-09-21T02:06:21.887Z
+date: 2024-10-19T00:11:04.326Z
+updated: 2024-10-25T01:38:21.355Z
 tags:
   - games
 categories:
@@ -62,6 +62,13 @@ Jhet Borja/MUO
 
 ![Ventoy Windows zip file from GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ventoy-windows-zip-file-from-github.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head to[Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
 ### GNOME Partition Editor (GParted) ISO
@@ -82,9 +89,23 @@ Jhet Borja/MUO
 
 ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
  You can find and download the Windows drivers for your Steam Deck on the[Steam Deck Windows Resources support page](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8) . Extract all of them into a single folder so that you can paste it onto your SD card or flash drive later.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install Windows on Your Steam Deck
 
@@ -103,6 +124,13 @@ Jhet Borja/MUO
  You’ll then select the storage device you want to store Ventoy on. In our case, it’s the 32GB SD card. Click**Install** .
 
 ![Ventoy Drive with all ISOs and Windows Drivers inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ventoy-drive-with-all-isos-and-windows-drivers-inside.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that Ventoy is installed, copy over GParted, the Windows 11 ISO, and a folder containing the Windows drivers for the Steam Deck. You can now insert the SD card into the Steam Deck.
 
@@ -138,6 +166,13 @@ Jhet Borja/MUO
 
 ![Enter GParted Live first option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enter-gparted-live-first-option.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  Once GParted is open, you’ll be greeted with a few things before you can get to partitioning. Firstly, you’ll need to select the settings. Pick the first one—**GParted Live (Default Settings)** .
@@ -153,13 +188,6 @@ Jhet Borja/MUO
  Finally, you’re ready to partition your SSD. By this point, you can plug in your mouse and keyboard to make it easier to navigate. If your SD card or flash drive is the only thing you can see, switch it to your SSD on the upper right drop-down menu.
 
 ![Resizing home partition on Steam Deck SSD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/resizing-home-partition-on-steam-deck-ssd.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -180,13 +208,6 @@ Jhet Borja/MUO
  Now you're ready to install Windows on your Steam Deck. Before you go to the boot manager though, unplug any other USB devices you used earlier except the flash drive. This prevents the ISOs or Ventoy from malfunctioning.
 
 ![Windows 11 ISO on Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-iso-on-ventoy.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -212,18 +233,18 @@ Jhet Borja/MUO
 
 ![Windows Drivers from Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-drivers-from-steam.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To do this, open up your File Explorer and click on the Ventoy drive. Open the folder we told you to place the Steam Deck drivers inside and start with any one of them.
 
  If you’re prompted to restart, don’t do it yet. You can restart once you’ve installed all the drivers to make it easier.
 
 ![Installing Steam Deck audio driver part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/installing-steam-deck-audio-driver-part-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Proceed to click on**Install** for the other drivers, but you may find that the audio drivers do not have an executable. To install the two audio drivers, simply right-click (left trigger) on the file that says**Setup information** and click**Install** .
 
@@ -257,28 +278,29 @@ Jhet Borja/MUO
 
 ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  If you’re near the end of your Windows installation and it suddenly says it cannot install drivers, other USB devices may be interfering with the installation.
 
  Shut down your Steam Deck by holding down the power button and unplug any USB devices except your flash drive or SD card. Don’t plug in any USB devices during the installation to avoid this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### You Can’t Find SteamOS in the Boot Manager
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -308,13 +330,6 @@ Then type:
 
  If you can see steamcl.efi with an asterisk next to its boot order number, it means that it’s in your boot manager now. You can verify it by shutting your Steam Deck down and entering the boot manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steam Deck Navigation and Controls on Windows
 
  If you’re having a hard time with the Steam Deck controls on Windows and want to use the controls like on SteamOS, download Steam and have it open.
@@ -340,5 +355,23 @@ Then type:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-access-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps/"><u>[Updated] Access Short Videos Anywhere The Top 6 Free & Online YouTube Short Download Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-asmr-mastery-your-guide-to-nighttime-relaxation/"><u>[Updated] In 2024, ASMR Mastery Your Guide to Nighttime Relaxation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-to-top-6-creative-mojave-dwellings/"><u>[Updated] Ultimate Guide to Top 6 Creative Mojave Dwellings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-youtube-video-wizardry-top-conversion-techniques-to-mp4mpeg/"><u>[Updated] YouTube Video Wizardry Top Conversion Techniques to MP4/MPEG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-photo-transformations-3dlut-on-the-go/"><u>2024 Approved Mastering Photo Transformations 3DLUT On-the-Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-incredible-resolution-and-refresh-rates/"><u>Game On with Incredible Resolution and Refresh Rates</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instas-funniest-and-touchiest-memetic-hub-a-list-of-10-for-2024/"><u>Insta's Funniest & Touchiest Memetic Hub A List of 10 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-for-audacity-sound-output-errors-top-5-solutions/"><u>Mastering the Fix for Audacity Sound Output Errors - Top 5 Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-vrr-feature-for-smooth-gameplay-on-xbox-console/"><u>Mastering the VRR Feature for Smooth Gameplay on Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-steam-captures-step-by-step-guide/"><u>Preserve Steam Captures: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-and-efficient-charger-kits-for-ps5-dualsense/"><u>Smart & Efficient Charger Kits for PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/tetris-talent-showdowns-on-android-and-ios-devices/"><u>Tetris Talent Showdowns on Android and iOS Devices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-blueprint-for-successful-freefire-videos-on-youtube-for-2024/"><u>The Ultimate Blueprint for Successful FreeFire Videos on YouTube for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stutters-and-lags-in-half-life-alyx-pc-edition/"><u>Troubleshooting Stutters & Lags in 'Half-Life: Alyx' - PC Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-mystery-of-virtual-realitys-exorbitant-pricing/"><u>Unlocking the Mystery of Virtual Reality's Exorbitant Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-cozy-games-a-haven/"><u>What Makes Cozy Games a Haven?</u></a></li>
+</ul></div>
 

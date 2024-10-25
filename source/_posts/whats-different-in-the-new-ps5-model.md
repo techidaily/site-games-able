@@ -1,7 +1,7 @@
 ---
 title: What's Different in the New PS5 Model?
-date: 2024-10-15T07:57:12.595Z
-updated: 2024-10-19T05:50:36.053Z
+date: 2024-10-19T04:45:21.326Z
+updated: 2024-10-24T20:04:57.884Z
 tags:
   - games
 categories:
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Size and Weight
 
  A major change to the PS5's design is the size. The launch PS5's dimensions were 390mm x 260mm x 104mm (height, width, depth) for the disc edition, while the digital edition had dimensions of 390mm x 260mm x 92mm. The smaller PS5s have dimensions of 358mm x 216mm x 96mm and 358mm x 216mm x 80mm for the disc and digital editions, respectively.
@@ -57,22 +50,21 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -88,20 +80,40 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -122,22 +134,24 @@ thumbnail: https://thmb.techidaily.com/22aa5877473f7aef18423fbe77d7ea5e7e2937ae2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-bundles-for-yi-4k-videographers/"><u>[New] The Ultimate Bundles for YI 4K Videographers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sending-direct-tweets-share-photosvideos-on-twitter-without-retweeting/"><u>[Updated] In 2024, Sending Direct Tweets Share Photos/Videos on Twitter without Retweeting</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-led-3d-panel-sets-for-an-elevated-play-area/"><u>Best LED 3D Panel Sets for an Elevated Play Area</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-steams-virtual-economy/"><u>Demystifying Steam's Virtual Economy</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/dvd-video-3/"><u>DVD Video変換無料ソフトの一般的なエラーと解消方法 - 第3章</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-nintendo-switch-game-with-peripherals-90-chars/"><u>Elevate Your Nintendo Switch Game With Peripherals (90 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-play-establishing-a-4k-environment-on-xbox-series-x/"><u>Elevate Your Play: Establishing a 4K Environment on Xbox Series X</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-portable-power-stations-for-gaming/"><u>Exclusive Portable Power Stations for Gaming</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-100-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 100 Pro FRP Locks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-iphone-8-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From iPhone 8</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/optimizing-file-sizes-transform-h264-into-h265-without-compromising-visual-fidelity/"><u>Optimizing File Sizes: Transform H.264 Into H.265 Without Compromising Visual Fidelity</u></a></li>
-<li><a href="https://games-able.techidaily.com/outsmart-glitching-computers-get-the-latest-nvidia-driver-now/"><u>Outsmart Glitching Computers – Get the Latest Nvidia Driver Now</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/tcls-game-changing-offer-comprehensive-breakdown-the-50s425-50-roku-smart-tv-for-the-savvy-consumer-2019/"><u>TCL's Game-Changing Offer - Comprehensive Breakdown: The 50S425 50 Roku Smart TV for the Savvy Consumer (2019)</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165858880-unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-true-potential-of-your-nintendo-switch-with-these-tips/"><u>Unlock the True Potential of Your Nintendo Switch with These Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-to-grips-with-final-cut-pro-step-by-step-tutorial/"><u>[New] Get to Grips with Final Cut Pro – Step by Step Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-written-segmented-by-film-categories/"><u>[Updated] Excellence Written, Segmented by Film Categories</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-10-camera-lenses-to-use-for-2024/"><u>Best 10 Camera Lenses to Use for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-discords-idleness-indicator-is-it-honest/"><u>Dissecting Discord's Idleness Indicator - Is It Honest?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/echo-dot-versus-homepod-mini-which-smart-speaker-wins-for-you/"><u>Echo Dot Versus HomePod Mini - Which Smart Speaker Wins for You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-access-no-limits-with-xbox-game-pass-ultimate/"><u>Exclusive Access, No Limits with Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-tablets-for-enhanced-gameplay-beat/"><u>Graphic Tablets for Enhanced Gameplay Beat</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-photo-tools-top-9-camgear-enhancers-for-filmmakers/"><u>In 2024, Essential Photo Tools Top 9 CamGear Enhancers for Filmmakers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Yuva 2 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-frames-dominate-gameplay-in-csgo/"><u>Increase Frames, Dominate Gameplay in CS:GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-gaming-our-list-of-must-see-features/"><u>Java Gaming: Our List of Must-See Features</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-your-next-skype-interview-proven-techniques/"><u>Master Your Next Skype Interview: Proven Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-mastermind-the-ultimate-audio-game-showdown/"><u>Melody Mastermind: The Ultimate Audio Game Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecnos-smarter-shorter-phones-for-ifa-2023/"><u>Tecno's Smarter, Shorter Phones for IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sound-excellence-that-is-beyerdynamic-mmx-200/"><u>The Sound Excellence That Is Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gaming-advantage-unveiling-steams-benefits/"><u>The Ultimate Gaming Advantage: Unveiling Steam’s Benefits</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-how-to-delete-win10-memory-dump-file/"><u>Ultimate Tutorial: How To Delete Win10 Memory Dump File</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vermeidung-von-falschen-deutschen-entschuldigungen/"><u>Vermeidung Von Falschen Deutschen Entschuldigungen</u></a></li>
 </ul></div>
 

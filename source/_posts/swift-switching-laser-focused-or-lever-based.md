@@ -1,7 +1,7 @@
 ---
 title: "Swift Switching: Laser-Focused or Lever-Based?"
-date: 2024-10-13T08:45:42.247Z
-updated: 2024-10-19T11:08:37.576Z
+date: 2024-10-20T23:10:49.112Z
+updated: 2024-10-25T01:20:38.935Z
 tags:
   - games
 categories:
@@ -40,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 So, which is better for gaming?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Optical Switches vs. Mechanical Switches
 
 ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
 
@@ -58,13 +65,6 @@ So, which is better for gaming?
 * **Noisiness:** How loud are the keys?
 
 Let's take a look at these four factors in closer detail.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Durability
 
@@ -82,13 +82,6 @@ Let's take a look at these four factors in closer detail.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Feel and Noisiness
 
  How mechanical or optical keys feel is largely down to preference, which also goes for the loudness. But, with more options available, it's more likely you'll find a mechanical keyset matching your preferences.
@@ -101,22 +94,29 @@ Let's take a look at these four factors in closer detail.
 
  The[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Price and Availability
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 
  Now, while there aren't as many optical keyboards compared to mechanical ones, the number of top-quality optical boards has increased. You can now find excellent optical keyboards such as the[Corsair K100](https://www.amazon.com/Corsair-K100-Mechanical-Gaming-Keyboard/dp/B08HR68MQZ?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=23638b63479cce034fb8bee791143ce1&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) ,[Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=39515068956761) , and[Roccat Vulcan TKL Pro](https://www.amazon.com/ROCCAT-Vulcan-Compact-Optical-Keyboard/dp/B08J4DGBB9?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=b16daf181c950078b96fbd7a45f2251a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) .
 
  Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Should You Buy: Optical or Mechanical Switches?
 
@@ -147,24 +147,24 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-sharing-horizontals-in-igtvs-vertical-world-for-2024/"><u>[New] The Art of Sharing Horizontals in IGTV's Vertical World for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-vivavideo-review-insights-and-impressions-for-2024/"><u>[New] VivaVideo Review Insights and Impressions for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-best-instagram-highlight-cover-makers-online-you-should-know/"><u>[Updated] 2024 Approved Best Instagram Highlight Cover Makers Online You Should Know</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-next-level-android-for-3d-video-enthusiasts/"><u>[Updated] 2024 Approved Next-Level Android for 3D Video Enthusiasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/m4amp3windowsmac-os-x/"><u>【音声変換ソフト】M4AをMP3に自由に変換！Windows/Mac OS Xで利用可能なベストツールの紹介</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-duels-dominating-androidios-with-dexterous-tetris-skills/"><u>Digital Duels: Dominating Android/iOS with Dexterous Tetris Skills</u></a></li>
-<li><a href="https://games-able.techidaily.com/ephemeral-game-magic-exclusive-power-ups-event/"><u>Ephemeral Game Magic: Exclusive Power-Ups Event</u></a></li>
-<li><a href="https://games-able.techidaily.com/evolving-the-transformation-in-mmo-gaming/"><u>Evolving: The Transformation in MMO Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-cutting-edge-devices-with-toms-hardware-analysis/"><u>Exploring Cutting-Edge Devices with Tom's Hardware Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x50i-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X50i?</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-internet-speed-techniques-to-decrease-latency/"><u>Optimal Internet Speed: Techniques to Decrease Latency</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-gaming-and-workflow-with-4-key-features-of-corsairs-icue-link/"><u>Optimize Gaming & Workflow with 4 Key Features of Corsair’s iCUE Link</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-arma-3-freezing-and-crashing-top-strategies-for-stable-gameplay/"><u>Overcome Arma 3 Freezing & Crashing: Top Strategies for Stable Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/safekeep-your-gaming-memories-steam-images-routine/"><u>Safekeep Your Gaming Memories: Steam Images Routine</u></a></li>
-<li><a href="https://games-able.techidaily.com/secrets-of-shiny-encounters-scv-edition-67/"><u>Secrets of Shiny Encounters SCV Edition (67)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-full-picture-of-palworld/"><u>The Full Picture of PalWorld</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-year-of-switch-gaming-in-motion-predicted/"><u>The Year of Switch - Gaming in Motion Predicted</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unwrapped-in-depth-look-at-screenflow-v4-on-macos-for-2024/"><u>Unwrapped In-Depth Look at ScreenFlow v4 on macOS for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-mounts-uninterrupted-mobile-shooting-for-2024/"><u>[New] Cutting-Edge Mounts Uninterrupted Mobile Shooting for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-comprehensive-roadmap-to-effective-reddit-sharing/"><u>[New] In 2024, The Comprehensive Roadmap to Effective Reddit Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tricks-to-simulate-historical-alterations/"><u>[New] Tricks to Simulate Historical Alterations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-frosty-olympics-highlights-in-figure-skating/"><u>[Updated] 2024 Approved Frosty Olympics Highlights in Figure Skating</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-maximize-your-online-interactions-with-these-5-devices/"><u>[Updated] Maximize Your Online Interactions with These 5 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-standout-emulator-options-for-mac-users/"><u>5 Standout Emulator Options for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delivery-of-games-a-steam-guide-to-gifts/"><u>Digital Delivery of Games: A Steam Guide to Gifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/gameplay-experience-series-x-vs-custom-pc/"><u>Gameplay Experience: Series X Vs. Custom PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-complet-pour-integrer-des-techniques-daugmentation-visuelle-dans-imovie/"><u>Guide Complet Pour Intégrer Des Techniques D'Augmentation Visuelle Dans iMovie</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-auditory-illusions-video-meets-apple-music/"><u>In 2024, Auditory Illusions Video Meets Apple Music</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173155093-my-2-years-in-high-definition-with-an-oled-monitor/"><u>My 2 Years in High Definition with an OLED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-itchios-best-indie-game-finds/"><u>Navigating Itch.io's Best Indie Game Finds</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-with-new-york-times-connections/"><u>Playing with New York Times Connections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/screencaptureelite-the-5-star-apeaksoft-evaluation-for-2024/"><u>ScreenCaptureElite – The 5-Star Apeaksoft Evaluation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-stops-unlawful-game-return-gambits/"><u>Steam Stops Unlawful Game Return Gambits</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-new-frontier-how-mmo-games-are-innovating/"><u>The New Frontier: How MMO Games Are Innovating</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-manual-for-resolving-d3dx928dll-file-not-detected-issues/"><u>The Ultimate Troubleshooting Manual for Resolving d3dx9_28.dll File Not Detected Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-consoles-potential-with-these-wi-fi-tips/"><u>Unlock Your Console's Potential with These Wi-Fi Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtubes-beauty-titans-whos-leading-for-2024/"><u>YouTube's Beauty Titans Who's Leading for 2024</u></a></li>
 </ul></div>
 

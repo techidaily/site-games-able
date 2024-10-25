@@ -1,7 +1,7 @@
 ---
 title: Is Paying for EA Play a Sensible Spend?
-date: 2024-09-13T16:46:03.146Z
-updated: 2024-09-20T21:25:08.775Z
+date: 2024-10-21T01:33:11.629Z
+updated: 2024-10-25T07:11:12.968Z
 tags:
   - games
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
  But if you’re a hardcore EA fan, you could select the EA Play Pro subscription. This tier costs $14.99 monthly or $99.99 annually but gives you access to even more EA titles. You can also play premium editions of some newly-released games even before their official release date.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Popular Games Are Included in EA Play?
 
  One of the reasons you choose a subscription is to get access to your favorite game titles. At the time of writing, EA Play gives you access to 89 titles, while EA Play Pro gives you access to 61 additional titles for a total of 150 games.
@@ -61,20 +68,33 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 
 ![Ea Play Pro games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-pro-games.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The more expensive EA Play Pro subscription includes everything in the EA Play subscription plus more niche games, like several titles from EA Sports and many Star Wars franchise titles.
 
  You also get a few top-billed indie games like FTL: Faster Than Light, Frostpunk, and They Are Billions. If you want to see all the games included in this subscription, you can check out this[list of all EA Play Pro games on PC](https://www.ea.com/ea-play/games#ea-play-pro) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is EA Play Worth the Price?
 
 ![man playing on a gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/man-playing-on-a-gaming-pc.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Gorodenkoff/[Shutterstock](https://www.shutterstock.com/image-photo/professional-gamer-playing-firstperson-shooter-online-1430140334)
 
@@ -93,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
@@ -120,5 +140,24 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-savings-straightforward-and-diversified-methods-unveiled/"><u>[New] In 2024, Instagram Savings Straightforward & Diversified Methods Unveiled</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-critical-strategies-for-dynamic-cover-designs/"><u>[Updated] 10 Critical Strategies for Dynamic Cover Designs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-14-top-metaverse-initiatives-revealing-potential-futures/"><u>[Updated] 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamline-your-playback-secrets-of-gameye/"><u>[Updated] 2024 Approved Streamline Your Playback Secrets of GamEye</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews-for-2024/"><u>[Updated] Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-interlinking-giants-a-comprehensible-guide-for-instra-and-tikto/"><u>2024 Approved Interlinking Giants A Comprehensible Guide for Instra & Tikto</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-solutions-to-unlock-stuck-steam-program/"><u>Effortless Solutions to Unlock Stuck Steam Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/exciting-lenovo-legion-go-traits-spotted-at-ifa-2023/"><u>Exciting Lenovo Legion Go Traits Spotted at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-incompatibility-issues-between-oculus-and-windows-1011/"><u>Fixing Incompatibility Issues Between Oculus & Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-mats-for-long-gaming-runs/"><u>Ideal Mats for Long Gaming Runs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-virtual-reality-lgs-360-degree-experience/"><u>In 2024, Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-points-to-evaluate-when-employing-chatgpt-in-psychological-support/"><u>Key Points to Evaluate When Employing ChatGPT in Psychological Support</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-photo-blur-the-most-valuable-pixelation-software-for-2024/"><u>Mastering Photo Blur The Most Valuable Pixelation Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/profound-insights-into-time-management-with-xbox-series-xs/"><u>Profound Insights Into Time Management with Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/share-the-fun-with-wrapped-up-game-copies/"><u>Share the Fun with Wrapped-Up Game Copies</u></a></li>
+<li><a href="https://games-able.techidaily.com/solo-pair-games-the-top-15-mobile-duo-experiences/"><u>Solo Pair Games: The Top 15 Mobile Duo Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-gpu-glitches-diagnosing-and-fixing-quickly/"><u>Top 4 GPU Glitches: Diagnosing & Fixing Quickly</u></a></li>
+</ul></div>
 

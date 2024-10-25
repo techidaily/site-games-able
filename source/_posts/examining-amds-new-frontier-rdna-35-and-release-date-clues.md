@@ -1,7 +1,7 @@
 ---
 title: "Examining AMD's New Frontier: RDNA 3.5 & Release Date Clues"
-date: 2024-10-16T10:07:07.378Z
-updated: 2024-10-19T04:41:53.096Z
+date: 2024-10-19T06:09:21.690Z
+updated: 2024-10-25T04:16:26.303Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is AMD RDNA 3.5?
@@ -43,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
@@ -70,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
@@ -83,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
@@ -108,19 +114,17 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-iphone-filming-software-catalog/"><u>[New] In 2024, Top iPhone Filming Software Catalog</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-captivating-creators-pioneering-bio-ideas-that-triple-your-follower-count-on-tiktok-filmora-for-2024/"><u>[Updated] Captivating Creators Pioneering Bio Ideas that Triple Your Follower Count on TikTok-Filmora for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-videos-that-vibe-a-novices-roadmap-on-a-mac-and-youtube/"><u>[Updated] In 2024, Videos That Vibe A Novice's Roadmap on a Mac and YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/combat-commanders-unite-discovering-best-11-war-sims/"><u>Combat Commanders Unite: Discovering Best 11 War Sims</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conquering-the-battlefield-tips-and-tricks-for-pokemon-unite-enthusiasts/"><u>Conquering the Battlefield: Tips and Tricks for Pokémon Unite Enthusiasts</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-11-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 11 With 7 Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-change-format-from-mxf-to-mp4mov-on-a-mac-discover-the-three-superior-techniques/"><u>How to Change Format From MXF to MP4/MOV on a Mac – Discover the Three Superior Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-leave-a-game-review-on-steam/"><u>How to Leave a Game Review on Steam</u></a></li>
-<li><a href="https://driver-download.techidaily.com/modernize-your-scansnap-ix500-easy-to-follow-upgrade-steps-for-windows-drivers/"><u>Modernize Your ScanSnap iX500: Easy-to-Follow Upgrade Steps for Windows Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-warzone-failure-to-start-up/"><u>Resolved: Fixes for Warzone Failure to Start Up</u></a></li>
-<li><a href="https://games-able.techidaily.com/revel-in-great-sounds-a-look-at-mmx-200/"><u>Revel in Great Sounds: A Look at MMX 200</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-swipes-fast-strokes-discover-7-best-sports-games-iosandroid/"><u>Swift Swipes, Fast Strokes! Discover 7 Best Sports Games (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-ps5-gameplay-for-ultimate-enjoyment/"><u>Transforming PS5 Gameplay for Ultimate Enjoyment</u></a></li>
-<li><a href="https://games-able.techidaily.com/unsubscribe-from-steam-a-step-by-step-guide/"><u>Unsubscribe From Steam: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rafting-engaging-live-streamed-gaming-experiences-for-2024/"><u>[New] Crafting Engaging Live-Streamed Gaming Experiences for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-fantasy-forays-a-decades-best-games/"><u>[New] Fantasy Forays A Decade’s Best Games</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728474571938-synctoywindows-10/"><u>「シームレスなファイル管理: SyncToyでWindows 10上の自動同期手順ガイド」</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-infinix-note-30-vip-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Infinix Note 30 VIP? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/can-you-trust-the-thermopro-tp67-balancing-cost-and-reliability-reviewed/"><u>Can You Trust the ThermoPro TP67? Balancing Cost and Reliability Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-mobile-experiences-optimal-controller-support/"><u>Premier Mobile Experiences: Optimal Controller Support</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-resolving-the-windows-update-held-at-0-dilemma/"><u>Quick Solutions: Resolving the 'Windows Update Held at 0%' Dilemma</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-dive-into-early-game-patches/"><u>Should You Dive Into Early Game Patches?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/trends-in-remote-control-drones-syma-x8c-for-2024/"><u>Trends in Remote Control Drones Syma X8C for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-gpu-suits-you-best-founders-original-or-aib/"><u>Which GPU Suits You Best? Founders Original or AIB</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-the-new-cost-isnt-worth-my-ea-membership/"><u>Why the New Cost Isn’t Worth My EA Membership</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Securely Mounting an SD Card in Steam Deck
-date: 2024-10-14T20:52:07.491Z
-updated: 2024-10-18T19:51:15.876Z
+date: 2024-10-22T00:29:35.196Z
+updated: 2024-10-25T04:26:41.127Z
 tags:
   - games
 categories:
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 * [How to Format Your SD Card for the Steam Deck](#how-to-format-your-sd-card-for-the-steam-deck)
 * [How to Install and Move Games to Your Steam Deck's SD Card](#how-to-install-and-move-games-to-your-steam-deck-39-s-sd-card)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Choose a fast SD card for optimal performance on your Steam Deck.
@@ -33,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  It's time to expand your storage on your Steam Deck. But is it as easy as popping in an SD card? Do you have to do any special formatting? Let's take a look at how to install an SD card on your Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I Use Any SD Card on My Steam Deck?
 
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Steam Deck is not fussy when it comes to SD cards. Assuming you've brushed up on [mistakes to avoid when choosing an SD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/), you can't go wrong. The Steam Deck supports SD, SDXC, and SDHC cards, and can handle up to 2TB of capacity.
 
@@ -50,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  We have a great selection of [the best microSD cards for the Steam Deck](https://www.makeuseof.com/best-microsd-cards-steam-deck/) if you haven't selected one already.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Format Your SD Card for the Steam Deck
 
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
@@ -64,23 +91,9 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Move Games to Your Steam Deck's SD Card
 
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
@@ -91,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
  Secondly, accessing folders on your SD card is a little different from accessing your SSD.
 
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
 
@@ -124,20 +130,20 @@ run/media/mmcblk0p1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hannel-collaboration-unified-watch-experience-across-platforms/"><u>[New] Channel Collaboration Unified Watch Experience Across Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-get-thousands-of-youtube-views-in-30-days-for-2024/"><u>[New] How To Get Thousands of YouTube Views in 30 Days for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-exploring-instagrams-premier-after-effects-themes/"><u>[Updated] In 2024, Exploring Instagram's Premier After Effects Themes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-adeptness-at-mobile-app-development-for-luts/"><u>2024 Approved Adeptness at Mobile App Development for LUTs</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-ally-in-gaming-top-6-approaches-with-chatgpt/"><u>AI Ally in Gaming: Top 6 Approaches with ChatGPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-soft-declines-in-volume-using-audacity/"><u>Crafting Soft Declines in Volume Using Audacity</u></a></li>
-<li><a href="https://games-able.techidaily.com/expedite-boredom-20plus-high-speed-online-games/"><u>Expedite Boredom: 20+ High-Speed Online Games</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-outlines-whats-funny-and-not/"><u>Facebook Outlines What's Funny and Not</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-11-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 11 and 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-professionals-playbook-refined-gopro-video-production-techniques/"><u>In 2024, The Professional's Playbook Refined GoPro Video Production Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-google-pixel-8-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Google Pixel 8 Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-in-impact-choose-thick-broad-cabinet-frames/"><u>Invest in Impact: Choose Thick, Broad Cabinet Frames!</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-for-the-digital-age-pros-and-cons-that-matter-to-gamers/"><u>Playing for the Digital Age: Pros and Cons That Matter to Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-vs-gog-key-distinctions-explored/"><u>Steam vs GOG: Key Distinctions Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-enhance-video-performance-selecting-top-12-players/"><u>[Updated] 2024 Approved Enhance Video Performance Selecting Top 12 Players</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-outstanding-20-free-no-right-pubg-montages/"><u>[Updated] Outstanding 20 Free, No-Right PUBG Montages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-detailed-analysis-of-mozillas-popup-functionality/"><u>2024 Approved A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-14-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 14 Pro with a Broken Screen?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-and-gear-guides-by-your-brand-the-next-level-after-toms-hardware/"><u>Expert Reviews and Gear Guides by [Your Brand] – The Next Level After Tom's Hardware!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-handheld-gamers-choices/"><u>Exploring Handheld Gamers' Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-jokes-that-rule-top-twenty-on-social-networks/"><u>In 2024, Jokes that Rule Top Twenty on Social Networks</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-unit-conversions-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Unit Conversions: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-just-numbers-assessing-steam-points/"><u>More Than Just Numbers: Assessing Steam Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/proliferating-purchasing-power-for-steam-gamers/"><u>Proliferating Purchasing Power for Steam Gamers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-budget-friendly-propella-7s-40-a-light-and-nimble-review-for-water-enthusiasts/"><u>The Budget-Friendly Propella 7S 4.0: A Light and Nimble Review for Water Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-sauce-for-a-peak-performance-ps4/"><u>The Secret Sauce for a Peak Performance PS4</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-advantages-vintage-portable-game-purchases/"><u>Top 5 Advantages: Vintage Portable Game Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/vrs-expensive-edge-analyzing-the-financial-hurdles/"><u>VR's Expensive Edge: Analyzing the Financial Hurdles</u></a></li>
 </ul></div>
 

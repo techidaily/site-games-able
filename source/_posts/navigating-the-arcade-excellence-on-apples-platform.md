@@ -1,7 +1,7 @@
 ---
 title: Navigating the Arcade Excellence on Apple's Platform
-date: 2024-09-14T21:14:00.605Z
-updated: 2024-09-21T01:43:05.313Z
+date: 2024-10-19T16:19:10.394Z
+updated: 2024-10-25T01:34:00.780Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 * [Checking the Reviews to See What Others Think](#checking-the-reviews-to-see-what-others-think)
 * [Filtering Games by Controller Compatibility and Last Updated](#filtering-games-by-controller-compatibility-and-last-updated)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Apple Arcade recommends great games in curated lists like Must-Play and App Store Greats. Check those out first.
@@ -32,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 * Use filters to find games that fit your preferences, like controller compatible titles or recently updated ones.
 
  Apple Arcade’s curated selection of games can be a little difficult to navigate. Although there aren’t many titles, finding the best ones can still be tricky if you don’t know how to look. As someone who has been using Apple Arcade since it launched in 2019, I have some tips on how to find games you’ll like.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1  Browsing Apple Arcade’s Must-Play and App Store Greats Categories
 
@@ -53,10 +67,10 @@ Close
  The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the[reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Checking the Reviews to See What Others Think
@@ -84,10 +98,10 @@ Close
  You can now download the game if you’re OK with all you’ve seen.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Filtering Games by Controller Compatibility and Last Updated
@@ -127,5 +141,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-record-webinar-for-free/"><u>[New] In 2024, How to Record Webinar for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-significance-of-inactivity-status-on-online-platforms/"><u>Decoding the Significance of Inactivity Status on Online Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-2024s-ultimate-gaming-setup-guide/"><u>Elite 2024'S Ultimate Gaming Setup Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>In 2024, Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimizing-internet-latency-strategies-for-improved-response-times/"><u>Minimizing Internet Latency: Strategies for Improved Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-nintendo-switch-breakdowns-restore-or-exchange/"><u>Navigating Nintendo Switch Breakdowns: Restore or Exchange?</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-era-of-computers-at-taipei-expo/"><u>New Era of Computers at Taipei Expo</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-tecno-spark-10-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Spark 10 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-file-error-data-may-have-been-lost-by-stellar-guide/"><u>Solved - Excel File Error Data may have been Lost</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-home-computer-guide-mini-pc-vs-desktops/"><u>The Ultimate Home Computer Guide: Mini PC Vs. Desktops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-7-video-enhancement-cameras-to-skyrocket-your-blogging-for-2024/"><u>Top 7 Video Enhancement Cameras To Skyrocket Your Blogging for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-oriented-wireless-controller-keys/"><u>Value-Oriented Wireless Controller Keys</u></a></li>
+</ul></div>
 

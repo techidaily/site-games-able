@@ -1,7 +1,7 @@
 ---
 title: Text Quests That Fill Up the Browser Window
-date: 2024-10-15T04:34:38.330Z
-updated: 2024-10-18T20:39:30.596Z
+date: 2024-10-22T22:33:35.436Z
+updated: 2024-10-24T20:51:59.062Z
 tags:
   - games
 categories:
@@ -34,28 +34,28 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
  As for the game itself, the plot here revolves around you waking up inside a cell. You don't remember how you got there and need to explore to figure it out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2. Zork
 
 ![Zork Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Zork-Game-2022.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Zork is an early and well-known text adventure. Originally released in the late 1970s, it has survived the test of time due to its high quality of storytelling and advanced text recognition. For such an old game, the text parser is not particularly picky about what you enter.
 
  As it turns out, Zork is actually split into three parts. This first one starts you in front of a white house with no further instructions. After working your way into the house, you'll begin the adventure properly and need to collect as much treasure as you can.
 
  Zork supports saving and restoring, and you can even change how much information the game gives you about new locations using the**brief** and**verbose** commands. This classic is a great starting point for getting into text adventure games. Give it a try to enjoy the[origins of the adventure genre](https://www.makeuseof.com/what-are-adventure-games/) and see how long you can survive before you're eaten by a grue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3. Spider and Web
 
@@ -67,35 +67,22 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
  It's often tough to keep track of what's going on and keep your story straight, so expect a[high level of game difficulty](https://www.makeuseof.com/what-is-video-game-difficulty/) . You can save and restore to avoid having to replay large chunks; the game also includes an**Undo** command for when you fail.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4. Night House
 
 ![Night House Interactive Fiction Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Night-House-2022.png)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Are you in the mood for a spooky horror game? Night House has you play as a young boy who wakes up in the middle of the night to use the bathroom. He soon discovers that his family isn't home, and is thrust into a much scarier experience than he imagined.
 
  Night House is unique in that it has a few extras aside from text input. The right side of the screen contains basic directional inputs that you can enter to move around. It also keeps track of your inventory and what's around you. A simple map at the top of the screen helps you keep your bearings.
 
  With extras like the sound effects of the ongoing thunderstorm, Night House adds a little extra to the text-adventure experience. Give it a try if the other games on the list were too rudimentary for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5. Torn
 
@@ -104,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
  When you start, the game reminds you that it's a long-term experience. This makes it a[great game for a quick session when you're bored](http://www.makeuseof.com/tag/addictive-short-web-games/) , as you don't need to sink tons of time into it at once. After you get through some tutorial missions, you'll be on your way to making your life in the city whatever you'd like it to be.
 
  Unlike the other games on this list that you can start instantly, you will have to make a free account to play Torn. However, it only takes a moment. And while it offers a much more robust interface than other text-based games, Torn is still an enjoyable text adventure.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## More Text-Adventure Games You Can Play
 
@@ -138,24 +132,22 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-windows-11-video-recording-software-guide/"><u>[New] Advanced Windows 11 Video Recording Software Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-edge-of-entertainment-advanced-tiktok-editing-hacks/"><u>[New] Edge of Entertainment Advanced TikTok Editing Hacks</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/evolutionize-your-content-delivery-with-live-streaming-expertise-for-2024/"><u>[New] Revolutionize Your Content Delivery with Live Streaming Expertise for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-altering-snapchat-audio-a-dual-approach-explained/"><u>2024 Approved Altering Snapchat Audio A Dual Approach Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-steam-installation-problems-on-pc/"><u>Eliminating Steam Installation Problems on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-gadgets-for-a-cooler-steam-deck-experience/"><u>Essential Gadgets for a Cooler Steam Deck Experience</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-easily-apply-watermarks-to-your-flipbook-prints-with-flipbuilder/"><u>How to Easily Apply Watermarks to Your Flipbook Prints with FlipBuilder</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-14-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 14 Plus Safe and Legal</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-7-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an iPhone 7 without Apple ID?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-tips-for-finding-hidden-exclusive-photos-on-snapchat/"><u>In 2024, Tips for Finding Hidden, Exclusive Photos on Snapchat</u></a></li>
-<li><a href="https://games-able.techidaily.com/joy-con-upgrade-joystick-changing-guide/"><u>Joy-Con Upgrade: Joystick Changing Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-8-mobile-sims-for-android-gameplay-on-desktops/"><u>Prime 8 Mobile Sims for Android Gameplay on Desktops</u></a></li>
-<li><a href="https://games-able.techidaily.com/propel-your-playthrough-4-best-online-score-boosting-hubs/"><u>Propel Your Playthrough: 4 Best Online Score-Boosting Hubs</u></a></li>
-<li><a href="https://games-able.techidaily.com/shiny-hunt-strategies-for-scv-trainers-71/"><u>Shiny Hunt Strategies for SCV Trainers (71)</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-you-upgrade-to-xbox-game-pass-ultimate/"><u>Should You Upgrade to Xbox Game Pass Ultimate?</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-mc-map-gathering-manual/"><u>Step-by-Step MC Map Gathering Manual</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-unblock-oculus-app-error-in-pc/"><u>Steps to Unblock Oculus App Error in PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/tackling-card-not-recognized-problems/"><u>Tackling Card Not Recognized Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-system-preferences-now-managed-corporately-issue-fixed/"><u>Windows System Preferences Now Managed Corporately - Issue Fixed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-premiere-trailers-showcase/"><u>[New] In 2024, Premiere Trailers Showcase</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-change-powerpoint-video-speed/"><u>2024 Approved How to Change PowerPoint Video Speed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme GT 5 Pro Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/barely-safe-the-risky-overclock-saga/"><u>Barely Safe: The Risky Overclock Saga</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-game-play-upgraded-for-the-modern-era/"><u>Classic Game Play, Upgraded for the Modern Era</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-retro-nintendo-games/"><u>Connecting Retro Nintendo Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-system-stability-with-breaks/"><u>Enhancing System Stability with Breaks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fresh-epson-l3150-driver-downloads-and-upgrades-for-seamless-printing-on-all-windows-platforms/"><u>Fresh Epson L3150 Driver Downloads & Upgrades for Seamless Printing on All Windows Platforms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-contrasting-youtubes-ownership-norms-with-cc-ideals/"><u>In 2024, Contrasting YouTube's Ownership Norms with CC Ideals</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-twitch-blockunblock-guests/"><u>Mastering Twitch: Block/Unblock Guests</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-series-xs-audio-with-in-headphone-mode/"><u>Optimizing Series X/S Audio with In-Headphone Mode</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-sync-free-cross-platform-high-quality-recording-tools/"><u>Screen Sync Free Cross-Platform, High-Quality Recording Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insiders-guide-getting-your-steam-purchase-back/"><u>The Insider's Guide: Getting Your Steam Purchase Back</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-by-drfone-android/"><u>The Updated Method to Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-guide-beat-the-issue-of-not-being-able-to-sync-videos-with-itunes/"><u>Ultimate Guide: Beat the Issue of Not Being Able to Sync Videos with iTunes</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/usb-bootpartition-erstellen-mit-iso-datei-auf-windows-t-wlan-anleitung-und-tipps/"><u>USB-Bootpartition Erstellen Mit ISO-Datei Auf Windows T Wlan - Anleitung Und Tipps</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-pc-games-win-over-consoles-the-ten-points/"><u>Why PC Games Win Over Consoles: The Ten Points</u></a></li>
 </ul></div>
 

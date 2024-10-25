@@ -1,7 +1,7 @@
 ---
 title: "From Hefty to Sleek: The PS5's Transformation"
-date: 2024-10-17T11:21:38.239Z
-updated: 2024-10-19T12:40:23.706Z
+date: 2024-10-19T02:37:33.203Z
+updated: 2024-10-24T21:20:56.496Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 Models vs. New PS5 Models: The Differences
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
@@ -50,22 +43,29 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -81,26 +81,26 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
@@ -122,22 +122,21 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-audio-to-text-converter-for-videos/"><u>[New] Audio-to-Text Converter for Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cinematic-bliss-at-home-watch-our-picks-for-the-best-15-dolby-atmos-films/"><u>Cinematic Bliss at Home: Watch Our Picks for the Best 15 Dolby Atmos Films</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-computer-and-hardware-analysis-at-toms-resource-center/"><u>Comprehensive Computer and Hardware Analysis at Tom's Resource Center</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-renaissance-classic-nintendo-roms-for-iphone/"><u>Gaming Renaissance: Classic Nintendo ROMs for iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-two-player-minecraft-on-the-nintendo-switch/"><u>How to Play Two-Player Minecraft on the Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-unveils-top-screen-technology/"><u>IFA 2023 Unveils Top Screen Technology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s23-tactical-edition-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S23 Tactical Edition Activity | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-back-in-time-best-rated-ps3-game-emulators-for-a-blissful-gaming-experience-on-pc/"><u>Journey Back in Time: Best-Rated PS3 Game Emulators for a Blissful Gaming Experience on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/msi-x47n-gaming-plus-get-latest-bios-and-chipset-updates-download-here/"><u>MSI X47n GAMING PLUS - Get Latest BIOS & Chipset Updates | Download Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-two-worlds-on-your-steam-deck-device/"><u>Navigating Two Worlds on Your Steam Deck Device</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-mastering-the-art-of-flawless-podcast-production-your-comprehensive-tutorial/"><u>New Mastering the Art of Flawless Podcast Production Your Comprehensive Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/offline-odyssey-finding-joy-in-mobile-gaming-without-the-web/"><u>Offline Odyssey: Finding Joy In Mobile Gaming Without the Web</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/perfect-prints-every-time-advanced-print-settings-in-photoshop/"><u>Perfect Prints Every Time: Advanced Print Settings in Photoshop</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unrealistic-expectations-for-gamefis-success/"><u>The Unrealistic Expectations for GameFi’s Success</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-enhance-gaming-experience/"><u>Top 4 iOS Emulation Apps: Enhance Gaming Experience</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6s-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6s Plus Making It Possible</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-embed-webcam-footage-seamlessly-via-vlc-capture-feature/"><u>[Updated] Embed Webcam Footage Seamlessly via VLC Capture Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-reel-your-browser-life-the-foremost-tools-for-high-quality-captures/"><u>[Updated] In 2024, Reel Your Browser Life The Foremost Tools for High-Quality Captures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unveiling-hash-tags-that-multiply-your-view-count-by-six/"><u>[Updated] Unveiling Hash Tags that Multiply Your View Count by Six</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlocking-realistic-movement-motion-blur-in-facial-images-with-picsart/"><u>2024 Approved Unlocking Realistic Movement Motion Blur in Facial Images with Picsart</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mp4-ifo-mp4-movavi/"><u>靈活便利的 MP4 文件轉換方法: IFO 到 MP4 使用 Movavi 電影轉換器簡單上手教程</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-chips-that-will-shape-our-future-at-computex-2024/"><u>AI Chips That Will Shape Our Future at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-gaming-winner-innocn-39g1-r/"><u>Budget Gaming Winner: InnoCN 39G1 R</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-development-winner-directx-11-or-12/"><u>Game Development Winner: DirectX 11 or 12?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-the-next-chapter-for-xbox-live-gold-users/"><u>Game Pass: The Next Chapter for Xbox Live Gold Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-change-steams-default-language/"><u>How to Change Steam’s Default Language</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 6s?</u></a></li>
+<li><a href="https://games-able.techidaily.com/individualized-fan-settings-optimize-gpu-temperature-and-power/"><u>Individualized Fan Settings Optimize GPU Temperature & Power</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/age-youtube-metrics-for-enhanced-visibility-for-2024/"><u>Leverage YouTube Metrics for Enhanced Visibility for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-edge-40-pro-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Motorola Edge 40 Pro Users</u></a></li>
 </ul></div>
 

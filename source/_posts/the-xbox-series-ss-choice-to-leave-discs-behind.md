@@ -1,7 +1,7 @@
 ---
 title: The Xbox Series S's Choice to Leave Discs Behind
-date: 2024-09-16T22:01:49.978Z
-updated: 2024-09-20T17:48:07.929Z
+date: 2024-10-22T16:38:09.970Z
+updated: 2024-10-24T21:01:30.229Z
 tags:
   - games
 categories:
@@ -43,9 +43,23 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![A screenshot of the Xbox Store homepage on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
  That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
@@ -59,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
 
  Regardless of how disc drive support would be implemented into Xbox Series S consoles, if Microsoft were to create a disc drive-supported version, or if they were to release an official disc reader accessory as its patent suggests, costs would increase.
@@ -75,13 +82,26 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Xbox Series S Is a Great Budget Console Even Without Disc Support
 
@@ -102,5 +122,24 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-circumnavigating-youtubes-block-list/"><u>[New] 2024 Approved Circumnavigating YouTube's Block List</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unveiling-vimeo-the-preferred-platform-by-directors/"><u>[New] 2024 Approved Unveiling Vimeo The Preferred Platform by Directors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-deciphering-hdr-mastery-through-luminance-testing/"><u>[New] Deciphering HDR Mastery Through Luminance Testing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instagram-enterprise-account-the-complete-guidebook/"><u>[Updated] In 2024, Instagram Enterprise Account The Complete Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-reset-count-for-unsuccessful-logins-on-windows-11-systems/"><u>Configuring Reset Count for Unsuccessful Logins on Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-resume-feature-key-to-smoother-xbox-gaming/"><u>Fast Resume Feature: Key to Smoother Xbox Gaming</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-expert-comment-configurer-avec-succes-le-cloning-dun-startup-disk-sur-ssd-sous-windows-11-10-8-and-7-explique/"><u>Guide Expert: Comment Configurer Avec Succès Le Cloning D'un Startup Disk Sur SSD Sous Windows : 11, 10, 8 & 7 Expliqué!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-5s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 5s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-frame-rate-knowledge-2-approaches-for-android-players/"><u>Increase Frame Rate Knowledge: 2 Approaches for Android Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/mystery-steam-picks-preservation/"><u>Mystery Steam Picks Preservation</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-cloud-synching-on-steam-devices/"><u>Quick Fixes for Cloud Synching on Steam Devices</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/schritt-fur-schritt-prozess-zum-in-place-aktualisieren-von-windows-server-2008-r2/"><u>Schritt-Für-Schritt-Prozess Zum In-Place-Aktualisieren Von Windows Server 2008 R2</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectral-perfection-program-for-2024/"><u>Spectral Perfection Program for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-emulation-guide-for-the-best-steam-deck-gaming/"><u>The Ultimate Emulation Guide for the Best Steam Deck Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-reasoning-5-investing-in-old-school-gaming-units/"><u>Top Reasoning 5: Investing in Old-School Gaming Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-impact-why-not-prioritize-ray-tracing/"><u>Unraveling the Impact: Why Not Prioritize Ray Tracing?</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-nvidia-g-sync-heres-how-it-delivers-smoother-gaming/"><u>What Is Nvidia G-Sync? Here's How It Delivers Smoother Gaming</u></a></li>
+</ul></div>
 

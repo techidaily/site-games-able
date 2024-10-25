@@ -1,7 +1,7 @@
 ---
 title: "Gaming Experience Elevated: A Close Look at Keychron’s Lemokey L3"
-date: 2024-09-15T17:39:26.386Z
-updated: 2024-09-20T18:51:09.928Z
+date: 2024-10-18T06:39:06.535Z
+updated: 2024-10-24T18:13:36.591Z
 tags:
   - games
 categories:
@@ -122,11 +122,25 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -139,6 +153,13 @@ No
  The Lemokey L3 feels sublime. It's a premium gaming mechanical keyboard that weighs an excellent 1.97kg (4.3lbs). You're basically buying a block of high-quality CNC machined aluminum that also happens to be a mechanical keyboard; you won't be shoving the Lemokey L3 in your rucksack for the local LAN session, that's for sure. The weight has another important use, though—stopping your keyboard from moving around as you game or type.
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -156,9 +177,23 @@ No
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery Life and Connectivity
 
@@ -167,19 +202,6 @@ No
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
  Hannah Stryker / MakeUseOf
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -192,13 +214,6 @@ No
  If you're going to use the Lemokey L3 for gaming (it's a gaming mechanical keyboard, after all), I suggest using wired or 2.4GHz wireless mode. This way, you can put the Lemokey's 1,000Hz polling rate to good use, ensuring that your inputs are registered as quickly as possible in-game.
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -232,13 +247,6 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Lemokey L3
@@ -262,5 +270,26 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-cutting-edge-methods-for-fast-srt-to-text-file-conversion/"><u>[New] Cutting-Edge Methods for Fast SRT to Text File Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-15-best-gopro-alternatives-for-all-your-needs/"><u>[New] In 2024, 15 Best GoPro Alternatives for All Your Needs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-accessing-all-shared-content-in-messenger-chats-for-2024/"><u>[Updated] Accessing All Shared Content in Messenger Chats for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-initiate-seamless-gaming-streams-mastering-obs-recording-for-2024/"><u>[Updated] Initiate Seamless Gaming Streams Mastering OBS Recording for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-barriers-masterful-techniques-for-photosvideos-in-win11/"><u>2024 Approved Breaking Barriers Masterful Techniques for Photos/Videos in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-troubleshooting-quick-fixes-for-playstation-5-devices/"><u>Effective Troubleshooting: Quick Fixes for PlayStation 5 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-your-subscription-journey-on-steam/"><u>End Your Subscription Journey on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/exciting-ai-innovations-from-computex-2-cookie/"><u>Exciting AI Innovations From Computex 2 Cookie</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-uncharted-territory-of-ps5s-browser/"><u>Exploring the Uncharted Territory of PS5's Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-earbuds-for-nintendo-switch/"><u>Ideal Earbuds for Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ryujinx-for-ps4switch-game-emulation-a-guide/"><u>Mastering Ryujinx for PS4/Switch Game Emulation: A Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/methods-for-extracting-video-tweets-as-compact-mp3-files-for-2024/"><u>Methods for Extracting Video Tweets as Compact MP3 Files for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-nintendo-switch-gaming-arms-a-2024-compilation/"><u>Prime Nintendo Switch Gaming Arms – A 2024 Compilation</u></a></li>
+<li><a href="https://games-able.techidaily.com/stuck-disc-how-to-safely-remove-from-xbox-series-x/"><u>Stuck Disc: How to Safely Remove From Xbox Series X</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ey-to-infinite-entertainment-master-youtube-video-loops/"><u>The Key to Infinite Entertainment Master Youtube Video Loops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-using-obs-and-streamlabs-together-mac-for-2024/"><u>The Ultimate Guide to Using OBS and Streamlabs Together (Mac) for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-critical-system-failures-a-guide-to-fixing-watchdogsys-bluescreens/"><u>Troubleshooting Critical System Failures: A Guide to Fixing Watchdog.sys Bluescreens</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-and-rectifying-4-predominant-graphics-card-problems/"><u>Unraveling and Rectifying 4 Predominant Graphics Card Problems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/videopad-2023-review-a-top-notch-video-editing-solution-or-not/"><u>Videopad 2023 Review A Top-Notch Video Editing Solution or Not?</u></a></li>
+</ul></div>
 

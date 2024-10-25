@@ -1,7 +1,7 @@
 ---
 title: "Swift Storage Switcheroo: Clone & Upgrade Your Deck Now"
-date: 2024-09-19T17:34:38.547Z
-updated: 2024-09-20T18:47:14.573Z
+date: 2024-10-23T19:37:19.560Z
+updated: 2024-10-24T18:51:39.228Z
 tags:
   - games
 categories:
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 1: Download Macrium Reflect on a Separate PC
 
  Since we’re not going to be using an SSD enclosure in this guide, we’re going to need a separate PC that has an NVMe/SATA M.2 slot on the motherboard.
@@ -67,25 +60,11 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![Macrium Reflect trial download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-trial-download-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Register and create a[Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
 
  Copy your registration code, click on**Download Trial** on the Home version, and run the setup.
 
 ![Macrium Reflect registration code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-registration-code-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  During the setup, check the box for the 30-day trial and enter your registration code when it asks for it.
 
@@ -111,15 +90,28 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 ![Prompt before running backup image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/prompt-before-running-backup-image.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Name your backup image and click OK until it starts creating the image file. It can take anywhere from a few minutes to about an hour depending on the size of the drive and how much is on it. My 64GB SSD only took about five minutes.
 
  If your motherboard has two SSD slots, you can click**Clone this Disk** **...** instead of imaging. You can then follow similar steps, but skip the image restoration process by directly copying the partitions of the old SSD to the new one. This method is faster as it'll do the cloning in one step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Restore Your Backup Image to Your New SSD
@@ -129,19 +121,33 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![Searching for disk management on Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/searching-for-disk-management-on-windows-searcgh.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Before you open up Macrium Reflect, search for "**Create and format hard disk partitions"** in the Windows search bar. This will open up the disk manager.
 
 ![Converting to GPT partition scheme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/converting-to-gpt-partition-scheme.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Look for your new SSD—it should be black if it hasn’t been used before. Right-click on it and select**Convert to GPT Disk** . The GPT partitioning scheme is what SteamOS works best with, so it’s best to use that.
 
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
 
@@ -154,6 +160,13 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on**Copy partitions** **\> Exact Offset and Length** . This will visualize the partitions on the new SSD. Don’t worry about the empty space, leave that blank as SteamOS will immediately utilize it once you boot up your Steam Deck.
 
@@ -175,6 +188,13 @@ Jhet Borja/MakeUseOf
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  Select**Boot from file** **\> eps > efi > steamos > steamcl.efi** . You’re manually booting into SteamOS with this method and the next time you turn on your Steam Deck, you shouldn’t need to do this again unless you have another OS on your Steam Deck.
@@ -194,5 +214,21 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-art-of-instagram-video-clipping-and-trimming/"><u>[New] The Art of Instagram Video Clipping and Trimming</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[New] The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-ascent-of-jake-paul-in-online-video-fame/"><u>[Updated] In 2024, The Ascent of Jake Paul in Online Video Fame</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-zoom-functionality-tips-for-chromebook-devices/"><u>[Updated] Pro Zoom Functionality Tips for Chromebook Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-switch-off-crossplay-for-personalized-apex-legends-experience/"><u>2024 Approved Switch Off Crossplay for Personalized Apex Legends Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/dial-in-the-perfect-ambiance-adjusting-console-light-intensity/"><u>Dial in the Perfect Ambiance: Adjusting Console Light Intensity</u></a></li>
+<li><a href="https://games-able.techidaily.com/executing-android-programs-via-linux/"><u>Executing Android Programs via Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/four-strong-arguments-to-forgo-ps5-buying/"><u>Four Strong Arguments to Forgo PS5 Buying</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-started-with-ea-play-ps5-sign-up-and-exploration-steps/"><u>Get Started with EA Play PS5: Sign-Up & Exploration Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-the-key-to-spatial-audio-mastery-in-valorant/"><u>HRTF: The Key to Spatial Audio Mastery in Valorant?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ipad-screen-snapshot-strategies/"><u>In 2024, IPad Screen Snapshot Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-itel-a70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Itel A70 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-electronics-hub-the-ultimate-guide-to-computer-hardware/"><u>Inside Tom's Electronics Hub: The Ultimate Guide to Computer Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-white-computing-gear-under-250/"><u>Optimal White Computing Gear Under $250</u></a></li>
+</ul></div>
 

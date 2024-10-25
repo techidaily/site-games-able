@@ -1,7 +1,7 @@
 ---
 title: "Seven Friendship Flirtations: A Textual Dance of Words"
-date: 2024-10-12T19:21:33.275Z
-updated: 2024-10-18T23:47:39.453Z
+date: 2024-10-17T17:22:03.317Z
+updated: 2024-10-24T16:39:13.120Z
 tags:
   - games
 categories:
@@ -71,13 +71,6 @@ Close
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Abbreviations
 
 Close
@@ -89,10 +82,10 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -105,6 +98,13 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Where Am I?
 
 Close
@@ -114,6 +114,13 @@ Close
  With**Where Am I?** , each player takes it, in turn, to describe one feature of their surroundings, while the other tries to guess where they are. You can make this game as easy or as hard as you like by varying the level of detail you give to your opponent.
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
 
@@ -126,10 +133,10 @@ Close
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9 What If...?
@@ -141,13 +148,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -176,15 +176,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-scoop-twitters-trending-talks/"><u>[New] 2024 Approved Social Scoop Twitter’s Trending Talks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-enhancing-minecraft-through-optimal-ram-assignment/"><u>[New] In 2024, Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-securing-your-gaming-moments-with-windows-11/"><u>[Updated] In 2024, Securing Your Gaming Moments with Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jokejumper-generate-share-worthy-images-quickly/"><u>2024 Approved JokeJumper Generate Share-Worthy Images Quickly</u></a></li>
-<li><a href="https://games-able.techidaily.com/gearhead-grip-the-case-for-steering-wheels-in-racing-games/"><u>Gearhead Grip: The Case for Steering Wheels in Racing Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/gift-of-play-spread-joy-with-game-subscriptions/"><u>Gift of Play: Spread Joy with Game Subscriptions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-create-fantastic-youtube-description-with-templates-to-get-more-viewers/"><u>In 2024, Create Fantastic YouTube Description With Templates To Get More Viewers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-recipe-realms-stepwise-food-videography/"><u>In 2024, Recipe Realms Stepwise Food Videography</u></a></li>
-<li><a href="https://games-able.techidaily.com/spotless-playstation-a-routine-for-resiliency/"><u>Spotless Playstation: A Routine for Resiliency</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-cooling-accessories-and-gadgets-for-the-steam-deck/"><u>The Best Cooling Accessories and Gadgets for the Steam Deck</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-intriguing-youtube-intros-without-spending-for-2024/"><u>[New] Crafting Intriguing YouTube Intros Without Spending for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-snapshot-spectaculars-an-experts-review-of-recorders/"><u>[Updated] In 2024, Snapshot Spectaculars An Expert's Review of Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-video-management-made-simple-select-the-best-firefox-tools-and-extensions/"><u>2024 Approved Facebook Video Management Made Simple Select the Best Firefox Tools & Extensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171021579-enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-livestream-with-manycam-the-ultimate-virtual-camera-solution/"><u>Enhance Your Livestream with ManyCam: The Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-erroneous-debit-authorizations-in-console-games/"><u>Fixing Erroneous Debit Authorizations in Console Games</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-enable-admin-access-for-applications-in-windows-11-every-time/"><u>Guide: Enable Admin Access for Applications in Windows 11 Every Time</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-m6-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco M6 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-pivotal-pros-and-cons-in-gaming-displays/"><u>Pinpointing Pivotal Pros and Cons in Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-update-via-wireless-tech/"><u>Seamless Controller Update via Wireless Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-overcoming-chrome-obstacles/"><u>Seamless Gaming Experience: Overcoming Chrome Obstacles</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-zoom-disruptions-on-pcs-latest-solutions/"><u>Troubleshoot and Stop Zoom Disruptions on PCs - Latest Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/alaw-mp3-movavi-mp3/"><u>무료 액세스, Alaw MP3 변환 - 바이너리 오디오를 사용한 Movavi MP3 변환기</u></a></li>
 </ul></div>
 

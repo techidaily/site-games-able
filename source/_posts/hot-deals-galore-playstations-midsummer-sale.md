@@ -1,7 +1,7 @@
 ---
 title: "Hot Deals Galore: PlayStation’s Midsummer Sale"
-date: 2024-09-13T18:08:55.977Z
-updated: 2024-09-20T23:32:49.779Z
+date: 2024-10-18T03:10:27.587Z
+updated: 2024-10-24T21:33:42.457Z
 tags:
   - games
 categories:
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
@@ -41,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
@@ -103,6 +103,19 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -121,5 +134,24 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-20plus-fresh-collages-elevate-your-environment/"><u>[New] 2024 Approved 20+ Fresh Collages Elevate Your Environment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-precision-in-preservation-expert-techniques-for-skype-call-recordings/"><u>[New] Precision in Preservation Expert Techniques for Skype Call Recordings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-hero5-session-review/"><u>2024 Approved GoPro Hero5 Session Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-pathways-to-profitability-in-personal-vlogging/"><u>2024 Approved Pathways to Profitability in Personal Vlogging</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-and-redownloading-ps5-arcade-hits/"><u>Deleting & Redownloading PS5 Arcade Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-choose-your-dream-mouse-identifying-the-most-important-features/"><u>How to Choose Your Dream Mouse: Identifying the Most Important Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-g54-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola G54 5G PC | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-8-plus-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 8 Plus Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-playstation-and-personal-computer-worlds/"><u>Joining PlayStation and Personal Computer Worlds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-basic-tone-alterations-in-ps/"><u>Mastering Basic Tone Alterations in PS</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-user-management-the-twitch-banu-ban-balance/"><u>Mastering User Management: The Twitch Ban/U-Ban Balance</u></a></li>
+<li><a href="https://games-able.techidaily.com/naval-blockade-and-control/"><u>Naval Blockade and Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-at-165hz-fps/"><u>Optimal Monitors at 165Hz FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-clicks-and-swipes-fastest-mobile-games-for-androidiphone/"><u>Quick Clicks & Swipes: Fastest Mobile Games for Android/iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-swiftly-tackle-four-common-gpu-faults/"><u>Strategies to Swiftly Tackle Four Common GPU Faults</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-fix-resolving-a-code-28-issue-on-windows-device-manager/"><u>Troubleshooting the Fix: Resolving a 'Code 28' Issue on Windows Device Manager</u></a></li>
+</ul></div>
 

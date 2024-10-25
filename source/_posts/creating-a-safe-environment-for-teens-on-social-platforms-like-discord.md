@@ -1,7 +1,7 @@
 ---
 title: Creating a Safe Environment for Teens on Social Platforms Like Discord
-date: 2024-10-12T17:22:09.412Z
-updated: 2024-10-19T09:20:49.588Z
+date: 2024-10-21T05:27:28.897Z
+updated: 2024-10-25T03:08:51.243Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
  For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
@@ -44,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
 
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
@@ -116,20 +116,24 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-launching-an-impactful-instagram-live-session/"><u>[New] 2024 Approved Launching an Impactful Instagram Live Session</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[New] Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[Updated] 2024 Approved Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
-<li><a href="https://article-files.techidaily.com/adding-emotion-and-context-narration-for-videos/"><u>Adding Emotion and Context Narration for Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/cod-vanguard-overcoming-voice-chat-connectivity-problems/"><u>COD: Vanguard - Overcoming Voice Chat Connectivity Problems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-redmi-note-12r-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Redmi Note 12R ?</u></a></li>
-<li><a href="https://games-able.techidaily.com/introducing-smooth-transition-from-xbox-game-pass-to-steam/"><u>Introducing Smooth Transition From Xbox Game Pass to Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinnacle-of-handhits-new-ally-x-introduction/"><u>Pinnacle of Handhits: New Ally X Introduction</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-fascination-with-new-fallout-video-titles/"><u>Rediscover Fascination with New Fallout Video Titles</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-screen-slump-in-gaming-systems/"><u>Tackling Screen Slump in Gaming Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-right-solution-to-switch-setbacks-restore-or-replace/"><u>The Right Solution to Switch Setbacks: Restore or Replace?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-error-message-fm20dll-is-absent-from-your-pc/"><u>Troubleshooting Error Message - fm20.dll Is Absent From Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725286823050-xmedia-recode-dvd/"><u>XMedia Recode: 劣化せずにDVDや動画、音声を変換する究極ガイド</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-digital-screens-for-up-close-focus/"><u>[New] 2024 Approved Enhancing Digital Screens for Up-Close Focus</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-precision-viewing-at-a-glance-quick-minigame-tips/"><u>[New] 2024 Approved Precision Viewing at a Glance Quick Minigame Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-professionals-choice-top-10-afx-templates-for-free/"><u>[Updated] Professionals' Choice Top 10 AFX Templates for FREE</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-simple-steps-to-extend-switchs-service-life/"><u>5 Simple Steps to Extend Switch's Service Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/block-party-top-5-multiplayer-methods-with-friends-in-mc/"><u>Block Party: Top 5 Multiplayer Methods with Friends in MC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decode-the-bsod-dilemma-effective-fixes-for-stop-0x0000007b-issues/"><u>Decode the BSOD Dilemma - Effective Fixes for Stop 0X0000007B Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/disappear-your-xbox-noise-quickly/"><u>Disappear Your Xbox Noise Quickly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/discover-the-top-5-excellent-software-solutions-to-repair-videos-on-your-computer/"><u>Discover the Top 5 Excellent Software Solutions to Repair Videos on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-motorola-edge-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Edge 2023 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovos-latest-tablet-a-deep-dive-into-the-legion-go/"><u>Lenovo's Latest Tablet: A Deep Dive Into the Legion Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-operating-system-migration-tips-for-linux/"><u>Mobile Operating System Migration Tips for Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-bluetooth-disconnects-on-xbox-s/"><u>Overcoming Bluetooth Disconnects on Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-twitch-guide-platform-overview-and-streamer-resources/"><u>The Twitch Guide: Platform Overview and Streamer Resources</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168463782-the-ultimate-arcade-upgrade-wide-front-panels/"><u>The Ultimate Arcade Upgrade: Wide Front Panels!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-exciting-development-filmora-x-now-compatible-with-arm-devices/"><u>Updated In 2024, Exciting Development Filmora X Now Compatible with ARM Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-photo-wizardry-made-easy-mastering-slideshow-creation-and-spot-repair/"><u>Windows 11'S Photo Wizardry Made Easy: Mastering Slideshow Creation & Spot Repair</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
 </ul></div>
 

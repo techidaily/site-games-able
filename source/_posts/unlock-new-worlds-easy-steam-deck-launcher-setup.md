@@ -1,7 +1,7 @@
 ---
 title: "Unlock New Worlds: Easy Steam Deck Launcher Setup"
-date: 2024-10-11T23:51:02.562Z
-updated: 2024-10-19T05:27:03.604Z
+date: 2024-10-20T00:34:01.171Z
+updated: 2024-10-25T03:02:12.794Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/fb9800d0908e1be810fcc7b3cec05fac87c5747d2
 Instead, we have solutions designed specifically for the Steam Deck.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
@@ -54,18 +54,18 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
 
  Once in the program, you'll want to log in before anything else. The**Log In** option is available on the left-hand side of the window. You'll have four options. Two login methods for the Epic Games Launcher, as well as options for GOG and Amazon Games.
 
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
@@ -82,10 +82,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
@@ -105,10 +105,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
@@ -130,20 +130,20 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-elevate-your-content-leading-twitter-video-tools/"><u>[New] Elevate Your Content Leading Twitter Video Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-visualizer-vs-studio-monitors-for-2024/"><u>[New] Visualizer Vs Studio Monitors for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-compreranal-guide-to-best-free-budget-friendly-lut-sources-for-2024/"><u>[Updated] Compreranal Guide to Best Free, Budget-Friendly LUT Sources for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>[Updated] Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>2024 Approved Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-your-content-posting-twitter-videos-on-snapchat/"><u>2024 Approved Streamline Your Content Posting Twitter Videos on Snapchat</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-your-games-closer-with-playnite-fullscreen-tv/"><u>Bring Your Games Closer with Playnite Fullscreen TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/discord-for-mac-users-step-by-step-setup-instructions/"><u>Discord for Mac Users: Step-by-Step Setup Instructions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/fiery-firefox-screenshot-add-ons-for-2024/"><u>Fiery Firefox Screenshot Add-Ons for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-choice-analyzing-the-pros-and-cons-of-game-downloads/"><u>Gamer's Choice: Analyzing the Pros & Cons of Game Downloads</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-gamers-guide-setting-up-windows-on-steam-deck/"><u>Master Gamer's Guide: Setting up Windows on Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-arcade-with-expansive-front-ends/"><u>Revolutionize Your Arcade with Expansive Front Ends!</u></a></li>
-<li><a href="https://games-able.techidaily.com/transitioning-times-set-regional-settings-for-sxs/"><u>Transitioning Times: Set Regional Settings for SX|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-the-true-cost-of-endless-playtime/"><u>Uncover the True Cost of Endless Playtime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/challenges-in-ai-authorship-recognition-the-case-against-chatgpt-identifying-its-own-content/"><u>Challenges in AI Authorship Recognition: The Case Against ChatGPT Identifying Its Own Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-playful-phrase-parodies-the-ultimate-text-game-spree/"><u>Eight Playful Phrase Parodies: The Ultimate Text Game Spree</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-game-interruptions-fixing-the-resident-evil-4-remake-stalls/"><u>Guide to Overcoming Game Interruptions: Fixing the Resident Evil 4 Remake Stalls</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-hot-30i-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Hot 30i to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-zte-nubia-flip-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to ZTE Nubia Flip 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reactivating-flaky-asus-webcam-features/"><u>Reactivating Flaky ASUS Webcam Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-transformation-applying-multilingual-updates/"><u>Rom Transformation: Applying Multilingual Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-transitioning-between-nintendo-areas/"><u>Seamlessly Transitioning Between Nintendo Areas</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-turning-off-windows-118s-smartscreen-protection/"><u>Step-by-Step Guide: Turning Off Windows 11/8'S SmartScreen Protection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-utilizing-google-photos/"><u>The Ultimate Guide to Utilizing Google Photos</u></a></li>
+<li><a href="https://os-tips.techidaily.com/top-5-iphone-apps-for-effective-data-recovery-and-restoration-of-lost-files/"><u>Top 5 iPhone Apps for Effective Data Recovery & Restoration of Lost Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-on-the-go-with-controllers/"><u>Ultimate Gaming on the Go With Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-bg3s-minimum-gear-needs/"><u>Unveiling BG3's Minimum Gear Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-the-gaming-subscription-service/"><u>Xbox Game Pass: The Gaming Subscription Service</u></a></li>
 </ul></div>
 

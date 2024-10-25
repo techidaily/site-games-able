@@ -1,7 +1,7 @@
 ---
 title: Google Play’s Premier PC Game Compilation (Beta Edition)
-date: 2024-10-18T10:38:45.544Z
-updated: 2024-10-18T17:18:52.707Z
+date: 2024-10-22T02:17:23.542Z
+updated: 2024-10-25T03:07:12.400Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![Two cartoon characters fighting in a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1946.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's safe to say that idle games are some of the most popular titles for mobile devices. Idle Superpowers is one of the best idle games on the Google Play Games beta. It runs very well, but the nature of the game requires that you leave it open and running, as progression is limited to 10 levels and won't pass bosses unless the game is open and running. If you do this on mobile, you'll quickly drain your phone's battery.
 
  Playing this on a PC keeps you from using your phone's battery for extended periods, and it also runs much better on desktop. It's worth noting that you can't get ad rewards, though.
@@ -51,16 +58,22 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  As with all titles on the Google Play Games beta, progress is saved across all devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Cookie Run: OvenBreak
 
 ![Login screen for Cookie Run game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1925.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Cookie Run: OvenBreak is the first mobile game on this list with impactful control changes on the port to PC. For gameplay, you can press F to jump and J to slide, and you can change these hotkeys in the settings menu. Its performance is another story, though, and it's highly recommended that you change the graphics settings to low and disable background animations.
 
@@ -72,22 +85,22 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![Island War main screen with village in background and batte button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1950.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Island War gameplay with soldiers invading a square island](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1951.jpg)
 
 ![Island War victory screen with soldiers celebrating on boat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1952.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -99,18 +112,25 @@ Close
 
 ![Splash screen for Towerlands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1910.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Towerlands: Tower Defense TD is another mobile game that translates well to PC. It has idle and active gameplay elements, and using a mouse makes the gameplay more engaging when it comes to selecting units and upgrades. While the graphics don't get much love, the gameplay is relaxing and worth trying.
 
 ![Towerlands game unit placement showing archery tower and knight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1914.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The visuals in this game are identical to the mobile version in every way, but the performance feels better, and I still found it quite enjoyable.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Botworld Adventure
 
@@ -126,15 +146,22 @@ Close
 
 ![Hungry Shark Evolution login screen with shark in middle of screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hungry Shark Evolution is one of the best ports from mobile to PC via the Google Play Games beta. It downloads, installs, and loads very quickly. One of perhaps its only drawbacks involves its visuals, which can seem noticeably poor on larger monitors and screens.
 
 ![Hungry Shark Evolution keyboard controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-keyboard-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The game boasts full keyboard configuration support. The control layout is fantastic, making the game very easy to play, fun, and intuitive to control.
@@ -143,23 +170,9 @@ Close
 
  Hungry Shark Evolution is an instant classic, running smoothly on PC. Careful, though; I found this one to be quite addictive.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Idle Heroes
 
 ![Login screen for Idle Heroes game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1915.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Idle Heroes is one of the better idle games to play on the Google Play Games beta. It has a simple UI, you don't need to use a keyboard, and playing this game on a PC will save your phone's battery a lot of wear. The game's resolution adapts to larger screens, so visuals are clear on almost any display.
 
@@ -173,6 +186,19 @@ Close
 
  If you typically shy away from complex[management and city-building games](https://www.makeuseof.com/best-city-building-games/) , Shop Titans: RPG Idle Tycoon on the Google Play Games beta might be for you. It's a simplistic and fun idle management game that's great for running in the background when multitasking. It's one of the better options to alt-tab to throughout your day, all without having to unlock your phone.
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Summoners War
 
 ![Login screen for Summoners War](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1918.jpg)
@@ -181,21 +207,7 @@ Close
 
 ![Overhead view of town in Summoners War game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1922.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The main screen is a pleasant sight, even though it's identical to the mobile version. Ad rewards aren't available on PC, but everything else functions properly. Using a mouse instead of tapping on a screen is much more comfortable, and, as with a few other games on this list, it's a great game to run in the background when you're multitasking.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try Out These PC Games on Google Play Games Beta
 
@@ -218,16 +230,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-driving-engagement-on-instagram-strategy-for-successful-video-content/"><u>[Updated] 2024 Approved Driving Engagement on Instagram Strategy for Successful Video Content</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-premium-podcast-partners-in-academia/"><u>2024 Approved Premium Podcast Partners in Academia</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-and-sturdy-2024s-finest-holders-for-switch/"><u>Compact and Sturdy: 2024'S Finest Holders for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/customize-your-controls-the-perfect-dpi-level-for-shooters/"><u>Customize Your Controls: The Perfect DPI Level for Shooters</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-ea-play-value-for-your-dollar/"><u>Decoding EA Play: Value for Your Dollar</u></a></li>
-<li><a href="https://games-able.techidaily.com/fast-fingers-and-sharp-minds-mobile-tetris-victory-edition/"><u>Fast Fingers and Sharp Minds: Mobile Tetris Victory Edition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-8-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 8 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/seamless-install-von-windows-11-auf-nicht-zertifizierten-geraten-sichere-methode-ohne-datenverlust/"><u>Seamless Install Von Windows 11 Auf Nicht-Zertifizierten Geräten - Sichere Methode Ohne Datenverlust</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/skincare-revolution-the-best-apps-for-your-phone/"><u>Skincare Revolution The Best Apps for Your Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-gaming-with-epic-and-steam-integration/"><u>Streamline Gaming with Epic and Steam Integration</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-transforming-wmv-files-into-flv-format-top-6-techniques/"><u>Ultimate Guide: Transforming WMV Files Into FLV Format - Top 6 Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-tailoring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads/"><u>[New] In 2024, Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionary-techniques-for-chronological-categorization-of-photographs/"><u>[Updated] Revolutionary Techniques for Chronological Categorization of Photographs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-find-n3-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Find N3</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-best-practices-for-switch-gaming-device/"><u>Ensuring Longevity: Best Practices For Switch Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-worlds-dissipate-but-should-we-reflect/"><u>Game Worlds Dissipate, But Should We Reflect?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-review-of-chatgpt-a-closer-look-at-its-attributes-performance-and-troubleshooting-errors/"><u>In-Depth Review of ChatGPT - A Closer Look at Its Attributes, Performance & Troubleshooting Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-failed-windows-and-steam-remote-play/"><u>Reconnecting Failed Windows and Steam Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-steams-inaccessible-friend-list/"><u>Restoring Steam's Inaccessible Friend List</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-virtual-reality-how-stanfords-innovative-use-of-artific/"><u>Revolutionizing Virtual Reality: How Stanford's Innovative Use of Artific</u></a></li>
+<li><a href="https://extra-support.techidaily.com/shutter-snappiness-harnessing-edits-for-great-photos-for-2024/"><u>Shutter Snappiness Harnessing Edits for Great Photos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-speakers-keep-chats-private-in-xbox-games/"><u>Silent Speakers: Keep Chats Private in Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/taming-xbox-audio-alerts-a-step-by-step-guide/"><u>Taming Xbox Audio Alerts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/techniques-for-preserving-work-related-correspondence-in-popular-email-clients-like-outlook-and-gmail/"><u>Techniques for Preserving Work-Related Correspondence in Popular Email Clients Like Outlook & Gmail.</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-instant-online-games-for-downtime-fun/"><u>Top 20 Instant Online Games for Downtime Fun</u></a></li>
 </ul></div>
 

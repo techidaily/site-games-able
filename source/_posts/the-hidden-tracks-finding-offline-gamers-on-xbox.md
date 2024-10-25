@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Tracks: Finding Offline Gamers on Xbox"
-date: 2024-09-15T20:40:42.437Z
-updated: 2024-09-20T20:03:04.938Z
+date: 2024-10-23T06:36:22.868Z
+updated: 2024-10-24T17:59:31.006Z
 tags:
   - games
 categories:
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
@@ -90,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Scroll down the on-screen gaming stats until you find**Time played** .
@@ -101,13 +108,20 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
@@ -128,5 +142,22 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-visionary-screens-leading-4k-monitors-for-media-professionals/"><u>[New] 2024 Approved Visionary Screens Leading 4K Monitors for Media Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/connoisseurs-compendium-budget-friendly-photography-havens-for-2024/"><u>Connoisseur's Compendium Budget-Friendly Photography Havens for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-poco-f5-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Poco F5 Pro 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-lifespan-tips-for-your-nintendo-switch-console/"><u>Essential Lifespan Tips for Your Nintendo Switch Console</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gimbal-guide-industrys-favorites/"><u>Gimbal Guide Industry's Favorites</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-a-journalistic-closing-statement/"><u>In 2024, Crafting a Journalistic Closing Statement</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-honor-x50i-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/installing-python-applications-with-pipx-a-beginners-guide/"><u>Installing Python Applications with Pipx - A Beginner's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/lessons-from-helldivers-2-keys-to-thriving-gaming-worlds/"><u>Lessons From Helldivers 2: Keys to Thriving Gaming Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/pioneer-innovative-measures-to-rekindle-steams-functionality/"><u>Pioneer Innovative Measures to Rekindle Steam's Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/speeding-up-your-fingers-is-it-all-in-the-polling/"><u>Speeding Up Your Fingers - Is It All in the Polling?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-manual-live-on-twitch-using-your-smartphone/"><u>The Ultimate Manual: Live on Twitch Using Your Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-potential-of-big-box-arcade-cabinetry/"><u>Unleash the Potential of Big Box Arcade Cabinetry!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-15-pro-max-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 15 Pro Max? Fixed | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-legal-stance-on-unauthorized-controllers-impact-analysis/"><u>Xbox's Legal Stance on Unauthorized Controllers: Impact Analysis</u></a></li>
+</ul></div>
 

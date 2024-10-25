@@ -1,7 +1,7 @@
 ---
 title: "Unlock Potential: Adding Windows to Your Steam Deck"
-date: 2024-10-18T00:46:27.155Z
-updated: 2024-10-19T11:58:04.296Z
+date: 2024-10-20T18:39:49.480Z
+updated: 2024-10-24T17:29:33.050Z
 tags:
   - games
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e88
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why You Should Install Windows on Your Steam Deck
 
 ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
@@ -45,13 +52,6 @@ Jhet Borja/MUO
  While not having a mouse and keyboard on your Steam Deck will pose some navigation issues, having an operating system that’s familiar to you and that you know how to use might be worth that sacrifice.
 
  Having Windows on your Steam Deck can also make it a work laptop or desktop replacement. You can easily use Photoshop, Microsoft Office apps, Lightroom, and all the usual suspects on Windows—so long as you’re willing to bring around a mouse and keyboard. Thankfully, there are plenty of[Steam Deck accessories](https://www.makeuseof.com/essential-steam-deck-accessories/) that can make doing real work on it a breeze.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You Need to Install Windows on Your Steam Deck
 
@@ -70,6 +70,13 @@ Jhet Borja/MUO
 ![Ventoy Windows zip file from GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ventoy-windows-zip-file-from-github.jpg)
 
  Head to[Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### GNOME Partition Editor (GParted) ISO
 
@@ -93,23 +100,9 @@ Jhet Borja/MUO
 
  You can find and download the Windows drivers for your Steam Deck on the[Steam Deck Windows Resources support page](https://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8) . Extract all of them into a single folder so that you can paste it onto your SD card or flash drive later.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install Windows on Your Steam Deck
 
  If you’ve got your flash drive or SD card ready with all the software downloaded, you can now start turning your Steam Deck into a Windows experience. In our case, we’ll be using an SD card so that we don’t need to deal with a USB hub or a dock.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Install Ventoy on Your Flash Drive or SD Card
 
@@ -121,23 +114,9 @@ Jhet Borja/MUO
 
 ![Selected SD card to install Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selected-sd-card-to-install-ventoy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You’ll then select the storage device you want to store Ventoy on. In our case, it’s the 32GB SD card. Click**Install** .
 
 ![Ventoy Drive with all ISOs and Windows Drivers inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ventoy-drive-with-all-isos-and-windows-drivers-inside.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that Ventoy is installed, copy over GParted, the Windows 11 ISO, and a folder containing the Windows drivers for the Steam Deck. You can now insert the SD card into the Steam Deck.
 
@@ -167,13 +146,6 @@ Jhet Borja/MUO
 
 ![GParted ISO on Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gparted-iso-on-ventoy.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  On Ventoy, select GParted to run it. You can run it in normal mode, but if that doesn’t work, grub2 might do it.
@@ -185,6 +157,13 @@ Jhet Borja/MUO
  Once GParted is open, you’ll be greeted with a few things before you can get to partitioning. Firstly, you’ll need to select the settings. Pick the first one—**GParted Live (Default Settings)** .
 
 ![GParted Don't touch keymap option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gparted-don-t-touch-keymap-option.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, select**Don’t touch keymap** and then select your language. If you’re just going to use English, we suggest just pressing A on the Steam Deck until you reach the main screen.
 
@@ -204,18 +183,24 @@ Jhet Borja/MUO
 
 ![Unallocated partition on GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/unallocated-partition-on-gparted.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  Finally, click on the**green check mark** in the toolbar. Forgetting to do this will not apply your partition changes.
 
  The software will then process the new partition sizes, which may take a few minutes depending on how big your SSD is. Once it’s done, you can now press the power button to exit GParted and power down.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Windows 11 Setup on the Steam Deck
 
@@ -240,6 +225,13 @@ Jhet Borja/MUO
  Proceed until you reach the**Where do you want to install Windows?** screen. You’ll want to scroll to the very bottom and click the drive that says**Unallocated space** . Next, click**New,** and it’ll automatically add the right size for you. So just click**Apply** .
 
  It will then start installing Windows onto that partition. Once Windows 11 is installed, you’ll have to go through another setup process.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Install the Windows Drivers for the Steam Deck
 
@@ -267,13 +259,6 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Windows 0x80300001 Error
 
 ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
@@ -283,6 +268,13 @@ Jhet Borja/MUO
  This error will most likely pop up because the partition you want to install Windows on isn’t in NTFS format or a blank unallocated partition.
 
 ![Wrong ext4 partition format for Windows on GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/wrong-ext4-partition-format-for-windows-on-gparted.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -301,6 +293,13 @@ Jhet Borja/MUO
 ### You Can’t Find SteamOS in the Boot Manager
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -325,6 +324,13 @@ Then type:
 `sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1`
 
 ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In case you don’t have a sudo account and can’t add the command, go to**Settings > Users** then assign a username and password. You can then try adding the same command in Konsole and adding your password after pressing Enter. It will then show your boot options.
 
@@ -357,18 +363,24 @@ Then type:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-pursuit-of-perfection-online-tv-capture-made-simple-for-2024/"><u>[New] In Pursuit of Perfection - Online TV Capture Made Simple for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-little-wheelmens-game-festivals/"><u>[Updated] Little Wheelmen's Game Festivals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-the-ultimate-quadcopter-engine-arsenal-for-2024/"><u>Crafting the Ultimate Quadcopter Engine Arsenal for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-graphics-card-options-like-nvidias-4060-ti/"><u>Discover Graphics Card Options Like Nvidia's 4060 Ti</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-more-than-just-looks/"><u>Elevate Your Gameplay: More Than Just Looks</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-display-with-the-latest-startech-usb-vga-driver-downloads-here/"><u>Enhance Your Display with the Latest StarTech USB VGA Driver - Downloads Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-steam-games-on-your-meta-quest/"><u>How to Play Steam Games on Your Meta Quest</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Asus ROG Phone 7 Ultimate?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-steam-decks-remote-play-for-pc-screensharing/"><u>Navigating Steam Deck's Remote Play for PC Screensharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/sony-playstation-5-the-evolution-story/"><u>Sony PlayStation 5: The Evolution Story</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-high-definition-gaming-laptops-reviewed/"><u>Top 10 High-Definition Gaming Laptops Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-magic-of-text-based-adventures-with-chatgpt/"><u>Unveiling the Magic of Text-Based Adventures with ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-comprehensive-introduction-to-streamlabs-obs-for-2024/"><u>[New] A Comprehensive Introduction to Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/windows-11-10-8-7-ssd/"><u>解決方案: Windows 11, 10, 8, 7 複製 SSD 重新運行</u></a></li>
+<li><a href="https://games-able.techidaily.com/artificial-wisdom-deciphers-virtual-murders/"><u>Artificial Wisdom Deciphers Virtual Murders</u></a></li>
+<li><a href="https://games-able.techidaily.com/benefits-of-postponed-gaming-releases/"><u>Benefits of Postponed Gaming Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-creators-quest-searching-for-new-tech-wonders/"><u>Cosmic Creator's Quest: Searching for New Tech Wonders</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-fun-experiences-on-discord-with-board-games/"><u>Crafting Fun Experiences on Discord with Board Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/dandd-dynamics-boosted-six-chatgpt-methods-to-become-your-mentor/"><u>D&D Dynamics Boosted: Six ChatGPT Methods to Become Your Mentor</u></a></li>
+<li><a href="https://games-able.techidaily.com/decipher-complexities-in-reestablishing-steams-operability/"><u>Decipher Complexities in Reestablishing Steam's Operability</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fix-installing-the-necessary-missing-audiovideo-hardware-driver-on-your-pc/"><u>Essential Fix: Installing the Necessary Missing Audio/Video Hardware Driver on Your PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/expert-picks-of-top-fee-free-live-streaming-tech-tools-for-everyone-for-2024/"><u>Expert Picks of Top, Fee-Free Live Streaming Tech Tools for Everyone for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/factory-reset-your-windows-server-2016-via-command-line-a-step-by-step-guide/"><u>Factory Reset Your Windows Server 2016 via Command Line: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/htc-vive-a-gateway-to-extraordinary-virtual-realms-for-2024/"><u>HTC Vive A Gateway to Extraordinary Virtual Realms for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-insights-an-exhaustive-overview-of-openai/"><u>Mastering the Insights: An Exhaustive Overview of OpenAI</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/maximizing-us-supply-chain-performance-with-strategic-automation-insights-from-the-reuters-2cuke-seminar-2020/"><u>Maximizing US Supply Chain Performance with Strategic Automation - Insights From the Reuters 2Cuke Seminar, 2020</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-operating-zones-navigating-gpu-temps/"><u>Safe Operating Zones: Navigating GPU Temps</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-handle-xbox-gold-on-series-xs/"><u>Strategies to Handle Xbox Gold on Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-game-console-emulations-that-enhance-your-macgaming/"><u>Top 5 Game Console Emulations That Enhance Your macGaming</u></a></li>
+<li><a href="https://driver-install.techidaily.com/transition-to-improved-dell-realtek-audios/"><u>Transition to Improved Dell Realtek Audios</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleashing-funimate-joy-comprehensive-tutorials-for-2024/"><u>Unleashing Funimate Joy - Comprehensive Tutorials for 2024</u></a></li>
 </ul></div>
 

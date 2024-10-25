@@ -1,7 +1,7 @@
 ---
 title: "Digital Over Disc: The Xbox Series S Path"
-date: 2024-10-13T17:33:34.120Z
-updated: 2024-10-19T12:08:36.047Z
+date: 2024-10-21T03:00:28.819Z
+updated: 2024-10-24T23:49:05.375Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
  While a disc drive-supported Xbox Series S would be hugely beneficial to you and other consumers, for Microsoft it could be a risky move that disturbs the main selling points of its flagship console. After all, if the Xbox Series S remained cheaper but supported discs, the reasons to get an Xbox Series X would narrow.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Keeping the Xbox Series S Digital-Only Guarantees Store Sales
 
  A less obvious sales reason the Xbox Series S is unlikely to get disc drive support is because of the console's heavy reliance on the Microsoft Store.
@@ -43,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![A screenshot of the Xbox Store homepage on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
  That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -88,13 +81,20 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Xbox Series S Is a Great Budget Console Even Without Disc Support
@@ -118,18 +118,16 @@ thumbnail: https://thmb.techidaily.com/89da125ea493abc275649c1f57ef017273ab0d0d8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-6-strategies-for-mc-village-housebuilding/"><u>[New] In 2024, Top 6 Strategies for MC Village Housebuilding</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-webcam-setup-for-quick-recordings-on-chromebooks/"><u>[New] In 2024, Webcam Setup for Quick Recordings on Chromebooks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bending-reality-advanced-distortion-methods-for-ps-users/"><u>Bending Reality Advanced Distortion Methods for PS Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-misconited-ideas-6-mac-limitations-in-gaming-world/"><u>Dissecting Misconited Ideas: 6 Mac Limitations in Gaming World</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-intrigue-the-must-watch-features-in-apps/"><u>Essential Intrigue: The Must-Watch Features in Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-curating-the-best-mac-snipping-software-compilation/"><u>In 2024, Curating the Best Mac Snipping Software Compilation</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-delights-my-passionate-support-for-apple-arcade/"><u>IOS Delights – My Passionate Support for Apple Arcade</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/leadership-spotlight-abbyy-hails-as-a-premier-contender-on-the-202e-idp-peak-matrix-endorsement-by-everest-group/"><u>Leadership Spotlight: ABBYY Hails as a Premier Contender on the 202E IDP PEAK Matrix - Endorsement by Everest Group</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-common-graphics-setbacks-a-four-step-process/"><u>Overcoming Common Graphics Setbacks: A Four-Step Process</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cannot-preview-error-with-microsoft-office-outlook/"><u>Resolving 'Cannot Preview' Error with Microsoft Office Outlook</u></a></li>
-<li><a href="https://games-able.techidaily.com/smart-shopping-xbox-s-edition-secrets-revealed/"><u>Smart Shopping: Xbox S Edition Secrets Revealed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/softening-sonic-surge-gradual-volume-reduction-tutorial/"><u>Softening Sonic Surge Gradual Volume Reduction Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-nokia-c32-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Nokia C32 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-your-farming-potential-with-top-valheim-seeds/"><u>2024 Approved Unlock Your Farming Potential with Top Valheim Seeds</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-phantom-v-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Phantom V Fold Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-real-time-online-gaming-bliss/"><u>Engage in Real-Time Online Gaming Bliss</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 Pro Max to Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unique-channel-branding-how-to-personalize-your-youtube-url/"><u>In 2024, Unique Channel Branding How to Personalize Your YouTube Url</u></a></li>
+<li><a href="https://games-able.techidaily.com/moments-of-mastery-special-ability-spree/"><u>Moments of Mastery: Special Ability Spree</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices-for-2024/"><u>Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-simplify-ps5-game-package-choices/"><u>Tips to Simplify PS5 Game Package Choices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/turning-twitter-video-into-engaging-customizable-gifs-for-2024/"><u>Turning Twitter Video Into Engaging Customizable GIFs for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-controller-functionality-in-windows-operations/"><u>Unlock Controller Functionality in Windows Operations</u></a></li>
 </ul></div>
 

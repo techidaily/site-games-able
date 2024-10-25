@@ -1,7 +1,7 @@
 ---
 title: Future PS5 Costs After Resolving Shortages
-date: 2024-10-12T17:07:17.946Z
-updated: 2024-10-18T21:03:55.564Z
+date: 2024-10-19T16:43:49.126Z
+updated: 2024-10-24T23:06:26.619Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stores May Have to Drop Prices to Be Competitive
@@ -50,29 +50,22 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
  The issue here, however, is that most of the money in gaming is made from extended warranties and games rather than the consoles themselves, so any savings would be minimal.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## However, the PS5 Slim Could Keep Prices High
 
  Just a few months after the announcement that marked the end of the PS5 shortage, an October 10, 2023 post on the[PlayStation Blog](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/) brought yet another exciting announcement—the unveiling of new (slimmer) PS5 models.
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## PS5 Prices Have Actually Risen in Recent Years
 
@@ -81,10 +74,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These price hikes were a direct result of the global economic environment that affects Sony as well as the rest of the world. While the US managed to stay out of the line of fire of those PS5 price hikes, inflation and the cost of living crisis rages on, making the changes of Sony dropping PS5 prices so soon after raising them unlikely.
@@ -94,6 +87,13 @@ So, now that the PS5 shortage is over, could we see prices drop?
  While stores may have the flexibility to drop the price of their PS5 consoles to stay competitive, they won't have the ability to offer any significant savings unless Sony does so with an official reduction in the RRP.
 
 ![Marvels Spider Man 2 PS5 Bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/marvels-spider-man-2-ps5-bundle.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Walmart](https://www.walmart.com/ip/PlayStation-5-Disc-Console-Marvel-s-Spider-Man-2-Bundle/5081658627?athbdg=L1102&from=/search)
 
@@ -120,19 +120,22 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/chromatic-soundscapes-selecting-the-right-tune/"><u>Chromatic Soundscapes Selecting the Right Tune</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-best-substitutes-for-chatgpt-in-autonomous-coding/"><u>Exploring the Best Substitutes for ChatGPT in Autonomous Coding</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-10-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark 10 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-20-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 20 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-price-friendly-nimbus-space-wide-file-vault/"><u>In 2024, Price-Friendly Nimbus Space Wide File Vault</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/lemokeys-quality-revealed-in-keychron-gaming-board/"><u>Lemokey's Quality Revealed in Keychron Gaming Board</u></a></li>
-<li><a href="https://games-able.techidaily.com/measuring-memory-unveiling-vram-amount/"><u>Measuring Memory: Unveiling VRAM Amount</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-hitman-3-connectivity-errors-strategies-that-work/"><u>Overcoming Hitman 3 Connectivity Errors: Strategies That Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/simple-steps-for-locating-your-digital-game-id/"><u>Simple Steps for Locating Your Digital Game ID</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mline-your-seo-strategy-with-the-leading-7-online-youtube-tags-tools-for-2024/"><u>Streamline Your SEO Strategy with the Leading 7 Online Youtube Tags Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169636723-tackle-system-hiccups-update-your-gpu-driver/"><u>Tackle System Hiccups - Update Your GPU Driver!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-duality-of-pimax-crystal-headset-sharpness-vs-stability/"><u>The Duality of Pimax Crystal Headset: Sharpness vs Stability</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-tutorial-secure-your-videos-with-smotri-downloader-on-smotricom/"><u>Ultimate Tutorial: Secure Your Videos with Smotri Downloader on smotri.com</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-video-timestamps-on-youtube/"><u>2024 Approved Navigating the World of Video Timestamps on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-a24-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy A24 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/complete-guide-to-recover-lost-mail-how-to-restore-outlook-backups-efficiently-without-data-loss-2-approaches/"><u>Complete Guide to Recover Lost Mail: How to Restore Outlook Backups Efficiently Without Data Loss (2 Approaches)</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-tools-for-efficient-twitch-vod-extraction/"><u>Cutting-Edge Tools for Efficient Twitch VOD Extraction</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/empowering-sites-with-cookiebot-technology-for-improved-analytics-and-seo/"><u>Empowering Sites with Cookiebot Technology for Improved Analytics and SEO</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-play-with-xbox-deals-awaits/"><u>Free Play with Xbox Deals Awaits!</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-restore-default-settings-on-your-ps4-console/"><u>How to Restore Default Settings on Your PS4 Console</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-executing-the-last-goodbye-to-your-instagram-account/"><u>In 2024, Executing the Last Goodbye to Your Instagram Account</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-15-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 15 Pro when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-from-phone-to-personal-entertainment-console/"><u>Journey From Phone to Personal Entertainment Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/necessity-of-mechanical-keys-in-pc-gaming/"><u>Necessity of Mechanical Keys in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-your-favorite-gaming-on-xbox-cloud/"><u>Streaming Your Favorite Gaming on Xbox Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-sony-shopping-expertise-guidebook/"><u>The Sony Shopping Expertise Guidebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steam-resolving-the-failed-to-load-steamuidll-critical-failure/"><u>Troubleshooting Steam: Resolving the 'Failed to Load steamui.dll' Critical Failure</u></a></li>
+<li><a href="https://discover-great.techidaily.com/ultimate-tutorial-enable-and-watch-h265-video-format-on-chrome/"><u>Ultimate Tutorial: Enable and Watch H.265 Video Format on Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/vroom-virtuosos-dilemma-wheel-or-finger-fling-on-the-freeway/"><u>Vroom Virtuosos' Dilemma: Wheel or Finger-Fling on the Freeway?</u></a></li>
 </ul></div>
 

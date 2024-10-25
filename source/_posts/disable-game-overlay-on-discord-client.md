@@ -1,7 +1,7 @@
 ---
 title: Disable Game Overlay on Discord Client
-date: 2024-10-17T12:40:19.155Z
-updated: 2024-10-19T08:13:12.071Z
+date: 2024-10-19T07:29:46.804Z
+updated: 2024-10-24T16:22:56.681Z
 tags:
   - games
 categories:
@@ -53,10 +53,10 @@ Here's how:
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the Discord Overlay During Gaming
@@ -68,20 +68,19 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -94,21 +93,22 @@ Follow these steps to disable the in-game overlay:
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
@@ -132,20 +132,20 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>[New] 2024 Approved Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-step-by-step-ps4-recording-techniques-for-gamers/"><u>[New] 2024 Approved Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-effortless-recording-on-mac-unveiling-the-secrets-for-2024/"><u>[Updated] Effortless Recording on Mac Unveiling the Secrets for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-step-by-step-guide-to-revamping-youtube-inspired-thumbnails-on-twitter/"><u>2024 Approved Step-by-Step Guide to Revamping YouTube-Inspired Thumbnails on Twitter</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Oppo Find N3 Flip</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-ultimate-compilation-best-tools-for-vimeo-files/"><u>In 2024, Ultimate Compilation Best Tools for Vimeo Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-ddr5-motherboards-2024/"><u>Leading DDR5 Motherboards 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-error-correction-in-windows-11/"><u>Mastering Steam Error Correction in Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-lava-yuva-2-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Yuva 2 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/sidestep-seemingly-slow-summoners-startup/"><u>Sidestep Seemingly Slow Summoner's Startup</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-assist-controller-handbook-for-ps5/"><u>The Ultimate Assist Controller Handbook for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unseen-value-of-consoles-at-30hz/"><u>The Unseen Value of Consoles at 30Hz</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-240hz-gaming-screens-to-elevate-your-gameplay/"><u>Ultimate 240Hz Gaming Screens to Elevate Your Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-never-crash-again-with-these-top-insights/"><u>Unlock the Secrets to Never Crash Again with These Top Insights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-exploring-present-day-drones-envisioning-their-future/"><u>[New] In 2024, Exploring Present-Day Drones, Envisioning Their Future</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10-new-recording-solutions-that-excel-beyond-fbx-limits/"><u>[Updated] 2024 Approved Top 10 New Recording Solutions That Excel Beyond FBX Limits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-ranking-apples-most-valuable-gif-tools/"><u>2024 Approved Ranking Apple's Most Valuable GIF Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-bin-bonanza-nabbing-great-values-in-steams-offerings/"><u>Bargain Bin Bonanza: Nabbing Great Values in Steam's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/disabling-steam-boots-silently/"><u>Disabling Steam Boots Silently</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-your-honor-magic5-ultimate-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor Magic5 Ultimate Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-smartly-engage-with-steams-economic-system/"><u>How to Smartly Engage With Steam's Economic System</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-a56s-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo A56s 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-12-pro-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 12 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-the-craft-tips-and-tricks-for-creating-stunning-gaming-content-on-pc-for-your-channel/"><u>Mastering the Craft: Tips and Tricks for Creating Stunning Gaming Content on PC for Your Channel</u></a></li>
+<li><a href="https://games-able.techidaily.com/protective-gear-for-your-steam-device/"><u>Protective Gear for Your Steam Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pdf-printing-problems-top-tips-and-solutions/"><u>Solve Your PDF Printing Problems: Top Tips & Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-165hz-monitors-for-gaming/"><u>The Best 165Hz Monitors for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-crackdown-players-weigh-in-on-prohibiting-unsanctioned-devices/"><u>Xbox's Crackdown: Players Weigh In on Prohibiting Unsanctioned Devices</u></a></li>
 </ul></div>
 

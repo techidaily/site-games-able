@@ -1,7 +1,7 @@
 ---
 title: How to Unsubscribe and Undo Gaming Expenses
-date: 2024-09-13T20:59:25.752Z
-updated: 2024-09-20T20:36:29.882Z
+date: 2024-10-24T00:54:41.272Z
+updated: 2024-10-25T04:12:32.850Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
 
  Requesting a refund for a digital game on your Xbox Series X|S is thankfully very simple and is very similar to[refunding purchases on the PS4 or the PS5](https://www.makeuseof.com/how-to-refund-game-ps4-ps5/) . You can't do so from the comfort of your console, however. You will have to head to[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) to get started
@@ -57,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 ![Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-form-page-microsoft.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6\. Enter the email address of the Microsoft account you used to make the purchase.
 
  7\. Press**Next** .
@@ -73,26 +87,26 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Happens Once My Refund Request Is Accepted?
 
  If your refund request is successful, you can expect to see an email from Microsoft confirming this, and you will be able to see your refund being processed in your Microsoft account. You will also have your access to the game revoked, so it will no longer be playable.
 
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
@@ -114,5 +128,20 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-comedy-kings-the-most-popular-memes/"><u>[New] 2024 Approved Comedy Kings The Most Popular Memes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-uncovering-if-itop-justifies-its-market-presence/"><u>[New] Uncovering If ITop Justifies Its Market Presence</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-get-your-stream-on-point-with-these-top-webcams-for-youtube/"><u>[Updated] In 2024, Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-joining-friends-showtime-on-tiktok-with-ease/"><u>[Updated] In 2024, Joining Friends’ Showtime on TikTok with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/deep-dive-into-conflict-11-top-strategy-war-games/"><u>Deep Dive Into Conflict: 11 Top Strategy War Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-unprecedented-gaming-performance-with-pdw4/"><u>Experience Unprecedented Gaming Performance with PDW4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-high-svchostexe-cpu-usage-in-windows-11-complete-guide/"><u>How to Fix High svchost.exe CPU Usage in Windows 11 – Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keychron-gaming-board-the-lemokey-l3-verdict/"><u>Keychron Gaming Board: The Lemokey L3 Verdict</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-operatic-experience-unlocking-your-nitro-for-free/"><u>Maximize Operatic Experience: Unlocking Your Nitro for Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premiere-20-unlicensed-pubg-picture-collections/"><u>Premiere 20 Unlicensed PUBG Picture Collections</u></a></li>
+<li><a href="https://win-unique.techidaily.com/top-ranked-usb-drive-cloning-tools-compatible-with-all-versions-of-windows-11-10-8-and-7/"><u>Top-Ranked USB Drive Cloning Tools Compatible with All Versions of Windows: 11, 10, 8 & 지7</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/upload-made-easy-your-device-based-guide-for-youtube-shorts-for-2024/"><u>Upload Made Easy Your Device-Based Guide for YouTube Shorts for 2024</u></a></li>
+</ul></div>
 

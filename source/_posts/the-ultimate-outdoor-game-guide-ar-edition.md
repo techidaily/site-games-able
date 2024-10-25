@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Outdoor Game Guide (AR Edition)
-date: 2024-10-15T06:30:31.178Z
-updated: 2024-10-19T07:19:30.621Z
+date: 2024-10-22T06:42:44.569Z
+updated: 2024-10-25T01:56:37.494Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  Although there are plenty of reasons to spend time in natural outdoor settings, for some it is easier said than done. These fun AR (augmented reality) mobile games merge the real world with the virtual one to offer some get-up-and-go when it comes to spending time outside in nature!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Jurassic World Alive
@@ -56,16 +56,16 @@ Close
 
 ![ZRX augmented reality mobile fitness game home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-home.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ZRX zombies run augmented reality mobile fitness game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-zombies.jpg)
 
 ![ZRX Zombies run augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-jolly.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -80,6 +80,13 @@ Close
 ## 3\. Pokémon GO
 
 ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
@@ -101,14 +108,14 @@ Close
 
 ![Draconius GO augmented reality mobile game firepaw](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-firepaw.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Draconius GO augmented reality mobile game berrydillo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-berrydillo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -120,6 +127,19 @@ Close
 
 **Download:** Draconius GO for[iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Star Walk 2
 
 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
@@ -129,10 +149,10 @@ Close
 ![Star Walk 2 augmented reality mobile app pegasus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-pegasus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -143,35 +163,9 @@ Close
 
 **Download:** Star Walk 2 for[iOS](https://apps.apple.com/app/star-walk-2-ads-sky-tracker/id1112481571) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2Free) (Free, in-app purchases and subscription available)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Ingress Prime
 
 ![Ingress Prime augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Ingress Prime augmented reality mobile game items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ingress-items.jpg)
 
@@ -185,22 +179,15 @@ Close
 
 **Download:** Ingress Prime for[iOS](https://apps.apple.com/app/ingress-prime/id576505181) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticproject.ingress) (Free, in-app purchases and subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Orna
 
 ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
@@ -220,6 +207,13 @@ Close
 ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
 
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Pikmin Bloom augmented reality mobile game seedlings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-seeds.jpg)
 
@@ -252,20 +246,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2023s-leading-youtube-engagement-tools-for-2024/"><u>[New] 2023'S Leading YouTube Engagement Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-integrate-xp-moviemaker-from-digital-software-suite/"><u>[Updated] 2024 Approved Integrate XP Moviemaker From Digital Software Suite</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/12-signs-endless-stories-create-your-whatsapp-bio-narrative-for-2024/"><u>12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/alienware-aurora-r11-review-why-it-claimed-the-title-of-top-notch-gaming-pc/"><u>Alienware Aurora R11 Review - Why It Claimed the Title of Top-Notch Gaming PC</u></a></li>
-<li><a href="https://win-docs.techidaily.com/best-zero-cost-malware-scrubbers-comprehensive-guide-to-keeping-your-devices-clean-with-malwarefox-and-others/"><u>Best Zero-Cost Malware Scrubbers : Comprehensive Guide to Keeping Your Devices Clean with MalwareFox and Others</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-conqueror-vs-economy-warrior-ps5-meets-budget-pc/"><u>Console Conqueror vs Economy Warrior: PS5 Meets Budget PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-vs-computer-ps5-meets-budget-pc/"><u>Console vs Computer: PS5 Meets Budget PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-deep-using-the-netstat-command-in-windows-11-os/"><u>Diving Deep: Using the Netstat Command in Windows 11 OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/inside-scoop-the-forthcoming-google-pixel-wrist-device-pricing-reports-and-speculated-launch-dates-with-possible-specifications/"><u>Inside Scoop: The Forthcoming Google Pixel Wrist Device - Pricing Reports and Speculated Launch Dates with Possible Specifications</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigating-the-world-of-instagram-stories-easily/"><u>Navigating the World of Instagram Stories Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-valuation-timeline-for-gaming-titles/"><u>Steam Valuation Timeline for Gaming Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-connecting-a-ps5-controller-to-your-pc/"><u>Step-by-Step: Connecting a PS5 Controller to Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-connecting-to-xbox-one-remote/"><u>Step-by-Step: Connecting to Xbox One Remote</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-budget-budgets-the-best-white-boards-of-2023/"><u>Top Budget Budgets: The Best White Boards of 2023</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-failed-launches-of-steam-titles-on-windows-10-system/"><u>Troubleshooting Failed Launches of Steam Titles on Windows 10 System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-break-into-cash-with-periscope-first-timers-tips/"><u>[New] Break Into Cash with Periscope First-Timers' Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>[Updated] Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-screen-replayer-apps-for-modern-web-surfing-for-2024/"><u>[Updated] Top Screen Replayer Apps for Modern Web Surfing for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-razr-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Razr 40 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-nvidias-g-sync-a-breakthrough-in-graphics/"><u>Delving Into Nvidia's G-Sync: A Breakthrough in Graphics</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-home-entertainment-with-a-customized-look-at-your-series-sxs-vrr/"><u>Elevating Home Entertainment with a Customized Look at Your Series S/X's VRR</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-impressions-of-keychron-lemokey-l3-analysis/"><u>First Impressions of Keychron: Lemokey L3 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-past-to-present-playing-flash-games-without-adobe/"><u>From Past to Present: Playing Flash Games Without Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-essentials-skip-the-high-end-monitors-save-your-money/"><u>Gaming Essentials - Skip the High-End Monitors, Save Your Money</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/illuminating-imagery-pro-level-tips-for-spectacular-photos-for-2024/"><u>Illuminating Imagery Pro-Level Tips for Spectacular Photos for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-a2-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi A2 Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/preparing-for-a-mobile-cinematic-experience/"><u>Preparing for a Mobile Cinematic Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-the-content-file-locked-fiasco-in-steam/"><u>Simplifying the Content File Locked Fiasco in Steam</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-viral-top-10-all-about-tiktoks/"><u>Twitter's Viral Top 10 All About TikToks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Perplexing Platformer Paradox
-date: 2024-10-17T11:46:02.345Z
-updated: 2024-10-18T18:17:00.784Z
+date: 2024-10-19T21:27:25.924Z
+updated: 2024-10-24T20:59:20.788Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
@@ -62,10 +69,10 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Pogostuck
@@ -73,10 +80,10 @@ Let’s explore some of the names leading the scene.
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
@@ -86,13 +93,6 @@ Let’s explore some of the names leading the scene.
  Pogostuck is tough to complete but also great for a relaxed playthrough, as it is one of many[Steam Deck-compatible games](https://www.makeuseof.com/how-to-check-steam-deck-compatibility/) . It also has a multiplayer function, which the previously mentioned titles do not. As such, you can play with your friends and other players online while live tracking when someone completes a course in the same session as you.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Bread & Fred
 
@@ -112,6 +112,13 @@ Let’s explore some of the names leading the scene.
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -121,13 +128,6 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -150,18 +150,15 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-professional-review-prime-drone-gimbals/"><u>[New] Professional Review Prime Drone Gimbals</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-flavorful-footage-kitchen-film-making-101/"><u>[Updated] 2024 Approved Flavorful Footage Kitchen Film-Making 101</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-realtime-hd-uplift-for-pc-mac-and-online-devices/"><u>[Updated] RealTime HD Uplift for PC, Mac & Online Devices</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-itel-a05s-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Itel A05s</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-prevention-graphics-card-in-win10-os/"><u>Device Prevention: Graphics Card in Win10 OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expertly-tackle-windows-10-taskbar-issues-top-fixes-revealed/"><u>Expertly Tackle Windows 10 Taskbar Issues: Top Fixes Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-world-of-xbox-game-pass/"><u>Exploring the World of Xbox Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/flashs-farewell-revel-in-your-game-time-with-alternatives/"><u>Flash's Farewell? Revel in Your Game Time with Alternatives</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-conversion-selecting-the-top-10-free-tools/"><u>In 2024, Streamline Conversion Selecting the Top 10 Free Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/now-played-then-made-the-new-console-era/"><u>Now Played, Then Made: The New Console Era</u></a></li>
-<li><a href="https://games-able.techidaily.com/symphony-of-sound-the-ultimate-mobile-music-challenge/"><u>Symphony of Sound: The Ultimate Mobile Music Challenge</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-escapades-5-adventure-titles-online/"><u>Virtual Escapades: 5 Adventure Titles Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-strategic-evasion-the-best-room-escapes-ranked/"><u>[New] 2024 Approved Strategic Evasion The Best Room Escapes Ranked</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-pros-approach-to-documenting-overwatch-battles/"><u>2024 Approved The Pro's Approach to Documenting Overwatch Battles</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728488212750-office3/"><u>効果的で安価なOffice文書復元手順：3番手から最高の方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-electronics-at-the-heart-of-ifa-2023/"><u>Cutting-Edge Electronics at the Heart of IFA 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-fixes-to-resolve-missing-or-not-found-errors-with-d3dx924dll/"><u>Essential Fixes to Resolve 'Missing or Not Found' Errors with d3dx9_24.dll</u></a></li>
+<li><a href="https://games-able.techidaily.com/extending-the-life-of-your-switch-game-console/"><u>Extending the Life of Your Switch Game Console</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-twitch-a-step-by-step-guide/"><u>Mastering the Art of Twitch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-how-to-restore-audio-functionality-on-your-laptop/"><u>Solving the Dilemma: How to Restore Audio Functionality on Your Laptop</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-playstation-5-with-elite-upgrades/"><u>Transform Your PlayStation 5 with Elite Upgrades</u></a></li>
 </ul></div>
 

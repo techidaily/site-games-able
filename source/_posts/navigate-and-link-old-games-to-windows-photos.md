@@ -1,7 +1,7 @@
 ---
 title: Navigate and Link Old Games to Windows Photos
-date: 2024-09-13T22:09:18.608Z
-updated: 2024-09-20T20:52:23.266Z
+date: 2024-10-19T22:37:08.385Z
+updated: 2024-10-24T21:55:28.685Z
 tags:
   - games
 categories:
@@ -51,9 +51,23 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Fixes for Old Games on Windows
 
@@ -61,24 +75,30 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  With a few simple security adjustments, you can at least get your old games reading the folders they're supposed to.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: How Do I Get Old Games to Work on Windows 11?
 
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: Does Windows 11 Work With All Games?
@@ -102,5 +122,21 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-finest-12-tycoons-your-pathway-to-gaming-enthusiasm/"><u>[New] In 2024, The Finest 12 Tycoons Your Pathway to Gaming Enthusiasm</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-easy-hdr-a-step-by-step-guide-for-2024/"><u>[New] Mastering Easy HDR A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-noticing-lack-of-friend-requests-for-2024/"><u>[New] Noticing Lack of Friend Requests for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-pro-mastering-spotify-advertisement-techniques/"><u>[Updated] From Novice to Pro Mastering Spotify Advertisement Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-navigating-youtube-setup-a-newbies-complete-guidebook/"><u>[Updated] In 2024, Navigating YouTube Setup A Newbie's Complete Guidebook</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bypass-latency-with-av1-in-youtube-settings/"><u>Bypass Latency with AV1 in YouTube Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/eight-playful-phrase-parodies-the-ultimate-text-game-spree/"><u>Eight Playful Phrase Parodies: The Ultimate Text Game Spree</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-worlds-dissipate-but-should-we-reflect/"><u>Game Worlds Dissipate, But Should We Reflect?</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-evaluate-the-real-life-impact-before-deleting-accounts/"><u>How to Evaluate the Real-Life Impact Before Deleting Accounts</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-on-the-go-with-controllers/"><u>Ultimate Gaming on the Go With Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-bg3s-minimum-gear-needs/"><u>Unveiling BG3's Minimum Gear Needs</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-the-gaming-subscription-service/"><u>Xbox Game Pass: The Gaming Subscription Service</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Price Surge Precludes My Return to EA Play
-date: 2024-10-18T10:19:05.414Z
-updated: 2024-10-19T02:53:02.897Z
+date: 2024-10-23T23:16:32.013Z
+updated: 2024-10-25T05:07:02.410Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
@@ -64,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. EA Isn't Adding New Perks and Features
@@ -89,28 +90,15 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Other Gaming Subscriptions Offer Better Value for Money
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
@@ -125,10 +113,16 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
@@ -154,22 +148,20 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unpacking-the-multifaceted-nature-of-wirecast-tools/"><u>[New] Unpacking the Multifaceted Nature of WireCast Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/15-dynamic-duo-games-fun-with-companions-anytime-anywhere/"><u>15 Dynamic Duo Games: Fun with Companions Anytime, Anywhere</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-obs-overpower-vs-streamlabs-supremacy/"><u>2024 Approved OBS Overpower Vs. Streamlabs Supremacy</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-system-performance-by-enabling-automatic-file-deletion-in-winos/"><u>Boost System Performance by Enabling Automatic File Deletion in WINOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/challenge-yourself-with-five-furious-fiddlers/"><u>Challenge Yourself With Five Furious Fiddlers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-lenovo-wireless-bluetooth-driver-compatible-with-windows-710-secure-and-updated-version/"><u>Download and Install Lenovo Wireless Bluetooth Driver: Compatible with Windows 7/10 - Secure & Updated Version</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-audio-output-in-windows-11-tips-and-tricks-for-loud-and-clear-sounds/"><u>Enhancing Audio Output in Windows 11 - Tips & Tricks for Loud and Clear Sounds</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-independent-gaming-delights-on-itchio/"><u>Finding Independent Gaming Delights on Itch.io</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-without-the-chair-cushion/"><u>Gaming Without the Chair Cushion</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-repairing-non-joy-con-connections-on-switch/"><u>Guide to Repairing Non-Joy-Con Connections on Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps4-or-ps5-controller-to-your-nintendo-switch/"><u>How to Connect a PS4 or PS5 Controller to Your Nintendo Switch</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-c50-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco C50 Phone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-role-of-supplemental-imagery-in-storytelling/"><u>In 2024, The Role of Supplemental Imagery in Storytelling</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/intensifying-interaction-with-enhanced-zoom-on-roblox/"><u>Intensifying Interaction with Enhanced Zoom on Roblox</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/regaining-entry-into-facebook-without-using-your-mobile-or-mail/"><u>Regaining Entry Into Facebook without Using Your Mobile or Mail</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-boot-options-6-ways/"><u>The Ultimate Guide to PS5 Boot Options (6 Ways)</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719161479393-transform-your-playtime-claim-deals/"><u>Transform Your Playtime, Claim Deals</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-virality-vault-uncovering-keywords-that-drive-video-shares/"><u>[Updated] In 2024, Virality Vault Uncovering Keywords That Drive Video Shares</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-console-to-convenience-emulating-segas-dreamcatcher-games-on-mobile-devices/"><u>From Console to Convenience: Emulating Sega's Dreamcatcher Games on Mobile Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-nubia-red-magic-9-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Nubia Red Magic 9 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-insightful-rank-trackers-unlock-your-videos-potential/"><u>In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/kompatibilitatsprufung-fur-windows-11-ist-ihr-computer-bereit/"><u>Kompatibilitätsprüfung Für Windows 11: Ist Ihr Computer Bereit?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximum-comfort-sits-gaming-throne-recommendations/"><u>Maximum Comfort Sits: Gaming Throne Recommendations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfecting-screenshots-editing-vids-vertically-on-fcpx-for-2024/"><u>Perfecting Screenshots Editing Vids Vertically on FCPX for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-portable-compact-edition-by-sony/"><u>PlayStation Portable Compact Edition by Sony</u></a></li>
+<li><a href="https://games-able.techidaily.com/prolong-your-console-life-with-these-five-strategies/"><u>Prolong Your Console Life with These Five Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-tapping-that-reset-button-preventing-game-crashes-with-top-10-insights/"><u>Stop Tapping That Reset Button: Preventing Game Crashes with Top 10 Insights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-savvy-ways-to-record-mac-lectures/"><u>Tech-Savvy Ways to Record Mac Lectures</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-feasibility-of-ps4-gaming-on-ps5-systems/"><u>The Feasibility of PS4 Gaming on PS5 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-elon-musks-vision-a-deep-dive-into-the-intriguing-world-of-truthgpt/"><u>Unraveling Elon Musk's Vision: A Deep Dive Into the Intriguing World of TruthGPT!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme Narzo N55 | Dr.fone</u></a></li>
 </ul></div>
 

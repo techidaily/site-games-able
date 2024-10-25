@@ -1,7 +1,7 @@
 ---
 title: "The Quest for Availability: Tracking Xbox Users"
-date: 2024-10-13T02:43:49.586Z
-updated: 2024-10-18T20:55:16.129Z
+date: 2024-10-20T02:09:41.921Z
+updated: 2024-10-24T20:10:14.528Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
  If you find a recent post by an offline friend, you know they are appearing offline. And through the type of posts you find, you can see the games, achievements, or captures your friend has posted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. View the Xbox Series X|S Gamerscore Leaderboard
 
  Aside from searching through Xbox posts, a quicker way of telling if someone has been appearing offline involves viewing the monthly**Gamerscore leaderboard** on your Xbox Series X|S.
@@ -59,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
 ![A screenshot of the Gamerscore Leaderboard on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3160-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Look through the rankings of you and your friends, looking for an offline friend who has been consistently earning Gamerscore.
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
@@ -90,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
  A final way you can tell if one of your Xbox friends is appearing offline is by checking a friend's**Time played** statistic in a specific Xbox game.
@@ -104,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Scroll down the on-screen gaming stats until you find**Time played** .
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
@@ -144,19 +144,21 @@ thumbnail: https://thmb.techidaily.com/ad7d05b0030775951042fde08b0fbde9a0ebb4cf0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-professionalizing-slides-with-youtube-videos/"><u>[New] 2024 Approved Professionalizing Slides with YouTube Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-seamless-screen-capture-software-w10-edition-for-2024/"><u>[New] Seamless Screen Capture Software, W10 Edition for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/charting-a-course-for-wealth-ajeys-youtube-income-blueprint/"><u>Charting a Course for Wealth Ajey's YouTube Income Blueprint</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciphering-the-hidden-world-of-shadowbanning/"><u>Deciphering the Hidden World of Shadowbanning</u></a></li>
-<li><a href="https://games-able.techidaily.com/enable-remote-play-and-game-share-on-ps5/"><u>Enable Remote Play & Game Share on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-list-of-best-pads-for-gamers/"><u>Exclusive List of Best Pads for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-updates-not-downloads-playing-flash-games-after-adobes-exit/"><u>Game Updates, Not Downloads: Playing Flash Games After Adobe's Exit</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-laserjet-pro-mfp-m127fn-driver-download-best-practices-and-tips/"><u>HP LaserJet Pro MFP M127FN Driver Download: Best Practices and Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mp4isodvd-shrink/"><u>MP4をISO形式に変換するためのDVD Shrinkガイドと効果的な代替ソリューション</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-steam-deck-and-pc-integration/"><u>Seamless Gaming Experience: Steam Deck and PC Integration</u></a></li>
-<li><a href="https://win-studio.techidaily.com/story-3-the-shell-and-tube-heat-exchanger-assumption/"><u>Story 3: The Shell and Tube Heat Exchanger Assumption</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-9-superior-emulators-for-steam-decks/"><u>The Ultimate List: 9 Superior Emulators for Steam Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/twitch-decoded-a-comprehensive-overview-of-live-broadcasts/"><u>Twitch Decoded: A Comprehensive Overview of Live Broadcasts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/vimeo-vs-youtube-vs-dailymotion-which-platform-is-the-one/"><u>Vimeo vs YouTube vs Dailymotion Which Platform Is the One?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>[New] How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-command-attention-with-these-powerful-20-tiktok-caption-ideas/"><u>[Updated] Command Attention with These Powerful 20 TikTok Caption Ideas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-instant-recording-sight-and-sound-fused/"><u>[Updated] In 2024, Instant Recording Sight & Sound Fused</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-compre-written-essentials-google-voice-call-records/"><u>2024 Approved Compre Written Essentials Google Voice Call Records</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-skills-for-exceptional-job-interviews/"><u>2024 Approved Essential Skills For Exceptional Job Interviews</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/capture-nostalgia-uploading-past-photos-as-snaps/"><u>Capture Nostalgia - Uploading Past Photos as Snaps</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-x100-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo X100 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-ambiance-tailoring-console-lights-on-xbox/"><u>Perfecting Ambiance: Tailoring Console Lights on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-steam-deck-input-a-guide-to-the-keyboard/"><u>Perfecting Steam Deck Input: A Guide to the Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-exclusive-steam-deck-upgrades-revealed/"><u>Pushing Boundaries: Exclusive Steam Deck Upgrades Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-game-visuals-with-models-in-mind/"><u>Redefining Game Visuals with Models in Mind</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-dxgierrordevicehung-0x887a0006-on-win-1011/"><u>Resolving DXGI_ERROR_DEVICE_HUNG (0X887A0006) on Win 10/11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-features-a-comprehensive-review-of-logitechs-c920-hd-webcam/"><u>Unpacking the Features: A Comprehensive Review of Logitech's C920 HD Webcam</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-oriented-wireless-controller-keys/"><u>Value-Oriented Wireless Controller Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-roadmap-to-earn-all-badges-on-steam-gaming/"><u>Your Roadmap to Earn All Badges on Steam Gaming</u></a></li>
 </ul></div>
 

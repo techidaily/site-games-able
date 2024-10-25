@@ -1,7 +1,7 @@
 ---
 title: Patent or Not, No Future for Xbox S Disk
-date: 2024-09-18T18:37:03.922Z
-updated: 2024-09-20T22:23:20.478Z
+date: 2024-10-23T17:21:25.833Z
+updated: 2024-10-25T05:25:29.219Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 
  While a disc drive-supported Xbox Series S would be hugely beneficial to you and other consumers, for Microsoft it could be a risky move that disturbs the main selling points of its flagship console. After all, if the Xbox Series S remained cheaper but supported discs, the reasons to get an Xbox Series X would narrow.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Keeping the Xbox Series S Digital-Only Guarantees Store Sales
 
  A less obvious sales reason the Xbox Series S is unlikely to get disc drive support is because of the console's heavy reliance on the Microsoft Store.
@@ -46,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  So for Microsoft, having more owners of digital-only consoles almost guarantees more users of the Microsoft Store, and retains purchases within Microsoft-owned sites, stores, and products. By association, if an external disc drive or disc drive-supported Series S were available, Microsoft would lose this guarantee.
 
  That being said, digital store processes are just one of many[things to consider when purchasing a digital-only console](https://www.makeuseof.com/buying-tips-digital-only-console/) , and you may even find some digital sales far better than physical ones. But the likelihood of Xbox releasing a disc drive-supported Xbox Series S becomes less likely with the effects on the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. External Disc Readers Are Disabled on Xbox Series S
 
@@ -60,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  So while external disc drive support isn't completely out of the question for Xbox Series S, you'll have to wait for Microsoft to create its own external disc drive. And, even then, you won't be able to play your physical discs and will use the disc drive for verification only—if the patent is to be believed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A Disc Drive-Supported Xbox Series S Would Increase Costs
@@ -75,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 ![A photograph of a white Xbox Series S controller and console](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/kamil-s-supabuuk7f4-unsplash-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whether through a higher-priced Series S, or an external drive accessory, the price of Series S budget gaming would rise. And even if Series S prices remained lower than the Xbox Series X, but still increased, you may find yourself seeing the best budget Xbox console less favorably.
@@ -102,5 +122,18 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-pros-picks-best-microphones-for-asmr-recording/"><u>[Updated] 2024 Approved Pros' Picks Best Microphones for ASMR Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/glossi-techniques-streaming-xbox-to-steam-successfully/"><u>GlosSI Techniques: Streaming Xbox to Steam Successfully</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-12-pro-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 12 Pro Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-note-30-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Note 30?</u></a></li>
+<li><a href="https://games-able.techidaily.com/launch-league-logic-troubleshooting-stuck-screens/"><u>Launch League Logic: Troubleshooting Stuck Screens</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-to-use-luts-to-color-grade-on-your-iphone/"><u>New How to Use LUTS to Color Grade on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-dark-dilemma-a-guide-to-troubleshooting-windows-11s-black-display-problem/"><u>Resolving the Dark Dilemma: A Guide to Troubleshooting Windows 11'S Black Display Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/short-term-solutions-to-xbox-ultimate-plan-hike/"><u>Short-Term Solutions to Xbox Ultimate Plan Hike</u></a></li>
+<li><a href="https://win-able.techidaily.com/tech-support-getting-tekken-8-to-start-on-your-windows-or-mac-machine/"><u>Tech Support: Getting Tekken 8 to Start on Your Windows or Mac Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secure-pathway-making-steam-play-kid-friendly/"><u>The Secure Pathway: Making Steam Play Kid-Friendly</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-ways-to-connect-bluetooth-headphones-to-your-ps5/"><u>Two Ways to Connect Bluetooth Headphones to Your PS5</u></a></li>
+</ul></div>
 

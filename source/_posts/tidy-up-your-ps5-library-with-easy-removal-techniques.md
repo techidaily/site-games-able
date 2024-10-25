@@ -1,7 +1,7 @@
 ---
 title: Tidy Up Your PS5 Library with Easy Removal Techniques
-date: 2024-09-14T19:51:04.406Z
-updated: 2024-09-20T19:52:52.759Z
+date: 2024-10-18T07:12:40.482Z
+updated: 2024-10-24T22:53:50.957Z
 tags:
   - games
 categories:
@@ -31,15 +31,36 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  Deleting a game on your PS5 removes it from your system, but your saved data is stored elsewhere on your console. Deleting your saved data is a whole other process, and it’s one that you cannot do on accident.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Delete a Game on My PS5?
 
  If you have been playing the game you want to delete recently, and it’s still on your home page, all you need to do is hover over the**game's icon** , press the**Options button** on your controller, and press**Delete** . The game will then be removed from your system, leaving you free to replace it with something else.
 
 ![delete game from home screen menu PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-home-screen-menu-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Only the most recently played games appear on your home screen. If the game isn’t on your home screen anymore, scroll to the right and open your**Game Library** . Make sure you’re on the**Installed** tab, find your game, press the options button on your controller, and select**Delete** .
 
 ![Delete Game from Game Library PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-game-from-game-library-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re having trouble finding the exact game you’re looking for, you can also scroll to the right and select the icon with a downward arrow to utilize the**Sort by** filters. You can sort your games by alphabetical order, from oldest to newest, or even by size to help you find what you’re looking for.
 
@@ -55,14 +76,14 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 ![Redownload Game PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/redownload-game-ps5.jpg)
 
- You can check the progress of your download by heading to your**Downloads/Uploads** section. There you can see it downloading in real time, and view an approximate time frame for your download.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can check the progress of your download by heading to your**Downloads/Uploads** section. There you can see it downloading in real time, and view an approximate time frame for your download.
 
 ## Don’t Let Limited Space Prevent You From Playing New PS5 Games
 
@@ -83,5 +104,22 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-sonic-boom-new-technology-reviewed/"><u>[Updated] Sonic Boom New Technology Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-most-influential-8-game-review-sites/"><u>Discover the Most Influential 8 Game Review Sites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-3gpp-to-mp4-converter-by-movavi-quick-and-easy-file-transformation/"><u>Free Online 3GPP to MP4 Converter by Movavi: Quick and Easy File Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamer-genius-tackling-common-xbox-issues/"><u>Gamer Genius: Tackling Common Xbox Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-convert-soundcloud-to-mp3-quickly-and-easily/"><u>How to Convert SoundCloud to MP3 – Quickly & Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>In 2024, Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-zero-30-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revving-network-speed-in-winxp7/"><u>Revving Network Speed in WINXP/7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/seekingnextgencamerasolutions/"><u>SeekingNextGenCameraSolutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealth-mode-how-to-look-offline-on-steam/"><u>Stealth Mode: How to Look Offline on Steam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475365984-struggling-with-disappearing-iphone-push-messages-try-these-7-hacks/"><u>Struggling with Disappearing iPhone Push Messages? Try These 7 Hacks!</u></a></li>
+<li><a href="https://games-able.techidaily.com/temporary-triumph-treasures-secret-code-saga/"><u>Temporary Triumph Treasures: Secret Code Saga</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-showcase-of-gaming-evolution-at-ifa-2023/"><u>The Ultimate Showcase of Gaming Evolution at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-potential-mastering-cs2-as-a-mac-user/"><u>Unleashing Potential: Mastering CS2 as a Mac User</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y78-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y78 5G? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keep Playing, Not Cluttering: Retro Gaming Simplified Using the ChDMan Technique"
-date: 2024-10-13T18:46:58.159Z
-updated: 2024-10-19T11:04:22.389Z
+date: 2024-10-18T04:06:54.707Z
+updated: 2024-10-24T18:00:22.466Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/c5b0ebae4367079e280b487ce588fc466a9ede57f
 
 ![A screenshot of a BIN and CUE ROM image from the File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bin-and-cue-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Windows CMD or PowerShell. Then, move to the folder with your game's files with the Change Directory (CD) command:
 
 `cd PATH_TO_FOLDER`
@@ -74,13 +81,6 @@ Our command was:
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
  CHDMAN and the CHD format can also be used to store compressed HDD backups. Those may share the same extension with optical backups saved as BIN and IMG, but you have to use a tweaked version of the above command to compress HDDs to CHDs:
@@ -94,10 +94,10 @@ Our command was:
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Which Emulators Support CHDs?
@@ -124,13 +124,6 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -139,10 +132,10 @@ Our command was:
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Can You Decompress CHDs?
@@ -150,6 +143,13 @@ Our command was:
  Decompressing CHDs is almost the reverse of how you compress them. Since the format supports optical media and HDD backups, you must customize the command you'll use according to the media you're dealing with.
 
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
 
@@ -180,17 +180,22 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-the-instagram-to-tiktok-connection-protocol/"><u>[New] 2024 Approved The Instagram to TikTok Connection Protocol</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-rapidly-finding-friends-on-facebooks-network/"><u>[Updated] 2024 Approved Rapidly Finding Friends on Facebook's Network</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nubia-red-magic-9-proplus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nubia Red Magic 9 Pro+ Phone When You Forget the Password</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-false-payment-failures-on-playstation/"><u>Clearing False Payment Failures on PlayStation</u></a></li>
-<li><a href="https://games-able.techidaily.com/critical-caveats-5-unexamined-aspects-of-game-scores/"><u>Critical Caveats: 5 Unexamined Aspects of Game Scores</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-robloxs-error-code-262-step-by-step/"><u>Fixing Roblox's Error Code 262 Step-by-Step</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-12plus-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme 12+ 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-financially-smart-gamers-manual-for-series-x/"><u>The Financially-Smart Gamer's Manual for Series X</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-with-content-warning-on-voice-chats/"><u>Troubleshooting Steps: Resolving Issues with Content Warning on Voice Chats</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-gbadvance-legends-on-your-idevice-with-leading-simulators/"><u>Unlocking GBAdvance Legends on Your iDevice with Leading Simulators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/update-your-way-through-correcting-iphone-mail-sync-errors/"><u>Update Your Way Through: Correcting iPhone Mail Sync Errors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-boost-your-online-presence-tips-and-techniques-for-exceptional-fb-profiles/"><u>[New] 2024 Approved Boost Your Online Presence Tips and Techniques for Exceptional FB Profiles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-primepickings-top-twitters-and-top-viewers-favorites/"><u>[New] 2024 Approved PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-gopro-broadcasts-tips-for-facebook-and-periscope-channeling/"><u>[New] In 2024, Seamless GoPro Broadcasts Tips for Facebook & Periscope Channeling</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s/"><u>[Updated] How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s</u></a></li>
+<li><a href="https://games-able.techidaily.com/energys-evolution-power-and-more/"><u>Energy's Evolution: Power and More</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-neurological-function-with-marijuanas-endocannabinoids/"><u>Enhancing Neurological Function with Marijuana's Endocannabinoids</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-card-decision-time-founders-edition-or-vega-aib/"><u>Graphic Card Decision Time: Founders Edition Or Vega AIB?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lenovo-thinkphone-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lenovo ThinkPhone If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-f54-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy F54 5G Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-the-revolutionary-nvidia-gaming-app/"><u>Introducing the Revolutionary Nvidia Gaming App</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-parts-a-complete-gaming-computer-list/"><u>Prioritize Parts: A Complete Gaming Computer List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-in-windows-media-player-effective-solutions-and-tips/"><u>Restoring Audio in Windows Media Player - Effective Solutions and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/revamping-ps5-interface-colors/"><u>Revamping PS5 Interface Colors</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-game-consoles-emulated-on-macos/"><u>Top 5 Game Consoles Emulated on macOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-your-logitech-g933-mic/"><u>Troubleshooting and Repairing Your Logitech G933 Mic</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-motorola-moto-g34-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G34 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ps5-deserves-a-rest-why-shut-it-down/"><u>Your PS5 Deserves a Rest: Why Shut It Down?</u></a></li>
 </ul></div>
 

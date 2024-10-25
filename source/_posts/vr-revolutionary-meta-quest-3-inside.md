@@ -1,7 +1,7 @@
 ---
 title: "VR Revolutionary: Meta Quest 3 Inside"
-date: 2024-09-19T19:21:47.709Z
-updated: 2024-09-20T16:06:29.033Z
+date: 2024-10-22T02:53:30.015Z
+updated: 2024-10-24T23:19:03.865Z
 tags:
   - games
 categories:
@@ -104,11 +104,25 @@ Snapdragon XR2 Gen 2
 
 But let me back up for a moment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why You Can Trust My Review
 
  I've been involved with advanced video technologies since two decades ago, having had my first preview of stereoscopic gaming in the form of Nvidia 3DVision back in 2001—a remarkable device at the time. I dabbled in interactive tables, homemade 3D projectors, and weird experiments with a Wii controller. Fast forward a decade, and when I first read about the Oculus VR headset Kickstarter on a little 3D forum I visited, I was all in.
 
 ![oculus rift development kit 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2013/05/oculus-rift-review-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The[Oculus Dev Kit 1](https://www.makeuseof.com/tag/oculus-rift-development-kit-review-and-giveaway/) was enormous, clunky, and had a sum total of two demos you could play on it—a Tuscany villa, and a single rollercoaster track—but it was enough to convince me that affordable, consumer VR was finally a reality, and it was glorious.
 
@@ -125,6 +139,19 @@ But let me back up for a moment.
  By comparison, a full VR headset can teleport you convincingly to an entirely different world. Nothing can compare to the immersive nature of a well-designed VR environment.
 
 ![meta quest 3 - shooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-shooting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -156,6 +183,13 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clips - demeo in kitchen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-demeo-in-kitchen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
 [Demeo](https://www.meta.com/en-gb/experiences/3634830803298285/) is a top-down role-play adventure that places the environment within a virtual table, which you can place anywhere in your real environment like a board game. You'll walk around it, roll your virtual dice, and drag your mini figure around the board.
@@ -178,6 +212,13 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clip - magic gun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clip-magic-gun.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  Sadly, there aren't a whole lot of games or experiences that take advantage of this, outside of a short introductory demo that sees small fluffy aliens invading your living room. Your walls will collapse as you shoot them, revealing the alien landscape behind. And you’ll soon be shooting those blighters as they hide behind the coffee table and sofa, eventually overrunning you. It’s a tantalizing tease of what might be to come.
@@ -185,13 +226,6 @@ So, how good are the Mixed Reality features of the Quest 3?
  At the extreme level, imagine warehouse-scale FPS laser-tag or paintball games with real-world obstacles to use as cover (ah yes, you're thinking, let me just tidy up my warehouse).
 
  So, you could say I’m a believer now. Nothing can replace the true immersion and ability to travel to different worlds VR offers. But the Mixed Reality features, in the right lighting conditions, are certainly good enough to enable all sorts of real-world enhanced gaming, and I can’t wait to see what comes of it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Direct Touch
 
@@ -226,13 +260,6 @@ So, how good are the Mixed Reality features of the Quest 3?
  Little has changed to the basic head strap. It’s an elastic fabric strap that you can tighten around the back of your skull and on top. You’ll either hate it or tolerate it, but you won't love it. I’m in the latter camp, so if I find a better one, I’ll replace it, but it’s good enough for now.
 
 ![meta quest 3 - headstrap adjustment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-headstrap-adjustment.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -276,6 +303,19 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Meta sells an optional Elite Strap with an extra battery that should double your playtime, but it’s overpriced at $130, and there appear to be some early bugs, so I’d hold off on that for now, at least until we have some decent third-party alternatives to compare.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Quest Link
 
  If you have a desktop PC that’s powerful enough to run VR, you might be wondering whether you should buy a tethered headset or a standalone one like the Quest. But you needn’t pick between the two, because with the[Quest Link feature](https://www.makeuseof.com/oculus-quest-2-into-windows-pc-vr-headset/) , your Quest 3 can become a tethered headset, either via a suitable USB-C or wirelessly through a Wi-Fi 6 router.
@@ -283,19 +323,6 @@ So, how good are the Mixed Reality features of the Quest 3?
  I must admit, since I also have a Valve Index, this isn’t something I’ve used a lot in the past, but it offers another compelling reason to buy the Quest 3 over another headset.
 
  However, at the time of writing, there appears to be no improvement in Quest Link compared to the same feature on Quest 2\. Don’t buy the Quest 3 if your only use case is PCVR through the Quest Link.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Meta Quest Remote Desktop
 
@@ -312,10 +339,10 @@ So, how good are the Mixed Reality features of the Quest 3?
  Another alternative to both the Quest Link and Remote Desktop feature is[Virtual Desktop](https://www.meta.com/en-gb/experiences/2017050365004772/) , which is a paid application from a third-party developer. In my experience, it’s more reliable and allows you to interact with your desktop over a fast Wi-Fi connection, as well as playing any PCVR games from Steam or Oculus. You can even emulate a gamepad for regular flat games. However, using the Touch controllers as an Xbox gamepad isn’t exactly intuitive with half your buttons on the other thumb, so you’d better off just pairing a gamepad with your Quest 3 if you’ll be flat gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Buy the Meta Quest 3?
@@ -335,10 +362,10 @@ So, how good are the Mixed Reality features of the Quest 3?
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Meta Quest 3
@@ -362,5 +389,17 @@ So, how good are the Mixed Reality features of the Quest 3?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-foremost-10-video-subtitling-services-online/"><u>[New] In 2024, Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reimagine-old-school-vhs-with-modern-computer-techniques/"><u>[New] Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tiktok-vs-youtube-shorts-best-platform-for-individual-use/"><u>[Updated] 2024 Approved TikTok vs YouTube Shorts Best Platform for Individual Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-electronics-at-the-heart-of-ifa-2023/"><u>Cutting-Edge Electronics at the Heart of IFA 2023</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-gif-in-bmp-codeconverteren-kunt-uw-bilder-lekker-makkelijker-meemaken-met-movavis-online-tool/"><u>Gratis GIF in BMP Codeconverteren - Kunt Uw Bilder Lekker Makkelijker Meemaken Met Movavi's Online-Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fading-fast-with-premiere-pro/"><u>In 2024, Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-where-steams-screen-grabs-live/"><u>Investigating Where Steam's Screen Grabs Live</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-and-easy-convert-your-dvds-in-5-minutes-with-winx-dvd-ripper-platinum/"><u>Quick & Easy: Convert Your DVDs in 5 Minutes with WinX DVD Ripper Platinum</u></a></li>
+<li><a href="https://games-able.techidaily.com/synergy-and-speed-a-roundup-of-elite-gaming-mice-and-keyboards-2024/"><u>Synergy & Speed: A Roundup of Elite Gaming Mice and Keyboards 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-playstation-5-with-elite-upgrades/"><u>Transform Your PlayStation 5 with Elite Upgrades</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Speak Smart, Not Loud - No PS5 Mics
-date: 2024-09-19T22:29:37.970Z
-updated: 2024-09-20T20:06:21.764Z
+date: 2024-10-19T17:57:42.157Z
+updated: 2024-10-24T21:07:41.593Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
 
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Automatically Mute Your PS5's Microphone
 
  Because of this, if you often play multiplayer games alone and don't want to communicate with anyone, you could be weakening two of the PS5 controller's best features without realizing it.
@@ -47,11 +54,32 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
 
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
 
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
 
@@ -72,12 +100,20 @@ thumbnail: https://thmb.techidaily.com/48eff568c35933b40401a65faa40dbe7bb6a58eb4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-optimizing-googles-automatic-speech-recognition-features/"><u>[Updated] In 2024, Optimizing Google's Automatic Speech Recognition Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-video-recording-made-easy-on-macbooks-camera/"><u>[Updated] In 2024, Video Recording Made Easy on MacBook's Camera</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728478676125-aomei-backupper/"><u>簡化系統恢复：AOMEI Backupper日志更新指南</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-a-soundless-zone-with-xbox-series-xs/"><u>Create a Soundless Zone with Xbox Series X/S</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-system-the-msvcr70dll-couldnt-be-found-dilemma/"><u>Fixing Your System: The MSVCR70.DLL Couldn't Be Found Dilemma</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-8-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 8 or iPad?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y200-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y200 to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 14 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-unearthing-the-concealed-browser/"><u>PS5: Unearthing the Concealed Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/savvy-spending-secrets-for-xbox-series-gaming/"><u>Savvy Spending Secrets for Xbox Series Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-xbox-series-xs-refund-guide/"><u>Seeking Xbox Series X/S Refund Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-gaming-reduce-steams-ram-consumption-with-these-tips/"><u>Streamline Gaming: Reduce Steam's RAM Consumption with These Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-drone-selection-above-9-best-for-cinematic-craft/"><u>Ultimate Drone Selection Above 9 Best for Cinematic Craft</u></a></li>
+</ul></div>
 

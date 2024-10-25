@@ -1,7 +1,7 @@
 ---
 title: "Series X Savings: Your Ultimate Reward"
-date: 2024-09-19T20:36:45.341Z
-updated: 2024-09-20T16:11:48.238Z
+date: 2024-10-20T20:25:08.704Z
+updated: 2024-10-24T21:15:10.927Z
 tags:
   - games
 categories:
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 
  But with**Claim it** selected, your Digital Direct offer will be unlocked and available within**My games & apps** on your console. Unfortunately, if you want to alter your offer or if you selected**Decide later** or**Redeem for another account** , the process is more complex and more akin to[managing your Xbox subscriptions from your console](https://www.makeuseof.com/how-to-manage-xbox-subscriptions-from-xbox-series-x-s/) .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to Do if You Declined Your Digital Direct Offer
 
  If you didn't immediately claim your Digital Direct offer, you may be slightly confused about where the offer has gone and how to redeem it. Worse still, there's no notification informing you where to redeem your offer at a later date.
@@ -70,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 
 ![An image of the Account settings for an Xbox Series X with the option for Included With This Xbox highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/18065620-6c49-4cc2-b456-bec9bdfe6a68-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/consoles/digital-direct)
 
 * Once the**This Xbox comes with** message reappears, ensure you are on the Xbox account you wish to redeem your offer for, and select**Claim it** .
@@ -79,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
  While redeeming your Digital Direct offer should be one of the[first things you need to do with your Xbox Series X|S](https://www.makeuseof.com/first-things-to-do-with-xbox-series-x/) , there are many reasons you may want to wait to redeem your offer, including moving it to another account. And despite being hidden, the**Included with this Xbox** option guarantees you can access your offer.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Never Miss Any Xbox Games or Offers With Xbox Series X|S
@@ -90,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
  While the process can become a bigger issue than necessary, the Digital Direct system of receiving free game bundles with Xbox consoles does at least have ways to guarantee you can always access your offers—even if they are tucked away in settings.
 
  And with game prices rising ever higher throughout each generation, guaranteed bundled game redemption can help to ease some of the price hikes for the Xbox platform as a whole.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -100,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
 ### Q: How Do You Claim Your Reward Points on Xbox Series X|S?
 
  To[redeem Microsoft Reward Points on your Xbox Series X|S](https://www.makeuseof.com/how-to-redeem-microsoft-reward-points-on-xbox-series-xs/) , open the**Microsoft Rewards on Xbox** application from**My games & apps** . With the app loaded, open the**Redeem** tab and select the reward you want to exchange your Microsoft Reward Points. Select**Redeem reward** to claim your chosen benefit.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Do Xbox Digital Direct Offers and Codes Expire?
 
@@ -125,5 +139,18 @@ thumbnail: https://thmb.techidaily.com/00d8a989d7a324ab139f90cea816e72b6f2451ab8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-thumbnail-design-tips-and-pitfalls/"><u>[New] Mastering the Art of Thumbnail Design Tips and Pitfalls</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-creative-video-ends-top-6-budget-friendly-options/"><u>2024 Approved Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-privacy-while-sharing-devices-between-pc-and-steam-deck/"><u>Ensuring Privacy While Sharing Devices Between PC and Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/escalating-game-speed-improving-windows-fps/"><u>Escalating Game Speed: Improving Window's FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-ingenious-ways-to-elevate-the-xbox-game-bar-interface-on-pc/"><u>Five Ingenious Ways to Elevate the Xbox Game Bar Interface on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-nord-n30-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus Nord N30 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/master-6-innovative-apps-for-instagram-reels-for-2024/"><u>Master 6 Innovative Apps for Instagram Reels for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-troubleshooting-method-for-missing-d3dx933dll-errors/"><u>The Ultimate Troubleshooting Method for Missing d3dx9_33.dll Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unhealthy-dynamics-in-a-world-of-player-funded-development/"><u>Unhealthy Dynamics in a World of Player-Funded Development</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unseen-strategies-how-to-tap-into-your-facebook-message-library-for-2024/"><u>Unseen Strategies How to Tap Into Your Facebook Message Library for 2024</u></a></li>
+</ul></div>
 

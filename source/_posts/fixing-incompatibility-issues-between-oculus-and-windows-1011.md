@@ -1,7 +1,7 @@
 ---
 title: Fixing Incompatibility Issues Between Oculus & Windows 10/11
-date: 2024-10-14T13:07:55.495Z
-updated: 2024-10-19T02:36:56.782Z
+date: 2024-10-20T01:44:43.030Z
+updated: 2024-10-24T21:13:25.403Z
 tags:
   - games
 categories:
@@ -27,22 +27,29 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the Oculus Installer File With Administrative Rights
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-as-administrator.jpg)
 
  Some Windows programs require admin permission for installation. So, try running the Oculus installer file as an administrator to give it full system access. You can do that by right-clicking the**OculusSetup.exe** file and selecting**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Deselect the Use Proxy Server Checkbox
 
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/use-a-proxy-server-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the**Use a proxy server** checkbox within Internet Properties. Our[guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
@@ -53,20 +60,13 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 3. Bring up the directory containing the downloaded .NET Framework setup file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Double-click the**NDP461-KB3102438-Web.exe** file to bring up the setup window.
@@ -105,18 +105,18 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
 C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this[Meta download page](https://www.meta.com/us/en/quest/setup/) . Then click**Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Install the Oculus Windows Software
 
@@ -137,24 +137,16 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-installing-social-media-adding-snapchat-to-your-mac/"><u>[New] 2024 Approved Installing Social Media Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-maximize-engagement-with-facebook-posting-360-degree-photos-on-mobile/"><u>[Updated] 2024 Approved Maximize Engagement with Facebook Posting 360-Degree Photos on Mobile</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-gaming-inputs-for-console-and-pc-gamers/"><u>Economical Gaming Inputs for Console and PC Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-access-showdown-psplus-vs-xbox-game-pass/"><u>Exclusive Access Showdown: PS+ Vs. Xbox Game Pass</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fine-tuning-your-frames-with-videoleap-for-2024/"><u>Fine-Tuning Your Frames with Videoleap for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlock-professional-quality-passport-portraits-with-these-10-apps/"><u>In 2024, Unlock Professional-Quality Passport Portraits with These 10 Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/insider-knowledge-on-composing-influential-steam-reviews/"><u>Insider Knowledge on Composing Influential Steam Reviews</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installation-tutorial-secure-your-epson-wf-2-3000-inkjet-printer-with-the-newest-driver-software/"><u>Installation Tutorial: Secure Your Epson WF-2 3,000 Inkjet Printer with the Newest Driver Software</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-it-time-to-switch-to-a-state-of-the-art-apple-watch-version/"><u>Is It Time to Switch to a State-of-the-Art Apple Watch Version</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/lost-photos-on-instagram-secure-your-memories-with-our-recovery-service/"><u>Lost Photos on Instagram – Secure Your Memories with Our Recovery Service</u></a></li>
-<li><a href="https://games-able.techidaily.com/mwc-breakthroughs-celebrated-by-makeuseof/"><u>MWC Breakthroughs: Celebrated by MakeUseOf</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-control-transfer-sharing-your-mousekeyboard-with-the-steam-deck-through-barriers/"><u>Optimal Control Transfer: Sharing Your Mouse/Keyboard With the Steam Deck Through Barriers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-vs-2-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic Vs 2 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-setup-secure-the-latest-focusrite-scarlett-2i2-drivers-made-for-windows-users/"><u>Seamless Setup: Secure the Latest Focusrite Scarlett 2I2 Drivers Made For Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-titans-clash-xbox-series-x-vs-pc-gamers/"><u>Tech Titans Clash: Xbox Series X Vs. PC Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/tecnos-smarter-design-more-vibrant-appeal/"><u>Tecno's Smarter Design, More Vibrant Appeal</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-7-ai-companions-elevating-live-streaming-on-twitch/"><u>Top 7 AI Companions Elevating Live Streaming on Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-potential-the-2-year-oled-monitor-life/"><u>Unlocking Full Potential: The 2-Year OLED Monitor Life!</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/ushering-bliss-in-unboxing-7-strategies-for-2024/"><u>Ushering Bliss in Unboxing 7 Strategies for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-garmins-virb-ultra-30-action-cam-in-depth-features-analysis/"><u>[New] Garmin's VIRB Ultra 30 Action Cam – In-Depth Features Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-videos-for-marketing-top-10-strategic-plans/"><u>[New] Mastering Instagram Videos for Marketing Top 10 Strategic Plans</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamers-paradise-top-rated-nintendo-switch-docks-for-the-future/"><u>A Gamer's Paradise: Top-Rated Nintendo Switch Docks for the Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-act-when-to-invest-in-your-systems-cpugpu/"><u>Balancing Act: When to Invest in Your System's CPU/GPU</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhancing-photos-with-picarts-background-elimination-for-2024/"><u>Enhancing Photos with PicArt's Background Elimination for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-steam-service-error-on-windows-11/"><u>How to Fix the Steam Service Error on Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-6-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-and-solving-the-top-4-gpu-flaws/"><u>Identifying & Solving the Top 4 GPU Flaws</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-ios-video-player-apps-for-iphone-and-ipad/"><u>In 2024, 10 Best iOS Video Player Apps for iPhone and iPad</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mer-profitability-analysis-and-verification/"><u>Streamer Profitability Analysis and Verification</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-distinctions-asus-tuf-proart-and-prime/"><u>Unraveling the Distinctions: Asus, Tuf, ProArt & Prime</u></a></li>
 </ul></div>
 

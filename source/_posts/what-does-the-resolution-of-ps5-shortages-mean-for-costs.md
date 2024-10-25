@@ -1,7 +1,7 @@
 ---
 title: What Does the Resolution of PS5 Shortages Mean for Costs?
-date: 2024-10-13T04:55:08.331Z
-updated: 2024-10-19T06:33:14.084Z
+date: 2024-10-21T06:34:26.329Z
+updated: 2024-10-25T05:05:28.749Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
 So, now that the PS5 shortage is over, could we see prices drop?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## PS5 Consoles Are Now in Plentiful Supply
 
  The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during[a press conference at CES 2023](https://square.sony.com/ces2023/) .
@@ -56,9 +49,23 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## PS5 Prices Have Actually Risen in Recent Years
 
@@ -67,20 +74,19 @@ So, now that the PS5 shortage is over, could we see prices drop?
 ![A person holding multiple dollar notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/counting-money.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These price hikes were a direct result of the global economic environment that affects Sony as well as the rest of the world. While the US managed to stay out of the line of fire of those PS5 price hikes, inflation and the cost of living crisis rages on, making the changes of Sony dropping PS5 prices so soon after raising them unlikely.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Gamers Shouldn’t Hold Their Breath for PS5 Price Drops
 
@@ -88,18 +94,18 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 ![Marvels Spider Man 2 PS5 Bundle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/marvels-spider-man-2-ps5-bundle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Walmart](https://www.walmart.com/ip/PlayStation-5-Disc-Console-Marvel-s-Spider-Man-2-Bundle/5081658627?athbdg=L1102&from=/search)
 
  Offering console and game bundles would be a safer and more predictable move for Sony. The PS5 is no stranger to these, with Horizon Forbidden West and Marvel’s Spider-Man 2 bundles available at the time of writing.
 
  While there has been no confirmation of a PS5 console and game bundle with a significantly reduced price, the idea of Sony throwing in a game to sweeten the deal is a more realistic expectation than a standalone price drop for the console itself.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The PS5 Saga Continues One Step at a Time
 
@@ -120,20 +126,17 @@ So, now that the PS5 shortage is over, could we see prices drop?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-comprehensive-directory-of-inexpensive-stock-images/"><u>[New] Comprehensive Directory of Inexpensive Stock Images</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-win10-users-guide-to-recording-mov/"><u>[New] In 2024, The Win10 User's Guide to Recording MOV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/beats-for-chats-adding-sound-to-whatsapp-for-2024/"><u>Beats for Chats Adding Sound to WhatsApp for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-high-refresh-165hz-screens/"><u>Elite High Refresh 165Hz Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/free-fc-champions-guide-old-championship-manager-for-pc/"><u>Free FC Champions Guide: Old Championship Manager for PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/handpicked-selections-ringtones-directly-from-snap/"><u>Handpicked Selections Ringtones Directly From Snap</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-use-dslr-for-facebook-live-on-you-pc-or-mac/"><u>How to Use DSLR for Facebook Live on You PC or Mac?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-6-pillars-of-effective-facebook-live-website-integration/"><u>In 2024, The 6 Pillars of Effective Facebook Live Website Integration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-facetime-glitches-a-comprehensive-fix-for-black-screen-dilemmas/"><u>Overcoming FaceTime Glitches: A Comprehensive Fix for Black Screen Dilemmas</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-headphone-connection-blue-tooth-methods/"><u>PS5 Headphone Connection: Blue-Tooth Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-of-five-essential-game-mouse-features/"><u>The Ultimate Checklist of Five Essential Game Mouse Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/transitioning-to-macsilicon-running-windows-games-via-crossover/"><u>Transitioning to MacSilicon: Running Windows Games via CrossOver</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173214061-why-im-insisting-on-oled-a-gamers-perspective/"><u>Why I'm Insisting on OLED - A Gamer’s Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-nostalgia-reignited-emulation-on-your-pc/"><u>Xbox Nostalgia Reignited: Emulation on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-free-mobile-editing-aids-to-elevate-your-images-quality/"><u>[Updated] Best FREE Mobile Editing Aids to Elevate Your Image's Quality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-5-virtual-realities-samsung-gear-vr-game-hits/"><u>[Updated] Top 5 Virtual Realities - Samsung Gear VR Game Hits</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-traversing-the-terrain-of-facebooks-video-hub/"><u>[Updated] Traversing the Terrain of Facebook’s Video Hub</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-quick-technique-downloading-tweet-videos-to-your-phone/"><u>2024 Approved Quick Technique Downloading Tweet Videos to Your Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-secrets-unveiled-steps-toward-early-starfield-participation/"><u>EA's Secrets Unveiled: Steps Toward Early Starfield Participation</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-deck-performance-top-cooling-tech-reviewed/"><u>Enhance Deck Performance: Top Cooling Tech Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-expert-mastering-button-navigation-games/"><u>From Novice to Expert: Mastering Button Navigation Games</u></a></li>
+<li><a href="https://discover-best.techidaily.com/guide-watching-av1-encoded-movies-with-plex-is-it-compatible/"><u>Guide: Watching AV1 Encoded Movies with Plex - Is It Compatible?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-video-capture-tools-for-blogging-platforms/"><u>In 2024, Top 10 Video Capture Tools for Blogging Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-magic-aceam08-pro-genuine-or-not/"><u>Is the Magic AceAM08 Pro Genuine or Not?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-and-streamline-fixing-rainbow-six-sieges-performance-hiccups/"><u>Optimize and Streamline: Fixing Rainbow Six Siege's Performance Hiccups</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-decision-to-unsubscribe-post-pricing-raise-at-ea/"><u>The Decision to Unsubscribe Post-Pricing Raise at EA</u></a></li>
 </ul></div>
 

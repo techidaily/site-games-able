@@ -1,7 +1,7 @@
 ---
 title: Revisiting Retro Gaming Through Windows 11'S MyPics
-date: 2024-10-16T17:38:21.969Z
-updated: 2024-10-18T20:14:12.472Z
+date: 2024-10-18T19:14:40.500Z
+updated: 2024-10-24T22:00:46.907Z
 tags:
   - games
 categories:
@@ -31,22 +31,29 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Give Read Access Rights for Older Games
 
 ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The easiest way to enable older games to read the My Pictures folder is to grant global read permissions to this folder. This is a similar process to[solving "Access Denied" folder errors in Windows](https://www.makeuseof.com/tag/fix-access-denied-folders-windows-10/) .
 
  Start by right-clicking the My Pictures folder and hitting**Properties.** Then open the**Security** tab and click**Advanced.**
 
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
 
@@ -59,15 +66,28 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 ![screenshot of all the user folders highlighted in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_all_user_folders_highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should be careful which folders you provide full read rights to. While it's unlikely the old game you're trying to play will do anything untoward to your folders, it can be risky granting full read rights to anything on your computer.
 
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## New Fixes for Old Games on Windows
 
@@ -77,23 +97,9 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q: How Do I Get Old Games to Work on Windows 11?
 
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Does Windows 11 Work With All Games?
 
@@ -118,21 +124,17 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-finding-free-music-a-producers-handbook/"><u>[New] 2024 Approved Finding Free Music A Producer's Handbook</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instantaneous-collage-creation-for-dynamic-fb-presence/"><u>[Updated] Instantaneous Collage Creation for Dynamic FB Presence</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-part-files-a-comprehensive-guide-on-opening-and-converting-processes/"><u>Demystifying PART Files: A Comprehensive Guide on Opening & Converting Processes</u></a></li>
-<li><a href="https://games-able.techidaily.com/flawed-findings-challenging-the-reliability-of-critics/"><u>Flawed Findings: Challenging the Reliability of Critics</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-league-of-legends-not-opening-or-stuck-on-the-loading-screen-on-windows/"><u>How to Fix League of Legends Not Opening or Stuck on the Loading Screen on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-gpu-for-you-nvidia-fe-vs-asus-brand-graphics/"><u>Ideal GPU for You: Nvidia FE Vs. ASUS Brand Graphics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-90-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor 90 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-evolution-future-enhancements-in-gpt-5/"><u>Intelligent Evolution: Future Enhancements in GPT-5</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-games-secret-on-steam-platforms/"><u>Keep Games Secret on Steam Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-sync-best-logitech-mice-on-market/"><u>Perfect Sync: Best Logitech Mice on Market</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-social-gaming-essential-cross-platform-titles/"><u>Seamless Social Gaming: Essential Cross-Platform Titles</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solution-understanding-these-mechanisms-can-inform-the-development-of-vaccines-targeted-drug-therapies-and-strategies-to-block-placental-transfer-or-enhance246/"><u>Solution: Understanding These Mechanisms Can Inform the Development of Vaccines, Targeted Drug Therapies, and Strategies to Block Placental Transfer or Enhance Maternal Immunity.</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-for-choosing-premier-discord-servers/"><u>Tips for Choosing Premier Discord Servers</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unveiling-microsofts-copilot-an-innovative-ai-assistance-with-a-marketing-twist-insights-from-zdnet/"><u>Unveiling Microsoft's Copilot: An Innovative AI Assistance with a Marketing Twist - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-what-makes-claude-pro-stand-out-against-microsofts-advanced-chatgpt-plus/"><u>Unveiling What Makes Claude Pro Stand Out Against Microsoft's Advanced ChatGPT Plus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[New] From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snap-and-save-securely-downloading-vids-from-twitter-for-2024/"><u>[New] Snap & Save Securely Downloading Vids From Twitter for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-instagram-story-sections-for-2024/"><u>[Updated] Demystifying Instagram Story Sections for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-6-networks-fueling-business-innovation-and-growth/"><u>[Updated] In 2024, Top 6 Networks Fueling Business Innovation and Growth</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-top-12-tactics-to-fix-and-make-your-vids-appear-on-fb-today-for-2024/"><u>[Updated] The Top 12 Tactics to Fix and Make Your Vids Appear on FB Today for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-archiving-your-media-best-practices-for-mov-files-on-windows-pcs/"><u>2024 Approved Archiving Your Media Best Practices for .mov Files on Windows PCs</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-wonderful-video-slideshow-with-your-travel-photos/"><u>New How to Make a Wonderful Video Slideshow with Your Travel Photos</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-security-boosted-master-passcode-setup/"><u>Nintendo Switch Security Boosted: Master Passcode Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-steam-play-a-guide-for-family-entertainment/"><u>Safe Steam Play: A Guide for Family Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-is-here-explore-chatgpts-top-6-games/"><u>The Game-Changer Is Here: Explore ChatGPT’s Top 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-strategy-to-enhance-your-gaming-experience/"><u>The Seamless Strategy to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-list-best-trivia-shows-for-general-knowledge-24-for-2024/"><u>The Ultimate List - Best Trivia Shows for General Knowledge, '24 for 2024</u></a></li>
 </ul></div>
 

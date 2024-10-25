@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Swapping Switch Joysticks"
-date: 2024-10-12T13:20:36.713Z
-updated: 2024-10-19T05:32:19.340Z
+date: 2024-10-22T18:52:32.888Z
+updated: 2024-10-25T07:28:06.693Z
 tags:
   - games
 categories:
@@ -37,11 +37,25 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -50,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 * A replacement joystick. These are universal, so don’t worry about having to locate a left or right one.
 
  It isn’t compulsory for the replacement, but you would also seriously benefit from using a small dish to keep all your loose screws.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Replace the Joysticks in Your Nintendo Switch Joy-Con
 
@@ -68,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 ![Joy Con Four Back Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-four-back-screws.jpg)
 2. Gently run the plastic prying tool around the outside seam of your Joy-Con until the two plastic shells come apart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Use the plastic prying tool to gently pry the battery out. It can be a little difficult since the battery is stuck down with some sticky tabs, but it will come loose eventually. If you don’t have a plastic prying tool, that’s fine, using your finger will do. Just make sure you don’t use anything metal to pry your battery out.
 4. Unplug the battery by pulling the cord directly upwards and placing it to the side.
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
@@ -85,15 +85,22 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 3. Unplug the ribbon cable that runs over the top of the joystick.  
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
-5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
-![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
+![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
 
 1. Start plugging the ribbon cables back in by taking your needle nose tweezers and gently slotting them back in place. Flick the tabs down over the top to lock them in position.
 2. The hardest ribbon cable to plug back in is the one for the center plate. Sit the plate beside the Joy-Con and notice the slight curve that the ribbon cable naturally has. Don't try to fight this curve or straighten it out, simply slide it back in the way it naturally wants to go.  
@@ -103,22 +110,16 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 ![Joy Con Battery Plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-battery-plug.jpg)
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
@@ -143,18 +144,24 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-comparing-digital-platform-profits-dailymovement-to-youtube-revenue/"><u>[New] Comparing Digital Platform Profits DailyMovement to YouTube Revenue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unzipping-subtitles-turning-zip-archives-into-srt-files/"><u>[New] Unzipping Subtitles Turning Zip Archives Into .SRT Files</u></a></li>
-<li><a href="https://win-online.techidaily.com/1-tecnicas-de-recuperacao-para-dados-aperto-no-modo-gratis-reinsercao-do-comando-controlplusz/"><u>1. Técnicas De Recuperação Para Dados Aperto No Modo Grátis: Reinserção Do Comando Control+Z</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-ties-with-your-ps5-identity/"><u>Cutting Ties with Your PS5 Identity</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-ten-simple-steps-to-acquire-igtv-media/"><u>In 2024, Ten Simple Steps to Acquire IGTV Media</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-hot-40-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Hot 40 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-cameras-for-circular-coverage-for-2024/"><u>Innovative Cameras for Circular Coverage for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/insta-a-lister-secrets-unveiling-the-fastest-way-to-fame-with-our-expert-guide-for-2024/"><u>Insta A-Lister Secrets Unveiling the Fastest Way to Fame with Our Expert Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-versus-edge-who-will-rule-as-top-gaming-browser/"><u>Opera GX Versus Edge: Who Will Rule as Top Gaming Browser?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-path-to-accessing-google-play-games-on-your-desktop/"><u>The Path to Accessing Google Play Games on Your Desktop</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ps5-sanitation-blueprint-unveiled/"><u>The PS5 Sanitation Blueprint Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-tv-and-monitor-expo-ifa-2023/"><u>The Ultimate TV & Monitor Expo: IFA 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-discover-the-top-11-kid-videography-gear-for-initial-use/"><u>[New] 2024 Approved Discover the Top 11 Kid Videography Gear for Initial Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-advanced-shooting-modes-unveiling-the-secrets-of-smart-hdr-3-and-4/"><u>[New] Advanced Shooting Modes Unveiling the Secrets of Smart HDR 3 & 4</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-the-pathway-to-lyrical-masterpieces-via-lyric-video-maker-software/"><u>2024 Approved The Pathway to Lyrical Masterpieces via Lyric Video Maker Software</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-x7b-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor X7b? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/s-on-how-to-vlog-confidently-like-popular-youtubers-for-2024/"><u>8 Tips on How to Vlog Confidently Like Popular YouTubers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-we-about-to-see-a-surge-in-video-card-expenses/"><u>Are We About to See a Surge in Video Card Expenses?</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-ps5-space-odyssey-secure-marvels-limited-spidey/"><u>Conquer PS5 Space Odyssey - Secure Marvel's Limited Spidey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/free-software-showdown-the-ultimate-2024-capture-guide/"><u>Free Software Showdown The Ultimate 2024 Capture Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-solo-existence-to-group-adventures-fixing-minecraft-lan-disconnects/"><u>From Solo Existence to Group Adventures - Fixing Minecraft LAN Disconnects</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-black-screen-comprehensive-guide-to-resolve-common-glitches/"><u>Halo Infinite Black Screen - Comprehensive Guide to Resolve Common Glitches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-convert-youtube-videos-to-mp3-songs-on-mac-for-2024/"><u>How to Convert YouTube Videos to MP3 Songs on Mac for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/procedural-patterns-shaping-video-game-universes/"><u>Procedural Patterns: Shaping Video Game Universes</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-personal-progress-implementing-passcode-on-your-switch/"><u>Protecting Personal Progress: Implementing Passcode on Your Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/sparkle-science-keeping-your-ps5-spotless/"><u>Sparkle Science: Keeping Your PS5 Spotless</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactile-triumphs-phones-or-larger-screens-for-play/"><u>Tactile Triumphs: Phones or Larger Screens for Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultra-low-price-caps-lock-and-scroll-options/"><u>Ultra-Low-Price Caps Lock & Scroll Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-importance-of-system-speed-how-quick-does-your-pc-really-need-to-be/"><u>Understanding the Importance of System Speed: How Quick Does Your PC Really Need To Be?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamers-need-to-upgrade-oleds-superiority-claim/"><u>Why Gamers Need to Upgrade - OLED's Superiority Claim.</u></a></li>
 </ul></div>
 

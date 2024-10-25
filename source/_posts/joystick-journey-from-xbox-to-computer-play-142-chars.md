@@ -1,7 +1,7 @@
 ---
 title: "Joystick Journey: From Xbox to Computer Play (142 Chars)"
-date: 2024-09-18T22:04:03.099Z
-updated: 2024-09-20T23:09:03.224Z
+date: 2024-10-21T17:15:13.822Z
+updated: 2024-10-25T03:49:56.340Z
 tags:
   - games
 categories:
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
 
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Xbox Support  
   
   To use Bluetooth in Windows 10, head to**Settings > Devices > Bluetooth & other devices** . On Windows 11, go to**Settings > Bluetooth & devices** . There, enable the**Bluetooth** slider (if it isn't turned on already), then choose**Add Bluetooth or other device** (Windows 10) or**Add device** (Windows 11). Select**Bluetooth** from the resulting list.
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
  From here, your Xbox controller should show up in the Bluetooth pairing menu on your PC. Select it and complete the steps to pair them. If you have trouble, see[how to fix Bluetooth pairing errors in Windows](https://www.makeuseof.com/try-connecting-device-bluetooth-pairing-error-windows/) .
 
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
@@ -74,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
  From here, you can enjoy your Xbox controller on your PC wirelessly, just like using Bluetooth. We only recommend this method if you have an Xbox One controller that's not Bluetooth-enabled, though. Otherwise, it's better to[add Bluetooth to your computer](https://www.makeuseof.com/add-bluetooth-pc/) with an adapter that's cheaper than the Xbox Wireless Adapter. You could also put the money that you'd spend on the Xbox Wireless Adapter towards a new Series X|S controller.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reconnect Your Xbox Controller to Your Console
@@ -95,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connect an Xbox Controller to Your PC Easily
@@ -120,5 +140,22 @@ thumbnail: https://thmb.techidaily.com/38800d1bcd9a0db51e74a8d6e9d259f45c0a81d4c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-view-youtube-statistics/"><u>[Updated] 2024 Approved How to View YouTube Statistics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-giggle-graphics-humorhub-for-2024/"><u>[Updated] Giggle Graphics HumorHub for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-embracing-precision-with-iphone-xs-optical-mastery/"><u>2024 Approved Embracing Precision with iPhone X's Optical Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-deeper-5-ways-paying-for-mobile-games-improves-experience/"><u>Dive Deeper: 5 Ways Paying for Mobile Games Improves Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-deck-performance-top-cooling-tech-reviewed/"><u>Enhance Deck Performance: Top Cooling Tech Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-guide-to-overcoming-file-creation-error-30005/"><u>Essential Guide to Overcoming File Creation Error 30005</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-motorola-razr-40-ultra-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Motorola Razr 40 Ultra Phone Screen?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-xs-max-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone XS Max Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-magic-aceam08-pro-genuine-or-not/"><u>Is the Magic AceAM08 Pro Genuine or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-decision-to-unsubscribe-post-pricing-raise-at-ea/"><u>The Decision to Unsubscribe Post-Pricing Raise at EA</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insiders-guide-to-exclusive-free-steam-gaming-hits/"><u>The Insider's Guide to Exclusive, Free Steam Gaming Hits</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformador-gratuito-de-videos-3gp-a-imagenes-mjpeg-guia-paso-a-paso-con-movavi/"><u>Transformador Gratuito De Vídeos 3GP a Imágenes MJPEG: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-crc-errors-to-ensure-flawless-data-transmission/"><u>Troubleshooting CRC Errors to Ensure Flawless Data Transmission</u></a></li>
+</ul></div>
 

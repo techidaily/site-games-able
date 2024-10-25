@@ -1,7 +1,7 @@
 ---
 title: "Game Drivers Showdown: Reflectors Vs. Ratchets"
-date: 2024-10-12T08:20:57.010Z
-updated: 2024-10-19T08:57:59.818Z
+date: 2024-10-24T02:27:12.879Z
+updated: 2024-10-25T00:37:59.840Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do Optical Switches Work?
 
  In contrast, optical switches use a process called light induction. When you press the key down, the stem (the part that would usually hit the keyboard) blocks a beam of infrared light. An infrared sensor then detects the lack of light and signals the key has been pressed to the computer.
@@ -39,22 +46,16 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 So, which is better for gaming?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Optical Switches vs. Mechanical Switches
 
 ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
 
@@ -81,6 +82,13 @@ Let's take a look at these four factors in closer detail.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Feel and Noisiness
 
  How mechanical or optical keys feel is largely down to preference, which also goes for the loudness. But, with more options available, it's more likely you'll find a mechanical keyset matching your preferences.
@@ -93,23 +101,9 @@ Let's take a look at these four factors in closer detail.
 
  The[Razer Huntsman](https://www.amazon.com/Razer-Huntsman-Tournament-Tenkeyless-Keyboard/dp/B07V25YPVW?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=5b69344691c987a7fdf2e0c9ed994455&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) series offers the Razer Linear Optical Reds and the Razer Clicky Optical Purples. Gateron also has several options, including Gateron Optical Black, Blue, Brown, and Red, each with characteristics similar to their mechanical counterparts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Price and Availability
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 
@@ -118,10 +112,10 @@ Let's take a look at these four factors in closer detail.
  Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Should You Buy: Optical or Mechanical Switches?
@@ -153,20 +147,17 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-audio-editing-with-garageband/"><u>[Updated] Navigating the World of Audio Editing with GarageBand</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-property-selection-interface/"><u>Efficient Property Selection Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-insider-tips-for-spiderman-2-ordering/"><u>Exclusive Insider Tips for SPIDERMAN 2 Ordering</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/guida-per-scaricare-veloce-il-proprio-hard-disk-su-windows-10-8-o-7/"><u>Guida Per Scaricare Veloce Il Proprio Hard Disk Su Windows 10, 8 O 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-poco-x5-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco X5 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-12-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus 12</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-frames-gearsport-techniques-for-speed/"><u>Mastering Frames: Gearsport Techniques for Speed</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-marketplace-for-v-bucks-in-ps5/"><u>Navigating the Marketplace for V-Bucks in PS5</u></a></li>
-<li><a href="https://video-capture.techidaily.com/reconnecting-sound-tracks-to-obs-broadcasts/"><u>Reconnecting Sound Tracks to OBS Broadcasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/reflecting-on-whether-high-steam-counts-matter/"><u>Reflecting on Whether High Steam Counts Matter</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-rectifying-4-gpu-errors/"><u>The Essential Guide to Rectifying 4 GPU Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-ps5s-secret-web-browser/"><u>Uncovering PS5's Secret Web Browser</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-xbox-series-s-forgoes-a-longtime-industry-staple/"><u>Why Xbox Series S Forgoes a Longtime Industry Staple</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-achieving-video-clarity-with-obs-in-zoom-environments/"><u>[New] In 2024, Achieving Video Clarity with OBS in Zoom Environments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-swift-video-and-picture-retrieval-guide/"><u>[New] In 2024, Swift Video and Picture Retrieval Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-reasons-opt-for-movavi/"><u>Discover the Reasons - Opt for Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-versatility-windows-and-ossteamos-coexistence/"><u>Embracing Versatility: Windows and OS/SteamOS Coexistence</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-in-macos-sonoma-explained/"><u>Game Mode in macOS Sonoma Explained</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-at-a-swipe-ios-and-the-classics-of-psp/"><u>Nostalgia at a Swipe: IOS and the Classics of PSP!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-tablet-navigation-a-guide-to-windows-11s-taskbar/"><u>Optimizing Tablet Navigation: A Guide to Windows 11'S Taskbar</u></a></li>
+<li><a href="https://fox-within.techidaily.com/successful-steps-to-cloning-drives-with-macrium-reflect-despite-size-variations/"><u>Successful Steps to Cloning Drives with Macrium Reflect Despite Size Variations</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-pre-buy-reflection-with-ps5/"><u>The Ultimate Guide for Pre-Buy Reflection with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-steams-new-rules-on-ai-games-mean-for-gamers/"><u>What Steam's New Rules on AI Games Mean for Gamers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Meaning of 'Meta' In Video Games
-date: 2024-10-17T04:29:15.081Z
-updated: 2024-10-18T16:58:59.641Z
+date: 2024-10-18T07:07:29.352Z
+updated: 2024-10-24T17:03:38.224Z
 tags:
   - games
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 * [Are Metas Good or Bad for Gaming?](#are-metas-good-or-bad-for-gaming)
 * [Should You Follow the Meta in Games?](#should-you-follow-the-meta-in-games)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Metas can help keep games fresh and introduce new play methods, benefiting from consistent updates and tweaks.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/b2e687db976d53413ad200065943dddbaf2bd03eb
 ![A group of e-sports players in an arena.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/esport-arena1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 OpenAI / MakeUseOf
@@ -71,6 +64,13 @@ OpenAI / MakeUseOf
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  DC Studio/[Shutterstock](https://www.shutterstock.com/image-photo/over-shoulder-view-african-american-gamer-2177467491)
 
  You can't define metas as a strictly good or bad thing in gaming. It wholly depends on how the meta develops, and how the developers handle it after it arises.
@@ -78,16 +78,10 @@ OpenAI / MakeUseOf
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Metas Can Help Games
@@ -101,6 +95,13 @@ OpenAI / MakeUseOf
  Magic the Gathering has the Standard format, where new batches of cards are introduced every six months, and cards become illegal to play in Standard after two years of their release unless it's reprinted. This allows Standard to have a "rotating meta" where there's a flow of new cards coming in and older cards falling out of Standard. Any particularly overpowered or annoying cards are banned.
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How Metas Can Harm Games
 
@@ -117,13 +118,6 @@ OpenAI / MakeUseOf
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
 
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Following the Game Meta Can Enhance Your Enjoyment
 
@@ -166,16 +160,16 @@ OpenAI / MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-premier-image-changing-solutions-clipsmorph-elite/"><u>[Updated] Premier Image Changing Solutions ClipsMorph Elite</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-the-power-of-photo-editing-in-ps-novice-style/"><u>2024 Approved Unlocking the Power of Photo Editing in PS, Novice Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-fixes-for-display-driver-error-on-windows-11-os/"><u>Essential Fixes for Display Driver Error on Windows 11 OS</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-annoying-screen-flash-problems-in-windows-11-solutions-unveiled/"><u>Fixing the Annoying Screen Flash Problems in Windows 11 - Solutions Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/historic-tech-find-first-desktop-pcs-uncovered-in-abandoned-boxes-featuring-early-intel-architecture-and-modest-processing-speeds/"><u>Historic Tech Find: First Desktop PCs Uncovered in Abandoned Boxes Featuring Early Intel Architecture and Modest Processing Speeds</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-install-the-latest-updates-for-your-amd-radeon-drivers/"><u>How to Successfully Install the Latest Updates for Your AMD Radeon Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/robloxs-error-403-a-simple-fix-guide-for-pc-owners/"><u>Roblox's Error 403: A Simple Fix Guide for PC Owners</u></a></li>
-<li><a href="https://games-able.techidaily.com/tapping-into-steam-credits-ecosystem/"><u>Tapping Into Steam Credits Ecosystem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-magic5-ultimate-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor Magic5 Ultimate for Parents | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-halts-reimbursement-abuse-in-games/"><u>Valve Halts Reimbursement Abuse in Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-peeling-away-at-sharex-comparative-views-and-substitutes/"><u>[New] 2024 Approved Peeling Away at ShareX Comparative Views & Substitutes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[Updated] 2024 Approved Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-common-to-coveted-a-pokemon-shiny-tale-92/"><u>From Common to Coveted: A Pokémon Shiny Tale (92)</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-drivers-showdown-reflectors-vs-ratchets/"><u>Game Drivers Showdown: Reflectors Vs. Ratchets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-poco-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Poco FRP</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 12</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-animators-toolkit-essential-software-for-mac-and-pc/"><u>New In 2024, The Animators Toolkit Essential Software for Mac and PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-pc-issues-how-to-prevent-samurai-warriors-nary-warriors-from-freezing/"><u>Troubleshoot PC Issues: How to Prevent Samurai Warriors Nary Warriors From Freezing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unhealthy-dynamics-in-a-world-of-player-funded-development/"><u>Unhealthy Dynamics in a World of Player-Funded Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-adding-windows-to-your-steam-deck/"><u>Unlock Potential: Adding Windows to Your Steam Deck</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-increase-video-volume-and-make-video-sounds-louder-video-volume-booster-for-2024/"><u>Updated Increase Video Volume & Make Video Sounds Louder -Video Volume Booster for 2024</u></a></li>
 </ul></div>
 
