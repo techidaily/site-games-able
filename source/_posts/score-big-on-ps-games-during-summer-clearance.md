@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2024-10-19T06:25:25.863Z
-updated: 2024-10-25T04:03:09.016Z
+date: 2024-10-28T23:45:55.381Z
+updated: 2024-10-30T21:05:58.835Z
 tags:
   - games
 categories:
@@ -29,31 +29,24 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
 
@@ -73,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
@@ -87,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -99,11 +85,25 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -130,20 +130,21 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use/"><u>[New] 2024 Approved Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-4-pro-tips-for-looped-video-content/"><u>[New] Mastering Instagram 4 Pro Tips for Looped Video Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world-for-2024/"><u>[Updated] From Humble Beginnings Surging Subscribers & Views in Youtube World for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-keep-the-best-of-facebook-in-super-hd-quality/"><u>[Updated] In 2024, Keep the Best of Facebook in Super HD Quality</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-podcast-perfection-for-the-modern-iphone-user/"><u>[Updated] Podcast Perfection for the Modern iPhone User</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/byb-e430-swing-arm-led-light-fixture-in-depth-product-review/"><u>BYB E430 Swing Arm LED Light Fixture - In-Depth Product Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/cosmic-constructors-guide-gaming-powerhouses/"><u>Cosmic Constructor's Guide: Gaming Powerhouses</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-unveiling-vital-monitor-specs-for-gamers/"><u>Game On: Unveiling Vital Monitor Specs for Gamers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-vivo-y200e-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y200e 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-insights-for-placement-of-software-shortcuts-on-taskbar/"><u>Quick Insights for Placement of Software Shortcuts on Taskbar</u></a></li>
-<li><a href="https://games-able.techidaily.com/resolving-components-needed-alert-on-pcs/"><u>Resolving Components Needed Alert on PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/revitalizing-shared-games-valve-updates-steam-family-sharing/"><u>Revitalizing Shared Games: Valve Updates Steam Family Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-reestablish-cloud-sync-in-steam-decks/"><u>Steps to Reestablish Cloud Sync in Steam Decks</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/transferencia-de-aplicaciones-en-windows-11-guia-completa-para-mover-archivos-entre-computadoras/"><u>Transferencia De Aplicaciones en Windows 11: Guía Completa Para Mover Archivos Entre Computadoras</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-waiting-could-be-the-best-strategy-for-gamers/"><u>Why Waiting Could Be the Best Strategy for Gamers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-today-key-changes-for-users-for-2024/"><u>[New] Facebook Today Key Changes for Users for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-best-overlay-strategies-for-videographers/"><u>[New] In 2024, Best Overlay Strategies for Videographers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-crafting-winning-twitter-sponsored-content/"><u>[Updated] 2024 Approved Crafting Winning Twitter Sponsored Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-create-a-negative-like-image-look/"><u>[Updated] How to Create a Negative-Like Image Look</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unleashing-potential-a-deep-dive-into-the-ion-air-pro-3-review/"><u>[Updated] In 2024, Unleashing Potential A Deep Dive Into the ION Air Pro 3 Review</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-honor-magic-5-lite-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Honor Magic 5 Lite Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-hacks-are-banks-at-risk-pc-threats-unveiled/"><u>ChatGPT Hacks: Are Banks at Risk? PC Threats Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-console-gameplay-between-ps-and-ps3-models/"><u>Cross-Console Gameplay Between PS and PS3 Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-avoid-steam-startup-triggers/"><u>How to Avoid Steam Startup Triggers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-tier-cinematic-peeks-album/"><u>In 2024, Top-Tier Cinematic Peeks Album</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-playstation-5-membership-returns/"><u>Maximizing PlayStation 5 Membership Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionary-gameplay-playing-xbox-one-untraditionally/"><u>Revolutionary Gameplay: Playing Xbox One Untraditionally</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-rectifying-mc-launcher-error-0x803f8001/"><u>Strategies for Rectifying MC Launcher Error 0X803F8001</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-consequences-encouraging-gamers-to-develop-their-own-games/"><u>The Consequences: Encouraging Gamers to Develop Their Own Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-potential-remote-firmware-sync-up-tactics/"><u>Unleashing Potential: Remote Firmware Sync-Up Tactics</u></a></li>
 </ul></div>
 

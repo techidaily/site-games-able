@@ -1,7 +1,7 @@
 ---
 title: Prime Select of 6 Diverse Video Games
-date: 2024-09-12T16:58:23.357Z
-updated: 2024-09-15T16:44:46.540Z
+date: 2024-10-28T23:46:43.120Z
+updated: 2024-10-30T20:17:24.910Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 ![The factory level in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-factory-level-in-only-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Platform puzzle games became a lot more popular under the sub-genre of Foddian games. But[what are Foddian games](https://www.makeuseof.com/what-are-foddian-games/) , and how does Only Up! fit in this category?
 
  Well, a player’s primary objective is to reach the top of the map by hopping from platform to platform. While Only Up! follows this general format, it is unique because of its 3D nature.
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 ![The Fall Guys home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-fall-guys-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fall Guys is what happens when you take the popular Battle Royale genre and change the formula completely. It mixes the fun of a party game that can be enjoyed with friends with the nail-biting action of the large lobby, quick elimination format.
 
  Fall Guys was a great success when it first launched but did even better when Epic Games acquired the company behind it. The game was re-released as free to play and put up on the Epic Store for all PC and console players to enjoy. This is also[why Fall Guys disappeared from Steam](https://www.makeuseof.com/why-fall-guys-disappeared-from-steam/) .
@@ -75,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 ![The beginning of sewers in Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-beginning-of-sewers-in-jump-king.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another title under the Foddian genre that gathers curious eyes is Jump King. Jump King is one of the original three that helped develop the Foddian genre, paving the way for games like Only Up!, Bread and Fred, and more.
 
  Jump King is a traditional 2D platformer with a single objective. A player is meant to guide the noble knight to the top of the level, upon which awaits a bodacious babe. While simple in concept, the execution is a lot deeper. The game is divided into levels with different themes. Some levels have environmental effects that affect how the knight moves, stands, and jumps.
@@ -92,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Tricky Towers
 
 ![A close game of Tricky Towers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/a-close-game-of-tricky-towers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tricky Towers allows you to test your stacking skills against as many as three other players. The shapes are similar to what you would see in Tetris, and the game rewards people who are geometrically perceptive.
 
@@ -120,16 +127,10 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
 ![Players voted out of a game of Goose Goose Duck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/players-voted-out-of-a-game-of-goose-goose-duck.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Goose Goose Duck is another title that has managed to build on the classic Mafia game structure. It’s another social game that has two factions: the geese, who are trying to finish assigned tasks with the hopes of winning the game, and the ducks, who are intent on killing every goose on the screen for a win.
@@ -159,5 +160,24 @@ thumbnail: https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] 2024 Approved Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-advanced-screen-recorder-options-for-mac-not-including-bandicamp-for-2024/"><u>[Updated] Advanced Screen Recorder Options for Mac, Not Including Bandicamp for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-navigating-new-horizons-a-tech-upgrade-blueprint-for-2024/"><u>[Updated] Navigating New Horizons A Tech Upgrade Blueprint for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-softer-beats-with-ableton/"><u>Crafting Softer Beats with Ableton</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-multiplatform-gaming-between-ps5-and-ps4/"><u>Exploring Multiplatform Gaming Between PS5 & PS4?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/recuperer-vos-fichiers-perdus-sur-une-carte-sd-samsung-guide-detaille/"><u>Récupérer Vos Fichiers Perdus Sur Une Carte SD Samsung - Guide Détaillé</u></a></li>
+<li><a href="https://games-able.techidaily.com/remediation-of-roblox-code-262-disruption/"><u>Remediation of Roblox: Code 262 Disruption</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-your-iphones-no-service-area-issue-a-step-by-step-guide/"><u>Resolve Your iPhone’s ‘No Service Area’ Issue – A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-how-to-upscalled-vids-on-instagram/"><u>Step-by-Step How to Upscalled Vids on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-sheet-on-mining-maps-fetch-and-fit/"><u>The Complete Sheet on Mining Maps: Fetch & Fit</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-financial-worth-one-million-youtube-eyes-for-2024/"><u>The Financial Worth One Million YouTube Eyes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-top-11-free-word-game-apps/"><u>The Ultimate Guide to Top 11 Free Word Game Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-smoothly-into-bg3-gaming-via-apples-crossover-software/"><u>Transition Smoothly Into BG3 Gaming via Apple's Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-co-op-couch-gaming-top-16-seated-experiences/"><u>Unbeatable Co-Op Couch Gaming: Top 16 Seated Experiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-returns-reversing-video-game-purchases-xsx/"><u>Understanding Returns: Reversing Video Game Purchases, XS/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/wheel-controlled-games-versus-screen-based-racing/"><u>Wheel-Controlled Games Versus Screen-Based Racing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Multiplatform Gaming Between PS5 & PS4?
-date: 2024-10-22T22:49:37.457Z
-updated: 2024-10-25T07:38:21.559Z
+date: 2024-10-27T04:56:18.393Z
+updated: 2024-10-30T23:34:09.570Z
 tags:
   - games
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
 
  Provided you’ve enabled Remote Play on your PS4 console, you can play via PC or Mac using the PS Remote Play app. When using Remote Play this way, you can[connect your DualSense Controller to your PC](https://www.makeuseof.com/how-to-use-ps5-controller-on-pc/) , and then use your PS5 controller on your PS4.
@@ -50,21 +43,14 @@ Here’s how to do that:
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Enjoy your game.
 
@@ -82,16 +68,23 @@ Here’s how to do that:
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
@@ -100,6 +93,13 @@ Close
  Once you purchase the Titan Two, all you have to do is plug it into your PS4 console and then plug in your DualSense into the adapter using a USB-C cable.
 
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the DualSense Controller on PS4 the Hard Way
 
@@ -122,24 +122,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-driving-growth-with-metaverse-marketing-excellence/"><u>[Updated] In 2024, Driving Growth with Metaverse Marketing Excellence</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-essential-gear-for-beginner-filmmakers-under-1000/"><u>[Updated] In 2024, Essential Gear for Beginner Filmmakers (Under $1,000)</u></a></li>
-<li><a href="https://discover-best.techidaily.com/abbyy-finereader-pro-14-transforming-office-efficiency-in-managing-documents/"><u>ABBYY FineReader Pro 14 - Transforming Office Efficiency in Managing Documents</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cut-the-boring-watch-these-15-hilarious-youtube-bites-for-2024/"><u>Cut the Boring, Watch These 15 Hilarious YouTube Bites for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-15-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-emulation-of-legendary-dreamcast-games-on-your-phone/"><u>Effortless Emulation of Legendary Dreamcast Games on Your Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-game-streaming-on-your-iosandroid-device/"><u>Effortless Game Streaming on Your iOS/Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/examining-pc-speed-is-your-cpu-the-culprit/"><u>Examining PC Speed: Is Your CPU the Culprit?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-edges-game-enhancing-innovations-and-features/"><u>Exploring Edge’s Game-Enhancing Innovations and Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-tech-reviews-the-ultimate-guide-to-computer-components/"><u>Exploring Tom's Tech Reviews: The Ultimate Guide to Computer Components</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-spark-20-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Spark 20 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-on-finding-and-crafting-spiritual-ringtones/"><u>In 2024, Step-by-Step on Finding and Crafting Spiritual Ringtones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/integrating-text-overlays-into-social-media-streaming/"><u>Integrating Text Overlays Into Social Media Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/jump-into-segas-past-dreamcast-reworked-for-android/"><u>Jump Into Sega's Past: Dreamcast Reworked for Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-repairing-steam-errors-on-windows-11/"><u>Master the Art of Repairing Steam Errors on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/pathways-of-steam-screenshot-preservation/"><u>Pathways of Steam Screenshot Preservation</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-prospects-four-reasons-for-caution/"><u>PS5 Prospects: Four Reasons for Caution</u></a></li>
-<li><a href="https://games-able.techidaily.com/scarcity-no-more-impact-on-future-ps5-prices-to-be-traced/"><u>Scarcity No More: Impact on Future PS5 Prices to Be Traced</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-optimize-video-quality-turning-on-av1-in-youtube-settings/"><u>[Updated] In 2024, Optimize Video Quality Turning ON AV1 in YouTube Settings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-6-tools-for-audiovisual-interpretation-for-2024/"><u>[Updated] Ultimate 6 Tools for Audio/Visual Interpretation for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/5-best-igtv-editor-apps-for-improved-layouts-for-2024/"><u>5 Best IGTV Editor Apps for Improved Layouts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivate-with-these-14-astonishing-text-animations-for-2024/"><u>Captivate with These 14 Astonishing Text Animations for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-web-experience-minimizing-high-network-latency/"><u>Efficient Web Experience: Minimizing High Network Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-browser-performance-fixing-facebook-games/"><u>Enhance Browser Performance - Fixing Facebook Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/exquisite-office-mat-selection-guide-2024/"><u>Exquisite Office Mat Selection Guide 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-classics-to-cutting-edge-mmo-game-advancements/"><u>From Classics to Cutting-Edge: MMO Game Advancements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-integrate-psvr-console-gaming-into-your-pc-experience/"><u>How To Successfully Integrate PSVR Console Gaming Into Your PC Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-in-depth-look-at-gaming-screen-capture-tools/"><u>In 2024, In-Depth Look at Gaming Screen Capture Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/jump-into-the-action-early-preorder-spider-man-2/"><u>Jump Into the Action Early - Preorder Spider-Man 2</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211213608-9798350069341-summary-of-dean-koontzs-a-big-little-life/"><u>Summary of Dean Koontz's A Big Little Life | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-rdna-35-amds-future-tech/"><u>Understanding the Impact of RDNA 3.5 - AMD's Future Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/unsubscribing-minecraft-exporting-kingdoms/"><u>Unsubscribing Minecraft: Exporting Kingdoms</u></a></li>
+<li><a href="https://games-able.techidaily.com/visualizing-rhythms-using-tablets-as-tools/"><u>Visualizing Rhythms: Using Tablets as Tools</u></a></li>
 </ul></div>
 

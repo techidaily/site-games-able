@@ -1,7 +1,7 @@
 ---
 title: "Revel in Pimax Crystal VR: Brilliant, Yet Imperfect Performance"
-date: 2024-09-10T16:05:13.969Z
-updated: 2024-09-15T16:00:01.637Z
+date: 2024-10-24T04:24:52.828Z
+updated: 2024-10-31T04:33:58.271Z
 tags:
   - games
 categories:
@@ -94,6 +94,13 @@ SnapDragon XR2
 
 [See at Pimax](https://pimax.com/crystal/) [See at Amazon](https://www.amazon.com/Pimax-Crystal-headsets-All-One/dp/B0BZSGFLQ7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031352&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fpimax-crystal-review%2F&asc%5Fcampaign=Affiliate)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Unpacking: There's a Lot
 
 ![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
@@ -108,6 +115,13 @@ Inside the large and densely packed box you'll find:
 * Video and power cable; proprietary connector on the headset side, DisplayPort and two USB on the other.
 * USB power adaptor, and USB A to A cable to connect the hub to your computer.
 * Two USB-A to C cables for charging the controllers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Controllers: Functional but Nasty
 
@@ -133,6 +147,13 @@ Related
 
 ![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  The Crystal headset feels rock-solid, which it should do because it weighs a ton. Or, more accurately, 960g (34oz). That’s almost twice the weight of the Quest 3, but a little less than the Quest Pro.
@@ -147,19 +168,6 @@ Related
 
 ![pimax crystal - off ear headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-off-ear-headphones.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
  Bizarrely, the Pimax Crystal requires a battery even when used in PCVR tethered mode and connected to the powered hub. This is apparently due to the use of the XR2 chipset—the same used in the Meta Quest 3\. However, given that most people will be using this in a tethered mode and completely ignoring the standalone functionality, it’s a frustrating design choice, but perhaps one that will come to fruition later with expansion modules such as wireless transmission.
@@ -167,10 +175,10 @@ Related
 ![pimax crystal - battery packs and charger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-battery-packs-and-charger.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
@@ -178,6 +186,13 @@ Related
  The battery is swappable and should last around four to six hours of regular PCVR use, with two provided in the box. Assuming things are plugged in right, it should automatically charge when the headset is not in use. If you end up with a dud battery, you may find your play sessions getting cut short, but overall, this reliance on a battery was less of a problem than I had assumed it would be. However, I found the latching mechanism for the battery pack to be tricky; I can see myself breaking it at some point, which would render it useless since the battery slots in from underneath.
 
  I should also caveat by saying that while I found the Pimax Crystal to be comfortable, everyone will be different. It's a very subjective issue, with different head sizes, shapes, and eye positions. My wife could tolerate it for only a short time. A headset that's perfect for everyone doesn't exist, and never will. I would always encourage you to demo a headset before purchasing—which might be difficult with the Pimax Crystal. Still, the combination of a ratcheting strap and balancing weight at the back of the Crystal is far more comfortable, in my opinion, than a regular fabric strap and lighter headset.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Up and Experience Is Less Well Polished
 
@@ -198,13 +213,6 @@ Related
 ## The Image Quality Is Superb
 
 ![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -236,11 +244,31 @@ Related
 
 ![pimax crystal - waving hands around in game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-waving-hands-around-in-game.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  If you do have Basestations or want even better tracking (in low light, for instance), you can purchase the optional Lighthouse Faceplate, which replaces the camera tracking with the more reliable Lighthouse system. Although I have Basestations for use with the Valve Index, I wasn’t sent the Lighthouse Faceplate for testing, so I can’t comment on what difference it would make.
 
  That said, I experienced no unexpected issues with the camera-based tracking. Mostly, I play racing sims and slow-paced adventure games, but the classic litmus test is Beat Saber. It had no trouble keeping up with my movements there—just remember to keep your controllers roughly in front of you, not to the sides or behind.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Standalone Mode Is Best Forgotten About (for Now)
 
@@ -249,13 +277,6 @@ Related
  Watching movies would be a good use case for this standalone, but sadly the only option is Whirligig, which is my least favorite of media players, and currently sitting at a 2-star rating, with both reviews stating that it won't actually play movie files.
 
  Tracking in standalone mode seems to work just as well as tethered, though the processing power limits what’s graphically possible.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Buy the Pimax Crystal?
 
@@ -283,13 +304,6 @@ Related
 
 ![pimax crystal product thumb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/pimax-crystal-product-thumb.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Pimax Crystal
@@ -313,5 +327,24 @@ Related
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-filmmaking-for-social-media-imovie-tips-for-crafting-square-content-for-2024/"><u>[New] Filmmaking for Social Media IMovie Tips for Crafting Square Content for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-macos-11-big-sur-system-and-hardware-requirements/"><u>[Updated] In 2024, MacOS 11 Big Sur System and Hardware Requirements</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-reviews-of-zooms-powerful-affordable-transcription-software-for-2024/"><u>[Updated] Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enabling-youtube-and-facebook-on-apple-tv-for-2024/"><u>Enabling YouTube and Facebook on Apple TV for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-ps5-to-desktop-control-your-games-with-a-pad/"><u>From PS5 to Desktop: Control Your Games with a Pad</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-13c-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi 13C 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oneplus-12r-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on OnePlus 12R</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-potential-ordering-your-cpugpu-upgrade/"><u>Maximizing Potential: Ordering Your CPU/GPU Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-past-game-pricing-on-steam/"><u>Navigating Through Past Game Pricing on Steam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-roku-no-problem-streaming-tips-how-to-access-roku-channel-content-on-other-devices/"><u>No Roku? No Problem! Streaming Tips: How to Access Roku Channel Content on Other Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-microsofts-alliance-with-games-industry-leaders-activision-and-blizzard/"><u>Scrutinizing Microsoft's Alliance with Games Industry Leaders Activision & Blizzard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-underdog-victory-from-crowdfunding-success-to-corporate-integration-story/"><u>The Underdog Victory: From Crowdfunding Success to Corporate Integration Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-pc-boards-for-gamers/"><u>Top Affordable PC Boards for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-anti-blue-light-eyewear-choices/"><u>Top Anti-Blue Light Eyewear Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-worlds-the-best-15-two-player-app-games/"><u>Uniting Worlds: The Best 15 Two-Player App Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-safety-measures-creating-and-implementing-a-passcode-on-switch/"><u>Unlock Safety Measures: Creating and Implementing a Passcode on Switch</u></a></li>
+</ul></div>
 

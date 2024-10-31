@@ -1,7 +1,7 @@
 ---
 title: "Evolved Rendering Tech: DirectX Series Analysis"
-date: 2024-10-23T06:42:54.853Z
-updated: 2024-10-25T02:23:55.606Z
+date: 2024-10-27T20:02:05.713Z
+updated: 2024-10-31T02:09:22.484Z
 tags:
   - games
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
@@ -82,16 +82,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
@@ -130,20 +124,21 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-ten-screencasting-apps-for-modern-teachers/"><u>[New] In 2024, Top Ten Screencasting Apps for Modern Teachers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-silent-snaps-mastering-the-art-of-unseen-image-recording-on-snapchat-for-2024/"><u>[New] Silent Snaps Mastering the Art of Unseen Image Recording on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ideal-extras-for-enhancing-dji-phantom-4/"><u>[Updated] 2024 Approved Ideal Extras for Enhancing DJI Phantom 4</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-real-time-streaming-discover-multicam-your-ultimate-choice-in-live-video-broadcasts-and-online-visual-enhancements/"><u>1. Real-Time Streaming: Discover MultiCam - Your Ultimate Choice in Live Video Broadcasts and Online Visual Enhancements</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>2024 Approved The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-political-alliances-in-nyt-world/"><u>Decoding Political Alliances in NYT World</u></a></li>
-<li><a href="https://games-able.techidaily.com/google-play-games-on-pc-what-is-it-and-how-do-you-get-it/"><u>Google Play Games on PC: What Is It and How Do You Get It?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-pro-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 Pro Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-steam-workshop-for-game-personalization/"><u>Navigating the Steam Workshop for Game Personalization</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-resolutions-for-disconnected-steam-servers/"><u>Quick Resolutions for Disconnected Steam Servers</u></a></li>
-<li><a href="https://games-able.techidaily.com/screen-saver-secured-step-by-step-for-switch-password-setup/"><u>Screen Saver Secured: Step-by-Step for Switch Password Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-the-complex-xbox-consoles-digital-return-process/"><u>Simplifying the Complex: Xbox Console's Digital Return Process</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-restoring-lost-images-on-windows-pcs-iphones-and-android-devices/"><u>Step-by-Step Guide: Restoring Lost Images on Windows PCs, iPhones, and Android Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-zero-x-eight-oh-three-one-f-error-in-microsoft-written-word/"><u>Taming Zero X Eight Oh Three One F Error in Microsoft' Written Word</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-editors-arsenal-advanced-techniques-in-chromatic-tuning/"><u>The Editor's Arsenal Advanced Techniques in Chromatic Tuning</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-webcam-experience-pioneering-high-definition-video-capture/"><u>[New] 2024 Approved WebCam Experience Pioneering High-Definition Video Capture</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-affordable-aerial-cameras-top-picks-under-100-for-2024/"><u>[New] Affordable Aerial Cameras Top Picks Under $100 for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-restoring-missing-sounds-in-obs-recordings/"><u>[New] In 2024, Restoring Missing Sounds in OBS Recordings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-humorous-harmonics-optimal-ringtone-sites/"><u>2024 Approved Humorous Harmonics Optimal Ringtone Sites</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024-the-dawn-of-advanced-ai-tech/"><u>Computex 2024: The Dawn of Advanced AI Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossing-the-servers-from-bedrock-to-java-on-geysermc-network/"><u>Crossing the Servers: From Bedrock to Java on GeyserMC Network</u></a></li>
+<li><a href="https://article-files.techidaily.com/efficient-backdrop-removal-methods-in-figma-design/"><u>Efficient Backdrop Removal Methods in Figma Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-tips-for-procuring-a-starfield-tester-code/"><u>Exclusive Tips for Procuring a Starfield Tester Code</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elevate-your-tiktok-unboxer-experience-for-maximum-likes/"><u>In 2024, Elevate Your TikTok Unboxer Experience for Maximum Likes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-boombox-choices-expert-recommendations-and-buying-guide/"><u>Leading Boombox Choices : Expert Recommendations and Buying Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-8-java-environments-home-games-for-computers-and-macs/"><u>Prime 8 Java Environments, Home Games for Computers & Macs</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-rumble-beat-the-best-melodic-quiz-apps/"><u>Rhythm Rumble: Beat the Best Melodic Quiz Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/shut-down-internal-keyboard-for-pcs-running-windows/"><u>Shut Down Internal Keyboard for PCs Running Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-limit-steams-memory-usage-5-strategies/"><u>Tips to Limit Steam's Memory Usage: 5 Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-potential-of-chatgpt-as-an-interactive-story-game/"><u>Unleashing the Potential of ChatGPT as an Interactive Story Game</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-transform-your-footage-pro-quality-movies-made-easy/"><u>Updated In 2024, Transform Your Footage Pro-Quality Movies Made Easy</u></a></li>
 </ul></div>
 

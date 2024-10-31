@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Break Through to Core Gamer Circles
-date: 2024-10-23T21:24:09.552Z
-updated: 2024-10-24T21:12:43.557Z
+date: 2024-10-28T04:00:41.244Z
+updated: 2024-10-31T01:48:26.654Z
 tags:
   - games
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -54,15 +61,28 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scams
 
 ![person having crypto stolen from laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/crypto-scams-social-media.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scams are, unfortunately, native to the crypto realm, and GameFi is no exception to this rule. If there's money to be stolen, chances are criminals will find some way to access it.
@@ -81,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  People invested in CryptoZoo but lost thousands when it was revealed that Paul and his development team had effectively (allegedly) rug-pulled investors. Investors are yet to be refunded, and a lawsuit has been filed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. High Transaction Fees
 
  You'll almost always incur a fee when you conduct a crypto transaction. Some cryptos have low fees, whereas others can reach unreasonable levels. Transaction fees usually increase or decrease with a blockchain network's transaction demand. Other factors, such as the size of the transaction, also play a role here.
@@ -93,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Lack of Regulation
 
  Cryptocurrency and DeFi already lack proper regulation (though[crypto regulation may soon change](https://www.makeuseof.com/is-government-sec-going-to-regulate-cryptocurrency/) ), but GameFi, a newer addition to the blockchain industry, suffers from this issue even more.
@@ -109,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  For instance, an individual may spend months playing a P2E game they love, amassing a solid holding of tokens or NFTs. But when the time comes to cash out by selling these assets on an exchange or NFT marketplace, it turns out that their value has plummeted due to a drop in demand.
 
  This isn't anyone's fault, but the developer can dodge any liability when gamers ask for compensation. If the game has made any financial promises, the developers may also be able to keep their hands clean if these promises fall through.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Will GameFi Last?
 
@@ -132,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
  It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GameFi's Future Is Precarious
 
@@ -159,24 +165,24 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-detailed-guide-to-dollar-counts-a-stepwise-strategy-to-track-youtube-earnings/"><u>[Updated] 2024 Approved Detailed Guide to Dollar Counts A Stepwise Strategy to Track YouTube Earnings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-no-fuss-trick-for-clownfish-tone-change-in-windows-domain-for-2024/"><u>[Updated] No-Fuss Trick for Clownfish Tone Change in Windows Domain for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-asmr-its-positive-impacts-explained/"><u>2024 Approved Unveiling ASMR Its Positive Impacts Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advancements-in-ai-for-emotional-well-being-prospects-and-concerns/"><u>Advancements in AI for Emotional Well-Being: Prospects and Concerns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-losing-progress-with-these-simple-fixes-for-the-last-epoch-crash-issue-2024-update/"><u>Avoid Losing Progress with These Simple Fixes for the 'Last Epoch Crash' Issue - 2024 Update</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/blending-iphone-videos-a-simple-guide/"><u>Blending iPhone Videos A Simple Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-art-of-audio-mixdowns-via-crossfade-for-2024/"><u>Exploring the Art of Audio Mixdowns via Crossfade for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/express-faster-window-photo-sorter-for-2024/"><u>Express Faster Window Photo Sorter for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-driver-blocked-on-windows-11/"><u>Graphics Driver Blocked on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-restore-wordle-streaks-on-smartphones/"><u>How to Restore Wordle Streaks on Smartphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-your-ps4-remote-attached-strategies-to-prevent-drops-on-pc/"><u>Keeping Your PS4 Remote Attached: Strategies to Prevent Drops on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/lenovo-legion-go-redefined-top-5-new-features/"><u>Lenovo Legion Go Redefined - Top 5 New Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/linux-console-power-playing-emulated-game-boys/"><u>Linux Console Power: Playing Emulated Game Boys</u></a></li>
-<li><a href="https://games-able.techidaily.com/lost-in-transit-finding-the-way-back-to-mc-lan/"><u>Lost in Transit: Finding the Way Back to MC LAN</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-networking-for-gamers-guilds/"><u>Next-Gen Networking for Gamers' Guilds</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-detected-errors-for-our-data-centers-in-halo-infinite-gameplay/"><u>Overcoming Detected Errors for Our Data Centers in Halo Infinite Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-match-the-guide-to-selecting-the-right-oled-display/"><u>Perfect Match: The Guide to Selecting the Right OLED Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-powerhouses-the-premier-nintendo-switch-docks-of-2024/"><u>Portable Powerhouses: The Premier Nintendo Switch Docks of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-guide-to-uninterrupted-ps5-connection/"><u>Precision Guide to Uninterrupted PS5 Connection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-designing-your-facebook-theme-video-for-2024/"><u>[New] Designing Your Facebook Theme Video for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-recipe-revolution-celebrity-cheered-tiktok-meals/"><u>[New] In 2024, Recipe Revolution Celebrity-Cheered TikTok Meals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-with-our-quick-and-easy-online-game-picks/"><u>Engage with Our Quick & Easy Online Game Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-mobile-gaming-upsides-downside/"><u>Exploring Mobile Gaming Upsides Downside</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-feature-fest-secret-gameplay-hacks/"><u>Fleeting Feature Fest: Secret Gameplay Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-elites-choice-highest-rated-keyboards-for-2-point-zero-four-four/"><u>Gaming Elite's Choice: Highest-Rated Keyboards for 2 Point Zero Four Four</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-restore-functionality-to-your-nvidia-game-overlay/"><u>How to Restore Functionality to Your NVIDIA Game Overlay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-paying-for-ea-play-a-good-deal/"><u>Is Paying for EA Play a Good Deal?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/navigating-the-cold-reception-how-companies-are-taking-their-time-with-embracing-the-heat-of-5g-innovation/"><u>Navigating the Cold Reception: How Companies Are Taking Their Time with Embracing the Heat of 5G Innovation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cket-to-1000-subscribers-in-days/"><u>Skyrocket to 1,000 Subscribers in Days</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-15-best-two-player-mobile-games-to-play-with-friends-or-strangers/"><u>The 15 Best Two-Player Mobile Games to Play With Friends or Strangers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-of-life-taking-breaks-not-breaks/"><u>The Game of Life: Taking Breaks, Not Breaks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-8-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 8 Plus Making It Possible</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-joy-on-switch-9-best-ftp-game-selections/"><u>Unlock Joy on Switch: 9 Best FTP Game Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-series-s-skips-traditional-media/"><u>Why Xbox Series S Skips Traditional Media</u></a></li>
 </ul></div>
 

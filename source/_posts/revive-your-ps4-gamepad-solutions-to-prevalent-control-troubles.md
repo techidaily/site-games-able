@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PS4 Gamepad: Solutions to Prevalent Control Troubles"
-date: 2024-09-09T17:00:04.261Z
-updated: 2024-09-15T16:18:01.786Z
+date: 2024-10-29T21:06:53.607Z
+updated: 2024-10-30T20:01:14.012Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 ![PS4 Two Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS4-Two-Controllers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PS4 Controller Keeps Disconnecting
 
  If your DualShock 4 disconnects randomly while playing, there are a couple of remedies you can try.
@@ -65,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
  We've looked at specific fixes for a few common DualShock 4 problems above. Next, let's look at more general solutions for problems with PS4 controllers. Walk through these if your PS4 controller is still not responding.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Restart Your Console
 
  While most controller issues stem from the controller itself, there's a chance that your PS4 is what's having the problem. To rule this out, you should restart your console before troubleshooting further.
@@ -81,21 +81,22 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![turn off ps4 quick menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/turn-off-ps4-quick-menu.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In case your controller isn't cooperating, press and hold the**Power** button on your PS4 console until you hear two beeps. This will fully shut it down—once it's powered off (with no lights on the front), press the**Power** button again to turn it back on. If you see an orange light, your system went into Rest Mode, which isn't a full shutdown.
 
  Try using your controller again after a reboot (connecting it via a USB cable if needed) and see if that helps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Forget and Re-Pair Your PS4 Controller
 
@@ -108,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  This is a good time to try a slightly different pairing method: having your PS4 controller re-pair at startup. To do this, fully turn off your PS4 (as explained earlier). Once it's shut down, connect the problematic controller to your console with a USB cable. Hit the**PS Button** on the controller to hopefully turn on and pair your controller in one process.
 
  If this doesn't work, turn your PS4 back on and try pairing it the normal way, as above.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Hard Reset Your PS4 Controller
 
@@ -131,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  At this point, if you haven't already, you should try connecting the PS4 controller that's having problems to another device. If you have similar problems when[using the PS4 controller on a PS5](https://www.makeuseof.com/use-ps4-controller-on-ps5/) , your PC, a friend's PS4, or a smartphone, then your controller is likely faulty.
 
  It's also a good idea to try using another PS4 controller with your console, if possible. If you borrow a friend's DualShock 4 that you know works properly and find that it has issues with your system, something is probably wrong with your PS4's wireless connectivity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Use the Controller in Wired Mode
 
@@ -153,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  Otherwise, you can attempt hardware fixes on your own by opening your controller. If you've gotten this far and still can't fix the problem, chances are that something inside your controller is jammed or disconnected. But depending on the specific issue, this may be difficult or impossible. We recommend speaking to a local repair technician if you don't feel comfortable doing this yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PS4 Controller Issues, Patched Up
@@ -178,5 +179,26 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>[Updated] Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-screensnapper-pro-examining-apowersofts-pc-recorder/"><u>2024 Approved ScreenSnapper Pro Examining Apowersoft’s PC Recorder</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-step-by-step-finding-your-digital-filming-suite-on-youtube/"><u>2024 Approved Step-by-Step Finding Your Digital Filming Suite on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-deaths-4-ai-enhanced-online-mysteries/"><u>Decode Deaths: 4 AI-Enhanced Online Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-deceptive-digital-game-hype-trailers/"><u>Demystifying Deceptive Digital Game Hype Trailers</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-remove-and-re-download-ps5-titles/"><u>Easy Steps: Remove & Re-Download PS5 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-reliable-online-gaming-with-a-ps5-console/"><u>Ensuring Reliable Online Gaming with a PS5 Console</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-computing-rig-configurations-with-jon-bach-from-puget-systems/"><u>Expert Insights on Computing Rig Configurations with Jon Bach From Puget Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-3d-panels-boosting-home-console-entertainment/"><u>Ideal 3D Panels Boosting Home Console Entertainment</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-13-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 13 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-game-hunt-top-tactics-for-itchio-fans/"><u>Indie Game Hunt: Top Tactics for Itch.io Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-xbox-s-connection-unhindered/"><u>Keep Your Xbox S Connection Unhindered</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-sluggishness-enhancing-ubisofts-online-service-performance/"><u>Overcoming Sluggishness: Enhancing Ubisoft's Online Service Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-search-service-error-on-pcs/"><u>Overcoming Windows Search Service Error on PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/powering-up-your-action-footage-one-gadget-at-a-time/"><u>Powering Up Your Action Footage, One Gadget at a Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-mastery-how-to-excel-on-the-twitch-stage/"><u>Streaming Mastery: How to Excel on the Twitch Stage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-fine-tuning-snapchat-video-velocity-for-2024/"><u>The Ultimate Guide Fine-Tuning Snapchat Video Velocity for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-event-id-1000-across-windows-7-8-and-10/"><u>Understanding & Fixing Event ID 1000 Across Windows 7, 8 & 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-idevices-entertainment-apple-arcades-role/"><u>Unpacking iDevices Entertainment: Apple Arcade's Role</u></a></li>
+</ul></div>
 

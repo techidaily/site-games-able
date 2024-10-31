@@ -1,7 +1,7 @@
 ---
 title: "Keeping It Smooth: Methods to Reduce Steam Web Helper's RAM Impact"
-date: 2024-10-23T04:00:51.782Z
-updated: 2024-10-25T02:46:21.584Z
+date: 2024-10-26T22:47:39.387Z
+updated: 2024-10-30T17:34:59.301Z
 tags:
   - games
 categories:
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
@@ -35,23 +42,9 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
@@ -60,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -79,32 +65,26 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  This will ease the burden that Steam's web pages have on your available memory.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another simple toggle for performance gains is in the Library tab of the settings menu. Enabling the Low-Performance Mode will disable certain animations when browsing through the Steam library.
 
  This will sacrifice some eye candy for the sake of performance, but overall doesn't reduce memory usage beyond superficial levels. If you've tried all these options so far and still find your system struggling, it might be time for more drastic measures.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the Steam Mini Games List
@@ -126,6 +106,13 @@ steam://open/minigameslist
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
  Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll[make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
@@ -140,6 +127,13 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Ensure that Steam is closed, and then open this .bat file. Steam should launch, looking very similar to the Steam Mini Games List from earlier. This version of Steam is extremely bare-bones. You will be unable to view friends, visit the store, organize screenshots, or check out the news, but you'll be able to run Steam on essentially anything this way.
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
 
@@ -160,24 +154,22 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-recording-skype-calls-quick-guide-for-windows-and-mac-users/"><u>[New] In 2024, Recording Skype Calls - Quick Guide for Windows and Mac Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/asterclass-in-15-high-impact-youtube-startups/"><u>[New] Masterclass in 15 High-Impact YouTube Startups</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-closer-look-how-the-amazonbasics-micro-cut-shredder-stacks-up-in-security-and-capacity/"><u>A Closer Look: How the AmazonBasics Micro-Cut Shredder Stacks Up in Security & Capacity</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-financial-remedy-requesting-a-refund/"><u>Fortnite Financial Remedy: Requesting a Refund</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-sony-xperia-1-v-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Sony Xperia 1 V to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-erase-imposter-photo-mishaps-in-platform-interactions/"><u>In 2024, Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ultimate-audio-compilations-for-video-production/"><u>In 2024, Ultimate Audio Compilations for Video Production</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-zooming-up-triad-of-effective-video-enhancement-practices/"><u>In 2024, Zooming Up Triad of Effective Video Enhancement Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/maximize-pc-speed-expert-advice-on-optimizing-and-cleaning-your-computer/"><u>Maximize PC Speed: Expert Advice on Optimizing and Cleaning Your Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-the-magic-of-your-ps5-games/"><u>Maximizing the Magic of Your PS5 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/oled-vs-lcd-a-2-year-gaming-battle/"><u>OLED vs LCD: A 2-Year Gaming Battle</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedy-steam-library-sync-misfire-on-pc/"><u>Remedy Steam Library Sync Misfire on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/spread-cheer-give-game-copies-on-special-days/"><u>Spread Cheer, Give Game Copies on Special Days</u></a></li>
-<li><a href="https://games-able.techidaily.com/t1-and-s1-redesign-tecnos-ifa-innovations-revealed/"><u>T1 and S1 Redesign: Tecno’s IFA Innovations Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-9-essentials-game-enthusiasts-travel-guide/"><u>Top 9 Essentials: Game-Enthusiast's Travel Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-nlp-marvels-contrasting-gpt-and-bert-models/"><u>Unveiling NLP Marvels: Contrasting GPT & BERT Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-best-affordable-1440p-gaming-displays/"><u>Unveiling the Best Affordable 1440P Gaming Displays</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/upgrading-your-cinematic-story-with-video-edges/"><u>Upgrading Your Cinematic Story with Video Edges</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-wireless-gaming-connect-and-play-on-your-pc-156-chars/"><u>Xbox Wireless Gaming: Connect and Play on Your PC (156 Chars)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-best-practices-in-embedding-real-time-videos-from-fb-for-2024/"><u>[New] Best Practices in Embedding Real-Time Videos From FB for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimize-your-zoom-soundscape-clear-channel-balance-achieved/"><u>[New] In 2024, Optimize Your Zoom Soundscape Clear Channel Balance Achieved</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-lg-4k-display-a-comprehensive-overview/"><u>[Updated] 2024 Approved Ultimate LG 4K Display A Comprehensive Overview</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-smart-8-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Smart 8 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fusing-form-and-function-in-gaming-world/"><u>Fusing Form and Function in Gaming World</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-6-minecraft-modern-house-ideas/"><u>In 2024, Top 6 Minecraft Modern House Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-steams-imaging-options/"><u>Navigating Through Steam's Imaging Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/precision-sculpting-perfect-circles-spheres-in-minecraft-world-for-2024/"><u>Precision Sculpting Perfect Circles, Spheres in Minecraft World for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivating-windows-xpxbox-controllers-that-dont-work/"><u>Reactivating Windows XPXbox Controllers That Don't Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-rectify-error-during-win-oculus-application-setup/"><u>Steps to Rectify Error During Win-Oculus Application Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/succeeding-with-unmet-steam-purchases/"><u>Succeeding with Unmet Steam Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-desk-mats-of-2024/"><u>The Best Desk Mats of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-visionizer-for-gamers-setting-up-your-console-in-4k-focus-mode/"><u>The Ultimate Visionizer for Gamers – Setting Up Your Console in 4K Focus Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-gamer-tracker-apps-insight/"><u>Top 30 Gamer Tracker Apps Insight</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-10-public-domain-image-sites/"><u>Unleash Your Creativity 10 Public Domain Image Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-magix-clip-studio-for-2024/"><u>Unveiling the Power of MAGIX Clip Studio for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-x-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone X has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
 

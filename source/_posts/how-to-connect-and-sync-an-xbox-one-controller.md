@@ -1,7 +1,7 @@
 ---
 title: How to Connect and Sync an Xbox One Controller
-date: 2024-10-18T18:08:26.282Z
-updated: 2024-10-24T17:33:32.355Z
+date: 2024-10-28T23:45:36.065Z
+updated: 2024-10-31T03:04:46.397Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  Once you've paired your Xbox controller successfully, you can use it to navigate the home screen and play games. You'll see the current battery level at the top-right of the menu on the Xbox dashboard.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Pair Your Xbox One Controller Using a Cable
 
  If you'd rather, you can instead use a micro-USB cable to pair your Xbox One controller to your Xbox console. For the Xbox Series X|S controller, you'll need to use a USB-C cable instead.
@@ -56,15 +49,22 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
 ![Xbox One Controller Connected Cable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/07/Xbox-One-Controller-Connected-Cable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Sync an Xbox Controller to Your PC
 
  We've written a full guide explaining[how to connect your Xbox controller to a Windows PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) . Follow those steps to use your existing Xbox One or Xbox Series X|S controller with your favorite PC games.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Use Xbox Series X|S Controllers on Xbox One?
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  See our[guide to using Xbox One controllers on the Xbox Series X|S](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) for more info.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can't Connect Your Xbox One Controller?
 
  The above steps should sync your Xbox controller and console in most cases. But if pairing doesn't work, try these troubleshooting tips:
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
 ![White Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/white-xbox-controller.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Remember that you can only have eight controllers connected to the system at once. If you somehow have this many connected, disconnect a few before connecting another. You can turn off a controller by holding the Xbox button for several seconds until the light on this button goes out.
 * The Xbox Series X|S controller has a handy feature that lets you switch between using your controller with your Xbox and a connected Bluetooth device. Quickly press the**Pair** button on your controller twice to switch from a Bluetooth connection (like a smartphone) back to your Xbox. Hold**Pair** to put your controller back in pairing mode so you can reconnect it to the Bluetooth device.
 
@@ -105,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  If you continue to have problems, take a look at[troubleshooting help for your Xbox One controller](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Still Having Trouble? Try Fixing Your Xbox Controller
@@ -132,21 +132,17 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[Updated] 2024 Approved Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-fixed-shorts-are-now-easily-accessible/"><u>[Updated] 2024 Approved YouTube Fixed Shorts Are Now Easily Accessible</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capturing-your-mi-11-screens-step-by-step/"><u>[Updated] In 2024, Capturing Your Mi 11 Screens - Step by Step</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-online-destinations-for-sparkling-and-metallic-letters/"><u>Best Online Destinations for Sparkling and Metallic Letters</u></a></li>
-<li><a href="https://games-able.techidaily.com/early-access-pay-upfront-or-wait-for-launch/"><u>Early Access: Pay Upfront or Wait for Launch?</u></a></li>
-<li><a href="https://win-webster.techidaily.com/high-dust-resistivity-can-lead-to-back-corona-effects-reducing-esp-efficiency/"><u>High Dust Resistivity Can Lead to Back Corona Effects, Reducing ESP Efficiency.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2 Prowith/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-apple-iphone-xr-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The Apple iPhone XR SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-note-12-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi Note 12 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-frame-rates-leading-240hz-monitors-reviewed/"><u>Optimal Frame Rates: Leading 240Hz Monitors Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/reconnect-joy-cons-step-by-step-solution-guide-for-switch/"><u>Reconnect Joy-Cons - Step-by-Step Solution Guide for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-limiting-xbox-game-bar-use/"><u>Step-by-Step Guide: Limiting Xbox Game Bar Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-approach-for-cleaning-up-your-ps5-save-history/"><u>Strategic Approach for Cleaning Up Your PS5 Save History</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-triumph-decision-choosing-your-ideal-display-out-of-oled-amoled-or-ips/"><u>Tech Triumph Decision: Choosing Your Ideal Display Out of OLED, AMOLED or IPS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-definitive-fix-for-your-missing-msvcr80dll-error-on-pc/"><u>The Definitive Fix for Your Missing msvcr80.dll Error on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-makes-a-safe-gameplay-speed-up-in-roblox/"><u>What Makes a Safe Gameplay Speed Up in Roblox?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-configuring-safe-area-mode-and-pip-in-modern-macos/"><u>[New] Configuring Safe Area Mode & PIP in Modern MacOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/20-best-practices-for-facebook-video-advertising-for-2024/"><u>20 Best Practices for Facebook Video Advertising for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-approach-to-fixing-kernel-memory-page-errors/"><u>A Comprehensive Approach to Fixing Kernel Memory Page Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/critics-cliches-the-fallacies-behind-review-scores/"><u>Critics' Cliches: The Fallacies Behind Review Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-intels-technology-for-optimized-gameplay/"><u>Deciphering Intel's Technology for Optimized Gameplay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-playgrounds-triumph-territories/"><u>Peak Playgrounds: Triumph Territories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-comprehensible-guide-to-leveraging-videos-for-social-media-success-for-2024/"><u>The Comprehensible Guide to Leveraging Videos for Social Media Success for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/tutorial-passo-passo-per-trasferire-il-contenuto-dellssd-a-un-supporto-esterno-usb/"><u>Tutorial Passo-Passo per Trasferire Il Contenuto Dell'SSD a Un Supporto Esterno USB</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-gpu-leaning/"><u>Unveiling the Secrets of GPU Leaning</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-updates-steam-family-access-for-first-time-in-10-years/"><u>Valve Updates Steam Family Access for First Time in 10 Years</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/asf-mp4/"><u>자이로나스터: 무료 ASF 영상 데이터를 MP4로 구성하기</u></a></li>
 </ul></div>
 

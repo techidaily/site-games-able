@@ -1,7 +1,7 @@
 ---
 title: "From Bulky to Thin: PS5 Evolution Explained"
-date: 2024-09-08T16:06:09.882Z
-updated: 2024-09-15T16:48:16.921Z
+date: 2024-10-30T01:54:23.528Z
+updated: 2024-10-31T01:29:01.486Z
 tags:
   - games
 categories:
@@ -31,9 +31,29 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 Models vs. New PS5 Models: The Differences
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Size and Weight
 
@@ -45,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
@@ -59,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  One of the other big changes is that the digital version of the new PS5 has an attachable Ultra HD Blu-ray disc drive. The attachment will cost you $79.99, and it's incompatible with the old digital version. However, it's nice to know that the option exists should you decide to use disks later on​​​​.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Specs
 
@@ -70,27 +90,20 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -113,5 +126,17 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-purerecorder-capturing-life-in-games-without-cost/"><u>[New] 2024 Approved PureRecorder Capturing Life in Games Without Cost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-preparing-to-engage-in-googles-video-meetings/"><u>[Updated] 2024 Approved Preparing to Engage in Google's Video Meetings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-note-50-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Note 50</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinnacle-ddr5-board-selection/"><u>Pinnacle DDR5 Board Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-165hz-gaming-screen-upgrades/"><u>Premium 165Hz Gaming Screen Upgrades</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4ps5-controls-join-the-joy-con-party/"><u>PS4/PS5 Controls Join the Joy-Con Party</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/reduce-video-size-for-free-10-top-online-compression-tools/"><u>Reduce Video Size for Free 10 Top Online Compression Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-strategy-five-methods-to-tailor-the-xbox-game-bar-on-windows-pcs/"><u>The Ultimate Strategy: Five Methods to Tailor the Xbox Game Bar on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-missing-top-2-apps-from-apples-vision-pro-insights-and-implications/"><u>Unveiling the Missing Top 2 Apps From Apple's Vision Pro: Insights & Implications</u></a></li>
+</ul></div>
 

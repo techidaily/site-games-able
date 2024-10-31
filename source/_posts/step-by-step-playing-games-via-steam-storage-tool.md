@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Playing Games via Steam Storage Tool"
-date: 2024-09-12T16:24:37.564Z
-updated: 2024-09-15T16:53:39.580Z
+date: 2024-10-24T18:35:47.053Z
+updated: 2024-10-30T23:15:37.938Z
 tags:
   - games
 categories:
@@ -39,9 +39,23 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
 ![Adding new Steam Library Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-new-steam-library-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t want to put the folder in the outermost layer, you can click**Let me choose another location** instead. Choose your external drive and click the location you want it to go to.
 
  You can install Steam games directly on your external drive once you've added a Steam Library folder into it. Although, we only suggest this if the game isn't already in your internal drives as the existing files will interfere. If the game exists in your internal drives, figure out how to move it to your external drive below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Move Your Steam Games to Your External Drive
 
@@ -55,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  Once you select at least one game, the**Move** and**Uninstall** buttons will brighten up and become clickable. Click**Move** and choose the external drive you just added. You might want to check out[the best external SSDs](https://www.makeuseof.com/best-portable-ssds/) to speed up the transfer time and improve loading times for more demanding games.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Copy Your Steam Games to Your External Drive
 
  Moving your games to an external drive is great, but the games disappear from your local drives. If you only want a copy of your games in your external drive to bring your Steam games with you on the go, unfortunately, the Steam Storage Manager doesn’t have that feature yet.
@@ -65,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
  The \\common folder is where your games are stored. Simply select and copy the games and paste them into the same \\common folder on your external drive.
@@ -79,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
  However, copying the games instead of moving them won’t show up on Steam immediately when adding the drive to the new PC. Getting those games to show up will require extra steps that we will show you in the next section.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play Steam Games From an External Drive
@@ -120,5 +134,19 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimize-iphoneandroid-video-quality-in-online-platforms/"><u>[New] In 2024, Optimize iPhone/Android Video Quality in Online Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>[Updated] Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-continual-adventures-through-algorithmic-design/"><u>Crafting Continual Adventures Through Algorithmic Design</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/fixing-dvd-playback-issues-on-apple-devices-solutions-for-macbook-imac-and-air/"><u>Fixing DVD Playback Issues on Apple Devices: Solutions for MacBook, iMac & Air</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-on-your-ubuntu-system-through-shell-interface/"><u>How to Leverage ChatGPT on Your Ubuntu System Through Shell Interface</u></a></li>
+<li><a href="https://games-able.techidaily.com/mid-range-moments-economical-gamer-motherboards/"><u>Mid-Range Moments: Economical Gamer Motherboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-determining-the-supreme-online-gaming-browser/"><u>Opera Vs Edge: Determining the Supreme Online Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-games-can-mts-be-justified/"><u>Premium Games: Can MTs Be Justified?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ps4-controller-flashing-lights-demystified-what-blue-white-red-or-orange-colors-mean/"><u>PS4 Controller Flashing Lights Demystified: What Blue, White, Red, or Orange Colors Mean</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m1v-mpg/"><u>원통형 M1V MPG에 대한 가용성 강화: 웹 사이트로 바인드하기 위해 공제 - 무료 교육</u></a></li>
+</ul></div>
 

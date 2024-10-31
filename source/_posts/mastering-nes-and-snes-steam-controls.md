@@ -1,7 +1,7 @@
 ---
 title: Mastering NES & SNES Steam Controls
-date: 2024-09-10T16:24:36.256Z
-updated: 2024-09-15T16:37:05.423Z
+date: 2024-10-30T03:47:34.955Z
+updated: 2024-10-30T21:19:16.429Z
 tags:
   - games
 categories:
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  There is a Nintendo Button Layout option in your controller settings, but that only switches the A, B, X, and Y buttons which differ from other major controllers. If that’s enough for you, press the**Steam** button in the top left corner and open up the**Settings** . Press**Controller** , and toggle**Use Nintendo Button Layout** to the on position.
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
@@ -71,7 +85,21 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -92,12 +120,18 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-from-anonymity-to-authority-the-essential-pathway-for-raising-issues-on-digital-platforms-like-discord/"><u>[New] 2024 Approved From Anonymity to Authority The Essential Pathway for Raising Issues on Digital Platforms Like Discord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>[New] The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-winning-hearts-an-approach-to-encourage-sign-ups/"><u>[New] Winning Hearts An Approach to Encourage Sign-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-charged-the-top-ps5-dualsense-controllers-of-2024/"><u>Efficiently Charged: The Top PS5 DualSense Controllers of 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-note-30-vip-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Note 30 VIP to PC? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-gaming-immersion-calibrate-your-consoles-tv-output/"><u>Maximize Gaming Immersion: Calibrate Your Console's TV Output</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-resolve-create-failed-in-windows-error-30005/"><u>Strategies to Resolve Create Failed in Windows Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-arcade-avengers-playlist-guide-to-best-apple-gaming/"><u>The Arcade Avenger's Playlist Guide to Best Apple Gaming</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-steps-for-connecting-usb-drives-on-a-ps4-console/"><u>Troubleshooting Steps for Connecting USB Drives on a PS4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-ps5-and-smartphones-seamlessly/"><u>Uniting PS5 and Smartphones Seamlessly</u></a></li>
+</ul></div>
 

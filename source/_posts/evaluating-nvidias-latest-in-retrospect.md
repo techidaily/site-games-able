@@ -1,7 +1,7 @@
 ---
 title: Evaluating NVIDIA's Latest in Retrospect
-date: 2024-09-09T16:02:24.974Z
-updated: 2024-09-15T16:31:37.168Z
+date: 2024-10-27T18:51:25.092Z
+updated: 2024-10-30T19:03:09.240Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 My GPU Usage Is Far From 100 Percent
 
  My biggest issue since upgrading to the RTX 4090 is that my graphics card is often not fully utilized. And that's due to a couple of factors.
@@ -47,7 +54,21 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
 
@@ -60,28 +81,15 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
 
@@ -106,5 +114,22 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-beat-the-wait-efficient-iphone-time-lapse-tricks/"><u>[New] Beat the Wait Efficient iPhone Time-Lapse Tricks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-analyzing-youtube-engagement-for-2024/"><u>[New] Step-by-Step Guide to Analyzing YouTube Engagement for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-the-top-10-budget-friendly-youtube-spaces-for-artistry-for-2024/"><u>[Updated] Exploring the Top 10 Budget-Friendly YouTube Spaces for Artistry for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chronicles-of-communication-devices-unveiling-the-birthdate-of-the-pioneering-smartphone/"><u>Chronicles of Communication Devices: Unveiling the Birthdate of the Pioneering Smartphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decrypting-eas-clues-early-access-entry-unveiled/"><u>Decrypting EA's Clues: Early Access Entry Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/evolved-rendering-tech-directx-series-analysis/"><u>Evolved Rendering Tech: DirectX Series Analysis</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-discord-live-stream-recording-guide/"><u>In 2024, Discord Live Stream Recording Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725288102921-k-lite-codec-pack/"><u>K-Lite Codec Pack: 初心者が知るべき全貌 - 最新ガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/kid-proofing-steam-adventures-at-home/"><u>Kid-Proofing Steam Adventures at Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/linkedins-new-trend-beware-the-gamification-traps/"><u>LinkedIn's New Trend: Beware the Gamification Traps</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-vs-modern-the-ps5-transformation/"><u>Retro Vs. Modern: The PS5 Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-victory-in-controlling-your-ps5-without-a-microphone/"><u>Silent Victory in Controlling Your PS5 Without a Microphone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tactics-for-making-youtube-videos-go-viral-for-2024/"><u>Tactics for Making YouTube Videos Go Viral for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-mysteries-behind-ps5-network-loss/"><u>Unraveling Mysteries Behind PS5 Network Loss</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-enhancement-feature-disablement-tutorial/"><u>Windows 11 Audio Enhancement Feature Disablement Tutorial</u></a></li>
+</ul></div>
 

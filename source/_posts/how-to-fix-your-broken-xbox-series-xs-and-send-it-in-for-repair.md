@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Broken Xbox Series X|S and Send It In for Repair
-date: 2024-10-18T02:22:43.130Z
-updated: 2024-10-25T00:40:06.402Z
+date: 2024-10-25T21:05:51.178Z
+updated: 2024-10-31T03:03:30.216Z
 tags:
   - games
 categories:
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  But with that, your Xbox Series X|S will be registered with Microsoft, and you should be well on your way to booking a repair with Xbox for your Series X|S.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Check the Warranty Status of Your Xbox Series X|S
@@ -59,9 +59,23 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![A screenshot of a registered device in the Devices section of a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3097.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, if you feel the**Warranty** message is inaccurate or not displayed, you can select the**Info & support** tab for your Xbox Series X|S. From here, you can view your**Standard Limited Warranty** details or any other account warranty information.
 
 ![A screenshot of the Device Coverage Information for an Xbox Series X registered under a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3100.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bear in mind, that standard Xbox Series X|S warranties for consoles last for 12 months, so if you purchase your Xbox upon release, its warranty will have unfortunately expired. Because of this, you should[maintain consoles like the Xbox Series X](https://www.makeuseof.com/ways-to-maintain-xbox-series-x-hardware/) throughout its generation. This way, you may avoid ever needing to repair your Xbox.
 
@@ -76,40 +90,26 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![A screenshot of a Microsoft account Device Service and Repair screen for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3103-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Enter a short description of your issue and select**Next** .
 * Choose a delivery address for the return of your repair and select**Next** .
 * Microsoft will then inform you of the cost of the repair. To confirm the repair, select**Next** .
 
 ![A screenshot of the repair costs for an Xbox Series X being repaired through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3108.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From here, you need to**Select a shipping method** and agree to Microsoft's terms and conditions. You will then be expected to pay for the repair and any delivery fees. If your console is under warranty, the repair fees should be waived depending on the exact issue with your Xbox.
 
 ![A screenshot of the Shipping Methods for the repair of an Xbox Series X through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3111.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But with your repair paid for and the delivery method selected, you can expect your Xbox to be fixed and returned to you very soon, or at least depending upon your chosen delivery method.
 
  However, if you find the price tag for a repair to be too expensive, there are plenty of Xbox issues that are fixable at home. For instance,[fixing Xbox Wireless Controller stick drift](https://www.makeuseof.com/how-to-fix-xbox-one-controller-drift/) can be easy and doesn't necessarily require replacements or an official repair.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Repair Your Xbox Series X|S Officially and Efficiently
 
@@ -132,17 +132,20 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-seamless-sync-solutions-top-cloud-apps-for-android/"><u>[Updated] 2024 Approved Seamless Sync Solutions Top Cloud Apps for Android</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-immersive-inventory-visualization/"><u>[Updated] Immersive Inventory Visualization</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-a-viral-path-best-hashtags-for-youtube-riches/"><u>[Updated] In 2024, Crafting a Viral Path Best Hashtags for YouTube Riches</u></a></li>
-<li><a href="https://common-error.techidaily.com/ace-your-fixes-handling-the-080072efd-glitch-in-windows-11-effortlessly/"><u>Ace Your Fixes: Handling the 0#80072EFD Glitch in Windows 11 Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/considerations-and-precautions-choosing-the-right-handheld-videogame-device/"><u>Considerations and Precautions: Choosing the Right Handheld Videogame Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-xbox-game-pass-games-on-steam-link-with-glossi/"><u>How to Play Xbox Game Pass Games on Steam Link With GlosSI</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-improve-instagram-video-loading-times-effectively/"><u>In 2024, Improve Instagram Video Loading Times Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-performance-heres-why-to-rethink-ray-tracing/"><u>Optimizing Performance? Here's Why to Rethink Ray Tracing</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-remedy-fixing-joy-con-connection-errors-in-nintendo-switch/"><u>Swift Remedy: Fixing Joy-Con Connection Errors in Nintendo Switch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tricks-for-altering-apparent-location-in-mobile-devices-maps/"><u>Tricks for Altering Apparent Location in Mobile Devices' Maps</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-free-fun-on-switch-curated-collection/"><u>Unlock Free Fun on Switch: Curated Collection</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728467980191-usb/"><u>削除されたUSBメモリパーティション復元ガイド</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-xiaomi-13-ultra-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-cloud-powered-future-of-ios-gaming-with-nvidia/"><u>Embrace the Cloud-Powered Future of iOS Gaming with Nvidia</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-jest-jammer-photo-assembler/"><u>In 2024, Jest Jammer Photo Assembler</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>In 2024, Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 13 mini</u></a></li>
+<li><a href="https://games-able.techidaily.com/lead-teams-to-victory-without-paying-fc-manager-edition/"><u>Lead Teams to Victory Without Paying: FC Manager Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/logitech-g-prodigy-gaming-mouse-driver-and-installation-package-download/"><u>Logitech G Prodigy Gaming Mouse Driver & Installation Package Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/native-linux-execution-for-android-apps/"><u>Native Linux Execution for Android Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixelsbudgetscreen-sleekled-hd-gamers-best/"><u>PixelsBudgetScreen: SleekLED, HD Gamers' Best</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-fine-tuning-your-steam-decks-input-devices-for-better-typing/"><u>The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-laptop-into-an-optimal-xbox-game-viewport/"><u>Transform Your Laptop Into an Optimal Xbox Game Viewport</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-dvd-copying-solution-unlock-the-power-of-winx-platinum-dvd-ripper-for-effortless-windows-10-media-conversion/"><u>Ultimate DVD Copying Solution: Unlock the Power of WinX Platinum DVD Ripper for Effortless Windows (10) Media Conversion</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-gamefi-cant-break-through-to-core-gamer-circles/"><u>Why GameFi Can't Break Through to Core Gamer Circles</u></a></li>
 </ul></div>
 

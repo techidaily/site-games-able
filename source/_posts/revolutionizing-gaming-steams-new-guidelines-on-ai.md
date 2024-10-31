@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming: Steam's New Guidelines on AI"
-date: 2024-10-20T17:57:05.549Z
-updated: 2024-10-24T22:19:58.016Z
+date: 2024-10-25T22:36:28.590Z
+updated: 2024-10-30T21:52:31.823Z
 tags:
   - games
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 * [Steam Takes a Softer Stance on Games Using AI](#steam-takes-a-softer-stance-on-games-using-ai)
 * [How Steam's AI Games Policy Could Affect Gamers](#how-steam-39-s-ai-games-policy-could-affect-gamers)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Steam has adjusted its policies towards games using generative AI. A shift from its previously cautious approach.
@@ -38,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 * It will be up to players to report illegal AI content in games using a feature in the in-game overlay.
 
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
 
@@ -62,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Steam's AI Games Policy Could Affect Gamers
 
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
@@ -78,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
 
  With the sheer volume of games that Steam publishes, many low-quality games (and games that clone other titles) appear on the storefront.
@@ -88,15 +88,22 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
@@ -108,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 > "Using the in-game overlay, players can easily submit a report when they encounter content that they believe should have been caught by appropriate guardrails on AI generation."
 
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
@@ -139,21 +139,19 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-foremost-8-4k-blu-ray-systems-reviewed/"><u>[New] 2024 Approved The Foremost 8 4K Blu-Ray Systems Reviewed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-playmates-childs-drone-selection-guide/"><u>[New] Perfect Playmates Child's Drone Selection Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-photography-in-action-applying-motion-blur-in-adobe/"><u>[New] Photography in Action Applying Motion Blur in Adobe</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-expert-blueprint-optimizing-your-experience-with-mobizen-recorders/"><u>[Updated] Expert Blueprint Optimizing Your Experience with Mobizen Recorders</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fine-tuning-your-approach-to-360-videos-on-facebook/"><u>[Updated] In 2024, Fine-Tuning Your Approach to 360 Videos on Facebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-meeting-management-syncing-zoom-with-gmail-emails/"><u>2024 Approved Boost Your Meeting Management Syncing Zoom with Gmail Emails</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-winning-appeal-to-eas-beta-selection-panel/"><u>Crafting a Winning Appeal to EA's Beta Selection Panel</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-high-end-graphics-selection/"><u>Economical High-End Graphics Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/encrypting-gaming-conversations-on-series-sx/"><u>Encrypting Gaming Conversations on Series S/X</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-privacy-by-excluding-mics-from-your-ps5-setup/"><u>Enhance Privacy by Excluding Mics From Your PS5 Setup</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-learn-selective-picture-clarity-reduction/"><u>In 2024, Learn Selective Picture Clarity Reduction</u></a></li>
-<li><a href="https://games-able.techidaily.com/refrain-from-ps5-buying-heres-why/"><u>Refrain From PS5 Buying - Here's Why</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-hidden-treasures-for-your-overheating-deck/"><u>Uncover Hidden Treasures for Your Overheating Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-audio-configuration-exclusive-for-headphones/"><u>Xbox Audio Configuration: Exclusive for Headphones</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-uncovering-facebooks-fresh-favorites-our-picks-of-top-vids/"><u>[Updated] 2024 Approved Uncovering Facebook's Fresh Favorites Our Picks of Top Vids</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-social-media-reach-fb-ad-mastery-techniques/"><u>2024 Approved Elevate Your Social Media Reach FB Ad Mastery Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-chains-of-stuck-downloads-on-windows-11-pcs/"><u>Breaking the Chains of Stuck Downloads on Windows 11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-performance-high-grade-hardware-hype/"><u>Enhance Performance: High-Grade Hardware Hype</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-football-info-youtube-trend-infographics-for-2024/"><u>Essential Football Info YouTube Trend Infographics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-factory-reset-a-playstation-4-ps4/"><u>How to Factory Reset a PlayStation 4 (PS4)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-techniques-for-manipulating-iphone-photos/"><u>In 2024, Expert Techniques for Manipulating iPhone Photos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-google-pixel-7a-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Google Pixel 7a to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-gaming-experience-peak-performance-with-these-tips/"><u>Keep Your Gaming Experience Peak Performance with These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-realme-gt-5-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Realme GT 5 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-your-srt-files-with-mac-expertise/"><u>Navigating Your SRT Files with Mac Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/orbit-fabricator-scouting-for-superior-pcs/"><u>Orbit Fabricator: Scouting for Superior PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-the-full-potential-of-your-favorite-games-on-a-mac/"><u>Unleash the Full Potential of Your Favorite Games on a Mac</u></a></li>
 </ul></div>
 

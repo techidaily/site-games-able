@@ -1,7 +1,7 @@
 ---
 title: Overcoming 0X887A0006 DXGI Hanging Issue, Windows Edition
-date: 2024-09-11T17:01:33.519Z
-updated: 2024-09-15T16:43:15.557Z
+date: 2024-10-28T20:24:30.176Z
+updated: 2024-10-30T22:25:22.201Z
 tags:
   - games
 categories:
@@ -61,6 +61,13 @@ For Epic Games:
 5. Press the**Verify** button, and wait for the verification process to finish.  
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Repair Games on Steam
 
 For Steam:
@@ -73,17 +80,17 @@ For Steam:
 5. Select Steam’s**Verify integrity of game files** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
@@ -102,6 +109,13 @@ For Steam:
 
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the**Switchable Graphics** tab, and select the**High Performance** GPU option for the affected game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
  A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
@@ -118,6 +132,13 @@ For Steam:
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Disable DirectX 12 in Any Affected Games
 
  DirectX 12 is the more advanced alternative version to DX11 that’s known to generate issues for some games. So, it’s recommended that you disable DX12 by setting DX11 for games where the 0x887A0006 error occurs.
@@ -129,29 +150,17 @@ For Steam:
 3. Select the**Settings** option on the menu that opens.  
 ![The Settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-settings-option1.jpg)
 4. Then click the game title for which 0x887A0006 arises.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select the**Additional Command Line Arguments** box.  
 ![The Additional Command Line Arguments checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-d3d11-command-line.jpg)
 6. Add**d3d11** in the text box.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
 
@@ -162,6 +171,14 @@ For Steam:
 3. Click**Create a power plan** on the left side of the Control Panel applet.  
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-option.jpg)
 4. Select the**High performance** option for the plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
 6. Click**Create** to add the plan.
@@ -184,13 +201,6 @@ For Steam:
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type**TdrLevel** inside the DWORD’s text box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Double-click**TdrLevel** to view a**Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
@@ -203,6 +213,13 @@ For Steam:
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop the 0x887A0006 Error Spoiling Your Gaming Fun
 
@@ -221,5 +238,26 @@ For Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-tips-for-perfected-framing-implementing-letterboxing-on-social-media/"><u>[New] Tips for Perfected Framing Implementing Letterboxing on Social Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/"><u>[Updated] In 2024, Unveiling the Secrets of Live Broadcasting on Instagram Through OBS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-editors-journey-creating-impactful-videos-for-youtube-with-pc/"><u>2024 Approved The Editor's Journey Creating Impactful Videos for YouTube with PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-and-premium-screen-capture-tools-manycam-obs-studio-and-more/"><u>Best Free and Premium Screen Capture Tools: ManyCam, OBS Studio & More</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-steam-vs-gog-retail-platforms-compared/"><u>Dissecting Steam vs GOG: Retail Platforms Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-ergonomic-habit/"><u>Gamer's Ergonomic Habit</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-on-hold-a-blessing-in-disguise/"><u>Gaming on Hold: A Blessing in Disguise?</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-s23-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy S23 for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-switch-games-into-your-mac-routine/"><u>Integrating Switch Games Into Your Mac Routine</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/our-commitment-to-excellence-245-satisfaction-certified/"><u>Our Commitment to Excellence – 245 Satisfaction Certified</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-rapidity-key-to-xbox-series-xands-gameplay/"><u>Résumé Rapidity: Key to Xbox Series X&S Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-ps-nexus-funding-buying-games/"><u>Streamlining PS Nexus: Funding, Buying Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-techniques-to-skyrocket-your-game-vids/"><u>Tagging Techniques to Skyrocket Your Game Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/task-oriented-desks-vs-entertainment-systems/"><u>Task-Oriented Desks Vs. Entertainment Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gpd-win-4-handheld-is-like-a-super-powered-steam-deck/"><u>The GPD Win 4 Handheld Is Like a Super-Powered Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-alternative-gpus-echoing-rtx-4060-tis-performance/"><u>Top Alternative GPUs Echoing RTX 4060 Ti's Performance</u></a></li>
+</ul></div>
 

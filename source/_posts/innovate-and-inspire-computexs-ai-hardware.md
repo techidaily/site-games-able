@@ -1,7 +1,7 @@
 ---
 title: "Innovate and Inspire: Computex’s AI Hardware"
-date: 2024-09-10T16:35:44.798Z
-updated: 2024-09-15T16:56:07.206Z
+date: 2024-10-24T22:57:14.453Z
+updated: 2024-10-30T21:54:28.249Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 
 So, these are the best bits of AI hardware launched at Computex 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
@@ -49,16 +56,16 @@ Intel
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Nvidia GeForce RTX AI Laptops
 
@@ -71,10 +78,10 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -82,6 +89,13 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 AMD
 
@@ -102,5 +116,22 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-earn-big-without-the-hustle-top-13-strategies-for-novices-on-reddit/"><u>[New] 2024 Approved Earn Big Without the Hustle Top 13 Strategies for Novices on Reddit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oncealed-video-streaming-background-youtube-watch-for-2024/"><u>[New] Concealed Video Streaming Background YouTube Watch for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unmarred-stock-images-legal-and-ethical-tips/"><u>2024 Approved Unmarred Stock Images Legal & Ethical Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-and-join-youtubes-latest-minigame-testing/"><u>Discover & Join YouTube's Latest Minigame Testing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-10-4g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark 10 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-discover-the-future-oled-monitors/"><u>Gamers, Discover the Future - OLED Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-face-off-frenzy-4070-super-titan-x-and-4080-supers/"><u>GPU Face-Off Frenzy: 4070 Super, Titan X, and 4080 Supers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-upgrade-deck-speeds-with-ease-and-speed/"><u>How to Upgrade Deck Speeds with Ease and Speed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immediate-fixes-for-iphone-blurry-image-problems-for-2024/"><u>Immediate Fixes for iPhone Blurry Image Problems for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-best-of-the-best-androids-top-8-group-chatters/"><u>In 2024, The Best of the Best Android's Top 8 Group Chatters</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-high-speed-computing-on-budget-with-the-latest-raspberry-pi-m2-hatplus-a-comprehensive-review/"><u>Mastering High-Speed Computing on Budget with the Latest Raspberry Pi M.2 HAT+ - A Comprehensive Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-ps5-desktop-picture-easily/"><u>Switch PS5 Desktop Picture Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-error-30005-creating-files-in-windows/"><u>Troubleshooting Error 30005 - Creating Files in Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-the-joy-of-9-premium-complete-christmas-movies-for-free-for-2024/"><u>Unbox the Joy of 9 Premium, Complete Christmas Movies for Free for 2024</u></a></li>
+</ul></div>
 

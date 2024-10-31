@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Merge Sony & Nintendo Joy-Cons
-date: 2024-09-14T16:36:50.287Z
-updated: 2024-09-15T16:10:03.900Z
+date: 2024-10-27T17:49:37.161Z
+updated: 2024-10-31T00:15:38.603Z
 tags:
   - games
 categories:
@@ -45,13 +45,34 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
@@ -70,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
@@ -101,5 +116,26 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-social-media-savvy-the-best-25-hashtags-for-likes-and-followers-for-2024/"><u>[New] Social Media Savvy The Best 25 Hashtags for Likes and Followers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>[Updated] In 2024, How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-maximizing-the-impact-the-art-of-using-whiteboards-on-zoom/"><u>[Updated] In 2024, Maximizing the Impact The Art of Using Whiteboards on Zoom</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-full-tutorial-on-exploiting-googles-ai-driven-speech-transcription-service/"><u>2024 Approved Full Tutorial on Exploiting Google's AI-Driven Speech Transcription Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-prime-twitch-video-downloader-selections/"><u>Discovering the Prime Twitch Video Downloader Selections</u></a></li>
+<li><a href="https://games-able.techidaily.com/gear-up-level-up-enhancing-your-game-experience/"><u>Gear Up, Level Up: Enhancing Your Game Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-dominance-with-one-exceptional-case/"><u>Google Play Pass Dominance - With One Exceptional Case</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-chorus-choice-windows-11s-audio-enhancement-guidebook/"><u>In 2024, Chorus Choice Windows 11'S Audio Enhancement Guidebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-just-how-significant-is-itop-in-screencasting-world/"><u>In 2024, Just How Significant Is ITop in Screencasting World?</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-gameplay-subscribe-via-prime/"><u>Jumpstart Your Gameplay: Subscribe via Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-steam-deck-experience-our-list-of-top-9-emulators/"><u>Maximize Your Steam Deck Experience: Our List of Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-troubleshooting-process-for-broken-xbox-series-sandx/"><u>Navigate the Troubleshooting Process for Broken Xbox Series S&X</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-showdown-midnight-warrior-vs-sunlight-champion/"><u>The Ultimate Showdown Midnight Warrior vs Sunlight Champion</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-ad-free-and-no-cost-mobile-gaming-hits/"><u>Top 10 Ad-Free & No-Cost Mobile Gaming Hits</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/top-10-tools-for-reversing-videos-online-a-comprehensive-guide/"><u>Top 10 Tools for Reversing Videos Online: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-xbox-s-x-pairing-problems/"><u>Troubleshooting Xbox S X Pairing Problems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-achieve-film-quality-video-a-step-by-step-guide-to-final-cut-pro-x/"><u>Updated In 2024, Achieve Film-Quality Video A Step-by-Step Guide to Final Cut Pro X</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-bar-management-on-windows-10-and-11-a-quick-fix/"><u>Xbox Game Bar Management on Windows 10 & 11: A Quick Fix</u></a></li>
+</ul></div>
 

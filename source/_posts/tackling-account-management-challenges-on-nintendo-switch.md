@@ -1,7 +1,7 @@
 ---
 title: Tackling Account Management Challenges on Nintendo Switch
-date: 2024-10-23T17:34:17.692Z
-updated: 2024-10-25T07:42:12.400Z
+date: 2024-10-28T22:54:03.509Z
+updated: 2024-10-30T16:09:24.722Z
 tags:
   - games
 categories:
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Access Your Nintendo Account Information on Your Nintendo Switch
 
@@ -64,29 +64,9 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the Nintendo Account settings available through the User options on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209552900-57b4628d2267231d57e0fc1078c0596d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Choose either**View email address** or**View family group members** .
 
  From here, you can enter your Nintendo account password to view your desired account information. However, if you wish to edit information, other methods may be more useful.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Manage the Payment and Subscription for Your Nintendo Account
 
@@ -95,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 * From the Home screen of your Nintendo Switch, select**Nintendo eShop** .
 
 ![A screenshot of the Nintendo Switch Home screen with the option for Nintendo eShop highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092211225900-57b4628d2267231d57e0fc1078c0596d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select the user profile linked to your Nintendo account.
 * Once the eShop loads, select your profile icon in the top-right of the screen.
@@ -113,16 +100,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the User Information options for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/user.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * You can also select**Sign-In and Security Settings** to alter any security options for your account, including your**Password** and**Passkey** , by selecting**Edit** .
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
@@ -132,13 +119,20 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alter Your Nintendo Account With Convenience
@@ -162,22 +156,19 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortless-engagement-how-to-craft-a-direct-subscribe-link/"><u>[New] In 2024, Effortless Engagement How to Craft a Direct Subscribe Link</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-iphones-secret-to-quick-cost-free-red-eye-removal-revealed/"><u>[New] In 2024, IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-filming-made-simple-the-essentials-of-logitech-webcam-setup-for-2024/"><u>[New] Professional Filming Made Simple The Essentials of Logitech Webcam Setup for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-your-digital-diaries-for-free-extensions-and-mobile-edition-for-2024/"><u>[Updated] Enhance Your Digital Diaries for Free – Extensions & Mobile Edition for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-prominent-personalities-on-snapchat/"><u>[Updated] Strategies for Prominent Personalities on Snapchat</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-s23plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel S23+</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-motherboards-geared-towards-gaming/"><u>Economical Motherboards Geared Towards Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-unseen-hazards-in-linkedins-new-gaming-section/"><u>Explore the Unseen Hazards in LinkedIn’s New Gaming Section</u></a></li>
-<li><a href="https://games-able.techidaily.com/four-witty-comic-exchange-games-for-friendship-delight/"><u>Four Witty Comic Exchange Games for Friendship Delight</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-troubleshoot-to-transform-your-diy-xbox-controller-fixes/"><u>From Troubleshoot to Transform: Your DIY Xbox Controller Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-mastery-with-steam-heres-how-top-9-advantages-to-know/"><u>Gaming Mastery with Steam (Here's How): Top 9 Advantages to Know</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cting-dialogues-in-youtube-vids/"><u>Inspecting Dialogues in YouTube Vids</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-battle-royale-iphone-and-fortnite-with-geforce-now/"><u>Navigating the Battle Royale: IPhone & Fortnite with GeForce Now</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Recover lost data from Honor X50 GT</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-assist-unveiled-the-key-to-flawless-gameplay/"><u>Stream Assist Unveiled: The Key to Flawless Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-full-potential-boosting-ps4-power-levels/"><u>Unlock Full Potential: Boosting PS4 Power Levels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-is-hasty-subscription-a-gateway-to-better-viewing-habits/"><u>[Updated] 2024 Approved Is Hasty Subscription a Gateway to Better Viewing Habits?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-music-infused-content-sharing-strategies-for-facebook/"><u>[Updated] 2024 Approved Music-Infused Content Sharing Strategies for Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-addressing-disrupted-video-in-obs-studio/"><u>[Updated] In 2024, Addressing Disrupted Video in OBS Studio</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/best-replacement-software-for-jdownloader-on-macwindows-free-trial-available/"><u>Best Replacement Software for JDownloader on MAC/WINDOWS - Free Trial Available</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/instant-techniques-chaotic-ordering-of-youtube-tracks/"><u>Instant Techniques Chaotic Ordering of YouTube Tracks</u></a></li>
+<li><a href="https://games-able.techidaily.com/leverage-glossi-for-accessible-xbox-game-pass-on-steam/"><u>Leverage GlosSI for Accessible Xbox Game Pass on Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/new-era-of-laptops-unveiled-at-ifa-2023/"><u>New Era of Laptops Unveiled at IFA 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-top-picks-for-game-browsers-ranked/"><u>Opera GX & Edge Showdown: Top Picks for Game Browsers Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/phone-free-registration-how-to-set-up-your-account-on-chatgpt-telegram-and-whatsapp-with-non-standard-verification-options/"><u>Phone-Free Registration: How to Set Up Your Account on ChatGPT, Telegram, and WhatsApp with Non-Standard Verification Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-subscribing-and-maximizing-ps5s-ea-play/"><u>Seamless Integration: Subscribing & Maximizing PS5's EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-additional-credits-for-game-purchases/"><u>Securing Additional Credits for Game Purchases</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-game-pass-showdown-psplus-vs-xbox/"><u>The Ultimate Game Pass Showdown: PS+ VS Xbox</u></a></li>
+<li><a href="https://facebook.techidaily.com/trouble-brewing-as-trust-fades-in-giant-internet-firms/"><u>Trouble Brewing as Trust Fades in Giant Internet Firms</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-gpu-heat-impact-in-gaming/"><u>Understanding GPU Heat Impact in Gaming</u></a></li>
 </ul></div>
 

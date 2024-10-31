@@ -1,7 +1,7 @@
 ---
 title: "Lemokey's Masterpiece: Exploring the Quality of Keychron"
-date: 2024-10-17T22:40:56.846Z
-updated: 2024-10-25T04:23:59.342Z
+date: 2024-10-23T16:19:18.692Z
+updated: 2024-10-30T20:53:30.879Z
 tags:
   - games
 categories:
@@ -123,10 +123,16 @@ No
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Configuration
@@ -134,6 +140,13 @@ No
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -147,13 +160,6 @@ No
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  With dimensions of 15.8 x 5.4 x 1.7 inches, the Lemokey L3 is a 91-key, tenkeyless design. However, the larger-than-usual footprint for a tenkeyless keyboard comes by way of the four additional customizable macro keys, above which sits the customizable media control knob. A full-size keyboard is usually around 17 inches wide, while most TKLs are around 14 inches.
@@ -162,13 +168,6 @@ No
 
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  One nice touch is the three lights above the direction keys, each pertaining to a different feature. The left light is the one you'll see most, as it shows the relative charge level of the keyboard. The middle light details your wireless connection status, and the third light shows whether Caps Lock is switched on.
@@ -176,13 +175,6 @@ No
  The Lemokey L3 is available in three color schemes: Carbon Black, Navy Blue, and Space Silver. I've been sent the Space Silver design, which looks mechanical and futuristic, but the Navy Blue and Carbon Black designs both look tidy, and the double-shot PBT keycaps are sculpted to maximize efficiency. Each color scheme comes with a unique set of additional keys; in a nod to the keyboard's gaming credentials, some of the additional keys bear the iconic PlayStation symbols.
 
 ![customizable-buttons-on-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/customizable-buttons-on-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -195,6 +187,13 @@ No
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
  Hannah Stryker / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -214,19 +213,6 @@ No
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Customization With VIA
 
  Keychron has long used VIA for its desktop customization software. It's free, well-supported by the mechanical keyboard community, and has extensive customization options. However, most folks who use a gaming keyboard will be more familiar with the custom, proprietary software created by the big gaming companies. In comparison, VIA is a little different, lacking the straightforward options and menus found in those other desktop software options.
@@ -241,6 +227,13 @@ No
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
  The fully assembled knob version of the Lemokey L3 retails for $214\. It's a great price for a truly top-notch keyboard and one that will last you a literal lifetime.
@@ -254,6 +247,13 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -278,21 +278,18 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-binge-watch-with-ease-best-playlist-extractors-reviewed-and-rated/"><u>[New] 2024 Approved Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-celebrating-creators-top-notch-otu-designs/"><u>[New] Celebrating Creators Top-Notch OTU Designs</u></a></li>
-<li><a href="https://games-able.techidaily.com/display-showdown-determining-which-is-superior-oled-or-ips/"><u>Display Showdown: Determining Which Is Superior, OLED or IPS?</u></a></li>
-<li><a href="https://games-able.techidaily.com/dynamic-cooling-design-maximizes-graphics-output-speed/"><u>Dynamic Cooling Design Maximizes Graphics Output Speed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-acers-audio-device-drivers-in-no-time/"><u>Easy Guide: Updating Acer's Audio Device Drivers in No Time!</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-hdi-display-fidelity-mouse-options/"><u>Elite HDI Display Fidelity Mouse Options</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-together-dual-gameplay-in-minecraft-switch-edition/"><u>Exploring Together: Dual Gameplay in Minecraft Switch Edition</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/fixing-airdrop-issues-solutions-for-macos-big-sur-and-ios-17/"><u>Fixing AirDrop Issues: Solutions for macOS Big Sur & iOS 17</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>In 2024, The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-monitors-at-144hz-for-enhanced-gameplay/"><u>Premium Monitors at 144Hz for Enhanced Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-impermanence-of-games-does-it-matter-to-gamers/"><u>The Impermanence of Games – Does It Matter to Gamers?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-cameras-for-drifting-gopro-vs-ghost-s-showdown/"><u>Top Cameras for Drifting GoPro Vs. Ghost-S Showdown</u></a></li>
-<li><a href="https://games-able.techidaily.com/twitch-demystified-essential-knowledge-for-aspiring-streamers/"><u>Twitch Demystified: Essential Knowledge for Aspiring Streamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/understanding-and-utilizing-phantoms-time-dilation/"><u>Understanding and Utilizing Phantom’s Time-Dilation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-step-by-step-instructions-for-using-telegram-online-professionally/"><u>[New] 2024 Approved Step-By-Step Instructions For Using Telegram Online Professionally</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-captivate-with-voice-intros-that-intrigue/"><u>[New] Captivate with Voice Intros That Intrigue</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-capture-clarity-ideal-phone-tripod-pairs/"><u>[Updated] In 2024, Capture Clarity Ideal Phone-Tripod Pairs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streaming-to-profit-youtube-policy-changes-for-2024/"><u>[Updated] Streaming to Profit YouTube Policy Changes for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/digital-typography-in-after-effects-a-guide/"><u>Digital Typography in After Effects A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-thrill-of-racing-with-moza-r5-bundle/"><u>Discovering the Thrill of Racing with MOZA R5 Bundle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-intervention-can-ai-transform-therapy/"><u>Innovative Intervention: Can AI Transform Therapy?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/kinetic-gameplay-reimagined-a-comprehensive-analysis-of-kinemaster-on-android/"><u>Kinetic Gameplay Reimagined A Comprehensive Analysis of KineMaster on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/manual-removal-for-xbox-series-x-stuck-discs/"><u>Manual Removal for Xbox Series X Stuck Discs</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpu-based-game-replay-capture/"><u>Mastering GPU-Based Game Replay Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps4-button-blues-how-to-reset-and-rejuvenate-your-controller/"><u>Ps4 Button Blues: How to Reset & Rejuvenate Your Controller</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/scoprire-la-funzionalita-dei-backup-con-aomei-lintroduzione-dellautore-ai-prodotti-software/"><u>Scoprire La Funzionalità Dei Backup Con AOMEI - L'introduzione Dell'autore Ai Prodotti Software</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/uninterrupted-downloads-of-viafree-tv-episodes-for-an-enjoyable-binge-watching-experience/"><u>Uninterrupted Downloads of Viafree TV Episodes for an Enjoyable Binge-Watching Experience</u></a></li>
 </ul></div>
 

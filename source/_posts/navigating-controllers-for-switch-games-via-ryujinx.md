@@ -1,7 +1,7 @@
 ---
 title: Navigating Controllers for Switch Games via Ryujinx
-date: 2024-10-22T18:39:05.982Z
-updated: 2024-10-24T20:27:05.004Z
+date: 2024-10-28T01:49:29.224Z
+updated: 2024-10-30T16:09:13.372Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
  With some of the specific features of Ryujinx defined, you should be ready to start mapping a controller for Nintendo Switch emulation. So, as long as you have Ryujinx installed on your device of choice, you can map a Nintendo, PlayStation, Xbox, or third-party controller by following these steps:
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
@@ -58,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
@@ -71,16 +78,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
@@ -96,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 * Changing the designated**Controller Type** , so you can map an entire controller as one Joy-Con controller or vice-versa.
 
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
@@ -127,21 +121,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-secrets-to-compelling-presentations-ppt-on-mobile-and-desktop-gmeet/"><u>[New] 2024 Approved Secrets to Compelling Presentations PPT on Mobile & Desktop GMeet</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-streamlining-your-workflow-with-mac-preview-complete-guide-for-2024/"><u>[Updated] Streamlining Your Workflow with Mac Preview Complete Guide for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/effortless-angle-correction-for-clear-vision/"><u>Effortless Angle Correction for Clear Vision</u></a></li>
-<li><a href="https://games-able.techidaily.com/eradicating-steams-invalid-file-alert-issue/"><u>Eradicating Steam’s Invalid File Alert Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-ai-technology-must-haves-every-entrepreneur-needs-to-understand/"><u>Essential AI Technology Must-Haves Every Entrepreneur Needs to Understand</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-rich-world-of-gaming-with-these-9-top-rated-emulators/"><u>Explore the Rich World of Gaming with These 9 Top-Rated Emulators</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-features-and-functionality-in-map-my-ride-review/"><u>Exploring Features and Functionality in Map My Ride Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/festive-fun-folded-sending-steam-games-as-presents/"><u>Festive Fun Folded: Sending Steam Games as Presents</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-home-entertainment-reinvented/"><u>IFA 2023: Home Entertainment Reinvented</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premium-access-on-youtube-are-you-missing-out/"><u>Premium Access on YouTube – Are You Missing Out?</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaiming-your-gaming-sounds-reconnecting-headsets/"><u>Reclaiming Your Gaming Sounds: Reconnecting Headsets</u></a></li>
-<li><a href="https://games-able.techidaily.com/saving-on-gaming-annotated-list-of-top-11-bargain-friendly-sites/"><u>Saving on Gaming: Annotated List of Top 11 Bargain-Friendly Sites</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-transferring-your-amazon-kindle-bookmarks-and-annotations-into-evernote/"><u>Step-by-Step Guide to Transferring Your Amazon Kindle Bookmarks & Annotations Into Evernote</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-perfect-resolution-for-immersive-vr/"><u>The Perfect Resolution for Immersive VR</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/troubleshooting-hevc-media-format-problems-on-your-pc-2-expert-solutions-for-windows-users/"><u>Troubleshooting HEVC Media Format Problems on Your PC - 2 Expert Solutions for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-solution-for-handheld-issues/"><u>Unveiling the Ultimate Solution for Handheld Issues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-use-hashtags-on-instagram-for-2024/"><u>[New] How to Use Hashtags on Instagram for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-unveiling-all-about-discord-stickers/"><u>[Updated] Unveiling All About Discord Stickers</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-off-steam-membership-services/"><u>Cutting Off Steam Membership Services</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-driver-software-for-oculus-devices-compatible-with-windows-systems/"><u>Essential Driver Software for Oculus Devices - Compatible With Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tive-enhancements-the-process-of-infusing-text-into-your-video-content/"><u>Narrative Enhancements The Process of Infusing Text Into Your Video Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-enhancements-big-picture-showcase/"><u>Steam's Enhancements: Big Picture Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/unseen-players-methods-to-identify-series-sx-disconnects/"><u>Unseen Players: Methods to Identify Series S/X Disconnects</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-nvidia-driver-enhance-system-stability-and-speed/"><u>Upgrade Your Nvidia Driver - Enhance System Stability & Speed</u></a></li>
 </ul></div>
 

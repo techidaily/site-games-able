@@ -1,7 +1,7 @@
 ---
 title: Delve Into the Dichotomy of Pimax Crystal Headset
-date: 2024-10-20T17:50:34.895Z
-updated: 2024-10-24T23:53:13.197Z
+date: 2024-10-23T17:50:01.254Z
+updated: 2024-10-30T16:57:10.256Z
 tags:
   - games
 categories:
@@ -94,13 +94,6 @@ SnapDragon XR2
 
 [See at Pimax](https://pimax.com/crystal/) [See at Amazon](https://www.amazon.com/Pimax-Crystal-headsets-All-One/dp/B0BZSGFLQ7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031352&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fpimax-crystal-review%2F&asc%5Fcampaign=Affiliate)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unpacking: There's a Lot
 
 ![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
@@ -120,19 +113,6 @@ Inside the large and densely packed box you'll find:
 
 ![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
  The controllers feel a little cheap and are clearly modeled after the[Quest 2](https://www.makeuseof.com/oculus-quest-2-review/) , with large tracking rings that house the infrared LEDs. Meanwhile, the[Quest 3](http://www.makeuseof.com/meta-quest-3-review/) has done away with these rings.
@@ -149,9 +129,23 @@ Related
 
  The Pimax Crystal controllers are good enough in that they get the job done and track well, but have no unique features or design. They're a far cry from the[PSVR2](https://www.makeuseof.com/playstation-vr2-review/) controllers with their advanced haptics, adaptive trigger, and general Sony mastery of all things controller-related. The Valve Index set is cheaper and arguably has more advanced controllers, but I’m not a fan of those either—I’m forever accidentally dropping or grabbing items thanks to the pressure-sensitive grab features. At least the Pimax Crystal controllers have a basic physical grip button. If I'm honest, nothing compares to the enormous[HTC Vive](https://www.makeuseof.com/tag/virtual-reality-is-finally-here-htc-vive-review-giveaway/) wands, which always felt like you were holding a gun or sword.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Heavy but Comfortable
 
 ![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -167,13 +161,6 @@ Related
 
 ![pimax crystal - off ear headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-off-ear-headphones.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
  Bizarrely, the Pimax Crystal requires a battery even when used in PCVR tethered mode and connected to the powered hub. This is apparently due to the use of the XR2 chipset—the same used in the Meta Quest 3\. However, given that most people will be using this in a tethered mode and completely ignoring the standalone functionality, it’s a frustrating design choice, but perhaps one that will come to fruition later with expansion modules such as wireless transmission.
@@ -181,10 +168,10 @@ Related
 ![pimax crystal - battery packs and charger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-battery-packs-and-charger.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
@@ -197,6 +184,19 @@ Related
 
 ![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  After installing the required PiPlay software and putting on the headset, you'll be greeted by the same default barren Martian landscape that I remember from[my original Pimax 5K review five years ago](https://www.makeuseof.com/tag/pimax-5k-plus/) , but it's a higher resolution now. That’s even more pixels to view a bleak, unimpressive landscape that you can't interact with in any way or move around.
@@ -208,6 +208,13 @@ Related
  The Crystal is the most finicky headset I’ve played with yet. Which is a shame because when it works, it can be absolutely incredible-looking.
 
  KayakVR has been my go-to experience for relaxation and really shows off the beauty of the Pimax Crystal's display. The vibrant colors and shimmering water are jaw-dropping, even if I can't whack up the resolution to full.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Image Quality Is Superb
 
@@ -224,13 +231,6 @@ Related
  Of course, it's worth pointing out that to really benefit from this high pixel density, you're going to need some seriously good hardware. For graphically detailed and intensive games like Microsoft Flight Simulator, you're looking at a 4070 or 4090\. My 3060 can barely keep up.
 
  But let's be clear: from a hardware and imaging perspective, you cannot beat the Pimax Crystal right now for tethered PCVR.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Dynamic Foveated Rendering Gives You a Performance Boost (in Theory)
 
@@ -256,6 +256,13 @@ Related
 
  That said, I experienced no unexpected issues with the camera-based tracking. Mostly, I play racing sims and slow-paced adventure games, but the classic litmus test is Beat Saber. It had no trouble keeping up with my movements there—just remember to keep your controllers roughly in front of you, not to the sides or behind.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Standalone Mode Is Best Forgotten About (for Now)
 
  In addition to operating alongside a powerful PC in tethered mode, the Pimax Crystal also features a standalone mode, similar to the Meta Quest. However, it's not nearly as developed (and that's putting it nicely), and perhaps never will be if it remains a niche option. Pimax simply doesn't have the clout to get developers onboard with its ecosystem, but you'll find a handful of apps there.
@@ -263,13 +270,6 @@ Related
  Watching movies would be a good use case for this standalone, but sadly the only option is Whirligig, which is my least favorite of media players, and currently sitting at a 2-star rating, with both reviews stating that it won't actually play movie files.
 
  Tracking in standalone mode seems to work just as well as tethered, though the processing power limits what’s graphically possible.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should You Buy the Pimax Crystal?
 
@@ -280,6 +280,13 @@ Related
  There’s no doubt that the display hardware on offer here is the best you can get at a semi-reasonable price right now. But is it three times as good as an HP Reverb or Quest 3? That’s a difficult call. PCVR can be temperamental at the best of times (especially if you’re pairing it with steering wheels or flight sticks and a motion rig!)
 
 ![pimax crystal - motion sim chair front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-front-view.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -298,13 +305,6 @@ Related
 ![pimax crystal product thumb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/pimax-crystal-product-thumb.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Pimax Crystal
 
@@ -329,20 +329,21 @@ Related
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-double-your-watch-time-on-youtube-with-these-tips/"><u>[New] In 2024, Double Your Watch Time on YouTube with These Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elite-4k-recording-units-our-favorites-of-18/"><u>[Updated] In 2024, Elite 4K Recording Units Our Favorites of 18</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-quick-start-guide-recording-your-pcs-display-with-hp/"><u>2024 Approved Quick Start Guide Recording Your PC's Display with HP</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-huawei-p3-my-continuous-admiration-revealed/"><u>Comprehensive Review of the Huawei P3ˈ: My Continuous Admiration Revealed</u></a></li>
-<li><a href="https://games-able.techidaily.com/correcting-invalid-transaction-messages-from-ps5/"><u>Correcting Invalid Transaction Messages From PS5</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/microsoft-and-blizzard-union-a-boon-or-bane-to-players/"><u>Microsoft & Blizzard Union - A Boon or Bane to Players?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-iphones-roblox-resource-allocation-issue/"><u>Navigating Through iPhone's Roblox Resource Allocation Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-your-steam-display-problems-a-step-by-step-guide-to-fixing-the-black-screen-of-death-in-2024-ways/"><u>Overcome Your Steam Display Problems: A Step-by-Step Guide to Fixing the Black Screen of Death in 202#4 Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/pastimeportal-mini-classic-games-in-a-snack/"><u>PastimePortal Mini: Classic Games in a Snack</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-major-system-integrity-issues-in-windows-11/"><u>Resolved: Major System Integrity Issues in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-how-to-fix-crashes-in-squadrons-troubleshooting-guide/"><u>STAR WARS: How to Fix Crashes in Squadrons - Troubleshooting Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-unreachable-friends-in-steam-software/"><u>Troubleshooting Unreachable Friends in Steam Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-power-of-virtual-reality-learn-to-stream-and-play-games-with-steam-and-meta-quest/"><u>Unlock the Power of Virtual Reality - Learn to Stream and Play Games with Steam & Meta Quest</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/web-nef-movavi/"><u>WEB용 비용 없이 NEF 장인화를 구성하는 방법 - Movavi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-convert-instagram-videos-into-audio-clips-mp3-for-2024/"><u>[Updated] Convert Instagram Videos Into Audio Clips (MP3) for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-art-of-masterful-job-interview-execution/"><u>[Updated] Unveiling the Art of Masterful Job Interview Execution</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ssdcfd-ssd/"><u>古いSSDから新しいCFD SSDへ容易なコピー:ステップバイステップガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-multiplatform-gaming-between-ps5-and-ps4/"><u>Exploring Multiplatform Gaming Between PS5 & PS4?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y100i?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-edge-40-neo-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Edge 40 Neo Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-spark-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Spark 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-motorola-razr-40-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Motorola Razr 40 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/remediation-of-roblox-code-262-disruption/"><u>Remediation of Roblox: Code 262 Disruption</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-sheet-on-mining-maps-fetch-and-fit/"><u>The Complete Sheet on Mining Maps: Fetch & Fit</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-top-11-free-word-game-apps/"><u>The Ultimate Guide to Top 11 Free Word Game Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-smoothly-into-bg3-gaming-via-apples-crossover-software/"><u>Transition Smoothly Into BG3 Gaming via Apple's Crossover Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-returns-reversing-video-game-purchases-xsx/"><u>Understanding Returns: Reversing Video Game Purchases, XS/X</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-cataloging-mastery-perfecting-playlists-on-youtube-platform/"><u>Video Cataloging Mastery Perfecting Playlists on YouTube Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/wheel-controlled-games-versus-screen-based-racing/"><u>Wheel-Controlled Games Versus Screen-Based Racing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Possibilities of PS4 Games on PS5
-date: 2024-10-17T17:46:20.059Z
-updated: 2024-10-24T20:42:48.795Z
+date: 2024-10-26T04:33:22.647Z
+updated: 2024-10-31T00:51:58.855Z
 tags:
   - games
 categories:
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
  Whether you still have your old collection of games or you’re wondering how to go about re-downloading and playing them on your new PS5, you’ve come to the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can I Play PS4 Games on My PS5?
 
  If you have been wondering[if the PS5 is backward compatible](https://www.makeuseof.com/is-ps5-backward-compatible/) , the short answer is, yes. For the most part, you can play most of your old PS4 games on your PS5\. Some even offer free or discounted upgrades to the PS5 version to make your PS4 games better than they ever were before.
@@ -58,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 ### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
 
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
 
@@ -82,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
  Once you have enough space, the data will resume copying onto your PS5.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Download PS4 Games Onto Your PS5
 
  If you prefer saving space on your bookshelf and opting for digital versions of games, you likely have a large library of digital PS4 titles from before you upgraded to the PS5\. These games can be downloaded and played on your new console.
@@ -89,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 ![Switch User menu on a PS5 with Add User highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/switch-user-menu-on-a-ps5-with-add-user-highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The first step is to make sure that you are signed into the same PS Account you used to purchase your digital PS4 titles. All the digital games you purchase are linked to the PS Account that you acquired them on.
@@ -108,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 ![Download PS4 Games onto PS5 via PS Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/download-ps4-games-onto-ps5-via-ps-account-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
@@ -128,31 +121,38 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are the PS5 Upgrades Worth It?
 
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
 
 ![PS4 and PS5 version of Marvel Spider Man Remastered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps4-and-ps5-version-of-marvel-spider-man-remastered.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Although the graphics and lighting effects in the PS5 version of Marvel's Spider-Man Remastered are dramatically improved, the PS4 version already looks great.
 
@@ -175,16 +175,18 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-empower-your-filmmaking-skills-using-phone-cameras-for-recording/"><u>[New] Empower Your Filmmaking Skills Using Phone Cameras for Recording</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-envision-vr-today-a-practical-guide-for-smartphone-users/"><u>[New] In 2024, Envision VR Today A Practical Guide for Smartphone Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-10-fb-video-downloader-tools-firefox-compatible/"><u>[Updated] 2024 Approved Top 10 FB Video Downloader Tools, Firefox Compatible</u></a></li>
-<li><a href="https://win11.techidaily.com/black-friday-brilliance-essential-keys-collectors-year-round-windows-11-savings/"><u>Black Friday Brilliance: Essential Keys Collectors, Year-Round Windows 11 Savings</u></a></li>
-<li><a href="https://games-able.techidaily.com/easily-outsmart-xbox-game-pass-cost-climb-temporarily/"><u>Easily Outsmart Xbox Game Pass Cost Climb, Temporarily</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-on-the-go-nintendos-new-era/"><u>Gaming on the Go, Nintendo's New Era?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-paying-players-for-dev-work-may-backfire-long-term/"><u>How Paying Players for Dev Work May Backfire Long Term</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-time-for-graphics-cards-to-get-more-expensive/"><u>Is It Time for Graphics Cards to Get More Expensive?</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-joy-con-jitter-on-xbox-one/"><u>Overcoming Joy-Con Jitter on Xbox One</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fortnite-microphone-issues-solutions-and-fixes/"><u>Troubleshooting Fortnite Microphone Issues: Solutions & Fixes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-8-free-video-conferencing-software-for-windows-and-mac/"><u>[New] In 2024, 8 Free Video Conferencing Software for Windows and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-streaming-quality-comparison-obs-or-fraps-in-2024/"><u>[Updated] Streaming Quality Comparison OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ais-double-edged-sword-in-software-development/"><u>AI's Double-Edged Sword in Software Development</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-updates-for-amd-radeon-rx-graphics-cards-with-ease/"><u>Download & Install Updates for AMD Radeon RX Graphics Cards With Ease</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exploring-high-performance-pcs-with-toms-technology-insights/"><u>Exploring High-Performance PCs with Tom's Technology Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-elevating-sound-awareness-for-peak-performance-in-valorant/"><u>HRTF: Elevating Sound Awareness for Peak Performance in Valorant</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>Lunar Luster Online A Curated List of HDR Sky Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-a-499-gateway-to-simulated-speed-and-precision/"><u>MOZA R5: A $499 Gateway to Simulated Speed and Precision</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-oppo-a1-5g-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Oppo A1 5G has been deleted</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-remote-gaming-with-steam/"><u>The Essential Guide to Remote Gaming with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-spectacular-world-of-google-play-pass-and-a-minor-glitch/"><u>The Spectacular World of Google Play Pass and a Minor Glitch</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-games-like-ghost-of-tsushima-for-2024/"><u>Top 10 Games Like Ghost of Tsushima for 2024</u></a></li>
 </ul></div>
 

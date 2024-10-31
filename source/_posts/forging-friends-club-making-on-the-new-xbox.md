@@ -1,7 +1,7 @@
 ---
 title: "Forging Friends: Club Making on the New Xbox"
-date: 2024-09-14T16:25:20.615Z
-updated: 2024-09-15T16:55:53.333Z
+date: 2024-10-27T00:41:51.539Z
+updated: 2024-10-30T21:20:40.100Z
 tags:
   - games
 categories:
@@ -39,9 +39,25 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 2. Scroll to the right until you reach the**People** tab.  
 ![People Tab of Xbox Home Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/people-tab-of-xbox-home-menu.jpg)
 3. Select**Friends & Community Updates** .
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Clubs on Xbox** and press**Create a Club** .  
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
 7. Select**Create club** once you’ve made your choices.
@@ -52,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
 
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
 
@@ -68,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 Your Club will now be deleted.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Share Your Love of Gaming With Others
@@ -99,5 +116,26 @@ Your Club will now be deleted.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-studio-walkthrough-xstudio-reviewed/"><u>[New] Expert Studio Walkthrough XStudio Reviewed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-comedy-cornucopia-twitters-best/"><u>2024 Approved Comedy Cornucopia Twitter's Best</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accentuate-your-english-with-british-vernacular/"><u>Accentuate Your English with British Vernacular</u></a></li>
+<li><a href="https://games-able.techidaily.com/draw-your-way-through-rhythm-challenges/"><u>Draw Your Way Through Rhythm Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-twitch-video-downloader-tools-5-10/"><u>Essential Twitch Video Downloader Tools: #5-10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expertise-acquiring-the-best-unboxing-tunes-and-melodies/"><u>Expertise Acquiring the Best Unboxing Tunes and Melodies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-ricoh-mp-c3003-printer-up-and-running-with-newly-updated-drivers/"><u>Get Your Ricoh MP C3003 Printer Up and Running with Newly Updated Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-customize-the-vrr-on-your-xbox-series-xs/"><u>How to Customize the VRR on Your Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-roblox-low-memory-warning-on-your-iphone/"><u>How to Fix the Roblox Low Memory Warning on Your iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-gt-5-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme GT 5 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-quickly-quicken-recognition-with-these-disco-tags/"><u>In 2024, Quickly Quicken Recognition with These Disco Tags</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-resolving-robloxs-error-403-on-computers/"><u>In-Depth Analysis: Resolving Roblox’s Error 403 on Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-stillness-stop-console-jerkiness/"><u>Mastering Stillness: Stop Console Jerkiness</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-expense-required-remove-coffee-stains-from-iphone-photos-for-2024/"><u>No Expense Required Remove Coffee Stains From iPhone Photos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ready-set-enhance-your-steam-deck-with-essential-accessories/"><u>Ready, Set, Enhance! Your Steam Deck with Essential Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-gaming-integrating-buttons-into-android/"><u>Reimagine Gaming: Integrating Buttons Into Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-picking-perfect-oled-display-dont-follow-my-errors/"><u>The Art of Picking Perfect OLED Display: Don't Follow My Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-teslas-robotic-future-breaking-stories-theoretical-costs-release-calendar-and-technical-specifications/"><u>Unveiling Tesla's Robotic Future: Breaking Stories, Theoretical Costs, Release Calendar, and Technical Specifications</u></a></li>
+</ul></div>
 

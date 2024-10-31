@@ -1,7 +1,7 @@
 ---
 title: The Essential Guide to Remote Gaming with Steam
-date: 2024-09-08T16:05:46.298Z
-updated: 2024-09-15T16:12:44.786Z
+date: 2024-10-28T21:32:25.430Z
+updated: 2024-10-30T19:24:22.549Z
 tags:
   - games
 categories:
@@ -39,9 +39,29 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![Adding new Steam Library Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-new-steam-library-folder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t want to put the folder in the outermost layer, you can click**Let me choose another location** instead. Choose your external drive and click the location you want it to go to.
 
  You can install Steam games directly on your external drive once you've added a Steam Library folder into it. Although, we only suggest this if the game isn't already in your internal drives as the existing files will interfere. If the game exists in your internal drives, figure out how to move it to your external drive below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Move Your Steam Games to Your External Drive
 
@@ -65,25 +85,11 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
  The \\common folder is where your games are stored. Simply select and copy the games and paste them into the same \\common folder on your external drive.
 
  However, copying the games instead of moving them won’t show up on Steam immediately when adding the drive to the new PC. Getting those games to show up will require extra steps that we will show you in the next section.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Play Steam Games From an External Drive
 
@@ -91,9 +97,23 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![Added external drive on other system on Steam storage manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/added-external-drive-on-other-system-on-steam-storage-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open up the Steam Storage Manager, and add the external drive to the destination PC as we showed you above. Once it’s added, you’ll see the games that you moved to your external drive using the Steam Storage Manager. You’ll be able to play those games immediately as if they were on your local drives.
 
 ![Validating Steam game on external drive by installing it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/validating-steam-game-by-installing-it.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Copy-pasting Steam games on your external hard drive will require validation. To do this, simply click**Install** on the game you pasted to the external drive on Steam, making sure to select the external drive, and it will go through the validation process.
 
@@ -120,5 +140,24 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-recording-tech-evaluation-blueprint/"><u>[New] 2024 Approved Recording Tech Evaluation Blueprint</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-spots-for-virtual-reality-experiences/"><u>[New] Top Spots for Virtual Reality Experiences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-background-beats-guide-tunes-for-visuals/"><u>[Updated] Background Beats Guide Tunes for Visuals</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-engage-your-ps5-console-6-ways/"><u>Effortlessly Engage Your PS5 Console (6 Ways)</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-gpus-competing-with-4060-ti/"><u>High Performance GPUs Competing With 4060 Ti</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>In 2024, Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-radio-dramas-peak-of-creative-scripting/"><u>In 2024, Radio Dramas Peak of Creative Scripting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-xp-pen-driver-installation-a-step-by-step-tutorial/"><u>Mastering XP-Pen Driver Installation: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-to-windows-photos-for-retro-game-files/"><u>Navigate to Windows Photos for Retro Game Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-ps5-shortage-predictions-on-future-pricing-trends/"><u>Overcoming PS5 Shortage: Predictions on Future Pricing Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-recital-pointer-or-pen-provenance/"><u>Rhythm Recital: Pointer or Pen Provenance?</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-fps-mod-how-does-it-operate/"><u>Roblox FPS Mod: How Does It Operate?</u></a></li>
+<li><a href="https://games-able.techidaily.com/slash-price-boost-performance-with-quality-monitors/"><u>Slash Price, Boost Performance with Quality Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-cooling-gadgets-that-save-your-game/"><u>Steam Deck Cooling: Gadgets That Save Your Game</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-utilizing-windows-11s-detailed-battery-analysis-tool/"><u>The Ultimate Guide to Utilizing Windows 11'S Detailed Battery Analysis Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-absence-win-error-due-to-missing-mfc71udll/"><u>Troubleshooting Absence: Win Error Due to Missing Mfc71u.dll</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-best-of-the-rest-top-premiere-rush-alternatives/"><u>Updated In 2024, The Best of the Rest Top Premiere Rush Alternatives</u></a></li>
+</ul></div>
 

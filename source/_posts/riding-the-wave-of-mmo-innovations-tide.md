@@ -1,7 +1,7 @@
 ---
 title: Riding the Wave of MMO Innovation's Tide
-date: 2024-09-08T16:45:34.084Z
-updated: 2024-09-15T16:42:57.690Z
+date: 2024-10-26T03:08:26.947Z
+updated: 2024-10-31T00:43:03.962Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
 ![Flat screen monitors with a keyboard and mouse on a desk lit up by LED lights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/pc-gaming-setup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While all games are built with the core goal of being a fun time, they are not all built for the same type of player. MMO games differ from other games by offering a massive amount of content in a vast world, with the underpinning of making the world a social experience that, while occasionally necessary, isn't mandatory to you completing the game's quests. You can be an outsider that solos dungeon bosses and random street-side mobs. You can join a guild of other players and go raiding with them every Friday night to share in high-level loot.
 
 MMOs allow you to play as:
@@ -52,6 +59,13 @@ MMOs allow you to play as:
 
  Finally, some players want to feel a sense of longevity and progress with the games they choose to play. A game like NBA or Call of Duty would have their progress essentially wiped year-on-year if they wanted to keep up with the latest titles. On an MMO, you can commit to playing on one account for the next 10–20 years at least, usually. MMOs tend to be constantly-evolving games that require a commitment, a bit of buy-in from you and other players. That speaks to certain gamers, while others find it too intense.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The History of MMO Games
 
 ![Old School Runescape running on the RuneLite app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-school-runescape.jpg)
@@ -62,22 +76,15 @@ MMOs allow you to play as:
 
  By the 2000s, MMOs like World of Warcraft, RuneScape, and Lord of the Rings Online were all popular choices, amassing pretty impressive player bases. In the 2010s, you'd have seen titles like Star Wars: The Old Republic, Black Desert, and The Elder Scrolls Online. The fluctuating popularity of MMOs has clearly not prevented new titles from being released, though the peak of World of Warcraft and similar titles in the early 21st century seems unlikely to be repeated.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## State of Play: The Modern MMO
 
 ![Data about New World on the Steam Charts website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/steamcharts-new-world.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Battle royale and FPS have arguably been the most prominent genres in gaming for quite some time, which has led to an[MMO drought from developers](https://www.makeuseof.com/what-is-mmo-drought/) . It is unsurprising that the masses of gamers cannot offer the level of commitment necessary to play an MMO properly. Even if they could, the MMO then has the difficult task of offering enough content to sustain their attention.
@@ -85,6 +92,13 @@ MMOs allow you to play as:
  Despite the fluctuating popularity of MMOs since their peak in the aughts, a dedicated player base remains. As does excitement—relatively recent MMOs such as Lost Ark and New World have proven that the demand is there for a decent, fresh MMO experience. Both titles have had peaks of over one million concurrent active players, despite issues at launch and bugs.
 
  Players will flock to an MMO if it is well-developed, rich in content and environment, and offering something new. However, it is reasonable to say that MMOs are unlikely to ever become a genre for the masses since they tend to attract the more hardcore gamers that are willing to offer a higher level of commitment to the experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MMOs Are a Great Genre
 
@@ -105,5 +119,21 @@ MMOs allow you to play as:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-into-the-fray-with-polaroid-cubeplus-action-recorder/"><u>[New] Into the Fray with Polaroid Cube+ Action Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-mac-screen-capture-software/"><u>[Updated] 2024 Approved The Ultimate List of Mac Screen Capture Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-commandment-picking-a-champion-between-chips/"><u>Console Commandment: Picking a Champion Between Chips</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-curing-slow-gpsvc-on-pcs/"><u>Decoding and Curing Slow GPSVC on PCs</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/effective-strategies-to-secure-your-pc-against-cyber-threats-hackers-and-viruses/"><u>Effective Strategies to Secure Your PC Against Cyber Threats: Hackers & Viruses</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-c55-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme C55 to Another | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a15-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A15 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-here-are-some-of-the-best-free-online-glitch-effect-generators-you-can-use-to-edit-photos-and-videos/"><u>New In 2024, Here Are some of the Best Free Online Glitch Effect Generators You Can Use to Edit Photos and Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-restart-your-playstation-4-console/"><u>The Essential Guide to Restart Your PlayStation 4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gaming-tickets-google-play-game-betas-pc-winners/"><u>Top Gaming Tickets: Google Play Game Beta's PC Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/twin-strategies-for-top-notch-tetris-mobile-battles/"><u>Twin Strategies for Top-Notch Tetris Mobile Battles</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-essence-of-idle-status-in-online-chats/"><u>Uncovering the Essence of Idle Status in Online Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-xbox-content-on-discord-servers/"><u>Unleashing Xbox Content on Discord Servers</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-smoother-gameplay-strategies-for-boosting-fps-in-tainted-grail-conquest/"><u>Unlocking Smoother Gameplay: Strategies for Boosting FPS in 'Tainted Grail: Conquest'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fan the Flames of Football Management: Winning Soccer Coaching, Free"
-date: 2024-09-13T16:05:57.547Z
-updated: 2024-09-15T17:02:38.142Z
+date: 2024-10-23T22:50:47.516Z
+updated: 2024-10-31T03:33:34.280Z
 tags:
   - games
 categories:
@@ -55,19 +55,20 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 2. Right-click the**CM0102.iso** file to select**Open** .  
 ![The Open option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-open-option.jpg)
 3. Then select a suitable letter for your virtual drive on the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Mount a disc image window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mount-a-disc-image-window.jpg)
 4. Select**OK** to mount the ISO file.
 
 ![The virtual drive for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-virtual-cd-drive.jpg)
 
  You should now see a new virtual CD drive within File Explorer. Click**This PC** in Explorer’s sidebar to view drives there. There you’ll see a CM0102 CD drive with the letter you selected for it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install Championship Manager 01/02 With Its Setup Wizard
 
@@ -77,12 +78,28 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 2. Then double-click the**Setup.exe** installer for Championship Manager 01/02.  
 ![The Setup.exe file for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-setup-exe-file.jpg)
 3. Select**English** and click**OK** on the**Choose Setup Language** drop-down menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Yes** to continue within the setup screen.
 5. Select**Browse** to choose an installation directory for the game and click**Next** again.  
 ![The Browse option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-browse-option.jpg)
 6. The**Typical** setup option will be selected by default. Click**Next** to continue with that option selected.  
 ![The Typical option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-typical-option.jpg)
 7. Select**Next** again to install Championship Manager 01/02.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Yes** when asked about creating a Championship Manager 01/02 desktop shortcut.
 9. Select**Finish** to leave the setup screen.
 
@@ -90,13 +107,20 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![The Championship Manager 01/02 title screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/championship-manager-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press the**Start New Game** button to select the countries to include in your game. Input your manager’s name and select a nationality. Then choose a club team to manage in one of the countries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Your Soccer Management Career in Championship Manager 01/02
@@ -116,5 +140,24 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>[Updated] Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-get-watermark-free-stock-photos/"><u>[Updated] In 2024, How to Get Watermark-Free Stock Photos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-smooth-integration-of-timestamps-into-desktopmobile-youtube-videos/"><u>2024 Approved Smooth Integration of Timestamps Into Desktop/Mobile YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-information-how-to-start-using-google-play-games-on-pc/"><u>Essential Information: How to Start Using Google Play Games on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-insights-reasons-to-skip-hdr-setups-for-gamers/"><u>Essential Insights: Reasons to Skip HDR Setups for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-fit-of-older-docks-for-the-new-nintendo-switch/"><u>Evaluating The Fit of Older Docks for the New Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-best-9-choices-of-steam-deck-emulators/"><u>Explore the Best: 9 Choices of Steam Deck Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-misunderstandings-about-gamefi-and-real-players/"><u>Five Misunderstandings About GameFi and Real Players</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-backup-and-recover-your-android-phones-call-history/"><u>How to Backup & Recover Your Android Phone's Call History</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfect-bgms-and-images-elevating-remote-conferencing-for-2024/"><u>Perfect BGMs & Images Elevating Remote Conferencing for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/purchase-your-new-ar-laptop-featuring-a-giant-100-inch-screen-say-goodbye-to-external-monitors/"><u>Purchase Your New AR Laptop Featuring a Giant 100-Inch Screen: Say Goodbye to External Monitors!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reimagining-the-job-landscape-with-ai-unveiling-7-key-changes-powered-by-generative-technologies/"><u>Reimagining the Job Landscape with AI: Unveiling 7 Key Changes Powered by Generative Technologies</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-your-childs-play-ps5-best-practices/"><u>Securing Your Child's Play: PS5 Best Practices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-virtual-exploration-a-tactical-approach/"><u>The Art of Virtual Exploration A Tactical Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ps3-emulators-for-your-pc/"><u>The Best PS3 Emulators for Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-to-rtx-a-must-or-not/"><u>Transitioning to RTX: A Must or Not?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-yielding-the-manual-to-merging-media-with-moolah-for-2024/"><u>YouTube Yielding The Manual to Merging Media with Moolah for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hardware Harmony: Choosing Between DirectX 11 & 12"
-date: 2024-09-10T16:28:18.023Z
-updated: 2024-09-15T16:38:42.184Z
+date: 2024-10-29T22:39:03.393Z
+updated: 2024-10-30T17:48:19.543Z
 tags:
   - games
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
@@ -62,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DX 11 vs. DX 12: Which Should You Choose?
@@ -75,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
@@ -90,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  The results are surprising in many ways, with little visual difference at times between DX 11 and DX 12, despite the multiple years of difference between their launches. You may have also noted the differences in GPU and CPU loads between both DirectX versions, with the DX 12 versions of each game typically requiring fewer resources than the older DX 11.
 
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
 
@@ -108,5 +122,23 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-eye-opening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>[New] 2024 Approved Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-channel-discoveries-in-asmr-for-2024/"><u>[New] Best Channel Discoveries in ASMR for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-info-on-crafting-engaging-yt-shorts-for-2024/"><u>[New] Essential Info on Crafting Engaging YT Shorts for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-behind-the-scenes-how-to-flip-your-snaps/"><u>[Updated] In 2024, Behind-the-Scenes How to Flip Your Snaps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visual-wonders-the-10-list-of-exceptional-4k-for-macs/"><u>[Updated] In 2024, Visual Wonders The #10 List of Exceptional 4K for Macs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-and-its-impact-on-future-game-development/"><u>Helldivers 2 and Its Impact on Future Game Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-hoard-and-handhold-jolly-rogers-of-java/"><u>How to Hoard & Handhold Jolly Rogers of Java</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-the-passion-expand-on-the-fallout-series/"><u>Ignite the Passion: Expand on The Fallout Series</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-merit-to-in-game-purchases-in-premiums/"><u>Is There Merit to In-Game Purchases in Premiums?</u></a></li>
+<li><a href="https://games-able.techidaily.com/outstanding-pick-elite-xbox-game-capture-systems/"><u>Outstanding Pick: Elite Xbox Game Capture Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/revel-in-richness-of-ranks-the-top-25-instagram-titans-unveiled-for-2024/"><u>Revel in Richness of Ranks The Top 25 Instagram Titans Unveiled for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/stalled-games-not-good-days-manually-extracting-from-sx/"><u>Stalled Games, Not Good Days: Manually Extracting From SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-shell-protectors/"><u>Understanding Xbox Shell Protectors</u></a></li>
+</ul></div>
 

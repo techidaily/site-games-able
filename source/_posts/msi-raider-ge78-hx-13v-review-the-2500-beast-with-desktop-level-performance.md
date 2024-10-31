@@ -1,7 +1,7 @@
 ---
 title: "MSI Raider GE78 HX 13V Review: The $2500 Beast With Desktop-Level Performance"
-date: 2024-09-12T16:04:02.079Z
-updated: 2024-09-15T16:49:02.665Z
+date: 2024-10-28T20:54:51.511Z
+updated: 2024-10-30T17:14:19.742Z
 tags:
   - games
 categories:
@@ -171,6 +171,13 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Rear Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-rear-angle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  The hinges that hold the display are now larger and firmer, although there's a peculiar grill-like cutout below the display's lower bezel that doesn't appear to serve any purpose. Some might find these design elements a bit forced, reminiscent of cars with unnecessary chrome or faux hood scoops.
@@ -183,24 +190,31 @@ Physical Webcam cover
 
  With its front LED bar, unique design elements, and lifted rear end, this laptop has a somewhat fragmented feel, but it's still solidly built. Whether you love its aesthetic or find it a bit over-the-top, it's impossible to ignore.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Connectivity
 
  The Raider is equipped with the latest with Killer Wi-Fi 6E AX1690i, Bluetooth 5.3, and offers a solid selection of ports. The right side includes a pair of USB 3.2 Gen 2 Type-A ports and a USB 3.2 Gen 2 Type-C port.
 
 ![MSI Raider GE78 HX - Right Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-right-side.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  On the left side, you'll find a Thunderbolt 4 port, an SD card slot, and a 3.5 mm headphone jack.
 
 ![MSI Raider GE78 HX - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-left-side.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Paul Antill / MakeUseOf
 
@@ -209,6 +223,13 @@ Physical Webcam cover
 ![MSI Raider GE78 HX - Rear Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-rear-ports.jpg)
 
  Paul Antill / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Display
 
@@ -228,6 +249,13 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Keyboard Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-keyboard-deck.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Paul Antill / MakeUseOf
 
  The keyboard customization options are rich, with per-key control and effects via the Steelseries software. The glass trackpad is large and provides a smooth, responsive experience with non-clunky clicks. Unlike its last year's predecessor, MSI has moved the trackpad back to the center, rather than off to the left side, which I found a bit awkward.
@@ -236,14 +264,14 @@ Physical Webcam cover
 
 ![MSI Raider GE78 HX - Trackpad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-trackpad.jpg)
 
- Paul Antill / MakeUseOf
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Paul Antill / MakeUseOf
 
 ## Performance
 
@@ -275,6 +303,13 @@ Physical Webcam cover
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance Benchmarks
 
  The MSI Raider GE78 HX 13V outperforms our previous laptop leader, the MSI Stealth 16 Studio, equipped with an Intel i9-13900H, Nvidia RTX 4070, and 64GB of RAM, in Cinebench R23 and Pugent Davinci Resolve rendering tests by about 30%. While the Stealth 16 Studio is an excellent choice for content creators, those who prioritize performance over portability can opt for the beefier GE78 HX 13V and even save more money.
@@ -284,13 +319,6 @@ Close
 Close
 
  The only concern we can share is with its unplugged performance. In Cinebench R23 our scores dropped to 7733, marking a 70% performance drop, despite still being in MSI's highest power mode. This isn't uncommon for MSI's more powerful laptops, though we have seen options like the Razer Blade 17, which manage not to take as big of a hit when running unplugged tests.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Incredible Value
 
@@ -303,20 +331,13 @@ Close
 ![MSI Raider GE78 HX - Front Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/msi-raider-ge78-hx-front-angle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### MSI Raider GE78 HX
 
@@ -341,5 +362,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ownload-free-mcb-logo-templates/"><u>[New] Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-15-best-ideas-to-post-on-snapchat-for-2024/"><u>[Updated] 15 Best Ideas To Post On Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-play-facebook-videos-on-tv/"><u>[Updated] How To Play Facebook Videos on TV?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ice-and-elegance-the-2022-winter-olympics-in-china/"><u>2024 Approved Ice & Elegance The 2022 Winter Olympics in China</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metaviews-analyzing-6-in-depth-metaverse-scenarios/"><u>2024 Approved Metaviews Analyzing 6 In-Depth Metaverse Scenarios</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-joy-in-play-the-appeal-of-netflix-games/"><u>Discover Joy in Play: The Appeal of Netflix Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulating-xbox-games-a-pc-experience-via-xemu/"><u>Emulating Xbox Games: A PC Experience via Xemu</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-5740-drivers-download-for-windows-11108/"><u>HP OfficeJet 5740 Drivers Download for Windows 11/10/8</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-revolutionize-earning-with-youtube-short-tactics/"><u>In 2024, Revolutionize Earning with Youtube Short Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-login-lags-rust-edition-tips/"><u>Overcoming Steam Login Lags: Rust Edition Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fire-virtual-adventures-await-you-here/"><u>Quick-Fire Virtual Adventures Await You Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-your-ps4-wi-fi-woes-top-8-tricks-and-solutions/"><u>Solve Your PS4 Wi-Fi Woes: Top 8 Tricks & Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gaming-consoles-transformation-ps5-reviewed/"><u>The Gaming Console's Transformation: PS5 Reviewed</u></a></li>
+</ul></div>
 

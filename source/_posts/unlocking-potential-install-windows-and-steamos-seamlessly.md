@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Install Windows & SteamOS Seamlessly"
-date: 2024-10-22T02:54:12.568Z
-updated: 2024-10-25T03:41:05.320Z
+date: 2024-10-27T00:33:51.889Z
+updated: 2024-10-30T22:41:07.430Z
 tags:
   - games
 categories:
@@ -50,18 +50,18 @@ Jhet Borja / MakeUseOf
 
 ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  Valve states that the Steam Deck is perfectly capable of dual booting, so you'll have no problems having two or more OSes on your Steam Deck.
 
  However, Valve is yet to release the official dual boot wizard that's expected to ship with SteamOS 3.0 (according to the [Steam website](http://help.steampowered.com/en/faqs/view/6121-ECCD-D643-BAA8)), meaning you will have to choose your OS through the boot manager.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Dual Boot Your Steam Deck
 
@@ -71,6 +71,13 @@ Jhet Borja/MUO
 
 ![Volume down and power button to enter Steam Deck boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/volume-down-and-power-button-to-enter-steam-deck-boot-manager.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  With your Steam Deck shut off, hold down the volume down button and the power button until you hear a chime. When you hear the chime, let go of the power button but keep holding down the volume down button until the boot manager pops up.
@@ -78,6 +85,13 @@ Jhet Borja/MUO
  The boot manager lets you choose your boot options—in this case Windows and SteamOS on the same SSD in different partitions. If you use an SD card, you can select the SD card if it has Windows installed on it.
 
 ![SteamOS in boot manager again](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steamos-in-boot-manager-again.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you hold down the power button after the chime, you will most likely end up shutting your Steam Deck down again, so make sure to let go after the chime.
 
@@ -126,6 +140,13 @@ Jhet Borja/MUO
 
 ![First two Konsole commands for Clover Dual Boot Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/first-two-konsole-commands-for-clover-dual-boot-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  By this point, we suggest having a browser open on your Steam Deck so that you can individually copy and paste these commands one by one on your Steam Deck.
 
 1. cd ~/
@@ -135,6 +156,13 @@ Jhet Borja/MUO
 5. ./install-Clover.sh
 
 ![Clover successfully installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/clover-successfully-installed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the last command, you’ll have to enter your sudo password to start installing Clover on your Steam Deck.
 
@@ -151,10 +179,10 @@ Jhet Borja / MakeUseOf
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You Can’t Find SteamOS in the Boot Manager
@@ -173,6 +201,13 @@ Jhet Borja/MUO
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  To put SteamOS back on the boot manager, open up Konsole in desktop mode on your Steam Deck and enter this:
@@ -181,25 +216,11 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
 
 ### 2\. Setting a Sudo Password
 
 ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -215,27 +236,20 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Run CloverWindows.bat as administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-cloverwindows-bat-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Extract the ZIP file into a folder and right-click **CloverWindows.bat** to **Run it as administrator**. It will tell you that Windows doesn’t recognize the app, just click **More Info > Run Anyway**.
 
 ![Windows protected your PC from CloverWindows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-protected-your-pc-from-cloverwindows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will open up the Command Prompt. Once it’s done installing, just hit Enter.
 
 ![Properties on CloverTask in Task Scheduler Library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/properties-on-clovertask-in-task-scheduler-library.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, you’ll have to open up Task Scheduler by searching it on Windows Search. In **Task Scheduler Library** search for **CloverTask**. Right-click on it and click **Properties**.
 
@@ -246,13 +260,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 ![Run on CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-on-clovertask-in-task-scheduler.jpg)
 
  Finally, right-click CloverTask once again and click **Run**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. A SteamOS or Windows Update Broke Clover Dual Boot
 
@@ -265,13 +272,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
  Once you’re in the BIOS, select **Boot from file > eps > efi > steamos > steamcl.efi**. This will open up SteamOS and fix Clover.
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -292,16 +292,15 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-framing-your-story-with-effective-titles/"><u>[New] Framing Your Story with Effective Titles</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tech-tackling-dxgkrnlsys-win-error/"><u>[Tech] Tackling dxgkrnl.sys Win Error</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-dj-iq-upgrade-two-drone-brands-now-offer-free-lut-sets/"><u>[Updated] In 2024, DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets</u></a></li>
-<li><a href="https://win-superb.techidaily.com/convert-and-download-tracks-from-mp3ru-in-various-formats-for-pc-and-mac-users/"><u>Convert and Download Tracks From MP3.RU in Various Formats for PC & Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-stream-game-expertly-curated-list-for-twitchs-ai-allies/"><u>Elevate Your Stream Game - Expertly Curated List for Twitch's AI Allies</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-visual-appeal-opt-for-expansive-cabinet-panels/"><u>Enhance Visual Appeal: Opt for Expansive Cabinet Panels</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellence-in-achievement-top-3-online-gamercentric-websites/"><u>Excellence in Achievement: Top 3 Online Gamercentric Websites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/explore-cool-features-top-5-cmd-tricks-revealed/"><u>Explore Cool Features: Top 5 Cmd Tricks Revealed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-android-performance-stopping-unwanted-apps-from-running-in-the-background/"><u>Mastering Android Performance: Stopping Unwanted Apps From Running in the Background</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/precision-and-panache-advanced-tiktok-editing-skills-for-2024/"><u>Precision and Panache Advanced TikTok Editing Skills for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-prevent-steam-auto-launch/"><u>Steps to Prevent Steam Auto-Launch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-thriving-online-a-strategy-guide-for-building-youtube-links/"><u>[New] 2024 Approved Thriving Online A Strategy Guide for Building YouTube Links</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-innovative-approach-to-secure-and-quality-vimeo-recording/"><u>2024 Approved Innovative Approach to Secure & Quality Vimeo Recording</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-new-wins-for-windows-11-users/"><u>2024 Approved New Wins for Windows 11 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-success-lessons-from-helldivers-2/"><u>Decoding Success: Lessons From Helldivers 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-engagements-mastering-frames-for-winning-counter-strike/"><u>Efficient Engagements: Mastering Frames for Winning Counter-Strike</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-minecraft-mojang-error-5-a-comprehensive-guide/"><u>How to Solve Minecraft Mojang Error 5: A Comprehensive Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-x50iplus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor X50i+ Phones with/without a PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-clash-with-edge-for-top-gaming-browser-ranking/"><u>Opera GX Clash with Edge for Top Gaming Browser Ranking</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-cloud-problem-a-fix-guide/"><u>Steam Deck's Cloud Problem: A Fix Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/windows-11-cinema-download-and-activate-movie-maker-app/"><u>Windows 11 Cinema Download and Activate Movie Maker App</u></a></li>
 </ul></div>
 

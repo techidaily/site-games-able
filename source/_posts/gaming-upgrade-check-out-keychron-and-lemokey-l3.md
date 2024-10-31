@@ -1,7 +1,7 @@
 ---
 title: Gaming Upgrade? Check Out Keychron & Lemokey L3
-date: 2024-09-13T17:12:22.872Z
-updated: 2024-09-15T16:25:58.697Z
+date: 2024-10-25T18:31:21.846Z
+updated: 2024-10-30T21:56:38.186Z
 tags:
   - games
 categories:
@@ -128,11 +128,25 @@ No
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
 
  It's a good range of options, not forgetting that the Lemokey L3 is a hot-swappable keyboard. Hot-swappable means you can replace the keyboard's switches without soldering; they're plug-and-play.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Style and Construction
 
@@ -168,19 +182,6 @@ No
 
  Hannah Stryker / MakeUseOf
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Lemokey L3 Typing Experience
 
  The Lemokey L3 is a dream to type on. I've been sent the Gateron Jupiter Brown switches, which require 55g actuation force, have 2mm pre-travel, and 4mm total travel. You'll bottom out on keypresses, but the overall movement and response of the Jupiter Brown switches are mostly smooth.
@@ -199,6 +200,13 @@ No
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Customization With VIA
 
  Keychron has long used VIA for its desktop customization software. It's free, well-supported by the mechanical keyboard community, and has extensive customization options. However, most folks who use a gaming keyboard will be more familiar with the custom, proprietary software created by the big gaming companies. In comparison, VIA is a little different, lacking the straightforward options and menus found in those other desktop software options.
@@ -209,16 +217,16 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -232,14 +240,14 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
 ##### Lemokey L3
 
@@ -262,5 +270,18 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-visionary-entry-critique-and-dissection/"><u>[New] 2024 Approved Visionary Entry Critique and Dissection</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-archive-adventure-revisiting-classic-facebook/"><u>2024 Approved Archive Adventure Revisiting Classic Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>2024 Approved Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-allies-to-champions-winning-at-two-player-minecraft-on-nintendo-switch/"><u>From Allies to Champions: Winning at Two-Player Minecraft on Nintendo Switch</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-effortless-video-preservation-android-and-ios-solutions/"><u>In 2024, Effortless Video Preservation Android & iOS Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-a6400-screen-blackout-mystery/"><u>In 2024, Sony A6400 Screen Blackout Mystery</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/liberating-your-media-experience-free-movplay-software/"><u>Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-to-windows-photos-for-retro-game-files/"><u>Navigate to Windows Photos for Retro Game Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/regaining-control-unlocking-games-from-windows-steam/"><u>Regaining Control: Unlocking Games From Windows Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-remedy-incomplete-listings-in-the-epic-games-library/"><u>Steps to Remedy Incomplete Listings in the Epic Games Library</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you/"><u>Vimeo vs YouTube vs Dailymotion Which Video Platform Is Right for You?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling Mystery Behind Repeatedly Disconnected PS4 Pad on PC
-date: 2024-09-10T16:27:47.649Z
-updated: 2024-09-15T16:18:06.342Z
+date: 2024-10-24T19:30:58.597Z
+updated: 2024-10-31T00:09:21.583Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
 ## 3\. Rule Out Controller's Range Issues
@@ -45,27 +52,7 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend[running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hard Reset Your Controller
 
@@ -75,20 +62,27 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Update Your Controller's Drivers
 
  When the driver for the PS4 controller misbehaves, it can cause the DS4 to disconnect. You can fix that by learning[how to find and replace outdated drivers on Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) . If you don't know which driver to update, open Device Manager, expand the**Bluetooth** section, and then find the**Wireless Controller** driver.
 
 ![the Wireless Controller in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wireless-controller-in-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you update the driver, check if you can use the controller properly without it disconnecting.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Ensure DS4Windows Is Properly Installed
 
@@ -97,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
 
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Your PlayStation 4 Controller on Windows Without Interruption
 
@@ -115,5 +116,20 @@ thumbnail: https://thmb.techidaily.com/7989d193b701c6c4112afd659656de357f20d61f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-income-trends-in-making-money-on-social-media-for-2024/"><u>[New] Snap Income Trends in Making Money on Social Media for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-closer-look-at-two-trees-sk1-review-accelerated-performance-with-open-source-technology/"><u>A Closer Look at 'Two Trees' SK1 Review: Accelerated Performance with Open Source Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-gaming-worlds-sxs-or-custom-pc/"><u>Exploring Gaming Worlds: SXS or Custom PC?</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-depth-of-beyerdynamic-mmx-200/"><u>Exploring the Depth of Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashback-pocket-retro-gaming-in-your-palm/"><u>FlashBack Pocket: Retro Gaming in Your Palm</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-s24-ultra-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy S24 Ultra Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-se-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone SE without Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-gaming-keys-a-quality-revelation/"><u>Lemokey L3 Gaming Keys: A Quality Revelation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-functionality-restored-22/"><u>Screen Functionality Restored - #22</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-presents-the-perfect-seasonal-video-games/"><u>Steam Presents: The Perfect Seasonal Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-white-components-for-bargain-buyers-dreams/"><u>Ultimate White Components for Bargain Buyers' Dreams</u></a></li>
+</ul></div>
 

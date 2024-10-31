@@ -1,7 +1,7 @@
 ---
 title: Roblox's Error 403 Explained & How to Fix It in Windows
-date: 2024-09-13T16:35:22.043Z
-updated: 2024-09-15T16:55:05.114Z
+date: 2024-10-27T00:07:23.267Z
+updated: 2024-10-31T01:03:20.484Z
 tags:
   - games
 categories:
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first port of call is to visit the[Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
 
  Whenever Roblox servers are under maintenance or facing downtime, you'll encounter various issues, including the one in the discussion. The best thing you can do in this situation is to wait until the servers become operational again.
@@ -73,6 +80,19 @@ That's it. Now restart your computer and check for the issue.
 
  If you use a third-party VPN application, the steps will vary depending on which app you're using. However, they usually have a visible button or option you can click in the main window that turns the VPN off.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run an SFC and DISM Scan
 
  The error can also occur due to corruption in Windows' files. In this situation, you can run an SFC (System File Checker) scan, a Windows inbuilt tool that scans your system for missing or corrupted files and replace them if necessary.
@@ -86,6 +106,13 @@ You can run an SFC scan by following the below steps:
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 5. Wait until the scan is complete. This may take a while, so be patient.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer and then check for the problem. If the issue persists, you will have to run the Deployment Image Servicing and Management command line tool to restore the system files and repair any corrupted system images. Here's how:
 
 1. Launch Command Prompt with admin rights.
@@ -95,31 +122,11 @@ Dism.exe /online /cleanup-image /restorehealth`
 
 After the scan is complete, check for the issue.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Allow Roblox to Run Through Firewall
 
  Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
  After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Switch to Google DNS
 
@@ -135,6 +142,14 @@ After the scan is complete, check for the issue.
 6. Type**8.8.8.8** in the**Preferred DNS server** box and**8.8.4.4** in the**Alternate** **DNS server** box.  
 ![Switching to the Google Public DNS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Public-DNS.jpg)
 7. Click**OK** to save the settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Highlight the**Internet Protocol Version 6 (TCP/IPv6)** and select**Properties.**
 9. Type**2001:4860:4860::8888** in the**Preferred DNS server** box and**2001:4860:4860::8844** in the**Alternate DNS server** box.
 10. Click**OK** to save the IPv6 DNS settings.
@@ -150,28 +165,15 @@ After the scan is complete, check for the issue.
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-option.jpg)
 3. Check the**Full Control** box and then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
 
  Similary, give full control to**HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Play Roblox Without Any Issues
@@ -191,5 +193,23 @@ After the scan is complete, check for the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/oost-your-youtube-output-rapid-video-rendering-and-transfer-for-2024/"><u>[New] Boost Your YouTube Output - Rapid Video Rendering and Transfer for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-picture-perfect-instagram-carousel-for-2024/"><u>[New] Picture-Perfect Instagram Carousel for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-most-impactful-personalities-top-25-edition/"><u>[Updated] 2024 Approved Instagram's Most Impactful Personalities Top 25 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubes-big-five-most-popular-content-creators/"><u>[Updated] YouTube's Big Five Most Popular Content Creators</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-games-curiosity-or-concerns/"><u>Ephemeral Games – Curiosity or Concerns?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-most-effective-chatterbots-5-unbeatable-extensions-for-vs-code-developers/"><u>Explore the Most Effective Chatterbots: 5 Unbeatable Extensions for VS Code Developers</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-ps5s-stealthy-browser-access/"><u>Exposing PS5's Stealthy Browser Access</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 System? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-macaw-mambo-march/"><u>In 2024, Macaw Mambo March</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-steps-for-reviewing-gameplay-durations-on-xbox/"><u>Key Steps for Reviewing Gameplay Durations on Xbox</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-hot-30i-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Hot 30i has been deleted.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solving-asus-pce-ac56-driver-problems-on-windows-10-8-and-7-fixed/"><u>Solving ASUS PCE-AC56 Driver Problems on Windows 10, 8 & 7 - Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-steams-friends-error-in-windows-11/"><u>Unblocking Steam's Friends Error in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-extra-features-top-5-advantages-in-paid-mobile-gaming-apps/"><u>Unlock Extra Features: Top 5 Advantages in Paid Mobile Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-6-ways-to-start-up-ps5/"><u>Unveiling the 6 Ways to Start Up PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/win1111s-dxgierror-code-0x887a0006-a-quick-fix/"><u>Win11/11's DXGI_ERROR (Code 0X887A0006): A Quick Fix</u></a></li>
+</ul></div>
 

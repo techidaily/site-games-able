@@ -1,7 +1,7 @@
 ---
 title: "The Best of Both Worlds: AR & Outdoor Games"
-date: 2024-09-10T17:09:16.289Z
-updated: 2024-09-15T16:54:56.455Z
+date: 2024-10-28T03:07:16.238Z
+updated: 2024-10-31T00:21:14.787Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ Close
 
 ![ZRX Zombies run augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/zrx-jolly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  ZRX is the only app on this list that is actually dedicated to fitness. Essentially, the app allows you to select an interactive story and choose how to track your run, and as you move so does the story.
@@ -67,15 +74,22 @@ Close
 
 ![Pokemon GO augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Pokemon GO augmented reality mobile game lechonk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-lechonk.jpg)
 
 ![Pokemon GO augmented reality mobile game sprigatito](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pokemon-go-sprigatito.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -96,6 +110,13 @@ Close
 
 ![Draconius GO augmented reality mobile game berrydillo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/draconius-go-berrydillo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Draconius GO is basically the same as Pokémon Go, but it is better suited for those who want to find and capture majestic dragons and other mythical creatures as they get active outdoors.
@@ -106,18 +127,18 @@ Close
 
 **Download:** Draconius GO for[iOS](https://apps.apple.com/app/draconius-go-catch-a-dragon/id1222496828) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=net.elyland.DraconiusGO) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Star Walk 2
 
 ![Star Walk 2 augmented reality mobile app satellite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-satellite.jpg)
 
 ![Star Walk 2 augmented reality mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-ar.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Star Walk 2 augmented reality mobile app pegasus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/star-walk-2-pegasus.jpg)
 
@@ -149,19 +170,6 @@ Close
 
 ![Orna The Adventure GPS RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-world.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Orna The Adventure GPS RPG character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-character.jpg)
 
 ![Orna The Adventure GPS RPG battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/orna-battle.jpg)
@@ -179,25 +187,19 @@ Close
 ![Pikmin Bloom augmented reality mobile game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Pikmin Bloom augmented reality mobile game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-map.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Pikmin Bloom augmented reality mobile game seedlings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pikmin-bloom-seeds.jpg)
@@ -209,6 +211,13 @@ Close
  Each Pikmin creature is a blend of an animal and a plant which makes them incredibly cute and also fun to collect. The trick is that you need to keep moving to grow your seedlings. So the more time you spend walking around outdoors, the more adorable Pikmin you can pluck and have to walk around with you.
 
 **Download:** Pikmin Bloom for[iOS](https://apps.apple.com/app/pikmin-bloom/id1556357398) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029750/https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Outdoor Virtual and Real-Life Adventures Using the Power of AR
 
@@ -229,5 +238,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-fierce-facades-top-laptop-picks-for-uhd-editing-enthusiasts/"><u>[New] 2024 Approved Fierce Facades Top Laptop Picks for UHD Editing Enthusiasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-discover-10-exceptional-commodity-lut-files/"><u>[New] In 2024, Discover 10 Exceptional Commodity LUT Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-hackers-incorranous-steps-to-setup-nintendo-switch-lock/"><u>Eliminating Hackers: Incorranous Steps to Setup Nintendo Switch Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-a-non-nvidia-match-for-rtx-4060-ti/"><u>Finding a Non-NVIDIA Match for RTX 4060 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-rectify-roblox-error-262/"><u>Guide to Rectify Roblox Error 262</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-setting-up-and-turning-on-bluetooth-in-windows-8/"><u>Guide: Setting Up and Turning On Bluetooth in Windows 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transform-videos-into-vertical-format-using-windows-no-cost/"><u>How to Transform Videos Into Vertical Format Using Windows (No Cost)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-settings-for-watching-nba-live-streams/"><u>Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-wireless-display-connection-problems-under-windows-11/"><u>Resolving Microsoft Wireless Display Connection Problems Under Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategizing-for-ideal-playstation-5-membership-use/"><u>Strategizing for Ideal PlayStation 5 Membership Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-identify-friends-on-steam-platform/"><u>Swiftly Identify Friends on Steam Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-completed-compatible-drivers-for-your-xbox-controller-on-various-windows-versions/"><u>Troubleshooting Completed: Compatible Drivers for Your Xbox Controller on Various Windows Versions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-virtual-reality-steam-gaming-on-meta-quest-2/"><u>Unlock the Potential of Virtual Reality: Steam Gaming on Meta Quest 2</u></a></li>
+</ul></div>
 

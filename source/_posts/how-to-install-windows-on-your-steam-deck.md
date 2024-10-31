@@ -1,7 +1,7 @@
 ---
 title: How to Install Windows on Your Steam Deck
-date: 2024-09-09T16:59:31.832Z
-updated: 2024-09-15T17:05:17.416Z
+date: 2024-10-30T00:09:55.310Z
+updated: 2024-10-30T21:16:23.988Z
 tags:
   - games
 categories:
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4114f7cfe0acd398f6e6dc6c01ce0be957bdf6a26
 
 ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  If you’re someone who owns a PC, the chances are very high that you’re running Windows on it. Windows is familiar to many and is fairly easy to use.
@@ -46,29 +53,22 @@ Jhet Borja/MUO
 
  Having Windows on your Steam Deck can also make it a work laptop or desktop replacement. You can easily use Photoshop, Microsoft Office apps, Lightroom, and all the usual suspects on Windows—so long as you’re willing to bring around a mouse and keyboard. Thankfully, there are plenty of[Steam Deck accessories](https://www.makeuseof.com/essential-steam-deck-accessories/) that can make doing real work on it a breeze.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What You Need to Install Windows on Your Steam Deck
 
  You only need a few things to install Windows on your Steam Deck, most of which are software. But you will need a few hardware accessories as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Hardware
 
  For hardware, you really only need a USB flash drive and a USB-C hub to plug it into your Steam Deck. You can also[install an SD card on your Steam Deck](https://www.makeuseof.com/how-to-install-steam-deck-sd-card/) as long as it's decently fast. A USB 3.0 or higher flash drive or a UHS-I or higher SD card would suffice, but we wouldn’t suggest anything slower.
 
  We also highly suggest using a separate PC as we've done in this guide, but you can also use your Steam Deck and follow similar steps using the Linux version of Ventoy.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ventoy
 
@@ -78,25 +78,18 @@ Jhet Borja/MUO
 
  Head to[Ventoy’s GitHub page](https://github.com/ventoy/Ventoy/) and on the right side, click on**Releases** . Scroll down to**Assets** and click on the ZIP folder that says Windows on it. Extract the contents into a folder on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### GNOME Partition Editor (GParted) ISO
 
 ![downloading GParted amd64 version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-gparted-amd64-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to[GParted.org](https://gparted.org/download.php) and click on the**amd64.iso** download file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 11 ISO
 
@@ -104,11 +97,25 @@ Jhet Borja/MUO
 
 ![Downloading Windows 11 ISO from Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-11-iso-from-microsoft.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head to the**Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select**Windows 11 (multi-edition ISO)** . Click on**Download** , then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
 ### Windows Drivers for Steam Deck
 
 ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -127,5 +134,20 @@ Jhet Borja/MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-digital-content-contenders-compare-and-contrast-vimeo-youtube-plus-dailymotion/"><u>[New] In 2024, Digital Content Contenders Compare & Contrast Vimeo, YouTube + Dailymotion</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-crafting-for-the-modern-youtube-creator/"><u>[New] In 2024, Video Crafting for the Modern YouTube Creator</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-big-should-a-good-thumbnail-be-youtubes-ultimate-guide/"><u>[Updated] How Big Should a Good Thumbnail Be? YouTube's Ultimate Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-guide-to-high-speed-pc-controller-extensions-for-2024/"><u>[Updated] Ultimate Guide to High-Speed PC Controller Extensions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-note-30-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Note 30 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-and-performance-series-x-vs-pc-build/"><u>Graphics & Performance: Series X Vs. PC Build</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-wallet-friendly-360-degree-video-technology/"><u>In 2024, Wallet-Friendly 360-Degree Video Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-launcher-failure-0x803f8001-in-mcpc/"><u>Overcoming Launcher Failure 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powerdirector-pro-detailed-reviews-and-step-by-step-guides/"><u>PowerDirector Pro Detailed Reviews and Step-by-Step Guides</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-customization-starting-strong-in-fps-games/"><u>Prime Customization: Starting Strong in FPS Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-alternative-strategies-to-turn-on-ps5/"><u>Six Alternative Strategies to Turn On PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-game-takeaways-from-helldivers-2s-journey/"><u>Top 6 Game Takeaways From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/unearthing-indie-wonders-my-top-game-selections/"><u>Unearthing Indie Wonders: My Top Game Selections</u></a></li>
+</ul></div>
 

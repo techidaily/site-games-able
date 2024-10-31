@@ -1,7 +1,7 @@
 ---
 title: "How to Play Minecraft With Friends: 5 Different Ways"
-date: 2024-09-09T16:37:44.980Z
-updated: 2024-09-15T16:00:19.706Z
+date: 2024-10-29T04:04:48.313Z
+updated: 2024-10-30T21:26:16.257Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ![Minecraft Bedrock Edition Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-bedrock-edition-servers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While your range is narrower than Java Edition players', there are definitely public servers you can join to play Minecraft with your friends in Bedrock Edition.
 
 1. Start Minecraft BE. Click**Play** and navigate to the**Servers** tab.
@@ -69,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-create-a-server-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Aternos, log in and click on**Create a Server** .
 
 ![Aternos MUO test server IP address](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/aternos-muo-test-server-ip-address.jpg)
@@ -85,19 +85,20 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-aternos-server-start-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, you'll need to click on the large green**Start** button. Once it's on, you can copy the IP address and paste it into Minecraft as you would a public server. This server is all yours and you can even[install CurseForge to add Minecraft mods](https://www.makeuseof.com/how-to-use-curseforge-to-install-minecraft-mod-packs/) and upload copies of existing worlds if you wanted.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Minecraft Realms
 
@@ -107,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ![Minecraft Realms start new realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-start-new-realm-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Java Edition** : First, you'll need to purchase a subscription for a Realm (you can check the pricing plans on[Minecraft's website](https://www.minecraft.net/en-us/realms-for-java/plans/) ). You can activate a 30-day free trial to test the waters and cancel anytime.
 
  Once you have a subscription plan, open Minecraft and click**Minecraft Realms** . If this is your first time creating a Realm, click on**click to start your new Realm** . Here you can name your Realm and enter a brief description before choosing your world type.
@@ -121,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
  Choose between generating a**new world** , uploading a previous world save, or exploring Realms'**World templates** ,**Adventures** , and**Experiences** .
 
 ![Minecraft Java Edition configure Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mc-configure-realm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that you've created your Realm, choose**Configure Realm** (the wrench icon) and click on**Players** . Now all you have to do to whitelist a friend on your server is click**Invite player** and type in their username before clicking**Invite player** again. Your friend will receive an invitation to join your Realm.
 
@@ -140,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ![Minecraft Realms invite envelope](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/minecraft-realms-invite-envelope.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Java Edition** : If you've received an invitation to join your friend's Realm, open Minecraft and navigate to**Minecraft Realms** .
 
  At the top of the screen, to the right of where it says**Minecraft Realms** , is a small**envelope** icon. This**envelope** contains any pending invites you've received; click it to join your friend's Realm.
@@ -148,18 +156,25 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
 ![Minecraft Bedrock Edition join a Realm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/mcbe-join-realm-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Minecraft, then click**Play** . Head to**Friends** and click on**Join Realm** . Enter the invite code you received from the Realm owner and click**Join** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Play Minecraft LAN
 
  While servers are the best way to play Minecraft with friends who are far away, a LAN (Local Access Network) connection is an easy way to craft with friends who are nearby.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Minecraft Java Edition
 
@@ -173,18 +188,18 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
 
  LAN play is on by default in Bedrock Edition. Just navigate to the**Worlds** tab, and if there are any available games on your network, they'll appear here for you to join.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Use Minecraft Split-Screen
 
 ![Split Screen Minecraft on Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3176.jpeg)
 
  Just like old-school console games, you can play split-screen on Minecraft Bedrock edition with up to four players. This is only available on consoles, but you can get on your couch, and[play split-screen Minecraft on your Nintendo Switch](https://www.makeuseof.com/how-to-play-two-player-minecraft-on-nintendo-switch/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Minecraft With Your Friends
 
@@ -205,5 +220,19 @@ thumbnail: https://thmb.techidaily.com/2ef59ce044e2e7e5ba0e6dcc5016c001910532c38
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-spiritual-soundtracks-where-to-find-christian-tunes/"><u>[New] Spiritual Soundtracks Where to Find Christian Tunes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-fee-optimal-mobile-and-web-picture-upscaler/"><u>2024 Approved No-Fee, Optimal Mobile & Web Picture Upscaler</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/apple-music-for-dynamic-video-enhancement/"><u>Apple Music for Dynamic Video Enhancement</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beginning-with-confidence-the-initial-5-actions-for-your-fresh-laptop-or-desktop/"><u>Beginning with Confidence: The Initial 5 Actions for Your Fresh Laptop or Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/bring-footage-together-ken-burns-technique-for-camtasa-users-for-2024/"><u>Bring Footage Together Ken Burns Technique for Camtasa Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-ps5-security-crafting-effective-passcodes/"><u>Conquering PS5 Security: Crafting Effective Passcodes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-the-prime-8-essential-crypto-friendly-gpt-plugins/"><u>Discovering the Prime: 8 Essential Crypto-Friendly GPT Plugins</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enrich-your-images-best-10-screenshot-enhancing-apps-for-smartphones/"><u>Enrich Your Images Best 10 Screenshot-Enhancing Apps for Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/final-frontier-of-gaming-ps5-vs-microsofts-xbox-sx/"><u>Final Frontier of Gaming - PS5 Vs. Microsoft's Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-amd-best-gpu-for-gamers/"><u>Nvidia VS AMD: Best GPU for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalizing-retro-gaming-with-atlasos/"><u>Revitalizing Retro Gaming With AtlasOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tutorial-how-to-place-photos-within-google-sheets-cell-layouts/"><u>Tutorial: How To Place Photos Within Google Sheets Cell Layouts</u></a></li>
+</ul></div>
 

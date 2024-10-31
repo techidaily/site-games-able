@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2024-10-18T07:11:32.219Z
-updated: 2024-10-24T16:00:31.042Z
+date: 2024-10-24T18:38:54.408Z
+updated: 2024-10-31T02:30:42.925Z
 tags:
   - games
 categories:
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
@@ -58,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
@@ -70,35 +77,28 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
@@ -122,24 +122,16 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-storing-itunes-video-files/"><u>[New] Comprehensive Guide to Storing iTunes Video Files</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>[New] In 2024, Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-video-platform-profiles-vimeo-vs-youtube-comparison/"><u>[Updated] 2024 Approved Video Platform Profiles Vimeo vs YouTube Comparison</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-a-step-by-step-tutorial-to-monetize-product-videography/"><u>[Updated] A Step-by-Step Tutorial to Monetize Product Videography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/chrome-browserfacebook/"><u>Chrome BrowserによるFacebookビデオのダウンロード手順集</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-nitros-value/"><u>Discovering Nitro's Value</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/downloading-the-latest-insta-reels-two-ways-to-go/"><u>Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/guia-completa-top-programas-de-respaldo-sin-coste-para-asegurar-su-windows-xp-y-sus-informaciones/"><u>Guía Completa: Top Programas De Respaldo Sin Coste Para Asegurar Su Windows XP Y Sus Informaciones</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-much-video-ram-do-you-hold/"><u>How Much Video RAM Do You Hold?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-geforce-experience-settings-retrieval-errors/"><u>How to Resolve GeForce Experience Settings Retrieval Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/initiate-immediate-invigoration-in-league/"><u>Initiate Immediate Invigoration in League</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-routines-to-alter-track-tempoplay-in-spotify-for-2024/"><u>Optimal Routines to Alter Track Tempoplay in Spotify for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/safety-of-using-roblox-fps-enhancement-tools/"><u>Safety of Using Roblox FPS Enhancement Tools?</u></a></li>
-<li><a href="https://games-able.techidaily.com/tactical-console-control-silencing-system-alerts/"><u>Tactical Console Control: Silencing System Alerts</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-mobile-gamer-experience-good-and-bad/"><u>The Mobile Gamer Experience: Good and Bad</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-nature-inspired-ar-apps-for-active-adventures/"><u>Top 8 Nature-Inspired AR Apps for Active Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/unearth-exclusive-perks-3-essential-xbox-redemption-techniques/"><u>Unearth Exclusive Perks: 3 Essential Xbox Redemption Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-secrets-to-conquering-4-common-gpu-setbacks/"><u>Unveiling Secrets to Conquering 4 Common GPU Setbacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-uniting-windows-and-mac-users-with-skype-groups/"><u>[Updated] In 2024, Uniting Windows & Mac Users with Skype Groups</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>[Updated] Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unleash-window-history-an-in-depth-look-at-springs-tech-for-2024/"><u>[Updated] Unleash Window History An In-Depth Look at Spring's Tech for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-mystery-of-roblox-error-262/"><u>Decoding the Mystery of Roblox Error 262</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-se-2020-how-to-unlock-a-disabled-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Disabled Apple iPhone SE (2020) How to Unlock a Disabled Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-efficient-ways-to-document-gotomeeting-sessions/"><u>In 2024, Efficient Ways to Document GoToMeeting Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-exemplary-6-online-communities-for-corporate-growth/"><u>In 2024, Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-tv-viewing-on-xbox-series-xs-with-tailored-vrr-settings/"><u>Streamlining TV Viewing on Xbox Series X|S with Tailored VRR Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone-for-2024/"><u>The Art of Saving and Enjoying Animated GIFs on Your iPhone for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-pitfalls-not-investing-in-a-gaming-specific-display/"><u>Top 6 Pitfalls: Not Investing in a Gaming-Specific Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-steams-big-picture-interface/"><u>Understanding Steam's Big Picture Interface</u></a></li>
 </ul></div>
 

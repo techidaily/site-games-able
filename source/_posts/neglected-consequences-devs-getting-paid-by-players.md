@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-10-22T04:37:05.086Z
-updated: 2024-10-24T20:50:29.428Z
+date: 2024-10-24T18:47:10.564Z
+updated: 2024-10-30T16:21:20.612Z
 tags:
   - games
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -57,23 +57,9 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -82,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -132,20 +132,14 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-perfect-webinar-saves/"><u>[New] Essential Tips for Perfect Webinar Saves</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-crafting-your-windows-photos-masterpiece-adding-filters-musical-elements/"><u>[Updated] Crafting Your Windows Photos Masterpiece Adding Filters, Musical Elements</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-maximizing-your-virtual-experience-use-of-snap-functions-in-meet/"><u>[Updated] In 2024, Maximizing Your Virtual Experience Use of Snap Functions in Meet</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-gaming-to-content-creation-twitch-versus-youtube/"><u>2024 Approved From Gaming to Content Creation Twitch Versus YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-necessity-of-a-dual-capable-display/"><u>Evaluating the Necessity of a Dual-Capable Display?</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-infinite-worlds-with-top-mmo-games-on-phones/"><u>Explore Infinite Worlds with Top MMO Games on Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmony-hunters-top-8-audio-quiz-games-to-beat/"><u>Harmony Hunters: Top 8 Audio Quiz Games to Beat</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-the-right-gaming-gear-can-help-you-get-good/"><u>How the Right Gaming Gear Can Help You Get Good</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oppo-k11x-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo K11x Unlock Without Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/masterful-hacks-extracting-xbox-perks-from-codes/"><u>Masterful Hacks: Extracting Xbox Perks From Codes</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-into-a-world-apart-from-the-fallout-show/"><u>Step Into a World Apart From the Fallout Show</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplugging-to-reengage-in-your-digital-world/"><u>Unplugging to Reengage in Your Digital World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/what-is-yourphoneexe-phone-link-in-windows-1110-should-you-disable-it/"><u>What Is YourPhone.exe (Phone Link) in Windows 11/10? Should You Disable It?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-odins-legacy-destiny-of-ragnarok/"><u>[Updated] Odin's Legacy Destiny of Ragnarök</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-and-performance-series-x-vs-pc-build/"><u>Graphics & Performance: Series X Vs. PC Build</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-5-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 5 Pro online without jailbreak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-image-distortion-made-easy/"><u>In 2024, Image Distortion Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-launcher-failure-0x803f8001-in-mcpc/"><u>Overcoming Launcher Failure 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-storage-the-essential-guide-to-disk-defrag-in-win11/"><u>Streamlining Storage: The Essential Guide to Disk Defrag in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-game-takeaways-from-helldivers-2s-journey/"><u>Top 6 Game Takeaways From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-mic-issues-in-sea-of-thieves-for-pc-players/"><u>Troubleshooting and Fixing Mic Issues in Sea of Thieves for PC Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/unearthing-indie-wonders-my-top-game-selections/"><u>Unearthing Indie Wonders: My Top Game Selections</u></a></li>
 </ul></div>
 

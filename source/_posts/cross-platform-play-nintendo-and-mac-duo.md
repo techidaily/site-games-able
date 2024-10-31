@@ -1,7 +1,7 @@
 ---
 title: "Cross-Platform Play: Nintendo & Mac Duo"
-date: 2024-09-11T16:05:46.581Z
-updated: 2024-09-15T17:06:41.009Z
+date: 2024-10-28T02:57:56.573Z
+updated: 2024-10-30T19:57:42.670Z
 tags:
   - games
 categories:
@@ -53,20 +53,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 4. Paste the**prod.keys** file into the designated directory.  
 ![Ryujinx System Folder open with prod.keys pasted in the directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-system-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Installing Ryujinx Firmware
 
  You also need to manually add the firmware files for Ryujinx to use. You can do so by following these steps:
@@ -77,13 +63,20 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 3. Select the firmware file you just downloaded.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Ryujinx Selecting Switch Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-selecting-switch-firmware.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Setting Up Your Controller
 
@@ -93,14 +86,22 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 2. Open**Ryujinx** and head to**Options > Settings** .  
 ![Ryujinx Home Page with settings option available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-settings-option.jpg)
 3. Head over to the**Input** tab, and make sure your controller is selected under the**Input Device** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If needed, you can also edit any required settings to customize your controls.  
 ![Ryujinx controller settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-controller-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding Your Games to Ryujinx
@@ -114,10 +115,17 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 ![Hades Running on Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/hades-running-on-ryujinx.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy Playing Nintendo Switch Games on Your Mac
@@ -137,5 +145,24 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-fuel-the-drive-best-video-ideas-for-channels-success/"><u>[New] In 2024, Fuel the Drive Best Video Ideas for Channels' Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-innovative-mobile-layering-apps-for-android-and-iphone/"><u>[New] Top 10 Innovative Mobile Layering Apps for Android & iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-10-user-friendly-free-tools-to-create-professional-video-thumbnails/"><u>[Updated] 2024 Approved 10 User-Friendly Free Tools to Create Professional Video Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-combating-an-unresponsive-obs-camera-input-stream/"><u>[Updated] In 2024, Combating an Unresponsive OBS Camera Input Stream</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-stream-talent-twitter-live-broadcast-basics/"><u>[Updated] In 2024, Stream Talent Twitter Live Broadcast Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-playstation-5-performance-must-haves/"><u>Elevating PlayStation 5 Performance: Must-Haves</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-gt-5-frp-by-drfone-android/"><u>Full Guide to Bypass Realme GT 5 FRP</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-safely-restore-files-using-usb-flash-drive-with-data-recovery-tools-a-comprehensive-guide/"><u>How To Safely Restore Files Using USB Flash Drive With Data Recovery Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/incorporating-external-storage-steam-deck/"><u>Incorporating External Storage: Steam Deck</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/love-and-lies-exploring-how-artificial-intelligence-fuels-modern-romance-cons/"><u>Love and Lies: Exploring How Artificial Intelligence Fuels Modern Romance Cons</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-nds-and-gbc-games-via-ios-emulators/"><u>Master Your NDS and GBC Games via iOS Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-nostalgia-playing-snes-and-nes-on-ios/"><u>Mobile Nostalgia: Playing SNES & NES on iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-selection-leading-nintendo-switch-docks/"><u>The Essential Selection: Leading Nintendo Switch Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-security-advantage-adding-passcodes-to-your-nintendo-switch-console/"><u>The Security Advantage: Adding Passcodes to Your Nintendo Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-membership-matchup-game-pass-versus-psplus-essential-plan/"><u>Ultimate Membership Matchup: Game Pass Versus PS+ Essential Plan</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-your-ps5-needs-downtime-just-like-you-do/"><u>Why Your PS5 Needs Downtime Just Like You Do</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mqaflac/"><u>シームレスな音質移行: MQAからFLACへの適切な変換方法とソフトウェア</u></a></li>
+</ul></div>
 

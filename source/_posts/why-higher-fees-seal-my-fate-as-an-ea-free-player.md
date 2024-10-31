@@ -1,7 +1,7 @@
 ---
 title: Why Higher Fees Seal My Fate as an EA-Free Player
-date: 2024-09-12T16:58:46.816Z
-updated: 2024-09-15T16:39:13.776Z
+date: 2024-10-26T20:02:21.456Z
+updated: 2024-10-30T20:28:40.833Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
  An extra dollar or two per month seems small, and even the $10 or $20 annual increase might seem reasonable. However, these increases are large if you look at them relative to the original price.
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
  Although I'm a fan of a few of these franchises, like Need for Speed, Battlefield, and Sim City, the extra dollars I have to spend to keep playing them for a few hours per month isn't worth it. I'm also not interested in EA Sports titles found on EA Play Pro, which makes the $16.99 monthly / $119.99 annual fee exorbitant for me.
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. EA Isn't Adding New Perks and Features
 
@@ -82,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Other Gaming Subscriptions Offer Better Value for Money
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
@@ -94,28 +108,15 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
@@ -139,5 +140,23 @@ thumbnail: https://thmb.techidaily.com/ef64597bda93820e24d8ab2d0a8cbf446e80301b9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ioneering-video-content-creation-via-google-trends-study/"><u>[New] Pioneering Video Content Creation via Google Trends Study</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-angle-away-discover-our-top-11-bridge-photography-tools/"><u>[Updated] 2024 Approved Angle Away! Discover Our Top 11 Bridge Photography Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-cluttered-to-clear-a-canva-guide-for-borders-removal/"><u>[Updated] From Cluttered to Clear A Canva Guide for Borders Removal</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-channel-size-independent-strategies-for-securing-sponsors/"><u>[Updated] In 2024, Channel-Size-Independent Strategies for Securing Sponsors</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-revolutionize-your-twitter-experience-with-essential-apps/"><u>[Updated] In 2024, Revolutionize Your Twitter Experience with Essential Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-flip-side-of-perspectives-crafting-engaging-images-with-angled-spins-on-instagram-sites/"><u>[Updated] In 2024, The Flip-Side of Perspectives Crafting Engaging Images with Angled Spins on Instagram Sites</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-links-latest-graphics-drivers-for-the-nvidia-gtx-980-ti/"><u>Direct Links: Latest Graphics Drivers for the NVIDIA GTX 980 Ti</u></a></li>
+<li><a href="https://games-able.techidaily.com/directsound-configuration-xbox-headphone-use/"><u>DirectSound Configuration: Xbox Headphone Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/discords-super-boost-a-must-or-not/"><u>Discord's Super Boost: A Must or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevated-elation-best-chairs-for-giant-gamers/"><u>Elevated Elation: Best Chairs For Giant Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-fixes-ensuring-constant-ps4-controller-connection-in-windows/"><u>Essential Fixes: Ensuring Constant PS4 Controller Connection in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-for-control-use-in-ryujinx-emulation/"><u>Essential Techniques for Control Use in Ryujinx Emulation</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-best-monitors-at-144hz-for-gamers/"><u>Explore Best Monitors at 144Hz for Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-the-art-of-hiding-your-chatconversations-with-gpt-no-deletions-involved/"><u>Master the Art of Hiding Your ChatConversations with GPT: No Deletions Involved</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-from-chrome-os-to-linux-a-seamless-transition-2023-update/"><u>New In 2024, From Chrome OS to Linux A Seamless Transition (2023 Update)</u></a></li>
+<li><a href="https://games-able.techidaily.com/shrouded-steam-entertainment/"><u>Shrouded Steam Entertainment</u></a></li>
+</ul></div>
 

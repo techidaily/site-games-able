@@ -1,7 +1,7 @@
 ---
 title: Strategies to Control Steam Web Helper's Memory Usage
-date: 2024-09-09T16:22:07.911Z
-updated: 2024-09-15T16:16:40.301Z
+date: 2024-10-30T02:02:40.693Z
+updated: 2024-10-31T04:10:02.306Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
  There's one setting that can add a large amount of performance overhead if left enabled.
@@ -57,6 +71,19 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 4. Restart Steam after making this change.
 
  This will ease the burden that Steam's web pages have on your available memory.
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Low-Performance Mode
 
@@ -71,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
@@ -87,19 +114,6 @@ steam://open/minigameslist
 3. Hit enter. This will change the size of your Steam window, forcing it into a vertical slice rather than the more feature-full rectangle that Steam usually defaults to.
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 
@@ -121,10 +135,10 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
@@ -144,5 +158,26 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-avoid-the-quake-optimal-tripod-placement-for-stellar-vlogs-for-2024/"><u>[Updated] Avoid the Quake Optimal Tripod Placement for Stellar Vlogs for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-mystery-unexpectedly-non-appearing-videos-on-fb-for-2024/"><u>[Updated] The Mystery Unexpectedly Non-Appearing Videos on FB for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-effective-reddit-sharing-for-2024/"><u>[Updated] The Ultimate Guide to Effective Reddit Sharing for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-13-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 13 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-phantom-v-flip-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Phantom V Flip</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insights-to-scarlet-and-violets-rare-finds-92/"><u>Exclusive Insights to Scarlet & Violet's Rare Finds (92)</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-real-life-implications-of-being-idle-in-discord/"><u>Exploring the Real-Life Implications of Being Idle in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-obsolete-to-optimal-atlasos-upgrade-guide/"><u>From Obsolete to Optimal: ATLASOS Upgrade Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-lifeline-leveraged-xbox-game-pass-versus-playstation-plus/"><u>Gaming Lifeline Leveraged: Xbox Game Pass Versus PlayStation Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/give-your-computer-a-boost-upgrade-to-latest-nvidia-drivers/"><u>Give Your Computer a Boost: Upgrade to Latest Nvidia Drivers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-googles-platform-for-podcast-distribution/"><u>In 2024, Leveraging Google's Platform for Podcast Distribution</u></a></li>
+<li><a href="https://games-able.techidaily.com/lesson-in-conservation-manage-your-consoles-energy/"><u>Lesson in Conservation: Manage Your Console's Energy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-lava-blaze-curve-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Lava Blaze Curve 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-how-to-fix-the-dying-light-games-performance-lags/"><u>Resolved: How to Fix the Dying Light Game's Performance Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-fan-fix-implementing-translation-patches/"><u>ROM Fan Fix: Implementing Translation Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/soaring-comfort-premium-seating-for-tall-enthusiasts/"><u>Soaring Comfort: Premium Seating for Tall Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/star-wars-jedi-fallen-order-pc-launch-bugs-now-patched-and-optimized/"><u>Star Wars Jedi: Fallen Order - PC Launch Bugs Now Patched and Optimized</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pinnacle-of-led-strip-tech/"><u>The Pinnacle of LED Strip Tech</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-transitioning-from-older-systems-to-the-new-windows-11-os/"><u>The Ultimate Walkthrough: Transitioning From Older Systems to the New Windows 11 OS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Frugal Gamer's Guide to Xbox Series X/S
-date: 2024-10-23T23:36:43.891Z
-updated: 2024-10-24T20:23:20.593Z
+date: 2024-10-28T00:45:39.056Z
+updated: 2024-10-30T21:47:14.446Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
  Picking games that are on sale not only saves you money but also forces you to think outside the box. Maybe none of the games you were initially thinking of purchasing are on sale. Instead of that being a bad thing, look at it as an opportunity. Now you can branch out and try a completely new experience. Who knows? You might even find some hidden gems or your next favorite game using this method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Purchase Games With a Lot of Replayability
@@ -52,34 +52,28 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  But there are many games where these in-game purchases are purely cosmetic and completely optional, meaning you can play for as long as you want without reaching for your wallet at all. Games like Overwatch 2, Fortnite, or Apex Legends are just a few examples of fun and rewarding games that you can play completely free of charge.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Subscribe to Xbox Game Pass
 
  If you’re a gamer on a budget, Xbox Game Pass will be your best friend. Xbox Game Pass is a subscription service that does cost money, but the number of games you get access to makes it incredibly good value.
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  For just $10.99 per month, you can play however many of the hundreds of games on offer that your heart desires. The games are also switched up and added to consistently, so there is always something new for you to play.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Collect and Use Microsoft Reward Points
@@ -94,19 +88,6 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
 ![Xbox Game Pass Perks Screen on Xbox Game Pass App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-screen-on-xbox-game-pass-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Xbox Game Pass Perks on Xbox Game Pass Mobile App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-on-xbox-game-pass-mobile-app.jpg)
 
 Close
@@ -114,6 +95,13 @@ Close
  Xbox Game Pass Perks can include anything from loot boxes for certain games or even free monthly subscriptions to services like Crunchyroll or Discord Nitro. These offers are all available for a limited time and change often, so make sure you check them out regularly.
 
  You can check your Game Pass Perks from the Xbox website, your console itself, or on the Xbox Game Pass mobile app by opening it and heading to your profile. If you have Xbox Game Pass but don’t see any Perks there, keep in mind that they are only available to Xbox Game Pass Ultimate subscribers.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Use Energy Saving Mode on Your Xbox
 
@@ -133,28 +121,28 @@ Close
 
  Downloading and taking advantage of free games is by far the best way to start saving money on gaming, but an Xbox Game Pass subscription is the next best step when it comes to gaming efficiently. And make sure you don’t forget to check in regularly to see what kind of free bonuses you can get with your Microsoft Rewards Points and Xbox Game Pass Perks.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ### Q: How Much Electricity Does Your Xbox Series X Use?
 
  The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always[adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q: Why Is the Xbox Series S So Much Cheaper Than the Xbox Series X?
 
  You can purchase an Xbox Series S for far less than an Xbox Series X because of the differences in specifications between each console. The Xbox Series S has less GPU and CPU power than the Xbox Series X while also having less RAM and storage. However, when saving money on next-gen hardware,[the Xbox Series S sets a new standard for budget consoles](https://www.makeuseof.com/how-the-xbox-series-s-set-a-new-standard-for-budget-consoles/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: What Are the Perks of Having an Xbox Series S?
@@ -176,24 +164,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-logic-pro-the-process-of-gradually-quietening-audio-levels/"><u>[New] Logic Pro The Process of Gradually Quietening Audio Levels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-visual-treat-top-ten-4k-televisions/"><u>[New] Ultimate Visual Treat Top Ten 4K Televisions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-auditory-artistry-access-to-excellent-dj-video-samples/"><u>[Updated] 2024 Approved Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-bushido-code-continuation-top-similar-game-experiences-for-2024/"><u>[Updated] Bushido Code Continuation - Top Similar Game Experiences for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-scrutinizing-youtubes-comment-clusters/"><u>[Updated] Scrutinizing YouTubes' Comment Clusters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-nightly-narratives-analyzing-video-based-storytelling/"><u>2024 Approved Nightly Narratives Analyzing Video-Based Storytelling</u></a></li>
-<li><a href="https://games-able.techidaily.com/dialing-down-or-up-finding-right-mouse-sensitivity-for-gaming/"><u>Dialing Down or Up? Finding Right Mouse Sensitivity for Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/ending-the-loophole-in-steams-buyback-mechanism/"><u>Ending the Loophole in Steam's Buyback Mechanism</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exercise/"><u>Exercise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-the-magic-of-marvels-what-if-on-your-apple-vision-pro-the-ultimate-free-app/"><u>Experience the Magic of 'Marvel's What If...?' On Your Apple Vision Pro – The Ultimate (Free) App</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-correcting-error-during-oculus-setup-in-windows/"><u>Guide to Correcting Error During Oculus Setup in Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a15-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A15 4G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/leveraging-community-channels-for-starfield-testers/"><u>Leveraging Community Channels for Starfield Testers</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeuseofs-premier-awards-mwc-showcase/"><u>MakeUseOf's Premier Awards: MWC Showcase</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-controllers-your-switchs-new-friends/"><u>PlayStation Controllers: Your Switch's New Friends</u></a></li>
-<li><a href="https://win-web3.techidaily.com/professioneel-hoe-begeven-en-definieren-van-invalide-instellingen-op-windows-1011/"><u>Professioneel Hoe Begeven en Definieren Van Invalide Instellingen Op Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/rebooting-ps5s-subscription-status/"><u>Rebooting PS5's Subscription Status</u></a></li>
-<li><a href="https://games-able.techidaily.com/supers-vs-titans-showdown-nvidias-ultimate-performance-faceoff/"><u>Supers Vs. Titans Showdown: Nvidia’s Ultimate Performance Faceoff</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-game-potential-with-steam-here-are-9-ways/"><u>Unleashing Game Potential with Steam, Here Are 9 Ways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-tactics-for-gameplay-screen-captures/"><u>[Updated] 2024 Approved Top Tactics for Gameplay Screen Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-canvas-power-10-pro-editor-techniques/"><u>2024 Approved Unveiling Canva's Power 10 Pro Editor Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-6-myths-avoiding-high-end-monitors-for-pc-games/"><u>Debunking 6 Myths: Avoiding High-End Monitors for PC Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ease-of-use-takes-a-leap-forward-as-apple-introduces-innovative-eyegaze-technology-in-latest-iphones-and-ipads/"><u>Ease of Use Takes a Leap Forward as Apple Introduces Innovative Eyegaze Technology in Latest iPhones and iPads</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-lava-yuva-2-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Lava Yuva 2 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-steps-remove-and-re-download-ps5-titles/"><u>Easy Steps: Remove & Re-Download PS5 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-3d-panels-boosting-home-console-entertainment/"><u>Ideal 3D Panels Boosting Home Console Entertainment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-find-your-photo-oasis-a-guide-to-pexels/"><u>In 2024, Find Your Photo Oasis A Guide to Pexels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-ensure-accurate-game-saves-with-fbx-recorder/"><u>In 2024, How to Ensure Accurate Game Saves with FBX Recorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-x7b-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor X7b Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-game-hunt-top-tactics-for-itchio-fans/"><u>Indie Game Hunt: Top Tactics for Itch.io Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-xbox-s-connection-unhindered/"><u>Keep Your Xbox S Connection Unhindered</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gpt-3-conversations-5-critical-chat-prompt-faux-pas-to-sidestep/"><u>Mastering GPT-3 Conversations: 5 Critical Chat Prompt Faux Pas to Sidestep</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screencasts-a-step-by-step-manual/"><u>Mastering Screencasts A Step-by-Step Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/pivot-from-console-to-pc-via-steam-decks-remote-play/"><u>Pivot From Console to PC via Steam Deck's Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gameplay-with-nvidias-cutting-edge-g-sync/"><u>Revolutionizing Gameplay with Nvidia's Cutting-Edge G-Sync</u></a></li>
 </ul></div>
 

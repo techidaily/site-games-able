@@ -1,7 +1,7 @@
 ---
 title: "Silent Play: The Guide to Noiseless Xbox"
-date: 2024-09-14T16:12:47.026Z
-updated: 2024-09-15T16:16:01.216Z
+date: 2024-10-23T20:49:11.525Z
+updated: 2024-10-31T04:46:26.296Z
 tags:
   - games
 categories:
@@ -42,6 +42,14 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 3. Navigate to the**Profile & system** tab and go to**Settings > Accessibility > Controller >** **Vibration settings** .  
 ![Accessibility settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/accessibility-setting-xbox.jpeg)  
 ![Controller settings on Xbox One](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/controller-setting-xbox.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On the**Xbox Accessories** page, you’ll see your controller. Select**Configure** and choose your profile on the**Profiles** panel. You should see your controller’s profile open up on the right. Select the pencil icon to open controller settings.  
 ![Xbox One Accessories page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-accessories-xbox.jpeg)
 5. On this page, you'll see several options for configuring your Xbox controller, including options for[remapping your Xbox controller buttons](https://www.makeuseof.com/tag/how-to-remap-your-xbox-one-controller-buttons/) . From these options, locate and select the**Turn on vibration** setting and press**A** on your controller to uncheck the box next to it.  
@@ -59,19 +67,33 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 ![Xbox One audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-audio-settings.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first two settings are related to the sounds you hear on your console when you receive a notification or navigate around the Xbox dashboard or through menus and settings. The latter settings pertain to the sounds the Xbox console device makes upon turning on and off.
 
  To mute any or all of these sounds, simply select the respective setting and press**A** on your Xbox controller to enable it. However, for the**Power Chime** setting, you have two options to customize the sound behavior.
 
 ![Xbox One power chime setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-power-chime-setting.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can choose the**Only with power button or voice** option or select**Off** from the drop-down menu to completely mute the chime sound. With the first option selected, the Xbox will only chime when you use the power button on the console or voice commands to turn the console on or off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Mute Sounds on Your Xbox Console and Controller With These Easy Steps
@@ -93,5 +115,23 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-screens-in-windows-8-4-methods-for-2024/"><u>[New] Capture Screens in Windows 8 4 Methods for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-guide-to-innovative-metaverse-marketing/"><u>[Updated] A Guide to Innovative Metaverse Marketing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>[Updated] Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ghostly-pause-recorder-tutorial/"><u>[Updated] Ghostly Pause Recorder Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-masterful-screenshots-made-simple-top-10-free-mac-apps-for-2024/"><u>[Updated] Masterful Screenshots Made Simple – Top 10 FREE Mac Apps for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-thermaltake-massive-tm-notebook-cooler-assessment-packed-with-features-yet-expensive/"><u>Comprehensive Thermaltake Massive TM Notebook Cooler Assessment: Packed with Features Yet Expensive</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-cloud-powered-future-of-ios-gaming-with-nvidia/"><u>Embrace the Cloud-Powered Future of iOS Gaming with Nvidia</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-erratic-behavior-of-hp-monitors/"><u>Fixing Erratic Behavior of HP Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-basic-to-exceptional-mastering-the-art-of-steam-deck-operation/"><u>From Basic to Exceptional: Mastering the Art of Steam Deck Operation</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-excellence-in-valorant-tackling-low-pc-frame-rates/"><u>Gaming Excellence in Valorant: Tackling Low PC Frame Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-steam-games-on-android-or-iphone-using-steam-link/"><u>How to Play Steam Games on Android or iPhone Using Steam Link</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-controllers-for-switch-games-via-ryujinx/"><u>Navigating Controllers for Switch Games via Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-fine-tuning-your-steam-decks-input-devices-for-better-typing/"><u>The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-superior-speed-increase-windows-gaming-fps/"><u>Unleash Superior Speed: Increase Windows Gaming FPS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-3s-potential-step-by-step-guide-to-engage-with-microsofts-chatbot/"><u>Unlocking GPT-3's Potential: Step-by-Step Guide to Engage with Microsoft's Chatbot</u></a></li>
+</ul></div>
 

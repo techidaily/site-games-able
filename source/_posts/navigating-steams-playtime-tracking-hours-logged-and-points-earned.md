@@ -1,7 +1,7 @@
 ---
 title: "Navigating Steam's Playtime Tracking: Hours Logged & Points Earned"
-date: 2024-09-12T16:44:27.563Z
-updated: 2024-09-15T16:11:44.171Z
+date: 2024-10-28T23:06:50.993Z
+updated: 2024-10-31T03:59:11.170Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 * [How to See Your Steam Stats for 2023](#how-to-see-your-steam-stats-for-2023)
 * [What You'll Find in Your 2023 Steam Year in Review](#what-you-39-ll-find-in-your-2023-steam-year-in-review)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam's Year in Review is now available, showing you your gaming stats, achievements, and more from 2023.
@@ -45,18 +52,18 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
 ![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you had opened the Steam app between December 19 and 21, 2023, you would have seen the Year in Review banner at the top of the store page. However, if you missed that, you can still see the banner if you scroll down a bit during December 2023.
 
  But if you missed the banner and can't find it, you should see the report announcement in your Steam-registered email, provided you did not unsubscribe to Steam's email newsletter or[block emails on Gmail](https://www.makeuseof.com/tag/block-emails-gmail/) .
 
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Just look for the email with the subject "**Your Steam Year In Review 2023 is Here!"** from**<noreply@steampowered.com>** . When you open it, press**See Your Year in Review** to see your report in your browser.
 
@@ -65,13 +72,20 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 ![View Steam Year in Review in Steam Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/view-steam-year-in-review-in-steam-notifications.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What You'll Find in Your 2023 Steam Year in Review
 
@@ -86,13 +100,6 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
  You should see the share button at the bottom of your Steam Year in Review. When you click this, you'll see three photos you can download for sharing on social media.
 
 ![Sharing your Steam Year in Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/share-steam-year-in-review.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also share it directly on Facebook, X, Reddit, and on your Steam Friends Activity and Steam Profile Showcase. It also has a copy link button to directly share your Steam Year in Review 2023 page via messaging.
 
@@ -111,5 +118,18 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-limitless-text-in-format-best-free-psd/"><u>[Updated] Limitless Text in Format Best FREE PSD</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-games-curiosity-or-concerns/"><u>Ephemeral Games – Curiosity or Concerns?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-canon-software-drivers-for-new-win11-os/"><u>Essential Canon Software: Drivers for New Win11 OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-google-pixel-8-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 8 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-generative-ai-for-text-chats-a-bad-idea-unpacking-7-key-concerns/"><u>Is Generative AI for Text Chats a Bad Idea? Unpacking 7 Key Concerns</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-steps-for-reviewing-gameplay-durations-on-xbox/"><u>Key Steps for Reviewing Gameplay Durations on Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-steams-friends-error-in-windows-11/"><u>Unblocking Steam's Friends Error in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-extra-features-top-5-advantages-in-paid-mobile-gaming-apps/"><u>Unlock Extra Features: Top 5 Advantages in Paid Mobile Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-6-ways-to-start-up-ps5/"><u>Unveiling the 6 Ways to Start Up PS5</u></a></li>
+</ul></div>
 

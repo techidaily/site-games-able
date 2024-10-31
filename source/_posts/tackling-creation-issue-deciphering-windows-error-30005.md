@@ -1,7 +1,7 @@
 ---
 title: Tackling Creation Issue - Deciphering Windows Error 30005
-date: 2024-09-08T16:10:59.713Z
-updated: 2024-09-15T16:16:19.834Z
+date: 2024-10-27T03:47:44.430Z
+updated: 2024-10-31T04:45:21.753Z
 tags:
   - games
 categories:
@@ -63,16 +63,17 @@ To do this, follow these steps:
 4. To delete the file, right-click on it and select**Delete** .  
 ![Deleting the EasyAntiCheat.Sys File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-deleting-the-easyanticheat-sys-file-in-windows-file-explorer.jpg)
 5. Grant administrator permission if it is requested in the UAC window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Relaunch the game.
 
 If you encounter the same error again, proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Can't Uninstall the EasyAntiCheat.Sys File?
 
@@ -90,16 +91,10 @@ If you encounter the same error again, proceed to the next step.
  If you have installed the game through Steam, you can repair your game files more easily. In our guide on[repairing game files using different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/#how-to-verify-game-file-integrity-on-steam) , we have covered the process for verifying the integrity of game files (or fixing corrupt game files) in Steam. So, follow the relevant instructions to repair corrupt files.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Whitelist Easy Anti-Cheat in Windows Defender or Antivirus
@@ -115,10 +110,10 @@ If you encounter the same error again, proceed to the next step.
  If you aren't familiar with the process to whitelist apps, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Kernel-Mode Hardware-Enforced Stack Protection
@@ -135,6 +130,13 @@ If you encounter the same error again, proceed to the next step.
 5. Reboot your device.
 
  If the Kernel-mode Hardware-enforced Stack Protection feature isn't available in the Device Security settings, then your processor doesn't support it. If that is the case, you can skip this fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Ensure the Easy Anti-Cheat Service Is Running
 
@@ -157,15 +159,22 @@ If you encounter the same error again, proceed to the next step.
 5. In the UAC window, click**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click on**Repair Service** .  
 ![Repairing the Easy Anti-Cheat Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/easy-anticheat-software.jpg)
 7. After that, click**Finish** and run the game.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall Easy Anti-Cheat
 
@@ -174,13 +183,6 @@ If you encounter the same error again, proceed to the next step.
  To do that, follow the same steps explained above and run the Easy Anti-Cheat setup file again. Then, instead of clicking on**Repair** , click on**Uninstall** in the bottom-left corner.
 
 ![Uninstalling the Easy Anti-Cheat in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstalling-the-easy-anti-cheat-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, click on**Install Easy Anti-Cheat** . Then click**Finish** .
 
@@ -201,5 +203,24 @@ If you encounter the same error again, proceed to the next step.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-integrate-playlist-into-facebook-cross-platform-method/"><u>[New] 2024 Approved Integrate Playlist Into Facebook - Cross-Platform Method</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>[New] Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-join-the-hilarity-tearfulness-spectacle-of-top-memes-on-ig/"><u>[Updated] 2024 Approved Join the Hilarity-Tearfulness Spectacle of Top Memes on IG</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[Updated] In 2024, Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-ps5-security-crafting-effective-passcodes/"><u>Conquering PS5 Security: Crafting Effective Passcodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/diving-into-the-price-structure-for-sonys-gaming-service/"><u>Diving Into the Price Structure for Sony's Gaming Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-selection-the-leading-docu-series-on-max-this-july-2024/"><u>Exclusive Selection: The Leading Docu-Series on Max This July 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-maximizing-your-win11-conference-capabilities/"><u>Expert Tips Maximizing Your Win11 Conference Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/going-deeper-how-accessory-improves-play/"><u>Going Deeper: How Accessory Improves Play</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-streamlining-steam-services-in-windows-11/"><u>Mastering the Art of Streamlining Steam Services in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-amd-best-gpu-for-gamers/"><u>Nvidia VS AMD: Best GPU for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-along-with-youtubes-newest-test-mini-games/"><u>Play Along with YouTube's Newest Test Mini-Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-account-management-challenges-on-nintendo-switch/"><u>Tackling Account Management Challenges on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-and-uses-of-dual-capable-monitors/"><u>The Significance and Uses of Dual-Capable Monitors</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/windows-exclusive-silence-extraction-software-reviews-for-2024/"><u>Windows-Exclusive Silence Extraction Software Reviews for 2024</u></a></li>
+</ul></div>
 

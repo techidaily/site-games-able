@@ -1,7 +1,7 @@
 ---
 title: Decoding the Idleness Status in Digital Conversations
-date: 2024-09-13T16:04:44.772Z
-updated: 2024-09-15T16:49:40.461Z
+date: 2024-10-29T21:00:04.700Z
+updated: 2024-10-31T00:35:03.036Z
 tags:
   - games
 categories:
@@ -33,9 +33,29 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  When you see that someone is "idle" on Discord, what does it mean? Are they available for a chat or are they away from their desk? Here's everything you need to know about the idle status on Discord and whether it's accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Does Idle Mean on Discord?
 
 ![discord online and idle statuses in friends list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/discord-online-and-idle-statuses-in-friends-list.png)
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Being idle on Discord means one of three things: the person has not interacted with their computer for 10 minutes, the person has minimized the app on their smartphone, or they have manually selected the idle status.
 
@@ -51,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 
  If you manually select the idle status, you will remain idle regardless of whether you message someone or use the app in other ways. In fact, you can even be actively talking or streaming in a voice channel and the app will continue to show you as idle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Switch Your Discord Status to Idle
 
  There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
@@ -58,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to[set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
@@ -69,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/b8ee7f668d81642e85ade38e34abffd540ab85d6f
 Close
 
  If you're using the mobile app, select the**You** tab at the bottom of the app. Then tap on your**profile picture** and select**Idle** . Discord will switch your status immediately.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is the Discord Idle Status Always Accurate?
 
@@ -100,5 +120,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-breathe-life-into-your-reels-adding-drama-with-slow-motion-for-2024/"><u>[Updated] Breathe Life Into Your Reels Adding Drama with Slow Motion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-quick-fix-efficient-use-of-the-eraser-in-psx/"><u>2024 Approved The Quick Fix Efficient Use of the Eraser in PSX</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/boost-productivity-on-your-mac-an-overview-of-great-tts-apps-for-2024/"><u>Boost Productivity on Your Mac An Overview of Great TTS Apps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y200e-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y200e 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/operaside-vs-edge-epic-battle-in-the-world-of-gaming-browsers/"><u>Operaside vs Edge: Epic Battle in the World of Gaming Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-your-favorite-games-with-these-5-mac-tricks/"><u>Revel in Your Favorite Games with These 5 Mac Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-exciting-two-person-debates-spin-the-digital-tale/"><u>Six Exciting Two-Person Debates: Spin the Digital Tale</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-an-alternate-linguistic-base-in-steam/"><u>Switch to an Alternate Linguistic Base in Steam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-singing-equipment-the-ultimate-guide-to-the-best-karaoke-machines-in-2er-2024/"><u>Top-Rated Singing Equipment: The Ultimate Guide to the Best Karaoke Machines in 2Er 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforma-grabacion-de-telefono-movil-gsm-a-formato-video-mp4-en-un-solo-click/"><u>Transforma Grabación De Teléfono Móvil GSM a Formato Video MP4 en Un Solo Click</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discovering the Thrill of Racing with MOZA R5 Bundle
-date: 2024-09-10T16:28:48.556Z
-updated: 2024-09-15T16:36:54.244Z
+date: 2024-10-23T23:52:03.698Z
+updated: 2024-10-31T00:54:53.032Z
 tags:
   - games
 categories:
@@ -105,6 +105,13 @@ Yes
 
 [$549 at Amazon](https://www.amazon.com/Racing-Gaming-Simulator-Bundle-Steering-PC/dp/B07DW25P3R?tag=muo-v2-51um1p3-20&ascsubtag=UUmuoUeUpU2030726&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fmoza-r5-bundle-review%2F&asc%5Fcampaign=Affiliate) [See at MOZA Racing](https://mozaracing.com/product/r5-bundle)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What’s in the Boxes?
 
  For testing, we received the basic R5 bundle with all the included add-ons: the Formula Wheel Mod for the ES Steering Wheel; Brake Performance Kit; and clutch for the bundled pedals. I’ll be covering these accessories in detail later.
@@ -145,13 +152,6 @@ Yes
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MOZA R5 Bundle Hardware Setup Experience
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
@@ -164,6 +164,13 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MOZA Pit House Software
 
 ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
@@ -172,22 +179,16 @@ Yes
 
 ![MOZA Pit House basic wheel base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-basic-wheel-base-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![MOZA Pit House pedal curves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-pedal-curves.jpg)
 
 ![Pit House Resetting Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pit-house-resetting-software.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -208,10 +209,16 @@ Close
 ![Pedal curve settings bugging out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings-bugging-out.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Pedal curve settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings.jpg)
@@ -221,6 +228,13 @@ Close
 ![FFB frequency settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ffb-frequency-settings.jpg)
 
 ![Wheel base settings advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/wheel-base-settings-advanced.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![MOZA Racing Mobile App Wheel Base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-mobile-app-wheel-base-settings.jpg)
 
@@ -266,13 +280,6 @@ Close
 
  The thin black paint on the QR system did eventually get scratched up over a few weeks of use, but that’s to be expected as it’s hard and heavy metal constantly rubbing on each other. Despite the cosmetic damage, I doubt detaching and reattaching wheels would lead to any significant damage. They could probably leave that part unpainted, but that would detract from the overall look of the base.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MOZA R5 Bundle: Driving Experience
 
  Coming from a Logitech G29, the driving experience is wildly different. It’s no longer a clunky mess that feels like it’s about to rattle itself to pieces. It legitimately feels immersive and connected. I’ve separated the driving experience into three sections so I can go into detail for each major component.
@@ -280,6 +287,13 @@ Close
 ### MOZA R5 Wheel Base
 
 ![Turning with Formula Wheel mod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/turning-with-formula-wheel-mod.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -327,6 +341,13 @@ Close
 
  I also like that it has a matte black finish instead of the shiny brushed style on the original ES wheel. I’d be careful driving with it, though, as the thick metal can really hurt the hands during crashes, especially your thumbs.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Buy the MOZA R5 Bundle, and Are the Add-Ons Worth It?
 
  The MOZA R5 Bundle at only $499 is amazing value that’s hard to find even from other brands. You’d probably want to go with Fanatec for console support, but I’m not a fan of Fanatec’s expensive upgrade path, locked-down ecosystem, and high shipping fees.
@@ -338,10 +359,10 @@ Close
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### MOZA R5 Bundle
@@ -367,5 +388,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-flip-and-flash-unveiling-the-power-of-instagrams-angled-photos-for-2024/"><u>[New] Flip and Flash Unveiling the Power of Instagram's Angled Photos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-dominance-assessing-oled-amoled-and-ips-efficacy/"><u>Display Dominance: Assessing OLED, AMOLED & IPS Efficacy</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hashtagtrackers-find-the-best-4-applications-to-stay-updated-on-twitter-chats/"><u>HashtagTrackers: Find the Best 4 Applications to Stay Updated on Twitter Chats</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-11-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 11 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/making-a-mark-with-square-video-formats-using-imovie-and-instagram/"><u>Making a Mark with Square Video Formats Using iMovie and Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-minimalist-entertainment-top-10-no-cost-ad-free-games/"><u>Mastering Minimalist Entertainment - Top 10 No-Cost, Ad-Free Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-ensure-your-next-handheld-games-device-meets-expectations/"><u>Steps to Ensure Your Next Handheld Games Device Meets Expectations</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/stop-the-blue-screen-nightmare-overcoming-error-0xc000021a-in-windows-11-and-8-your-complete-fixer/"><u>Stop the Blue Screen Nightmare: Overcoming Error 0xC000021A in Windows 11 and 8 - Your Complete Fixer</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-keeping-your-steam-deck-at-the-perfect-temperature/"><u>The Ultimate Guide to Keeping Your Steam Deck at the Perfect Temperature</u></a></li>
+</ul></div>
 

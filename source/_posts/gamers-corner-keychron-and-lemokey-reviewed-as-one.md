@@ -1,7 +1,7 @@
 ---
 title: "Gamer’s Corner: Keychron & Lemokey Reviewed as One"
-date: 2024-09-13T16:49:47.796Z
-updated: 2024-09-15T16:28:14.262Z
+date: 2024-10-23T22:20:54.658Z
+updated: 2024-10-31T02:12:02.094Z
 tags:
   - games
 categories:
@@ -128,6 +128,13 @@ No
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
@@ -160,6 +167,13 @@ No
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Battery Life and Connectivity
 
  Battery life is another plus point for the Lemokey L3—though, given its weight, I strongly doubt you'll ever roam too far from a USB-C port or an outlet. The Lemokey L3 is rated for up to 200 hours while using 2.4GHz wireless, rising to a whopping 300 hours while using Bluetooth. I didn't track this precisely, but I never ran out of battery using either wireless mode.
@@ -167,6 +181,13 @@ No
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
  Hannah Stryker / MakeUseOf
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -181,10 +202,10 @@ No
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
@@ -192,6 +213,13 @@ No
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Customization With VIA
 
@@ -202,13 +230,6 @@ No
  At other times, you might make changes without realizing it and then struggle to revert them. I swapped out the top row of numbers with Macro 0 keys accidentally, but there is no CTRL + Z option to undo your changes. VIA is a great tool, but if Keychron wants to attract a large slice of the gaming keyboard market, it might be time to create an in-house tool.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -225,13 +246,6 @@ No
  Overall, the Lemokey L3 might not be an outright gaming keyboard, but it's a brilliant keyboard in all other areas.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
@@ -256,5 +270,18 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pro-3-unboxed-a-comprehensive-review-of-ions-marvel/"><u>[New] 2024 Approved Pro 3 Unboxed A Comprehensive Review of ION's Marvel</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cutting-edge-techniques-for-captivating-readership-on-subreddits-for-2024/"><u>[New] Cutting-Edge Techniques for Captivating Readership on Subreddits for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-signals-recognizing-offline-players-on-xbox-xs/"><u>Deciphering Signals: Recognizing Offline Players on Xbox X/S</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-vs-edge-battle-royale-best-gaming-browsers-edition/"><u>Opera GX vs Edge Battle Royale: Best Gaming Browsers Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/programming-evolution-the-ai-factor/"><u>Programming Evolution: The AI Factor</u></a></li>
+<li><a href="https://games-able.techidaily.com/rival-tech-titans-diving-into-the-world-of-asus-tuf-proart-and-prime/"><u>Rival Tech Titans: Diving Into the World of Asus, TUF, ProArt & Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-gaming-performance-xbox-plus-external-monitor-setup/"><u>Streamline Gaming Performance: Xbox + External Monitor Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-reviews-and-news-on-computer-hardware/"><u>Tom's Tech Insights: In-Depth Reviews and News on Computer Hardware</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-list-action-cameras-ideal-mics-for-2024/"><u>Ultimate List Action Camera's Ideal Mics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-steams-file-stowage-strategy/"><u>Understanding Steam's File Stowage Strategy</u></a></li>
+</ul></div>
 

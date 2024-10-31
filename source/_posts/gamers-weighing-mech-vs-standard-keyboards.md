@@ -1,7 +1,7 @@
 ---
 title: Gamers Weighing Mech Vs. Standard Keyboards
-date: 2024-09-14T16:59:17.466Z
-updated: 2024-09-15T16:23:37.467Z
+date: 2024-10-26T03:16:26.514Z
+updated: 2024-10-31T02:59:46.308Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Lighter Actuation Force
 
 ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
@@ -46,13 +53,6 @@ Jhet Borja/MakeUseOf
  Unless you specifically build your mechanical keyboard to have a heavy actuation force,[the most popular mechanical keyboard switches](https://www.makeuseof.com/most-popular-mechanical-keyboard-switches-how-they-impact-gaming/) require little actuation force compared to common rubber dome keyboards.
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mechanical Keyboards Have Better Tactile Feedback
 
@@ -70,6 +70,13 @@ Jhet Borja/MakeUseOf
 
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gaming mechanical keyboards have come a long way since they were first popularized in the early 2010s. Gaming brands have come up with many new features that bring gaming to a different level.
 
  You have the commonly found features such as[N-key rollover](https://www.makeuseof.com/what-is-n-key-rollover-mechanical-keyboards/) (allowing you to press multiple keys at once), customizable macro keys, low-latency wireless, and active lighting features.
@@ -79,10 +86,10 @@ Jhet Borja/MakeUseOf
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mechanical Keyboards Are Highly Customizable
@@ -98,16 +105,10 @@ Jhet Borja/MakeUseOf
  You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Drawbacks of Mechanical Keyboards for Gaming
@@ -118,6 +119,13 @@ Jhet Borja/MakeUseOf
 
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  Mechanical keyboards tend to be heavier. While enthusiasts would see this as a plus, this can be a drawback for many. Repositioning your keyboard mid-game can get tiring and it makes it less portable.
@@ -126,29 +134,22 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mechanical Keyboards Cost More
 
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
  Mechanical keyboards are composed of more components: the switches, keycaps, PCB, case, backplate, etc. These things combined end up making a fully functional mechanical keyboard more expensive.
 
  Most non-mechanical keyboards are pretty straightforward, having a PCB that doesn’t need switches to actuate, a singular rubber lattice that’s practically indestructible through normal use, and a simple plastic housing and keycaps. This makes them cheaper and lighter.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mechanical Keyboards Are Louder
 
@@ -179,5 +180,16 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-brilliant-setups-top-17-gear-for-online-videographers/"><u>[Updated] Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-earnings-facebooks-blue-icon-badge/"><u>[Updated] In 2024, Mastering the Art of Earnings Facebook’s Blue Icon Badge</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-melodic-matchmaking-music-that-matters-on-social-media/"><u>[Updated] In 2024, Melodic Matchmaking Music That Matters on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-a-journey-to-unmatched-visual-clarity-in-gaming-xbox-sx-edition/"><u>Embark on a Journey to Unmatched Visual Clarity in Gaming: Xbox SX Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-address-disrespectful-actions-on-series-xs-console/"><u>How to Address Disrespectful Actions on Series X/S Console</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/reviving-wet-iphones-effective-strategies-for-retrieving-lost-information-from-a-damaged-iphone-66s/"><u>Reviving Wet iPhones: Effective Strategies for Retrieving Lost Information From a Damaged iPhone 6/6S</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-to-conquering-the-new-york-times-puzzle-a-strands-guide/"><u>The Key to Conquering the New York Times Puzzle: A 'Strands' Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-on-extracting-audio-from-video-file-format-vvf-techniques-and-tools/"><u>Ultimate Tutorial on Extracting Audio From Video File Format (.vvf): Techniques and Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-devices-bluetooth-enabled-gaming-tech/"><u>Uniting Devices: Bluetooth-Enabled Gaming Tech</u></a></li>
+</ul></div>
 

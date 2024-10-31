@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Gaming Experience: Mastering Steam's Space"
-date: 2024-09-10T16:11:12.162Z
-updated: 2024-09-15T16:24:43.057Z
+date: 2024-10-23T16:57:26.984Z
+updated: 2024-10-30T22:16:54.849Z
 tags:
   - games
 categories:
@@ -39,21 +39,35 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
  While the new Steam Storage Manager is great, it’s still hard to get to. Most people don’t even know it exists yet. Once you know where to find it, it’ll be hard to forget, though. Here are two ways to open the Steam Storage Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open the Steam Storage Manager Through the Steam Settings
 
 ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
@@ -62,22 +76,29 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
  While you’re at the Downloads page, you might want to check out[how to increase your Steam download speeds](https://www.makeuseof.com/tag/steam-download-speeds/) so you don’t have to wait so long to get playing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add a New Steam Library Folder or Drive
 
  Adding a new Steam Library folder is quite easy. You can add a new Steam Library folder within the same drive, or on a new drive. Simply click on the drive name at the top of the Storage section and click**Add Drive** .
 
 ![Steam Storage Add Drive button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-add-drive-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can select a drive to automatically add a \\SteamLibrary folder into it, or you could also click on**Let me choose another location.**
 
 ![Add a new Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/add-a-new-steam-library-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will open up File Explorer and you can choose which drive or folder you want to add a new Steam Library folder to. It doesn't even need to be an internal drive, you can use an[external drive to store your Steam Games](https://www.makeuseof.com/how-to-play-steam-games-on-an-external-drive-with-steam-storage-manager/) and play straight from the external drive!
 
@@ -91,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
 ## How to Move Steam Games to Another Folder
@@ -105,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
  Now that you’ve added a new drive or Steam Library folder, you might want to transfer some games over if you’re planning to do a migration. This is really easy to do with the new storage manager and it only takes a few clicks.
 
 ![Moving Steam games to different Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moving-steam-games-to-different-steam-library-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Firstly, select the games you want to transfer by clicking on the empty box on the right side of each game. Once you’ve selected at least one game, the**Move** and**Uninstall** button will have brightened up. Click on**Move** and a pop-up will show.
 
@@ -138,5 +145,22 @@ thumbnail: https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-easy-and-speed-share-youtube-playlists-now/"><u>[New] Easy & Speed Share YouTube Playlists Now</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-your-true-instagram-potential-followers-guide/"><u>[Updated] 2024 Approved Unlock Your True Instagram Potential - Followers Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-closer-conversations-mastering-in-camera-precision/"><u>[Updated] Closer Conversations Mastering In-Camera Precision</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tailored-gaming-experience-without-cross-play-in-apex/"><u>[Updated] Tailored Gaming Experience without Cross-Play in Apex</u></a></li>
+<li><a href="https://fox-http.techidaily.com/10-free-and-paid-luts-for-canon-camera-for-2024/"><u>10 Free & Paid LUTs for Canon Camera for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-enhancing-meeting-success-with-microsoft-teams-snap-camera/"><u>2024 Approved Enhancing Meeting Success with Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-commandment-picking-a-champion-between-chips/"><u>Console Commandment: Picking a Champion Between Chips</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-consoles-visual-performance/"><u>Customize Your Console's Visual Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-device-connected-download-toshiba-bluetooth-drivers-now/"><u>Get Your Device Connected - Download Toshiba Bluetooth Drivers Now!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-in-class-memetics-engine/"><u>In 2024, Best-in-Class Memetics Engine</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-engagement-through-strategic-posting/"><u>Maximizing Engagement Through Strategic Posting</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-restart-your-playstation-4-console/"><u>The Essential Guide to Restart Your PlayStation 4 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/twin-strategies-for-top-notch-tetris-mobile-battles/"><u>Twin Strategies for Top-Notch Tetris Mobile Battles</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-essence-of-idle-status-in-online-chats/"><u>Uncovering the Essence of Idle Status in Online Chats</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-xbox-content-on-discord-servers/"><u>Unleashing Xbox Content on Discord Servers</u></a></li>
+</ul></div>
 

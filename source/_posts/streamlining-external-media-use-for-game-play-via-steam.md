@@ -1,7 +1,7 @@
 ---
 title: Streamlining External Media Use for Game Play via Steam
-date: 2024-09-12T17:09:47.989Z
-updated: 2024-09-15T17:14:55.180Z
+date: 2024-10-27T00:24:54.690Z
+updated: 2024-10-30T21:32:03.053Z
 tags:
   - games
 categories:
@@ -39,9 +39,23 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 ![Adding new Steam Library Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adding-new-steam-library-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don’t want to put the folder in the outermost layer, you can click**Let me choose another location** instead. Choose your external drive and click the location you want it to go to.
 
  You can install Steam games directly on your external drive once you've added a Steam Library folder into it. Although, we only suggest this if the game isn't already in your internal drives as the existing files will interfere. If the game exists in your internal drives, figure out how to move it to your external drive below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Move Your Steam Games to Your External Drive
 
@@ -51,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
 ![Moving game to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/moving-game-to-external-drive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on the local drive that stores your games and on the right side you can check the boxes of the games you want to move to the external drive.
 
  Once you select at least one game, the**Move** and**Uninstall** buttons will brighten up and become clickable. Click**Move** and choose the external drive you just added. You might want to check out[the best external SSDs](https://www.makeuseof.com/best-portable-ssds/) to speed up the transfer time and improve loading times for more demanding games.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Copy Your Steam Games to Your External Drive
 
@@ -71,19 +85,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
  In the Steam Storage Manager, select your local Steam drive and on the right side of the progress bar, click on the button with**three dots** , then click on**Browse Folder** .
 
 ![Copy and pasting game from local drive to external drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/copy-and-pasting-game-from-local-drive-to-external-drive.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should open up the**\\steamapps** folder, you can then proceed to open the**\\common** folder. Open the same folder on your external drive so you can paste it afterwards.
 
@@ -107,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 
  Instead of a bulky external drive, you could even use a high-speed MicroSD card and a fast card reader for an ultra-compact experience that even fits in your wallet, or in your phone! Just make sure to avoid these[common mistakes when buying a MicroSD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Carry Your Steam Library in Your Pocket
 
  Being able to bring your Steam games with you and play on any system that can handle those games without needing to do any complicated file verification steps like in the past is a great privilege to have thanks to the Steam Storage Manager.
@@ -126,5 +134,21 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gamers-sound-showdown-the-top-5-headset-list/"><u>[Updated] 2024 Approved Gamers' Sound Showdown The Top 5 Headset List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-rectified-hidden-status-of-shorts/"><u>[Updated] In 2024, Rectified Hidden Status of Shorts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-photography-gurus-guide-to-date-stamping/"><u>[Updated] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-versus-computer-gameplay-dynamics/"><u>Console Versus Computer: Gameplay Dynamics</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-ps5s-covert-browsing-feature/"><u>Discovering PS5's Covert Browsing Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/effective-mousekeyboard-integration-for-steam-deck-using-barriers/"><u>Effective Mouse/Keyboard Integration for Steam Deck Using Barriers</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-iphones-capabilities-with-games-galore/"><u>Elevate Your iPhone's Capabilities with Games Galore</u></a></li>
+<li><a href="https://win-news.techidaily.com/festplattenreparatur-wiederherstellung-und-erweiterung-von-nicht-zugeordnetem-speicherplatz/"><u>Festplattenreparatur: Wiederherstellung Und Erweiterung Von Nicht Zugeordnetem Speicherplatz</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/google-tv-on-chromecast-the-ultimate-review-to-decide-between-it-and-firetv/"><u>Google TV on Chromecast - The Ultimate Review to Decide Between It and FireTV.</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-t2-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo T2 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-playstation-controller-with-mobile-devices/"><u>Integrating PlayStation Controller with Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unveils-geforce-now-but-what-are-the-real-benefits/"><u>Nvidia Unveils GeForce Now, But What Are the Real Benefits?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-art-of-ad-free-earning-on-youtube-strategies-for-self-reliance-creators-for-2024/"><u>The Art of Ad-Free Earning on YouTube Strategies for Self-Reliance Creators for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-your-phone-with-ease-new-feature-lets-you-manage-android-from-windows-11s-home-screen/"><u>Unlock Your Phone with Ease: New Feature Lets You Manage Android From Windows 11'S Home Screen</u></a></li>
+</ul></div>
 

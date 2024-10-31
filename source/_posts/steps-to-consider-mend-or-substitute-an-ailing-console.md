@@ -1,7 +1,7 @@
 ---
 title: "Steps to Consider: Mend or Substitute an Ailing Console"
-date: 2024-09-10T16:35:25.557Z
-updated: 2024-09-15T16:18:23.637Z
+date: 2024-10-28T02:22:11.974Z
+updated: 2024-10-31T03:53:39.470Z
 tags:
   - games
 categories:
@@ -43,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
  From here, your console serial number and those of the battery and Joy-Con will be displayed on-screen. However, while this method works universally, if your Switch is non-functioning or won't turn on, you'll have to find the serial number by analyzing your console or its original box.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Check Your Nintendo Switch’s Warranty Status
 
  Now you know the serial number of your Switch, you can move on with checking the warranty status of your console and booking a repair. It's important to check the warranty status of your Switch beforehand as if your console is under warranty, Nintendo will likely repair your console for free.
@@ -61,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
  However, it may be worth checking some[common fixes for Nintendo Switch problems](https://www.makeuseof.com/fix-nintendo-switch-problems/) before booking a repair. This way, you may avoid any repair fees if your console is out of warranty.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Book Your Nintendo Switch In for a Repair
 
  If you have decided to go ahead with repairing your Nintendo Switch officially, with or without the free price tag that comes with the warranty of your Nintendo Switch, there are a few requirements you'll need to go through beforehand.
@@ -75,6 +95,19 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![A screenshot of the troubleshooting information for a Nintendo Switch repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3064.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the option below**General Troubleshooting** that best defines the fault with your Nintendo Switch.
 
 ![A screenshot of the General Troubleshooting options of the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3067.jpg)
@@ -87,24 +120,18 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
 
 ![A screenshot of the required Product Information when booking a repair via the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3079.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Nintendo Repair Center will then quote you a fee for how much the repair will cost. If your Switch is under warranty and not affected by screen damage this fee should be waived. To confirm the repair, select**Continue** .
 
 ![A screenshot of the finalized Repair Details for a Nintendo Switch repair via the Nintendo Repair Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3082.jpg)
 
  You will now need to enter any personal information relevant to the repair process and confirm your methods of delivery to and from the repair center. Once this has been completed, you need to pay for the repair. But with the repair paid for and delivery confirmed, you have successfully booked a repair for your Nintendo Switch.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repair Your Nintendo Switch in the Most Effective Way Possible
 
@@ -125,5 +152,20 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/levating-user-experience-with-personalized-youtube-card-implementation/"><u>[New] Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-exploration-of-vsco-image-processing-for-2024/"><u>Comprehensive Exploration of VSCO Image Processing for 2024</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-optimized-user-experience-and-data-tracking/"><u>Cookiebot-Enabled: Optimized User Experience and Data Tracking</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/crafting-engaging-facebook-reels-the-making-process-explained-for-2024/"><u>Crafting Engaging Facebook Reels The Making Process Explained for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-and-speaking-with-snapchat-customer-care-a-comprehensive-approach/"><u>Finding and Speaking With Snapchat Customer Care: A Comprehensive Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-gamepad-to-tablet-bluetooth-bridge-explained/"><u>From Gamepad to Tablet: Bluetooth Bridge Explained</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-resolve-windows-11s-post-login-black-display-issue-a-step-by-step-guide/"><u>How to Resolve Windows 11'S Post-Login Black Display Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-the-best-new-gaming-hardware-we-want-to-try/"><u>IFA 2023: The Best New Gaming Hardware We Want to Try</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality/"><u>In 2024, An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-gamer-posture/"><u>Innovative Gamer Posture</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-original-founders-design-more-suitable-for-you/"><u>Is the Original Founders Design More Suitable for You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-thrilling-story-sharing-duos-text-edition/"><u>Six Thrilling Story-Sharing Duos: Text Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-transforming-iphone-into-game-machine/"><u>The Ultimate Guide to Transforming iPhone Into Game Machine</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2024-10-23T04:59:10.700Z
-updated: 2024-10-24T23:12:05.590Z
+date: 2024-10-28T01:39:32.357Z
+updated: 2024-10-30T21:45:34.867Z
 tags:
   - games
 categories:
@@ -44,15 +44,28 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Select**Vibration settings** .
@@ -63,23 +76,9 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With**Turn on vibration** unchecked and disabled, your current controller**Profile** will have vibration universally disabled no matter what game or app you use on your Xbox. Inversely, if you ever want to re-enable vibration, simply go back into**Vibration settings** and ensure**Turn on vibration** is selected.
 
  If you ever switch your controller**Profile** or reset a**Profile** to default settings, your vibration preferences would be overwritten. In this case, you would need to[configure your Xbox Series X|S controller](https://www.makeuseof.com/configure-xbox-series-s-x-controller/) again to ensure vibration is disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customize Your Xbox Wireless Controller to Suit You
 
@@ -88,10 +87,16 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  So, by customizing your controller settings to your preferences, you can even go on to do the same for your Xbox Series X|S to help guarantee your gaming experience.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -99,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
@@ -123,20 +135,19 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-perfecting-visuals-how-to-remove-images-edges-in-canva/"><u>[New] 2024 Approved Perfecting Visuals How to Remove Images' Edges in Canva</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-rotate-videos-for-instagram-a-guide-for-desktop-and-mobile-users-alke-for-2024/"><u>[New] Rotate Videos for Instagram A Guide for Desktop and Mobile Users Alke for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fast-track-controlling-netflix-playback-speeds/"><u>[Updated] Fast Track - Controlling Netflix Playback Speeds</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-capture-and-share-vlogs-effectively-fb-via-obs-for-2024/"><u>[Updated] How to Capture & Share Vlogs Effectively (FB via OBS) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-disable-igtv-feature/"><u>[Updated] In 2024, How to Disable IGTV Feature</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-wallets-gaming-capacity-on-steam/"><u>Enhancing Your Wallet's Gaming Capacity on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoy-full-adventure-of-baldurs-gate-3-easily-through-crossover-on-macos/"><u>Enjoy Full Adventure of Baldur’s Gate 3 Easily Through CrossOver on macOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-raspberry-pi-pico/"><u>Essential Gadgets for Your Raspberry Pi Pico</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/essential-hash-strategies-for-optimizing-youtube-gameplay-videos-for-2024/"><u>Essential Hash Strategies for Optimizing YouTube Gameplay Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-check-out-how-much-vram-you-have/"><u>How to Check Out How Much VRAM You Have</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-enhance-dota-2s-fps-under-windows-11-and-10-expert-tips-and-tricks/"><u>How to Enhance Dota 2'S FPS Under Windows 11 and 10: Expert Tips & Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/leveraging-persuasive-techniques-for-impactful-steam-critiques/"><u>Leveraging Persuasive Techniques for Impactful Steam Critiques</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5s-leap-from-bulky-to-compact-wonder/"><u>PS5's Leap From Bulky to Compact Wonder</u></a></li>
-<li><a href="https://games-able.techidaily.com/tactical-triumphs-an-exclusive-guide-to-top-11-strategy-titles/"><u>Tactical Triumphs: An Exclusive Guide to Top 11 Strategy Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-modern-retro-consoles/"><u>The Best Modern Retro Consoles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-video-playback-speed-on-instagram/"><u>[New] 2024 Approved Boosting Video Playback Speed on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-personalize-facebook-page-with-video/"><u>[New] Personalize Facebook Page with Video</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-parable-pioneers-guild-premier-peak/"><u>[Updated] Parable Pioneers Guild – Premier Peak</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimp-tutorial-mastering-filters-and-layers/"><u>2024 Approved GIMP Tutorial Mastering Filters & Layers</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-pc-malfunctions-solutions-and-fixes-you-can-try-today/"><u>Crusader Kings III PC Malfunctions: Solutions and Fixes You Can Try Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y100a-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y100A Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-performance-flawless-operation-install-latest-nvidia-driver/"><u>Enhanced Performance, Flawless Operation – Install Latest Nvidia Driver</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620235009-expert-strategies-for-converting-wmv-to-gifs-top-techniques-to-master-now/"><u>Expert Strategies for Converting WMV to GIFs: Top Techniques to Master Now!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-navigating-video-uploads-and-enhancements-in-instagram/"><u>In 2024, Navigating Video Uploads and Enhancements in Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-game-unlock-launcher-integration-tips/"><u>Steam Deck Game Unlock: Launcher Integration Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-in-guide-ps5-controller-compatibility-on-your-pc/"><u>Step-In Guide: PS5 Controller Compatibility on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-fixes-for-robloxs-code-262-hurdle/"><u>Swift Fixes for Roblox's Code 262 Hurdle</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-way-to-play-steam-games-anywhere-link-iphone-android/"><u>The Best Way to Play Steam Games Anywhere: Link, iPhone, Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-secrets-of-impressive-hdr-portraits/"><u>Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
 </ul></div>
 

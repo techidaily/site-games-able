@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2024-10-20T04:09:38.150Z
-updated: 2024-10-24T17:13:21.787Z
+date: 2024-10-28T02:54:25.116Z
+updated: 2024-10-30T19:13:25.477Z
 tags:
   - games
 categories:
@@ -45,19 +45,6 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
@@ -74,21 +61,22 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
@@ -103,13 +91,6 @@ Let’s explore some of the names leading the scene.
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
  Besides the two-player nature, one major difference between this game and other Foddian titles is the movement options. Both players can move the penguins left or right, jump, grab surfaces, swing using the tether binding them together, and anchor themselves by crouching. The map is designed around these mechanics—as certain areas are only accessible using the right movement options.
@@ -120,22 +101,16 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -146,6 +121,13 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -168,18 +150,24 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-social-media-videos-on-fb-with-the-right-ratio/"><u>[New] Optimize Your Social Media Videos on FB with the Right Ratio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-finest-free-and-paid-windows-drawing-software-ranked/"><u>2024 Approved Finest Free & Paid Windows Drawing Software Ranked</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-chatgpt-capabilities/"><u>Demystifying ChatGPT Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-spotting-guide-for-premier-apple-arcade-titles/"><u>Game-Spotting Guide for Premier Apple Arcade Titles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-11-best-practices-for-capturing-online-conferences-for-free/"><u>In 2024, 11 Best Practices for Capturing Online Conferences for Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-gps-glitches-pokemon-go-signal-fix/"><u>Navigating GPS Glitches: Pokémon GO Signal Fix</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-sync-path-for-android-plus-windows-duo/"><u>Step-by-Step Sync Path for Android + Windows Duo</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-burning-your-dvd-content-to-a-portable-usb-stick-compatible-with-windows-and-macos-systems/"><u>Step-by-Step Tutorial: Burning Your DVD Content to a Portable USB Stick, Compatible with Windows & macOS Systems</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/strengthening-forests-empowering-communities-abbyy-and-nffs-ambitious-goal-of-20000-trees-at-chippewa/"><u>Strengthening Forests, Empowering Communities: ABBYY and NFF's Ambitious Goal of 20,000 Trees at Chippewa</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-visuals-in-action-choosing-the-right-uw-monitors/"><u>Superior Visuals in Action: Choosing the Right UW Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-potential-dangers-lurking-in-linkedins-game-initiative/"><u>The Potential Dangers Lurking in LinkedIn's Game Initiative</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-compact-android-emulators-windows-and-macos/"><u>Top 8 Compact Android Emulators, Windows & MacOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-latest-in-screen-innovation/"><u>Unveiling the Latest in Screen Innovation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-profit-from-youtube-shorts-key-requirements-and-possible-returns/"><u>[New] In 2024, How to Profit From YouTube Shorts Key Requirements & Possible Returns</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-web-session-with-secure-windows-net/"><u>Elevate Your Web Session with Secure Windows Net</u></a></li>
+<li><a href="https://games-able.techidaily.com/evolution-of-gameplay-ps5-against-economical-pc/"><u>Evolution of Gameplay: PS5 Against Economical PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/googling-vs-steaming-games-the-distinct-paths-explored/"><u>Googling vs Steaming Games: The Distinct Paths Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-astral-expressions-top-30-bios-to-boost-your-signs-charm/"><u>In 2024, Astral Expressions Top 30 Bios to Boost Your Sign's Charm</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/incorporating-sound-in-windows-11-snipping-tool-recordings-max-156/"><u>Incorporating Sound in Windows 11 Snipping Tool Recordings (Max 156)</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-digital-realms-with-these-games/"><u>Journey Through Digital Realms with These Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/marketing-mastery-discerning-real-engagement-from-skewed-statistics/"><u>Marketing Mastery Discerning Real Engagement From Skewed Statistics</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-voice-over-made-easy-final-cut-pro-tips-and-tricks-for-beginners-for-2024/"><u>New Voice Over Made Easy Final Cut Pro Tips and Tricks for Beginners for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-adjustments-correcting-iphone-video-washout-in-premiere-pro-for-2024/"><u>Precision Adjustments Correcting iPhone Video Washout in Premiere Pro for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-handheld-accessories-guide-the-nintendo-switch-select/"><u>Premium Handheld Accessories Guide – The Nintendo Switch Select</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-select-of-6-diverse-video-games/"><u>Prime Select of 6 Diverse Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-input-syncing-pc-and-steam-deck-through-the-use-of-barriers/"><u>Seamless Input Syncing: PC & Steam Deck Through The Use of Barriers</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-play-the-guide-to-noiseless-xbox/"><u>Silent Play: The Guide to Noiseless Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-consider-mend-or-substitute-an-ailing-console/"><u>Steps to Consider: Mend or Substitute an Ailing Console</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-list-best-ps5-external-storage-solutions-for-2024/"><u>Ultimate List Best PS5 External Storage Solutions for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-10-best-meme-generator-apps-for-android-and-ios/"><u>Updated 10 Best Meme Generator Apps for Android and iOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-step-by-step-journey-into-twitchs-mobile-world/"><u>Your Step-by-Step Journey Into Twitch's Mobile World</u></a></li>
 </ul></div>
 

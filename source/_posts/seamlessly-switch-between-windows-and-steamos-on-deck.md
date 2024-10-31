@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Switch Between Windows & SteamOS on Deck
-date: 2024-10-23T18:11:36.935Z
-updated: 2024-10-24T19:37:49.215Z
+date: 2024-10-27T01:31:33.125Z
+updated: 2024-10-30T18:02:03.100Z
 tags:
   - games
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 * [How to Set Up a Dual Boot Manager on Your Steam Deck](#how-to-set-up-a-dual-boot-manager-on-your-steam-deck)
 * [Fixes for Dual Boot Issues on Your Steam Deck](#fixes-for-dual-boot-issues-on-your-steam-deck)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam Deck can dual boot with Windows, allowing users to have a familiar OS for productivity and access to Xbox Game Pass.
@@ -33,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/72f5184d5296c1cbee8c85039f08d18862c38c7bc
 * Users can use a third-party dual boot manager to avoid constantly using button combinations to switch OSes.
 
  You don't have to sacrifice SteamOS to have Windows on your Steam Deck, since the Steam Deck is capable of dual booting either through the official method or a third-party dual boot manager. Here's what you need to know about dual-booting Windows and SteamOS on your Steam Deck.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Dual Booting on Your Steam Deck?
 
@@ -70,13 +70,6 @@ Jhet Borja/MUO
  If you're here, it probably already means that you have two OSes on your Steam Deck. Now, here's how to switch between them...
 
 ![Volume down and power button to enter Steam Deck boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/volume-down-and-power-button-to-enter-steam-deck-boot-manager.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -109,10 +102,10 @@ Jhet Borja/MUO
 ![CMD commands for Clover on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/cmd-commands-for-clover-on-steam-deck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Command Prompt, enter these commands one at a time:
@@ -132,6 +125,13 @@ Jhet Borja/MUO
 
 ![Volume down and power button to enter Steam Deck boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/volume-down-and-power-button-to-enter-steam-deck-boot-manager.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jhet Borja/MUO
 
  Select SteamOS. Go to desktop mode by selecting Power after pressing the Steam button. Once you’re in desktop mode, make sure you have a sudo password set in SteamOS.
@@ -139,6 +139,13 @@ Jhet Borja/MUO
  Once your sudo password is set, search and open Konsole in the app launcher on the bottom left.
 
 ![First two Konsole commands for Clover Dual Boot Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/first-two-konsole-commands-for-clover-dual-boot-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By this point, we suggest having a browser open on your Steam Deck so that you can individually copy and paste these commands one by one on your Steam Deck.
 
@@ -160,6 +167,13 @@ Jhet Borja / MakeUseOf
 
  Once it’s installed, you can restart your Steam Deck to try it out. If it doesn’t look good to you, don’t worry, you can always add your own custom theme.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for Dual Boot Issues on Your Steam Deck
 
  The Clover dual boot manager isn’t an official Steam dual boot wizard as Valve is still working on that. This means you might face a few issues. Here are a few fixes in case you run into these problems...
@@ -167,6 +181,13 @@ Jhet Borja / MakeUseOf
 ### 1\. You Can’t Find SteamOS in the Boot Manager
 
 ![No SteamOS option in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/no-steamos-option-in-boot-manager.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -189,10 +210,10 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 ![Konsole command to make SteamOS appear in boot manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/konsole-command-to-make-steamos-appear-in-boot-manager.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This should put it back on the boot manager so that you don’t have to boot from the file anymore.
@@ -200,13 +221,6 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 ### 2\. Setting a Sudo Password
 
 ![Steam Deck user password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/steam-deck-user-password.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To set your sudo password, open desktop mode and head to **Settings** in the app manager or on the task manager at the bottom of your screen.
 
@@ -238,14 +252,14 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Run on CloverTask in Task Scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-on-clovertask-in-task-scheduler.jpg)
 
- Finally, right-click CloverTask once again and click **Run**.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Finally, right-click CloverTask once again and click **Run**.
 
 ### 4\. A SteamOS or Windows Update Broke Clover Dual Boot
 
@@ -255,23 +269,9 @@ sudo efibootmgr -c -L "SteamOS" -l "\EFI\steamos\steamcl.efi" -d /dev/nvme0n1p1
 
 ![Boot from file Steam Deck BIOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/boot-from-file-steam-deck-bios.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’re in the BIOS, select **Boot from file > eps > efi > steamos > steamcl.efi**. This will open up SteamOS and fix Clover.
 
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -292,24 +292,17 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-depth-3d-text-designs-in-illustrator/"><u>[New] Crafting Depth 3D Text Designs in Illustrator</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-mac-mavericks-blueprint-for-crafting-captivating-youtube-content/"><u>[Updated] Mac Mavericks' Blueprint for Crafting Captivating YouTube Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-6-premier-linkedin-video-downloader-tools/"><u>[Updated] The Ultimate Guide to 6 Premier LinkedIn Video Downloader Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/ddr5-system-standouts-best-in-24/"><u>DDR5 System Standouts: Best in '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-digital-retailers-a-steam-and-gog-comparison/"><u>Dissecting Digital Retailers: A Steam & GOG Comparison</u></a></li>
-<li><a href="https://games-able.techidaily.com/distraction-delighted-top-5-torturous-trials/"><u>Distraction Delighted: Top 5 Torturous Trials</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-vision-to-reality-personal-animation-mastery/"><u>From Vision to Reality Personal Animation Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-top-11-mobile-games-to-play-in-a-lifetime/"><u>Game On: Top 11 Mobile Games to Play in a Lifetime</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y02t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y02T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-the-cyber-arena-a-balanced-review-of-digital-games/"><u>Joining the Cyber Arena: A Balanced Review of Digital Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-paladins-finding-fun-with-friends-in-minecraft/"><u>Pixel Paladins: Finding Fun with Friends in Minecraft</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-motorola-razr-40-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Motorola Razr 40 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-find-x6-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Find X6 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/revolutionizing-virtual-meetings-hacks-for-effective-zoom-chats-for-2024/"><u>Revolutionizing Virtual Meetings Hacks for Effective Zoom Chats for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/sony-s6700-latest-features-reviewed-for-2024/"><u>Sony S6700 Latest Features Reviewed for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ten-word-based-wonders-the-ultimate-text-game-list/"><u>Ten Word-Based Wonders: The Ultimate Text Game List</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-6-step-playbook-to-activating-your-ps5/"><u>The 6-Step Playbook to Activating Your PS5</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-hidden-history-in-your-browser-how-to-tackle-for-2024/"><u>The Hidden History in Your Browser How to Tackle for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshoot-noise-reconnecting-headset-and-controller-steps/"><u>Troubleshoot Noise: Reconnecting Headset & Controller Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-reimagine-youtube-snapshots-with-luminous-outlines/"><u>[Updated] Reimagine YouTube Snapshots With Luminous Outlines</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-what-is-instagram-story-highlight/"><u>[Updated] What Is Instagram Story Highlight?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211455603-9781942253662-50-anos-de-milagros/"><u>50 años de milagros | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/easing-back-into-savings-with-digital-games-reimbursement/"><u>Easing Back Into Savings with Digital Games Reimbursement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-user-generated-content-music-posting-on-instagram/"><u>In 2024, Mastering User-Generated Content Music Posting on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-mac-gaming-in-sonoma-through-apples-game-mode/"><u>Maximizing Mac Gaming in Sonoma Through Apple’s Game Mode</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-zero-to-hero-top-10-cartoon-video-makers-for-beginners-for-2024/"><u>New From Zero to Hero Top 10 Cartoon Video Makers for Beginners for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/self-repair-options-to-optimize-your-windows-11-machine-easily/"><u>Self-Repair Options to Optimize Your Windows 11 Machine Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-steam-reactivation-methods/"><u>Swift Steam Reactivation Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-superior-audio-world-of-beyerdynamic-mmx-200/"><u>The Superior Audio World of Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-split-screen-adventures-for-solo-duos-on-mobile/"><u>Top 15 Split-Screen Adventures for Solo Duos on Mobile</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Honor X9a | Dr.fone</u></a></li>
 </ul></div>
 

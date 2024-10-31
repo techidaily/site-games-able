@@ -1,7 +1,7 @@
 ---
 title: Unlocking EA Play Features on PS5 - Subscribe and Use Wisely
-date: 2024-09-12T16:00:07.093Z
-updated: 2024-09-15T17:06:22.689Z
+date: 2024-10-29T17:42:18.803Z
+updated: 2024-10-30T23:05:30.613Z
 tags:
   - games
 categories:
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use an EA Play Membership on the PS5
 
  You won’t automatically find EA Play games in your library; you must go to the Play List to find and download the games. Here’s how to find them:
@@ -57,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
@@ -77,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## EA Play Saves You Money
@@ -102,5 +122,21 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>[New] In 2024, Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-final-thoughts-on-youtubing-best-makers-tips-and-templates-for-2024/"><u>[Updated] Final Thoughts on YouTubing - Best Makers, Tips, and Templates for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choosing-the-right-medium-audio-vs-video-based-platforms-for-2024/"><u>Choosing the Right Medium Audio vs Video-Based Platforms for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/come-effettuare-il-transferimento-di-file-in-una-sessione-guest-su-windows-10-8-o-7/"><u>Come Effettuare Il Transferimento Di File in Una Sessione Guest Su Windows 10, 8 O 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-assessment-quest-which-reigns-supreme-oled-or-amoled/"><u>Display Assessment Quest: Which Reigns Supreme - OLED or AMOLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-chat-policies-implement-block-and-unblock-tactics-on-twitch/"><u>Ensuring Chat Policies: Implement Block & Unblock Tactics on Twitch</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-camera-to-community-shared-videos-on-twtplustumble/"><u>From Camera to Community Shared Videos on Twt+Tumble</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/game-on-recording-off-nvidia-magic-for-2024/"><u>Game On, Recording Off! - NVIDIA Magic for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-lan-connection-roadblocks-in-windowed-mc/"><u>Overcoming LAN Connection Roadblocks in Windowed MC</u></a></li>
+<li><a href="https://games-able.techidaily.com/rewind-to-retro-play-psp-on-iphone-today/"><u>Rewind to Retro: Play PSP on iPhone Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-data-gpt-3s-six-pivotal-roles-for-analysts/"><u>Transforming Data: GPT-3's Six Pivotal Roles for Analysts</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-to-a-foreign-steam-language-mode/"><u>Transition to a Foreign Steam Language Mode</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-update-and-fresh-driver-installation-for-hp-z440-desktops/"><u>Ultimate Guide: Update and Fresh Driver Installation for HP Z440 Desktops</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-how-to-get-a-game-money-back/"><u>Xbox Series X/S: How to Get a Game Money Back</u></a></li>
+</ul></div>
 

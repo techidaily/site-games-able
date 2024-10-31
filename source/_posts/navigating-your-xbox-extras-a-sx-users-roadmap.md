@@ -1,7 +1,7 @@
 ---
 title: "Navigating Your Xbox Extras: A S/X User's Roadmap"
-date: 2024-09-08T16:20:02.682Z
-updated: 2024-09-15T16:15:37.368Z
+date: 2024-10-28T04:03:21.209Z
+updated: 2024-10-31T03:00:29.108Z
 tags:
   - games
 categories:
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 ![A screenshot of the Profile and System option within the Guide menu on an Xbox Series X with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-guide-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Highlight the options for**Account** , and select**Subscriptions** .
 
 ![A screenshot of the Account settings for an Xbox Series X with Subscriptions highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2647-1.jpg)
@@ -60,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
 ![A screenshot of the available features for Subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2651.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a subscription selected, you can manage your Xbox subscription using any of the following settings and processes:
 
 * **Change plan** allows you to view and switch from one subscription tier to another, like going from Xbox Game Pass For Console to Xbox Game Pass Ultimate.
@@ -69,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 * **Cancel subscription** allows you to end a monthly subscription.
 
  While these features cover the most common ways you can manage your Xbox subscriptions, some of the features require the Microsoft Edge app on your Xbox.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Microsoft Edge to Manage Subscriptions on Xbox
 
@@ -86,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  But with accessible ways of switching and activating subscriptions straight from your Xbox, you at least don't have to worry about hitting any roadblocks when managing subscriptions from your Series X|S.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Remove the Worry of Managing Subscriptions With Your Xbox Series X|S
@@ -111,5 +132,21 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-top-rated-8-android-tools-for-team-video-calls/"><u>[New] 2024 Approved The Top-Rated 8 Android Tools for Team Video Calls</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maximize-reach-with-effective-igtv-video-posts-for-2024/"><u>[New] Maximize Reach with Effective IGTV Video Posts for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-25-essential-hashtags-for-increased-instagram-engagement/"><u>[Updated] 25 Essential Hashtags for Increased Instagram Engagement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-creating-dynamic-content-with-youtube-playlist-embedding-for-2024/"><u>[Updated] Creating Dynamic Content with YouTube Playlist Embedding for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-seeking-outno-cost-clip-art-deposits/"><u>[Updated] In 2024, Seeking Outno-Cost Clip Art Deposits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>[Updated] Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-poco-c51-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Poco C51 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-fortnites-best-features-on-a-mac-with-awareness-of-constraints/"><u>Experience Fortnite's Best Features – On a Mac with Awareness of Constraints</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-u23-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on U23 ?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-play-time-boosting-windows-game-speed/"><u>Maximize Play Time: Boosting Window's Game Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactics-for-correcting-control-lapses-in-xbox-one-games/"><u>Tactics for Correcting Control Lapses in Xbox One Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-from-your-ps4-to-your-ps5/"><u>The Future of Gaming: From Your PS4 To Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-step-merging-windows-and-steamos-on-a-single-platform/"><u>The Next Step: Merging Windows and SteamOS on a Single Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-full-potential-combining-pc-and-steam-deck-controls-with-barrier-technique/"><u>Unleashing Full Potential: Combining PC & Steam Deck Controls With Barrier Technique</u></a></li>
+</ul></div>
 

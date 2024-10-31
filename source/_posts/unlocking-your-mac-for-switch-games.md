@@ -1,7 +1,7 @@
 ---
 title: Unlocking Your Mac for Switch Games
-date: 2024-09-10T16:06:17.276Z
-updated: 2024-09-15T16:50:25.755Z
+date: 2024-10-28T19:00:49.659Z
+updated: 2024-10-30T18:44:25.485Z
 tags:
   - games
 categories:
@@ -38,15 +38,28 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 ![macOS Finder window with 2 files, a compressed Ryujinx file and a Ryujinx executable.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujunx-macos-files.jpg)
 3. Drag the**Ryujinx** app to your**Applications** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Setting Up Ryujinx on Your Mac
 
  Before you start emulating Switch games, there are several necessary steps to configure Ryujinx, outlined as follows:
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Setting Up Prod.Keys
@@ -58,15 +71,15 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 ![Ryujinx macOS home page open, with options to configure Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-macos-home-page.jpg)
 3. When a Finder window opens, select the**System** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Paste the**prod.keys** file into the designated directory.  
 ![Ryujinx System Folder open with prod.keys pasted in the directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-system-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Installing Ryujinx Firmware
 
@@ -77,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 ![Ryujinx open with the option to install firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-install-firmware-option.jpg)
 3. Select the firmware file you just downloaded.  
 ![Ryujinx Selecting Switch Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-selecting-switch-firmware.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Setting Up Your Controller
 
@@ -97,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 ![Ryujinx controller settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-controller-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding Your Games to Ryujinx
@@ -112,14 +118,21 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 2. A new Finder window will open, where you can select your ROM file.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. After double-clicking on the ROM file, the game will finally start running.  
 ![Hades Running on Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/hades-running-on-ryujinx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Playing Nintendo Switch Games on Your Mac
 
@@ -138,5 +151,20 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-picture-crafting-top-10-resources-for-elegant-photo-framing/"><u>[New] 2024 Approved Picture Crafting Top 10 Resources for Elegant Photo Framing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-guidance-best-websites-to-find-google-pixel-ringtones-and-how-to-customize-google-pixel-ringtones/"><u>2024 Approved Guidance Best Websites To Find Google Pixel Ringtones & How To Customize Google Pixel Ringtones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/creating-professional-looking-videos-with-windows-8-movie-maker-for-2024/"><u>Creating Professional-Looking Videos with Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/farm-tastic-fun-and-games-top-friendly-farming-titles-for-2024/"><u>Farm-Tastic Fun & Games Top Friendly Farming Titles for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfecting-the-art-of-gif-to-sticker-transition-on-various-messaging-platforms/"><u>In 2024, Perfecting the Art of GIF to Sticker Transition on Various Messaging Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-launches-geforce-now-passes-but-is-there-any-point-to-them/"><u>Nvidia Launches GeForce NOW Passes, But Is There Any Point to Them?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-your-gaming-palette-with-dreamcast-titles-android-style/"><u>Reimagine Your Gaming Palette with Dreamcast Titles, Android Style</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/samsung-ru7300-the-ultimate-guide-for-choosing-a-shape-shifting-smart-tv-with-quality-display/"><u>Samsung RU7300: The Ultimate Guide for Choosing a Shape-Shifting Smart TV with Quality Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-unraveling-the-xbox-360-slim-console/"><u>The Art of Unraveling the Xbox 360 Slim Console</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/turn-your-mobile-into-a-professional-webcam-for-video-for-2024/"><u>Turn Your Mobile Into a Professional Webcam for Video for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-sonys-playstation-portable-alternative/"><u>Unveiling Sony’s PlayStation Portable Alternative</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-reverts-to-boot-by-default/"><u>Windows Reverts to Boot by Default</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Cabinet - Go Big with Frames!
-date: 2024-09-11T16:34:24.709Z
-updated: 2024-09-15T16:10:03.594Z
+date: 2024-10-28T23:41:42.782Z
+updated: 2024-10-30T16:00:15.589Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
@@ -58,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
  But because I imported the metadata a moment ago, now this listing has a description, trailer, a banner image, and even music from the game. It’s as informative as a listing of an episode or film on your favorite streaming service, making it easy to choose the game you want to play.
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
@@ -76,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
@@ -91,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
  First, be sure that the device powering your arcade cabinet automatically logs into your account. For example, there are a few[ways to automatically sign into your account in Windows 10](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) . Whatever operating system you are using, be sure it automatically logs in every time the device starts.
 
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Big Box Takes the Headache Out of Arcade Frontends
 
@@ -116,5 +130,23 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-vidmore-screen-recorder-how-to-use-it/"><u>[New] 2024 Approved Vidmore Screen Recorder - How to Use It</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lite-alternative-edits-skip-youtube-not-just-content/"><u>[New] Elite Alternative Edits Skip Youtube, Not Just Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-insight-into-the-finest-iphone-tools-for-image-watermarks/"><u>[New] In 2024, Insight Into the Finest iPhone Tools for Image Watermarks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-the-world-of-video-screen-capture/"><u>[New] In 2024, Navigating the World of Video Screen Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-8-mistakes-to-avoid-as-a-new-youtuber-for-2024/"><u>[Updated] 8 Mistakes to Avoid as a New Youtuber for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/androids-top-12-virtual-creature-experiences-for-2024/"><u>Android's Top 12 Virtual Creature Experiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-audio-tech-for-gamers-experience/"><u>Evaluating Audio Tech for Gamers' Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/hardware-optimization-which-directx-wins-11-or-12/"><u>Hardware Optimization: Which DirectX Wins, 11 or 12?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-ditch-recurring-games-on-steam/"><u>How to Ditch Recurring Games on Steam</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-pro-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-ideal-workspace-surfaces/"><u>Selecting the Ideal Workspace Surfaces</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y100-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y100</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-xbox-gaming-into-a-community-event-via-discord/"><u>Transform Xbox Gaming Into a Community Event via Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-potential-five-essentials-for-tailoring-the-xbox-game-bar-on-windows/"><u>Unlock Potential: Five Essentials for Tailoring the Xbox Game Bar on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-controller-potential-diy-xbox-fixed-and-customized/"><u>Unlock Your Controller Potential: DIY Xbox Fixed & Customized</u></a></li>
+</ul></div>
 

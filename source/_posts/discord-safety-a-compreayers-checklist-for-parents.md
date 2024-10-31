@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2024-10-18T23:41:42.149Z
-updated: 2024-10-25T06:15:07.908Z
+date: 2024-10-28T01:51:39.055Z
+updated: 2024-10-30T19:37:35.439Z
 tags:
   - games
 categories:
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
  For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
@@ -57,47 +44,54 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
 
@@ -128,24 +122,22 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-time-manipulation-for-professional-videos/"><u>[New] Seamless Time Manipulation for Professional Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[Updated] Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-optimize-video-posts-a-comprehensive-crop-and-export-method/"><u>[Updated] Optimize Video Posts A Comprehensive Crop & Export Method</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/clearview-recording-toolkit/"><u>ClearView Recording Toolkit</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-for-optimal-visuals-using-xbox-toolkit/"><u>Expert Tips for Optimal Visuals Using Xbox Toolkit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-new-age-of-samsungs-bdplus-k850/"><u>Exploring the New Age of Samsung's BD+ K850</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-poco-c65-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Poco C65 Face Lock?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-s24-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy S24 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps-vr2-accessory-showcase-must-haves/"><u>PS VR2 Accessory Showcase: Must-Haves</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-curiosities-delve-into-idling-titles/"><u>Quiet Curiosities: Delve Into Idling Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/rushreward-roundup-transient-tech-tricks/"><u>RushReward Roundup: Transient Tech Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-your-screen-captures-for-posterity/"><u>Secure Your Screen Captures for Posterity</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-back-in-time-best-ps3-emulators-on-pc-unveiled/"><u>Step Back in Time: Best PS3 Emulators on PC, Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/tech-confluence-bluetooth-and-sonys-console/"><u>Tech Confluence: Bluetooth & Sony's Console</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-animated-text-in-video-landscapes/"><u>The Art of Animated Text in Video Landscapes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-gaming-sonys-ps5-enhanced-by-9-features/"><u>The Future of Gaming: Sony's PS5, Enhanced by 9 Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/tranquil-titles-experience-idle-games/"><u>Tranquil Titles: Experience Idle Games</u></a></li>
-<li><a href="https://extra-information.techidaily.com/your-iphone-selfie-upgrade-choose-from-8-stars/"><u>Your iPhone Selfie Upgrade - Choose From #8 Stars</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-seize-your-facebook-videos-with-these-leading-apps-for-2024/"><u>[New] Seize Your Facebook Videos with These Leading Apps for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-innovative-8-image-collections-for-macbook-screens/"><u>[Updated] Innovative 8 Image Collections for MacBook Screens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-screen-capture-in-macos-for-2024/"><u>[Updated] The Ultimate Guide to Screen Capture in macOS for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-best-3d-software-perfect-for-youtube-openers/"><u>2024 Approved The Best 3D Software Perfect for YouTube Openers</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cozy-game-magic-the-allure-explored/"><u>Cozy Game Magic: The Allure Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-classic-games-choose-from-among-the-best-4-ios-emulators/"><u>Dive Into Classic Games: Choose From Among the Best 4 iOS Emulators</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/iphones-evolution-a-new-chapter-in-gaming-world/"><u>IPhone's Evolution: A New Chapter in Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-acemagics-am08-pro-gameplay-real-and-trustworthy/"><u>Is AceMagic's AM08 Pro Gameplay Real and Trustworthy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-forces-for-virtual-victory-on-xbox-sx/"><u>Joining Forces for Virtual Victory on Xbox S/X</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-format-conversion-for-mac-screenshots-for-2024/"><u>Mastering Format Conversion for Mac Screenshots for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mystery-of-missing-movies-a6400s-quandary/"><u>Mystery of Missing Movies A6400's Quandary</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-cinematic-experience-xbox-series-x-and-blu-ray/"><u>Redefining Cinematic Experience: XBox Series X and Blu-Ray</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-connecting-your-stadia-headset-successfully/"><u>Step-by-Step Solutions for Connecting Your Stadia Headset Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-creation-issue-deciphering-windows-error-30005/"><u>Tackling Creation Issue - Deciphering Windows Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-smart-steam-point-utilization/"><u>The Art of Smart Steam Point Utilization</u></a></li>
 </ul></div>
 

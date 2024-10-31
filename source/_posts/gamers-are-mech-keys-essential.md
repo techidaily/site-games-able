@@ -1,7 +1,7 @@
 ---
 title: "Gamers: Are Mech Keys Essential?"
-date: 2024-09-10T16:24:22.825Z
-updated: 2024-09-15T16:54:40.226Z
+date: 2024-10-27T22:52:15.656Z
+updated: 2024-10-30T20:12:29.522Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
  Mechanical keyboards are easily one of the most popular things recommended for gaming PC setups. However, mechanical keyboards may not be as essential to your gaming experience as you think, despite their benefits.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Benefits of Mechanical Keyboards for Gaming
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
@@ -41,22 +48,29 @@ thumbnail: https://thmb.techidaily.com/e576fa6a569d314a929d202ace0124c24bb9f5c7c
 
 ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Jhet Borja/MakeUseOf
 
  Unless you specifically build your mechanical keyboard to have a heavy actuation force,[the most popular mechanical keyboard switches](https://www.makeuseof.com/most-popular-mechanical-keyboard-switches-how-they-impact-gaming/) require little actuation force compared to common rubber dome keyboards.
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mechanical Keyboards Have Better Tactile Feedback
 
 ![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -65,19 +79,6 @@ Jhet Borja/MakeUseOf
  I’m currently writing this on my mechanical keyboard that uses linear switches and I use this for both gaming and work. Even if there is no tactile bump on the actuation point, the bottom-out feedback is solid, letting me know that I don’t need to press any harder.
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gaming Mechanical Keyboards Have Many Functions and Features
 
@@ -91,16 +92,16 @@ Jhet Borja/MakeUseOf
 
  Most gaming mechanical keyboards also feature dedicated macro buttons—easily accessible buttons that you can assign any action. Arma, for example, has so many keybinds that you’ll often have to either move your hand from one side of the keyboard to the other, or move your other hand from your mouse to your keyboard. Macros and layers would allow you to bring those keys and functions to just one side, saving you time.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mechanical Keyboards Are Highly Customizable
 
 ![Switch lubing tools and keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-lubing-tools-and-keyboard.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -126,16 +127,16 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mechanical Keyboards Cost More
 
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -144,10 +145,10 @@ Jhet Borja/MakeUseOf
  Most non-mechanical keyboards are pretty straightforward, having a PCB that doesn’t need switches to actuate, a singular rubber lattice that’s practically indestructible through normal use, and a simple plastic housing and keycaps. This makes them cheaper and lighter.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mechanical Keyboards Are Louder
@@ -179,5 +180,24 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-artistic-arrangement-adopting-the-best-photo-frame-apps/"><u>[Updated] Artistic Arrangement Adopting the Best Photo Frame Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/diving-into-the-price-structure-for-sonys-gaming-service/"><u>Diving Into the Price Structure for Sony's Gaming Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/going-deeper-how-accessory-improves-play/"><u>Going Deeper: How Accessory Improves Play</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-g310-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia G310 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-easy-steps-record-audio-on-mac-using-audacity/"><u>In 2024, Easy Steps Record Audio on Mac Using Audacity</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-streamlining-steam-services-in-windows-11/"><u>Mastering the Art of Streamlining Steam Services in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-amd-best-gpu-for-gamers/"><u>Nvidia VS AMD: Best GPU for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-along-with-youtubes-newest-test-mini-games/"><u>Play Along with YouTube's Newest Test Mini-Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/put-a-halt-on-auto-uninstalls-fix-nvidia-driver/"><u>Put a Halt on Auto-Uninstalls: Fix Nvidia Driver</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/quick-fixes-for-prolonged-sql-backup-times-efficient-strategies-explored/"><u>Quick Fixes for Prolonged SQL Backup Times - Efficient Strategies Explored</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-unrecognized-ssd-drives-on-windows-10-without-losing-files/"><u>Resolving Unrecognized SSD Drives on Windows 10 Without Losing Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-account-management-challenges-on-nintendo-switch/"><u>Tackling Account Management Challenges on Nintendo Switch</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quest-to-resolve-skies-sse-woes/"><u>The Quest to Resolve Skies' SSE Woes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-and-uses-of-dual-capable-monitors/"><u>The Significance and Uses of Dual-Capable Monitors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-leading-image-to-video-conversion-software-online/"><u>Updated 2024 Approved 10 Leading Image to Video Conversion Software Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-playtime-essential-equipment-guide/"><u>Upgrade Your Playtime: Essential Equipment Guide</u></a></li>
+</ul></div>
 

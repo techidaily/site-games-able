@@ -1,7 +1,7 @@
 ---
 title: "The Inside Score: Tear Down Your Xbox S Controller"
-date: 2024-09-11T16:10:25.312Z
-updated: 2024-09-15T16:49:51.184Z
+date: 2024-10-28T04:32:07.407Z
+updated: 2024-10-30T19:22:28.060Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
  If you're carrying out a complex repair like replacing your thumbsticks, you'll have to go even further and take the daughterboard out as well, as Xbox controllers tend to have two separate PCBs inside. Even[fixing your Xbox controller's drifting issues](https://www.makeuseof.com/xbox-controller-drift/) might require an in-depth teardown.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Equipment Do You Need?
 
  We've already covered[how to take apart your Xbox One controller](https://www.makeuseof.com/how-to-take-apart-an-xbox-one-controller/) , and while the process is largely similar, Xbox Series X|S controllers come with additional circuitry such as the trigger vibration motors which require extra steps. Additionally, Xbox Series X|S controllers come with[Torx Security screws instead of regular Torx screws](https://www.makeuseof.com/torx-screws-vs-torx-security-screws-difference/) , so you'll need the corresponding bits as well.
@@ -56,6 +63,14 @@ Overall, here's everything you need:
 2. Using the plastic prying tool or spudger, remove the plastic panels from the controller's handles where your hands sit. This can be difficult, so be patient and gentle as you wiggle the prying tool under the edge to unclip the panels.  
 ![Xbox Series X|S controller handle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-1.JPG)
 3. Once the panels are off, you'll have to remove the five Torx Security screws—two on each handle, one under the sticker in the battery compartment.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. The front and back panels should simply come off now.
 5. At this point, you'll have access to the thumbsticks, D-pad, triggers, and the face buttons.  
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
@@ -68,13 +83,20 @@ Overall, here's everything you need:
 
 ![Xbox Series X|S controller trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-6.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case you're looking to tear down your controller even further, you'll have to remove the two wires for the built-in wireless receiver from the daughterboard before removing the screws that hold it in place. Do keep in mind that going further will require some additional electronics know-how, so don't proceed unless you know what you're doing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Can You Do After Taking Apart Your Xbox Series X|S Controller?
@@ -89,13 +111,6 @@ Overall, here's everything you need:
  You can also customize your Xbox Series X|S controller to your heart's content. Since the face buttons will come off once you've removed the motherboard, you can swap them out for a different color or style.
 
  The Xbox button's color can also be changed by putting a thin film of colored plastic under the button when putting the controller back again. Since the front and the back panels are off now, spray-painting them to a different color is also not a bad idea. Do keep in mind though that if your controller is any other color except white, the end result may not be exactly what you expected. However, once all the pieces are out, the sky is the limit.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Xbox Controllers Might Be Hard to Disassemble, but Not Impossible
 
@@ -116,5 +131,26 @@ Overall, here's everything you need:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/crafting-cinematic-audio-in-inshot-videos/"><u>Crafting Cinematic Audio in InShot Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guide-to-professional-gameplay-broadcasts/"><u>Guide to Professional Gameplay Broadcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-pretend-youre-away-in-steam-world/"><u>How to Pretend You're Away in Steam World</u></a></li>
+<li><a href="https://windows11.techidaily.com/illustrating-maximum-and-minimum-cpu-stages-on-windows/"><u>Illustrating Maximum & Minimum CPU Stages on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-21plus-puzzling-pictures-assemble-a-joyous-vision/"><u>In 2024, 21+ Puzzling Pictures Assemble a Joyous Vision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-capture-clear-movies-10-smartphones-with-excellent-video-ois/"><u>In 2024, Capture Clear Movies 10 Smartphones With Excellent Video OIS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-s23-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel S23?</u></a></li>
+<li><a href="https://games-able.techidaily.com/peer-into-pimaxs-crystal-vr-visage-and-its-buggy-reality/"><u>Peer Into Pimax's Crystal VR Visage & Its Buggy Reality</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reversing-minecraft-launcher-failure-code-0x803f8001-solution/"><u>Reversing Minecraft Launcher Failure: Code 0X803F8001 Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-steams-new-guidelines-on-ai/"><u>Revolutionizing Gaming: Steam's New Guidelines on AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-switch-between-windows-and-steamos-on-deck/"><u>Seamlessly Switch Between Windows & SteamOS on Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-in-guide-to-attaching-a-controller-to-an-android-device/"><u>Step-In Guide to Attaching a Controller to an Android Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-or-building-which-win-ps5-or-low-budget-pc/"><u>Streaming or Building: Which Win? - PS5 Or Low-Budget PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-steams-main-interface-language/"><u>Switching Steam's Main Interface Language</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-walkthrough-on-syncing-a-remote-to-your-chromecast-device/"><u>The Beginner's Walkthrough on Syncing a Remote to Your Chromecast Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-crucial-role-of-hrtf-in-enhancing-valorant-auditory-perception/"><u>The Crucial Role of HRTF in Enhancing Valorant Auditory Perception</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897756467-uncovering-the-future-with-samsung-2025-event-date-and-breaking-news-inside/"><u>Uncovering the Future with Samsung 2025 Event - Date & Breaking News Inside!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/virtual-cam-tech-made-simple-discover-manycam-for-seamless-live-video-broadcasting-and-online-presence/"><u>Virtual Cam Tech Made Simple: Discover ManyCam for Seamless Live Video Broadcasting and Online Presence</u></a></li>
+</ul></div>
 

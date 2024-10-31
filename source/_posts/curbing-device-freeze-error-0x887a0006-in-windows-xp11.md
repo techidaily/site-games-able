@@ -1,7 +1,7 @@
 ---
 title: Curbing Device Freeze (Error 0X887A0006) in Windows XP/11
-date: 2024-10-19T05:05:31.952Z
-updated: 2024-10-25T03:12:12.919Z
+date: 2024-10-26T00:12:32.710Z
+updated: 2024-10-31T00:11:07.782Z
 tags:
   - games
 categories:
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 ![The Debug Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-debug-mode-option.jpg)
 3. Select**Debug Mode** on the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Repair the Files for Any Affected Games
 
  There’s a possibility that the 0x887A0006 error sometimes occurs because of corrupted game files. So, it’s recommended players verify affected games with their gaming clients. Epic Games, Steam, Origin, and Battle.net all include options for verifying (repairing) games. This is how you can verify affected games in the Epic Game and Steam launchers.
@@ -61,13 +68,6 @@ For Epic Games:
 5. Press the**Verify** button, and wait for the verification process to finish.  
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Repair Games on Steam
 
 For Steam:
@@ -79,20 +79,6 @@ For Steam:
 ![The Verify integrity option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steams-verify-option.jpg)
 5. Select Steam’s**Verify integrity of game files** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
  If you have a PC with two GPUs, make sure your affected games are configured to run with the dedicated high-performance graphics card. Your PC’s integrated graphics card (usually of the Intel variety) might not meet the affected game’s minimum system requirements. You can check and change a game’s GPU setting on the NVIDIA Control Panel like this:
@@ -103,22 +89,17 @@ For Steam:
 4. Next, click the**Select a program to customize** drop-down menu. If you can't find a game listed, click**Add** and select it.  
 ![The Select a program to customize drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-select-a-program-drop-down-menu.jpg)
 5. Select a game for which you need to fix the 0x887A0006 error.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the**Select the preferred graphics processor** drop-down menu, and select the**High-performance NVIDIA processor** option.  
 ![The High-performance NVIDIA processor option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-high-performance-graphics-processor-option.jpg)
 7. Select**Apply** to save the new GPU settings.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the**Switchable Graphics** tab, and select the**High Performance** GPU option for the affected game.
 
@@ -127,6 +108,13 @@ For Steam:
  A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Update Your GPU’s Driver
 
@@ -139,10 +127,10 @@ For Steam:
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
@@ -161,10 +149,10 @@ For Steam:
 6. Add**d3d11** in the text box.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
@@ -176,17 +164,18 @@ For Steam:
 3. Click**Create a power plan** on the left side of the Control Panel applet.  
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-option.jpg)
 4. Select the**High performance** option for the plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Don’t Overclock Your PC
 
@@ -204,16 +193,17 @@ For Steam:
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type**TdrLevel** inside the DWORD’s text box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click**TdrLevel** to view a**Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Close the Regedit app, and then restart your PC.
 
@@ -224,6 +214,13 @@ For Steam:
  Reinstalling an affected game is the last thing to try when all else fails. Applying this potential solution will likely fix corrupted or missing game files that could be causing error 0x887A0006\. Some players may be concerned about losing saved games when reinstalling, but you can[back up game saves](https://www.makeuseof.com/tag/protect-your-game-saves/) in numerous ways.
 
  You might be able to uninstall an affected game via Programs and Features or Settings. If you can’t see a game listed there, however, you’ll need to uninstall the title within the gaming client software with which you installed it. Then select to install the game in your gaming client.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop the 0x887A0006 Error Spoiling Your Gaming Fun
 
@@ -244,21 +241,18 @@ For Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-next-gen-options-to-record-high-quality-gaming-footage/"><u>[New] In 2024, Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-paint-your-posts-brightly-instagrams-triple-highlight-strategies/"><u>[New] In 2024, Paint Your Posts Brightly Instagram's Triple Highlight Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-essential-fluid-dynamics-gaming-experiences/"><u>[New] In 2024, Top Essential Fluid Dynamics Gaming Experiences</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-instant-identity-protection-blur-image-edges/"><u>[Updated] In 2024, Instant Identity Protection Blur Image Edges</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparative-review-dji-phantom-3-vs-competitors-for-2024/"><u>Comparative Review DJI Phantom 3 vs Competitors for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/expand-your-gaming-horizon-using-external-drives-on-steam/"><u>Expand Your Gaming Horizon: Using External Drives on Steam</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-over-miscues-a-complete-handbook-for-sticker-deletion-on-tiktok/"><u>In 2024, Mastery Over Miscues A Complete Handbook for Sticker Deletion on TikTok</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-premier-audio-tweaking-tools-for-iphoneipad-users-this-year/"><u>In 2024, Premier Audio Tweaking Tools for iPhone/iPad Users This Year</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovation-roundup-led-lighting-of-2024/"><u>Innovation Roundup: LED Lighting of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-edge-joy-cons-and-controllers-the-best-of-2024/"><u>Leading-Edge Joy-Cons and Controllers: The Best of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-blue-ray-on-xbox-sxs-high-end/"><u>Mastering Blue-Ray on XBox SX's High End</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps4-controls-for-pcmac-systems/"><u>Mastering PS4 Controls for PC/Mac Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-realme-narzo-60x-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60x 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-modify-your-riot-username-and-tagline/"><u>Steps to Modify Your Riot Username and Tagline</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-the-sims-4s-error-with-the-video-card-step-by-step-guide/"><u>Troubleshooting and Repairing The Sims 4'S Error with the Video Card - Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-master-hrtf-to-win-at-valorant/"><u>Why Master HRTF to Win at Valorant?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-youtube-videos-without-spending-a-penny-the-best-tools-for-2024/"><u>[New] Elevate Your YouTube Videos Without Spending a Penny - The Best Tools for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-high-quality-recording-discovering-the-best-5-slow-video-cameras/"><u>[Updated] In 2024, High-Quality Recording Discovering the Best 5 Slow Video Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-profitable-video-content-starting-and-scaling-up/"><u>2024 Approved Profitable Video Content Starting and Scaling Up</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieve-flawless-selfie-shots-expert-advice-on-employing-the-right-self-lighting-tools/"><u>Achieve Flawless Selfie Shots: Expert Advice on Employing the Right Self-Lighting Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-safety-of-roblox-performance-hacks/"><u>Evaluating Safety of Roblox Performance Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-power-on-paper-asus-rog-ally-vs-steam-deck/"><u>Gaming Power on Paper: Asus ROG Ally Vs. Steam Deck</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-step-into-vr-wonderland-youtubes-finest-vr-content-list/"><u>In 2024, Step Into VR Wonderland YouTube's Finest VR Content List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/instagram-image-enhancement-tips-for-2024/"><u>Instagram Image Enhancement Tips for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-closes-easily-misused-buyback-feature/"><u>Steam Closes Easily Misused Buyback Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-a-summary-row-at-the-end-of-your-microsoft-excel-tables/"><u>Step-by-Step Guide: Adding a Summary Row at the End of Your Microsoft Excel Tables</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-old-ps5-and-its-modern-successor-compared/"><u>The Old PS5 and Its Modern Successor Compared</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210339959-9781722526924-your-unlimited-self/"><u>Your Unlimited Self | Free Book</u></a></li>
 </ul></div>
 

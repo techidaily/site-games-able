@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Freezes: Epic Launcher Fix Guide for PC Users"
-date: 2024-09-10T16:50:38.796Z
-updated: 2024-09-15T16:06:42.360Z
+date: 2024-10-25T20:23:53.581Z
+updated: 2024-10-30T21:36:24.899Z
 tags:
   - games
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/07fa8cadb13240ad4114bdffce36c4f17cee86cd9
 
 Reopen the Epic Games Launcher and try using it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run Epic Games Launcher as an Administrator
 
  Running the Epic Games Launcher with admin rights can help you avoid any issues caused by a lack of relevant permissions to access system files and settings. Right-click on the**Epic Games Launcher** shortcut and select**Run as administrator** . Select**Yes** when the UAC (User Account Control) prompt appears.
@@ -48,6 +55,19 @@ Reopen the Epic Games Launcher and try using it.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check for App Updates
 
  Using an outdated version of Epic Games Launcher can also cause it to crash or freeze on Windows. Hence, it’s a good idea to update the Epic Games Launcher if you haven’t already. Here are the steps for the same.
@@ -56,13 +76,6 @@ Reopen the Epic Games Launcher and try using it.
 2. Click your**profile icon** in the top right corner and choose**Settings** from the list.
 3. If a newer version is available, click the**Restart and Update** button that appears.  
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Disable Fullscreen Optimizations
 
@@ -74,13 +87,6 @@ Reopen the Epic Games Launcher and try using it.
 4. Clear the**Disable fullscreen optimizations** checkbox.
 5. Hit**Apply** followed by**OK** .  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
@@ -97,10 +103,10 @@ Reopen the Epic Games Launcher and try using it.
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Fix the D3DCOMPILER\_43.dll File
@@ -115,6 +121,13 @@ Reopen the Epic Games Launcher and try using it.
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Repair the Epic Games Launcher
 
  Your Windows PC includes an app repair feature that can help you fix such issues with the Epic Games Launcher without affecting its data. You can try using this feature to see if that gets the Epic Games Launcher to run smoothly.
@@ -127,7 +140,21 @@ Reopen the Epic Games Launcher and try using it.
 6. Select**Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Follow the on-screen instructions to repair the launcher and try using it again.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall the Epic Games Launcher
 
@@ -135,26 +162,12 @@ Reopen the Epic Games Launcher and try using it.
 
  After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to[Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Try Other Common Fixes
 
  If the above fixes don’t help, there may be an issue with your Windows PC. In that case, you can try the following troubleshooting tips to resolve the issue.
 
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try[updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility,[scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Epic Games Launcher Crashes on Windows
 
@@ -173,5 +186,21 @@ Reopen the Epic Games Launcher and try using it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-elite-series-for-engaging-typographic-movement/"><u>[New] Elite Series for Engaging Typographic Movement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-perfecting-visual-output-integrating-luts-into-ae-projects/"><u>[New] Perfecting Visual Output Integrating LUTs Into AE Projects</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-list-films-must-watch-channel-compilation/"><u>[Updated] A-List Films Must-Watch Channel Compilation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-universal-streams-for-youtube-and-beyond-networks-for-2024/"><u>[Updated] Crafting Universal Streams for YouTube & Beyond Networks for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-visual-fidelity-of-hp-graphics-on-pc/"><u>Boost Visual Fidelity of HP Graphics on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-f15-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy F15 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://games-able.techidaily.com/operaside-vs-edge-epic-battle-in-the-world-of-gaming-browsers/"><u>Operaside vs Edge: Epic Battle in the World of Gaming Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-your-favorite-games-with-these-5-mac-tricks/"><u>Revel in Your Favorite Games with These 5 Mac Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-gbadvance-games-on-iphone-and-ipad/"><u>Revolutionize GBAdvance Games on iPhone & iPad!</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-exciting-two-person-debates-spin-the-digital-tale/"><u>Six Exciting Two-Person Debates: Spin the Digital Tale</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-an-alternate-linguistic-base-in-steam/"><u>Switch to an Alternate Linguistic Base in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-filter-key-qualities-in-high-end-monitors/"><u>The Ultimate Filter: Key Qualities in High-End Monitors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unleash-your-inner-vfx-guru-with-diy-techniques/"><u>Unleash Your Inner VFX Guru with DIY Techniques</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209974023-9781633411739-witch-hunt/"><u>Witch Hunt | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Returns: Reversing Video Game Purchases, XS/X"
-date: 2024-10-23T20:09:58.944Z
-updated: 2024-10-24T18:17:28.890Z
+date: 2024-10-27T16:15:25.589Z
+updated: 2024-10-31T00:38:49.545Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 ![Request a Refund Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-microsoft.jpg)
 4. Start filling out your form, beginning with the**Reason for request** . The options available are:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Accidental purchase** .
 * **Billing error** .
 * **Purchased content doesn’t work** .
@@ -64,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 ![Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-form-page-microsoft.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6\. Enter the email address of the Microsoft account you used to make the purchase.
 
  7\. Press**Next** .
@@ -78,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  8\. Review your form to make sure all the details are accurate. Once you’re satisfied, press**Submit** .
 
 ![Review Details of Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/review-details-of-request-a-refund-form-page-microsoft.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
 
@@ -94,20 +87,27 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Happens Once My Refund Request Is Accepted?
 
  If your refund request is successful, you can expect to see an email from Microsoft confirming this, and you will be able to see your refund being processed in your Microsoft account. You will also have your access to the game revoked, so it will no longer be playable.
 
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
 
@@ -130,20 +130,16 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expedited-photographic-viewing-in-windows-10/"><u>[New] Expedited Photographic Viewing in Windows 10</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-craft-of-youtubers-music-reaction-videos-essentials-for-2024/"><u>[Updated] Mastering the Craft of Youtubers Music Reaction Videos Essentials for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-solving-obs-fullscreen-glitches/"><u>[Updated] Solving OBS Fullscreen Glitches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-top-gear-youtube-pros-choice-in-shaky-free-video-capture/"><u>2024 Approved Top Gear YouTube Pros' Choice in Shaky-Free Video Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/adding-time-bound-elements-to-your-obs-productions-for-2024/"><u>Adding Time-Bound Elements to Your OBS Productions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ejecting-trapped-games-from-series-x-console/"><u>Ejecting Trapped Games From Series X Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-gaming-5-tips-to-control-steam-web-helpers-memory-use/"><u>Enhancing Gaming: 5 Tips to Control Steam Web Helper's Memory Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-video-game-lore-with-ai-help/"><u>Enhancing Video Game Lore with AI Help</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/giving-life-a-curtain-call-blackout-in-pro-for-2024/"><u>Giving Life a Curtain Call Blackout in Pro for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-voice-overs-for-videos-step-by-step-guide/"><u>Mastering Voice-Overs for Videos Step-by-Step Guide</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/missing-content-alert-the-page-youre-searching-for-cant-be-found/"><u>Missing Content Alert: The Page You're Searching For Can't Be Found</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-video-generator-for-2024/"><u>New What Is an AI Video Generator for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-versus-edge-the-great-browser-war-for-gamers/"><u>Opera GX Versus Edge - The Great Browser War for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-play-top-gaming-mice-and-keyboards-2024/"><u>Revolutionizing Play: Top Gaming Mice & Keyboards 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-video-preservation-with-any-gpu-capability/"><u>Streamline Video Preservation with Any GPU Capability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unusual-sideway-photos-in-instagram-storytelling/"><u>[New] Unusual Sideway Photos in Instagram Storytelling</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pro-audio-recordings-the-11-best-tools-for-live-events/"><u>[Updated] 2024 Approved Pro Audio Recordings The 11 Best Tools for Live Events</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-sfpr-levels-in-slow-motion-content/"><u>[Updated] Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://fox-where.techidaily.com/expanding-your-online-presence-strategies-for-growing-website-features-and-extensions/"><u>Expanding Your Online Presence: Strategies for Growing Website Features and Extensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-mono-to-binaries-customizing-your-device-for-all-games/"><u>From Mono to Binaries: Customizing Your Device for All Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-upfront-benefits-vs-potential-issues/"><u>Game Upfront: Benefits Vs. Potential Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95635511-9781633410169-love-magic/"><u>Love Magic | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-a-deep-dive-into-hardware-by-toms-equipment-insights/"><u>Navigating the World of Tech: A Deep Dive Into Hardware by Tom's Equipment Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-less-play-more-with-a-silent-ps5-controller/"><u>Say Less, Play More with a Silent PS5 Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/unblocking-screen-driver-launch-issue-with-windows-1011/"><u>Unblocking Screen Driver Launch Issue with Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-fixes-for-disconnected-joy-cons-in-switch/"><u>Unveiling Fixes for Disconnected Joy-Cons in Switch</u></a></li>
 </ul></div>
 

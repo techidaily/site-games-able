@@ -1,7 +1,7 @@
 ---
 title: "PlayStation's Ultimate Makeover: The Best 9 Upgrade Proposals"
-date: 2024-09-12T16:48:24.009Z
-updated: 2024-09-15T17:03:01.445Z
+date: 2024-10-26T01:18:20.926Z
+updated: 2024-10-30T21:53:29.035Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
 ![Google's web page in the PS5's browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-s-web-page-in-the-ps5-s-browser.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A PlayStation might not necessarily be the best place to surf the web, but the PS4’s browser app was a nice, potentially helpful addition. For some reason, Sony didn’t add the browser app to the PS5; you have to use a roundabout method to[access a severely limited browser on the PS5](https://www.makeuseof.com/access-web-browser-on-ps5/) .
 
  There are signs that Sony might add a fully functional dedicated browser app since the PS5's settings have provisions for it. So, let’s wait for a few updates down the line.
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
  It’s for similar reasons that there’s a bit of backlash on Windows 11\. Seeing ads on a machine you’ve completely paid for is a little unsavory. Let us enjoy the PS5 without getting forced to buy something every time we turn it on.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Make the LED Lights Customizable
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
  If, at the very least, PS5 users could change the color from white to a custom color, it could help make gaming setups look better and give players a little bit of extra immersion. Sony missed a chance with that one, but we sure hope it implements it in the future if the hardware allows it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Introduce Official Mod Support
 
  If there’s one thing console gamers are heavily missing out on compared to PC gamers, it’s mods.[Mods are fan-created game modifications](https://www.makeuseof.com/mods-video-games/) you can add to your video games to give them more content and styles. Mods can be really fun and sometimes make the game you’re playing even better.
@@ -75,28 +89,15 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
  Consoles don’t offer the same flexibility as PCs do for obvious reasons, but there are ways to install mods on certain games on the PS5\. However, we’d like Sony to create a program for creators to share their mods. This way, there will be a platform you can log into to see what mods are available for the games you have on your PS5 and how well they’ve been received by other players—fully supported by Sony.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Integrate DualSense Haptic Feedback to Older Games
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of my best features on the PS5 DualSense is adaptive triggers. These triggers offer additional resistance to simulate difficult activity like pressing a gas pedal while driving a vehicle, drawing a bowstring, or squeezing a gun’s trigger. You can experience the full breadth of it if you play Astro’s Playroom (the game that comes built-in).
 
@@ -110,33 +111,20 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
  If Sony could improve the machine-learning, game categorization system and tags, and produce actually practical game recommendations, we could spend a lot less time finding new games. We’ll rely on the PS5 to recommend the next game to play.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Make the PS App a Second Screen for Gaming
 
 ![PlayStation App loading screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/playstation-app-loading-screen.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![PlayStation app eneable auto uploads captures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/PlayStation-app-eneable-auto-uploads-captures.jpg)
 
 ![PlayStation app auto upload notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/PlayStation-app-auto-upload-notification.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -144,11 +132,25 @@ Close
 
  Game devs should be allowed to integrate the PS App for gaming and convert smartphones and tablets to a second screen for their games. Imagine playing GTA V with the phone menu on your actual phone instead of just by the corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The PS5 Can Learn a Bit From the PS4
 
  It’s a shame that we have to look back at the PS4 to draw inspiration for some cool features we want on the PS5\. We can only hope and pray that Sony knows what it's are doing.
 
  Perhaps there are some foundational reasons why we can’t have custom themes on a PS5, or perhaps they will release it in a future update.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -177,5 +179,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-essential-fb-movie-downloads-for-23-list-8/"><u>[Updated] 2024 Approved Essential FB Movie Downloads for '23 List #8</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ideal-screen-re-recorders-for-youtube-performances-for-2024/"><u>[Updated] Ideal Screen Re-Recorders for YouTube Performances for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-art-of-3d-text-rendering-in-ps/"><u>[Updated] Navigating the Art of 3D Text Rendering in PS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-diving-into-the-world-of-youtube-search-engine-rankings/"><u>2024 Approved Diving Into the World of YouTube Search Engine Rankings</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/end-of-year-engineering-triumphs-a-recap-of-the-intense-system-builder-marathon-quarter-4-edition-2015/"><u>End-of-Year Engineering Triumphs: A Recap of the Intense System Builder Marathon, Quarter 4 Edition 2015</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-erroneous-credit-authorization-error-in-ps5/"><u>Fixing Erroneous Credit Authorization Error in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-ergonomic-habit/"><u>Gamer's Ergonomic Habit</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-14-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 14 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevating-your-channel-youtube-backlink-basics/"><u>In 2024, Elevating Your Channel YouTube Backlink Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-hub-selecting-the-best-nintendo-switch-docks-of-2024/"><u>Innovation Hub: Selecting the Best Nintendo Switch Docks of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-display-driver-launch-failures-on-windows-11-and-11-pcs/"><u>Mastering Display Driver Launch Failures on Windows 11 & 11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-to-queue-unblocking-lol-login/"><u>Quick to Queue: Unblocking LoL Login</u></a></li>
+<li><a href="https://games-able.techidaily.com/revamp-your-computer-experience-four-advantages-in-corsairs-icue-link/"><u>Revamp Your Computer Experience: Four Advantages in Corsair’s iCUE Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-alternative-gpus-echoing-rtx-4060-tis-performance/"><u>Top Alternative GPUs Echoing RTX 4060 Ti's Performance</u></a></li>
+</ul></div>
 

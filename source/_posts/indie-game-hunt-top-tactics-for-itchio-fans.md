@@ -1,7 +1,7 @@
 ---
 title: "Indie Game Hunt: Top Tactics for Itch.io Fans"
-date: 2024-10-21T05:35:19.738Z
-updated: 2024-10-25T00:43:02.498Z
+date: 2024-10-26T22:19:05.412Z
+updated: 2024-10-30T21:50:43.912Z
 tags:
   - games
 categories:
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Use Tags and Filters
 
  On itch.io, you can use various tags and filters to find great indie games. I am a big fan of[roguelite video games](http://www.makeuseof.com/what-are-roguelike-and-roguelite-video-games/) , so I use the**Roguelite** tag to ensure I only see the relevant results.
@@ -45,56 +58,43 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
@@ -107,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Follow Developers
 
  If a particular indie developer has a game you like, you can follow them to stay updated on their latest releases. This allows you to see what games they have in their collections and those they have rated highly.
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  Another way to discover developers to follow is by looking at your feed, which shows you recommendations based on your activity on itch.io. I usually switch to the**Featured Games Feed** or**Global Feed** tab to see what is trending based on my interests.
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
@@ -153,22 +153,19 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-artistarc-complete-assessment-and-tutorial-series-24/"><u>[New] 2024 Approved ArtistArc Complete Assessment & Tutorial Series '24</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>[New] 2024 Approved Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-guide-to-exclusive-youtube-gamers-intros-freepaid/"><u>[New] 2024 Approved Ultimate Guide to Exclusive YouTube Gamers' Intros (Free/Paid)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-virtual-validation-subscribers-buttons-reward-system/"><u>[New] In 2024, Virtual Validation Subscribers, Buttons Reward System</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-words-on-the-screen-crafting-clear-concise-dialogue/"><u>[New] The Art of Words on the Screen Crafting Clear, Concise Dialogue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-perfecting-zoom-video-conferencing-for-youtube/"><u>2024 Approved Expert Tips on Perfecting Zoom Video Conferencing for YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2024-july-insight-unlocking-easier-access-to-linksys-routers-with-default-passwords/"><u>2024 July Insight: Unlocking Easier Access to Linksys Routers with Default Passwords</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/clearview-unleashed-innovative-design-meets-top-quality-with-the-2v-hdtv-indooroutdoor-antenna-review/"><u>ClearView Unleashed: Innovative Design Meets Top Quality with the 2V HDTV Indoor/Outdoor Antenna Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-consciousness-beyond-the-switch/"><u>Current Consciousness: Beyond the Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-home-entertainment-harnessing-the-power-of-series-xs-blue-ray/"><u>Elevate Home Entertainment: Harnessing the Power of Series X's Blue-Ray</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-list-of-proper-pads/"><u>Exclusive List of Proper Pads</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-the-best-picture-on-your-console-with-simple-adjustments/"><u>Get the Best Picture on Your Console with Simple Adjustments</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-eliminate-slow-response-time-from-your-windows-10-keyboard/"><u>How To Eliminate Slow Response Time From Your Windows 10 Keyboard</u></a></li>
-<li><a href="https://games-able.techidaily.com/pushing-limits-with-the-powerhouse-razer-basilisk-v3/"><u>Pushing Limits with the Powerhouse Razer Basilisk V3</u></a></li>
-<li><a href="https://games-able.techidaily.com/salvaging-your-switch-when-to-tinker-when-to-trade-in/"><u>Salvaging Your Switch: When to Tinker, When to Trade-In</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-ps5-vs-microsofts-xbox-sx-which-wins/"><u>Sony's PS5 vs Microsoft's Xbox SX - Which Wins?</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-the-hidden-steam-account-code-digit/"><u>Uncovering the Hidden Steam Account Code Digit</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-analysis-of-directed-motion-tracking/"><u>[New] Comprehensive Analysis of Directed Motion Tracking</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-joy-of-mobile-podcasts-for-2024/"><u>[New] Discover the Joy of Mobile Podcasts for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-insights-into-youtube-live-image-crafting/"><u>[Updated] Essential Insights Into YouTube Live Image Crafting</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles/"><u>2024 Approved Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-outlining-operational-offshoots/"><u>2024 Approved Outlining Operational Offshoots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-roadmap-for-effective-advertising-on-facebook/"><u>2024 Approved The Roadmap for Effective Advertising on Facebook</u></a></li>
+<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-potential-risks-and-benefits-of-long-term-cannabinoid-use/"><u>Evaluating the Potential Risks and Benefits of Long-Term Cannabinoid Use</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funimate-unlocking-the-secrets-of-easy-downloads-for-2024/"><u>Funimate Unlocking the Secrets of Easy Downloads for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-realms-pass-like-shadows-should-we-linger/"><u>Game Realms Pass Like Shadows, Should We Linger?</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-the-workings-of-xboxs-gaming-cloud/"><u>Insights Into the Workings of Xbox's Gaming Cloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-sonys-financial-options-for-games/"><u>Navigating Sony's Financial Options for Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-ideal-sony-vegas-substitute-for-windows/"><u>New Discover the Ideal Sony Vegas Substitute for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-gpu-temperature-control-boost-gaming-speed/"><u>Personalized GPU Temperature Control: Boost Gaming Speed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Steam's Big Leap: Overhauling Family Sharing for a Decade"
-date: 2024-10-17T20:54:26.732Z
-updated: 2024-10-24T19:29:11.506Z
+date: 2024-10-29T01:05:25.117Z
+updated: 2024-10-31T03:53:11.098Z
 tags:
   - games
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 * [The Pros and Cons of Steam Families](#the-pros-and-cons-of-steam-families)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  Between Family Sharing and Family View on Steam, the game sharing features of the platform have historically been a bit difficult to manage. However, an update makes family sharing more streamlined and easier to use.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Steam Families: What Has Changed? How Does It Work?
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
@@ -67,31 +67,31 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -130,17 +130,15 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-exploring-the-best-screenshot-apps-for-idevices-for-2024/"><u>[New] Exploring the Best Screenshot Apps for iDevices for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-visual-prowess-meets-audio-excellence-top-5-hd-webcams-for-2024/"><u>[New] Visual Prowess Meets Audio Excellence - Top 5 HD Webcams for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-elevating-your-visual-storytelling-with-advanced-drone-edits/"><u>[Updated] Elevating Your Visual Storytelling with Advanced Drone Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-melodic-melding-understanding-sound-transition/"><u>2024 Approved Melodic Melding Understanding Sound Transition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/camera-for-videos-mirrorless-vs-dslr-showdown/"><u>Best Camera for Videos Mirrorless Vs. DSLR Showdown</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-to-skepticism-trust-no-one-but-yourself/"><u>Gamers' Guide to Skepticism: Trust No One But Yourself</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-mobile-warfare-androids-best-mobas-for-2024/"><u>Mastering Mobile Warfare Android's Best MOBAs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/msi-raider-xg7-ultimate-powerhouse-2500-pc-unleashed/"><u>MSI Raider XG7 Ultimate Powerhouse: $2500 PC Unleashed</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinpointing-important-aspects-in-a-game-joystick/"><u>Pinpointing Important Aspects in a Game Joystick</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-scarcity-lifted-anticipated-price-slashes/"><u>PlayStation 5 Scarcity Lifted: Anticipated Price Slashes?</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-gameplay-top-five-mac-gaming-tips/"><u>Revolutionize Your Gameplay: Top Five Mac Gaming Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-virtual-frontier-top-pc-vr-headset-innovations-of-the-year/"><u>[Updated] In 2024, Virtual Frontier Top PC VR Headset Innovations of the Year</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-advanced-greenscreen-techniques-a-complete-guide-to-chroma-key-kinemaster/"><u>[Updated] Unveiling Advanced Greenscreen Techniques A Complete Guide to Chroma Key (KineMaster)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-text-tools-elevating-creative-compositions/"><u>2024 Approved Top 10 Text Tools Elevating Creative Compositions</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-basic-to-exceptional-mastering-the-art-of-steam-deck-operation/"><u>From Basic to Exceptional: Mastering the Art of Steam Deck Operation</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-excellence-in-valorant-tackling-low-pc-frame-rates/"><u>Gaming Excellence in Valorant: Tackling Low PC Frame Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-steam-games-on-android-or-iphone-using-steam-link/"><u>How to Play Steam Games on Android or iPhone Using Steam Link</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-methods-to-light-up-dull-iphone-footage/"><u>In 2024, Quick Methods to Light Up Dull iPhone Footage</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-controllers-for-switch-games-via-ryujinx/"><u>Navigating Controllers for Switch Games via Ryujinx</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-resource-for-free-sound-effects-a-guide-for-final-cut-pro-editors-for-2024/"><u>Updated The Ultimate Resource for Free Sound Effects A Guide for Final Cut Pro Editors for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Infinix Hot 40i? | Dr.fone</u></a></li>
 </ul></div>
 

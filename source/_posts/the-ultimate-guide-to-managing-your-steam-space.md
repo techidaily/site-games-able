@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Managing Your Steam Space
-date: 2024-09-14T16:37:39.214Z
-updated: 2024-09-15T16:16:39.298Z
+date: 2024-10-27T03:15:55.266Z
+updated: 2024-10-31T03:51:52.607Z
 tags:
   - games
 categories:
@@ -43,11 +43,31 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Steam Storage Manager in Steam Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-manager-in-steam-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Steam settings menu itself is pretty hard to find as well (a very strange way of doing things, Valve). However, you might’ve opened it before if you tried setting download speed limits. Simply look to the upper-left corner and click on**Steam > Settings > Storage** .
 
 ### 2\. Open the Steam Storage Manager Through the Downloads Page
 
 ![Steam downloads page cog wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/steam-downloads-page-cog-wheel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re already on the Steam Downloads page, there’s also a**cog** on the upper right, just below the**close window button** . Click that, and it will take you right to the**Downloads** section on the**Settings** page.
 
@@ -62,10 +82,16 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 ![Steam Storage Add Drive button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/steam-storage-add-drive-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can select a drive to automatically add a \\SteamLibrary folder into it, or you could also click on**Let me choose another location.**
@@ -76,33 +102,20 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![Create or select new Steam library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/create-or-select-new-steam-library-folder.jpg)
 
- If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you only have one drive and you need space for more games but don’t want to delete any downloaded ones, check out[how to free up disk space on Windows 10](https://www.makeuseof.com/tag/6-tips-free-disk-space-windows-10/) . We’re pretty sure you can free up some space from places you didn’t know you could free up.
 
 ## How to Set a Default Steam Library Folder or Drive
 
  Setting a default folder is great for convenience as you won’t have to choose where your game goes every time you download one. Chances are, you’ve already set a default folder for your Steam games, but if you need to set it to another one because it’s full here’s how you can do so:
 
 ![Make default Steam Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/make-default-steam-drive.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have your new drive added as a Steam Library destination, select that drive. On the right side of the long progress bar, click on the**three dots** and click**Make Default** . A star should appear beside the drive name and that will indicate that it is your default drive.
 
@@ -113,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 ![Moving Steam games to different Steam Library folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moving-steam-games-to-different-steam-library-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Firstly, select the games you want to transfer by clicking on the empty box on the right side of each game. Once you’ve selected at least one game, the**Move** and**Uninstall** button will have brightened up. Click on**Move** and a pop-up will show.
@@ -144,5 +157,19 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-revenue-the-content-creators-playbook/"><u>[Updated] 2024 Approved Boosting Revenue The Content Creator's Playbook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-a-cascade-of-curiosity-concurrent-video-watching-made-easy/"><u>[Updated] A Cascade of Curiosity Concurrent Video Watching Made Easy</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-the-potential-of-instavids-planning-for-success/"><u>[Updated] Unleashing the Potential of InstaVids Planning for Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>[Updated] Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pixiz-techniques-to-fuse-images-and-movement-seamlessly/"><u>2024 Approved Pixiz Techniques to Fuse Images and Movement Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/delve-into-the-dichotomy-of-pimax-crystal-headset/"><u>Delve Into the Dichotomy of Pimax Crystal Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-impact-of-stream-assist-on-games/"><u>Exploring the Impact of Stream Assist on Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-insights-to-find-your-next-favorite-apple-game/"><u>Game-Changing Insights to Find Your Next Favorite Apple Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-optimize-3d-models-for-game-development/"><u>How to Optimize 3D Models for Game Development</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/neglected-consequences-devs-getting-paid-by-players/"><u>Neglected Consequences: Devs Getting Paid by Players</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-a60s-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from A60s</u></a></li>
+</ul></div>
 

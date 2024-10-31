@@ -1,7 +1,7 @@
 ---
 title: The Ultimate EA Play Game Guide for PS5
-date: 2024-10-24T07:33:39.631Z
-updated: 2024-10-24T21:31:31.643Z
+date: 2024-10-23T23:41:40.411Z
+updated: 2024-10-30T23:55:49.019Z
 tags:
   - games
 categories:
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -38,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 [FIFA 23 is the last EA-FIFA game](https://www.makeuseof.com/why-ea-dropping-fifa-name/) because EA and FIFA’s 20-year partnership has come to an end. Therefore, FIFA 23 is a definitive game by virtue of it being the very last one in the series. Enjoy World Cups and FIFA-themed soccer in FIFA 23 because you might not get to feel it the same way in EA Sports FC (EA’s replacement for FIFA).
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. The Sims 4
 
@@ -55,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Need for Speed Heat
@@ -70,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Plants vs Zombies Garden Warfare 2
@@ -81,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
 
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
 
@@ -104,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  UFC 3 also takes the game out of the ring, and it’s the first UFC game to introduce G.O.A.T career mode, where you make decisions for your character outside of fighting. You can gain more fans, secure juicier contracts, and even antagonize rivals through the social media app in the game.
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## EA Play Is $5 Per Month of Unlimited Fun
 
@@ -126,17 +138,18 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-toontech-full-evaluation-and-how-to-guide-24/"><u>[Updated] 2024 Approved ToonTech Full Evaluation & How-To Guide '24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gratuitous-gems-of-humor-your-guide-to-free-memes/"><u>2024 Approved Gratuitous Gems of Humor – Your Guide to FREE Memes</u></a></li>
-<li><a href="https://games-able.techidaily.com/grit-and-patience-top-5-obdurate-gaming-tests/"><u>Grit and Patience: Top 5 Obdurate Gaming Tests</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/o-i-use-adobe-premiere-to-upload-youtube-videos-for-2024/"><u>How Do I Use Adobe Premiere To Upload YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-ensure-seamless-operation-with-updated-zebra-printer-drivers-on-windows/"><u>How to Ensure Seamless Operation with Updated Zebra Printer Drivers on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-itel-s23-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Itel S23 Phone Network-Ready</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/interactive-gfx-fixed-in-windows-enhanced-user-interface/"><u>Interactive GFX Fixed in Windows - Enhanced User Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-enhancing-roblox-frame-rate-risky/"><u>Is Enhancing Roblox Frame Rate Risky?</u></a></li>
-<li><a href="https://games-able.techidaily.com/refine-gaming-atmosphere-personalizing-the-xbox-game-bar-for-a-besposkexpenses-windows-pc/"><u>Refine Gaming Atmosphere: Personalizing the Xbox Game Bar for a Besposkexpenses Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/scrutinizing-ea-plays-payment-requirements/"><u>Scrutinizing EA Play's Payment Requirements</u></a></li>
-<li><a href="https://games-able.techidaily.com/unjamming-steams-content-stream-process/"><u>Unjamming Steam's Content Stream Process</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-app-audit-insightful-through-az-capture-for-2024/"><u>[New] Comprehensive App Audit Insightful Through AZ Capture for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unlock-the-potential-of-your-channels-with-our-guide-to-discord-broadcasting-for-2024/"><u>[New] Unlock the Potential of Your Channels with Our Guide to Discord Broadcasting for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-virtual-vision-creation-shaping-a-humorous-self-portrait/"><u>[Updated] Virtual Vision Creation Shaping a Humorous Self-Portrait</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-artistry-best-games-for-refining-creative-abilities/"><u>Elevate Artistry: Best Games for Refining Creative Abilities</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-srt-file-management-for-seamless-audible-experience/"><u>In 2024, SRT File Management for Seamless Audible Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-it-quiet-why-mic-use-in-ps5-is-risky/"><u>Keep It Quiet: Why Mic Use in PS5 Is Risky</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-creating-interactive-help-popups-for-flash-ebooks-on-flipbuilder/"><u>Step-by-Step: Creating Interactive Help Popups for Flash eBooks on FlipBuilder</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-definitive-checklist-for-finding-the-best-balance-between-tablet-size-and-weight/"><u>The Definitive Checklist for Finding the Best Balance Between Tablet Size & Weight</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-economical-gamers-playbook-xbox-series-edition/"><u>The Economical Gamer's Playbook: Xbox Series Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ited-visual-potential-free-themes-for-channels-for-2024/"><u>Unlimited Visual Potential – Free Themes for Channels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-delight-mobile-games-for-disconnected-players/"><u>Unplugged Delight: Mobile Games for Disconnected Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windowsmacos-execute-and-enjoy-srt-files/"><u>Windows/macOS Execute and Enjoy SRT Files</u></a></li>
 </ul></div>
 

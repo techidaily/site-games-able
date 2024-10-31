@@ -1,7 +1,7 @@
 ---
 title: Steps to Solve 'Components Required' Windows Problem
-date: 2024-09-08T17:02:02.724Z
-updated: 2024-09-15T16:28:24.307Z
+date: 2024-10-26T23:42:23.065Z
+updated: 2024-10-30T23:11:10.432Z
 tags:
   - games
 categories:
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 4. Select the**Repair** option in the Visual C++ window that opens.  
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
  If repairing doesn’t work, or you can’t find the Visual C++ package specified in the error, you may need to install missing C++ runtime libraries. Microsoft has a webpage from which you can download numerous different C++ Redistributable packages.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -70,36 +84,36 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 4. Click**Next** to proceed to an offer for installing a Bing Bar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
@@ -123,16 +137,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
@@ -154,5 +162,20 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-steps-turning-visual-media-from-pinterest-into-music-files/"><u>[New] 2024 Approved Key Steps Turning Visual Media From Pinterest Into Music Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>[Updated] Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-9-windows-11-secrets-for-a-streamlined-user-interface-experience/"><u>2024 Approved 9 Windows 11 Secrets for a Streamlined User Interface Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-lava-storm-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Lava Storm 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispelling-myths-around-robloxs-error-262/"><u>Dispelling Myths Around Roblox's Error 262</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-unresponsive-steam-7-straightforward-methods/"><u>Fix Unresponsive Steam: 7 Straightforward Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968830309-latest-amd-vega-64-graphics-card-driver-update-get-them-now-on-windows/"><u>Latest AMD Vega 64 Graphics Card Driver Update: Get Them Now on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/lemokey-l3-gaming-keys-a-quality-revelation/"><u>Lemokey L3 Gaming Keys: A Quality Revelation</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-presents-the-perfect-seasonal-video-games/"><u>Steam Presents: The Perfect Seasonal Video Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-12-mini-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions</u></a></li>
+</ul></div>
 

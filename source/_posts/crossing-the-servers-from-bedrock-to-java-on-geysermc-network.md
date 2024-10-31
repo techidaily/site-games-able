@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Servers: From Bedrock to Java on GeyserMC Network"
-date: 2024-10-18T05:46:59.124Z
-updated: 2024-10-24T18:13:35.346Z
+date: 2024-10-24T22:44:13.764Z
+updated: 2024-10-30T17:32:06.811Z
 tags:
   - games
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Minecraft Java and Bedrock editions are written in different programming languages, but the GeyserMC mod allows Bedrock players to join Java servers.
@@ -34,15 +41,34 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
 
@@ -58,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Jhet Borja
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
@@ -79,22 +98,15 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Install GeyserMC
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
@@ -115,6 +127,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
@@ -123,22 +142,15 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
@@ -168,20 +180,17 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-seamlessly-weaving-melodies-using-audacitys-features/"><u>[New] Seamlessly Weaving Melodies Using Audacity's Features</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-building-a-successful-livestream-empire-youtube-edition/"><u>[Updated] In 2024, Building a Successful Livestream Empire YouTube Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-eliminate-ambient-chatter-in-skype-calls/"><u>[Updated] In 2024, Eliminate Ambient Chatter in Skype Calls</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-play-using-ps5s-controllers-on-ps4/"><u>Cross-Play: Using PS5's Controllers on PS4?</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-stream-assist-the-future-of-video-gaming/"><u>Decoding Stream Assist: The Future of Video Gaming?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/modify-visual-game-settings-on-discord/"><u>Modify Visual Game Settings on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-seamless-connection-between-steam-deck-and-cloud/"><u>Restoring Seamless Connection Between Steam Deck & Cloud</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-turning-off-urgent-safety-alarms-on-iphone/"><u>Step-by-Step Tutorial for Turning Off Urgent Safety Alarms on iPhone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-on-converting-pdf-files-to-microsoft-word-format/"><u>Step-by-Step Tutorial on Converting PDF Files to Microsoft Word Format</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-picks-for-password-management-tools-unlocking-the-best-free-and-premium-options/"><u>Top Picks for Password Management Tools: Unlocking the Best Free & Premium Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-directx-draw-issues-a-comprehensive-guide/"><u>Troubleshooting and Fixing DirectX Draw Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-selection-premium-ipad-air-add-ons-reviewed-and-rated/"><u>Ultimate Selection: Premium iPad Air Add-Ons Reviewed and Rated!</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-essence-of-cozy-gaming/"><u>Understanding the Essence of Cozy Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-creative-genius-in-these-top-8-game-challenges/"><u>Unlock Your Creative Genius in These Top 8 Game Challenges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-slideshow-apps-iphone-series-8-series-12/"><u>[New] Best Slideshow Apps (iPhone Series 8-Series 12)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-engaging-audiennas-a-captivate-presentation-guide/"><u>[New] Engaging Audiennas A Captivate Presentation Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-expert-tips-for-high-quality-zoom-podcast-sessions/"><u>[Updated] In 2024, Expert Tips for High-Quality Zoom Podcast Sessions</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steams-inaccessible-gaming-library-issue/"><u>Fixing Steam's Inaccessible Gaming Library Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-serenity-steps-to-control-xbox-console-sounds/"><u>Gaming Serenity: Steps to Control Xbox Console Sounds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-edge-40-neo-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Edge 40 Neo Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-mend-your-steam-decks-connectivity-with-the-cloud/"><u>How to Mend Your Steam Deck’s Connectivity with the Cloud</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-efficiency-in-social-media-sharing-tweets-with-snapchat/"><u>In 2024, Efficiency in Social Media Sharing Tweets with Snapchat</u></a></li>
+<li><a href="https://games-able.techidaily.com/priority-aspects-of-a-high-res-monitor-for-gamers/"><u>Priority Aspects of a High-Res Monitor for Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quickly-resolve-airdrop-problems-a-guide-to-using-these-16-effective-methods/"><u>Quickly Resolve AirDrop Problems: A Guide to Using These 16 Effective Methods.</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-wonders-restore-internet-functionality/"><u>Switch Wonders: Restore Internet Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/trasforma-i-tuoi-file-webm-in-formato-mp4-gratuitamente-con-leditor-online-di-movie-converter/"><u>Trasforma I Tuoi File WebM in Formato MP4 Gratuitamente Con L'editor Online Di Movie Converter</u></a></li>
 </ul></div>
 

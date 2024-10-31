@@ -1,7 +1,7 @@
 ---
 title: "Tailored Thermal Profile: Game-Changing Performance Upgrades"
-date: 2024-10-23T00:00:21.684Z
-updated: 2024-10-25T01:08:56.575Z
+date: 2024-10-26T17:01:19.097Z
+updated: 2024-10-30T18:58:01.281Z
 tags:
   - games
 categories:
@@ -35,23 +35,9 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  Unfortunately, that's the truth, but you can adjust your GPU fans to unlock better GPU performance, delivering much lower GPU temps in the process. You might even claw some extra lifespan from your GPU, too!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Should You Use a Custom GPU Fan Curve?
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -71,26 +57,26 @@ Jhet Borja/MakeUseOf
 
  However, in rare cases, the motor might need replacing as well. However, a[replacement graphics card fan](https://www.amazon.com/s?k=Graphics+card+fan&tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) is much cheaper and easier to fix than a dead GPU. You'll have to consider whether potentially needing a fan replacement sooner and a noisier system is worth lifting the performance cap.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set a Custom GPU Fan Curve to Boost Gaming Performance
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
@@ -114,20 +100,33 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
@@ -136,6 +135,13 @@ Jhet Borja/MakeUseOf
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
@@ -162,17 +168,16 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-your-roadmap-to-sourcing-videos-on-social-media-fb-edition/"><u>[New] 2024 Approved Your Roadmap to Sourcing Videos on Social Media (FB Edition)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-improving-sound-speeds-a-guide-for-safe-spotify-use/"><u>[New] Improving Sound Speeds A Guide for Safe Spotify Use</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unveil-the-power-of-vrecorder-installs-demystified/"><u>[New] Unveil the Power of VRecorder Installs Demystified</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] Fresh Talent and Stunts in Skating Highlights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-mastering-virtual-liquids-top-game-showcase/"><u>[Updated] Mastering Virtual Liquids Top Game Showcase</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-release-postponements-not-so-bad-after-all/"><u>Game Release Postponements - Not So Bad After All</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-x100-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo X100 phone? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-customization-in-steam-using-the-workshop-tool/"><u>Mastering Customization in Steam Using The Workshop Tool</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4-compression-techniques-how-to-minimize-file-size-without-compromising-quality/"><u>MP4 Compression Techniques: How to Minimize File Size Without Compromising Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-lost-functionality-to-steam-remote-play/"><u>Restoring Lost Functionality to Steam Remote Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-your-favorite-titles-ios-and-nintendo-unite/"><u>Revive Your Favorite Titles: IOS & Nintendo Unite</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-bg3-platforms-dlc-insights/"><u>Unlocking BG3: Platforms, DLC Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reaking-down-tseries-income-strategy-on-youtube-platform-for-2024/"><u>[New] Breaking Down TSeries' Income Strategy on YouTube Platform for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-desktop-snapshot-made-simple-free-tools-for-windows-for-2024/"><u>[New] Desktop Snapshot Made Simple – Free Tools for Windows for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-amd-graphics-mastery-with-in-depth-look-at-radeon-xt-rx-7800-7700/"><u>Discover AMD Graphics Mastery with In-Depth Look at Radeon XT (RX 7800, 7700)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-flooring-options-to-transform-your-desk/"><u>Innovative Flooring Options to Transform Your Desk</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/leading-usb-ssd-duplicator-applications-compatible-with-windows-111087/"><u>Leading USB SSD Duplicator Applications Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/side-by-side-hero4-vs-hero5-analysis/"><u>Side by Side Hero4 vs Hero5 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-game-boy-simulators-for-iphone-and-ipad/"><u>The Premier Game Boy Simulators for iPhone & iPad!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-managing-your-steam-space/"><u>The Ultimate Guide to Managing Your Steam Space</u></a></li>
 </ul></div>
 

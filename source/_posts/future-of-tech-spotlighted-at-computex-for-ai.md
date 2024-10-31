@@ -1,7 +1,7 @@
 ---
 title: Future of Tech Spotlighted at Computex for AI
-date: 2024-09-08T16:40:54.724Z
-updated: 2024-09-15T16:08:28.747Z
+date: 2024-10-26T04:48:01.012Z
+updated: 2024-10-31T02:11:15.610Z
 tags:
   - games
 categories:
@@ -35,11 +35,25 @@ thumbnail: https://thmb.techidaily.com/6b2ec2941933023600c9882b03f190635c85fa9ba
 
 So, these are the best bits of AI hardware launched at Computex 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
 
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Intel
 
@@ -48,6 +62,13 @@ Intel
 [Intel claims](https://www.intel.com/content/www/us/en/newsroom/news/intels-lunar-lake-processors-arriving-q3-2024.html#gs.93h4cy) Lunar Lake will deliver 1.4 times faster processing than a Snapdragon X Elite chip in Stable Diffusion 1.5, while its NPU will deliver more than 40 TOPS (tera operations per second), which is substantially more than the 10 TOPS offered by its Meteor Lake chips.
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Intel
 
@@ -64,10 +85,10 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -75,13 +96,6 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 AMD
 
@@ -102,5 +116,18 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-superior-architects-cutting-edge-instagram-hlv-makers/"><u>[New] 2024 Approved Superior Architects Cutting-Edge Instagram HLV Makers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-speed-instant-signature-background-cleanup/"><u>[Updated] Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-6-myths-avoiding-high-end-monitors-for-pc-games/"><u>Debunking 6 Myths: Avoiding High-End Monitors for PC Games</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhancing-user-experience-through-smart-tracking-the-power-behind-cookiebot-solutions/"><u>Enhancing User Experience Through Smart Tracking: The Power Behind Cookiebot Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://facebook.techidaily.com/integrating-digital-platforms-into-company-culture/"><u>Integrating Digital Platforms Into Company Culture</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-social-and-multiplayer-features-in-ea-play-for-ps5-users/"><u>Navigating Social & Multiplayer Features in EA Play for PS5 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-the-eternal-return-tactics-to-sustain-black-survival-successfully/"><u>Navigating the Eternal Return: Tactics to Sustain Black Survival Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/pivot-from-console-to-pc-via-steam-decks-remote-play/"><u>Pivot From Console to PC via Steam Deck's Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gameplay-with-nvidias-cutting-edge-g-sync/"><u>Revolutionizing Gameplay with Nvidia's Cutting-Edge G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-cooling-cost-of-graphics-gamble/"><u>The Cooling Cost of Graphics Gamble</u></a></li>
+</ul></div>
 

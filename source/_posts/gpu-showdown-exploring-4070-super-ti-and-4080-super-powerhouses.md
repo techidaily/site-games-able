@@ -1,7 +1,7 @@
 ---
 title: "GPU Showdown: Exploring 4070 Super, Ti & 4080 Super Powerhouses"
-date: 2024-09-10T16:17:46.649Z
-updated: 2024-09-15T16:09:57.811Z
+date: 2024-10-23T18:45:12.291Z
+updated: 2024-10-30T17:37:10.017Z
 tags:
   - games
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 * [RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared](#rtx-4070-ti-super-vs-rtx-4070-super-vs-rtx-4080-super-compared)
 * [Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?](#should-you-upgrade-to-the-rtx-4070-ti-super-rtx-4070-super-or-rtx-4080-super)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Nvidia launches its RTX 4000 "Super" and "Super Ti" branded GPUs with significant performance boosts.
@@ -31,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 * The RTX 4080 Super is priced at $999, making it more affordable than the original RTX 4080, while the RTX 4070 Super and Super Ti remain at the same prices, providing more value for the performance boost.
 
  Nvidia's new RTX 4070 Ti Super, RTX 4070 Super, and RTX 4080 Super are causing a stir because, despite being part of the RTX 4000 Series, the new GPUs bring some significant boosts—and unlike their counterparts, appear to be reasonably priced this time around.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared
 
@@ -59,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 | TGP              | 320W             | 320W              | 285W             | 220W             | 200W       |
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Specs
@@ -77,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 
  Similarly, the RTX 4070 Super Ti receives a further boost, with its CUDA cores rising to 8,448\. Importantly, the 4070 Super Ti also has 16GB memory, rising from 12GB, while its memory bus also rises to 256-bit (bringing it in line with the RTX 4080 and 4080 Super). The 4GB memory increase and wider memory bus should see the RTX 4070 Super Ti deliver a hefty performance boost over the original RTX 4070 (as well as the RTX 4070 Ti, which is already on the market).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Price to Performance
 
  The[RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
@@ -91,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  Now, Nvidia is dropping the price of the RTX 4080 Super to $999\. It's still an expensive outlay; there's no escaping that, but the performance boost and price drop make the new RTX 4080 Super more palatable.
 
  But the price drops stop there. The RTX 4070 Super and Super Ti will launch at the same prices as the non-Super predecessors, coming in at $600 and $800, respectively. Given the performance upgrade for both GPUs, the lack of a price drop doesn't seem problematic, as you'll get more bang for your buck.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?
 
@@ -111,5 +131,21 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-fbx-free-gametime-tracking-for-2024/"><u>[Updated] The Ultimate Guide FBX-Free Gametime Tracking for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mov-file-management-made-simple-on-windows-10/"><u>2024 Approved .mov File Management Made Simple on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/developing-a-distinctive-style-for-steam-game-critiques/"><u>Developing a Distinctive Style for Steam Game Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/go-all-out-top-7-exhilarating-sports-titles-for-iphone-and-android/"><u>Go All Out! Top 7 Exhilarating Sports Titles for iPhone & Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-non-detected-gpgpu-issue/"><u>How To Fix Non-Detected GPGPU Issue</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-seamlessly-replace-mouse-drivers-in-windows-environments/"><u>How to Seamlessly Replace Mouse Drivers in Windows Environments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-streamline-your-audio-savings-from-youtube-playback/"><u>In 2024, Streamline Your Audio Savings From YouTube Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-overcoming-audio-playback-problems-in-microsoft-powerpoint/"><u>Step-by-Step Solutions for Overcoming Audio Playback Problems in Microsoft PowerPoint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tactics-for-unmasking-fake-bots-in-chatgpt-exchange/"><u>Tactics for Unmasking Fake Bots in ChatGPT Exchange</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-supreme-joy-con-and-controller-compendium-nintendo-switch-2024/"><u>The Supreme Joy-Con & Controller Compendium (Nintendo Switch, 2024)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-xbox-series-x-controller-disassembly/"><u>The Ultimate Guide to Xbox Series X Controller Disassembly</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-benefits-going-from-console-to-pc-gaming/"><u>Top 10 Benefits: Going From Console to PC Gaming</u></a></li>
+</ul></div>
 

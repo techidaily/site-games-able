@@ -1,7 +1,7 @@
 ---
 title: "PC Harmony: Avoiding Wasted Money on Incompatible Parts"
-date: 2024-09-08T16:25:43.309Z
-updated: 2024-09-15T17:04:27.553Z
+date: 2024-10-28T02:59:42.466Z
+updated: 2024-10-30T19:27:17.204Z
 tags:
   - games
 categories:
@@ -39,11 +39,32 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ![intel i9 13900k spec sheet 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/intel-i9-13900k-spec-sheet-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. GPU Check
 
 [GPU Check](https://www.gpucheck.com/gpu-benchmark-comparison) is a handy tool for figuring out how your CPU and GPU might perform together. Sure, the go-to is typically to buy the biggest and best of both, and when you're building a new PC from scratch, that's a straightforward option.
 
  But when upgrading a PC with new components, you might want to consider how your older CPU will play with a newer GPU or vice versa. With GPU Check, you can compare CPU and GPU combinations against one another and see how the changes affect performance. Of course, it's a general guide; CPU and GPU age, cooling, and other factors will affect your outright performance, but it's a good gauge, nonetheless.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Newegg Custom PC Builder
 
@@ -61,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
  The individual component selection works similarly to PCPartPicker, helping you match compatible hardware by eliminating parts that don't work after each selection.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Google Bard (Or Another Internet-Connected AI Chatbot)
 
  The world's leading AI chatbot, ChatGPT, doesn't have direct internet access. Or rather, it did, but it has been switched off at the time of writing. But that's no problem because we can[turn to Google's Bard AI chatbot instead](https://www.makeuseof.com/how-to-use-google-bard/) to help check if our hardware is compatible.
@@ -68,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
  You can use Bard to help check PC hardware compatibility in two ways. First, you can straight-up ask Bard to create a custom PC build for you, making sure each part is compatible.
 
 ![google bard ai custom pc build prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-ai-custom-pc-build-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bard suggested the following build for a PC that can "play FPS games at least 1080p 60FPS" with "a high-end CPU and good GPU."
 
@@ -95,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
 
 ![google bard checks custom pc build list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-bard-checks-custom-pc-build-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In both scenarios, Google Bard helped figure out which PC components were compatible.
 
 ## 6\. Power Supply Calculator
@@ -113,19 +133,6 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
  One of the greatest ways to find out what works and what doesn't is to use a PC hardware forum or community, like Linus Tech Tips Forums, Reddit's r/buildapc, and so on. These forums are packed with people passionate about PC building and ensuring your hardware works as it should, and the knowledge of many folks on these forums is second-to-none.
 
  On some forums, you're encouraged to post your proposed build and ask for feedback or use the search function to see if someone has already asked about the compatibility of your selected components. If you find a build similar to yours, you can check if it worked or not, while if you're still in the planning stages, you might receive friendly advice regarding your upcoming build.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Always Check Your PC Hardware Compatibility Before Buying
 
@@ -146,5 +153,20 @@ thumbnail: https://thmb.techidaily.com/cd3822e24581abb5be24ba6398f11b4a362481119
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-direct-gif-to-video-upgrade-no-download-just-click-and-convert/"><u>[New] 2024 Approved Direct GIF-to-Video Upgrade No Download, Just Click & Convert</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-capture-to-creation-discover-the-best-montage-apps-for-smartphones/"><u>[Updated] From Capture to Creation Discover the Best Montage Apps for Smartphones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-nailing-instagram-aesthetics-tips-for-video-dimensions-for-2024/"><u>[Updated] Nailing Instagram Aesthetics Tips for Video Dimensions for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-workflow-management-using-the-leading-8-chrome-productivity-assistants-with-ai-integration/"><u>Elevate Workflow Management Using the Leading 8 Chrome Productivity Assistants with AI Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-pixel-to-performance-raspberry-pis-role-in-gaming/"><u>From Pixel to Performance: Raspberry Pi's Role in Gaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-video-color-correction-for-youtube-beauty/"><u>In 2024, Video Color Correction for YouTube Beauty</u></a></li>
+<li><a href="https://win11.techidaily.com/live-stream-success-the-art-of-capturing-gameplays-via-intelligence/"><u>Live Stream Success: The Art of Capturing Gameplays via Intelligence</u></a></li>
+<li><a href="https://games-able.techidaily.com/microtransactions-a-premium-games-trend-or-anomaly/"><u>Microtransactions - A Premium Games Trend or Anomaly?</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-basilisk-v3-pro-peak-gaming-speed-and-ultra-low-delays/"><u>Razer Basilisk V3 Pro: Peak Gaming Speed & Ultra-Low Delays</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782190-9781620553046-the-immortal-mind/"><u>The Immortal Mind | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-mac-os-x-mp3-konvertierungsprogramme-auf-youtube-20172018-gratis-herunterladen/"><u>Top Mac OS X MP3 Konvertierungsprogramme Auf YouTube (2017/2018) - Gratis Herunterladen</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-non-responsive-xbox-controllers-on-windows/"><u>Troubleshooting Non-Responsive Xbox Controllers on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-shuts-down-virtual-cash-return-channels/"><u>Valve Shuts Down Virtual Cash Return Channels</u></a></li>
+</ul></div>
 

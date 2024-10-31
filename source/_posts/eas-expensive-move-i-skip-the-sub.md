@@ -1,7 +1,7 @@
 ---
 title: EA’s Expensive Move, I Skip the Sub
-date: 2024-09-10T16:00:57.878Z
-updated: 2024-09-15T16:03:44.653Z
+date: 2024-10-28T16:34:19.835Z
+updated: 2024-10-31T03:18:06.346Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
  An extra dollar or two per month seems small, and even the $10 or $20 annual increase might seem reasonable. However, these increases are large if you look at them relative to the original price.
@@ -54,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
 [Statista records the average global inflation](https://www.statista.com/statistics/256598/global-inflation-rate-compared-to-previous-year/) from 2019 to 2023 at 5.41%. If we compound that rate over the years, the expected inflation should be around 30%—so anything worth $1 in 2019 now costs $1.30 today.
@@ -93,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
  As I said earlier, EA Play is still the most affordable gaming subscription in 2024\. However, it doesn't mean it offers excellent value for your money. That's because while other gaming subscriptions are more expensive, they also have a more extensive library.
@@ -108,9 +101,23 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -133,5 +140,22 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplifying-your-playlists-on-instagram/"><u>[New] In 2024, Amplifying Your Playlists on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>[New] Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-crossing-the-line-guesting-in-friends-tiktok-shows/"><u>[Updated] 2024 Approved Crossing the Line Guesting in Friends' TikTok Shows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-novice-guide-to-earning-on-periscope-live-streaming/"><u>[Updated] Novice Guide to Earning on Periscope Live Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725289718270-winx-dvd-ripper-and-video-converter/"><u>輕鬆使用WinX DVD Ripper & Video Converter : 線上技術協助中心</u></a></li>
+<li><a href="https://games-able.techidaily.com/diving-into-the-price-structure-for-sonys-gaming-service/"><u>Diving Into the Price Structure for Sony's Gaming Service</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-panoramic-vision-leading-360-cameras-of-2023/"><u>In 2024, Professional Panoramic Vision Leading 360° Cameras of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-pursuit-of-perfection-comparing-asuss-gaming-lineup/"><u>In Pursuit of Perfection: Comparing Asus's Gaming Lineup</u></a></li>
+<li><a href="https://article-files.techidaily.com/picture-perfect-best-apps-for-framing-your-memories/"><u>Picture Perfect Best Apps for Framing Your Memories</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-along-with-youtubes-newest-test-mini-games/"><u>Play Along with YouTube's Newest Test Mini-Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-the-thrill-of-virtual-challenges/"><u>Rediscovering the Thrill of Virtual Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-battle-royale-iphone-and-geforce-now-synergy/"><u>Step Into the Battle Royale: IPhone and GeForce Now Synergy</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-gamers-list-outstanding-keyboards-of-2024/"><u>The Premier Gamer's List - Outstanding Keyboards of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-correcting-the-unrecoverable-error-1603-during-program-install/"><u>Troubleshooting Guide: Correcting the Unrecoverable Error 1603 During Program Install</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-playtime-essential-equipment-guide/"><u>Upgrade Your Playtime: Essential Equipment Guide</u></a></li>
+</ul></div>
 

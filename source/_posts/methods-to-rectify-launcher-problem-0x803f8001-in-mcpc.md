@@ -1,7 +1,7 @@
 ---
 title: Methods to Rectify Launcher Problem 0X803F8001 in MCPC
-date: 2024-09-08T16:05:12.174Z
-updated: 2024-09-15T16:16:00.429Z
+date: 2024-10-23T21:55:44.880Z
+updated: 2024-10-30T22:39:53.145Z
 tags:
   - games
 categories:
@@ -70,22 +70,32 @@ You can reset your apps in Windows 11 like this:
 4. Next, click the three-dot button for the Microsoft Store app.  
 ![The three-dot button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-three-dot-button.jpg)
 5. Select**Advanced options** to bring up the**Reset** button.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the**Reset** option. Select**Reset** again on the confirmation prompt.  
 ![The Repair and Reset buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-repair-and-reset-buttons.jpg)
 7. Note that you can also select a**Repair** option that’s just above the**Reset** button. If resetting doesn’t do the trick, try selecting the**Repair** option for Microsoft Store.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Repeat the above steps for the Microsoft Launcher app.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Microsoft Store Cache
@@ -98,6 +108,19 @@ You can reset your apps in Windows 11 like this:
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-wsreset-command.jpg)
 4. Click**OK** to reset Microsoft Store’s cache.
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Re-Register the Microsoft Store via an Elevated PowerShell
 
  Sometimes, reregistering the Microsoft Store using an Elevated Powershell does the trick. Here's how to do that:
@@ -107,19 +130,6 @@ You can reset your apps in Windows 11 like this:
 ![The Run as Administrator option for Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/run-as-administrator-option-for-powershell.jpg)
 3. [Copy and paste](https://www.makeuseof.com/windows-11-copy-paste-methods/) this command into PowerShell and hit**Enter** to execute:  
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"} Get-AppXPackage -AllUsers -Name Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml" -Verbose}`
 4. Then input this second command in the PowerShell window:  
 `Get-AppXPackage -AllUsers -Name Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml" -Verbose}`
@@ -128,10 +138,10 @@ You can reset your apps in Windows 11 like this:
 ![A reregister app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/a-reregister-app-package-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
@@ -162,18 +172,18 @@ You can reset your apps in Windows 11 like this:
 7. Press the**Get** button for the app.
 8. Then click Minecraft Launcher’s**Play** option in Microsoft Store.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Install the Minecraft Launcher From the Microsoft Store
 
  Do you use the Minecraft Launcher you downloaded from the Minecraft website? If you do, uninstall the launcher using one of the[ways to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, install it from the Microsoft Store.
 
  Several users have reported in a thread within the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/when-i-try-to-launch-minecraft-launcher-i-get/dbb2b0aa-f68a-411c-8a9a-662499c8472f) that they have been able to fix the issue by doing this. Therefore, give it a shot and see if it fixes the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Repair Any Corrupted System Files
 
@@ -184,10 +194,10 @@ You can reset your apps in Windows 11 like this:
  Check out[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11\. Update Windows
@@ -211,5 +221,16 @@ You can reset your apps in Windows 11 like this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>[New] Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-discover-the-art-of-live-discord-recording/"><u>[Updated] In 2024, Discover the Art of Live Discord Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquering-chatgpt-your-path-to-becoming-an-innovative-text-rpg-master/"><u>Conquering ChatGPT: Your Path to Becoming an Innovative Text RPG Master</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-glow-up-the-best-three-highlight-ideas/"><u>In 2024, Instagram Glow Up The Best Three Highlight Ideas</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-meizu-21-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Meizu 21 Pro FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-rise-and-fall-of-cozy-gaming/"><u>Investigating the Rise and Fall of Cozy Gaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-ultimate-guide-to-eliminating-lag-in-fortnite-get-smooth-gameplay-now/"><u>Resolved: Ultimate Guide to Eliminating Lag in Fortnite - Get Smooth Gameplay Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-new-identity-changing-username-and-tagline-at-riot-game/"><u>Step Into a New Identity: Changing Username & Tagline at Riot Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-button-press-recognition/"><u>The Science Behind Button Press Recognition</u></a></li>
+</ul></div>
 

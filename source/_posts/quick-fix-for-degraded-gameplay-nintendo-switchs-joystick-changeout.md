@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Degraded Gameplay: Nintendo Switch's Joystick Changeout"
-date: 2024-09-13T16:43:25.159Z
-updated: 2024-09-15T16:06:22.715Z
+date: 2024-10-23T19:37:37.274Z
+updated: 2024-10-30T23:56:46.070Z
 tags:
   - games
 categories:
@@ -51,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  It isn’t compulsory for the replacement, but you would also seriously benefit from using a small dish to keep all your loose screws.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Replace the Joysticks in Your Nintendo Switch Joy-Con
 
  So you’re all kitted out with each of the items above, and you are ready to give your Joy-Con the life-saving surgery needed to eliminate the dreaded Joy-Con drift. This process is relatively simple, but it is very important that you take your time with it. Everything inside your Joy-Con is extremely delicate, and the last thing you want is to snap a ribbon cable or do some other type of damage to the device.
@@ -65,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
 2. Gently unplug the blue ribbon cable near the joystick.
 3. Unplug the ribbon cable that runs over the top of the joystick.  
@@ -72,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
 5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Start plugging the ribbon cables back in by taking your needle nose tweezers and gently slotting them back in place. Flick the tabs down over the top to lock them in position.
 2. The hardest ribbon cable to plug back in is the one for the center plate. Sit the plate beside the Joy-Con and notice the slight curve that the ribbon cable naturally has. Don't try to fight this curve or straighten it out, simply slide it back in the way it naturally wants to go.  
@@ -88,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
@@ -113,5 +140,18 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-make-a-photo-video-with-pixiz/"><u>[New] How to Make a Photo Video with Pixiz ?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-20-iconic-anime-theme-melodies-ever/"><u>[New] Top 20 Iconic Anime Theme Melodies Ever</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-voice-capture-apps-for-mac-users-feature-spotlight-for-2024/"><u>[Updated] Prime Voice Capture Apps for Mac Users Feature Spotlight for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-tips-for-zooming-in-on-superior-skype-meetings/"><u>2024 Approved Top Tips for Zooming in on Superior Skype Meetings</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-a-ps4-controller-disconnecting-itself-on-windows/"><u>How to Fix a PS4 Controller Disconnecting Itself on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-x6-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Find X6</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-pokemon-gos-gps-puzzle/"><u>Mending Pokémon GO's GPS Puzzle</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-with-joy-switch-keyboardmouse-integration-87-chars/"><u>Navigating with Joy: Switch Keyboard/Mouse Integration (87 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-savvy-players-rejoice-enjoy-flash-games-without-the-plugin/"><u>Tech-Savvy Players Rejoice! Enjoy Flash Games without the Plugin</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-potential-in-twitch-mobile-broadcasts/"><u>Unlock Your Potential in Twitch Mobile Broadcasts</u></a></li>
+</ul></div>
 

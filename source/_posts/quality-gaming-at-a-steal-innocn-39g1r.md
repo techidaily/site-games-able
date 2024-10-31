@@ -1,7 +1,7 @@
 ---
 title: "Quality Gaming at a Steal: InnoCN 39G1R"
-date: 2024-09-12T16:31:49.207Z
-updated: 2024-09-15T17:10:49.770Z
+date: 2024-10-24T16:07:48.693Z
+updated: 2024-10-30T20:34:58.303Z
 tags:
   - games
 categories:
@@ -103,6 +103,13 @@ Yes - 3000R
 
 [$400 at Amazon](https://www.amazon.com/INNOCN-Ultrawide-FreeSync-Computer-Adjustable/dp/B0B9GVCCLH?tag=muo-v2-7s9kakr-20&ascsubtag=UUmuoUeUpU2029202&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Finnocn-39g1r-review%2F&asc%5Fcampaign=Affiliate)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Unboxing and Assembly
 
  Assembly is relatively simple, given that it only comes in three pieces: the display, the stand, and the legs. The display arrives in a molded polystyrene form, and due to the unique subtle curvature, I'd advise leaving it in there and attaching the stand rather than the more traditional method of laying it flat on a table.
@@ -117,7 +124,21 @@ Yes - 3000R
 
 ![innocn 39g1r - rear panel and cable ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-rear-panel-and-cable-ports.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll find two HDMI 2.0 ports and two DisplayPort 1.4 ports. Unfortunately, if your cabling is a bit large, the port cover barely fits back on. I found angling the monitor applied just enough force on the port cover to pull it off again. I'll probably leave it off–it’s not essential, especially if the back of the display isn't visible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Design and Specifications
 
@@ -126,6 +147,13 @@ Yes - 3000R
  Although it's sold as a curved gaming monitor, technically, it has a 3000R curve. The larger the number, the more subtle the curvature is. In this case, it's barely perceptible to me. This might actually be a good thing, making the 39G1R suitable for both gaming and everyday office work where people tend to prefer a flatter profile. It's a balanced option, and the 16:9 screen ratio combined with subtle curvature certainly won't suit use as an immersive cockpit for racing or flying games.
 
 ![innocn 39g1r - leds dont do much](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-leds-dont-do-much.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the rear, you'll find a diagonal line of LEDs. They’re not bright enough to serve as bias lighting (in the image above, the blue reflecting on the wall is coming from my PC fans, not the monitor), nor do they synchronize with on-screen content. You can manually configure them to one of seven different static colors, a few different scene styles, and adjust the brightness (though the maximum "vibrant" brightness setting would be better described as "just about visible").
 
@@ -139,6 +167,13 @@ Yes - 3000R
 
 ![innocn 39g1r - display rear cyclinder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-display-rear-cyclinder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The legs have a sizable footprint, however, and the option to VESA mount would have been appreciated. Unlike the small, solid metal bases of most monitors, the 39G1R relies on a tripod leg structure. It's stable, but it requires about a foot of depth. While you probably wouldn’t try to cram a 39-inch monitor onto a tiny desk anyway, that’s still a significant footprint for any desk size. The awkward tripod shape also means you can't slide a mini-PC in there, or tuck your keyboard out of the way when not in use.
 
 ## OSD and Controls
@@ -146,13 +181,6 @@ Yes - 3000R
  The display is controlled with a single nub-like thumbstick underneath, in the center. Tap in any direction or click to open the first menu, and click again to turn off the display. You can also navigate right to the full on-screen display menu, left to control the lighting, or up for "game mode", which adds a customizable crosshair in the center of the display.
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
@@ -166,18 +194,18 @@ Yes - 3000R
 
 ![innocn 39g1r - featured image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-featured-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The 39G1R boasts 99% sRGB gamut coverage and supports HDR10, but with a peak brightness of 350 nits and no local dimming, the HDR is limited and not on par with TV HDR—to the extent that I wouldn't bother enabling it.
 
  Still, SDR content looks incredible. The panel uses VA technology with a 3000:1 contrast ratio, which enables it to deliver deep blacks. The glossy screen finish also helps with overall color richness, though it's prone to reflections from ambient light sources.
 
 ![innocn 39g1r - lego browls high motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-browls-high-motion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
@@ -186,13 +214,6 @@ Yes - 3000R
  Using the DisplayPort connected to my gaming PC I was able to select 165Hz and the full 1440p right from within the Windows settings. No mucking around—it worked off the bat, and I turned overdrive on high.
 
 ![innocn 39g1r - 165hz](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-165hz.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Assuming you have hardware that can even deliver those sorts of frame rates, you’ll get superb visuals.
 
@@ -208,9 +229,23 @@ Yes - 3000R
 
 ![innocn 39g1r - strategy low resolution close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-strategy-low-resolution-close-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Unfortunately, despite being FreeSync compatible, VRR isn't supported on the PlayStation 5\. The maximum I could get out of it (over HDMI) was 1440p HDR 120Hz.
 
 ![innocn 39g1r - no VRR ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-no-vrr-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that’s good enough for most people, but don’t buy this specifically for VRR support if you’re on PlayStation. This isn’t uncommon, I should add. Sony has implemented a very restrictive form of variable refresh which needs HDMI 2.1, and the 39G1R doesn’t provide that. For the highest refresh rates, you’ll need to use the DisplayPort.
 
@@ -226,23 +261,9 @@ Yes - 3000R
 
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
@@ -267,5 +288,24 @@ Yes - 3000R
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-smile-spark-planner-for-2024/"><u>[New] Smile Spark Planner for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlocking-creativity-your-steps-toward-a-thriving-design-career-for-2024/"><u>[New] Unlocking Creativity Your Steps Toward a Thriving Design Career for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-6-myths-avoiding-high-end-monitors-for-pc-games/"><u>Debunking 6 Myths: Avoiding High-End Monitors for PC Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuidade-converter-imagens-raw-em-png-online-sem-custo-com-o-movavi/"><u>Gratuidade: Converter Imagens RAW Em PNG Online Sem Custo Com O Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/handling-unwelcome-interactions-on-series-sx-gaming-platforms/"><u>Handling Unwelcome Interactions on Series S/X Gaming Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xiaomi-redmi-note-12-proplus-5g-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xiaomi Redmi Note 12 Pro+ 5G.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4a-vsmp3ac3wma/"><u>M4A vs.他の音声フォーマット:MP3やAC3、WMAと異なる点を学ぶ</u></a></li>
+<li><a href="https://games-able.techidaily.com/meta-quest-3-review-introducing-the-magic-of-mixed-reality/"><u>Meta Quest 3 Review: Introducing the Magic of Mixed Reality</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-social-and-multiplayer-features-in-ea-play-for-ps5-users/"><u>Navigating Social & Multiplayer Features in EA Play for PS5 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/pivot-from-console-to-pc-via-steam-decks-remote-play/"><u>Pivot From Console to PC via Steam Deck's Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gameplay-with-nvidias-cutting-edge-g-sync/"><u>Revolutionizing Gameplay with Nvidia's Cutting-Edge G-Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/swiftly-resuscitate-frozen-steam-applications-using-simple-solutions/"><u>Swiftly Resuscitate Frozen Steam Applications Using Simple Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-cooling-cost-of-graphics-gamble/"><u>The Cooling Cost of Graphics Gamble</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-common-fixes-for-non-functioning-pubg-mobile-voice-communication/"><u>Troubleshooting: Common Fixes for Non-Functioning PUBG Mobile Voice Communication</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-s18s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo S18s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-spin-flip-and-rotate-the-top-online-video-rotation-services/"><u>Updated In 2024, Spin, Flip, and Rotate The Top Online Video Rotation Services</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-asus-rog-phone-7-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Asus ROG Phone 7 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

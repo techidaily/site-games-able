@@ -1,7 +1,7 @@
 ---
 title: Stopping Auto-Booted Steam Immediately
-date: 2024-09-14T16:51:48.059Z
-updated: 2024-09-15T16:15:38.349Z
+date: 2024-10-28T17:12:46.495Z
+updated: 2024-10-30T16:49:52.772Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
  This should be all you need to do to stop Steam from launching on startup. However, if it has no effect, you may need to alter a setting in your operating system. If so, follow the Windows or Mac instructions below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Stop Steam Launching on Startup (Windows)
 
  There are plenty of[startup programs you can safely disable](https://www.makeuseof.com/tag/make-windows-start-faster-10-non-essential-startup-items-can-safely-remove/) on Windows, and Steam is one of them. Here's how on Windows 10 and 11:
@@ -48,6 +55,20 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
 ![windows 11 startup apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-startup-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Stop Steam Launching on Startup (Mac)
 
  It's simple to[remove a startup app on macOS](https://www.makeuseof.com/tag/add-remove-delay-startup-items-mac/) . Here's how on Ventura:
@@ -58,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 4. Beneath**Open at Login** , select Steam and click the**minus icon** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try Steam in Big Picture Mode
@@ -81,5 +102,19 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unlock-potential-in-social-media-storytelling-fb-slideshows/"><u>[Updated] 2024 Approved Unlock Potential in Social Media Storytelling FB Slideshows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-in-depth-guide-to-screen-capturing-in-online-meetings-for-2024/"><u>[Updated] The In-Depth Guide to Screen Capturing in Online Meetings for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-hd-android-videos-ultimate-players-guide/"><u>[Updated] Top 10 HD Android Videos Ultimate Players Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insights-into-instagrams-intermittent-video-flow/"><u>2024 Approved Insights Into Instagram's Intermittent Video Flow</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/7-advanced-mobile-applications-transforming-voice-clarity-for-2024/"><u>7 Advanced Mobile Applications Transforming Voice Clarity for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/behebe-das-falsche-laufwerk-wahrend-des-windows-10-bootvorgangs-erfolgreicher-workaround-mit-5-schritten/"><u>Behebe Das Falsche Laufwerk Während Des Windows 10 Bootvorgangs: Erfolgreicher Workaround Mit 5 Schritten</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-continual-adventures-through-algorithmic-design/"><u>Crafting Continual Adventures Through Algorithmic Design</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/facebook-fam-bites-in-snapchat-spotlight/"><u>Facebook Fam Bites in Snapchat Spotlight</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-immediate-flagging-of-insta-de-following-events/"><u>In 2024, Immediate Flagging of Insta De-Following Events</u></a></li>
+<li><a href="https://games-able.techidaily.com/mid-range-moments-economical-gamer-motherboards/"><u>Mid-Range Moments: Economical Gamer Motherboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-determining-the-supreme-online-gaming-browser/"><u>Opera Vs Edge: Determining the Supreme Online Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-steam-regeneration-techniques/"><u>Simplified Steam Regeneration Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MOZA R5: A $499 Gateway to Simulated Speed and Precision"
-date: 2024-09-12T16:37:58.112Z
-updated: 2024-09-15T16:02:34.781Z
+date: 2024-10-27T00:52:05.098Z
+updated: 2024-10-30T16:35:54.523Z
 tags:
   - games
 categories:
@@ -129,6 +129,13 @@ Yes
 
 ![MOZA R5 without steering wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-without-steering-wheel.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  The R5 Wheel Base is dense and heavy, more than I imagined, further exciting me and solidifying its presence as serious equipment. It has a thick and durable layer of powder-coating, which is a nice touch, preventing scratches and fingerprints. It also has some fins, which I suppose are for heat dissipation.
@@ -149,13 +156,6 @@ Yes
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Jhet Borja / MakeUseOf
 
  Setting up the R5 Bundle was pretty easy; you probably won't even need to look at the instructions since everything just makes sense. The only things that I had to use the tools for were to attach the table clamp to the wheel base, move the brake pedal to the center, and attach the Brake Performance Kit.
@@ -163,6 +163,13 @@ Yes
  I was worried that I’d have a mess of cables to deal with every time I wanted to set it up and take it down, as I am just using my desk to race on. Thankfully, there are only three cables and I was quickly able to think of a system to set it up and stow it away easily after racing, which I’ll get into detail in the desk usage section.
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MOZA Pit House Software
 
@@ -172,20 +179,14 @@ Yes
 
 ![MOZA Pit House basic wheel base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-basic-wheel-base-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![MOZA Pit House pedal curves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-pedal-curves.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Pit House Resetting Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pit-house-resetting-software.jpg)
 
@@ -207,22 +208,36 @@ Close
 
 ![Pedal curve settings bugging out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings-bugging-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Pedal curve settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/pedal-curve-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![MOZA Racing moible app connected hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-moible-app-connected-hardware.jpg)
 
 ![FFB frequency settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/ffb-frequency-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Wheel base settings advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/wheel-base-settings-advanced.jpg)
 
 ![MOZA Racing Mobile App Wheel Base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-racing-mobile-app-wheel-base-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -231,6 +246,13 @@ Close
 ## Desk Usage
 
 ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -253,13 +275,6 @@ Close
  Image Credit: Jhet Borja
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Quick Release System
 
@@ -299,6 +314,13 @@ Close
 
 ![Brake Performance Kit for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/brake-performance-kit-for-sr-p-lite-pedals.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Jhet Borja / MakeUseOf
 
  Firstly, the Brake Performance Kit is a must. Without it, the brake feel is just lacking, and it’s hard to become consistent without some form of resistance. With the brake mod, these are great value pedals and it’ll help you get quite close to your full potential. Heck, even the G29 had a small elastomer in the brake. I do appreciate that you have control over the output curves in the Pit House app though, allowing you to simulate a load cell’s behavior to a certain extent.
@@ -308,13 +330,6 @@ Close
  I’m pretty disappointed about the pedal faces as well, since it makes it hard to heel and toe if you do decide to get the clutch pedal. However, these shouldn’t be a problem for you if you don’t plan to learn heel and toe or just drive GT3 and Formula 1 cars.
 
  On the whole, I’d say they’re good enough if you don’t use heel and toe. For beginner to intermediate-level drivers, these are enjoyable and good enough to make you fast and consistent. I’d suggest adding a little lubrication to the hinges to improve the precision, though.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ES Steering Wheel and Formula Wheel Mod
 
@@ -367,5 +382,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-face-to-face-conferencing-woes-9-fixes-for-clear-video-chats/"><u>2024 Approved Face-to-Face Conferencing Woes? 9 Fixes for Clear Video Chats</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>2024 Approved Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-full-potential-top-9-methods-in-vr-cinematography/"><u>2024 Approved Unlocking the Full Potential Top 9 Methods in VR Cinematography</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/immersive-escapades-in-the-metaquest-3-world/"><u>Immersive Escapades in the MetaQuest 3 World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-insights-makeuseofs-best-of-mwc-2024/"><u>Innovative Insights: MakeUseOf's Best of MWC 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/powered-ideas-envisioning-a-bright-future/"><u>Powered Ideas: Envisioning a Bright Future</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-ai-conversation-chatgpts-enhanced-interaction/"><u>Real-Time AI Conversation: ChatGPT's Enhanced Interaction</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamlessly-vanish-into-the-steam-crowd/"><u>Seamlessly Vanish Into the Steam Crowd</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-stories-browser-world-quests/"><u>Step Into Stories: Browser World Quests</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-complete-voice-memo-primer-tips-and-tricks-for-2024/"><u>The Complete Voice Memo Primer Tips & Tricks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quest-for-unique-indie-titles-a-personal-list/"><u>The Quest for Unique Indie Titles: A Personal List</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g-5g-2023-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G 5G (2023) Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-steams-future-hold-for-ai-gaming/"><u>What Does Steam’s Future Hold for AI Gaming?</u></a></li>
+</ul></div>
 

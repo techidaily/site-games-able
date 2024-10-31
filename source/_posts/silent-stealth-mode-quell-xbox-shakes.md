@@ -1,7 +1,7 @@
 ---
 title: "Silent Stealth Mode: Quell Xbox Shakes"
-date: 2024-09-13T19:29:21.623Z
-updated: 2024-09-21T00:41:45.605Z
+date: 2024-10-25T18:18:01.690Z
+updated: 2024-10-30T23:16:10.672Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable Controller Vibration on Xbox Series X|S
 
  Now you know some of the specifics involved in universally turning off controller vibration on your Xbox, let's take a look at how you actually do so on your own Xbox. To universally disable controller vibration on your Xbox Series X|S, follow these steps:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select**Vibration settings** .
 
@@ -66,13 +80,20 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  So, by customizing your controller settings to your preferences, you can even go on to do the same for your Xbox Series X|S to help guarantee your gaming experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
@@ -82,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
  In short, yes. Enabling controller vibration on your Xbox Wireless Controller for Xbox Series X|S will cause the battery to drain much faster than if you were to disable the feature. The extra power utilized by the vibration motors drains the battery life of your controller much faster than other controller inputs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Why Do Xbox and PlayStation Use Haptic Feedback?
 
@@ -107,5 +121,20 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-navigate-easily-through-youtube-channel-disabling-on-devices/"><u>[New] Navigate Easily Through YouTube Channel Disabling on Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-skype-recording-procedures-streamlined-techniques-for-windows-and-os-x/"><u>[Updated] 2024 Approved Skype Recording Procedures - Streamlined Techniques for Windows & OS X</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-seamlessly-enhancing-content-learn-video-filter-techniques-on-pcmobile/"><u>[Updated] In 2024, Seamlessly Enhancing Content Learn Video Filter Techniques on PC/Mobile</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-transform-your-thought-processes-mematic-app/"><u>2024 Approved Transform Your Thought Processes - Mematic App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/compatibility-guide-playing-ps4-titles-on-your-new-ps5-console/"><u>Compatibility Guide: Playing PS4 Titles on Your New PS5 Console</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craft-your-logo-legacy-affordable-and-flexible-templates-for-customization-for-2024/"><u>Craft Your Logo Legacy Affordable & Flexible Templates for Customization for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-creativity-in-photo-deformation-for-2024/"><u>Crafting Creativity in Photo Deformation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-and-join-youtubes-latest-minigame-testing/"><u>Discover & Join YouTube's Latest Minigame Testing</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-discover-the-future-oled-monitors/"><u>Gamers, Discover the Future - OLED Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-face-off-frenzy-4070-super-titan-x-and-4080-supers/"><u>GPU Face-Off Frenzy: 4070 Super, Titan X, and 4080 Supers</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-ps5-desktop-picture-easily/"><u>Switch PS5 Desktop Picture Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-error-30005-creating-files-in-windows/"><u>Troubleshooting Error 30005 - Creating Files in Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/your-ultimate-guide-to-capturing-underwater-wonders/"><u>Your Ultimate Guide to Capturing Underwater Wonders</u></a></li>
+</ul></div>
 

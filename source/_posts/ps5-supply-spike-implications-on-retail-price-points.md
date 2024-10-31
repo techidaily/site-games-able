@@ -1,7 +1,7 @@
 ---
 title: "PS5 Supply Spike: Implications on Retail Price Points"
-date: 2024-09-12T16:53:37.081Z
-updated: 2024-09-15T17:01:04.742Z
+date: 2024-10-27T04:22:25.091Z
+updated: 2024-10-31T03:12:00.305Z
 tags:
   - games
 categories:
@@ -31,24 +31,31 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 
 So, now that the PS5 shortage is over, could we see prices drop?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## PS5 Consoles Are Now in Plentiful Supply
 
  The news that the PS5 shortage is officially over came from Sony’s president, Jim Ryan, during[a press conference at CES 2023](https://square.sony.com/ces2023/) .
 
  With the PS5 in plentiful supply around the world,[it's finally time to say goodbye to the PS4](https://www.makeuseof.com/is-it-finally-time-to-say-goodbye-to-the-ps4/) and embrace Sony's next-gen console. This means a healthy shelf of PS5 consoles in almost any game store for gamers to take their pick from.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stores May Have to Drop Prices to Be Competitive
 
  With PS5 consoles becoming available in more locations, individual stores will likely drop prices to compete with each other. While the reductions may not be much, stores have a certain amount of wiggle room between cost-price and RRP that they could utilize to offer gamers a small discount without running at a loss.
 
  The issue here, however, is that most of the money in gaming is made from extended warranties and games rather than the consoles themselves, so any savings would be minimal.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## However, the PS5 Slim Could Keep Prices High
 
@@ -57,10 +64,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
@@ -68,10 +75,10 @@ So, now that the PS5 shortage is over, could we see prices drop?
  The[PS5 "Slim" comes with a few major differences](https://www.makeuseof.com/old-ps5-vs-the-new-slimmer-ps5-what-are-the-differences/) , including a slimmer frame, a detachable disc drive, and a heftier price tag. Considering the announcement of a brand-new, more expensive PS5 model, it seems unlikely that gamers can expect prices to come down any time soon.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PS5 Prices Have Actually Risen in Recent Years
@@ -111,5 +118,21 @@ So, now that the PS5 shortage is over, could we see prices drop?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-step-into-photo-magic-innovative-edits-on-snapchat/"><u>[New] 2024 Approved Step Into Photo Magic Innovative Edits on Snapchat</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>[New] In 2024, Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-presentations-with-powerpoints-speech-recognition-tool/"><u>[Updated] In 2024, Enhancing Presentations with PowerPoint's Speech Recognition Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-filmmaking-masterclass-8-steps-to-pro-video-excellence/"><u>2024 Approved IPhone Filmmaking Masterclass 8 Steps to Pro Video Excellence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961160119-access-high-quality-microphone-and-speakers-with-new-microsoft-drivers-on-windows-download-here/"><u>Access High-Quality Microphone and Speakers with New Microsoft Drivers on Windows - Download Here!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-with-manycam-top-ranked-live-webcam-and-recording-software/"><u>Enhance Your Online Presence with ManyCam: Top-Ranked Live Webcam and Recording Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-managing-steam-screens/"><u>Essential Tips for Managing Steam Screens</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-105-classic-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia 105 Classic to Mac? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/launch-your-filmmaking-dreams-xp-edition-preparation-for-2024/"><u>Launch Your Filmmaking Dreams XP Edition Preparation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-apple-arcade-treasure-trove-with-ease/"><u>Navigating the Apple Arcade Treasure Trove with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-with-a-ps5-controlling-ps4/"><u>Playing with a PS5 Controlling PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-playstation-store-listings/"><u>Reviving Your PlayStation Store Listings</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-epic-and-gog-setup-on-steam-deck/"><u>Step-by-Step: Epic & GOG Setup on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ddr5-motherboards-of-2024/"><u>The Best DDR5 Motherboards of 2024</u></a></li>
+</ul></div>
 

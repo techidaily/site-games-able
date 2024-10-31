@@ -1,7 +1,7 @@
 ---
 title: How to Use the TV Calibration Tool on Your Xbox Series X|S
-date: 2024-09-11T16:33:50.252Z
-updated: 2024-09-15T16:43:28.130Z
+date: 2024-10-25T22:28:55.492Z
+updated: 2024-10-30T20:56:19.061Z
 tags:
   - games
 categories:
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![Xbox General TV and Display Options Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/xbox-general-tv-and-display-options-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first screen gives you a general overview of what to expect when using the tool and encourages you to leave your TV on for around five minutes before you begin the process so the display can warm up. Once you’ve waited five minutes and read through the instructions, tap**Next** .
 
 ### Recommended Settings
@@ -53,9 +60,23 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![TV Picture Settings Color Tone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-color-tone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Scroll up or down until you find a setting labeled**Dynamic contrast** ,**black tone** , or**shadow detail** . Turn that off or to 0.
 
 ![TV Picture Settings Shadow Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-picture-settings-shadow-detail.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Continue scrolling until you find any of the below settings and ensure they are all switched off:
 
@@ -66,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  Once you have completed tweaking those settings, press**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Aspect Ratio and Sharpness
 
  You will then move on to tweaking your aspect ratio and image sharpness. The key to this page is to have the**green lines** match up perfectly with the edges of your TV. If they don’t, open your**Picture** settings once again and select**Picture Size Settings** .
 
 ![TV Calibration Aspect Ratio and Sharpness](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-aspect-ratio-and-sharpness.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The setting you will require for most modern TVs is**16:9** . If you’re calibrating on a computer monitor, the settings you need may be different again. If you can’t see the green lines at all, calibrate your monitor using the**blue lines** instead.
 
@@ -97,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![TV Settings HDMI Black Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-settings-hdmi-black-level.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can't see the**closed eye** at all, go back to your TV's**General** settings and select**External Device Manager** . Open the**HDMI Black Level** setting and change it to**Auto** ,**Low** , or**Limited** . Then head back on your Xbox to reach your**General** settings and select**Video fidelity & overscan** .
 
  Change your**Color space** setting to**Standard** and return to the TV Calibration tool to skip to the**Brightness** page. You should be able to see the**closed eye** now. Press**Next** when you’ve reached your perfect brightness setting.
@@ -109,22 +137,15 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  You want to just barely be able to make out both images. Press**Next** when you’re done.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Brightness Again
 
  The following page requires you to check your brightness again. Changing the contrast can affect the brightness setting, so recalibrate it if necessary and proceed to the next page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tweaking Your Advanced Color Settings
@@ -136,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
  Once your TV display is blue, open the**Color** settings on your TV and adjust it so the blue and white columns on the top look the same. Then scroll to**Tint** or**Hue** and adjust it so the pink and cyan columns on the bottom match. Once all the colors are matching, change your**RGB filter** back to normal and press**Done** . Your TV will now be perfectly calibrated to your Xbox Series X|S.
 
  There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of[sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Allow Your Xbox Games to Look as Good as Possible
 
@@ -163,5 +177,17 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ominating-the-index-youtube-seo-tools-that-work-for-2024/"><u>[New] Dominating the Index YouTube SEO Tools That Work for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-cloud-storage-pricing-comparison-and-best-price-recommendations-for-2024/"><u>[Updated] Cloud Storage Pricing Comparison and Best Price Recommendations for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-earnings-update-what-you-need-to-know/"><u>[Updated] YouTube Earnings Update - What You Need to Know</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/awaken-calm-top-copyright-free-legal-music-playlists-for-2024/"><u>Awaken Calm Top Copyright-Free, Legal Music Playlists for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-script-to-screen-chatgpts-influence-on-narrative-art/"><u>From Script to Screen: ChatGPT's Influence on Narrative Art</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-and-beyond-the-significance-for-xbox-live-gold-members/"><u>Game Pass and Beyond: The Significance for Xbox Live Gold Members</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-itel-p55-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Itel P55 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-twitch-bans-block-then-u-block/"><u>Navigating Twitch Bans: Block, Then U-Block?</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-for-pure-pleasure-the-six-best-non-paying-titles/"><u>Play for Pure Pleasure: The Six Best Non-Paying Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-free-gaming-options-without-purchases-required/"><u>Top 6 Free Gaming Options Without Purchases Required</u></a></li>
+</ul></div>
 

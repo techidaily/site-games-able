@@ -1,7 +1,7 @@
 ---
 title: Preventing Online Predators and Ensuring Kids' Privacy on Discord
-date: 2024-09-12T16:59:23.674Z
-updated: 2024-09-15T16:17:32.375Z
+date: 2024-10-26T16:10:36.344Z
+updated: 2024-10-30T23:35:06.271Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
  For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  ConnectSafely and the National Parent Teacher Association (PTA) have both endorsed Discord's Family Center. ConnectSafely CEO Larry Magid said the feature helps parents protect their children, while respecting privacy and not being too invasive. The President of the National PTA Yvonne Johnson echoed these sentiments, saying the Family Center will help create a "healthier digital environment."
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
@@ -56,26 +70,26 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Encourage Critical Thinking
 
@@ -100,5 +114,16 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-all-inclusive-360-panorama-viewer/"><u>[New] 2024 Approved All-Inclusive 360 Panorama Viewer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-get-more-likes-on-your-tiktok-unboxing-video/"><u>[Updated] How to Get More Likes on Your TikTok Unboxing Video?</u></a></li>
+<li><a href="https://games-able.techidaily.com/going-deeper-how-accessory-improves-play/"><u>Going Deeper: How Accessory Improves Play</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-12-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-code-with-ai-assistants-comparing-github-copilot-to-chatgpt-for-developers/"><u>Mastering Code with AI Assistants: Comparing GitHub Copilot to ChatGPT for Developers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-streamlining-steam-services-in-windows-11/"><u>Mastering the Art of Streamlining Steam Services in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/studio-vs-campers-contest-for-2024/"><u>Studio vs Camper’s Contest for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-account-management-challenges-on-nintendo-switch/"><u>Tackling Account Management Challenges on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-significance-and-uses-of-dual-capable-monitors/"><u>The Significance and Uses of Dual-Capable Monitors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Seamless Input Syncing: PC & Steam Deck Through The Use of Barriers"
-date: 2024-09-11T16:53:48.092Z
-updated: 2024-09-15T16:52:03.942Z
+date: 2024-10-27T21:14:20.077Z
+updated: 2024-10-30T20:48:25.459Z
 tags:
   - games
 categories:
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![Barrier Configure Server Interactively](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-configure-server-interactively.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll see a thumbnail representing your main PC's screen in the middle of a grid. You can**double-click** on any square in the grid to place your Steam Deck on that spot. The lines of the grid represent the "barriers" between monitors. When your mouse exits one of those barriers on one of the monitors, it will be "teleported" to the other device's monitor on the other side of the Barrier.
 
 ![Barrier Adding Steam Deck Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-adding-steam-deck-screen.jpg)
@@ -43,7 +56,21 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![Barrier Steam Deck Screen Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-steam-deck-screen-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you double-click on a spot on the grid, you'll have to enter a name for your Steam Deck in the field next to**Screen name** .You can leave the rest of the options as they are. When returning to Barrier's initial window, note the first of the**IP addresses** , for you'll have to input it on your Steam Deck in the next section.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Barrier on Steam Deck
 
@@ -55,9 +82,23 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![Steam Deck Menu Running Barrier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-menu-running-barrier.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Set this instance of Barrier to**Client** , and enter your host PC's IP address in the field next to**Server IP** .
 
 ![Steam Deck Barrier Client Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-barrier-client-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on the**Start** button on the bottom right of the Barrier client on your Steam Deck, and do the same for the Barrier server on your host PC.
 
@@ -67,29 +108,22 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
 ![Barrier Controlling Steam Deck Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-controlling-steam-deck-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can return to your PC's desktop the same way by "jumping over" the same barrier between the two device's screens.
 
 ## How to Help Your Steam Deck and PC Connect With Each Other
 
  If Barrier on one of your devices can't see the other, don't fret: the following are the usual causes for such issues, and they're easy to solve.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check Your App Settings
 
  Activate Barrier's window on your host PC, and select**Barrier > Change Settings** or press**F4** on your keyboard. Make sure both**Enable SSL** and**Require client certificate** are disabled (no checkmark).Also, note the**Port** used, and ensure it's the same on the client (on the Steam Deck).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable Any Firewalls
 
@@ -116,5 +150,20 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-obs-dominion-vs-streamlabs-kingdom/"><u>[New] OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-decreasing-bitrate-in-high-quality-obs/"><u>[Updated] 2024 Approved Decreasing Bitrate in High-Quality OBS</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-audio-journey-with-upgraded-nvidia-drivers-for-win7/"><u>Elevate Your Audio Journey with Upgraded Nvidia Drivers for Win7</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/experts-guide-to-rapid-time-lapsing/"><u>Expert's Guide to Rapid Time-Lapsing</u></a></li>
+<li><a href="https://games-able.techidaily.com/founder-vs-aib-selecting-the-ideal-gpu-for-your-pc/"><u>Founder Vs. AIB: Selecting the Ideal GPU for Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-sign-up-to-subscription-optimizing-every-gaming-moment-in-ea-play-ps5/"><u>From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-pass-and-beyond-the-significance-for-xbox-live-gold-members/"><u>Game Pass and Beyond: The Significance for Xbox Live Gold Members</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-x7bmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor X7bMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-tricks-no-controllers-full-gameplay/"><u>Innovative Tricks: No Controllers, Full Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-collision-solved-resolving-dual-accident-issues/"><u>PC Collision Solved: Resolving Dual Accident Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-redefines-mechanics-with-their-blackwidow-v4-launch/"><u>Razer Redefines Mechanics with Their BlackWidow V4 Launch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-checklist-for-top-tier-instagram-reels/"><u>The Ultimate Checklist for Top-Tier Instagram Reels</u></a></li>
+</ul></div>
 

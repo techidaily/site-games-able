@@ -1,7 +1,7 @@
 ---
 title: Keep Youngsters Safe From Cyber Threats on Discord
-date: 2024-09-12T17:01:09.874Z
-updated: 2024-09-15T17:03:57.034Z
+date: 2024-10-23T20:47:22.573Z
+updated: 2024-10-31T03:42:54.235Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
  For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
@@ -43,15 +50,28 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
@@ -59,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
@@ -100,5 +120,19 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-tailoring-hashtags-for-impactful-fb-brand-presence/"><u>[New] In 2024, Tailoring Hashtags for Impactful FB Brand Presence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-muting-unwanted-noise-obs-audio-solution/"><u>[Updated] In 2024, Muting Unwanted Noise OBS Audio Solution</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-immersive-experience-with-high-end-iems/"><u>Game Immersive Experience with High-End IEMs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-macpc-screenshot-toolkit-for-desktops/"><u>In 2024, Best MacPC Screenshot Toolkit for Desktops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-obtaining-high-quality-photos-without-restrictions/"><u>In 2024, Obtaining High-Quality Photos Without Restrictions</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-airflow-for-enhanced-gpu-performance-and-thermal-control/"><u>Optimized Airflow for Enhanced GPU Performance & Thermal Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-meets-joy-con-a-new-gaming-hybrid-experience/"><u>PlayStation Meets Joy-Con: A New Gaming Hybrid Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-when-adjusting-screen-brightness-in-windows-10-systems/"><u>Resolving Issues When Adjusting Screen Brightness in Windows 10 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/retrieving-control-over-a-frozen-or-suspended-facebook-profile/"><u>Retrieving Control Over a Frozen or Suspended Facebook Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-solutions-for-launch-failure-of-display-drivers-in-windows-11-pcs/"><u>Swift Solutions for Launch Failure of Display Drivers in Windows 11 PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/swiftly-secure-your-favorite-podcast-episodes-on-iphone/"><u>Swiftly Secure Your Favorite Podcast Episodes on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-different-game-worlds-connect-bedrock-with-java-on-geysermc-server/"><u>Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server</u></a></li>
+</ul></div>
 

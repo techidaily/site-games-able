@@ -1,7 +1,7 @@
 ---
 title: "Joining Forces: Linking Your Xbox One Controller"
-date: 2024-09-10T17:03:16.102Z
-updated: 2024-09-15T17:00:15.628Z
+date: 2024-10-24T18:55:28.487Z
+updated: 2024-10-30T16:28:48.658Z
 tags:
   - games
 categories:
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  We've written a full guide explaining[how to connect your Xbox controller to a Windows PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) . Follow those steps to use your existing Xbox One or Xbox Series X|S controller with your favorite PC games.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I Use Xbox Series X|S Controllers on Xbox One?
 
  You might have noticed that the controller for the Xbox Series X|S is near-identical to the Xbox One controller. As it turns out, Microsoft has baked forward and backward compatibility into both controller generations.
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
  See our[guide to using Xbox One controllers on the Xbox Series X|S](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) for more info.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can't Connect Your Xbox One Controller?
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 ![White Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/white-xbox-controller.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Remember that you can only have eight controllers connected to the system at once. If you somehow have this many connected, disconnect a few before connecting another. You can turn off a controller by holding the Xbox button for several seconds until the light on this button goes out.
@@ -96,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
  Try fully shutting down and unplugging any other Xbox One or Xbox Series X|S systems in your vicinity to avoid this overlap. This also applies if you're trying to connect an Xbox One controller to a PC when the controller is already paired with your nearby console, or vice-versa.
 
  If you continue to have problems, take a look at[troubleshooting help for your Xbox One controller](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) to resolve the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Still Having Trouble? Try Fixing Your Xbox Controller
 
@@ -116,5 +130,20 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub-for-2024/"><u>[New] From Play to Pro Setting up a PS4 Game Broadcast Hub for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay!</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-fun-galaxies-best-offline-mobile-game-collection/"><u>Explore Fun Galaxies - Best Offline Mobile Game Collection</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-print-driver-host-failures-for-legacy-32-bit-operating-systems/"><u>Fixing Print Driver Host Failures for Legacy 32-Bit Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-giant-seals-off-abuse-prone-reimbursement-loop/"><u>Gaming Giant Seals Off Abuse-Prone Reimbursement Loop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-do-we-experience-realities-in-a-virtual-sense/"><u>How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ipad-versus-amazon-fire-tablet-which-one-fits-your-needs-better/"><u>IPad Versus Amazon Fire Tablet - Which One Fits Your Needs Better?</u></a></li>
+<li><a href="https://games-able.techidaily.com/merging-mobile-tech-with-ps5-gaming-accessories/"><u>Merging Mobile Tech with PS5 Gaming Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-8-light-simulators-home-to-android-games/"><u>Premier 8 Light Simulators: Home to Android Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/smartphone-vs-tablet-gaming-which-is-for-you/"><u>Smartphone Vs. Tablet Gaming: Which Is for You?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Huawei Nova Y91 FRP</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essential-guide-to-signing-up-for-twitter/"><u>The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmasking-online-presence-losses-in-xbox-sx/"><u>Unmasking Online Presence Losses in Xbox S/X</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Computex 2024: The Dawn of Advanced AI Tech"
-date: 2024-10-23T22:32:59.324Z
-updated: 2024-10-25T05:59:57.606Z
+date: 2024-10-24T04:55:37.399Z
+updated: 2024-10-31T04:01:58.623Z
 tags:
   - games
 categories:
@@ -26,10 +26,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -49,10 +49,10 @@ So, these are the best bits of AI hardware launched at Computex 2024.
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Intel
@@ -67,6 +67,13 @@ Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -78,10 +85,10 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -89,13 +96,6 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 AMD
 
@@ -118,20 +118,18 @@ AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-from-novice-to-pro-paving-the-way-in-graphics-careers/"><u>[New] From Novice to Pro Paving the Way in Graphics Careers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-harmonize-your-online-identity-iphoneandroid-music-integration-for-2024/"><u>[New] Harmonize Your Online Identity IPhone/Android Music Integration for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bing-ai-chat-and-android-enhancing-text-input-experience/"><u>Bing AI Chat and Android: Enhancing Text Input Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-controls-for-nintendo-switch-the-elite-list/"><u>Cutting-Edge Controls for Nintendo Switch – The Elite List</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-box-it-up-the-top-10-online-houses-for-customized-gift-boxes/"><u>In 2024, Box It Up! The Top 10 Online Houses for Customized Gift Boxes</u></a></li>
-<li><a href="https://games-able.techidaily.com/old-school-pokemon-android-edition/"><u>Old School Pokémon: Android Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-screen-distortion-in-pcs-gpu-fixes/"><u>Overcoming Screen Distortion in PCs - GPU Fixes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/save-call-transcript-review/"><u>Save Call Transcript Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-hd-quality-with-top-gamer-panels-240hz/"><u>Superior HD Quality with Top Gamer Panels (240Hz)</u></a></li>
-<li><a href="https://games-able.techidaily.com/taking-virtual-reality-to-new-heights-explore-and-play-games-with-steam-and-meta-quest/"><u>Taking Virtual Reality to New Heights - Explore & Play Games with Steam and Meta Quest</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-significance-of-speedy-resume-in-the-new-xbox-sx-era/"><u>The Significance of Speedy Resume in the New Xbox S/X Era</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-resolving-launcher-error-0x803f8001/"><u>Understanding and Resolving Launcher Error 0X803F8001</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-slicephoto-inspection/"><u>[New] 2024 Approved SlicePhoto Inspection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-leading-the-way-in-personal-trail-tracking-drone-innovation-for-2024/"><u>[New] Leading the Way in Personal Trail-Tracking Drone Innovation for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>2024 Approved Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-future-post-flash-gaming-techniques-unveiled/"><u>Embrace the Future: Post-Flash Gaming Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-nintendo-switch-profile-handling/"><u>Essential Tips for Nintendo Switch Profile Handling</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-the-link-methods-for-windows-mc-lan-restoration/"><u>Finding the Link: Methods for Windows MC LAN Restoration</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100a-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100A</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-poco-m6-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Poco M6 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-intelligent-viewing-syncing-youtube-with-televisions/"><u>In 2024, Intelligent Viewing Syncing YouTube with Televisions</u></a></li>
+<li><a href="https://games-able.techidaily.com/refinement-of-xbox-series-consoles-vrr-settings-made-simple/"><u>Refinement of Xbox Series Console's VRR Settings Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-five-fiercest-frustration-factories-of-video-gaming/"><u>The Five Fiercest Frustration Factories of Video Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-hrtf-how-does-it-impact-valorant/"><u>Understanding HRTF: How Does It Impact Valorant?</u></a></li>
 </ul></div>
 

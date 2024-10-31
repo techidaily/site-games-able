@@ -1,7 +1,7 @@
 ---
 title: How to Counterfeit a Fortnite Transaction for a Rebate
-date: 2024-09-10T16:44:27.115Z
-updated: 2024-09-15T16:31:57.555Z
+date: 2024-10-26T22:30:43.757Z
+updated: 2024-10-31T00:16:58.625Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
 
  The FTC started sending emails to Fortnite gamers on September 19, 2023, and will continue to do so through October. Before you apply, ensure you have your claim number or Epic Account ID on hand (this[Epic Games webpage](https://www.epicgames.com/help/en-US/epic-accounts-c5719348850459/general-support-c5719341353627/what-is-an-epic-account-id-and-where-can-i-find-it-a5720265298075) can help). Start by finding your Epic Account ID if you haven't received an email with a claim number from the FTC.
@@ -47,11 +54,25 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The deadline for applications is January 17, 2024.
 
  Please note that submitting an application doesn't guarantee that you'll be refunded. There's also no way of knowing how much you'll be refunded or when you'll receive your refund if your application is approved. The FTC will provide updates about mailing dates in the future.
 
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## An Epic Win for Fortnite Gamers
 
@@ -70,12 +91,16 @@ The deadline for applications is January 17, 2024.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagrams-latest-filters-a-year-round-guide/"><u>[New] 2024 Approved Navigating Instagram's Latest Filters A Year-Round Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-diy-approach-downloading-and-personalizing-your-whatsapp-ringtone/"><u>2024 Approved A DIY Approach Downloading & Personalizing Your WhatsApp Ringtone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-itel-a60-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Itel A60</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-13-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 13 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-skyrocket-your-skill-set-in-windows-photoshop/"><u>In 2024, Skyrocket Your Skill Set in Windows Photoshop</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-4-typical-gpu-woes-solutions-explored/"><u>Navigating 4 Typical GPU Woes: Solutions Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/patience-pays-off-in-video-games/"><u>Patience Pays Off in Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-a-new-era-of-online-gaming-for-desktop-users/"><u>Unveiling a New Era of Online Gaming for Desktop Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-of-amds-fsr-3-amidst-the-battle-with-dlss-35/"><u>Unveiling of AMD’s FSR 3 Amidst the Battle with DLSS 3.5?</u></a></li>
+</ul></div>
 
