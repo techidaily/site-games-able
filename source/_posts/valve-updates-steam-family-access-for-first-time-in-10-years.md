@@ -1,7 +1,7 @@
 ---
 title: Valve Updates Steam Family Access for First Time in 10 Years
-date: 2024-09-10T16:43:13.789Z
-updated: 2024-09-15T17:00:18.260Z
+date: 2024-11-03T17:27:12.116Z
+updated: 2024-11-05T21:01:07.202Z
 tags:
   - games
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
 
  One of the biggest changes is a new quality-of-life feature. Now you can play games from other family members' libraries, even if the owner is online playing another game—solving a nuisance that many gamers sharing their libraries experienced. And if someone owns multiple copies of a game, multiple people can play the same title at the same time.
@@ -53,25 +60,32 @@ thumbnail: https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
@@ -109,5 +123,22 @@ Some of the drawbacks of the feature include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-achieving-a-natural-sound-curve-dimming-audio-smoothly-for-2024/"><u>[Updated] Achieving a Natural Sound Curve Dimming Audio Smoothly for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping-for-2024/"><u>[Updated] Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-accelerating-operations-discover-the-leading-scheduling-tools/"><u>2024 Approved Accelerating Operations Discover the Leading Scheduling Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-art-of-audience-engagement-emulate-your-idols-online/"><u>2024 Approved The Art of Audience Engagement Emulate Your Idols Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-the-nintendo-switch-and-nintendo-switch-oled-a-comprehensive-guide-zdnet/"><u>Choosing Between the Nintendo Switch and Nintendo Switch OLED: A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-ps4-gamepad-to-phone-with-ease-comprehensive-instructions-for-gamers/"><u>Connect PS4 Gamepad to Phone with Ease – Comprehensive Instructions for Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-galaxy-a05s-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung Galaxy A05s</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-of-the-shure-mv7-microphone-the-ultimate-choice-for-podcasters-and-streamers-revealed-by-zdnet/"><u>In-Depth Analysis of the Shure MV7 Microphone: The Ultimate Choice for Podcasters and Streamers Revealed by ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-verified-journey-on-social-media-accelerate-followers-with-these-six-tips-for-2024/"><u>The Verified Journey on Social Media Accelerate Followers with These Six Tips for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-download-sites-showcasing-exquisite-text-effects-for-2024/"><u>Top Download Sites Showcasing Exquisite Text Effects for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-premier-xbox-earphones-of-2e-expert-opinions-and-ratings-zdnet/"><u>Ultimate Guide to the Premier Xbox Earphones of 2E: Expert Opinions & Ratings | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-linux-gaming-easy-steam-installation-tutorial-for-endless-entertainment/"><u>Unlock a World of Linux Gaming: Easy Steam Installation Tutorial for Endless Entertainment!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-elite-comprehensive-review-of-the-top-tier-gmmk-pro-mechanical-keyboard-kit-zdnet-insights/"><u>Unveiling the Elite: Comprehensive Review of the Top-Tier GMMK Pro Mechanical Keyboard Kit | ZDNET Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gaming-console-within-this-affordable-samsung-projector-now-with-an-extra-200-savings/"><u>Unveiling the Hidden Gaming Console Within This Affordable Samsung Projector - Now with an Extra $200 Savings!</u></a></li>
+</ul></div>
 

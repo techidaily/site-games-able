@@ -1,7 +1,7 @@
 ---
 title: Forge New Friendships with Dual PLAY Minecraft on Switch
-date: 2024-09-10T16:10:01.265Z
-updated: 2024-09-15T16:44:12.061Z
+date: 2024-10-29T16:27:47.821Z
+updated: 2024-11-05T17:12:37.769Z
 tags:
   - games
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
  Split-screen multiplayer is only available on the console version of Minecraft. That means the PlayStation, Nintendo Switch, or Xbox versions only. But just because you only have Minecraft on your PC or mobile, doesn't mean you still can't get all your friends involved in creating the ultimate Minecraft world. There are many more[ways to play Minecraft with your friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) than just this way.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Play Two-Player Minecraft Online on My Nintendo Switch?
 
  Now that you have that sorted out, log into your Minecraft world with two controllers at the ready. Once you are all loaded in and ready to go, press the**+** button on player two’s controller.
@@ -36,13 +43,40 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 
 ![Multiplayer Minecraft Switch Process Select User](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3175.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're already logged into your friend's Switch, select your**user** . If not, scroll to the right and press**+** to create a new user and log in with your Nintendo Switch Online account. Once you're logged in, the screen will automatically split into two, and you will both be free to craft to your heart's content on the same Nintendo Switch screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do I Play Two-Player Minecraft Offline on My Nintendo Switch?
 
  If one or both of your doesn't have a Nintendo Switch Online account, you will have to play multiplayer Minecraft offline. To do this, you have to make sure that**Multiplayer** has been toggled off in the settings.
 
 ![Multiplayer Offline Switch Instruction Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/img_3177.jpeg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Press**+** and scroll down to**Settings** . Select**Multiplayer** , toggle the**Multiplayer Game** setting off, and then go back to your world. Press**+** on player two’s controller, press**+** again to confirm, and enjoy Minecraft in two-player split-screen.
 
@@ -51,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
  Building an absolutely epic Minecraft city with your friends on split-screen multiplayer could easily take upwards of one hundred hours or more in some cases. The last thing you want is to accidentally delete that Minecraft world and erase all the hard work that went into creating it.
 
  Backing up anything of importance is always a great idea, so why not add your Minecraft server to that list?[Backing up and restoring deleted Minecraft worlds](https://www.makeuseof.com/minecraft-world-how-to-restore/) can be done on many different devices, but it's much easier to back your world up in the first place than struggle to restore it later. Always make sure you make a copy of your world regularly to prevent any tragic mishaps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Minecraft Is More Fun With a Friend
 
@@ -76,5 +103,18 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-t2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo T2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206971633-effortless-ways-to-prevent-your-pc-from-snoozing-unexpectedly/"><u>Effortless Ways to Prevent Your PC From Snoozing Unexpectedly</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-adventure-5-intriguing-tales-online/"><u>Embrace Adventure: 5 Intriguing Tales Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-maximum-playtime-with-efficient-power-usage-on-xbox/"><u>Ensuring Maximum Playtime with Efficient Power Usage on Xbox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-1er-free-video-services-as-alternatives-to-netflix/"><u>Explore These 1Er Free Video Services As Alternatives to Netflix</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-ensure-your-place-with-spiderman-2-edition/"><u>How to Ensure Your Place with SPIDERMAN 2 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/illuminating-windows-multi-monitor-setup-selecting-the-best-control-tools/"><u>Illuminating Windows Multi-Monitor Setup: Selecting the Best Control Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/offline-galore-top-15-games-to-play-without-internet-iphones-ipads/"><u>Offline Galore: Top 15 Games to Play Without Internet (iPhones, iPads)</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-overcoming-the-livekernelevent-117-error-on-windows/"><u>Quick Fixes for Overcoming the 'LiveKernelEvent 117' Error on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-video-games-with-efficient-streaming-technology/"><u>Revolutionizing Video Games with Efficient Streaming Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/toms-tech-review-in-depth-insights-on-hardware/"><u>Tom's Tech Review - In-Depth Insights on Hardware</u></a></li>
+</ul></div>
 

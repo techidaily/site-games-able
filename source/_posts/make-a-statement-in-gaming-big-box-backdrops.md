@@ -1,7 +1,7 @@
 ---
 title: "Make a Statement in Gaming: Big Box Backdrops"
-date: 2024-09-11T16:30:57.532Z
-updated: 2024-09-15T16:38:06.296Z
+date: 2024-11-04T18:40:50.862Z
+updated: 2024-11-05T17:32:59.817Z
 tags:
   - games
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  Leveraging the power of Big Box via EmuMovies automatically finds all of the metadata for each game automatically, allows you to essentially set it and forget it! But you’ll need to be a premium member of both, then link your EmuMovies account to LaunchBox.
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
@@ -56,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
@@ -93,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
  First, be sure that the device powering your arcade cabinet automatically logs into your account. For example, there are a few[ways to automatically sign into your account in Windows 10](https://www.makeuseof.com/automatically-sign-user-in-windows-10/) . Whatever operating system you are using, be sure it automatically logs in every time the device starts.
 
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Big Box Takes the Headache Out of Arcade Frontends
 
@@ -111,5 +125,26 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-is-an-m1-enabled-laptop-a-worthwhile-investment-for-editors/"><u>[New] 2024 Approved Is an M1-Enabled Laptop a Worthwhile Investment for Editors?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>[New] 2024 Approved The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-high-performance-7-cameras-for-cutting-edge-vlogging-tech/"><u>[New] In 2024, High-Performance 7 Cameras For Cutting-Edge Vlogging Tech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-flixfusion-the-ultimate-gaming-channel-mix/"><u>[Updated] FlixFusion The Ultimate Gaming Channel Mix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-projects-with-voice-over-integration/"><u>[Updated] Streamlining Your Projects with Voice Over Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/200-budget-friendly-gaming-sound-card-delivers-top-notch-audio-quality-zdnet-review/"><u>$200 Budget-Friendly Gaming Sound Card Delivers Top-Notch Audio Quality - ZDNet Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-the-ultimate-online-gaming-partners-our-picks-for-top-9-isps-as-reviewed-by-zdnet/"><u>Find the Ultimate Online Gaming Partners: Our Picks for Top 9 ISPs, as Reviewed by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-the-ultimate-tv-bargains-for-labor-day-2024-a-curated-list-of-exceptional-deals-and-promotions-zdnet/"><u>Find the Ultimate TV Bargains for Labor Day 2024: A Curated List of Exceptional Deals and Promotions (ZDNET)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-when-valve-anti-cheat-fails-to-authenticate-game-play-session/"><u>Fixes for When Valve Anti-Cheat Fails to Authenticate Game Play Session</u></a></li>
+<li><a href="https://win-dash.techidaily.com/obtain-your-logitech-driving-force-pro-racing-wheel-game-drivers-for-windows-7-8-and-10/"><u>Obtain Your Logitech Driving Force Pro Racing Wheel Game Drivers for Windows 7, 8 & 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-common-zoom-camera-errors-with-easy-troubleshooting-steps/"><u>Resolving Common Zoom Camera Errors with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-huge-savings-get-your-ps5-spider-man-2-combo-deal-for-only-493-during-amazons-epic-spring-event-insights-from-zdnet/"><u>Score Huge Savings: Get Your PS5 Spider-Man 2 Combo Deal for Only $493 During Amazon's Epic Spring Event - Insights From ZDNET</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/selecting-a-tablet-pc-the-crucial-role-of-processor-power/"><u>Selecting a Tablet PC: The Crucial Role of Processor Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-setting-up-steam-on-a-linux-system-for-access-to-over-20000-gaming-titles/"><u>Step-by-Step Guide: Setting Up Steam on a Linux System for Access to Over 20,000 Gaming Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-choice-for-gaming-on-linux-why-regatta-os-24-reigns-supreme-in-distribution-rankings/"><u>Top Choice for Gaming on Linux: Why Regatta OS 24 Reigns Supreme in Distribution Rankings</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gaming-chair-reviews-insider-picks-from-zdnet/"><u>Top-Ranked Gaming Chair Reviews : Insider Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-gaming-headsets-comprehensive-testing-results-by-tech-experts-zdnet/"><u>Top-Ranked Gaming Headsets : Comprehensive Testing Results by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-note-12-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi Note 12 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-top-rated-nintendo-switch-add-ons-choices-for-all-gamers/"><u>Ultimate Guide to Top-Rated Nintendo Switch Add-Ons : Choices for All Gamers!</u></a></li>
+</ul></div>
 

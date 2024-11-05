@@ -1,7 +1,7 @@
 ---
 title: Silent Victory in Controlling Your PS5 Without a Microphone
-date: 2024-10-29T03:41:29.931Z
-updated: 2024-10-30T18:42:18.886Z
+date: 2024-10-31T19:14:26.459Z
+updated: 2024-11-05T17:57:41.992Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Automatically Mute Your PS5's Microphone
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -66,19 +66,19 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
@@ -102,17 +102,24 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-vanguard-visual-transformers-lenscrafters-art/"><u>[New] 2024 Approved Vanguard Visual Transformers LensCrafters' Art</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-insider-guide-to-making-and-perfecting-haul-vlogs/"><u>[New] The Insider Guide to Making and Perfecting Haul Vlogs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-how-to-fade-in-and-fade-out-video-clips/"><u>[Updated] How to Fade-In and Fade-Out Video Clips</u></a></li>
-<li><a href="https://games-able.techidaily.com/customize-in-game-overlay-display-on-discord/"><u>Customize In-Game Overlay Display on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-hrtf-for-competitive-edge-in-valorant/"><u>Decoding HRTF for Competitive Edge in Valorant</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-skills-a-comprehensive-guide-to-designer-advancement/"><u>Elevating Skills A Comprehensive Guide to Designer Advancement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-screencapture-pro-latest-2023-edition-review/"><u>In 2024, ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-hot-40-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Hot 40 Location | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/learn-to-appeal-digital-game-console-purchases/"><u>Learn to Appeal Digital Game Console Purchases</u></a></li>
-<li><a href="https://discover-best.techidaily.com/navigating-solo-adventures-capturing-moments-and-sorting-cards-by-date-using-abbyy-tools-expert-tips-from-our-blog/"><u>Navigating Solo Adventures: Capturing Moments and Sorting Cards by Date Using ABBYY Tools | Expert Tips From Our Blog</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/rhythm-roundup-hot-music-for-todays-top-youtube-short-videos-for-2024/"><u>Rhythm Roundup Hot Music for Today’s Top YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-potential-install-windows-and-steamos-seamlessly/"><u>Unlocking Potential: Install Windows & SteamOS Seamlessly</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-a-journey-to-viral-tiktok-filmora-edition-of-reaction-mastery-for-2024/"><u>[New] A Journey to Viral TikTok Filmora Edition of Reaction Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback-for-2024/"><u>[New] Average Earnings Per View What's the Income for YouTubers per Ad Playback for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-disabling-automated-podcast-suggestions-for-privacy-for-2024/"><u>[New] Disabling Automated Podcast Suggestions for Privacy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-download-and-install-your-ultimate-guide-to-using-obs-on-a-macpc/"><u>[New] Download & Install Your Ultimate Guide to Using OBS on a MacPC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhancing-clicks-youtube-thumbnail-sizes-explored/"><u>2024 Approved Enhancing Clicks YouTube Thumbnail Sizes Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-secure-gameplay-steps-for-setting-up-ps5-passcodes/"><u>Creating Secure Gameplay: Steps for Setting up PS5 Passcodes</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-best-mouse-sensitivity-for-competitive-fps-games/"><u>Discovering the Best Mouse Sensitivity for Competitive FPS Games</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a54-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A54 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-nintendo-switch-online-add-on-value/"><u>Exploring Nintendo Switch Online Add-On Value</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-mechanical-magic-of-razers-blackwidow-v4/"><u>Exploring the Mechanical Magic of Razer's BlackWidow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-guilds-vs-game-journeys-why-ownership-matters/"><u>Gaming Guilds Vs. Game Journeys: Why Ownership Matters</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hytes-nexus-link-the-ultimate-aio-cooler-for-pc-builders-seeking-a-bigger-display-and-magnetic-snap-together-parts/"><u>Hyte's Nexus Link: The Ultimate AIO Cooler for PC Builders Seeking a Bigger Display and Magnetic Snap-Together Parts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mitigating-missing-needs-notification-issue/"><u>Mitigating Missing Needs Notification Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/screen-spectrum-your-gateway-to-gameplay/"><u>Screen Spectrum Your Gateway to Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-selection-of-144hz-monitors-for-pcs/"><u>The Essential Selection of 144Hz Monitors for PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-choice-to-play-now-or-not/"><u>The Gamers' Choice: To Play Now or Not</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-inexpensive-virtual-reality/"><u>The Ultimate List of Inexpensive Virtual Reality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upload-and-convert-your-tiff-files-to-bmp-gratis-expert-online-tools-by-movavi/"><u>Upload & Convert Your TIFF Files to BMP Gratis - Expert Online Tools by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-5-fixes-rectifying-secure-key-mismatch-errors/"><u>Win11's 5 Fixes: Rectifying Secure Key Mismatch Errors</u></a></li>
 </ul></div>
 

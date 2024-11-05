@@ -1,7 +1,7 @@
 ---
 title: How to Quell the Game Bar on Windows 10/11 PCs
-date: 2024-10-28T18:47:44.744Z
-updated: 2024-10-31T01:26:40.845Z
+date: 2024-11-01T21:32:25.115Z
+updated: 2024-11-05T21:38:21.941Z
 tags:
   - games
 categories:
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
@@ -55,28 +55,28 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
@@ -100,16 +100,19 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-ios-ps2-games-emulators/"><u>[New] Essential iOS PS2 Games Emulators</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[New] In 2024, Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-total-mastery-of-powerdirector-with-our-review-and-guide/"><u>[New] Total Mastery of PowerDirector with Our Review & Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-for-enhancing-images-on-snapchat-for-2024/"><u>[Updated] Essential Tips for Enhancing Images on Snapchat for 2024</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boost-your-sites-performance-advanced-insights-from-the-latest-cookiebot-solutions/"><u>Boost Your Site's Performance: Advanced Insights From the Latest Cookiebot Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/envisioning-a-better-future-the-quartet-of-upgrades-for-xbox-points/"><u>Envisioning a Better Future: The Quartet of Upgrades for Xbox Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-ensure-complete-game-showcases-on-egs-digital-store/"><u>How to Ensure Complete Game Showcases on EG’s Digital Store</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mac-kompatible-dvd-extractor-hd-konversion-auf-ios-und-ipados/"><u>Mac Kompatible DVD Extractor - HD Konversion Auf iOS Und iPadOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/silence-unwanted-noise-guide-to-fixing-controller-and-headsets/"><u>Silence Unwanted Noise: Guide to Fixing Controller & Headsets</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-11-budget-friendly-words-games-android-and-ios-compatible/"><u>Top 11 Budget-Friendly Words Games: Android & iOS Compatible</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-exactly-constitutes-a-dual-display-in-gaming-technology/"><u>What Exactly Constitutes a ‘Dual’ Display in Gaming Technology?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-free-and-open-source-video-capturing-tools/"><u>[New] Free & Open Source Video Capturing Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enhancing-webcam-gaming-experience-and-quality/"><u>[Updated] Enhancing WebCam Gaming Experience & Quality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>[Updated] Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-compreeved-guide-to-saving-and-storing-reels/"><u>2024 Approved The Compreeved Guide to Saving and Storing Reels</u></a></li>
+<li><a href="https://games-able.techidaily.com/converting-ps4-to-work-with-windowsmacos-seamlessly/"><u>Converting PS4 to Work with Windows/macOS Seamlessly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064661-9781071546352-curar-el-dolor-emocional-y-fisico-con-el-poder-de-la-meditacion/"><u>Curar el Dolor Emocional y Físico con el Poder de la Meditación | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-maestro-leveraging-chatgpt-for-immersive-rpgs/"><u>From Novice to Maestro: Leveraging ChatGPT for Immersive RPGs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-reorganize-your-android-apps-a-comprehensive-tutorial-using-organizing-tools/"><u>How to Reorganize Your Android Apps: A Comprehensive Tutorial Using Organizing Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-s24plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy S24+ Face Lock?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-steams-digital-marketplace/"><u>Navigating Through Steam's Digital Marketplace</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-11-proplus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme 11 Pro+ Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-full-screen-advantage-unveiled/"><u>Steam's Full-Screen Advantage Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-series-xands-full-potential-screen-tuning-guide/"><u>Unlock Your Series X&S Full Potential: Screen Tuning Guide</u></a></li>
 </ul></div>
 

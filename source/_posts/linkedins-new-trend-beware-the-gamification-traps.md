@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn's New Trend: Beware the Gamification Traps"
-date: 2024-10-25T22:39:45.235Z
-updated: 2024-10-30T19:09:46.623Z
+date: 2024-11-01T17:06:47.556Z
+updated: 2024-11-05T18:18:33.526Z
 tags:
   - games
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Crossclimb
@@ -69,13 +62,20 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Possessed LinkedIn to Add Games?
@@ -84,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
 
@@ -116,21 +116,16 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elevate-engagement-mastering-online-presentations-via-zoom-and-youtube/"><u>[New] 2024 Approved Elevate Engagement Mastering Online Presentations via Zoom and YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-explosive-growth-video-expectations-sky-high-views-for-2024/"><u>[New] Explosive Growth Video Expectations Sky-High Views for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screen-sync-free-cross-platform-high-quality-recording-tools/"><u>[New] Screen Sync Free Cross-Platform, High-Quality Recording Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] 2024 Approved Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-hp-laserjet-pro-m452nd-support-download-drivers-and-installation-instructions/"><u>Complete HP Laserjet Pro M452nd Support - Download Drivers & Installation Instructions</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-steps-to-restart-steam-application/"><u>Easy Steps to Restart Steam Application</u></a></li>
-<li><a href="https://games-able.techidaily.com/exciting-10-gaming-experiences-to-sharpen-design-aptitude/"><u>Exciting 10 Gaming Experiences to Sharpen Design Aptitude</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-storytelling-enhanced-by-ai-technology/"><u>Game Storytelling Enhanced by AI Technology</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-sending-your-iphone-for-apples-professional-hardware-diagnostics/"><u>Guide: Sending Your iPhone for Apple's Professional Hardware Diagnostics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-bypassing-barriers-privately-share-youtube-video-via-google/"><u>In 2024, Bypassing Barriers Privately Share YouTube Video via Google</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-elite-list-top-10-zero-dollar-videochats-with-desktops/"><u>In 2024, Elite List Top 10 Zero-Dollar Videochats with Desktops</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 13 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/personalized-sound-settings-series-xs-edition/"><u>Personalized Sound Settings: Series X/S Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-hidden-costs-why-delay-ps5-purchase/"><u>The Hidden Costs: Why Delay PS5 Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-inconveniences-in-modern-portable-play/"><u>Top Inconveniences in Modern Portable Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/wheel-wielding-winners-racings-preferred-control-method/"><u>Wheel-Wielding Winners: Racing's Preferred Control Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-and-conquer-five-techniques-for-personalizing-the-xbox-game-bar-experience/"><u>Customize & Conquer: Five Techniques for Personalizing the Xbox Game Bar Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-non-startup-issues-a-guide-to-dealing-with-driver-not-starting-on-windows-11/"><u>Fixing Non-Startup Issues: A Guide to Dealing with Driver Not Starting on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-persistent-crashing-issue-of-escape-from-tarkov-for-pc-players/"><u>Fixing the Persistent Crashing Issue of 'Escape From Tarkov' For PC Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-nokia-c12-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Nokia C12 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-forces-for-victory-winning-at-two-player-minecraft-on-switch/"><u>Join Forces for Victory! Winning at Two-Player Minecraft on Switch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-blaze-pro-5g-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-upgrades-how-to-activate-its-recent-web-browsing-and-plugin-features/"><u>Mastering ChatGPT Upgrades: How to Activate Its Recent Web Browsing and Plugin Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tips-and-tricks-preserving-conversations-with-chatgpt-for-future-reference/"><u>Tips and Tricks: Preserving Conversations with ChatGPT for Future Reference</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-do-if-your-joy-con-wont-connect-to-your-nintendo-switch/"><u>What to Do if Your Joy-Con Won’t Connect to Your Nintendo Switch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxvideo-ai-amelioration-et-restauration-de-videos-en-resolution-ultra-haute-definition-4k-8k-10k/"><u>WinxVideo AI : Amélioration Et Restauration De Vidéos en Résolution Ultra Haute Définition (4K, 8K, 10K)</u></a></li>
 </ul></div>
 

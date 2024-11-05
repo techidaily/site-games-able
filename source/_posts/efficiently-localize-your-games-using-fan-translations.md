@@ -1,7 +1,7 @@
 ---
 title: Efficiently Localize Your Games Using Fan Translations
-date: 2024-10-17T21:23:34.099Z
-updated: 2024-10-25T00:06:10.888Z
+date: 2024-11-02T16:07:30.389Z
+updated: 2024-11-05T17:25:01.120Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Working Emulator and ROM File
@@ -42,16 +42,16 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Translation Patch File
 
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### A Patch Tool
 
@@ -86,13 +79,20 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
@@ -114,18 +114,14 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-top-vr-game-creators-to-watch-for-2024/"><u>[New] Top VR Game Creators To Watch for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-clash-sonys-playstation-5-versus-frugal-gaming-desk/"><u>Console Clash: Sony's PlayStation 5 Versus Frugal Gaming Desk</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-pc-brands-asus-tuf-proart-vs-prime/"><u>Dive Into the World of PC Brands: Asus, Tuf, ProArt Vs. Prime</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/effortless-business-automation-harnessing-the-power-of-zero-coding-ai-tools/"><u>Effortless Business Automation: Harnessing the Power of Zero-Coding AI Tools</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/five-key-methods-for-retrieving-accidentally-deleted-images-from-microsoft-onedrive/"><u>Five Key Methods for Retrieving Accidentally Deleted Images From Microsoft OneDrive</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-s23-tactical-edition-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy S23 Tactical Edition Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-amds-fsr-3-set-to-revolutionize-gaming-graphics-or-just-compete-with-dlss-35/"><u>Is AMD’s FSR 3 Set to Revolutionize Gaming Graphics or Just Compete with DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-integration-install-discord-seamlessly/"><u>Mac Integration: Install Discord Seamlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-microsoft-widi-connection-setbacks-on-windows-10-devices-expert-tips/"><u>Overcoming Microsoft WiDi Connection Setbacks on Windows 10 Devices - Expert Tips</u></a></li>
-<li><a href="https://win-forum.techidaily.com/quick-guide-forcing-closure-of-unresponsive-apps-in-windows-11-using-the-command-line/"><u>Quick Guide: Forcing Closure of Unresponsive Apps in Windows 11 Using the Command Line</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-functionality-to-unresponsive-steam-servers/"><u>Restoring Functionality to Unresponsive Steam Servers</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-prevent-chrome-from-blocking-game-play/"><u>Strategies to Prevent Chrome From Blocking Game Play</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-saving-your-sanity-and-your-project-fcp-best-practices/"><u>Updated In 2024, Saving Your Sanity (and Your Project) FCP Best Practices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-9-mic-recorder-selections-for-online-use-in-23-for-2024/"><u>[New] Essential 9 Mic Recorder Selections for Online Use in '23 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-enhance-clarity-of-online-video-content/"><u>[Updated] In 2024, How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-simple-android-recording-without-rooting-steps/"><u>[Updated] In 2024, Simple Android Recording Without Rooting Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-obs-for-android-streaming/"><u>2024 Approved Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-valuable-steam-credits/"><u>Decoding the Secrets of Valuable Steam Credits</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-spectacle-exploring-supers-power-dynamics/"><u>GPU Showdown Spectacle: Exploring Supers' Power Dynamics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>In 2024, Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-my-games-with-an-oled-screen/"><u>Revolutionizing My Games with an OLED Screen</u></a></li>
 </ul></div>
 

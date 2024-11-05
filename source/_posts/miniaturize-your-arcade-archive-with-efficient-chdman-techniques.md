@@ -1,7 +1,7 @@
 ---
 title: Miniaturize Your Arcade Archive with Efficient CHDMAN Techniques
-date: 2024-09-11T17:03:42.499Z
-updated: 2024-09-15T16:57:34.029Z
+date: 2024-10-29T18:57:57.648Z
+updated: 2024-11-05T21:16:54.231Z
 tags:
   - games
 categories:
@@ -58,6 +58,13 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -80,6 +87,13 @@ Our command was:
 ## What Else Should You Know About CHDs?
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Which Emulators Support CHDs?
 
@@ -105,13 +119,6 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -125,6 +132,13 @@ Our command was:
 
 ![A screenshot of the CHD Required category in the MAME emulator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mame-requires-chd-filter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  CHDMAN can only extract optical media backups back to the CUE & BIN combination with:
 
 `chdman.exe extractcd -i "INPUT.chd" -o "OUTPUT.cue"`
@@ -134,10 +148,10 @@ Our command was:
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More Storage, More Gaming
@@ -159,5 +173,23 @@ Our command was:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-craft-your-best-youtubing-exit-tips-from-industry-leaders/"><u>[New] 2024 Approved Craft Your Best YouTubing Exit - Tips From Industry Leaders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-quick-steps-to-authenticate-your-youtube-login/"><u>[Updated] 2024 Approved Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastering-solo-podcast-production-for-top-spots/"><u>[Updated] In 2024, Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-engagement-crafted-queries-for-personalized-ig-stories-for-2024/"><u>[Updated] Transform Engagement Crafted Queries for Personalized IG Stories for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corsair-keyboard-lighting-problem-heres-how-to-get-those-lights-back/"><u>Corsair Keyboard Lighting Problem? Here’s How to Get Those Lights Back!</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-the-perfect-visual-environment-using-xbox-lights/"><u>Crafting the Perfect Visual Environment Using Xbox Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-dxvk-the-key-to-improved-wingaming/"><u>Dive Into DXVK: The Key to Improved WinGaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-high-refresh-rate-gaming-displays/"><u>Elite High-Refresh Rate Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-the-go-hints-of-switch-next-gen/"><u>Game on the Go! Hints of Switch Next Gen</u></a></li>
+<li><a href="https://games-able.techidaily.com/investigating-the-accuracy-of-no-activity-tag-in-discord/"><u>Investigating the Accuracy of 'No Activity' Tag in Discord</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-y17s-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y17s – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/summiting-top-tier-nintendo-switch-joypads/"><u>Summiting Top-Tier Nintendo Switch Joypads</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-tailored-gpt-variants-enhancing-chatgpts-capabilities/"><u>Top 10 Tailored GPT Variants Enhancing ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-most-secure-and-stylish-magsafe-wallets-of-2024-in-depth-analysis-and-ratings-zdnet/"><u>Ultimate Guide to the Most Secure & Stylish MagSafe Wallets of 2024: In-Depth Analysis and Ratings | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-11-no-display-problem/"><u>Ultimate Guide: Resolving the Windows 11 No Display Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-shared-games-for-ps5-users/"><u>Unlocking Shared Games for PS5 Users</u></a></li>
+</ul></div>
 

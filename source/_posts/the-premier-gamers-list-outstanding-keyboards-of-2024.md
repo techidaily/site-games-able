@@ -1,7 +1,7 @@
 ---
 title: The Premier Gamer's List - Outstanding Keyboards of 2024
-date: 2024-10-25T02:18:31.259Z
-updated: 2024-10-31T00:55:14.153Z
+date: 2024-10-30T16:34:03.441Z
+updated: 2024-11-05T20:00:58.064Z
 tags:
   - games
 categories:
@@ -105,6 +105,13 @@ Best Overall
 
 ![the budget-friendly roccat magma keyboard sits against an illuminated background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-budget-friendly-roccat-magma-keyboard-sits-against-an-illuminated-background.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ROCCAT
 
  The[ROCCAT Magma](https://www.amazon.com/ROCCAT-Membrane-Ergonomic-Detachable-Compatible/dp/B093MH824D?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) is an affordable gaming keyboard that looks far from cheap. With its full-body RGB backlighting, it will stand out in your gaming setup and impress even the most seasoned gamers.
@@ -114,13 +121,6 @@ ROCCAT
  For those who don't want to hear their keyboard, the ROCCAT Magma features silent membrane keys. It's equipped with high-quality rubber domes to ensure silent typing that remains responsive no matter how quickly you type.
 
 ![roccat magma](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/roccat-magma.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### ROCCAT Magma
 
@@ -146,6 +146,13 @@ Best Budget
 
 ![Close up of the SteelSeries Apex Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/close-up-of-the-steelseries-apex-pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  TKL keyboards are perfect for competitive gamers, and they don't get much more impressive than the[SteelSeries Apex Pro](https://www.amazon.com/SteelSeries-Worlds-Fastest-Mechanical-Keyboard/dp/B0BF64DN6H?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) . Thanks to the smaller size, it's perfect for taking with you for competitive tournaments or even a LAN party.
@@ -155,6 +162,13 @@ Best Budget
  OmniPoint adjustable switches allow you to customize the actuation distance from 0.4 to 3.6 millimeters. In addition, the RGB Illumination can be customized with up to 16.8 million colors per key, offering an unparalleled level of customization.
 
 ![Steelseries apex pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/steelseries-apex-pro.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### SteelSeries Apex Pro TKL Gaming Keyboard
 
@@ -180,13 +194,6 @@ Best TKL Keyboard
 
 ![the keychron k8 tenkeyless keyboard is used with an iphone, ipad, and macbook simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-keychron-k8-keyboard-is-used-with-an-iphone-ipad-and-macbook-simultaneously.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Keychron
 
  The[Keychron K8 Tenkeyless](https://www.amazon.com/Keychron-Bluetooth-Mechanical-Hot-swappable-Tenkeyless/dp/B0875SJ8FN?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) wireless gaming keyboard is perfect for Mac gamers looking for a mechanical gaming keyboard. With a unique Mac layout, it features all the Mac function keys while also being able to work on Windows.
@@ -198,10 +205,10 @@ Keychron
 ![keychron k8 tkl](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/keychron-k8-tkl.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### keychron K8 Tenkeyless Wireless
@@ -226,6 +233,13 @@ Best for Mac
 
 ![logitech g915 sits on a desk with other rgb accessories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/logitech-g915-sits-on-a-desk-with-other-rgb-accessories.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Logitech
 
  The ideal gaming keyboard for MMOs is the[Logitech G915](http://www.amazon.com/Logitech-Wireless-Mechanical-Gaming-Keyboard/dp/B07NY9ZT92?tag=makeusw-20&ascsubtag=UUmuoUeUpU38157&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fbest-gaming-keyboard%2F&asc%5Fcampaign=Commerce) . This keyboard features five dedicated programmable macro keys and three G-Hub presets installed on a sturdy, low-profile backlit keyboard.
@@ -237,10 +251,16 @@ Logitech
 ![logitech g915](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/logitech-g915.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Logitech G915 Keyboard
@@ -271,13 +291,6 @@ Best for MMOs
 
  The most prominent differences between gaming keyboards and regular keyboards are that gaming keyboards are sturdier, generally provide better tactile feedback, cause less typing strain, and often include extra features like macro keys tailored for gamers. They aren't required, but gaming keyboards make video games significantly better.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q: What is a mechanical keyboard, and why is it better for gaming?
 
  Mechanical keyboards use individual mechanical switches for each key rather than relying on a cheaper membrane switch. Mechanical keyboards are considered better for gaming because their key presses are highly predictable and provide excellent tactile feedback. Many provide additional features like N-Key Rollover, which is ideal for games that require complex key combos.
@@ -285,13 +298,6 @@ Best for MMOs
 ### Q: Which mechanical switches are best for gaming?
 
  Some of the best mechanical switches for gaming include red switches, which provide little-to-no resistance; brown switches, which provide light tactile feedback; and blue switches, which provide medium tactile feedback. Some of the other[popular mechanical keyboard switch types](https://www.makeuseof.com/most-popular-mechanical-keyboard-switches-how-they-impact-gaming/) include black switches, lekker switches, and speed silvers.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: What does TKL mean?
 
@@ -312,18 +318,19 @@ Best for MMOs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-top-tune-tracker-and-manager-android-companion/"><u>[Updated] Top Tune Tracker & Manager, Android Companion</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-overview-key-reveals-from-microsofts-october-surface-launch-zdnet-insights/"><u>Complete Overview: Key Reveals From Microsoft's October Surface Launch - ZDNet Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-the-power-of-pip-on-modern-edge-browser/"><u>Explore the Power of PIP on Modern Edge Browser</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-script-innovation-through-chatgpt/"><u>Game Script Innovation Through ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-m54-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy M54 5G Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovating-knowledge-exchange-the-essence-of-ais-transfer-learning/"><u>Innovating Knowledge Exchange: The Essence of AI's Transfer Learning</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps5-streamlining-gaming-memberships/"><u>Mastering PS5: Streamlining Gaming Memberships</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-your-podcasts-the-seo-blueprint/"><u>Optimizing Your Podcasts The SEO Blueprint</u></a></li>
-<li><a href="https://games-able.techidaily.com/subtlety-a-game-changer-for-players/"><u>Subtlety: A Game Changer for Players</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-6-free-tools-for-converting-bin-files-into-iso-images-a-comprehensive-guide/"><u>Top 6 Free Tools For Converting Bin Files Into ISO Images: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-your-game-experience-windows-and-m1-macs-via-crossover/"><u>Transition Your Game Experience: Windows & M1 Macs via Crossover</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-potential-four-reasons-for-a-corsair-icue-link-upgrade/"><u>Unlock Potential: Four Reasons for a Corsair iCUE Link Upgrade</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-aiff-to-mp3-an-experts-methodology-for-audio-conversion/"><u>Updated In 2024, AIFF to MP3 An Experts Methodology for Audio Conversion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-evaluating-youtubes-monthly-creator-payments-for-2024/"><u>[New] Evaluating YouTube's Monthly Creator Payments for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premier-green-screen-tech-how-to-optimize-usage-for-2024/"><u>[Updated] Premier Green Screen Tech How to Optimize Usage for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-insiders-pathway-to-effective-auditory-notes/"><u>2024 Approved The Insider’s Pathway to Effective Auditory Notes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 12 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-galaxy-f14-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung Galaxy F14 5G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-companions-for-your-ps5-console/"><u>Perfect Companions for Your PS5 Console</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/picsart-unveiled-full-analysis-and-step-by-step-tutorial-for-2024/"><u>PicsArt Unveiled Full Analysis & Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-photography-tools-the-most-outstanding-2024-cameras/"><u>Pinnacle Photography Tools - The Most Outstanding 2024 Cameras</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pursue-perfection-in-graphics-with-premium-displays/"><u>Pursue Perfection in Graphics with Premium Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/selective-streaming-games-for-varied-audiences/"><u>Selective Streaming Games for Varied Audiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-no-cost-countdown-trackers-for-2024/"><u>Ultimate No-Cost Countdown Trackers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-truth-authentic-vs-duped-game-ads/"><u>Unveiling the Truth: Authentic vs Duped Game Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-mending-steps-for-series-xs-problems/"><u>Xbox Mending Steps for Series X|S Problems</u></a></li>
 </ul></div>
 

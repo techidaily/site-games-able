@@ -1,7 +1,7 @@
 ---
 title: What's at Stake for Gamers in Xbox & Activision Deal?
-date: 2024-10-17T17:09:22.024Z
-updated: 2024-10-25T07:12:48.406Z
+date: 2024-10-31T16:33:37.062Z
+updated: 2024-11-05T21:37:14.198Z
 tags:
   - games
 categories:
@@ -35,9 +35,23 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Xbox Owns a Sizable Chunk of the Entire Gaming Industry
 
@@ -46,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  With Microsoft having already acquired Bethesda in 2021 for $7.5 billion, the scope for Xbox to push consumers to Xbox Series X|S for Bethesda titles already exists. If you want to play the AAA Bethesda title Starfield, you have to own an Xbox Series X|S.
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
@@ -102,16 +102,16 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
  While you certainly have good reasons to be dubious of the acquisition of Activision/Blizzard by Microsoft, there is evidence to suggest that the deal isn't as problematic for gamers as previously thought.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Exclusive Games Have Always Been a Pivotal Part of Console Gaming
 
@@ -156,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
  Even with the acquisition of Activision/Blizzard, it may be more likely that competition between Xbox and PlayStation would increase instead of the industry being monopolized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Acquisition of Activision/Blizzard by Xbox Improves Competition
@@ -185,18 +185,18 @@ thumbnail: https://thmb.techidaily.com/5bf728bf1d8012a0ac58ba1551d0ec390dc36f122
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-exquisite-couple-clips-the-best-weddings-online-8-picks-for-2024/"><u>[New] Exquisite Couple Clips The Best Weddings Online (8 Picks) for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-expert-tips-on-angling-videos-unlocking-full-potential-with-vlc/"><u>[New] In 2024, Expert Tips on Angling Videos Unlocking Full Potential with VLC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-your-screen-essential-wins11-apps-and-games/"><u>[Updated] 2024 Approved Master Your Screen Essential Wins11 Apps & Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-four-quick-tips-boosting-iphone-video-luminosity/"><u>2024 Approved Four Quick Tips Boosting iPhone Video Luminosity</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mastering-facebooks-potential-in-health-marketing/"><u>2024 Approved Mastering Facebook's Potential in Health Marketing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-xcover-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy XCover 7 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-spark-20-proplus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Spark 20 Pro+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ingenious-ways-to-appear-stealthy-in-steam/"><u>Ingenious Ways to Appear Stealthy in Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/real-vs-fake-the-tale-of-buzzed-gamer-ads/"><u>Real vs Fake: The Tale of Buzzed Gamer Ads</u></a></li>
-<li><a href="https://games-able.techidaily.com/revisiting-mobile-entertainment-7-hidden-disadvantages/"><u>Revisiting Mobile Entertainment: 7 Hidden Disadvantages</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-procedure-for-careful-xbox-360-slim-dismantling/"><u>The Procedure for Careful Xbox 360 Slim Dismantling</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-solution-fixing-the-persistent-error-0x800f020b-after-xerox-software-update-on-windows-computers/"><u>Ultimate Solution: Fixing the Persistent Error 0X800f020b After Xerox Software Update on Windows Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-paying-for-your-favorite-game-is-a-smart-move-heres-how/"><u>Why Paying for Your Favorite Game Is a Smart Move! Here's How</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-edge-apps-for-mobile-screen-recording/"><u>[New] In 2024, Leading Edge Apps for Mobile Screen Recording</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-tube-top-ten-the-most-viewed-tweets-on-social-media/"><u>[New] In 2024, Tube Top Ten The Most Viewed Tweets on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-value-in-graphic-performance/"><u>Finding Value in Graphic Performance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-k11x-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo K11x Without PUK Codes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-leading-blu-ray-players-the-ultimate-list-for-24/"><u>In 2024, Leading Blu-Ray Players The Ultimate List for '24</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-manual-hp-smartoffice-800-series/"><u>Installation Manual: HP SmartOffice 800 Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/installing-discord-for-mac-a-straightforward-approach/"><u>Installing Discord for Mac: A Straightforward Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gpu-giants-battle-sups-ti-and-4080-supers-versus-each-other/"><u>Nvidia's GPU Giants Battle: Sups, Ti, and 4080 Supers Versus Each Other</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-5-strategies-for-mac-users/"><u>Optimize Your Gaming: 5 Strategies for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-the-joy-of-gameplay-after-exhaustion/"><u>Reviving the Joy of Gameplay After Exhaustion</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-solves-non-responsive-drive-woes/"><u>Stellar Solves Non-Responsive Drive Woes!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-silence-controlling-sound-on-xbox-series/"><u>The Art of Silence: Controlling Sound on Xbox Series</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>Video Mastery Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
 </ul></div>
 

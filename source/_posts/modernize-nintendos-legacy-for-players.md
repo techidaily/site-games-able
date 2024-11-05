@@ -1,7 +1,7 @@
 ---
 title: Modernize Nintendo's Legacy for Players
-date: 2024-09-13T16:30:28.865Z
-updated: 2024-09-15T16:26:46.857Z
+date: 2024-11-02T19:21:08.648Z
+updated: 2024-11-05T17:31:36.698Z
 tags:
   - games
 categories:
@@ -52,21 +52,49 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
  Select the game you want to play with your Classic Nintendo controller and press the**controller icon** on the right to open your controller settings. Select**Enable Steam Input** . This allows you to fully customize your controller’s button layout.
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -87,18 +115,22 @@ thumbnail: https://thmb.techidaily.com/ef0391400737caff934206593a807d314ef3298f3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-pro-the-ultimate-guide-to-capturing-your-world-for-2024/"><u>[New] ScreenSnapper Pro The Ultimate Guide to Capturing Your World for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-how-to-add-music-to-youtubevideo-with-youtube-video-editor/"><u>[Updated] 2024 Approved How to Add Music to YouTubeVideo with YouTube Video Editor</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-deciphering-the-wealth-of-mr-beast-for-2024/"><u>[Updated] Deciphering the Wealth of Mr. Beast for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-safaris-picture-in-picture-on-ios-and-ipad-how-to-use/"><u>[Updated] Safari's Picture-in-Picture on iOS & iPad How to Use</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-tecno-pop-7-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Tecno Pop 7 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/alienwares-m18-gaming-laptop-slays-competition-grab-your-limited-labor-day-sale-at-30-off-discover-the-secrets-on-zdnet/"><u>Alienware's M18 Gaming Laptop Slays Competition, Grab Your Limited Labor Day Sale at 30% Off | Discover the Secrets on ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-tips-for-disabling-usb-sleep-in-win-11/"><u>Easy Tips for Disabling USB Sleep in Win 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-wacom-intuos-3-driver-installation-instructions-for-optimal-windows-use/"><u>Essential Wacom Intuos 3 Driver Installation Instructions for Optimal Windows Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-ideal-screen-for-less-than-a-thousand-dollars-in-depth-review-and-ratings-by-professionals-zdnet/"><u>Find Your Ideal Screen for Less Than A Thousand Dollars: In-Depth Review and Ratings by Professionals | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-32-off-the-xbox-fire-tv-stick-4k-with-xbox-game-pass-for-free-exclusive-deal-at-zdnet/"><u>Get 32% Off the Xbox Fire TV Stick 4K with Xbox Game Pass for Free - Exclusive Deal at ZDNet!</u></a></li>
+<li><a href="https://games-able.techidaily.com/getting-set-up-a-step-by-step-guide-to-running-steam-and-accessing-a-world-of-linux-gaming/"><u>Getting Set Up: A Step-by-Step Guide to Running Steam and Accessing a World of Linux Gaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-techniques-for-verbal-note-taking-expertise/"><u>In 2024, Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unveiling-the-ultimate-strategy-to-record-your-favorite-streamed-series-hulu/"><u>In 2024, Unveiling the Ultimate Strategy to Record Your Favorite Streamed Series (Hulu)</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-extravaganza-exclusive-tv-offerings-perfect-for-ages-55plus-dont-miss-out-on-these-spectacular-savings/"><u>Labor Day Extravaganza: Exclusive TV Offerings Perfect for Ages 55+ – Don't Miss Out on These Spectacular Savings!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-finest-hisense-tv-models-as-rated-by-experts-at-zdnet-a-comprehensive-guide/"><u>Unveiling the Finest Hisense TV Models as Rated by Experts at ZDNet: A Comprehensive Guide</u></a></li>
+</ul></div>
 

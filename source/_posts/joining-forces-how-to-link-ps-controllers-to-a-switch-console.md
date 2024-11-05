@@ -1,7 +1,7 @@
 ---
 title: "Joining Forces: How to Link PS Controllers to a Switch Console"
-date: 2024-09-14T16:43:20.180Z
-updated: 2024-09-15T16:16:07.659Z
+date: 2024-10-30T19:18:18.632Z
+updated: 2024-11-05T19:57:21.839Z
 tags:
   - games
 categories:
@@ -36,9 +36,23 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
@@ -47,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
@@ -60,16 +81,16 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -90,5 +111,24 @@ thumbnail: https://thmb.techidaily.com/791dffd80e92658c11252041a7a7629804246e695
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/eo-revolution-transforming-your-content-visibility/"><u>[New] SEO Revolution Transforming Your Content Visibility</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-7-perfect-methods-for-screen-recording/"><u>[Updated] IPhone 7 Perfect Methods for Screen Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-guide-to-choosing-a-top-tier-gif-maker/"><u>[Updated] Ultimate Guide to Choosing a Top-Tier GIF Maker</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-axon-40-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE Axon 40 Lite FRP</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amazon-prime-day-unveiled-what-to-expect-in-the-sensational-202n4-event/"><u>Amazon Prime Day Unveiled: What to Expect in the Sensational 202N4 Event</u></a></li>
+<li><a href="https://games-able.techidaily.com/customizing-ps5-wallpaper/"><u>Customizing PS5 Wallpaper</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insights-setting-up-your-steam-launchers-for-maximum-fun/"><u>Exclusive Insights: Setting Up Your Steam Launchers for Maximum Fun</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-of-mjpeg-videos-to-popular-formats-with-movavi/"><u>Free Online Conversion of MJPEG Videos to Popular Formats with Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-one-piece-to-two-disassembling-the-xbox-360-slim/"><u>From One Piece to Two: Disassembling the Xbox 360 Slim</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-narzo-n53-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme Narzo N53 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-game-continuity-between-ps3-and-ps4/"><u>Is There Game Continuity Between PS3 and PS4?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/jumpstart-your-video-projects-access-free-stunning-banner-templates-for-2024/"><u>Jumpstart Your Video Projects Access Free, Stunning Banner Templates for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-high-pixels-hdp-gaming-ergonomics/"><u>Premium High Pixels (HDP) Gaming Ergonomics</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-ps4-gamepad-mastering-the-art-of-fixing-control-issues/"><u>Reviving Your Ps4 Gamepad: Mastering the Art of Fixing Control Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-pokemon-shiny-guidebook-for-scv-85/"><u>The Ultimate Pokémon Shiny Guidebook for SCV (85)</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-gaming-best-steam-deck-accessory-options/"><u>Transforming Your Gaming: Best Steam Deck Accessory Options</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/troubleshooting-screen-flashes-fixed/"><u>Troubleshooting Screen Flashes: Fixed!</u></a></li>
+</ul></div>
 

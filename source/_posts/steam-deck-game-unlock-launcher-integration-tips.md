@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck Game Unlock: Launcher Integration Tips"
-date: 2024-10-26T20:31:04.071Z
-updated: 2024-10-31T03:42:11.819Z
+date: 2024-11-03T17:13:04.858Z
+updated: 2024-11-05T17:55:19.215Z
 tags:
   - games
 categories:
@@ -40,10 +40,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
@@ -60,13 +60,6 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
  Even the free games offered by Epic will show up in your library, so make sure[you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
@@ -77,16 +70,16 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
@@ -101,15 +94,22 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of ubisoft connect in steam list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_ubisoft_connect_in_steam_list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
 
@@ -130,17 +130,17 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-stay-updated-the-latest-instagram-filter-updates/"><u>[New] 2024 Approved Stay Updated The Latest Instagram Filter Updates</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevate-your-social-media-presence-with-personalized-instagram-icons/"><u>[New] In 2024, Elevate Your Social Media Presence with Personalized Instagram Icons</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-win11s-leading-video-creators-guide-for-2024/"><u>[New] Win11's Leading Video Creators Guide for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimized-obs-operations-on-android-platforms/"><u>[Updated] 2024 Approved Optimized OBS Operations on Android Platforms</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-nextgen-codec-battle-is-av1-trumping-vp9-quality/"><u>[Updated] NextGen Codec Battle Is AV1 Trumping VP9 Quality?</u></a></li>
-<li><a href="https://games-able.techidaily.com/correct-your-tech-choices-find-ideal-oled-monitor/"><u>Correct Your Tech Choices: Find Ideal OLED Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-7-misconceptions-about-ray-tracing-in-games/"><u>Decoding 7 Misconceptions About Ray Tracing in Games</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-control-switch-off-xbox-svibration-mode/"><u>Quiet Control: Switch Off Xbox Svibration Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-speaking-managing-xbox-game-chats/"><u>Secure Speaking: Managing Xbox Game Chats</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-frugal-gamers-guide-to-xbox-series-xs/"><u>The Frugal Gamer's Guide to Xbox Series X/S</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-secret-of-fbs-lately-viewed-videos/"><u>Unlocking the Secret of Fb’s Lately Viewed Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-strategy-dominion-discovering-the-7-pinnacle-conflicts-for-2024/"><u>[New] Strategy Dominion Discovering the 7 Pinnacle Conflicts for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mirthful-mayhem-makers/"><u>2024 Approved Mirthful Mayhem Makers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-visionary-layout-overhauls/"><u>2024 Approved Visionary Layout Overhauls</u></a></li>
+<li><a href="https://games-able.techidaily.com/confronting-the-hype-around-high-game-refresh-rates/"><u>Confronting the Hype Around High Game Refresh Rates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-the-editors-journey-best-in-class-ai-tools/"><u>Enhancing the Editor's Journey: Best-in-Class AI Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ea-play-ps5-game-selection/"><u>Essential EA Play PS5 Game Selection</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-huion-drivers-for-your-windows-computer-easily/"><u>Get the Latest Version of Huion Drivers for Your Windows Computer Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-streamline-browsing-fb-gaming-in-chrome/"><u>How to Streamline Browsing: FB Gaming in Chrome</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-connection-speed-techniques-for-lower-latency/"><u>Mastering Connection Speed: Techniques for Lower Latency</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-sentiment-swaying-duets-the-heartfelt-text-challenge/"><u>Nine Sentiment-Swaying Duets: The Heartfelt Text Challenge</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-blueprint-for-youtube-educational-video-success-stories-for-2024/"><u>The Blueprint for YouTube Educational Video Success Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-cause-of-non-responsive-windows-search/"><u>Unveiling the Cause of Non-Responsive Windows Search</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Perfecting the Steam Deck Experience: Epic and GOG"
-date: 2024-09-09T16:10:31.887Z
-updated: 2024-09-15T16:29:31.792Z
+date: 2024-10-31T16:24:50.959Z
+updated: 2024-11-05T17:04:08.218Z
 tags:
   - games
 categories:
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
  If you have games on Epic Games or GOG that you want to play on Steam Deck, Heroic is ideal.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Alternatives to Heroic Games Launcher
 
  This guide attempts to make installing GOG games and Epic Games titles as easy as possible. However, using Heroic Games Launcher is not the only method.
@@ -56,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 4. Go to**Installed Files**  
 ![muo-gaming-steam-deck-gog-epic-games-installed-files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-installed-files.jpeg)
 5. Select**Move install folder**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In the Move Content screen, highlight**MicroSD Card** and tap**Move**  
 ![Move data to the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-sdcard-move.jpeg)
 7. Wait while the process completes
@@ -78,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install Heroic Games Launcher on Steam Deck
 
  Start by accessing Steam Deck’s desktop mode. This is straightforward:
@@ -87,22 +109,15 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 3. Select**Switch to Desktop** and press**A**  
 ![Change to Desktop Mode on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-switch-mode.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the desktop environment, find the shopping bag icon on the left-hand side of the taskbar. This is the**Discover** app, a software store. Click to open, then enter “heroic” in the search bar.
 
  Heroic Games Launcher should be displayed. Click**Install** , and wait for the process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install GOG Games on Steam Deck
@@ -115,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 3. Go to**Library** and browse for the game you want to install  
 ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
 4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
@@ -163,10 +171,10 @@ This will reboot the Steam Deck into the main console interface.
 ![Start Heroic Games Launcher on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can then either select a game to play or install a new one. It’s that simple.
@@ -180,18 +188,18 @@ This will reboot the Steam Deck into the main console interface.
 ![Uninstall a game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall-game.jpg)
 5. Confirm with**Yes** when prompted  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Uninstall an Epic Games title on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-uninstall.jpg)
 
 Wait for the process to complete before installing any other games.
 
  Is a game missing from your library? Some titles acquired through the Epic Games store cannot be played on Steam Deck if they were released via a different distribution service, such as Uplay or EA/Origin.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Now Play Epic Games and GOG Favorites on the Steam Deck
 
@@ -214,5 +222,21 @@ Wait for the process to complete before installing any other games.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-freely-accessible-cutting-edge-video-editor-tools/"><u>[Updated] 2024 Approved Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-smooth-operations-boosting-memory-allocation-to-minecraft/"><u>[Updated] In 2024, Smooth Operations Boosting Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-performance-of-apples-latest-m1-chip-in-the-2020-macbook-air-13-inch-a-comprehensive-review/"><u>Exploring the Performance of Apple's Latest M1 Chip in the 2020 MacBook Air 13-Inch - A Comprehensive Review</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extracting-images-from-movies-using-windows-10-photos-app-for-2024/"><u>Extracting Images From Movies Using Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-acer-bluetooth-drivers-in-minutes-safe-download-options/"><u>Find & Install the Right Acer Bluetooth Drivers in Minutes – Safe Download Options</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-hdr-techniques-in-modern-photoshoots/"><u>In 2024, Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://games-able.techidaily.com/limited-offer-score-the-ultimate-bargain-on-a-spectacular-85-inch-tcl-tv-for-under-1k-after-prime-days-end-tech-insider/"><u>Limited Offer: Score the Ultimate Bargain on a Spectacular 85-Inch TCL TV for Under $1K After Prime Day's End | Tech Insider</u></a></li>
+<li><a href="https://games-able.techidaily.com/samsungs-new-odyssey-neo-g9-smartphone-launches-at-a-steep-price-of-1300-on-amazon/"><u>Samsung's New Odyssey Neo G9 Smartphone Launches at a Steep Price of $1,300 on Amazon</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-on-your-favorite-shows-unmissable-labor-day-tv-specials-over-55-zdnets-guide-to-last-minute-deals/"><u>Save on Your Favorite Shows : Unmissable Labor Day TV Specials Over 55 – ZDNET's Guide to Last-Minute Deals</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-optimized-isps-ranked-by-performance-insights-from-zdnet/"><u>Top 9 Gaming-Optimized ISPs Ranked by Performance - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gaming-headsets-comprehensive-review-by-tech-experts-pcmag/"><u>Top-Rated Gaming Headsets : Comprehensive Review by Tech Experts | PCMag</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-prime-day-2024-bargains-for-gamers-the-68-hottest-deals-not-yet-snapped-up-zdnet-insider/"><u>Ultimate Prime Day 2024 Bargains for Gamers: The 68 Hottest Deals Not Yet Snapped Up | ZDNET Insider</u></a></li>
+</ul></div>
 

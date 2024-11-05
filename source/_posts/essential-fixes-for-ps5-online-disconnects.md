@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for PS5 Online Disconnects
-date: 2024-09-10T16:09:31.933Z
-updated: 2024-09-15T16:45:10.507Z
+date: 2024-11-02T18:46:55.078Z
+updated: 2024-11-05T19:42:25.788Z
 tags:
   - games
 categories:
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  If rebooting your PS5 doesn't fix the problem, restart your router and modem (if you have a combination unit, reboot that). Some models have a physical power switch you can turn off; if that's not present on yours, unplug them for a minute or two, then plug them back in. Try to get your PS5 back online once everything is connected again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Confirm Your Wi-Fi Network Details
 
  If you haven't been able to connect your PS5 to Wi-Fi at all, you should next make sure that you have the correct network credentials entered. There's a chance you mistyped the password, or someone else with access to the network recently changed it.
@@ -64,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 ![PS5 Set Up Internet Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/01-PS5-Set-Up-Internet-Connection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Under the list of**Networks found** , select your Wi-FI connection and enter your network's Wi-Fi password. Be sure to pick the right network, especially if there are similarly-named options on the list.
@@ -78,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  After connecting, if you'd like to change other parameters for the connection, press the**Options** button with your Wi-Fi connection highlighted under**Registered networks** and choose**Advanced Settings** . Most of these aren't relevant, but as an additional troubleshooting step, you can try[using an alternative DNS server for your PS5](https://www.makeuseof.com/how-to-change-ps5-dns-settings/) under**DNS Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Run the PlayStation 5's Network Test
 
  The PS5 includes a built-in test that tries to get online and connect to the PlayStation Network (PSN), then lets you know the results. If you're still not sure why your PS5 won't get online, you should run this.
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
  To go through the network test, head to**Settings > Network > Connection Status** . Select**Test Internet Connection** here to run a new check.
 
 ![PS5 Network Connection Home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/03-PS5-Network-Connection-Home.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here's what the steps in this test mean:
 
@@ -108,19 +115,6 @@ Here's what the steps in this test mean:
 
  After you do the network test, you might also want to walk through the PS5 connection wizard on[Sony's PlayStation Repairs page](https://repairs.playstation.com/) . Select your console and problem from the initial screen, then it will walk you through some troubleshooting steps to hopefully resolve it. Most of these are the same tips we mention here, but trying Sony's tool might help you catch something you overlooked.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Move Your PlayStation Closer to Your Router
 
  Wireless technologies like Wi-Fi are susceptible to interference and only cover a certain distance before their signal degrades. To check how solid your PS5's Wi-Fi connection to your router is, go to **Settings > Network > Connection Status > View Connection Status** and find the**Signal strength** field. If it's below 80% or so, you should take steps to improve this strength.
@@ -128,15 +122,22 @@ Here's what the steps in this test mean:
 ![PS5 Connection Strength](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/05-PS5-Connection-Strength.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If possible, move your PS5 physically closer to your router. Avoid having either device near common sources of interference, like microwaves or baby monitors. And remember that thick surfaces like concrete heavily impede wireless signals.
 
  For more detailed help, see our[guide to improving router speed](https://www.makeuseof.com/tag/10-ways-to-improve-the-speed-of-your-current-router/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Stop Other Network Activities and Review Your Internet Plan
 
@@ -158,18 +159,18 @@ Here's what the steps in this test mean:
 
  In case of issues on someone else's end, there's not much you can do aside from waiting for Sony or your ISP to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 Connect With an Ethernet Cable
 
  We've focused on fixes for PS5 Wi-Fi problems here, but it's worth mentioning that you can resolve the hassles of wireless connections by using an Ethernet cable instead. With a wired connection for your PS5, you'll enjoy faster speeds and a more reliable connection.
 
 ![Unplug PS5 Cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/01-Unplug-PS5-Cables.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ben Stegner/MakeUseOf
 
@@ -194,5 +195,26 @@ Here's what the steps in this test mean:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-producing-effective-youtube-promo-videos/"><u>[New] 2024 Approved Guide to Producing Effective YouTube Promo Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-tranquil-acoustic-settings-on-computers/"><u>[New] In 2024, Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mobile-vr-experience-best-10-headsets-list/"><u>2024 Approved Mobile VR Experience Best 10 Headsets List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/9-ways-to-fix-the-no-servers-found-error-in-apex-legends-for-windows/"><u>9 Ways to Fix the No Servers Found Error in Apex Legends for Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-photoshop-free-image-editors-on-a-budget/"><u>Discover the Best Photoshop-Free Image Editors on a Budget</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/discover-two-effective-methods-for-repairing-efi-partitions-on-windows-11-systems/"><u>Discover Two Effective Methods for Repairing EFI Partitions on Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-nvidias-latest-app-elevate-your-gameplay/"><u>Discovering Nvidia's Latest App: Elevate Your Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-rejoice-akkos-mod007b-keys-reviewed-for-you/"><u>Gamers Rejoice! Akko's MOD007B Keys Reviewed for You</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-premium-justifiable-or-overpriced/"><u>Gaming Premium: Justifiable or Overpriced?</u></a></li>
+<li><a href="https://games-able.techidaily.com/hack-an-xbox-to-function-without-a-controller/"><u>Hack an Xbox to Function without a Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-a-study-in-engaging-successful-games/"><u>Helldivers 2: A Study in Engaging, Successful Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-replace-the-joysticks-in-your-nintendo-switch-joy-con/"><u>How to Replace the Joysticks in Your Nintendo Switch Joy-Con</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-value-in-4k-cameras-for-under-1000/"><u>In 2024, Best Value in 4K Cameras for Under $1,000</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-choice-top-mp4-players-unveiled/"><u>In 2024, Ultimate Choice Top MP4 Players Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/microsoft-and-blizzard-game-changer-for-gaming-enthusiasts/"><u>Microsoft & Blizzard: Game Changer for Gaming Enthusiasts?</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/pc-bildubertragung-auf-das-ipad-pro-mit-drei-methoden-verstehen-und-anwenden/"><u>PC-Bildübertragung Auf Das iPad Pro Mit Drei Methoden Verstehen Und Anwenden</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-audio-clarity-to-your-xbox-console/"><u>Restoring Audio Clarity to Your Xbox Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-amazon-prime-video-playback-issues/"><u>Troubleshooting Steps for Fixing Amazon Prime Video Playback Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-full-potential-a-complete-ps4-reset/"><u>Unleashing Full Potential: A Complete PS4 Reset</u></a></li>
+</ul></div>
 

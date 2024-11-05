@@ -1,7 +1,7 @@
 ---
 title: Customize In-Game Overlay Display on Discord
-date: 2024-10-23T20:34:44.439Z
-updated: 2024-10-30T21:38:54.343Z
+date: 2024-10-31T19:29:46.252Z
+updated: 2024-11-05T18:15:28.820Z
 tags:
   - games
 categories:
@@ -52,13 +52,6 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the Discord Overlay During Gaming
 
  Once you have enabled the overlay, you'll get a notification for every incoming text or call, even when playing the game in full screen.
@@ -67,13 +60,20 @@ Here's how:
 
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
@@ -92,31 +92,19 @@ Follow these steps to disable the in-game overlay:
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
@@ -138,17 +126,18 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-insights-into-youtube-thumbnail-design/"><u>[New] In 2024, Expert Insights Into YouTube Thumbnail Design</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-leading-tech-review-the-top-10-screen-recorders/"><u>[Updated] 2024 Approved Leading Tech Review The Top 10 Screen Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplified-guide-to-mobile-video-capture/"><u>[Updated] In 2024, Simplified Guide to Mobile Video Capture</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-essential-guide-to-ios-podcast-acquisition-for-2024/"><u>[Updated] The Essential Guide to iOS Podcast Acquisition for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-a79-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo A79 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-linking-chatgpt-with-whatsapp-for-improved-support-solutions/"><u>Comprehensive Guide: Linking ChatGPT with WhatsApp for Improved Support Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-a14-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy A14 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-your-runs-enhancing-fps-in-valorant-with-windows-tips/"><u>Master Your Runs: Enhancing FPS in Valorant with Windows Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/protecting-your-gaming-world-from-cyber-dangers/"><u>Protecting Your Gaming World From Cyber Dangers</u></a></li>
-<li><a href="https://games-able.techidaily.com/rising-to-the-top-mastering-frame-rates-and-fixing-low-valorant-fps-on-windows/"><u>Rising to the Top: Mastering Frame Rates and Fixing Low Valorant FPS on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-governing-system-of-xboxs-rules/"><u>Unraveling the Governing System of Xbox’s Rules</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-scheduling-zoom-on-android-a-step-by-step-approach/"><u>[Updated] In 2024, Scheduling Zoom on Android A Step-by-Step Approach</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebook-story-algorithms-how-to-optimize-for-success/"><u>[Updated] Understanding Facebook Story Algorithms How to Optimize for Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-xbox-game-bar-on-pc-turning-off-and-setting-limits/"><u>Controlling Xbox Game Bar on PC: Turning Off & Setting Limits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-banner-design-rules-for-top-youtube-channels/"><u>Essential Banner Design Rules for Top YouTube Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-proof-pc-gamepads-ranked/"><u>Future-Proof PC Gamepads Ranked</u></a></li>
+<li><a href="https://win-dash.techidaily.com/geforce-rtx-3080-ti-download-the-newest-driver-software-for-compatible-win-10-8-and-7-pcs/"><u>GeForce RTX 3080 Ti: Download the Newest Driver Software for Compatible Win 10, 8 & 7 PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-a-top-notch-linkedin-image/"><u>In 2024, Crafting a Top-Notch LinkedIn Image</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-initiate-flawless-zoom-sessions-today/"><u>In 2024, Initiate Flawless Zoom Sessions Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/most-advanced-8-minimalist-emulators-play-android/"><u>Most Advanced 8 Minimalist Emulators: Play Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/pinpointing-where-virtual-screenshots-are-kept/"><u>Pinpointing Where Virtual Screenshots Are Kept</u></a></li>
+<li><a href="https://games-able.techidaily.com/stream-assist-unleashed-a-game-developers-dream/"><u>Stream Assist Unleashed: A Game Developer's Dream?</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-system-core-pc-upgrades-guide/"><u>Streamline Your System: Core PC Upgrades Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-tp-link-archer-c50-budget-wireless-router-a-thorough-review-of-value-and-functionality/"><u>Unveiling the TP-Link Archer C50 Budget Wireless Router – A Thorough Review of Value and Functionality</u></a></li>
 </ul></div>
 

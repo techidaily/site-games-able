@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Manual for Deleting Old Saved Files From PS5
-date: 2024-09-13T16:57:11.337Z
-updated: 2024-09-15T16:57:14.891Z
+date: 2024-10-31T16:34:04.376Z
+updated: 2024-11-05T20:01:10.264Z
 tags:
   - games
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
  This gives you the flexibility to[uninstall and re-download games on your PS5](https://www.makeuseof.com/how-to-uninstall-and-redownload-ps5-games/) with nothing to lose. But how much space does leaving that saved data intact take away from your console?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should I Delete Saved Data Off My PS5?
 
  Storing old saved data on your PS5 uses a minimal amount of space overall. But it all adds up, and even saved data build-up from a year or less can take precious gigabytes away from your storage total.
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
 ![Saved Data Storage Settings PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/saved-data-storage-settings-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, you will be given the option of reviewing the saved data for your**PS4** or**PS5 Games** . Select the console you’re after, and you will immediately be brought to a checklist of your games. Scroll down your list, select the games you are happy to get rid of and press**Delete** on the right-hand side once you’re done.
 
 ![Press Delete to Delete Saved Data PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/press-delete-to-delete-saved-data-ps5.jpg)
@@ -54,13 +68,20 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 
 ![Upload Saved Data to Cloud PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upload-saved-data-to-cloud-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you would rather not deal with the headache of deleting things off of your PS5 all the time, there is another option. You can upgrade your storage by purchasing an SSD for your PS5\. There are plenty of options on the market, including both[internal and external PS5 SSDs](https://www.makeuseof.com/internal-vs-external-ps5-ssd-how-to-choose/) . Finding[the best SSD for your PS5](https://www.makeuseof.com/best-m2-ssd-for-ps5/) can be daunting, but at least you won't have to worry about space anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save as Much Space as You Can on Your PS5
@@ -82,5 +103,20 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-precision-gameplay-with-proximity-focus-in-roblox/"><u>[New] In 2024, Precision Gameplay with Proximity Focus in Roblox</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-breakneck-broadcast-channel-your-youtube-list-for-2024/"><u>[Updated] Breakneck Broadcast Channel Your YouTube List for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-prime-interactive-camera-spotlights/"><u>[Updated] In 2024, Prime Interactive Camera Spotlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/echoes-of-battle-the-ultimate-11-military-sims/"><u>Echoes of Battle: The Ultimate 11 Military Sims</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-edits-comprehensive-picture-guided-instructions-for-converting-capcut-videos-into-stunning-4k-resolution/"><u>Elevate Your Edits: Comprehensive Picture-Guided Instructions for Converting CapCut Videos Into Stunning 4K Resolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/fsr-3-by-amd-seeking-to-outshine-nvidias-latest-anti-aliasing-feat-dlss-35/"><u>FSR 3 by AMD: Seeking to Outshine NVIDIA's Latest Anti-Aliasing Feat, DLSS 3.5?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-samsung-galaxy-a34-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Samsung Galaxy A34 5G FRP Bypass</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/integrating-background-footage-for-enhanced-narratives-for-2024/"><u>Integrating Background Footage for Enhanced Narratives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/small-form-factor-comparing-mini-and-full-desktop-pcs/"><u>Small Form Factor: Comparing Mini and Full Desktop Pcs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-finest-videography-tools-for-2024/"><u>The Finest Videography Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/transformative-tips-iphone-into-a-portable-gameroom/"><u>Transformative Tips: IPhone Into a Portable Gameroom</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-xbox-potential-control-pairing-made-easy/"><u>Unleash Xbox Potential: Control Pairing Made Easy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wavflac-movavi/"><u>ウェブ上でもらえるWAVからFLACへのフリーコンバート - MOVAVI</u></a></li>
+</ul></div>
 

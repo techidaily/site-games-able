@@ -1,7 +1,7 @@
 ---
 title: "Stay Soundproof: Why Mic-Free PS5s Prevail"
-date: 2024-10-23T21:49:39.099Z
-updated: 2024-10-30T18:57:13.732Z
+date: 2024-10-29T19:59:48.266Z
+updated: 2024-11-05T16:50:20.381Z
 tags:
   - games
 categories:
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Automatically Mute Your PS5's Microphone
@@ -55,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -66,19 +72,25 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
@@ -102,21 +114,21 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-conquering-cross-platform-content-sharing-youtubes-and-fbs-for-2024/"><u>[Updated] Conquering Cross-Platform Content Sharing YouTubes & FBs for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-top-netgear-routers-ranked-find-your-perfect-home-wifi-solution-today/"><u>2024'S Top Netgear Routers Ranked: Find Your Perfect Home WiFi Solution Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/emulate-dreamcast-excellence-on-your-android-device/"><u>Emulate Dreamcast Excellence on Your Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-toggle-discords-in-game-modality/"><u>Guide to Toggle Discord's In-Game Modality</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-savings-extended-nitro-for-the-cost-conscious-user/"><u>Opera GX Savings: Extended Nitro for the Cost-Conscious User</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-led-lights/"><u>Premium LED Lights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-missing-directx-11-functionality-in-your-graphics-card/"><u>Resolving the Issue of Missing DirectX 11 Functionality in Your Graphics Card</u></a></li>
-<li><a href="https://games-able.techidaily.com/routine-check-how-to-keep-your-ps4-pad-connected-on-windows/"><u>Routine Check: How to Keep Your PS4 Pad Connected on Windows</u></a></li>
-<li><a href="https://techidaily.com/samsung-bypass-tools-to-bypass-lock-screen-samsung-galaxy-a25-5g-by-drfone-android-unlock-android-unlock/"><u>Samsung Bypass Tools to Bypass Lock Screen(Samsung Galaxy A25 5G)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategy-for-successful-cloud-gaming-with-xbox-game-pass-ultimate/"><u>Step-by-Step Strategy for Successful Cloud Gaming with Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://games-able.techidaily.com/swapping-to-oled-does-the-classic-dock-still-work/"><u>Swapping to OLED - Does the Classic Dock Still Work?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-complete-pathway-to-success-with-your-first-facebook-live-for-2024/"><u>The Complete Pathway to Success with Your First Facebook Live for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-pros-of-google-play-pass-exceeding-its-cons/"><u>The Pros of Google Play Pass Exceeding Its Cons</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-can-you-grow-without-buying-views/"><u>[New] In 2024, How Can You Grow Without Buying Views?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet/"><u>[Updated] 2024 Approved Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-guide-to-font-customization-in-ae/"><u>[Updated] In 2024, The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-value-dome-cameras-offering-unique-cinematic-angles/"><u>[Updated] Top Value Dome Cameras Offering Unique Cinematic Angles</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-becoming-a-trendsetter-viral-tactics-for-fb/"><u>2024 Approved Becoming a Trendsetter Viral Tactics for FB</u></a></li>
+<li><a href="https://games-able.techidaily.com/create-hybrid-gaming-system-xbox-plus-laptop-combination/"><u>Create Hybrid Gaming System: Xbox + Laptop Combination</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-thrills-of-terminal-gaming-on-linux/"><u>Discover the Thrills of Terminal Gaming on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-lighting-options-for-immersive-games/"><u>Essential Lighting Options for Immersive Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-superior-wired-network-interfaces/"><u>Game On with Superior Wired Network Interfaces</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-g22-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia G22 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-top-8-youtube-images-that-captivate-and-convert-viewers/"><u>In 2024, Top 8 YouTube Images That Captivate and Convert Viewers</u></a></li>
+<li><a href="https://games-able.techidaily.com/pre-release-gaming-economy-whats-in-it-for-us/"><u>Pre-Release Gaming Economy – What's in It for Us?</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/professionelles-iso-image-herstellen-and-dvd-duplikate-erstellen-auf-windows-1187-mit-winx-software/"><u>Professionelles ISO-Image Herstellen & DVD Duplikate Erstellen Auf Windows 11/8/7 Mit WinX Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/remote-play-made-simple-launch-your-pc-games-on-steam-deck/"><u>Remote Play Made Simple: Launch Your PC Games on Steam Deck</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-sign-in-overcoming-access-restrictions-in-win/"><u>Secure Your Sign-In: Overcoming Access Restrictions in Win</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-xbox-game-pass-is-a-gamers-best-friend/"><u>Why Xbox Game Pass Is a Gamer’s Best Friend</u></a></li>
 </ul></div>
 

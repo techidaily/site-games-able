@@ -1,7 +1,7 @@
 ---
 title: Ephemeral Games – Curiosity or Concerns?
-date: 2024-10-21T17:06:39.848Z
-updated: 2024-10-25T02:12:35.291Z
+date: 2024-10-30T16:23:36.883Z
+updated: 2024-11-05T21:36:05.814Z
 tags:
   - games
 categories:
@@ -39,21 +39,28 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
@@ -71,23 +78,9 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Such games include Mario Maker and Little Big Planet. Console publishers are often more protective of their IP; Nintendo, in particular, is fiercely protective of its games, locking them down to prevent anything but official, sanctioned access.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Long Do Game Servers Last?
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
 
@@ -100,15 +93,28 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
 
 ![A close up of a maze-based video game with the words “Game Over” in prominent lettering.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/game-over-screen.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Frenzel/[Shutterstock](https://www.shutterstock.com/image-photo/screen-showing-that-game-over-macro-153068465)
 
@@ -135,19 +141,22 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-social-networking-visual-delights-on-fb/"><u>[New] In 2024, Top Social Networking Visual Delights on FB</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-strategies-for-recording-slideshows/"><u>[Updated] In 2024, Cutting-Edge Strategies for Recording Slideshows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>[Updated] In 2024, Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone-for-2024/"><u>Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cubing-up-your-health-game-an-in-depth-look-at-cubefits-terramat-product/"><u>Cubing Up Your Health Game: An In-Depth Look at CubeFit's TerraMat Product</u></a></li>
-<li><a href="https://fox-links.techidaily.com/experts-picks-the-top-5-professional-drone-brands/"><u>Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-deal-bonanza-top-11-sites-offering-low-priced-selections/"><u>Game Deal Bonanza: Top 11 Sites Offering Low-Priced Selections</u></a></li>
-<li><a href="https://games-able.techidaily.com/handheld-games-entertainment-or-distraction/"><u>Handheld Games: Entertainment or Distraction?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-significant-details-in-asmr-recording-art/"><u>In 2024, Significant Details in ASMR Recording Art</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/meta-in-gaming-definition-purpose-and-conformance/"><u>Meta in Gaming: Definition, Purpose, and Conformance</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-5-best-chrome-extensions-you-can-use-to-translate-videos/"><u>New 5 Best Chrome Extensions You Can Use to Translate Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-the-power-of-game-launchers-on-your-steam-deck/"><u>Unleash the Power of Game Launchers on Your Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-x-unjamming-your-disc-drive/"><u>Xbox X: Unjamming Your Disc Drive</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-crafting-an-auditory-ambiance-for-your-vimeo-video-pieces/"><u>[New] Crafting an Auditory Ambiance for Your Vimeo Video Pieces</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>[New] Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-art-of-ad-driven-earnings-ajays-youtube-strategy/"><u>[New] The Art of Ad-Driven Earnings Ajay's YouTube Strategy</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-15-capture-cards-reviewed-a-comprehensive-guide/"><u>Best 15 Capture Cards Reviewed: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/direct-controlled-races-wheels-edge-over-touchscreen-triumphs/"><u>Direct Controlled Races: Wheel's Edge Over Touchscreen Triumphs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-enhanced-interactions-with-chatgpt-turning-on-new-beta-features-for-web-navigation-and-plugin-integration/"><u>Discover Enhanced Interactions with ChatGPT: Turning On New Beta Features for Web Navigation and Plugin Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-steam-deck-with-emudeck-gaming/"><u>Enhance Your Steam Deck with EmuDeck Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-the-child-safety-features-on-ps5-console/"><u>Enhancing the Child Safety Features on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-organizing-xbox-extras-for-s-series/"><u>Guide to Organizing Xbox Extras for S Series</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-fix-surface-pro-7-screen-flickering/"><u>How to Fix Surface Pro 7 Screen Flickering</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-innovation-top-8-gaming-strategies-for-artists/"><u>Ignite Innovation: Top 8 Gaming Strategies for Artists</u></a></li>
+<li><a href="https://games-able.techidaily.com/join-the-prime-network-watch-premium-twitch/"><u>Join the Prime Network, Watch Premium Twitch</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-storm-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-silence-your-xbox-vibration/"><u>The Ultimate Guide to Silence Your Xbox Vibration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-play-7t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor Play 7T for Parents | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-x-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone X</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-control-unlock-gaming-potential-swap-out-old-switch-joysticks/"><u>Upgrade Control, Unlock Gaming Potential: Swap Out Old Switch Joysticks</u></a></li>
 </ul></div>
 

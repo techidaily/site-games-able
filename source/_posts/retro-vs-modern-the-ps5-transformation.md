@@ -1,7 +1,7 @@
 ---
 title: "Retro Vs. Modern: The PS5 Transformation"
-date: 2024-10-28T01:25:25.780Z
-updated: 2024-10-30T18:05:03.781Z
+date: 2024-11-04T21:16:10.927Z
+updated: 2024-11-05T17:59:22.556Z
 tags:
   - games
 categories:
@@ -31,9 +31,23 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 Models vs. New PS5 Models: The Differences
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Size and Weight
 
@@ -43,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -70,38 +84,24 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -122,19 +122,14 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-enhanced-cutting-techniques-for-professional-vimeo-media/"><u>[New] 2024 Approved Enhanced Cutting Techniques for Professional Vimeo Media</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-and-youtube-synergy-sharing-video-links-in-stories/"><u>[New] 2024 Approved Instagram and YouTube Synergy Sharing Video Links in Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-creators-profit-from-youtube-shorts/"><u>[Updated] How Creators Profit From YouTube Shorts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovators-designing-online-marvel-experiences/"><u>[Updated] Innovators Designing Online Marvel Experiences</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-movie-maker-pro-tips-for-efficient-editing/"><u>2024 Approved YouTube Movie Maker Pro Tips for Efficient Editing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-chatgpt-be-used-as-a-proofreader/"><u>Can ChatGPT Be Used as a Proofreader?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-high-memory-usage-in-the-roblox-app-for-iphones-efficiently/"><u>Fixing High Memory Usage in the Roblox App for iPhones Efficiently</u></a></li>
-<li><a href="https://games-able.techidaily.com/peer-into-pimaxs-crystal-vr-visage-and-its-buggy-reality/"><u>Peer Into Pimax's Crystal VR Visage & Its Buggy Reality</u></a></li>
-<li><a href="https://games-able.techidaily.com/reversing-minecraft-launcher-failure-code-0x803f8001-solution/"><u>Reversing Minecraft Launcher Failure: Code 0X803F8001 Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-steams-new-guidelines-on-ai/"><u>Revolutionizing Gaming: Steam's New Guidelines on AI</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamlessly-switch-between-windows-and-steamos-on-deck/"><u>Seamlessly Switch Between Windows & SteamOS on Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-in-guide-to-attaching-a-controller-to-an-android-device/"><u>Step-In Guide to Attaching a Controller to an Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/switching-steams-main-interface-language/"><u>Switching Steam's Main Interface Language</u></a></li>
-<li><a href="https://fox-info.techidaily.com/which-monitoring-software-triumphs-for-live-streamers/"><u>Which Monitoring Software Triumphs for Live Streamers?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-2023s-premier-ios-emulators-excellent-psp-gaming-choices/"><u>[Updated] In 2024, 2023'S Premier iOS Emulators Excellent PSP Gaming Choices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-captivate-audiences-unveiling-secrets-for-striking-youtube-banners/"><u>[Updated] In 2024, Captivate Audiences Unveiling Secrets for Striking YouTube Banners</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-obsudio-screencast-review-finding-your-best-live-broadcast-tool-for-2024/"><u>[Updated] Obsudio Screencast Review Finding Your Best Live Broadcast Tool for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/helldivers-2-key-concepts-for-crafting-unforgettable-gaming-experiences/"><u>Helldivers 2: Key Concepts for Crafting Unforgettable Gaming Experiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>In 2024, Brief Sequences, Lasting Impressions Time-Lapse with Samsung</u></a></li>
+<li><a href="https://games-able.techidaily.com/safety-sessions-equipping-kids-to-navigate-online-risks/"><u>Safety Sessions: Equipping Kids to Navigate Online Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/skyward-sitters-selecting-superior-gaming-chairs/"><u>Skyward Sitters: Selecting Superior Gaming Chairs</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-device-lag-in-win10win11-zeroing-out-0x887a0006/"><u>Tackling Device Lag in Win10/Win11 - Zeroing Out 0X887A0006</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-zoom-potential-3-secrets-to-superior-video-changes/"><u>Unlock Zoom Potential 3 Secrets to Superior Video Changes</u></a></li>
 </ul></div>
 

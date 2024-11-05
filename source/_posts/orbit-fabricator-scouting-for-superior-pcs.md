@@ -1,7 +1,7 @@
 ---
 title: "Orbit Fabricator: Scouting for Superior PCs"
-date: 2024-09-12T17:00:54.026Z
-updated: 2024-09-15T16:41:52.993Z
+date: 2024-10-31T20:40:27.750Z
+updated: 2024-11-05T19:22:27.104Z
 tags:
   - games
 categories:
@@ -117,6 +117,19 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ## Hardware and Comparable Custom Builds
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### PC Part Picker
 
 ![Starforge Voyager Creator - PC Part Picker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pc-part-picker.png)
@@ -135,13 +148,6 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ![Starforge Voyager Creator - Top Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-top-fans.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design and Setup
 
  The PC arrives in a massive, hefty box, carefully protected with several fragile stickers to ensure its safe delivery. Our shipment arrived in excellent condition, without any bruises or holes, a testament to the packaging's effectiveness.
@@ -152,9 +158,23 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ![Starforge Voyager Creator - Unboxing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-unboxing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With all of that removed, you'll get your first glimpse of the PC's rear side, showcasing its motherboard and IO. The PC boasts excellent padding on its top and bottom, ensuring everything remains secure during transit. Considering its massive size and weight, it's recommended to carefully flip the box on its open cutout side and then lift it, avoiding any struggle that may lead to accidental dropping.
 
 ![Starforge Voyager Creator - Lian Li Case](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-lian-li-case.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To prepare the PC for use, you'll need to remove its left glass side to access the custom protective foam pieces surrounding the GPU, motherboard, and power supply.
 
@@ -163,13 +183,6 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
  Additionally, a small protective film on its Deepcool LS720 360mm AIO Liquid Cooler needs to be removed. '
 
 ![Starforge Voyager Creator - Watercooler Close Up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-watercooler-close-up.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both the left and front glass sides have a protective film on both sides, requiring removal before use. It's worth noting that the Lian Li PC-011 Dynamic Evo Mid-Tower case's design doesn't make removing these sides easy, making it unlikely that you'll need to re-enter the case anytime soon after the initial setup.
 
@@ -202,16 +215,17 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 ![Starforge Voyager Creator - Low Angle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-low-angle.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -228,13 +242,6 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ![Starforge Voyager Creator - PCMark 10 - Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-pcmark-10-benchmark.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3DMark TimeSpy
 
 ![Starforge Voyager Creator - 3DMark10BM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-3dmark10bm.png)
@@ -246,6 +253,13 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 ![Starforge Voyager Creator - Davinci - FullBM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-fullbm.png)
 
 ![Starforge Voyager Creator - Davinci Resolve Benchmark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-davinci-resolve-benchmark.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Gaming
 
@@ -259,16 +273,16 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
 
 ![Starforge Voyager Creator - Playing Detroit Become Human 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-playing-detroit-become-human-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For Marvel's Spider-Man Remastered, we experienced an average FPS between 92 and 110.
 
 ![Starforge Voyager Creator - Playing SpiderMan 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-playing-spiderman-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, Gotham Knights is poorly optimized for PC, resulting in absurdly low CPU and GPU utilization of about 15% and 60% respectively. Despite this, we still manage around 58-62 fps in the open world and 110-120 fps indoors.
 
@@ -277,6 +291,13 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
  The popular Diablo 4 is far less demanding, allowing us to achieve 220+ fps easily. As for Cyberpunk 2077, with all visual settings maxed out, including Ray Tracing Ultra, we experience fps between 55-62.
 
 ![Starforge Voyager Creator - CyberpunkBM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/starforge-voyager-creator-cyberpunkbm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Expensive, but Justified for Some
 
@@ -303,5 +324,19 @@ CableMod Pro ModMesh Sleeved Cable Extensions (Black)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-serene-gaming-selection-quietest-phone-apps/"><u>[New] In 2024, Serene Gaming Selection Quietest Phone Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cinematicwave-win8-software/"><u>2024 Approved CinematicWave Win8 Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 Plus</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>In 2024, Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-lava-yuva-3-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Lava Yuva 3 Pro Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-efforts-crafting-perfect-titles/"><u>In 2024, Top 5 Efforts Crafting Perfect Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/permanently-erase-your-ps5-user-data/"><u>Permanently Erase Your PS5 User Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/recharge-the-joy-of-gaming-with-a-fixed-xbox-pad/"><u>Recharge the Joy of Gaming with a Fixed Xbox Pad</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/steady-rise-in-oled-display-sales-experts-anticipate-more-than-134-million-units-to-reach-market-by-end-of-year/"><u>Steady Rise in OLED Display Sales: Experts Anticipate More Than 1.34 Million Units to Reach Market by End-of-Year</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-travelling-to-90s-with-pokemon-mobile-apps/"><u>Time Travelling to 90S with Pokémon Mobile Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-budget-friendly-journey-through-the-world-of-1440p-monitors/"><u>Your Budget-Friendly Journey Through the World of 1440P Monitors</u></a></li>
+</ul></div>
 

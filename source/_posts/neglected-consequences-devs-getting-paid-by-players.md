@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-10-24T18:47:10.564Z
-updated: 2024-10-30T16:21:20.612Z
+date: 2024-10-30T16:38:57.328Z
+updated: 2024-11-05T16:00:52.350Z
 tags:
   - games
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -61,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tipping is an interesting idea, but do we really need one more payment method?
 
 [Sites like Patreon and Ko-fi](https://www.makeuseof.com/patreon-vs-ko-fi-for-creators/) approach the issue of funding in different ways. The former focuses on subscription and recurring payments to provide creators with a side income; regular tips, if you like. Ko-fi, meanwhile, encourages small, one-off or regular payments, more akin to the nature of tipping, but less directly associated with service.
@@ -68,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -84,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -132,14 +138,24 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-odins-legacy-destiny-of-ragnarok/"><u>[Updated] Odin's Legacy Destiny of Ragnarök</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-and-performance-series-x-vs-pc-build/"><u>Graphics & Performance: Series X Vs. PC Build</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-5-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 5 Pro online without jailbreak</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-image-distortion-made-easy/"><u>In 2024, Image Distortion Made Easy</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-launcher-failure-0x803f8001-in-mcpc/"><u>Overcoming Launcher Failure 0X803F8001 in MCPC</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-storage-the-essential-guide-to-disk-defrag-in-win11/"><u>Streamlining Storage: The Essential Guide to Disk Defrag in Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-6-game-takeaways-from-helldivers-2s-journey/"><u>Top 6 Game Takeaways From Helldivers 2'S Journey</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-fixing-mic-issues-in-sea-of-thieves-for-pc-players/"><u>Troubleshooting and Fixing Mic Issues in Sea of Thieves for PC Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/unearthing-indie-wonders-my-top-game-selections/"><u>Unearthing Indie Wonders: My Top Game Selections</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-unveiling-the-power-of-picture-in-picture-on-apple-devices/"><u>[New] In 2024, Unveiling the Power of Picture-in-Picture on Apple Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-multitask-media-magic-harnessing-netflixs-picture-in-picture-feature/"><u>[New] Multitask Media Magic Harnessing Netflix's Picture-in-Picture Feature</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-the-art-of-finding-lost-chats/"><u>[Updated] In 2024, Mastering the Art of Finding Lost Chats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-merge-music-and-graphics-in-ppt/"><u>[Updated] Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-success-in-live-streaming-of-cricket-matches/"><u>[Updated] Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>2024 Approved Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/macwindows-10-mov-mp4/"><u>無需任何花費的方法：Mac及Windows 10 MOV 轉成 MP4</u></a></li>
+<li><a href="https://games-able.techidaily.com/decision-guide-key-elements-to-consider-in-ps5/"><u>Decision Guide: Key Elements to Consider in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-fabled-tales-one-browser-at-a-time/"><u>Five Fabled Tales, One Browser at a Time</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-8-plus-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 8 Plus to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/large-scale-gaming-switch-to-playnite-fullscreen-tv/"><u>Large-Scale Gaming: Switch to Playnite Fullscreen TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-geforce-now-update-to-stream-or-not-to-stream/"><u>Nvidia's GeForce Now Update: To Stream or Not to Stream?</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-vs-innovative-ps5-redesign-details/"><u>Retro Vs. Innovative: PS5 Redesign Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-gaming-implementing-a-fortified-passcode-on-ps5/"><u>Secure Gaming: Implementing a Fortified Passcode on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-replace-gtx-with-upcoming-rtx-tech-now/"><u>Should You Replace GTX with Upcoming RTX Tech Now?</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscription-skirmish-determining-the-top-console-service/"><u>Subscription Skirmish: Determining the Top Console Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-cheat-sheet-steam-screenshots/"><u>The Ultimate Cheat Sheet: Steam Screenshots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/warren-buffett-retreats-from-india-the-collapse-of-his-sole-bet-on-paytm-as-covered-by-zdnet/"><u>Warren Buffett Retreats From India: The Collapse of His Sole Bet on Paytm, as Covered by ZDNet</u></a></li>
 </ul></div>
 

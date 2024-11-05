@@ -1,7 +1,7 @@
 ---
 title: "Play Smart, Play Hard: Navigating Mac's Fortnite Terrain"
-date: 2024-09-13T16:21:29.536Z
-updated: 2024-09-15T16:29:46.547Z
+date: 2024-11-02T18:17:31.363Z
+updated: 2024-11-05T21:20:04.394Z
 tags:
   - games
 categories:
@@ -20,6 +20,19 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 * [Why Installing Fortnite on Your Mac Is a Bad Idea](#why-installing-fortnite-on-your-mac-is-a-bad-idea)
 * [How to Play the Latest Version of Fortnite on Your Mac](#how-to-play-the-latest-version-of-fortnite-on-your-mac)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * You can install Fortnite on your Mac using the Epic Games Launcher, but it will be an outdated version.
@@ -27,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/721844d81a2674aaafe28cc93fa85dbee744a7d0e
 * Xbox Cloud Gaming lets you play the latest version of Fortnite on your Mac via a web browser, but you'll need a good internet connection and a controller.
 
  While you can use the Epic Games Launcher to play Fortnite on your Mac natively, it has its fair share of downsides. We'll discuss all about it and teach you how to play the latest version of Fortnite on your Mac.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Get Fortnite on Your Mac
 
@@ -55,6 +75,13 @@ Follow these steps to get Fortnite on your Mac:
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Play the Latest Version of Fortnite on Your Mac
 
  Thanks to[the Xbox Cloud Gaming service](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) , you can still play the latest version of Fortnite on a Mac via your browser. It's typically a paid service that costs $16.99 per month, but you can access some free games like Fortnite without a subscription.
@@ -65,24 +92,18 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
-![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
@@ -105,5 +126,24 @@ Follow these steps to get Fortnite on your Mac:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/building-your-dream-gaming-rig-essential-tips-and-guides-sourceznet/"><u>Building Your Dream Gaming Rig: Essential Tips and Guides - SourceZnet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-guide-to-resizing-images-movavi/"><u>Comprehensive Guide to Resizing Images - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-premier-75-inch-televisions-tested-by-professionals-indepth-review-on-zdnet/"><u>Discover the Premier 75-Inch Televisions Tested by Professionals | InDepth Review on ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-the-ultimate-sound-discover-the-best-in-wireless-audio-epos-gtw/"><u>Elevate Your Gaming Experience with the Ultimate Sound: Discover the Best in Wireless Audio - EPOS GTW</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-15-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 15</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-release-universal-windows-bluetooth-adapter-software-secure-download-link/"><u>Latest Release: Universal Windows Bluetooth Adapter Software | Secure Download Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-gaming-pleasure-secure-a-trial-of-3-months-worth-of-xbox-game-pass-ultimate-at-the-low-price-of-36-discover-how-on-zdnet/"><u>Maximize Gaming Pleasure: Secure a Trial of 3 Months' Worth of Xbox Game Pass Ultimate at the Low Price of $36 - Discover How on ZDNET</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-abcs-of-creative-facebook-advertising-a-guidebook-for-2024/"><u>The ABCs of Creative Facebook Advertising A Guidebook for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-10-best-cartoon-video-editing-apps-for-2024/"><u>The Ultimate List 10 Best Cartoon Video Editing Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-list-of-premium-gaming-desks-curated-by-zdnet/"><u>Ultimate List of Premium Gaming Desks Curated by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-memorial-day-deal-get-a-whopping-250-discount-on-the-latest-high-performance-gaming-laptop-techradar/"><u>Unbeatable Memorial Day Deal: Get a Whopping $250 Discount on the Latest High-Performance Gaming Laptop | TechRadar</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-gpeditmsc-feature-for-windows-home-users-easy-fixes-and-workarounds/"><u>Unlock gpedit.msc Feature for Windows Home Users - Easy Fixes and Workarounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/up-to-32-off-the-combo-of-xbox-series-sx-with-amazon-firestick-4k-max-plus-xbox-game-pass-for-free/"><u>Up to 32% Off the Combo of Xbox Series S/X with Amazon Firestick 4K Max - Plus Xbox Game Pass for Free!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/youtube-music-iphoneandroid/"><u>YouTube Musicの楽曲を携帯電話着信音に設定する手順: IPhone/Androidで学ぶ</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-evaluation-of-glorious-aura-keycaps-unmatched-quality-in-pudding-cap-innovations/"><u>ZDNet’s Comprehensive Evaluation of Glorious Aura Keycaps: Unmatched Quality in Pudding Cap Innovations</u></a></li>
+</ul></div>
 

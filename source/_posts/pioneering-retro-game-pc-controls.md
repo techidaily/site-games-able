@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2024-10-24T18:38:54.408Z
-updated: 2024-10-31T02:30:42.925Z
+date: 2024-11-04T16:28:07.423Z
+updated: 2024-11-05T16:17:03.565Z
 tags:
   - games
 categories:
@@ -50,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
@@ -65,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
@@ -82,24 +88,24 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
- Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -122,16 +128,18 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-uniting-windows-and-mac-users-with-skype-groups/"><u>[Updated] In 2024, Uniting Windows & Mac Users with Skype Groups</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>[Updated] Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unleash-window-history-an-in-depth-look-at-springs-tech-for-2024/"><u>[Updated] Unleash Window History An In-Depth Look at Spring's Tech for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-mystery-of-roblox-error-262/"><u>Decoding the Mystery of Roblox Error 262</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-se-2020-how-to-unlock-a-disabled-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Disabled Apple iPhone SE (2020) How to Unlock a Disabled Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-efficient-ways-to-document-gotomeeting-sessions/"><u>In 2024, Efficient Ways to Document GoToMeeting Sessions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-exemplary-6-online-communities-for-corporate-growth/"><u>In 2024, Exemplary 6 Online Communities for Corporate Growth</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-tv-viewing-on-xbox-series-xs-with-tailored-vrr-settings/"><u>Streamlining TV Viewing on Xbox Series X|S with Tailored VRR Settings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-saving-and-enjoying-animated-gifs-on-your-iphone-for-2024/"><u>The Art of Saving and Enjoying Animated GIFs on Your iPhone for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-6-pitfalls-not-investing-in-a-gaming-specific-display/"><u>Top 6 Pitfalls: Not Investing in a Gaming-Specific Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-steams-big-picture-interface/"><u>Understanding Steam's Big Picture Interface</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-free-vimeo-tutorial-to-craft-engaging-videos/"><u>[Updated] 2024 Approved Free Vimeo Tutorial to Craft Engaging Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-faster-vimeo-viewing-experiences/"><u>2024 Approved Faster Vimeo Viewing Experiences</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>2024 Approved Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210659422-9798886802986-daily-dose-of-melancholy/"><u>Daily Dose of Melancholy | Free Book</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ver-9-easy-no-cost-editing-software-options-for-2024/"><u>Discover 9 Easy, No-Cost Editing Software Options for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-m14-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy M14 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/membership-misconceptions-the-true-cost-of-games/"><u>Membership Misconceptions: The True Cost of Games</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-grand-adventures-in-yokus-island-express-a-surprising-experience/"><u>Review of Grand Adventures in Yoku's Island Express – A Surprising Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-solutions-overcome-top-10-frequent-apple-pay-troubles/"><u>Simple Solutions: Overcome Top 10 Frequent Apple Pay Troubles</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-and-survive-4-ai-powered-online-mysteries/"><u>Solve and Survive: 4 AI-Powered Online Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-ai-companions-elevating-live-streaming-on-twitch/"><u>Top 7 AI Companions Elevating Live Streaming on Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-instant-online-fun/"><u>Your Ultimate Guide to Instant Online Fun</u></a></li>
 </ul></div>
 

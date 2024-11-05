@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Nintendo Switch Profile Handling
-date: 2024-09-08T16:22:18.848Z
-updated: 2024-09-15T16:01:40.872Z
+date: 2024-11-04T21:07:43.950Z
+updated: 2024-11-05T19:27:58.571Z
 tags:
   - games
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 * From the Home screen of your Nintendo Switch, select**System Settings** .
 
 ![A screenshot of the Home screen for a Nintendo Switch with the System Settings option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023042110313400-57b4628d2267231d57e0fc1078c0596d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
 
@@ -57,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
  From here, you can enter your Nintendo account password to view your desired account information. However, if you wish to edit information, other methods may be more useful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Manage the Payment and Subscription for Your Nintendo Account
@@ -70,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 * From the Home screen of your Nintendo Switch, select**Nintendo eShop** .
 
 ![A screenshot of the Nintendo Switch Home screen with the option for Nintendo eShop highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092211225900-57b4628d2267231d57e0fc1078c0596d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Select the user profile linked to your Nintendo account.
 * Once the eShop loads, select your profile icon in the top-right of the screen.
@@ -97,10 +124,16 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Or, you can select the**Family Group** tab to add or remove Family members.
@@ -108,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alter Your Nintendo Account With Convenience
 
@@ -135,5 +161,22 @@ thumbnail: https://thmb.techidaily.com/c25817db2649211b5ab691c05f8445f856dd9c308
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-tomtoms-advanced-adventure-cameras-review-2023-edition-for-2024/"><u>[New] TomTom’s Advanced Adventure Cameras Review - 2023 Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-steps-for-crafting-video-based-gifs-on-mobiledesktop-for-2024/"><u>[Updated] Essential Steps for Crafting Video-Based GIFs on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-add-youtube-end-screen-and-cards-effectively-for-2024/"><u>[Updated] How to Add YouTube End Screen and Cards Effectively for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-elite-audio-experience-with-200-gaming-sound-card-comprehensive-analysis-on-zdnet/"><u>Affordable Elite Audio Experience with $200 Gaming Sound Card | Comprehensive Analysis on ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-microsoft-word-exe-errors-easy-methods-inside/"><u>Effective Fixes for Microsoft Word EXE Errors - Easy Methods Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-with-the-black-shark-5-pro-expert-analysis-and-recommendations-pcworld-review/"><u>Elevate Your Gameplay with the Black Shark 5 Pro - Expert Analysis and Recommendations | PCWorld Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-deal-grab-fallout-76-on-xbox-at-a-record-low-price-of-just-2-limited-time-offer-dont-miss-out/"><u>Exclusive Deal: Grab Fallout 76 on Xbox at a Record-Low Price of Just $2! Limited Time Offer – Don't Miss Out!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/explore-the-most-cost-effective-mobile-network-offers-of-2024-ranking-the-leading-deals/"><u>Explore the Most Cost-Effective Mobile Network Offers of 2024 - Ranking the Leading Deals</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-fortnite-returns-to-ios-devices-learn-your-options-for-immediate-gameplay-tech-insights/"><u>Get Ready: Fortnite Returns to iOS Devices! Learn Your Options For Immediate Gameplay - Tech Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uninterrupted-video-with-proper-obs-settings/"><u>In 2024, Uninterrupted Video with Proper OBS Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-how-this-unique-retro-arcade-machine-took-first-place-in-my-epic-gamers-showdown-review/"><u>Inside Look: How This Unique Retro Arcade Machine Took First Place in My Epic Gamers’ Showdown Review.</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-fortnite-now-on-your-iphone-explore-the-latest-updates-and-start-gaming-today-digital-trends/"><u>Play Fortnite Now on Your iPhone? Explore the Latest Updates and Start Gaming Today - Digital Trends</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-device-disconnect-errors-on-win-11-os/"><u>Remedying Device Disconnect Errors on Win 11 OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-powerful-instagram-hashtags/"><u>The Ultimate List of Powerful Instagram Hashtags</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-power-in-depth-review-of-razers-blackshark-v2-pro-gaming-headset-for-the-dedicated-player-zdnet/"><u>Unleashing Power: In-Depth Review of Razer's Blackshark V2 Pro Gaming Headset for the Dedicated Player | ZDNet</u></a></li>
+</ul></div>
 

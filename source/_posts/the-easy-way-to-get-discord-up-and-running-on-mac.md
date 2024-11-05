@@ -1,7 +1,7 @@
 ---
 title: The Easy Way to Get Discord Up and Running on Mac
-date: 2024-10-26T00:52:22.037Z
-updated: 2024-10-30T19:38:52.918Z
+date: 2024-11-04T19:36:40.246Z
+updated: 2024-11-05T17:31:03.769Z
 tags:
   - games
 categories:
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
  You can use Discord online on your browser by clicking**Open Discord** at the top-right corner of Discord's website.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Install Discord on Your Mac
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 4. Close the Finder window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Launchpad** from the Dock and select**Discord** from one of the pages. Or launch it[using Spotlight search on your Mac](https://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) .
@@ -66,26 +66,26 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  macOS's Gatekeeper might not let you install or run Discord right away. If you run into that problem or any other problems, read our guide on[installing third-party apps on a Mac](https://www.makeuseof.com/how-to-install-third-party-apps-mac/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 3: Sign Up or Sign In to Discord
 
 ![Discord's login page on the Mac app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-s-login-page-on-the-mac-app.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When Discord opens, you'll be greeted by its login page. If you already have an account, type in your email or phone number, enter your password, and click**Log In** to sign in.
 
  If you don't have an account, click**Register** at the bottom and fill in your details.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Started With Discord on Your Mac
@@ -109,16 +109,19 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-effortless-income-estimations-for-youtubers/"><u>[Updated] 2024 Approved Effortless Income Estimations for YouTubers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/g-clear-timestamps-to-your-youtube-channels-live-streams-for-2024/"><u>Adding Clear Timestamps to Your YouTube Channel's Live Streams for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-console-controller-synergy-for-playstation-and-switch/"><u>Cross-Console Controller Synergy for PlayStation & Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-to-expand-your-virtual-shopping-on-steam/"><u>Expert Tips to Expand Your Virtual Shopping on Steam</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/linkedin-more-than-jobs-and-networking-less-games/"><u>LinkedIn: More Than Jobs and Networking, Less Games?</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-multiplayer-with-ea-play-on-your-playstation-5-console/"><u>Mastering Multiplayer with EA Play on Your PlayStation 5 Console</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/revolutionize-your-green-space-with-the-best-solar-garden-irrigation-solutions-of-this-year/"><u>Revolutionize Your Green Space with the Best Solar Garden Irrigation Solutions of This Year!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/techniques-for-rapid-deletion-of-youtube-feedback-for-2024/"><u>Techniques for Rapid Deletion of Youtube Feedback for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s18e-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S18e for Parents | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-dialogue-to-sound-design-fcp-audio-editing-fundamentals/"><u>Updated In 2024, From Dialogue to Sound Design FCP Audio Editing Fundamentals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-perfect-proposal-to-perfection-8-best-weddings-online/"><u>[New] 2024 Approved The Perfect Proposal to Perfection 8 Best Weddings Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-craft-magical-time-lapse-video-using-a-gopro/"><u>[New] Craft Magical Time Lapse Video Using a GoPro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-genres-to-gems-building-a-personalized-youtube-music-mix-onlinemobile-for-2024/"><u>[New] From Genres to Gems Building a Personalized YouTube Music Mix Online/Mobile for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-motion-capture-top-gear-recommendations/"><u>[Updated] 2024 Approved Mastering Motion Capture - Top Gear Recommendations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-instant-folders-generation-hacks-for-windows-users/"><u>Boost Your Workflow: Instant Folders Generation Hacks for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/dodging-the-pitfalls-a-critique-of-intels-next-gen-cpus/"><u>Dodging the Pitfalls: A Critique of Intel's Next Gen CPUs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-firmware-and-drivers-for-your-hp-deskjet-3700-easy-guide-to-downloading/"><u>Get the Latest Firmware and Drivers for Your HP DeskJet 3700 - Easy Guide to Downloading</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-control-center-functionality-on-your-iphone-top-8-fixes/"><u>How To Restore Control Center Functionality on Your iPhone - Top 8 Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-when-basking-in-the-podcast-glow/"><u>In 2024, Best Practices When Basking in the Podcast Glow</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-virtual-reality-gaming-seamless-integration-for-steam-titles-on-meta-quest-xbox-series-x/"><u>Mastering Virtual Reality Gaming: Seamless Integration for Steam Titles on Meta Quest Xbox Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/pocket-friendly-mothers-for-all-star-gamers-pcs/"><u>Pocket-Friendly Mothers for All-Star Gamers' PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-basilisk-pro-review-gameplay-optimized-delays-minimized/"><u>Razer Basilisk Pro Review: Gameplay Optimized, Delays Minimized</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-of-epic-and-gog-on-steam-deck/"><u>Seamless Integration of Epic & GOG on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-titles-towns-winners-worlds/"><u>Top Titles Towns: Winner's Worlds</u></a></li>
 </ul></div>
 

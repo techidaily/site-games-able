@@ -1,7 +1,7 @@
 ---
 title: "Dissecting Steam Data: Playtime, Progress & Purchases Tracked"
-date: 2024-09-11T16:39:40.102Z
-updated: 2024-09-15T16:33:38.909Z
+date: 2024-11-02T17:23:00.484Z
+updated: 2024-11-05T18:25:17.246Z
 tags:
   - games
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 * [Steam's Year in Review Is Now Available](#steam-39-s-year-in-review-is-now-available)
 * [How to See Your Steam Stats for 2023](#how-to-see-your-steam-stats-for-2023)
 * [What You'll Find in Your 2023 Steam Year in Review](#what-you-39-ll-find-in-your-2023-steam-year-in-review)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,39 +53,33 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Just look for the email with the subject "**Your Steam Year In Review 2023 is Here!"** from**<noreply@steampowered.com>** . When you open it, press**See Your Year in Review** to see your report in your browser.
 
  If you didn't receive an email from Steam or can't find it, you can still see your Steam Year in Review 2023 by going to View Notifications (the bell icon beside your username) on the Steam app or Steam website and pressing**View All** .
 
 ![View Steam Year in Review in Steam Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/view-steam-year-in-review-in-steam-notifications.jpg)
 
- From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
-
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
 
 ## What You'll Find in Your 2023 Steam Year in Review
 
  Your Steam Year in Review 2023 report will show you basic statistics, like how many games you've played, your achievements, and your longest gaming streak. You should also see all your games and how much of your time you've spent playing them.
 
 ![Steam Year in Review What You Play and By the Numbers Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-what-you-play-and-by-the-numbers-section.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Interestingly, the report will also show the types of games you spent the most time in, as well as your participation in the Steam community. This includes the new friends you've added, screenshots you've shared, discussion posts you made, and[game reviews left on Steam](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) .
 
@@ -89,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 ![Sharing your Steam Year in Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/share-steam-year-in-review.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also share it directly on Facebook, X, Reddit, and on your Steam Friends Activity and Steam Profile Showcase. It also has a copy link button to directly share your Steam Year in Review 2023 page via messaging.
@@ -112,5 +113,18 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boost-your-gaming-presence-with-these-top-14-video-ideas/"><u>[Updated] 2024 Approved Boost Your Gaming Presence with These Top 14 Video Ideas</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-name-genius-brainstorming-like-a-pro/"><u>Channel Name Genius Brainstorming Like a Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722885708733-enhance-your-email-experience-with-unique-gmail-alert-tones-learn-how/"><u>Enhance Your Email Experience with Unique Gmail Alert Tones – Learn How</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fast-track-to-faster-pc-starts-optimizing-windows-11-boot-time/"><u>Fast Track to Faster PC Starts: Optimizing Windows 11 Boot Time</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-and-play-epic-games-and-gog-titles-on-your-steam-deck/"><u>How to Install and Play Epic Games and GOG Titles on Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/pick-the-perfect-partner-for-your-rpi-games-batocera-or-retropie/"><u>Pick the Perfect Partner for Your RPi Games: Batocera or RetroPie?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-game-tracker-apps-collection/"><u>Prime Game Tracker Apps Collection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stratagem-starter-kit-unboxing-business-growth/"><u>Stratagem Starter Kit Unboxing Business Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/using-glossi-for-steam-linked-xbox-game-pass-titles/"><u>Using GlosSI for Steam-Linked Xbox Game Pass Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-battle-against-game-freezes-and-crashes/"><u>Winning the Battle Against Game Freezes & Crashes</u></a></li>
+</ul></div>
 

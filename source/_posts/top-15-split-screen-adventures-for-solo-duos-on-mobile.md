@@ -1,7 +1,7 @@
 ---
 title: Top 15 Split-Screen Adventures for Solo Duos on Mobile
-date: 2024-09-08T16:42:52.710Z
-updated: 2024-09-15T16:44:19.246Z
+date: 2024-10-31T20:21:25.974Z
+updated: 2024-11-05T16:32:55.467Z
 tags:
   - games
 categories:
@@ -66,19 +66,6 @@ Close
 
 **Download:** Rocket League Sideswipe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.Psyonix.RL2D&hl=en) |[iOS](https://apps.apple.com/us/app/rocket-league-sideswipe/id1549027048) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Badland
 
 ![co op two player mode in badland](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/co-op-two-player-mode-in-badland.jpg)
@@ -108,32 +95,19 @@ Close
 ![words with friends 2 game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/words-with-friends-2-game.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![friends menu in words with friends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/friends-menu-in-words-with-friends.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -163,19 +137,26 @@ Close
 
 ![golf battle playing with a friend](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/golf-battle-playing-with-a-friend.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![option to challenge a friend on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/option-to-challenge-a-friend-on-golf-battle.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
+<span id="1982457">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![custom match on golf battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/custom-match-on-golf-battle.jpg)
@@ -210,6 +191,13 @@ Close
 
 ![dots and boxes with two players](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/09/dots-and-boxes-game-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Dots and Boxes turns a traditional childhood pen-and-paper game into a convenient way to kill time with your phone. With local multiplayer, two people can play the game using the same phone.
@@ -217,6 +205,19 @@ Close
  This offline functionality makes it useful when you don't have access to Wi-Fi. It's a simple, yet competitive and addictive game.
 
 **Download:** Dots and Boxes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://play.google.com/store/apps/details?id=com.outofthebit.dots) |[iOS](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU35591/https://itunes.apple.com/us/app/dots-and-boxes-classic-games/id625311640?mt=8) (Free)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Tank Stars
 
@@ -235,6 +236,13 @@ Close
 ![crossy road two player mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/crossy-road-two-player-mode.jpg)
 
 ![winner of crossy road two player match](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/winner-of-crossy-road-two-player-match.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -276,14 +284,14 @@ Close
 
 ![archery battle aiming for target](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/archery-battle-aiming-for-target.jpg)
 
-![two player match in archery battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-player-match-in-archery-battle.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![two player match in archery battle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/two-player-match-in-archery-battle.jpg)
 
 Close
 
@@ -296,6 +304,13 @@ Close
 ## 15\. 8 Ball Pool
 
 ![a 1v1 match in 8 ball pool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/a-1v1-match-in-8-ball-pool.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8 Ball Pool is another free mobile game for two players that lets you play against friends or strangers. You can invite friends to play via Facebook, adding them with a unique ID, or sending them a friend request link. Otherwise, you can add friends from the strangers you play online.
 
@@ -320,5 +335,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-top-10-dynamic-image-backdrops-viewer-for-2024/"><u>[New] Top 10 Dynamic Image Backdrops Viewer for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-5-winter-frameworks-for-comfortable-cinematography/"><u>[New] Top 5 Winter Frameworks for Comfortable Cinematography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-easy-guide-to-screenshots-and-recordings-with-macos/"><u>[Updated] Easy Guide to Screenshots & Recordings with macOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags/"><u>[Updated] In 2024, Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-best-pixel-soundtracks-online/"><u>[Updated] Navigating the Best Pixel Soundtracks Online</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-auditory-artistry-access-to-excellent-dj-video-samples/"><u>2024 Approved Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-best-photography-enhancers-for-ios-and-android-guide/"><u>2024 Approved The Best Photography Enhancers for iOS & Android Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-not-up-to-par-get-your-cash-back-from-xbox/"><u>Game Not Up to Par? Get Your Cash Back From Xbox</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-advancement-in-graphics-dlss-35-explained/"><u>Nvidia's Advancement in Graphics: DLSS 3.5 Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-evolution-rtx-takes-over-from-gtx/"><u>Nvidia's Evolution: RTX Takes Over From GTX</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-tech-showcase-ifa-2023-edition/"><u>Premier Tech Showcase - IFA 2023 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-xbox-capture-cards/"><u>The Best Xbox Capture Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/these-are-the-unique-features-you-need-to-look-for-in-a-gaming-keyboard/"><u>These Are the Unique Features You Need to Look for in a Gaming Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-ps5-screen-aesthetics/"><u>Transform PS5 Screen Aesthetics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/x-security-made-simple-changing-your-old-twitter-passcode-effectively/"><u>X Security Made Simple: Changing Your Old Twitter Passcode Effectively</u></a></li>
+</ul></div>
 

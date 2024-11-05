@@ -1,7 +1,7 @@
 ---
 title: "Gamers' Decision: Laser-Focused or Sturdy Levers?"
-date: 2024-09-14T16:50:42.181Z
-updated: 2024-09-15T17:00:38.218Z
+date: 2024-11-03T17:38:44.169Z
+updated: 2024-11-05T19:21:41.785Z
 tags:
   - games
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do Optical Switches Work?
 
  In contrast, optical switches use a process called light induction. When you press the key down, the stem (the part that would usually hit the keyboard) blocks a beam of infrared light. An infrared sensor then detects the lack of light and signals the key has been pressed to the computer.
@@ -47,6 +54,13 @@ So, which is better for gaming?
 
 Let's take a look at these four factors in closer detail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Durability
 
  The average lifespan of mechanical or optical keys depends largely on the manufacturer. That being said, most optical switches have a lifespan of around 100 million keystrokes. For example, Roccat rates its Titan Switch Optical for 100m keystrokes, as does Razer for its Razer Clicky and Linear Optical Switches.
@@ -54,13 +68,6 @@ Let's take a look at these four factors in closer detail.
  Leading mechanical switch manufacturer Cherry MX similarly rates its switches for 100m keystrokes, which is directly comparable to optical switches. However, that's Cherry; other mechanical keyboard switch brands, such as Kailh and Gatereon, typically deliver up to 60m keystrokes.
 
  Keep in mind, though, 60 million keystrokes equate to around 10 to 15 years of intense gaming or typing, which is probably going to be long enough for most people to feel they've made a good purchasing decision. Don't forget[hot-swappable keyboards allow you to swap out](https://www.makeuseof.com/why-you-need-hot-swappable-mechanical-keyboard/) the keyboard switches, so in the event you wear a switch out, you can just pop a new one in.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Speed
 
@@ -71,16 +78,10 @@ Let's take a look at these four factors in closer detail.
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feel and Noisiness
@@ -98,6 +99,13 @@ Let's take a look at these four factors in closer detail.
 ### Price and Availability
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 
@@ -132,5 +140,17 @@ Let's take a look at these four factors in closer detail.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-5-emulators-transforming-old-ps1-games-on-pcs/"><u>[New] Elite 5 Emulators Transforming Old PS1 Games on PCs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-extracting-images-from-videos-in-windows-11-photos-for-2024/"><u>[New] Extracting Images From Videos in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/7-key-advantages-of-subscribing-to-youtube-premium/"><u>7 Key Advantages of Subscribing to YouTube Premium</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-driver-updates-a-how-to-for-windows-10-and-windows-11/"><u>Effortless Driver Updates: A How-To for Windows 10 and Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-steps-for-unshakable-tiktok-account-shutdown-for-2024/"><u>Essential Steps for Unshakable TikTok Account Shutdown for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/retain-iphone-pictures-remove-from-icloud-a-step-by-step-guide/"><u>Retain iPhone Pictures, Remove From iCloud: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-and-testing-sony-inzone-h9-the-ultimate-gamers-choice-rivaling-iphone-pro-series/"><u>Unboxing and Testing Sony INZONE H9 – The Ultimate Gamer’s Choice, Rivaling iPhone Pro Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-savings-with-these-budget-friendly-gaming-mouse-picks-for-gamers-on-a-tight-budget-under-60-cnet/"><u>Unlock Savings with These Budget-Friendly Gaming Mouse Picks for Gamers on a Tight Budget: Under $60 | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-game-with-epos-gtw-270-top-tier-wireless-gaming-headphones-unleash-the-potential-on-zdnet/"><u>Upgrade Your Game with Epos Gtw 270: Top-Tier Wireless Gaming Headphones - Unleash the Potential on Zdnet</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnet-exclusive-roblox-unveils-innovative-ai-translator-for-live-conversations-in-16-different-tongues/"><u>ZDNet Exclusive: Roblox Unveils Innovative AI Translator for Live Conversations in 16 Different Tongues!</u></a></li>
+</ul></div>
 

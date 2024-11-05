@@ -1,7 +1,7 @@
 ---
 title: "Unearthing Indie Wonders: My Top Game Selections"
-date: 2024-10-24T00:55:38.518Z
-updated: 2024-10-30T19:30:30.720Z
+date: 2024-11-01T19:58:01.070Z
+updated: 2024-11-05T18:26:46.251Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 Last Word
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Untitled Goose Game
 
  It’s always worth watching various new games roundups like the Summer Games Fest or[Wholesome Games on YouTube](https://www.youtube.com/c/WholesomeGames) because, even if you’re not into everything shown, it’s always good to know what other people will be playing, and you might even discover a few new favorites for yourself.[Untitled Goose Game](https://goose.game/) is one of those titles, with a trailer that became so popular that developer House House Games ultimately ended up keeping the provisional title.
@@ -52,16 +59,16 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -71,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
  To do so you’ll need to collect feathers that make it possible to fly just a little bit higher each time, and to collect these you’ll explore a park’s various nooks and crannies and meet various other hikers and other park visitors. It’s a sweet reminder of family vacations past, with gameplay that is easy to understand but challenging to fully master (I still haven’t found all the feathers).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Storyteller
 
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
@@ -128,24 +128,24 @@ thumbnail: https://thmb.techidaily.com/eb94a6fed42a33c4c872605a3bb9b0ee6f8339a94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-music-unlocked-the-ultimate-library-for-videographers-for-2024/"><u>[New] Free Music Unlocked The Ultimate Library for Videographers for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/custom-logo-blueprints-draw-your-identity-from-free-formats-for-2024/"><u>Custom Logo Blueprints Draw Your Identity From Free Formats for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-mastery-button-mapping-techniques-for-android-gaming/"><u>Digital Mastery: Button Mapping Techniques for Android Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-steps-to-install-sd-on-steam-deck/"><u>Easy Steps to Install SD on Steam Deck</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-8-7-and-10-experience-with-updated-mf4770n-drivers/"><u>Enhance Windows 8, 7, & 10 Experience with Updated MF4770n Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-foddian-games-foundational-roots/"><u>Exploring Foddian Games' Foundational Roots</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-proplus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20 Pro+?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-share-your-pcs-mouse-and-keyboard-with-your-steam-deck-using-barrier/"><u>How to Share Your PC's Mouse and Keyboard With Your Steam Deck Using Barrier</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essential-list-7-leading-generators-for-nft-artworks/"><u>In 2024, The Essential List 7 Leading Generators for NFT Artworks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-tech-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Through Tech with Tom - A Trusted Source for Hardware Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/palworld-explained-in-detail/"><u>PalWorld Explained in Detail</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-game-share-setup-guide/"><u>PS5 Game Share Setup Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/seeking-realities-beyond-the-screen-sized-game-world/"><u>Seeking Realities Beyond the Screen-Sized Game World</u></a></li>
-<li><a href="https://games-able.techidaily.com/testing-the-genuineness-of-acemagics-gameplay-with-am08-pro/"><u>Testing the Genuineness of AceMagic's Gameplay with AM08 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-11-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 11 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/unpacking-sony-online-entertainments-monthly-fees/"><u>Unpacking Sony Online Entertainment's Monthly Fees</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-best-voice-changer-apps-for-iphone-and-android/"><u>Updated In 2024, Best Voice Changer Apps for iPhone and Android</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-stay-active-with-the-best-motion-tracking-apps-on-android-and-ios/"><u>Updated Stay Active with the Best Motion Tracking Apps on Android and iOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dive-deep-into-duality-mastering-multi-video-watching-on-youtube/"><u>[New] In 2024, Dive Deep Into Duality Mastering Multi-Video Watching on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-personalize-the-save-spot-of-mac-images-for-2024/"><u>[New] Personalize the Save Spot of Mac Images for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-superior-select-ringtone-makers-guidebook/"><u>[New] Superior Select Ringtone Makers' Guidebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-visual-appeal-in-facebook-slideshows/"><u>[Updated] Leveraging Visual Appeal in Facebook Slideshows</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-gaming-setup-on-xbox-series-x-a-comprehensive-guide-to-high-res-mode/"><u>Cutting-Edge Gaming Setup on Xbox Series X – A Comprehensive Guide to High Res Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-strategies-for-tracking-xbox-hours/"><u>Efficient Strategies for Tracking Xbox Hours</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722974052819-effortless-driver-installation-grab-your-usb-camera-software-today/"><u>Effortless Driver Installation: Grab Your USB Camera Software Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/exposing-inappropriate-behaviors-a-guide-to-series-sx-gamers/"><u>Exposing Inappropriate Behaviors: A Guide to Series S/X Gamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/improve-video-loading-times-in-instagram-for-2024/"><u>Improve Video Loading Times in Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-ddr5-motherboards-2024/"><u>Leading DDR5 Motherboards 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-steam-error-correction-in-windows-11/"><u>Mastering Steam Error Correction in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-minitool-movie-maker-review-a-comprehensive-look-and-best-alternatives/"><u>New Minitool Movie Maker Review A Comprehensive Look and Best Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/sidestep-seemingly-slow-summoners-startup/"><u>Sidestep Seemingly Slow Summoner's Startup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-essays-with-ai-assistance-gpt-methods/"><u>Tailoring Essays with AI Assistance: GPT Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-assist-controller-handbook-for-ps5/"><u>The Ultimate Assist Controller Handbook for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unseen-value-of-consoles-at-30hz/"><u>The Unseen Value of Consoles at 30Hz</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-really-signifies-being-offline-on-discord/"><u>What Really Signifies Being Offline on Discord?</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-(connector)-10-deactivating-touchpad-with-an-external-mouse-attached/"><u>Windows <Connector> 10: Deactivating Touchpad with an External Mouse Attached</u></a></li>
 </ul></div>
 

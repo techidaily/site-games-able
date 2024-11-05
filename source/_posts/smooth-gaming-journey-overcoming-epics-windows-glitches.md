@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Journey: Overcoming Epic's Windows Glitches"
-date: 2024-09-08T16:39:25.811Z
-updated: 2024-09-15T16:29:57.940Z
+date: 2024-11-01T17:24:03.937Z
+updated: 2024-11-05T17:36:24.806Z
 tags:
   - games
 categories:
@@ -43,6 +43,13 @@ Reopen the Epic Games Launcher and try using it.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check for App Updates
 
  Using an outdated version of Epic Games Launcher can also cause it to crash or freeze on Windows. Hence, it’s a good idea to update the Epic Games Launcher if you haven’t already. Here are the steps for the same.
@@ -53,16 +60,16 @@ Reopen the Epic Games Launcher and try using it.
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Fullscreen Optimizations
@@ -77,10 +84,10 @@ Reopen the Epic Games Launcher and try using it.
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
@@ -98,10 +105,10 @@ Reopen the Epic Games Launcher and try using it.
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Fix the D3DCOMPILER\_43.dll File
@@ -114,14 +121,14 @@ Reopen the Epic Games Launcher and try using it.
 4. Head to[Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
 
- Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
 ## 8\. Repair the Epic Games Launcher
 
@@ -137,18 +144,18 @@ Reopen the Epic Games Launcher and try using it.
 
  Follow the on-screen instructions to repair the launcher and try using it again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall the Epic Games Launcher
 
  If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on[how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
 
  After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to[Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Try Other Common Fixes
 
@@ -174,5 +181,20 @@ Reopen the Epic Games Launcher and try using it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>[Updated] 2024 Approved Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-dynamic-dialogues-keys-to-a-loving-podcast-following-for-2024/"><u>[Updated] Dynamic Dialogues Keys to a Loving Podcast Following for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-vr-cinematic-experiences-the-next-wave/"><u>2024 Approved VR Cinematic Experiences The Next Wave</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-truegolf-gaming-experience-save-big-at-just-200-discover-your-deal-now/"><u>Affordable TrueGolf Gaming Experience: Save Big at Just $200 - Discover Your Deal Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-alterations-for-an-enhanced-user-experience-in-gpt-plugins-store/"><u>Essential Alterations for an Enhanced User Experience in GPT Plugins Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-memorial-day-deal-get-your-nintendo-switch-oled-unit-for-just-118-from-walmart-insights-by-zdnet/"><u>Exclusive Memorial Day Deal: Get Your Nintendo Switch OLED Unit for Just $118 From Walmart - Insights by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-elite-list-of-2023s-ultimate-ps5-audio-devices-with-zdnets-review/"><u>Explore the Elite List of 2023'S Ultimate PS5 Audio Devices with ZDNet’s Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-soundscape-of-affordability-comprehensive-review-of-the-steelseries-arctis-nova-7-wireless-headset-for-all-heads-gadgetguruhub/"><u>Exploring the Soundscape of Affordability: Comprehensive Review of the SteelSeries Arctis Nova 7 Wireless Headset for All Heads | GadgetGuruHub</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-hp-victus-15-laptop-now-with-a-stunning-350-discount-only-at-best-buy-for-labor-day-celebration/"><u>Get the HP Victus ˈ15 Laptop Now With a Stunning $350 Discount Only at Best Buy for Labor Day Celebration</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-razr-40-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Razr 40 Ultra Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hp-victus-15l-desktop-laptops-price-slashed-by-almost-40-now-available-for-520-exclusive-deal-alert/"><u>HP Victus 15L Desktop Laptop's Price Slashed by Almost 40%, Now Available for $520 - Exclusive Deal Alert</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-what-matters-most-when-shopping-for-a-new-projector/"><u>The Ultimate Guide: What Matters Most When Shopping for a New Projector</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-loupedeck-live-an-in-depth-look-at-the-sophisticated-software-empowering-modern-content-makers-zdnet/"><u>Unveiling Loupedeck Live: An In-Depth Look at the Sophisticated Software Empowering Modern Content Makers - ZDNet</u></a></li>
+</ul></div>
 

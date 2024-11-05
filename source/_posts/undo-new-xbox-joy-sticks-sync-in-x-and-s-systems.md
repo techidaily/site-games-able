@@ -1,7 +1,7 @@
 ---
 title: Undo New Xbox Joy Sticks Sync in X and S Systems
-date: 2024-10-24T17:56:05.899Z
-updated: 2024-10-30T17:58:39.780Z
+date: 2024-11-04T17:28:23.087Z
+updated: 2024-11-05T20:48:58.431Z
 tags:
   - games
 categories:
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the Guide menu on an Xbox Series X with the option for Xbox Support highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3117.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under the options for**Get Help** , highlight**Help topics** and select**Hardware & networking** .
 
 ![A screenshot of the Xbox Support service on an Xbox Series X with Hardware And Netorking highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3120.jpg)
@@ -59,23 +66,30 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 ![A screenshot of the Controllers section of the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * From here, choose the option for **My Xbox controller has connection issues after the last update** .
 
 ![A screenshot of the controller troubleshooting options available within the Xbox Support app on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3126.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You will then be taken to the firmware settings page of the**Xbox Support** menus and be shown potential fixes for firmware issues your controller may be experiencing. You can use this settings page to revert the firmware of your Xbox Wireless Controller.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Revert Your Xbox Wireless Controller’s Firmware
@@ -87,24 +101,10 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 ![A screenshot of the option to check Xbox controller firmware within the Xbox Support app on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3129.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Your Xbox will then inform you whether your controller's firmware can be reverted. If it can, select**Revert firmware** .
 * A warning message will then appear. To confirm, select**Yes, revert firmware** .
 
  Your Xbox will then start reverting the firmware of your Xbox Wireless Controller. Once the process is finished, your controller will have been downgraded to the prior firmware update and any issues associated with the current firmware should be removed.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Maintain Your Xbox Controller Physically and Through Its Firmware
 
@@ -127,24 +127,21 @@ thumbnail: https://thmb.techidaily.com/2fbc3e6f44db715797c33edc684fdec869f92d47c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-instant-impact-facebook-vids/"><u>[New] 2024 Approved Instant Impact Facebook Vids</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-intenseflame-screen-recorders-for-2024/"><u>[Updated] IntenseFlame Screen Recorders for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-screen-replayer-apps-for-modern-web-surfing/"><u>[Updated] Top Screen Replayer Apps for Modern Web Surfing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-masterclass-conquering-one-device-livestream-challenges/"><u>2024 Approved Masterclass Conquering One-Device Livestream Challenges</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/8-best-wedding-videos-on-youtube-and-vimeo-for-2024/"><u>8 Best Wedding Videos on YouTube and Vimeo for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-issues-imovies-automatic-dimension-adjustments/"><u>Cutting Edge Issues IMovie’s Automatic Dimension Adjustments</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-stealthy-security-with-the-ultimate-smart-lock-solutions-for-iphone-expert-review-on-zdnet/"><u>Discover Stealthy Security with the Ultimate Smart Lock Solutions for iPhone - Expert Review on ZDNET</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-photoscape-the-premier-no-cost-photo-editing-suite/"><u>In-Depth Analysis of PhotoScape: The Premier No-Cost Photo Editing Suite</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-silent-no-auto-start-of-steam/"><u>Keep Silent: No Auto-Start of Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/learn-the-ins-and-outs-of-discord-setup-on-a-mac/"><u>Learn the Ins and Outs of Discord Setup on a Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-partners-the-best-of-companionable-gaming-on-smartphones-top-15-list/"><u>Perfect Partners: The Best of Companionable Gaming on Smartphones (Top 15 List)</u></a></li>
-<li><a href="https://games-able.techidaily.com/preeminent-benefits-five-ways-to-upgrade-your-gameplay/"><u>Preeminent Benefits: Five Ways to Upgrade Your Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-gaming-at-a-steal-innocn-39g1r/"><u>Quality Gaming at a Steal: InnoCN 39G1R</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-establishing-online-network-for-steam-on-win11/"><u>Re-Establishing Online Network for Steam on Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-your-ps4-gamepad-solutions-to-prevalent-control-troubles/"><u>Revive Your PS4 Gamepad: Solutions to Prevalent Control Troubles</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-blaze-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Blaze 2</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-gameplay-tracking-platforms/"><u>Superior Gameplay Tracking Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/tapping-beats-tablet-versus-mice-dominance/"><u>Tapping Beats: Tablet Versus Mice Dominance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/uncover-hidden-gems-a-selection-of-the-greatest-80s-films-for-modern-screening/"><u>Uncover Hidden Gems: A Selection of the Greatest '80S Films for Modern Screening</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fix-chrome-error-with-fb-videos/"><u>[Updated] In 2024, Fix Chrome Error with FB Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/cambio-gratuito-de-formato-mkv-a-avi-rapido-y-seguro-con-movavi/"><u>Cambio Gratuito De Formato MKV a AVI Rápido Y Seguro Con Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/core-clash-deciphering-which-chip-dominates-in-gaming/"><u>Core Clash: Deciphering Which Chip Dominates in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/finalizing-a-cleaner-steam-gaming-profile/"><u>Finalizing a Cleaner Steam Gaming Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-undoing-xbox-controller-updates/"><u>Guide to Undoing Xbox Controller Updates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/hevcandroid/"><u>HEVCフォーマットをAndroid上に適切に再生するための手順</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-herocam-pro-mastering-advanced-features/"><u>In 2024, HeroCam Pro Mastering Advanced Features</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-se-2020-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone SE (2020) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-xbox-game-pass-ultimate-your-next-step/"><u>Is Xbox Game Pass Ultimate Your Next Step?</u></a></li>
+<li><a href="https://games-able.techidaily.com/never-again-struggle-with-a-stuck-disc-in-series-x/"><u>Never Again Struggle with a Stuck Disc in Series X</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .doc file</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-for-joy-con-not-responding-to-nintendo-switch/"><u>Solutions for Joy-Con Not Responding to Nintendo Switch</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-on-resizing-and-converting-avi-videos-to-asf/"><u>Step-by-Step Tutorial on Resizing and Converting AVI Videos to ASF</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/triumphant-techniques-on-taming-the-wild-lynel-beasts-in-breath-of-the-wild/"><u>Triumphant Techniques on Taming the Wild Lynel Beasts in Breath of the Wild</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-your-steam-decks-full-potential-with-gear-upgrades/"><u>Unleashing Your Steam Deck's Full Potential with Gear Upgrades</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-use-ai-chatbots-to-generate-windows-11-keys/"><u>Why You Shouldn’t Use AI Chatbots to Generate Windows 11 Keys</u></a></li>
 </ul></div>
 

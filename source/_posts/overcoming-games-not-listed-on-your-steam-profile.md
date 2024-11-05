@@ -1,7 +1,7 @@
 ---
 title: Overcoming Games Not Listed on Your Steam Profile
-date: 2024-10-26T02:30:44.514Z
-updated: 2024-10-30T18:57:53.429Z
+date: 2024-10-30T20:36:04.041Z
+updated: 2024-11-05T17:03:48.554Z
 tags:
   - games
 categories:
@@ -52,13 +52,6 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
 7. As Steam begins to install the game, it will likely recognize the existing files and complete the installation without downloading the game files all again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Add an Existing Installation Folder
 
  You can[change the default game download location on Steam](https://www.makeuseof.com/how-to-change-game-download-location-steam/) to save large games on a different drive or partition. If you have moved your games previously or had a custom location to store game data , Steam won't be able to find the game files and will show them as uninstalled.
@@ -70,31 +63,39 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-settings.jpg)
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Select**Add Drive** from the drop-down options.  
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
 6. Click the drop-down in**Add a New Steam Library Folder** dialog, and select the**Let me choose another location** .  
 ![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
 7. Next, click the**Add** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Browse through your storage drives and select the Steam game folder you want to add.
 9. Click the**Select Folder** button to add the folder.
 
  Steam will look for the game files in the newly added folder. If found, it'll show them in your Steam library. If the game doesn’t appear immediately, relaunch the app and check your library again.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Manage the .acf Files for the Steam Games
@@ -110,21 +111,7 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-install-counter-strike.jpg)
 5. Next, hover your cursor over the**Library** tab and select**Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![pause steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/pause-steam-install-counter-strike.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click the**Pause** button to pause the download for the affected game.  
 ![exit steam jpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-steam-jpg.jpg)
@@ -135,12 +122,26 @@ C:\Program Files (x86)\Steam\steamapps\
 5. Inside the**SteamApps** folder, locate the**.acf file** associated with the affected Steam game. For example, the .acf file for the**Counter-Strike: Global Offensive** game is**appmanifest\_730.acf** .**730** is the appid (App ID) for this game. Similarly, all the games have different appid. You can find the appid for all the Steam games on[Steamdb.info](https://steamdb.info/apps/) .  
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.
 2. Next, launch the**Steam** app and open the**Library** tab. It will show the affected game as uninstalled.
 3. Exit the**Steam** client.
 4. Next, move the**appmanifest\_appid.acf** file back to the steamapps folder at**C:\\Program Files (x86)\\Steam\\steamapps\\** .  
 ![Steam install counter strike after moving acf file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Steam-install-counter-strike-after-moving-acf-file.jpg)
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Make Steam Recognize Installed Games
 
@@ -163,17 +164,20 @@ C:\Program Files (x86)\Steam\steamapps\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-capturing-honesty-a-comprehensive-guide-to-insta-self-verification-for-2024/"><u>[Updated] Capturing Honesty A Comprehensive Guide to Insta Self-Verification for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-undead-delight-the-best-zombie-games-reviewed/"><u>[Updated] In 2024, Undead Delight The Best Zombie Games Reviewed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-get-your-dream-content-creation-laptop-for-half-off-spotted-on-zdnet/"><u>Exclusive Deal Alert! Get Your Dream Content Creation Laptop for Half Off - Spotted on ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-how-does-heimvisions-a80s-sunrise-alarm-clock-enhance-your-wake-up-experience/"><u>Expert Review: How Does HeimVision’s A80S Sunrise Alarm Clock Enhance Your Wake-Up Experience?</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-service-stack-up-xbox-game-pass-versus-psplus-ultimate/"><u>Gaming Service Stack-Up: Xbox Game Pass Versus PS+ Ultimate</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-make-thumbnails-for-youtube-with-mobile-phones/"><u>How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-find-n3-flip-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Find N3 Flip Android SIM Unlock APK</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-gaming-giants-clash-4070-super-vs-titan-x-4080/"><u>Nvidia's Gaming Giants Clash: 4070 Super Vs. Titan X, 4080</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-manual-for-deleting-old-saved-files-from-ps5/"><u>Step-by-Step Manual for Deleting Old Saved Files From PS5</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/top-10-video-compression-tools-optimized-for-streaming-on-discord-with-movavi/"><u>Top 10 Video Compression Tools Optimized for Streaming on Discord with Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/unhook-from-realms-save-and-reload-your-adventures/"><u>Unhook From Realms, Save & Reload Your Adventures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-look-at-the-future-of-windows-10s-evolution/"><u>[New] A Look at the Future of Windows 10'S Evolution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pricing-outlook-cloud-vaults-of-2024/"><u>[New] Pricing Outlook Cloud Vaults of 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[Updated] 2024 Approved Step-by-Step Inserting Chapters in Vimeo Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-boost-engagement-with-effective-wirecast-broadcasts-on-fb/"><u>[Updated] In 2024, Boost Engagement with Effective Wirecast Broadcasts on FB</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/5pya6ygp44gq44ot44oh44kq5zyn57iu44k944ov44oi44ks6kal44gk44gr44kl77yb54sh5paz44gu44kq44oz44op44kk44oz44oe44o844or44go5l244ge44ke44gz44ge44og44kv44ol44od44kv.83/"><u>最適なビデオ圧縮ソフトを見つける！無料のオンラインツールと使いやすいテクニック</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-best-10-zero-ad-and-zip-cost-mobile-games/"><u>Explore the Best 10 Zero Ad & Zip Cost Mobile Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-fix-screen-driver-issues-in-latest-windows-oses/"><u>Guide to Fix Screen Driver Issues in Latest Windows OSes</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-steam-refunds-retrieving-your-earned-funds/"><u>Maximizing Steam Refunds: Retrieving Your Earned Funds</u></a></li>
+<li><a href="https://games-able.techidaily.com/microsoft-edge-vs-competitors-which-wins-in-gaming/"><u>Microsoft Edge vs Competitors: Which Wins in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-vs-microsoft-edge-what-is-the-best-gaming-browser/"><u>Opera GX Vs. Microsoft Edge: What Is the Best Gaming Browser?</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-iphone-functionality-with-cutting-edge-gaming-solutions/"><u>Revolutionize iPhone Functionality with Cutting-Edge Gaming Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-use-of-vpn-for-private-chatgpt-interactions/"><u>Strategic Use of VPN for Private ChatGPT Interactions?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722866210672-troubleshooting-the-infamous-cmos-checksum-mismatch-heres-how/"><u>Troubleshooting the Infamous CMOS Checksum Mismatch – Here's How</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-device-leads-on-hardware-features-ally-or-deck/"><u>Which Device Leads on Hardware Features, Ally or Deck?</u></a></li>
 </ul></div>
 

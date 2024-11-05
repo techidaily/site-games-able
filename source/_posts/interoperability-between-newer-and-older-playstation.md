@@ -1,7 +1,7 @@
 ---
 title: Interoperability Between Newer and Older PlayStation?
-date: 2024-09-12T16:35:29.784Z
-updated: 2024-09-15T16:03:32.297Z
+date: 2024-10-29T18:43:57.499Z
+updated: 2024-11-05T20:05:50.708Z
 tags:
   - games
 categories:
@@ -36,8 +36,24 @@ Here’s how to do that:
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
 ![signing in to the ps remote play app on pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sign-in-ps-remote-play-pc.jpg)
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Enjoy your game.
 
  The PS5 controller will now work on your PS4, but if you unplug it from your computer, it will lose the connection. Keep it plugged in at all times.
@@ -52,17 +68,24 @@ Here’s how to do that:
 2. Tap**PS4** for the app to search for your console and connect to it.  
 ![the sign in button on PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-sign-in-button-on-ps-remote-play-mobile-app.jpg)  
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
@@ -73,16 +96,16 @@ Close
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
+<span id="1983588">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use the DualSense Controller on PS4 the Hard Way
@@ -104,5 +127,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-novice-to-nifty-mastering-snapchats-digital-artistry-for-2024/"><u>[New] From Novice to Nifty Mastering Snapchat’s Digital Artistry for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-leading-names-in-4k-yt-video-to-mp3-tools-for-2024/"><u>Comparing Leading Names in 4K YT Video to MP3 Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-success-a-day-by-day-approach-to-nyt-connections/"><u>Crafting Success: A Day by Day Approach to NYT Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delights-or-dilemmas-discover-the-pros-and-cons-of-games/"><u>Digital Delights or Dilemmas? Discover the Pros & Cons of Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exploring-every-aspect-of-androids-recording-technology/"><u>Exploring Every Aspect of Android's Recording Technology</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-6-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 6 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-deck-variants/"><u>Navigating Steam Deck Variants</u></a></li>
+<li><a href="https://techtrends.techidaily.com/star-trek-series-marathon-watching-from-the-original-through-to-beyond/"><u>Star Trek Series Marathon: Watching From The Original Through to Beyond</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-guide-to-excellent-ipadiphone-interview-podcast-recording/"><u>Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/superior-websites-for-a-modern-social-experience-for-2024/"><u>Superior Websites for a Modern Social Experience for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secret-brilliance-behind-apple-vision-pro-discover-why-its-a-game-changer-insights-from-zdnet/"><u>The Secret Brilliance Behind Apple Vision Pro - Discover Why It's a Game Changer (Insights From ZDNet)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-dandd-guide-in-six-steps-using-gpt-assistance/"><u>The Ultimate D&D Guide in Six Steps Using GPT Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-oled-is-superior-to-traditional-monitors/"><u>Why OLED Is Superior to Traditional Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-link-failure-heres-how-to-resolve-it-for-pc/"><u>Xbox Link Failure? Here's How to Resolve It for PC</u></a></li>
+</ul></div>
 

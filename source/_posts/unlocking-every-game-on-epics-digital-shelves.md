@@ -1,7 +1,7 @@
 ---
 title: Unlocking Every Game on Epic’s Digital Shelves
-date: 2024-09-13T16:29:25.234Z
-updated: 2024-09-15T16:59:11.399Z
+date: 2024-11-01T20:33:05.852Z
+updated: 2024-11-05T20:07:06.082Z
 tags:
   - games
 categories:
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
  Then, relaunch the app and check if all of your games are now showing within the library.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Log Out and Log In to Epic Game
 
  Another quick fix that you can try is to log out and log back in. This way, you force Epic Games Launcher to verify your account information and display your complete library. Also, make sure you’ve logged in using the right account.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Unhide the Game Library
 
  Epic Games allows you to hide your games in case you don’t want a younger sibling to play games with inappropriate content. Or if you don’t want to lose your competitive rank. Either way, if you can’t find any games, you should check if you didn’t hide them.
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  In the Epic Games app, click on your profile icon and go to Settings. Then, from the**Preferences** section, uncheck the**Hide Game Library** option. Once you go back to your library, you should see your games list.
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Remove Library Filters
 
@@ -72,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -91,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
@@ -114,5 +121,20 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/1715860332756-updated-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[Updated] Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-note-13-proplus-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi Note 13 Pro+ 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/6kej5yaz5peg5rov5l255so55qe5yqo5ocb5a2y5yko6k6plus5ash6zeu6aky77ya6kplusm57ug5oyh5y2x/"><u>解决无法使用的动态存储设备问题：详细指南</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakthrough-language-barrier-solution-introducing-robloxs-innovative-ai-chat-translator-for-seamless-understanding-across-16-different-tongues/"><u>Breakthrough Language Barrier Solution: Introducing Roblox's Innovative AI Chat Translator for Seamless Understanding Across 16 Different Tongues</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-the-marvel-disney-universe-how-your-role-shapes-the-vision-pro-multiverse-insights-from-zdnet/"><u>Creating the Marvel-Disney Universe: How Your Role Shapes the Vision Pro Multiverse - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-opera-gx-stands-out-as-the-premier-choice-for-modern-smartphone-browsing-according-to-zdnets-analysis/"><u>Discover How Opera GX Stands Out as the Premier Choice for Modern Smartphone Browsing - According to ZDNet's Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-emotional-journey-awaits-best-memes-for-chuckles-and-sighs-on-ig/"><u>In 2024, Emotional Journey Awaits Best Memes for Chuckles and Sighs on IG</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/installation-rapide-et-facile-de-la-version-pro-convertisseur-video-mac-x-hd-sur-votre-ordinateur-sous-windows-achat-direct/"><u>Installation Rapide Et Facile De La Version Pro Convertisseur Vidéo Mac X HD Sur Votre Ordinateur Sous Windows - Achat Direct</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-big-on-the-hp-victus-15-top-tier-gaming-laptop-now-discounted-by-330-at-best-buy-learn-why-it-stands-out/"><u>Save Big on the HP Victus 15: Top-Tier Gaming Laptop Now Discounted by $330 at Best Buy – Learn Why It Stands Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-discounted-nintendo-switch-oled-save-60-exclusive-walmart-offer-this-labor-day-featured-by-zdnet/"><u>Secure Your Discounted Nintendo Switch OLED - Save $60! Exclusive Walmart Offer This Labor Day, Featured by ZDNet.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-instagram-editors-handbook-maximizing-video-impact/"><u>The Instagram Editor's Handbook Maximizing Video Impact</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-winegard-fl5500a-antenna-scrutinized-reliable-performance-with-excessive-price-points/"><u>The Winegard FL5500A Antenna Scrutinized: Reliable Performance with Excessive Price Points</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-televisions-featuring-the-best-value-under-a-grand-comprehensive-evaluation-by-experts-zdnet/"><u>Top-Rated Televisions Featuring the Best Value Under a Grand: Comprehensive Evaluation by Experts | ZDNet</u></a></li>
+</ul></div>
 

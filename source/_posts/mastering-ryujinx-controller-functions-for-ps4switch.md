@@ -1,7 +1,7 @@
 ---
 title: Mastering Ryujinx Controller Functions for PS4/Switch
-date: 2024-09-13T16:34:01.066Z
-updated: 2024-09-15T16:36:50.637Z
+date: 2024-11-01T21:21:38.191Z
+updated: 2024-11-05T16:26:28.041Z
 tags:
   - games
 categories:
@@ -40,16 +40,37 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
  Once you are done, select**Add** in the top-right of the**Configure** screen. You will then be prompted to name your controller configuration. Confirm your changes by selecting**Ok** followed by**Save** .
 
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
 
@@ -68,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
@@ -93,5 +114,19 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-the-power-of-your-everyday-webcam/"><u>[New] 2024 Approved Unlocking the Power of Your Everyday Webcam</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-experience-the-old-school-games-anywhere-with-best-in-class-pc-gb-emulators-for-2024/"><u>[New] Experience the Old School Games Anywhere with Best-in-Class PC GB Emulators for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-maintain-consistency-in-voice-posts-on-instagram-for-2024/"><u>[New] How to Maintain Consistency in Voice Posts on Instagram for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-art-of-vrecorder-integration-simple-download-and-use-tutorials-for-2024/"><u>[New] The Art of VRecorder Integration Simple Download & Use Tutorials for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-meaning-behind-pfp-in-todays-tiktok-world/"><u>[Updated] The Meaning Behind PFP in Today's TikTok World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beyond-the-couch-potato-life-activating-remote-access-for-samsung-televisions/"><u>Beyond the Couch Potato Life: Activating Remote Access for Samsung Televisions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-11-proplus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Realme 11 Pro+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-from-the-latest-gaming-survey-techworld/"><u>Insights From the Latest Gaming Survey | TechWorld</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-linux-nobara-offers-effortless-game-and-stream-setup-at-no-cost-with-a-minor-drawback-insights-from-zdnet/"><u>Mastering Linux: Nobara Offers Effortless Game & Stream Setup at No Cost, With a Minor Drawback – Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-labor-day-2024-television-bargains-expert-picks-from-zdnet/"><u>Top Labor Day 2024 Television Bargains: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-alert-xbox-and-game-pass-combo-on-amazon-fire-tv-stick-4k-bundle-at-up-to-32-off-now/"><u>Unbeatable Deal Alert! Xbox & Game Pass Combo on Amazon Fire TV Stick 4K Bundle at up to 32% Off Now!</u></a></li>
+</ul></div>
 

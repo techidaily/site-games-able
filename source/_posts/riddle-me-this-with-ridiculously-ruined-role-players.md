@@ -1,7 +1,7 @@
 ---
 title: Riddle Me This with Ridiculously Ruined Role-Players
-date: 2024-09-11T16:50:54.584Z
-updated: 2024-09-15T16:55:27.348Z
+date: 2024-10-29T16:50:01.863Z
+updated: 2024-11-05T18:33:11.261Z
 tags:
   - games
 categories:
@@ -44,6 +44,13 @@ Let’s explore some of the names leading the scene.
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
  Players control Diogenes’ sledgehammer with their mouse and nothing else. It can be rotated around a limited pivot but holds enough power to move the pot-dweller. As such, you’re meant to ascend steep hills and navigate tricky terrain with the sledgehammer alone.
@@ -55,6 +62,13 @@ Let’s explore some of the names leading the scene.
  So, if you want to sink deeper into this unique and intriguing game genre, Getting Over It is worth exploring—to say the least.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Pogostuck
 
@@ -68,16 +82,16 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -88,6 +102,13 @@ Let’s explore some of the names leading the scene.
  As such, they released a single-player mode that chains one of the penguins to a counterweight that a single player can control. This appeals to speedrunners who would prefer to trust in their skills alone during a run. The developers also released a timer as another quality-of-life addition for speedrunners.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Only Up
 
@@ -102,13 +123,6 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -129,5 +143,20 @@ Let’s explore some of the names leading the scene.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/crafting-new-tones-top-7-recording-changer-applications-reviewed-for-2024/"><u>Crafting New Tones Top 7 Recording Changer Applications Reviewed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/diminishing-xbox-game-bar-introspection-on-pcs-running-win-11/"><u>Diminishing Xbox Game Bar Introspection on PCs Running Win 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-component-shortfall-problem-on-oses/"><u>Eliminating Component Shortfall Problem on OSes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-powerhouse-behind-home-networking-in-depth-review-of-linksys-wrt3200acm-leading-open-source-routers-unveiled/"><u>Explore the Powerhouse Behind Home Networking: In-Depth Review of Linksys WRT3200ACM – Leading Open Source Routers Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portable-playstation-to-simulated-game-boy-ace/"><u>From Portable PlayStation to Simulated Game Boy Ace</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-privacy-in-online-gaming/"><u>Navigating Privacy in Online Gaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/precision-cutting-for-impressive-youtube-videos-for-2024/"><u>Precision Cutting for Impressive YouTube Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/precision-meets-portability-in-the-new-sabrent-mini-travel-mouse-with-superior-corded-connection/"><u>Precision Meets Portability in the New Sabrent Mini Travel Mouse with Superior Corded Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-gaming-excellence-unveiling-6-negative-aspects-of-macs/"><u>Rethinking Gaming Excellence: Unveiling 6 Negative Aspects of Macs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-mobile-experience-through-t-mobiles-unlimited-plan-including-metro-wireless-roaming/"><u>Seamless Mobile Experience Through T-Mobile's Unlimited Plan Including Metro Wireless Roaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-pc-gaming-on-steam-deck-remote-play-essentials/"><u>Unlock PC Gaming on Steam Deck: Remote Play Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-activating-audio-mixing-via-action-center/"><u>Windows 11: Activating Audio Mixing via Action Center</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/x-year-phone-photoshoot-oldiphone-x-edition/"><u>X-Year Phone Photoshoot – OldiPhone X Edition</u></a></li>
+</ul></div>
 

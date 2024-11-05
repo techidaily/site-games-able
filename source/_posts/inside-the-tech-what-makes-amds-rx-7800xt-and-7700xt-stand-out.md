@@ -1,7 +1,7 @@
 ---
 title: "Inside the Tech: What Makes AMD's RX 7800XT & 7700XT Stand Out"
-date: 2024-09-10T16:21:31.281Z
-updated: 2024-09-15T16:31:26.670Z
+date: 2024-11-03T19:59:30.383Z
+updated: 2024-11-05T17:42:04.117Z
 tags:
   - games
 categories:
@@ -63,11 +63,25 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
  On the contrary, the RX 7700 XT presents a compelling upgrade path from the previous-gen RX 6700 XT and its mid-gen refresh—the RX 6750 XT—albeit at a $100 price premium. Nevertheless, it remains to be seen whether AMD has truly delivered a noteworthy generational uplift or inadvertently launched a costly sidegrade like Nvidia's much-maligned GeForce RTX 4060 Ti.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## RX 7800 XT vs. RX 7700 XT: Gaming Performance
 
  According to AMD's internal benchmarks, the Radeon RX 7800 XT engages in a back-and-forth battle with Nvidia's $600 RTX 4070, whereas the RX 7700 XT stands favorably against the $500 RTX 4060 Ti 16GB variant. More importantly, both GPUs demonstrate the ability to surpass the 60 FPS threshold at 1440p, "Ultra" settings in a range of recent AAA titles.
 
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
@@ -75,21 +89,28 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ![RX 7800 XT vs. RTX 4070 Performance Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7800-xt-vs-rtx-4070.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Furthermore, AMD's performance figures for the RX 7800 XT put it in a formidable position against the RTX 4070, showcasing a 9% advantage in rasterization and a 6% deficit in select RT titles. Although the average gain isn't as impressive as seen in the previous slide, the RX 7800 XT undercuts Nvidia's upper mid-range offering by around $100.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
+<span id="1531882">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RX 7800 XT vs. RX 7700 XT: Pricing and Availability
@@ -99,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
  Regardless, AMD's mid-tier graphics cards are set to hit the market on September 6, 2023\. To sweeten the deal further, Team Red will also include a free copy of Bethesda's long-awaited space RPG, Starfield, with the purchase of these GPUs.
 
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
 
@@ -126,5 +140,22 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-craftsmanship-incorporating-descriptive-texts/"><u>[New] In 2024, Instagram Craftsmanship Incorporating Descriptive Texts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-speed-up-instagram-videos-on-desktop-effective-techniques/"><u>[Updated] 2024 Approved Speed Up Instagram Videos on Desktop Effective Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[Updated] Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-there-boundaries-to-the-capabilities-of-the-wireless-steelseries-aerox-5-insights-and-review-by-zdnet/"><u>Are There Boundaries to the Capabilities of the Wireless SteelSeries AeroX ^5? Insights & Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-gaming-power-of-this-samsung-projector-save-200-on-labor-day-deal-zdnet/"><u>Discover the Hidden Gaming Power of This Samsung Projector - Save $200 on Labor Day Deal | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-labor-day-deal-grab-your-nintendo-switch-oled-for-just-60-at-walmart-insider-tips-from-zdnet/"><u>Exclusive Labor Day Deal: Grab Your Nintendo Switch OLED for Just $60 at Walmart - Insider Tips From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-evaluation-of-samsung-galaxy-tab-a-2020-uncovered-lacking-functionality/"><u>Expert Evaluation of Samsung Galaxy Tab A (2020): Uncovered Lacking Functionality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-printer-driver-not-found-on-your-windows-pc-fixed/"><u>How to Overcome 'Printer Driver Not Found' On Your Windows PC [FIXED]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-safeguard-your-files-discover-the-five-best-ways-to-back-up-and-protect-your-data/"><u>How to Safeguard Your Files: Discover the Five Best Ways to Back Up and Protect Your Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-at-sonys-latest-marvel-playstation-5-pro-key-specifications-cost-analysis-and-launch-timeline-covered/"><u>In-Depth Look at Sony's Latest Marvel: PlayStation 5 Pro - Key Specifications, Cost Analysis & Launch Timeline Covered</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-video-trimming-and-merging-tools-for-beginners-2023-update/"><u>New In 2024, Free Video Trimming and Merging Tools for Beginners (2023 Update)</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-an-interactive-quiz-or-game-based-activity-that-reinforces-the-students-knowledge-of-periodic-trends-particularly-focabulary-related-to-reactivit91/"><u>Organizing an Interactive Quiz or Game-Based Activity that Reinforces the Students' Knowledge of Periodic Trends, Particularly Focabulary Related to Reactivity Series, and Allows Them to Apply This Information in a Fun and Competitive Environment.</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-gaming-preference-shift-windows-11-surpasses-windows-10-in-popularity-zdnet/"><u>PC Gaming Preference Shift: Windows 11 Surpasses Windows 10 in Popularity | ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pinterest-content-powered-free-high-speed-download-apps-reviewed-for-2024/"><u>Pinterest Content Powered Free, High-Speed Download Apps Reviewed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/zdnets-comprehensive-steelseries-aerox-eblishing-itself-as-the-optimal-choice-for-gamers-seeking-unparalleled-performance-in-mmomoba-titles/"><u>ZDNet's Comprehensive SteelSeries Aerox Eblishing Itself as the Optimal Choice for Gamers Seeking Unparalleled Performance in MMO/MOBA Titles</u></a></li>
+</ul></div>
 

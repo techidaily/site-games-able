@@ -1,7 +1,7 @@
 ---
 title: Understanding Your Friends' Digital Whereabouts on Xbox
-date: 2024-09-09T16:43:42.029Z
-updated: 2024-09-15T16:15:15.380Z
+date: 2024-10-29T17:15:53.544Z
+updated: 2024-11-05T20:33:48.255Z
 tags:
   - games
 categories:
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Look Through Your Xbox Friend’s Achievements
 
  While the past few methods help you to tell if someone is appearing offline for a long period, there are more direct ways to tell if people are offline on Xbox.
@@ -63,20 +70,27 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
@@ -91,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
 
 ![A screenshot of the Gaming option available on Xbox Series X when comparing two Xbox Profiles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3169.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Scroll down the on-screen gaming stats until you find**Time played** .
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
@@ -123,5 +137,26 @@ thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-blurry-edges-to-squared-perfection-the-imovie-guide-for-instagram-videos/"><u>[New] 2024 Approved From Blurry Edges to Squared Perfection The iMovie Guide for Instagram Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-smart-shoppers-guide-to-camcorder-choices-in-winter/"><u>[Updated] In 2024, The Smart Shopper's Guide to Camcorder Choices in Winter</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-speed-instant-signature-background-cleanup/"><u>2024 Approved Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-game-boy-archives-on-linux/"><u>Decode Game Boy Archives on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-features-in-logitechs-best-mouse/"><u>Exclusive Features in Logitech's Best Mouse</u></a></li>
+<li><a href="https://fox-search.techidaily.com/expertentaugliche-methoden-zur-fehlerbeheilung-externer-datenspeichergerate-mit-sicherem-datenerhalt/"><u>Expertentaugliche Methoden Zur Fehlerbeheilung Externer Datenspeichergeräte Mit Sicherem Datenerhalt</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-outlook-will-gaming-pcs-cost-more/"><u>Future Outlook: Will Gaming PCs Cost More?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-missing-or-not-detected-ocidll-files/"><u>Guide to Correcting Missing or Not Detected Oci.Dll Files</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-zte-nubia-flip-5g-frp-bypass-by-drfone-android/"><u>In 2024, About ZTE Nubia Flip 5G FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-legion-go-the-tech-leaders-dream-tablet/"><u>Lenovo Legion Go: The Tech Leader's Dream Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-gaming-triumphs-except-for-the-unseen-restrictions-in-fortnite/"><u>Mac Gaming Triumphs – Except for the Unseen Restrictions in Fortnite</u></a></li>
+<li><a href="https://games-able.techidaily.com/mechanical-marvel-the-game-changing-blackwidow-v4/"><u>Mechanical Marvel: The Game Changing BlackWidow V4</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-youtube-content-for-instagram-platforms/"><u>Optimizing YouTube Content for Instagram Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/snapplay-vintage-retro-games-anywhere-anytime/"><u>SnapPlay Vintage: Retro Games Anywhere, Anytime</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-myths-the-unnecessary-complexity-of-ray-tracing/"><u>Top 7 Myths: The Unnecessary Complexity of Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-a-superior-gameplay-experience-with-these-5-reasons-to-purchase/"><u>Unleash a Superior Gameplay Experience with These 5 Reasons to Purchase!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-sync-up-the-best-lip-sync-video-maker-apps/"><u>Updated In 2024, Sync Up! The Best Lip Sync Video Maker Apps</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/iuocpuocpplusodluocteocpoodioobruasoowmgumamuefptog5yq55p6c55qe44gq5qsc57si5oim55wl44ks5a2m44g2ig/"><u>ウェブサイトの欠如通知: 効果的な検索戦略を学ぶ</u></a></li>
+</ul></div>
 

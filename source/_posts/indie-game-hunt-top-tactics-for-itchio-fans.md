@@ -1,7 +1,7 @@
 ---
 title: "Indie Game Hunt: Top Tactics for Itch.io Fans"
-date: 2024-10-26T22:19:05.412Z
-updated: 2024-10-30T21:50:43.912Z
+date: 2024-10-31T17:10:12.215Z
+updated: 2024-11-05T19:33:49.163Z
 tags:
   - games
 categories:
@@ -38,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 Use Tags and Filters
@@ -58,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
@@ -75,27 +69,26 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Check Out Game Bundles
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
 
@@ -106,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5 Follow Developers
 
@@ -130,7 +116,27 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Check Out Community Recommendations
 
@@ -153,19 +159,24 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-analysis-of-directed-motion-tracking/"><u>[New] Comprehensive Analysis of Directed Motion Tracking</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-discover-the-joy-of-mobile-podcasts-for-2024/"><u>[New] Discover the Joy of Mobile Podcasts for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-insights-into-youtube-live-image-crafting/"><u>[Updated] Essential Insights Into YouTube Live Image Crafting</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-podcast-name-creation-and-50plus-dynamic-example-titles/"><u>2024 Approved Mastering the Art of Podcast Name Creation & 50+ Dynamic Example Titles</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-outlining-operational-offshoots/"><u>2024 Approved Outlining Operational Offshoots</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-roadmap-for-effective-advertising-on-facebook/"><u>2024 Approved The Roadmap for Effective Advertising on Facebook</u></a></li>
-<li><a href="https://app-tips.techidaily.com/a-beginners-guide-to-using-dashlane-unraveling-its-pricing-structure-and-features-as-explained-by-zdnet/"><u>A Beginner's Guide to Using Dashlane: Unraveling Its Pricing Structure and Features as Explained by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-potential-risks-and-benefits-of-long-term-cannabinoid-use/"><u>Evaluating the Potential Risks and Benefits of Long-Term Cannabinoid Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/funimate-unlocking-the-secrets-of-easy-downloads-for-2024/"><u>Funimate Unlocking the Secrets of Easy Downloads for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-realms-pass-like-shadows-should-we-linger/"><u>Game Realms Pass Like Shadows, Should We Linger?</u></a></li>
-<li><a href="https://games-able.techidaily.com/insights-into-the-workings-of-xboxs-gaming-cloud/"><u>Insights Into the Workings of Xbox's Gaming Cloud</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-sonys-financial-options-for-games/"><u>Navigating Sony's Financial Options for Games</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-ideal-sony-vegas-substitute-for-windows/"><u>New Discover the Ideal Sony Vegas Substitute for Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/personalized-gpu-temperature-control-boost-gaming-speed/"><u>Personalized GPU Temperature Control: Boost Gaming Speed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-footprints-on-instagram-effective-photo-watermarking/"><u>[New] 2024 Approved Digital Footprints on Instagram Effective Photo Watermarking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-strategy-dominion-discovering-the-7-pinnacle-conflicts-for-2024/"><u>[New] Strategy Dominion Discovering the 7 Pinnacle Conflicts for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-converter-convert-twitter-video-to-audiomp4webm/"><u>[New] Twitter Video Converter | Convert Twitter Video to Audio/MP4/WebM</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-adding-music-to-photo-online/"><u>[Updated] In 2024, Adding Music to Photo Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unleashing-potential-a-thorough-look-at-sj-cam-s6/"><u>[Updated] In 2024, Unleashing Potential A Thorough Look at SJ-CAM S6</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-and-overcoming-4-predominant-gpu-hurdles/"><u>Deciphering and Overcoming 4 Predominant GPU Hurdles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-overcoming-the-challenge-of-minecraft-installation-issues-on-windows-11/"><u>Fixes and Solutions: Overcoming the Challenge of Minecraft Installation Issues on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmony-and-input-which-for-games/"><u>Harmony and Input: Which for Games?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-avoiding-misdated-memories-with-exact-times/"><u>In 2024, Avoiding Misdated Memories with Exact Times</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-enhancing-visuals-with-paradox-creation/"><u>In 2024, Enhancing Visuals with Paradox Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-mobile-photos-with-best-iphone-cameras-x-7plus/"><u>Mastering Mobile Photos with Best iPhone Cameras (X, 7+)</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-the-fun-playing-old-school-xbox-on-a-modern-computer/"><u>Rediscover the Fun: Playing Old-School Xbox on a Modern Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/resurrect-your-vanished-wordle-streaks-efficiently/"><u>Resurrect Your Vanished Wordle Streaks Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/rethinking-display-choices-top-6-considerations-for-gamers/"><u>Rethinking Display Choices: Top 6 Considerations for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-remote-play-via-steam-deck/"><u>The Ultimate Guide to Remote Play via Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfreezing-hangs-in-win10win11-addressing-error-code-0x887a0006/"><u>Unfreezing Hangs in Win10/Win11: Addressing Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-more-content-funding-and-buying-strategies/"><u>Unlocking More Content: Funding & Buying Strategies</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-file-management-in-adobe-premiere-import-edit-and-export-like-a-pro/"><u>Updated Video File Management in Adobe Premiere Import, Edit, and Export Like a Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-streak-tackling-low-frame-rates-on-windows-for-valorant-players/"><u>Winning Streak: Tackling Low Frame Rates on Windows for Valorant Players</u></a></li>
 </ul></div>
 
