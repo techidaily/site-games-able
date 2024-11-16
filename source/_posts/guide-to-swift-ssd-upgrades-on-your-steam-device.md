@@ -1,7 +1,7 @@
 ---
 title: Guide to Swift SSD Upgrades on Your Steam Device
-date: 2024-09-09T16:39:39.033Z
-updated: 2024-09-15T16:55:42.441Z
+date: 2024-11-11T02:34:10.802Z
+updated: 2024-11-16T02:51:56.603Z
 tags:
   - games
 categories:
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
  If you're looking to install a bigger[SSD for your Steam Deck](https://www.makeuseof.com/best-ssd-for-steam-deck/) , clone your old one to it first so that you can immediately start downloading new games to it instead of sitting fussing about installing SteamOS.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Clone Your Steam Deck's SSD to a New One
 
  Cloning your old SSD to your new one will save you so much time. You won’t need to experience the time-consuming process of manually imaging SteamOS, logging in, waiting for updates, and getting all your old settings right. Here’s how you can do it...
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 1: Download Macrium Reflect on a Separate PC
 
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
  On the PC, we’re going to use Macrium Reflect to clone the old SSD onto the new one.
 
 ![Macrium Reflect trial download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/macrium-reflect-trial-download-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Register and create a[Macrium Reflect](https://manage.macrium.com/) account and download the free trial as it has everything you need for this process.
 
@@ -93,28 +86,28 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![Image this disk button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/image-this-disk-button-on-macrium-reflect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, turn on your PC and open up Macrium Reflect. Select your old Steam Deck SSD in the drives list and click on**Image this disk…** below it.
 
  It will ask you where you want to save your image file. I chose to make a new folder so that I would remember where to get it from later. Macrium Reflect compresses images down to 40% of their original size, so make sure to have at least that much available space where you save it.
 
 ![Prompt before running backup image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/prompt-before-running-backup-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Name your backup image and click OK until it starts creating the image file. It can take anywhere from a few minutes to about an hour depending on the size of the drive and how much is on it. My 64GB SSD only took about five minutes.
 
  If your motherboard has two SSD slots, you can click**Clone this Disk** **...** instead of imaging. You can then follow similar steps, but skip the image restoration process by directly copying the partitions of the old SSD to the new one. This method is faster as it'll do the cloning in one step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Restore Your Backup Image to Your New SSD
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![Restore image tab on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-image-tab-on-macrium-reflect-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Open up Macrium Reflect, and on the top menu bar, click**Restore** **\> Browse for an image or backup file to restore…** .
 
 ![Restore button on Macrium Reflect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/restore-button-on-macrium-reflect-1.jpg)
@@ -139,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![Select a disk to restore to-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/select-a-disk-to-restore-to-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  A pop-up will appear, allowing you to choose where you want to restore the image to. Click on**Select a disk to restore to…** , and choose your new SSD.
 
 ![Copying partitions to new disk-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/copying-partitions-to-new-disk-1.jpg)
@@ -146,6 +153,13 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
  Click on**Copy partitions** **\> Exact Offset and Length** . This will visualize the partitions on the new SSD. Don’t worry about the empty space, leave that blank as SteamOS will immediately utilize it once you boot up your Steam Deck.
 
  Click on**Next** until the**Finish** button is clickable. This will start pasting the image onto the new SSD. It can take a while depending on how big the whole operation is.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 4: Insert Your New SSD Into Your Steam Deck
 
@@ -164,16 +178,10 @@ Jhet Borja/MakeUseOf
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -195,5 +203,24 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-preeminent-sites-to-amplify-youtube-traffic/"><u>[New] Preeminent Sites to Amplify YouTube Traffic</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-syma-x8c-sensor-technology/"><u>[New] Understanding Syma X8C Sensor Technology</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-visual-storytelling-editing-techniques-for-educators/"><u>[New] Visual Storytelling Editing Techniques for Educators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-serene-pc-gaming/"><u>[Updated] 2024 Approved The Ultimate List of Serene PC Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-inside-look-key-aspects-of-srt-mastery/"><u>[Updated] Inside Look Key Aspects of SRT Mastery</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-cooling-configurations-for-peak-system-response/"><u>Custom Cooling Configurations for Peak System Response</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755507-9791028521622-explorez-vos-vies-anterieures/"><u>Explorez vos vies antérieures | Free Book</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-economical-mothers-for-gamers-setup/"><u>Innovative, Economical Mothers for Gamers' Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-charge-adapters-for-next-gen-gadgets/"><u>Premium Charge Adapters for Next-Gen Gadgets</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-prioritizing-cpu-or-gpu-upgrades/"><u>Pushing Boundaries: Prioritizing CPU or GPU Upgrades</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-mobile-entertainment-revealed/"><u>Sony's Mobile Entertainment Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-gaming-shades-with-uv-coverage/"><u>Superior Gaming Shades with UV Coverage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-art-of-slow-motion-a-guide-for-instagrams-next-viral-reels-for-2024/"><u>The Art of Slow-Motion A Guide for Instagram's Next Viral Reels for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-and-personalizing-your-xbox-display-settings/"><u>Understanding and Personalizing Your Xbox Display Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-stacked-selecting-best-budget-pc-boards/"><u>Value Stacked: Selecting Best Budget PC Boards</u></a></li>
+</ul></div>
 

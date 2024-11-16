@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Summer Deals on Your PS Games
-date: 2024-10-24T02:46:07.716Z
-updated: 2024-10-25T02:51:28.086Z
+date: 2024-11-10T02:21:26.579Z
+updated: 2024-11-16T00:10:38.148Z
 tags:
   - games
 categories:
@@ -29,24 +29,31 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
 
@@ -60,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -105,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -130,21 +130,18 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-building-bonds-youtube-and-brands-in-unity-for-2024/"><u>[New] Building Bonds YouTube and Brands in Unity for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-embed-musical-layers-into-premiere-pro-productions/"><u>[New] In 2024, Embed Musical Layers Into Premiere Pro Productions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-next-gen-gpus-for-crystal-clear-4k/"><u>[New] In 2024, Next-Gen GPUs for Crystal Clear 4K</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-xsplit-archive-expert-analysis-and-downloads-for-2024/"><u>[New] XSplit Archive Expert Analysis & Downloads for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovations-in-vr-a-deep-dive-into-the-best-engine-updates/"><u>[Updated] Innovations in VR A Deep Dive Into the Best Engine Updates</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-storm-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Storm 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/3gpm4a/"><u>手軽な変換テクニック: 3GPファイルからM4Aにする方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-generative-ai-what-you-need-to-know/"><u>Exploring the World of Generative AI: What You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/extending-nintendo-switch-battery-health/"><u>Extending Nintendo Switch Battery Health</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-fun-gameplay-to-successful-titles-lessons-from-helldivers-2s-journey/"><u>From Fun Gameplay to Successful Titles: Lessons From Helldivers 2'S Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-playstation-to-your-desktop-ps4-controller-guide/"><u>From PlayStation to Your Desktop: PS4 Controller Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/identifying-cpu-overload-effects-on-pc-speed/"><u>Identifying CPU Overload Effects on PC Speed</u></a></li>
-<li><a href="https://games-able.techidaily.com/industry-titans-or-inevitable-oligopoly-in-gaming-expert-panel-discussion/"><u>Industry Titans or Inevitable Oligopoly in Gaming? [Expert Panel Discussion]</u></a></li>
-<li><a href="https://games-able.techidaily.com/ownership-odyssey-in-the-gaming-galaxy/"><u>Ownership Odyssey in the Gaming Galaxy</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/pro-live-pairings-expertly-curated-tools-and-devices-lists-for-2024/"><u>Pro Live Pairings Expertly Curated Tools and Devices Lists for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ready-for-combat-top-10-must-try-free-online-fps-games/"><u>Ready for Combat? Top 10 Must-Try Free Online FPS Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/combat-profiles-hitbox-vs-streamer-supremacy/"><u>Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-steams-metrics-insights-on-playtime-and-points-earned/"><u>Demystifying Steam's Metrics: Insights on Playtime and Points Earned</u></a></li>
+<li><a href="https://win-community.techidaily.com/easy-conversion-tools-adapt-videos-for-flawless-playback-on-windows-media-player/"><u>Easy Conversion Tools: Adapt Videos for Flawless Playback on Windows Media Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-steam-cloud-connectivity-fails/"><u>Eliminating Steam Cloud Connectivity Fails</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-for-brother-hl-l23dw-printer-step-by-step-tutorial/"><u>Get the Latest Drivers for Brother HL-L23_DW Printer - Step by Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-collect-and-leverage-steam-credits/"><u>How to Collect and Leverage Steam Credits</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-infinix-gt-10-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Infinix GT 10 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/npc-neighbors-network-five-friendly-mc-gameplay-styles/"><u>NPC Neighbors' Network: Five Friendly MC Gameplay Styles</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-10-hang-issues-a-comprehensive-guide-to-get-it-running-smoothly-again/"><u>Solving Windows 10 Hang Issues: A Comprehensive Guide to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/speaking-up-procedure-to-address-player-misconduct-xbox/"><u>Speaking Up: Procedure to Address Player Misconduct (Xbox)</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-controller-enabled-phone-games-selection/"><u>Top Controller-Enabled Phone Games Selection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-undetected-steam-vr-devices-on-windowsmac/"><u>Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac</u></a></li>
 </ul></div>
 

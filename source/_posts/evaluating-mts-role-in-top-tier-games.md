@@ -1,7 +1,7 @@
 ---
 title: Evaluating MTs' Role in Top-Tier Games
-date: 2024-09-09T09:42:18.623Z
-updated: 2024-09-10T09:42:18.623Z
+date: 2024-11-09T01:26:45.831Z
+updated: 2024-11-15T16:50:28.489Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Game Development Insights,Elite Gaming Technology,Pro Gamers & Tools,H
 thumbnail: https://thmb.techidaily.com/ff4b473fea2e89c79aee76abe0eab2251a21420b8834da223e912daed0885bd1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Evaluating MTs' Role in Top-Tier Games
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
@@ -64,6 +52,13 @@ But what about premium games? Should they have microtransactions?
 
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
  The DLC caused a lot of uproar on the internet and became something of a meme representing video game features that are useless and overpriced. However, reports indicate that the DLC was still a huge financial success.
@@ -72,12 +67,6 @@ But what about premium games? Should they have microtransactions?
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -87,11 +76,12 @@ But what about premium games? Should they have microtransactions?
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -105,11 +95,12 @@ But what about premium games? Should they have microtransactions?
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
  Battle passes in games like these use fear of missing out and other psychological tricks to make you purchase them. It’s basically like Horse Armor all over again since you’re paying for skins and cosmetics, which only you will see.
@@ -121,11 +112,12 @@ But what about premium games? Should they have microtransactions?
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
@@ -142,14 +134,11 @@ But what about premium games? Should they have microtransactions?
 
  This is proof that it’s not necessary, and the companies behind these games can still make good money without tainting the sanctity of their craft. Hopefully, we will see a reduction in this trend in the future, but for now, we can only discourage it by not indulging.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +147,19 @@ But what about premium games? Should they have microtransactions?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-quick-and-accurate-audio-to-text-conversion-on-youtube-free-methods/"><u>[Updated] In 2024, Quick and Accurate Audio-to-Text Conversion on YouTube – Free Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-remedy-screen-disruptions-during-live-streams-for-2024/"><u>[Updated] Remedy Screen Disruptions During Live Streams for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-power-of-personal-storytelling-in-video-content/"><u>[Updated] The Power of Personal Storytelling in Video Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/ecoled-gamingpanel-mini-led-big-savings/"><u>EcoLED GamingPanel: Mini-LED, Big Savings!</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-ps5-costs-after-resolving-shortages/"><u>Future PS5 Costs After Resolving Shortages</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-overcome-realtek-hd-driver-malfunctions-and-enjoy-flawless-gaming-solved/"><u>How to Overcome Realtek HD Driver Malfunctions and Enjoy Flawless Gaming [Solved]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-a14-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy A14 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-apple-vision-pro-with-vpn-a-comprehensive-installation-guide-and-advantages-zdnet/"><u>Secure Your Apple Vision Pro with VPN: A Comprehensive Installation Guide and Advantages | ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-advice-for-connecting-gamepads-on-androids/"><u>Tailored Advice for Connecting Gamepads on Androids</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quest-for-availability-tracking-xbox-users/"><u>The Quest for Availability: Tracking Xbox Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-lite-android-gaming-software-for-pc-and-mac/"><u>Top 8 Lite Android Gaming Software for PC & Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-new-with-the-lightweight-meta-quest-3-unveiling-projections-on-cost-and-launch-timeline/"><u>What's New with the Lightweight Meta Quest 3? Unveiling Projections on Cost and Launch Timeline</u></a></li>
+</ul></div>
 

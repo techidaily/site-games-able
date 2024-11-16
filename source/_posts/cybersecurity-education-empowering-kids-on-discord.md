@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Education: Empowering Kids on Discord"
-date: 2024-09-09T09:42:11.948Z
-updated: 2024-09-10T09:42:11.948Z
+date: 2024-11-11T21:14:57.328Z
+updated: 2024-11-16T02:23:08.970Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: Cybersecurity Training for Children,Teaching Online Safety to Youngste
 thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a82053479b93a4aeb543f338378bede.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cybersecurity Education: Empowering Kids on Discord
 
  The internet provides a wealth of information and opportunities for everyone, including children. But protecting their impressionable young minds is a real and legitimate concern, not just for parents, but for our society as a whole.
@@ -31,27 +25,23 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  Discord has millions of active communities, or servers, as they are called. New ones are being created daily, since everyone can set up their own server free of charge. Some are private and invite-only, while others are public and can be accessed by anyone with a link. Like everyone else, kids and adolescents can use Discord to socialize, communicate with friends, and engage in various communities centered around their hobbies or interests.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Does Discord Have Parental Controls?
 
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
 
  For years, Discord had no parental controls, so those whose children were on the platform had to improvise and[rely on third-party software](https://www.makeuseof.com/tag/5-best-parental-control-apps-android/) to monitor their kids' activities. In July 2023, Discord finally introduced their very own Family Center. In a[blog post](https://discord.com/blog/discord-family-center-stay-connected-with-your-teen) published at the time, Discord explained what this means for parents.
@@ -62,15 +52,16 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
 
@@ -80,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Set Time Limits
 
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
@@ -94,30 +79,28 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Encourage Critical Thinking
 
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discord Is as Safe as You Make It
 
  Building a safe online environment for kids requires a lot of effort and patience. Helping children and adolescents learn how to stay safe on platforms such as Discord will be very important in the years to come, especially as new technologies emerge.
 
  Parents, teachers, and caregivers should do their best to stay up to date on the latest trends and set clear boundaries, while respecting children's autonomy and privacy as they navigate the internet.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +109,19 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-channel-prominence-mastery-a-comprehensive-youtube-guide/"><u>[New] 2024 Approved Channel Prominence Mastery A Comprehensive YouTube Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mobile-streamers-guide-post-photos-and-videos-not-twits-for-2024/"><u>[New] Mobile Streamers' Guide Post Photos & Videos, Not Twits for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-decoding-facebook-capturing-and-keeping-status-videos-for-2024/"><u>[Updated] Decoding Facebook Capturing and Keeping Status Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gaming-guilds-winners-wealds/"><u>Elite Gaming Guilds: Winner’s Wealds</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-real-time-online-gaming-bliss/"><u>Engage in Real-Time Online Gaming Bliss</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-crashes-and-improve-stability-while-playing-call-of-duty-vanguard-on-pc-tips/"><u>How to Fix Crashes and Improve Stability While Playing Call of Duty: Vanguard on PC (Tips )</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-find-x7-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Find X7?</u></a></li>
+<li><a href="https://games-able.techidaily.com/moments-of-mastery-special-ability-spree/"><u>Moments of Mastery: Special Ability Spree</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-movies-like-a-pro-16-free-and-easy-to-use-tools/"><u>New Make Movies Like a Pro 16 Free and Easy-to-Use Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/seamless-pairing-a-step-by-step-guide-on-syncing-your-airpods-with-macbook-air/"><u>Seamless Pairing: A Step-by-Step Guide on Syncing Your AirPods with MacBook Air</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-simplify-ps5-game-package-choices/"><u>Tips to Simplify PS5 Game Package Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-controller-functionality-in-windows-operations/"><u>Unlock Controller Functionality in Windows Operations</u></a></li>
+</ul></div>
 

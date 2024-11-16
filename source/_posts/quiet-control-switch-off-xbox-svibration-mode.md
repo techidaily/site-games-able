@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2024-10-30T16:37:27.339Z
-updated: 2024-11-05T21:14:57.780Z
+date: 2024-11-11T16:00:49.119Z
+updated: 2024-11-15T18:08:07.176Z
 tags:
   - games
 categories:
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Disable Controller Vibration on Xbox Series X|S
 
  Now you know some of the specifics involved in universally turning off controller vibration on your Xbox, let's take a look at how you actually do so on your own Xbox. To universally disable controller vibration on your Xbox Series X|S, follow these steps:
@@ -59,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of the Accessibility settings for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/vibration-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Ensure that**Turn on vibration** is deselected.
 
 ![A screenshot of the button mapping screen for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/turn-on-vibration.jpg)
@@ -75,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  If you ever switch your controller**Profile** or reset a**Profile** to default settings, your vibration preferences would be overwritten. In this case, you would need to[configure your Xbox Series X|S controller](https://www.makeuseof.com/configure-xbox-series-s-x-controller/) again to ensure vibration is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customize Your Xbox Wireless Controller to Suit You
@@ -90,25 +76,39 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ## FAQ
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
  In short, yes. Enabling controller vibration on your Xbox Wireless Controller for Xbox Series X|S will cause the battery to drain much faster than if you were to disable the feature. The extra power utilized by the vibration motors drains the battery life of your controller much faster than other controller inputs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: Why Do Xbox and PlayStation Use Haptic Feedback?
 
@@ -129,20 +129,18 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>[New] 2024 Approved Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-breaking-barriers-with-iphone-x-fixing-facial-detection/"><u>[New] Breaking Barriers with iPhone X Fixing Facial Detection</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-distinguishing-between-youtube-content-control-and-creative-commons-flexibility-for-2024/"><u>[New] Distinguishing Between YouTube Content Control and Creative Commons Flexibility for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-make-a-youtube-thumbnail-on-mac/"><u>[New] How to Make a YouTube Thumbnail On Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-haste-in-playlist-distribution-youtube-guide/"><u>2024 Approved Haste in Playlist Distribution YouTube Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968030878-download-now-official-startech-vga-drivers-and-setup-instructions/"><u>Download Now! Official StarTech VGA Drivers and Setup Instructions.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-camcorders-discover-our-best-18-for-flawless-recording/"><u>Elite Camcorders Discover Our Best 18 for Flawless Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-steams-price-journey-of-video-games/"><u>Exploring Steam's Price Journey of Video Games</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-fixes-swift-update-process-for-wacom-intuos-graphics-device/"><u>Fast-Track Fixes: Swift Update Process for Wacom Intuos Graphics Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonizing-home-entertainment-taming-console-alerts/"><u>Harmonizing Home Entertainment: Taming Console Alerts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps4-sticking-issue-rehabilitate-your-gaming-experience/"><u>PS4 Sticking Issue? Rehabilitate Your Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-2024-pioneers-guide-to-next-level-keyboards/"><u>The 2024 Pioneer's Guide to Next-Level Keyboards</u></a></li>
-<li><a href="https://games-able.techidaily.com/unblocking-your-display-driver-from-failure-on-windows-1011/"><u>Unblocking Your Display Driver From Failure on Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-full-potential-of-steams-game-milestones/"><u>Unleash Full Potential of Steam's Game Milestones</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-peeling-back-layers-of-xstudio-workshop-a-thorough-overview/"><u>[New] In 2024, Peeling Back Layers of XStudio Workshop - A Thorough Overview</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-locating-your-own-melodic-treasure-trove-in-youtubes-vault/"><u>[Updated] Locating Your Own Melodic Treasure Trove in YouTube's Vault</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-the-acquisition-of-background-visual-content/"><u>2024 Approved Streamlining the Acquisition of Background Visual Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-xboxs-unresponsive-d-pad-drift/"><u>Fixing Xbox's Unresponsive D-Pad Drift</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-capitalize-on-sonys-subscriptions-for-games/"><u>How to Capitalize on Sony's Subscriptions for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-mod-steam-games-using-the-steam-workshop/"><u>How to Mod Steam Games Using the Steam Workshop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-uncovering-ustream-plus-other-live-streamers/"><u>In 2024, Uncovering Ustream + Other Live Streamers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame-for-2024/"><u>Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-pro-animation-studio-top-8-software-picks-for-mac-and-windows/"><u>New In 2024, Pro Animation Studio Top 8 Software Picks for Mac and Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-deck-setup-gaming-launcher-installation-guide/"><u>Steam Deck Setup: Gaming Launcher Installation Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-definitive-technique-to-grant-administrator-rights-automatically-to-all-your-apps-on-windows-11/"><u>The Definitive Technique to Grant Administrator Rights Automatically to All Your Apps on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-choices-in-video-collaboration-software-for-2024/"><u>Ultimate Choices in Video Collaboration Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-mastery-with-epic-and-gog-on-your-steam-deck/"><u>Unlocking Gaming Mastery with Epic and GOG on Your Steam Deck</u></a></li>
 </ul></div>
 

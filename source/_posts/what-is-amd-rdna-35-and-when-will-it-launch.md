@@ -1,7 +1,7 @@
 ---
 title: What Is AMD RDNA 3.5 and When Will It Launch?
-date: 2024-10-19T04:12:27.096Z
-updated: 2024-10-24T22:39:50.517Z
+date: 2024-11-08T19:59:11.950Z
+updated: 2024-11-15T22:11:36.831Z
 tags:
   - games
 categories:
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is AMD RDNA 3.5?
@@ -43,16 +43,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
@@ -67,6 +61,19 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
@@ -75,19 +82,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
 
  It seems like RDNA 3.5 will be making its debut in AMD's mobile APU lineup. The decision makes sense considering what it has achieved in gaming handhelds with RDNA 2 and RDNA 3 (for example, with the Steam Deck, Asus ROG Ally, and the upcoming Lenovo Legion Go). The Zen 5-powered CPU, armed with its 16 RDNA 3.5 GPU compute cores, should theoretically provide a big GPU performance boost over its predecessors.
@@ -95,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
@@ -120,24 +120,16 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-keyword-mastery-unlocking-the-potential-of-youtube-tags/"><u>[New] 2024 Approved Keyword Mastery Unlocking the Potential of YouTube Tags</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-designing-dramatic-beginnings-in-podcasts/"><u>[New] In 2024, Designing Dramatic Beginnings in Podcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-inside-look-at-youtubes-creator-studio-interface/"><u>[New] Inside Look at YouTube's Creator Studio Interface</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-future-in-your-pocket-asus-mg28uq-monitor-revealed/"><u>[New] The Future in Your Pocket ASUS MG28UQ Monitor Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>[Updated] Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-ddr5-memory-modules-guide-2024/"><u>Elite DDR5 Memory Modules' Guide - 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-at-a-higher-level-do-mts-belong/"><u>Gaming at a Higher Level: Do MTs Belong?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 8 Plus/iPad/iPod</u></a></li>
-<li><a href="https://games-able.techidaily.com/innocn-39g1r-refresh-quick-low-cost/"><u>InnoCN 39G1R - Refresh Quick, Low Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-dandd-with-ai-6-techniques-for-using-chatgpt-as-a-dungeon-master/"><u>Mastering D&D with AI: 6 Techniques for Using ChatGPT as a Dungeon Master</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playing-more-than-just-fun/"><u>Portable Playing: More Than Just Fun?</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/proses-meskan-nvme-ssd-di-slot-tanggul-kunci-yang-memperdalam/"><u>Proses Meskan NVMe SSD Di Slot Tanggul - Kunci Yang Memperdalam!</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/quick-guide-reduce-your-videos-down-to-8mb-in-seconds/"><u>Quick Guide: Reduce Your Videos Down to 8MB in Seconds</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-discord-a-step-by-step-guide-for-mac-users/"><u>Setting Up Discord: A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/sketch-to-score-rhythm-games-and-graphic-devices/"><u>Sketch to Score: Rhythm Games & Graphic Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/stellar-designer-hunt-for-high-end-computers/"><u>Stellar Designer: Hunt for High-End Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategy-for-saving-steam-screen-captures/"><u>Strategy for Saving Steam Screen Captures</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-easy-path-to-backing-up-fb-photos-and-vids/"><u>The Easy Path to Backing Up FB Photos & Vids</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-steps-for-dead-xbox-controllers-windows/"><u>Troubleshooting Steps for Dead Xbox Controllers (Windows)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-quintessential-gopro-modifications/"><u>[New] 2024 Approved Quintessential Gopro Modifications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-diving-into-instagrams-restriction-for-video-content-for-2024/"><u>[New] Diving Into Instagram's Restriction for Video Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-poker-professional-panelisms/"><u>[New] In 2024, POKER PROFESSIONAL PANELISMS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-guide-to-advanced-fcp-features/"><u>2024 Approved Comprehensive Guide to Advanced FCP Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-mix-combining-intro-and-exit-strategies-for-success/"><u>2024 Approved The Essential Mix Combining Intro & Exit Strategies for Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-why-mics-are-off-limits-for-ps5s/"><u>Discover Why Mics Are Off-Limits for PS5s</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-strategies-for-managing-nintendo-console-logins/"><u>Expert Strategies for Managing Nintendo Console Logins</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-error-0x887a0006-a-step-by-step-approach-to-fixing-dxgi-devices/"><u>Remedy Error 0X887A0006: A Step-by-Step Approach to Fixing DXGI Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-windows-steam-setup-with-bp-mode/"><u>Streamlining Your Windows-Steam Setup with BP Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-in-windows-11-made-easy/"><u>Troubleshooting Audio Problems in Windows 11 Made Easy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-codegpts-potential-inside-your-vs-code-workspace/"><u>Unlocking CodeGPT's Potential Inside Your VS Code Workspace</u></a></li>
 </ul></div>
 

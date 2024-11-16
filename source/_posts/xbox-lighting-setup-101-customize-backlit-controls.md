@@ -1,7 +1,7 @@
 ---
 title: "Xbox Lighting Setup 101: Customize Backlit Controls"
-date: 2024-11-02T21:38:37.804Z
-updated: 2024-11-05T17:36:29.843Z
+date: 2024-11-11T02:35:33.688Z
+updated: 2024-11-15T19:48:15.765Z
 tags:
   - games
 categories:
@@ -47,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Now, every time you turn on your Xbox controller, the light will automatically be adjusted to the set brightness. However, if you see a blinking light or no light on your controller, it's possible that your[Xbox controller is not working properly](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) , and you might need to fix it.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Adjust the Brightness of Your Xbox Console Light
@@ -69,29 +63,35 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 3. Select and check the checkbox next to**Customize brightness** . Doing so highlights the slider for adjusting the console light’s brightness. Unlike the controller light, which has seven different brightness levels, there are only three brightness options for the console’s light. You can either completely turn it off, keep it at a 50% brightness level or increase the brightness to a full 100%.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Xbox customize power button brightness setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-customize-power-button-brightness-setting-2.jpeg)
 4. Slide the slider left and right using the left thumbstick and leave it on the brightness level that you prefer. Exit the settings menu once you’ve adjusted the brightness according to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With this, you've successfully adjusted your Xbox controller and console light's brightness.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy a More Personalized Experience With Your Xbox Controller
@@ -115,19 +115,16 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-accelerate-profits-using-the-top-15-facebook-data-analyzers-for-2024/"><u>[New] Accelerate Profits Using the Top 15 Facebook Data Analyzers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-stealthy-speakers-sanctuary-discovering-quiet-voice-apps-androidios/"><u>[New] In 2024, Stealthy Speakers' Sanctuary Discovering Quiet Voice Apps (Android/iOS)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-quick-voice-fixes-for-your-snapchat-snaps-using-dual-methods-for-2024/"><u>[Updated] Quick Voice Fixes for Your Snapchat Snaps Using Dual Methods for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579345880-7-thrilling-benefits-learning-hindi-online-via-mondly/"><u>7 Thrilling Benefits: Learning Hindi Online via Mondly!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disabling-your-newest-apple-devices-the-ultimate-guide-to-powering-down-iphone-15-pro-and-pro-max/"><u>Disabling Your Newest Apple Devices: The Ultimate Guide to Powering Down iPhone 15 Pro & Pro Max</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/dvd-ripper-winx-platinum-copier-rapide-de-tous-les-dvd-proteges-sur-windows-11/"><u>DVD Ripper WinX Platinum: Copier Rapide De Tous Les DVD Protégés Sur Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/exiting-game-buys-xboxs-refund-procedures-explained/"><u>Exiting Game Buys: Xbox's Refund Procedures Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-reset-a-ps5-controller-and-when-you-should/"><u>How to Reset a PS5 Controller (and When You Should)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-x5-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco X5 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-format-conversion-for-mac-screenshots/"><u>Mastering Format Conversion for Mac Screenshots</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/protect-your-privacy-how-to-set-up-call-filtering-for-strangers-on-android-phones/"><u>Protect Your Privacy: How to Set Up Call Filtering for Strangers on Android Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-your-gaming-space-with-xbox-membership-savvy/"><u>Secure Your Gaming Space With Xbox Membership Savvy</u></a></li>
-<li><a href="https://games-able.techidaily.com/selective-subscription-strategies-for-ps5-gamers/"><u>Selective Subscription Strategies for PS5 Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-2024-led-lighting-innovations/"><u>Top 2024 LED Lighting Innovations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aximize-engagement-secrets-of-successful-youtube-seo/"><u>[New] Maximize Engagement Secrets of Successful YouTube SEO</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-an-exhaustive-feature-analysis-of-du-recorder/"><u>[Updated] An Exhaustive Feature Analysis of Du Recorder</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-innovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>[Updated] Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastery-techniques-for-embedding-social-media-live-videos/"><u>[Updated] Mastery Techniques for Embedding Social Media Live Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-loop-life-tips-to-make-your-boomerangs-addictive/"><u>2024 Approved The Loop Life Tips to Make Your Boomerangs Addictive</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-interactive-text-based-realms-online/"><u>Five Interactive, Text-Based Realms Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/interactive-entertainment-evolution-mobile-fortnite-via-streaming/"><u>Interactive Entertainment Evolution: Mobile Fortnite via Streaming</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/it-enhances-wear-resistance-which-extends-the-service-life-of-components-made-from-these-alloys-by-reducing-surface-degradation/"><u>It Enhances Wear Resistance, Which Extends the Service Life of Components Made From These Alloys by Reducing Surface Degradation.</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-the-issue-error-code-262-on-roblox/"><u>Rectifying the Issue: Error Code 262 on Roblox</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-critical-process-died-system-errors-in-windows-error-code-0xc00000e9/"><u>Resolving Critical Process Died System Errors in Windows (Error Code 0xC00000E9)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-nintendo-switch-cartridge-holsters-of-2024/"><u>The Premier Nintendo Switch Cartridge Holsters of 2024</u></a></li>
 </ul></div>
 

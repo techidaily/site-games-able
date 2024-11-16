@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Enjoying Classic Games via Steam Deck & EmuDeck
-date: 2024-09-09T09:39:50.441Z
-updated: 2024-09-10T09:39:50.441Z
+date: 2024-11-10T18:41:33.849Z
+updated: 2024-11-15T23:48:28.540Z
 tags:
   - games
 categories:
@@ -12,18 +12,6 @@ keywords: Steam Deck Gaming Tips,Classic Games on Steam Deck,EmuDeck for Gamers,
 thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980aff8421c8d4c222923ee3bc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Ultimate Guide to Enjoying Classic Games via Steam Deck & EmuDeck
 
 ### Quick Links
@@ -39,34 +27,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  You've probably heard plenty about how great the Steam Deck is as an emulation platform, but how do you actually get the emulators up and running? Let's take a look at how to play emulated games on the Steam Deck using EmuDeck.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use EmuDeck to Emulate Games on Steam Deck?
 
 ![screenshot of the main emudeck screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first decision you'll need to make is which emulator to use. For this guide, we chose EmuDeck. For most users, this is an easy option because of the convenience of the platform.
 
  EmuDeck manages the installation and folder structure for emulators. Keeping in mind that the Steam Deck utilizes a Linux-based operating system by default, having these aspects managed for you can be a huge help.
@@ -77,18 +41,19 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  If you prefer to install emulators individually, you'll find most of them on the Discover store. If you like the sound of EmuDeck, we'll cover the next steps involved in setting it up.
 
-## How to Set Up EmuDeck on a Steam Deck
-
- EmuDeck requires that you know your way around desktop mode before you're able to set it up. Before we go any further, make sure you're comfortable[using the Steam Deck as a desktop device](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/) .
-
- To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
-
 <!-- affiliate ads begin -->
 <a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
   <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
 <img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## How to Set Up EmuDeck on a Steam Deck
+
+ EmuDeck requires that you know your way around desktop mode before you're able to set it up. Before we go any further, make sure you're comfortable[using the Steam Deck as a desktop device](https://www.makeuseof.com/tips-use-steam-deck-desktop-mode-without-dock/) .
+
+ To get started, switch to Desktop Mode by holding the power button down and selecting**Switch to Desktop.**
+
 ### 1\. Install and Set Up EmuDeck
 
 ![screenshot of the emudeck install package on the steam deck desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_install_package_on_desktop.jpg)
@@ -104,29 +69,18 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 ![screenshot of the emudeck set up screen showing a selection between easy mode or custom mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_setup_easymode_or_custommode.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 We'll choose easy mode, as it's the most straightforward.
 
  The rest of the options are fairly self-explanatory. You'll have the option to choose between installing EmuDeck on your internal storage or an SD card. You'll also be provided a list of emulators you wish to install. Installing all of them will have a minimal impact on space, so feel free to do so if you want to avoid installing any emulators down the line.
 
  After you've chosen your emulators, the installation process is done. You now have all of your emulators ready and pre-configured for the Steam Deck's hardware and control layout.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Move Your ROMS Over to EmuDeck
 
  Next, you should familiarize yourself with where ROMs go, and any additional prerequisites, such as BIOS files.
@@ -136,21 +90,23 @@ We'll choose easy mode, as it's the most straightforward.
 ![screenshot of the emudeck emulation folder on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_folder_on_steam_deck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  EmuDeck is configured so that all emulators share this common folder. For example, the**roms** folder contains folders representing every single console that can be emulated. If you copy a Nintendo Switch ROM into the Switch folder within**roms** , both Yuzu and Ryujinx will be able to run that ROM.
 
 ![Screenshot of the EmuDeck folder showing systems.txt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_systems_txt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can check which folder is for which console by opening the**systems.txt** file down the bottom. Additionally, there is a**systeminfo.txt** file within each of the folders that contains information on supported ROM file types.
 
  BIOS files can also all go into the same**bios** folder and be read by whatever emulator happens to need them. You can find out what system files are required by navigating back to the main screen of EmuDeck, clicking on**Manage Emulators** , and hitting**Manage** on any individual emulator.
@@ -181,18 +137,22 @@ We'll choose easy mode, as it's the most straightforward.
 
 ![Screenshot of EmuDeck's Steam ROMS manager displaying several Switch games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_steam_roms_manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're ready to play an emulated game on your Steam Deck, select an emulated game shortcut to get right into it. If you launch a shortcut and an emulator pops up instead, don't worry. It may take a few seconds to redirect from the emulator to the game.
 
  While that may seem like a hassle, a big benefit of EmuDeck is that it's set-and-forget. If you manage to get it working, it will stay working. The platform lets you enjoy emulating games on your Steam Deck in a user-friendly way.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -201,4 +161,22 @@ We'll choose easy mode, as it's the most straightforward.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-masters-top-ten-female-gaming-influencers/"><u>[New] 2024 Approved Game Masters Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-become-a-tiktok-trendsetter-perfecting-reactions-with-filmoras-advanced-techniques/"><u>[Updated] 2024 Approved Become a TikTok Trendsetter Perfecting Reactions with Filmora’s Advanced Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-smartphone-tools-for-crafting-your-ideal-vocal-sound/"><u>[Updated] 2024 Approved Smartphone Tools for Crafting Your Ideal Vocal Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-slide-show-software-selection-from-ix-ios13/"><u>[Updated] Slide Show Software Selection From IX-IOS13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-past-rejuvenate-with-atlasos/"><u>Cutting-Edge Past: Rejuvenate with AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/display-dominance-assessing-oled-amoled-and-ips-efficacy/"><u>Display Dominance: Assessing OLED, AMOLED & IPS Efficacy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-moto-e13-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Moto E13</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-minimalist-entertainment-top-10-no-cost-ad-free-games/"><u>Mastering Minimalist Entertainment - Top 10 No-Cost, Ad-Free Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/memomini-portable-vintage-game-hub/"><u>MemoMini: Portable, Vintage Game Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/minecraft-co-op-quests-best-ways-to-team-up-with-friends/"><u>Minecraft Co-Op Quests: Best Ways to Team Up with Friends</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-playwrighting-for-public-broadcast/"><u>Premier Playwrighting for Public Broadcast</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/retro-reel-upgrade-converting-photographs-to-videos-for-2024/"><u>Retro Reel Upgrade Converting Photographs to Videos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steam-deck-windows-installation-essentials/"><u>Steam Deck: Windows Installation Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-keeping-your-steam-deck-at-the-perfect-temperature/"><u>The Ultimate Guide to Keeping Your Steam Deck at the Perfect Temperature</u></a></li>
+<li><a href="https://games-able.techidaily.com/total-eradication-of-your-ps5-accounts-and-data/"><u>Total Eradication of Your PS5 Accounts and Data</u></a></li>
+</ul></div>
 

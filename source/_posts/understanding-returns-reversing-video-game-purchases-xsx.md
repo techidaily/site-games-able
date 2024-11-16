@@ -1,7 +1,7 @@
 ---
 title: "Understanding Returns: Reversing Video Game Purchases, XS/X"
-date: 2024-11-02T21:31:11.092Z
-updated: 2024-11-05T19:22:24.085Z
+date: 2024-11-12T00:29:31.988Z
+updated: 2024-11-16T02:00:18.504Z
 tags:
   - games
 categories:
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 4. Start filling out your form, beginning with the**Reason for request** . The options available are:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Accidental purchase** .
@@ -87,26 +87,26 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Happens Once My Refund Request Is Accepted?
 
  If your refund request is successful, you can expect to see an email from Microsoft confirming this, and you will be able to see your refund being processed in your Microsoft account. You will also have your access to the game revoked, so it will no longer be playable.
 
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
@@ -130,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef1019694
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-effortless-image-capturing-on-chrome-devices-method-4/"><u>[New] Effortless Image Capturing on Chrome Devices (Method #4)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-best-online-vimeo-video-downloaders/"><u>[New] In 2024, Best Online Vimeo Video Downloaders</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-journey-through-the-metaverse-6-illustrative-examples-for-2024/"><u>[New] Journey Through the Metaverse 6 Illustrative Examples for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-savvy-mastering-screen-recordings-on-your-phone-for-2024/"><u>[New] Snapchat Savvy Mastering Screen Recordings on Your Phone for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-c12-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia C12 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-portable-charging-units-for-ps5/"><u>Ideal Portable Charging Units for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-up-offline-the-ultimate-selection-of-gaming-apps/"><u>Power Up Offline: The Ultimate Selection of Gaming Apps</u></a></li>
-<li><a href="https://os-tips.techidaily.com/rescue-and-recover-a-complete-tutorial-on-how-to-extract-photos-from-your-itunes-backup-on-ios-devices/"><u>Rescue and Recover: A Complete Tutorial on How to Extract Photos From Your iTunes Backup on iOS Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/snes-and-nes-controls-stream-style/"><u>SNES & NES Controls, Stream Style</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ultimate-toolkit-for-dominating-social-media-management-smm-for-2024/"><u>The Ultimate Toolkit for Dominating Social Media Management (SMM) for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-g24-power-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola G24 Power for Parents | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-x-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone X? How to Fix</u></a></li>
-<li><a href="https://games-able.techidaily.com/with-ea-plays-price-increase-i-wont-be-subscribing-again-heres-why/"><u>With EA Play’s Price Increase, I Won’t Be Subscribing Again: Here’s Why</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-reclaiming-acoustics-lost-in-social-media-videos/"><u>[Updated] 2024 Approved Reclaiming Acoustics Lost in Social Media Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-action-cam-audio-winners-in-a-nutshell-for-2024/"><u>[Updated] Action Cam Audio Winners in a Nutshell for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-following-review-innovative-outlooks-for-2024/"><u>[Updated] Following Review Innovative Outlooks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-analyzing-huawei-p10s-impact-on-mobile-photography-trends/"><u>2024 Approved Analyzing Huawei P10's Impact on Mobile Photography Trends</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>2024 Approved Premiere Pros' Picks Professional Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-innovative-ways-to-tailor-the-xbox-game-bar-for-optimal-gaming-on-windows/"><u>5 Innovative Ways to Tailor the Xbox Game Bar for Optimal Gaming on Windows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/aomei-aomei-legal-compliance-tips-for-safe-use/"><u>利用規約で守るAOMEIセキュリティガイドライン - 合法的な使い方をおさらい | AOMEI Legal Compliance Tips for Safe Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-why-pc-titles-outshine-consoles/"><u>Discover Why PC Titles Outshine Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/optic-power-vs-mechanical-might-in-gaming/"><u>Optic Power Vs. Mechanical Might in Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-13c-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi 13C Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-external-tech-solutions-an-insight-into-third-party-technologies/"><u>Understanding External Tech Solutions: An Insight Into Third-Party Technologies</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-social-interaction-via-virtual-gaming-platforms-discord/"><u>Unlocking Social Interaction via Virtual Gaming Platforms (Discord)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-world-class-tv-and-monitor-innovations-at-ifa-2-written-using-latex-format-including-an-equation-representing-the-relationship-between-velocity-v-11/"><u>Unveiling World-Class TV & Monitor Innovations at IFA 2 Written Using Latex Format, Including an Equation Representing the Relationship Between Velocity (v), Distance (D), and Time (T): (D = v Times T)</u></a></li>
 </ul></div>
 

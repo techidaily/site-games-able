@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: The Best New Gaming Hardware We Want to Try"
-date: 2024-11-01T21:32:16.681Z
-updated: 2024-11-05T17:39:06.466Z
+date: 2024-11-10T18:40:02.251Z
+updated: 2024-11-16T01:18:39.532Z
 tags:
   - games
 categories:
@@ -27,16 +27,16 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lenovo Legion GO
 
 ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
  At first glance, it's evident that Lenovo is making a significant push to be a big player in the portable PC gaming realm, competing against Valve's Steam Deck and Asus' ROG Ally. Yes, it's running Windows 11, just like the Ally. And yes, it utilizes a trackpad that the Steam Deck proved is a necessity.
@@ -62,25 +69,11 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Lenovo Legion Go Controller and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-controller-mouse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  Lenovo is wisely positioning the Legion GO as a gaming handheld just as capable as a desktop. It beats the Steam Deck and ROG Ally's screen size by nearly two full inches, boasting an impressive 8.8-inch screen. It also includes a kickstand, making it easy to plop onto your desk and play like any gaming PC.
 
 ![Lenovo Legion Go with Kickstand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-kickstand.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -99,10 +92,16 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 ![legion-glasses-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Justin Duino/[MakeUseOf](http://www.makeuseof.com)
@@ -117,19 +116,33 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Lenovo Legion 9i
 
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
@@ -139,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  An integrated liquid cooling system, for starters. Unlike most laptops that utilize air cooling to safely transfer heat away from the important bits of your PC, the Legion 9i uses liquid cooling technology to keep its internal temperature at a reasonable level. It's the same[principle behind water-cooled PCs](https://www.makeuseof.com/water-cooled-pc/) but in laptop form.
 
 ![Legion 9i's cooling system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-cooling-system.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -160,6 +166,13 @@ The Legion 9i features a:
 * 2TB SSD
 
 The Lenovo Legion 9i will be available starting October 2023.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## MSI GAMING SLIM Series Graphics Cards
 
@@ -196,13 +209,6 @@ Both versions of the Tecno MegaMini sport:
 
 No word on the price or release date yet, but color us intrigued.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## IFA 2023: Gaming Hardware Worth Talking About
 
  At the very least, the gaming hardware unveilings at IFA 2023 gave us plenty to discuss in the coming months. Between Lenovo's monster push into Legion becoming a serious gaming brand to gaming hardware vying to become as small as possible, it's writing on the wall that shows you what to expect in the near future. However, one question remains: Can your wallet handle the gaming hardware on the horizon?
@@ -222,19 +228,22 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-step-by-step-mastering-the-art-of-vr-exploration/"><u>[New] In 2024, Step-by-Step Mastering the Art of VR Exploration</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-visual-consistency-through-masterful-use-of-luts-in-ae/"><u>[New] In 2024, Visual Consistency Through Masterful Use of LUTs in AE</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-step-by-step-chroma-mastery-for-green-screen-beginners/"><u>[Updated] 2024 Approved Step-by-Step Chroma Mastery for Green Screen Beginners</u></a></li>
-<li><a href="https://games-able.techidaily.com/does-steam-level-matter-to-you/"><u>Does Steam Level Matter to You?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exceptionally-efficient-google-play-pass-exception/"><u>Exceptionally Efficient Google Play Pass - Exception?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-impact-of-game-mode-in-apples-macos-sonoma-upgrade/"><u>Exploring the Impact of Game Mode in Apple’s macOS Sonoma Upgrade</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-toms-gadgets-and-hardware-the-ultimate-resource/"><u>Exploring Tom's Gadgets & Hardware: The Ultimate Resource</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-why-hdmi-21-is-so-important-for-gaming/"><u>Here's Why HDMI 2.1 Is So Important For Gaming</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-poco-m6-pro-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Poco M6 Pro 5G.</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-note-30-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Note 30 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-more-ea-play-price-hike-no-subscription-for-me/"><u>No More EA Play: Price Hike, No Subscription for Me</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-strands-secrets-a-comprehensive-guide-to-nyts-word-game/"><u>The 'Strands' Secrets: A Comprehensive Guide to NYT’s Word Game</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-myths-why-cracking-todays-advanced-conversational-ais-like-gpt-3-remains-a-challenge/"><u>Unlocking Myths: Why Cracking Today's Advanced Conversational AIs Like GPT-3 Remains a Challenge</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-figure-skating-highlights-2022-winter-olympics/"><u>[Updated] In 2024, Figure Skating Highlights 2022 Winter Olympics</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-instant-sharing-transferring-twitter-videos-to-fb-2-written-in-english/"><u>[Updated] In 2024, Instant Sharing Transferring Twitter Videos to FB (2 Written in English)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 11 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/beginner-friendly-top-10-picks-the-most-user-friendly-video-editing-tools-on-the-market/"><u>Beginner-Friendly Top 10 Picks: The Most User-Friendly Video Editing Tools on the Market</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dread-hunger-no-more-say-goodbye-to-game-crashes-on-your-computer/"><u>Dread Hunger No More: Say Goodbye to Game-Crashes on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722976359599-easy-installation-of-rtl8188cu-driver-software-for-wireless-network-adapters-on-win-10-7-download-instantly/"><u>Easy Installation of RTL8188CU Driver Software for Wireless Network Adapters on Win 10, 7 - Download Instantly!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-smooth-gameplay-with-regular-ps5-control-resets/"><u>Ensuring Smooth Gameplay with Regular PS5 Control Resets</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-to-play-chatgpt-introduces-its-6-intense-games/"><u>Get Ready To Play: ChatGPT Introduces Its 6 Intense Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illuminating-pathways-through-mixed-realitys-domain-for-2024/"><u>Illuminating Pathways Through Mixed Reality's Domain for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/meet-the-new-nvidia-application-amplifying-games/"><u>Meet the New Nvidia Application Amplifying Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/metaquest-3-the-ultimate-virtual-adventure/"><u>MetaQuest 3: The Ultimate Virtual Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-users-guide-to-unlimited-discord-time/"><u>Opera Users' Guide to Unlimited Discord Time</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-11r-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus 11R and Browser | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-stock-stabilized-expecting-pricing-changes/"><u>PS5 Stock Stabilized: Expecting Pricing Changes</u></a></li>
+<li><a href="https://games-able.techidaily.com/quicken-gameplay-quality-fixing-low-windows-fps/"><u>Quicken Gameplay Quality: Fixing Low Window's FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-xbox-case-purpose/"><u>Unveiling The Xbox Case Purpose</u></a></li>
 </ul></div>
 

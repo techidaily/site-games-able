@@ -1,7 +1,7 @@
 ---
 title: Explore Switch Titles on Your Mac
-date: 2024-09-11T16:22:36.054Z
-updated: 2024-09-15T16:27:52.631Z
+date: 2024-11-14T00:49:53.955Z
+updated: 2024-11-15T21:36:02.779Z
 tags:
   - games
 categories:
@@ -37,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
  Before you start emulating Switch games, there are several necessary steps to configure Ryujinx, outlined as follows:
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Setting Up Prod.Keys
 
  To begin, it is essential to establish the prod.keys file, which serves the purpose of decrypting your ROM files for compatibility with the emulator.
@@ -61,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 4. Paste the**prod.keys** file into the designated directory.  
 ![Ryujinx System Folder open with prod.keys pasted in the directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-system-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Installing Ryujinx Firmware
 
  You also need to manually add the firmware files for Ryujinx to use. You can do so by following these steps:
@@ -71,19 +65,25 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 3. Select the firmware file you just downloaded.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Ryujinx Selecting Switch Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-selecting-switch-firmware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Setting Up Your Controller
@@ -95,21 +95,15 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 ![Ryujinx Home Page with settings option available](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-settings-option.jpg)
 3. Head over to the**Input** tab, and make sure your controller is selected under the**Input Device** option.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If needed, you can also edit any required settings to customize your controls.  
 ![Ryujinx controller settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ryujinx-controller-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Adding Your Games to Ryujinx
 
@@ -120,14 +114,21 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 2. A new Finder window will open, where you can select your ROM file.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. After double-clicking on the ROM file, the game will finally start running.  
 ![Hades Running on Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/hades-running-on-ryujinx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Playing Nintendo Switch Games on Your Mac
 
@@ -146,5 +147,17 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-add-music-to-instagram-reel/"><u>[New] 2024 Approved How to Add Music to Instagram Reel</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unseen-snaps-and-hushed-user-signal-to-check-for-blocks/"><u>[Updated] Unseen Snaps and Hushed User Signal to Check for Blocks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-productivity-find-the-perfect-auto-clicking-solution-for-android-phones-amongst-our-top-5-picks/"><u>Boost Productivity: Find the Perfect Auto-Clicking Solution for Android Phones Amongst Our Top 5 Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-where-to-find-steam-captured-artifacts/"><u>Deciphering Where to Find Steam Captured Artifacts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-youtubes-payment-scheme-for-2024/"><u>Decoding YouTube's Payment Scheme for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-asus-rog-allys-finest-docks/"><u>Explore ASUS ROG Ally's Finest Docks</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-reaction-time-with-optimal-mouse-settings/"><u>Increase Reaction Time with Optimal Mouse Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-resolving-windows-steam-server-error/"><u>Methods for Resolving Windows Steam Server Error</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-compre-point-guide-to-instagrams-inquiry-tool-for-2024/"><u>The Compre Point Guide to Instagram's Inquiry Tool for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-ideas-into-laughter-generate-text-memes/"><u>Transform Ideas Into Laughter Generate Text Memes</u></a></li>
+</ul></div>
 

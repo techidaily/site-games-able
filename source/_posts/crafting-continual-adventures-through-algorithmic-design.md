@@ -1,7 +1,7 @@
 ---
 title: Crafting Continual Adventures Through Algorithmic Design
-date: 2024-10-23T22:57:14.641Z
-updated: 2024-10-24T16:28:19.879Z
+date: 2024-11-10T00:28:46.836Z
+updated: 2024-11-15T19:00:08.131Z
 tags:
   - games
 categories:
@@ -43,28 +43,28 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Games Use Procedural Generation?
 
  Many titles use procedural generation for their titles. In fact, this method of creating game worlds has been around since 1978, with its introduction in Beneath Apple Manor and Rogue in 1980.
 
  So, here are a few modern titles which use this method when creating a game session.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### No Man's Sky
 
 ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
@@ -74,28 +74,21 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Civilization VI
 
 ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
 
@@ -106,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ### Rust
 
 ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
@@ -130,19 +130,18 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[New] In 2024, Earning Strategies for Successful Youtube Shorts What You Need & How Much?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-end-scene-excellence-your-guide-to-yt-outro-mastery/"><u>[Updated] 2024 Approved End Scene Excellence Your Guide to YT Outro Mastery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-transforming-your-facebook-display-photo-quickly-for-2024/"><u>[Updated] Transforming Your Facebook Display Photo Quickly for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-spectacular-journey-of-q500s-4k/"><u>2024 Approved The Spectacular Journey of Q500's 4K</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/battle-of-the-titans-googles-bard-vs-microsofts-bing-chat-for-ultimate-ai-dominance/"><u>Battle of the Titans: Google's Bard Vs Microsoft’s Bing Chat for Ultimate AI Dominance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/become-a-pokemon-champion-playing-pokemon-unite-on-your-computer/"><u>Become a Pokémon Champion: Playing 'Pokémon Unite' On Your Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/counteracting-missing-elements-alert-on-pc/"><u>Counteracting Missing Elements Alert on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-complex-interactions-between-endocannabinoid-receptors-and-brain-functions/"><u>Decoding the Complex Interactions Between Endocannabinoid Receptors and Brain Functions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-finding-and-recovering-accidentally-deleted-iphone-photographs/"><u>Expert Tips on Finding and Recovering Accidentally Deleted iPhone Photographs</u></a></li>
-<li><a href="https://games-able.techidaily.com/forming-a-play-group-on-xbox-nextgen/"><u>Forming a Play Group on Xbox NextGen</u></a></li>
-<li><a href="https://games-able.techidaily.com/friendly-fights-across-phones-choice-of-mobile-matchups/"><u>Friendly Fights Across Phones: Choice of Mobile Matchups</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-choice-8-best-news-and-reviews-for-gamers/"><u>Prime Choice: 8 Best News & Reviews for Gamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategies-for-enhancing-your-apple-podcast-visibility/"><u>Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-alternatives-7-arguments-against-ray-tracing-embrace/"><u>Uncovering Alternatives: 7 Arguments Against Ray Tracing Embrace</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-comprehensive-guide-your-shorts-hidden-thumbnails/"><u>[New] 2024 Approved Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery/"><u>[New] 2024 Approved Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-camstudio-full-features-analysis-for-2024/"><u>[New] CamStudio Full Features Analysis for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] Parrots in Flight A Deep Dive Into Bebop's Essence</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[Updated] In 2024, Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2023-techniques-posting-tiktoks-on-twitter/"><u>2023 Techniques Posting TikToks on Twitter</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-wrongful-oled-purchases-with-these-tips/"><u>Avoid Wrongful OLED Purchases with These Tips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo-for-2024/"><u>Celebrating Matrimony The Best Wedding Movies From YouTube to Vimeo for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/critical-update-alert-for-it-professionals-vmware-transitions-vsphere-65-and-67-to-end-of-support-on-oct-15-2022/"><u>Critical Update Alert for IT Professionals: VMware Transitions vSphere 6.5 & 6.7 to End of Support on Oct 15, 2022</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-unveils-thinner-tech-trends-with-tecnos-new-models/"><u>IFA Unveils Thinner Tech Trends with Tecno's New Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-personal-data-on-nintendo-console-access/"><u>Protecting Personal Data on Nintendo Console Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-wordle-streak-crash-iosandroid-fix-guide/"><u>Solve Wordle Streak Crash: IOS/Android Fix Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-saving-techniques-for-your-game-console/"><u>Strategic Saving Techniques for Your Game Console</u></a></li>
 </ul></div>
 

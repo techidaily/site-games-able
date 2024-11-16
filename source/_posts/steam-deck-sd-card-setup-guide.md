@@ -1,7 +1,7 @@
 ---
 title: Steam Deck SD Card Setup Guide
-date: 2024-09-09T09:40:46.434Z
-updated: 2024-09-10T09:40:46.434Z
+date: 2024-11-12T22:28:19.793Z
+updated: 2024-11-15T18:13:41.524Z
 tags:
   - games
 categories:
@@ -12,25 +12,20 @@ keywords: Steam Deck SDD Tutorial,Setting Up Deck SD Card,SD Card Steam Deck Gui
 thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd58483ee49e8397ad83cab217.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Steam Deck SD Card Setup Guide
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Can I Use Any SD Card on My Steam Deck?](#can-i-use-any-sd-card-on-my-steam-deck)
 * [How to Format Your SD Card for the Steam Deck](#how-to-format-your-sd-card-for-the-steam-deck)
 * [How to Install and Move Games to Your Steam Deck's SD Card](#how-to-install-and-move-games-to-your-steam-deck-39-s-sd-card)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 ![screenshot of the steam deck storage screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_storage_screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Steam Deck is not fussy when it comes to SD cards. Assuming you've brushed up on [mistakes to avoid when choosing an SD card](https://www.makeuseof.com/tag/5-mistakes-avoid-buying-next-microsd-card/), you can't go wrong. The Steam Deck supports SD, SDXC, and SDHC cards, and can handle up to 2TB of capacity.
 
  Write and read speeds are very important for performance reasons, so choosing a faster card is beneficial. Don't spring for the fastest, though. The Steam Deck will only reliably read up to 100MB/s.
@@ -61,11 +50,12 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ![screenshot of the steam deck settings menu showing an option to format the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_sd_format_option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Steam Deck uses a specific format, so a full wipe of your SD card is required when adding extra storage to the device.
 
  Start by inserting your SD card into your Steam Deck. The SD card slot is located on the bottom and to the right of your device, just below the right speaker.
@@ -76,16 +66,17 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  When the Steam Deck is done, your SD card will no longer be readable by Windows or Mac devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install and Move Games to Your Steam Deck's SD Card
 
 ![screenshot of the games options menu on the steam deck showing a game installed on an SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_steam_deck_game_options_sd_card.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With an SD card installed, you can choose to install a game directly onto your SD card or move an already installed game manually by opening its **Properties** and clicking on **Installed Files.**
 
  You can move games back and forth freely, but there are a couple of things to keep in mind.
@@ -97,17 +88,18 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 ![Screenshot of an SD card mounted on the Steam Deck showing its location as primary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_primary_sd_card_location_on_steam_deck.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You'll find your SD card located at the bottom right-hand side of the Dolphin explorer window. It's named **primary**. Steam games will be located in the **steamapps** folder of this device.
 
  However, unlike Windows, this isn't the true file path. If you need to refer to anything installed on your SD card, the file path is as follows:
@@ -118,14 +110,11 @@ run/media/mmcblk0p1
 
  Considering how crucial extra space is for the Steam Deck experience, it's a good thing an SD card is so easy to set up and get going. Whether you've ordered a brand new SD card or you're pulling one out of an old phone, it's as easy as inserting it and formatting it. Just make sure you're using a fast enough card for the demands of the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +123,21 @@ run/media/mmcblk0p1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/rom-raw-to-masterpiece-the-premier-free-mobile-editors-for-android-for-2024/"><u>[New] From Raw to Masterpiece The Premier Free Mobile Editors for Android for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boost-channels-to-partner-status-in-under-90-days-start-now-in-2024/"><u>[Updated] Boost Channels to Partner Status in Under 90 Days, Start Now, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmonic-windows-tunes-hub/"><u>[Updated] Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-motorola-g54-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Motorola G54 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/diverse-methods-reactivate-your-steam/"><u>Diverse Methods: Reactivate Your Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-early-access-gaming-economy/"><u>Examining the Early Access Gaming Economy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-flawlessly-swap-to-the-latest-iphone-model-insider-tips-and-tricks-for-a-hassle-free-experience-guided-by-zdnet/"><u>How to Flawlessly Swap to the Latest iPhone Model: Insider Tips and Tricks for a Hassle-Free Experience | Guided by ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-a70-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel A70 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-expert-a-telegram-web-blueprint/"><u>In 2024, From Novice to Expert A Telegram Web Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-it-safe-keep-microphones-off-ps5/"><u>Play It Safe: Keep Microphones Off PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-resume-in-xbox-a-game-changer-or-just-a-gimmick/"><u>Quick Resume in Xbox: A Game-Changer or Just a Gimmick?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revamped-sonos-interface-brings-enhanced-personalization-with-custom-home-panel-and-unified-search-feature-technews/"><u>Revamped Sonos Interface Brings Enhanced Personalization with Custom Home Panel & Unified Search Feature | TechNews</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-linking-ps5-to-your-cell-phone-via-bluetooth/"><u>Securely Linking PS5 to Your Cell Phone via Bluetooth</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-address-msi-afterburners-inability-to-identify-gpu-under-windows-11-environment/"><u>Solutions to Address MSI Afterburner's Inability to Identify GPU Under Windows 11 Environment</u></a></li>
+</ul></div>
 

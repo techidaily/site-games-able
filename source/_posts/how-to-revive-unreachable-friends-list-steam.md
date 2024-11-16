@@ -1,7 +1,7 @@
 ---
 title: How to Revive Unreachable Friends List Steam
-date: 2024-09-11T16:39:30.081Z
-updated: 2024-09-15T16:33:16.879Z
+date: 2024-11-12T04:04:51.426Z
+updated: 2024-11-16T02:22:49.510Z
 tags:
   - games
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/403ee604a3f16d045c6709201099032edd204086d
 
 Restart Steam and check if the issue is now fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Steam Friends & Chat Settings
 
  If restarting Steam didn’t fix the issue, you should check your account’s Friends & Chat settings. Here’s how you can do it:
@@ -39,6 +46,13 @@ Restart Steam and check if the issue is now fixed.
 5. Restart Steam and check if you can connect to the network.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
 
@@ -58,13 +72,6 @@ Restart Steam and check if the issue is now fixed.
 
  Click**Apply** and**OK** to save the new settings and restart Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Delete the Steam Appdata Folder
 
  Similar to any software that you’ve installed, Steam stores temporary files on your computer to speed up loading times and improve the user experience. However, if the stored data gets corrupted, it will negatively impact Steam’s features and functionality.
@@ -74,6 +81,13 @@ Restart Steam and check if the issue is now fixed.
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
 
@@ -90,10 +104,10 @@ Restart Steam and check if the issue is now fixed.
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
@@ -113,5 +127,21 @@ Restart Steam and check if the issue is now fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-syncopated-synths-selecting-top-quality-dj-templates-online/"><u>[New] Syncopated Synths Selecting Top Quality DJ Templates Online</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secrets-to-effective-vr-game-playback/"><u>[Updated] 2024 Approved Secrets to Effective VR Game Playback</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-easy-steps-to-deactivate-igtv/"><u>[Updated] In 2024, Easy Steps to Deactivate IGTV</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-sweet-surveillance-guide-to-recording-summer-treats/"><u>[Updated] In 2024, Sweet Surveillance Guide to Recording Summer Treats</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873900-9780648367574-conversations-with-consciousness/"><u>Conversations with Consciousness | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-misconited-ideas-6-mac-limitations-in-gaming-world/"><u>Dissecting Misconited Ideas: 6 Mac Limitations in Gaming World</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-intrigue-the-must-watch-features-in-apps/"><u>Essential Intrigue: The Must-Watch Features in Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-delights-my-passionate-support-for-apple-arcade/"><u>IOS Delights – My Passionate Support for Apple Arcade</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-cannot-open-error-for-far-cry-6-on-windows-solution-guide/"><u>Overcoming 'Cannot Open' Error for Far Cry 6 on Windows – Solution Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-common-graphics-setbacks-a-four-step-process/"><u>Overcoming Common Graphics Setbacks: A Four-Step Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-shopping-xbox-s-edition-secrets-revealed/"><u>Smart Shopping: Xbox S Edition Secrets Revealed</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-for-correcting-computer-monitor-coloring-and-shape-anomalies/"><u>Solutions for Correcting Computer Monitor Coloring and Shape Anomalies</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-performing-240hz-panels-for-competitive-play/"><u>Top Performing 240Hz Panels for Competitive Play</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-the-best-top-8-video-animation-apps-for-android-ios-and-ipad-for-2024/"><u>Updated The Best of the Best Top 8 Video Animation Apps for Android, iOS, and iPad for 2024</u></a></li>
+</ul></div>
 

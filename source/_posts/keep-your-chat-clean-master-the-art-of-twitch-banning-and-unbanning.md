@@ -1,7 +1,7 @@
 ---
 title: "Keep Your Chat Clean: Master the Art of Twitch Banning & Unbanning"
-date: 2024-09-09T09:39:43.076Z
-updated: 2024-09-10T09:39:43.076Z
+date: 2024-11-08T18:38:13.591Z
+updated: 2024-11-15T22:33:38.520Z
 tags:
   - games
 categories:
@@ -40,6 +40,13 @@ Here's how to block or unblock someone on Twitch...
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Unblock People on Twitch: The Easiest Way
 
  When you want to unblock someone, however, things get a little more complicated. You can unblock someone by clicking on their card and selecting**Unblock** . But this only works for a very recent block.
@@ -48,72 +55,31 @@ Here's how to block or unblock someone on Twitch...
 
  If you know what the user's exact name is, you can**type /unblock \[username\]** to bring them back. However, if you can't remember their name, you'll need to do some extra work.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on Twitch Using Settings
 
  To unblock someone on Twitch on your PC, do the following. First, click on your profile at the top right, then click**Settings** .
 
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
  Twitch will save the changes immediately and remove the user from your block list.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
@@ -132,22 +98,24 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### How to Unblock People on Android
 
  If you're on Android, you'll find that you can follow the above instructions word-for-word, right up until the point where a blocked user list is supposed to appear. Strangely, the blocked user list never made it over from iOS.
@@ -156,24 +124,15 @@ Close
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Managing People Better on Twitch
 
  If someone is getting on your nerves, you can quickly and easily block them on Twitch. If you decide to unblock them later on, it's easy and quick to do—as long as you're not on Android.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +141,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-inshot-cut-mastery-creating-fluid-movements-for-2024/"><u>[Updated] Inshot Cut Mastery Creating Fluid Movements for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smart-selections-top-10-apps-for-in-the-moment-baseball-and-soccer-viewing/"><u>[Updated] Smart Selections Top 10 Apps for In-the-Moment Baseball and Soccer Viewing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-discovering-the-best-free-videodownloaders-for-pinterest/"><u>2024 Approved Discovering the Best Free Videodownloaders for Pinterest</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://games-able.techidaily.com/consoles-unseen-heroes-choosing-between-intel-and-amd/"><u>Console's Unseen Heroes: Choosing Between Intel and AMD</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-steam-and-gog-differences-for-gamers/"><u>Delving Into Steam and GOG Differences for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-5-handhelds-for-classic-gaming-lovers/"><u>Essential 5: Handhelds for Classic Gaming Lovers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-android-an-in-depth-gaming-guide-review/"><u>In 2024, KineMaster Android An In-Depth Gaming Guide Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-optimized-protocols-snapshots-of-gotomeetings-made-simple/"><u>In 2024, Optimized Protocols Snapshots of GoToMeetings Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-ways-to-fire-up-your-ps5-6/"><u>Innovative Ways to Fire Up Your PS5 (6)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/keeping-track-of-your-google-voice-conversations-for-2024/"><u>Keeping Track of Your Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-controlling-steam-web-helpers-ram-overuse/"><u>Strategies for Controlling Steam Web Helper's RAM Overuse</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-other-side-7-negatives-in-mobile-gameplay/"><u>The Other Side: 7 Negatives in Mobile Gameplay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On OnePlus 12? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Essential Checklist for Discovering Quality App Store Games
-date: 2024-09-13T16:37:51.925Z
-updated: 2024-09-15T16:58:34.664Z
+date: 2024-11-15T04:00:55.127Z
+updated: 2024-11-15T21:24:26.459Z
 tags:
   - games
 categories:
@@ -20,6 +20,19 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 * [Checking the Reviews to See What Others Think](#checking-the-reviews-to-see-what-others-think)
 * [Filtering Games by Controller Compatibility and Last Updated](#filtering-games-by-controller-compatibility-and-last-updated)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Apple Arcade recommends great games in curated lists like Must-Play and App Store Greats. Check those out first.
@@ -27,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 * Use filters to find games that fit your preferences, like controller compatible titles or recently updated ones.
 
  Apple Arcade’s curated selection of games can be a little difficult to navigate. Although there aren’t many titles, finding the best ones can still be tricky if you don’t know how to look. As someone who has been using Apple Arcade since it launched in 2019, I have some tips on how to find games you’ll like.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1  Browsing Apple Arcade’s Must-Play and App Store Greats Categories
 
@@ -48,16 +74,10 @@ Close
  The second category, App Store Greats, is more like an expansion of the Must-Play list. Any game on the list in a genre that you like is bound to be a lot of fun. I found Prune, Stardew Valley, and Slay the Spire here, and I must add that Stardew Valley is one of the[reasons I subscribe to Apple Arcade](https://www.makeuseof.com/apple-arcade-reasons-to-subscribe/) .
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Checking the Reviews to See What Others Think
@@ -85,10 +105,10 @@ Close
  You can now download the game if you’re OK with all you’ve seen.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Filtering Games by Controller Compatibility and Last Updated
@@ -128,5 +148,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-flexistabilizer-the-ultimate-videographers-tool/"><u>[New] 2024 Approved FlexiStabilizer The Ultimate Videographer's Tool</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-technology-effective-school-vid-eds/"><u>2024 Approved Integrating Technology Effective School Vid Eds</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-play-40c-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor Play 40C by Name | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-and-connect-mastering-live-chats-and-gameplay-twitch-mobile/"><u>Engage and Connect: Mastering Live Chats & Gameplay (Twitch, Mobile)</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-14-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi 14 Safely | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtubes-creative-playground-explained-with-ease/"><u>In 2024, YouTube's Creative Playground Explained with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-revisions-to-vintage-game-consoles/"><u>Innovative Revisions to Vintage Game Consoles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-ifunny-memes-for-2024/"><u>Mastering the Art of iFunny Memes for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-component-shortage-alert-on-devices/"><u>Resolving “Component Shortage” Alert on Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/sound-systems-for-esports-a-comparative-study/"><u>Sound Systems for Esports: A Comparative Study</u></a></li>
+</ul></div>
 

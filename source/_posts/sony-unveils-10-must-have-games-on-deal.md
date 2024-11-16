@@ -1,7 +1,7 @@
 ---
 title: Sony Unveils 10 Must-Have Games on Deal
-date: 2024-11-02T16:51:29.284Z
-updated: 2024-11-05T21:22:07.983Z
+date: 2024-11-09T02:03:28.709Z
+updated: 2024-11-15T23:55:59.545Z
 tags:
   - games
 categories:
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Deathloop
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Owlboy
@@ -67,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -92,18 +92,18 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -130,18 +130,18 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-to-share-facebook-videos-to-whatsapp-for-2024/"><u>[New] How to Share Facebook Videos to WhatsApp for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-investigating-authenticitys-role-in-social-media-selfie-presentation/"><u>[New] Investigating Authenticity’s Role in Social Media Selfie Presentation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-every-victory-pro-gaming-tips-for-w11-users/"><u>[Updated] In 2024, Capturing Every Victory Pro Gaming Tips for W11 Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-freefire-hashtags-to-skyrocket-video-views-on-youtube/"><u>2024 Approved Essential FreeFire Hashtags to Skyrocket Video Views on YouTube</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/dxvk-explained-enhancing-gaming-performance-on-windows/"><u>DXVK Explained: Enhancing Gaming Performance on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-to-free-game-choices/"><u>Gamers' Guide to Free Game Choices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-v30-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo V30 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-10t-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme 10T 5G FRP</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-newest-intel-iris-graphics-driver-on-your-windows-11-pc/"><u>Install Newest Intel® Iris® Graphics Driver on Your Windows 11 PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/level-up-your-game-with-premium-equipment-selection/"><u>Level Up Your Game with Premium Equipment Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-setup-steps-for-adding-discord/"><u>Mac Setup: Steps for Adding Discord</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4-for-2024/"><u>The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4 for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-your-videos-top-youtube-friendly-cameras-for-2024/"><u>[New] Mastering Your Videos Top YouTube-Friendly Cameras for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-preeminent-zero-price-stock-image-sites/"><u>[Updated] Preeminent Zero-Price Stock Image Sites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-innovate-your-tiktok-storytelling-with-effects/"><u>2024 Approved Innovate Your TikTok Storytelling with Effects</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210163162-9781640270527-dedicated-to-all/"><u>Dedicated to All | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-error-262-on-roblox-games/"><u>Eliminating Error 262 on Roblox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-mobile-gaming-playing-steam-games-on-smartphones/"><u>Embrace Mobile Gaming: Playing Steam Games on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-portables-to-televisions-embracing-playnites-fullscreen/"><u>From Portables to Televisions: Embracing Playnite's Fullscreen</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/magix-vpx-review-transforming-media-with-ease-for-2024/"><u>Magix VPX Review Transforming Media with Ease for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-content-file-lock-error-from-windows-steam-account/"><u>Removing Content File Lock Error From Windows Steam Account</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-d3dx930dll-file-not-detected-or-absent-issue/"><u>Resolving the d3dx9_30.dll File Not Detected or Absent Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-on-your-phone-strategies-for-both-iphone-and-android-users/"><u>Unleashing the Power of ChatGPT on Your Phone: Strategies for Both iPhone and Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-potential-essential-tools-for-gaming-success/"><u>Unlocking Potential: Essential Tools for Gaming Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Games Not Listed on Your Steam Profile
-date: 2024-10-30T20:36:04.041Z
-updated: 2024-11-05T17:03:48.554Z
+date: 2024-11-10T19:53:06.727Z
+updated: 2024-11-15T16:54:26.830Z
 tags:
   - games
 categories:
@@ -52,6 +52,13 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
 7. As Steam begins to install the game, it will likely recognize the existing files and complete the installation without downloading the game files all again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Add an Existing Installation Folder
 
  You can[change the default game download location on Steam](https://www.makeuseof.com/how-to-change-game-download-location-steam/) to save large games on a different drive or partition. If you have moved your games previously or had a custom location to store game data , Steam won't be able to find the game files and will show them as uninstalled.
@@ -63,15 +70,15 @@ C:\Program Files (x86)\Steam\steamapps\common
 ![steam settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-settings.jpg)
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Select**Add Drive** from the drop-down options.  
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
@@ -80,23 +87,16 @@ C:\Program Files (x86)\Steam\steamapps\common
 7. Next, click the**Add** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Browse through your storage drives and select the Steam game folder you want to add.
 9. Click the**Select Folder** button to add the folder.
 
  Steam will look for the game files in the newly added folder. If found, it'll show them in your Steam library. If the game doesn’t appear immediately, relaunch the app and check your library again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Manage the .acf Files for the Steam Games
 
@@ -123,10 +123,10 @@ C:\Program Files (x86)\Steam\steamapps\
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.
@@ -137,10 +137,10 @@ C:\Program Files (x86)\Steam\steamapps\
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Steam Recognize Installed Games
@@ -164,20 +164,20 @@ C:\Program Files (x86)\Steam\steamapps\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-look-at-the-future-of-windows-10s-evolution/"><u>[New] A Look at the Future of Windows 10'S Evolution</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pricing-outlook-cloud-vaults-of-2024/"><u>[New] Pricing Outlook Cloud Vaults of 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-step-by-step-inserting-chapters-in-vimeo-videos/"><u>[Updated] 2024 Approved Step-by-Step Inserting Chapters in Vimeo Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-boost-engagement-with-effective-wirecast-broadcasts-on-fb/"><u>[Updated] In 2024, Boost Engagement with Effective Wirecast Broadcasts on FB</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/5pya6ygp44gq44ot44oh44kq5zyn57iu44k944ov44oi44ks6kal44gk44gr44kl77yb54sh5paz44gu44kq44oz44op44kk44oz44oe44o844or44go5l244ge44ke44gz44ge44og44kv44ol44od44kv.83/"><u>最適なビデオ圧縮ソフトを見つける！無料のオンラインツールと使いやすいテクニック</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-best-10-zero-ad-and-zip-cost-mobile-games/"><u>Explore the Best 10 Zero Ad & Zip Cost Mobile Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-fix-screen-driver-issues-in-latest-windows-oses/"><u>Guide to Fix Screen Driver Issues in Latest Windows OSes</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-steam-refunds-retrieving-your-earned-funds/"><u>Maximizing Steam Refunds: Retrieving Your Earned Funds</u></a></li>
-<li><a href="https://games-able.techidaily.com/microsoft-edge-vs-competitors-which-wins-in-gaming/"><u>Microsoft Edge vs Competitors: Which Wins in Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-vs-microsoft-edge-what-is-the-best-gaming-browser/"><u>Opera GX Vs. Microsoft Edge: What Is the Best Gaming Browser?</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-iphone-functionality-with-cutting-edge-gaming-solutions/"><u>Revolutionize iPhone Functionality with Cutting-Edge Gaming Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategic-use-of-vpn-for-private-chatgpt-interactions/"><u>Strategic Use of VPN for Private ChatGPT Interactions?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722866210672-troubleshooting-the-infamous-cmos-checksum-mismatch-heres-how/"><u>Troubleshooting the Infamous CMOS Checksum Mismatch – Here's How</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-device-leads-on-hardware-features-ally-or-deck/"><u>Which Device Leads on Hardware Features, Ally or Deck?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>[Updated] In 2024, Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/battle-of-the-titans-comparing-googles-latest-pixel-6-pro-with-apples-iphone-13-pro-for-savvy-consumers-cnet/"><u>Battle of the Titans: Comparing Google's Latest Pixel 6 Pro with Apple's iPhone 13 Pro for Savvy Consumers | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-creators-quest-searching-for-new-tech-wonders/"><u>Cosmic Creator's Quest: Searching for New Tech Wonders</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-fun-experiences-on-discord-with-board-games/"><u>Crafting Fun Experiences on Discord with Board Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/decipher-complexities-in-reestablishing-steams-operability/"><u>Decipher Complexities in Reestablishing Steam's Operability</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-motorola-moto-g-stylus-5g-2023-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-enable-and-use-remote-functionality-on-your-samsung-qled-or-led-tvs/"><u>How To Enable and Use Remote Functionality on Your Samsung QLED or LED TVs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-storytelling-through-total-environmental-capture/"><u>Immersive Storytelling Through Total Environmental Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-edge-40-neo-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Edge 40 Neo for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-ipad-display-recordings/"><u>In 2024, Perfecting iPad Display Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-playability-with-epic-games-on-steam-deck/"><u>Maximizing Playability with Epic Games on Steam Deck</u></a></li>
+<li><a href="https://article-tips.techidaily.com/realtime-av-enthusiasts-community/"><u>RealTime AV Enthusiasts Community</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-powerhouse-platform-an-introduction-to-twitchs-offerings/"><u>The Powerhouse Platform: An Introduction to Twitch's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulators-bring-classic-gbadvance-games-alive/"><u>Top 4 iOS Emulators: Bring Classic GBAdvance Games Alive!</u></a></li>
 </ul></div>
 

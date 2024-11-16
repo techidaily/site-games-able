@@ -1,7 +1,7 @@
 ---
 title: Exciting 10 Gaming Experiences to Sharpen Design Aptitude
-date: 2024-11-01T16:47:21.565Z
-updated: 2024-11-05T19:04:44.493Z
+date: 2024-11-13T18:05:13.867Z
+updated: 2024-11-16T04:12:47.614Z
 tags:
   - games
 categories:
@@ -47,10 +47,16 @@ The game presents a gradient color wheel. There are six rounds:
 ![Pixactly design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pixactly-design-game.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pixactly is a great game for pixel perfectionists. If you think you can estimate pixel sizes, now’s your time to test yourself.
@@ -77,6 +83,13 @@ Close
 
 ![Can't Unsee design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cant-unsee-design-game.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is the design game for perfectionists. Can’t Unsee presents two UX/UI designs, and you must select which one is wrong.
 
  When it comes to UX/UI design, there are standards to be followed, such as using colors to represent global standards—like red being negative or green being positive—and layouts like hierarchal text.[Designing in grayscale is a great process for UX/UI designers](https://www.makeuseof.com/grayscale-ui-ux-design-benefits/) , but when it’s time for color and other elements, this game will help too.
@@ -91,18 +104,25 @@ Close
 
  This game is scored and timed, and with every few rounds, it increases in difficulty. If you’ve got a good eye for color, you’ll enjoy this game and score highly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6. It’s Centred That
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-001.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-002.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![It's Centred That design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/its-centered-that-003.jpg)
 
@@ -112,23 +132,9 @@ Close
 
  In ten levels, you’ll be asked if a black dot is central to the shape on which it's placed. Select the happy emoji if you think it is or the poop emoji if you think it isn’t. Keep going through the rounds and find your results. It’s a great practice for eye measurements in design.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7. Hex Invaders
 
 ![Hex Invaders design game.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hex-invaders-design-game.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another great color game, Hex Invaders helps you identify color combinations by their HEX codes. The HEX code is a 6-digit code that uses letters and numbers to represent the levels of Red, Green, and Blue—RGB—that make up any screen color.
 
@@ -138,16 +144,16 @@ Close
 
 ![Font Memory Game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/font-memory-game-design-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s everybody’s favorite card game—Snap—for typography enthusiasts. This game tests not only your creative knowledge of font recognition, but also your memory.
 
  Flip each card presenting a typographic example and match it with its partner. This game is low-stakes and a reminder to use some[games or apps to improve your memory](https://www.makeuseof.com/best-adult-memory-game-apps/) in your spare time, too.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9. The Bézier Game
 
@@ -161,13 +167,6 @@ Close
 
 ![Figma Ninja design game in Figma.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/figma-ninja-design-game.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This game is most interesting because it isn’t programmed like a game. There’s no animation or automation. Figma Ninja is an open Figma file where each page is a game screen; it has instructions on the pages, and you move through each page yourself.
 
  The aim of Figma Ninja is to improve your Figma skills and shortcut knowledge. There’s no scoring system or incorrect buzzer when you make a mistake. It’s a self-improvement game.
@@ -175,10 +174,10 @@ Close
  Figma Ninja has turned design into a game while retaining the background of a design program. Read our[beginner’s guide to Figma](https://www.makeuseof.com/how-to-use-figma-beginners-guide/) if you want a level playing field before playing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 11. Kerntype
@@ -189,22 +188,16 @@ Close
 
  The two outer letters are locked in place, and the aim of the game is to move any middle letters left or right until they are correctly set. A blue outline will show the correct placement, and you’ll be given a percentage of how close you were.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12. What the Hex?
 
 ![What The Hex? Design game screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/what-the-hex-design-game.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can pair the knowledge gained from playing Hex Invaders with this color-matching game. What the Hex? Presents a HEX code and five color swatches. Your job is to find which color is represented in the HEX.
 
@@ -226,6 +219,13 @@ Close
 
  If the competition of Dudel Draw isn't enough for you, you could also enter[creative design challenges to improve your design skills](https://www.makeuseof.com/design-challenges-to-boost-creativity/) and confidence.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gamify Your Creative Design Skills
 
  Practicing your creative design skills can sometimes feel boring or repetitive, but gamifying the learning process keeps it fun and engaging. Even through silly-seeming games, you’re improving your creative eye or design skillset. With 13 games to choose from, you’ll find something you can do in your spare time that helps you become a better creative, whether it’s typographic recognition, color-matching, or digital drawing.
@@ -245,20 +245,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-decoding-youtubes-procedure-after-a-video-is-uploaded-for-2024/"><u>[Updated] Decoding YouTube's Procedure After a Video Is Uploaded for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-sony-xperia-1-v-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Sony Xperia 1 V to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-ipads-for-children-ultimate-guide-to-the-top-picks-of-2022/"><u>Best iPads for Children - Ultimate Guide to the Top Picks of 2022</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms/"><u>In 2024, The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/injecting-external-urls-into-instagram-content-for-2024/"><u>Injecting External URLs Into Instagram Content for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/momentous-matchups-temporary-gaming-grants/"><u>Momentous Matchups: Temporary Gaming Grants</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-impact-of-machine-intelligence-on-coder-productivity/"><u>Navigating the Impact of Machine Intelligence on Coder Productivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-power-up-speculations-on-switch-2/"><u>Portable Power-Up: Speculations on Switch 2</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-144hz-monitors-enhanced-gameplay-experience/"><u>Prime 144Hz Monitors - Enhanced Gameplay Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/redefining-your-viewing-experience-youtube-playlist-shuffle-for-2024/"><u>Redefining Your Viewing Experience YouTube Playlist Shuffle for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-for-a-smooth-transition-from-xbox-to-steam-via-glossi/"><u>Step-by-Step for a Smooth Transition From Xbox to Steam via GlosSI</u></a></li>
-<li><a href="https://games-able.techidaily.com/tranquil-interludes-unlock-idle-games/"><u>Tranquil Interludes: Unlock Idle Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-creativity-in-chess-with-these-6-new-apps/"><u>Unleash Creativity in Chess with These 6 New Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/valheims-flora-frontier-unlocking-the-best-seeds-for-2024/"><u>Valheim's Flora Frontier Unlocking the Best Seeds for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elite-racing-titles-our-five-favorites/"><u>[New] Elite Racing Titles Our Five Favorites</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-crack-open-your-marketing-potential-with-these-nine-tactics/"><u>[New] In 2024, Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-nba-streaming-top-15-essentials/"><u>[Updated] Step-by-Step Guide to NBA Streaming - Top 15 Essentials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-360-eye-exploration-test-for-2024/"><u>[Updated] Ultimate 360° Eye Exploration Test for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/building-your-own-rotatable-photobook-from-physical-images-with-flipbuilder-techniques/"><u>Building Your Own Rotatable Photobook From Physical Images with FlipBuilder Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-request-a-refund-for-a-digital-game-on-the-xbox-series-xs/"><u>How to Request a Refund for a Digital Game on the Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/setting-up-games-installing-on-steam-deck/"><u>Setting Up Games: Installing On Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-144hz-widescreen-panels-peak-pc-gaming-performance/"><u>Top 144Hz Widescreen Panels: Peak PC Gaming Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-nvidia-g-sync-for-peak-game-performance/"><u>Understanding Nvidia G-Sync for Peak Game Performance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts-for-2024/"><u>Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-choosing-a-superior-gaming-screen/"><u>Unlock the Secrets to Choosing a Superior Gaming Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-playtime-patterns-and-achievement-progress-through-steam-metrics/"><u>Unveiling Playtime Patterns and Achievement Progress Through Steam Metrics</u></a></li>
 </ul></div>
 

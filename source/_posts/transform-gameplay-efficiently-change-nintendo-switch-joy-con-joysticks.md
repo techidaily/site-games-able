@@ -1,7 +1,7 @@
 ---
 title: "Transform Gameplay: Efficiently Change Nintendo Switch Joy-Con Joysticks"
-date: 2024-10-19T07:27:58.529Z
-updated: 2024-10-24T20:02:00.343Z
+date: 2024-11-15T02:16:40.254Z
+updated: 2024-11-16T04:31:51.211Z
 tags:
   - games
 categories:
@@ -37,18 +37,18 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
  When all the above methods fail, learning how to replace your faulty joysticks yourself is the best option. It is worth noting, however, that doing so voids your warranty. But if your warranty has already run out, and you would rather fix your pair for around $10.00 rather than pay $79.99 for a new set, you don’t really have much to lose.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Do I Need to Replace the Joysticks in My Nintendo Switch Joy-Con?
 
  There are a couple of tools you will require to complete the task at hand. These can all be purchased individually or in sets from sites like eBay or Amazon for just a couple of dollars each.
 
 ![Tools For Replacing Joy Con Joystick](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/tools-for-replacing-joy-con-joystick.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * 1.5mm tri-wing screwdriver.
 * 2.0mm Phillips head screwdriver.
@@ -67,23 +67,32 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 1. The first step is to remove the four screws on the back of the Joy-Con. This can be done with the 1.5mm tri-wing screwdriver.  
 ![Joy Con Four Back Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-four-back-screws.jpg)
 2. Gently run the plastic prying tool around the outside seam of your Joy-Con until the two plastic shells come apart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Use the plastic prying tool to gently pry the battery out. It can be a little difficult since the battery is stuck down with some sticky tabs, but it will come loose eventually. If you don’t have a plastic prying tool, that’s fine, using your finger will do. Just make sure you don’t use anything metal to pry your battery out.
 4. Unplug the battery by pulling the cord directly upwards and placing it to the side.
 5. Remove the three screws holding the center plate down with the 2.0mm Phillips head screwdriver. You only have to remove the top left, bottom right, and bottom right corner screws.  
 ![Joy Con Three Middle Plate Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-three-middle-plate-screws-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Remove the ribbon cable holding the center plate on by gently lifting the flap and pulling it out.
 2. Gently unplug the blue ribbon cable near the joystick.
 3. Unplug the ribbon cable that runs over the top of the joystick.  
 ![Joystick Ribbon Cables in Joy Con](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joystick-ribbon-cables-in-joy-con-1.jpg)
 4. Grab your 2.0mm Phillips head screwdriver and remove the two screws holding the joystick in place. Gently wiggle the joystick until it releases and place it to the side.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Take your new joystick and place it in position, then reinstall the two screws you just removed with your 2.0mm Phillips head screwdriver.  
 ![Joy Con Joystick Screws](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/joy-con-joystick-screws.jpg)
 
@@ -96,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 5. Place the backplate on and screw the four screws back in using the 1.5mm tri-wing screwdriver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your Joy-Con should now be as good as new. The last step is to use the joystick calibration tool to make sure everything is working as it should. You can find the calibration tool in the Switch’s settings. Scroll down to**Controllers and Sensors** , press**Calibrate Control Sticks** , and follow the on-screen prompts to calibrate your joysticks.
@@ -107,19 +116,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
  As simple as replacing your joystick is, it's not ideal to have to repeat the process frequently. Make sure to regularly[clean your Nintendo Switch and Joy-Con](https://www.makeuseof.com/how-to-safely-clean-nintendo-switch-and-joy-cons/) to prevent dust buildup and increase the longevity of your joysticks.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Say Goodbye to Joy-Con Drift Forever With This Guide
 
@@ -142,22 +138,15 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-top-10-global-youtube-personalities-peak-of-viewership/"><u>[New] In 2024, Top 10 Global YouTube Personalities Peak of Viewership</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-real-time-capture-simplified-a-deep-dive-into-vimeo-record/"><u>[Updated] 2024 Approved Real-Time Capture Simplified A Deep Dive Into Vimeo Record</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-expertly-selected-8-filters-for-virtual-showcases-for-2024/"><u>[Updated] Expertly Selected 8 Filters for Virtual Showcases for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-your-channels-evading-synthetic-watchers/"><u>[Updated] In 2024, Amplify Your Channels Evading Synthetic Watchers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-filmmakers-dilemma-picking-between-filmora-and-democracy-creator/"><u>2024 Approved Filmmaker's Dilemma Picking Between Filmora & Democracy Creator</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-versus-computer-what-plays-better/"><u>Console Versus Computer: What Plays Better?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/convert-and-save-your-favorite-jibjab-content-in-various-formats-mp4-wmv-avi/"><u>Convert and Save Your Favorite JibJab Content in Various Formats (MP4, WMV, AVI)</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-premier-collection-of-ps3-emulators-for-pc/"><u>Explore: The Premier Collection of PS3 Emulators for PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/gameplay-innovations-light-and-leverage/"><u>Gameplay Innovations: Light and Leverage</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-powerpoint-version-updates-a-comprehensive-tutorial/"><u>Mastering the Art of PowerPoint Version Updates - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-mobile-playtime-with-an-external-controller-for-android/"><u>Maximize Mobile Playtime with an External Controller for Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/mmo-evolutionary-path-then-and-now/"><u>MMO Evolutionary Path: Then & Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/productivity-seat-not-a-throne/"><u>Productivity Seat, Not a Throne</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-the-past-30-top-rated-ps3-emulators-for-your-pc/"><u>Relive the Past: 30 Top-Rated PS3 Emulators for Your PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-move-with-activision-pros-and-cons-explored/"><u>Xbox's Move with Activision: Pros and Cons Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-edge-photography-the-best-4k-mirrorless-cameras/"><u>[New] Leading Edge Photography The Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-document-the-drive-on-your-galaxy-screen-for-2024/"><u>[Updated] Document the Drive on Your Galaxy Screen for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-masterful-zoom-techniques-simple-iphone-solutions/"><u>[Updated] Masterful Zoom Techniques Simple iPhone Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/dispelling-the-incompatibility-with-steam-files/"><u>Dispelling the Incompatibility with Steam Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/ephemeral-online-adventures-should-we-ponder-their-legacy/"><u>Ephemeral Online Adventures – Should We Ponder Their Legacy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-motherboards-at-reasonable-prices/"><u>Game-Changing Motherboards at Reasonable Prices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-inside-look-magix-video-pro-x/"><u>In 2024, Inside Look Magix Video Pro X</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-6s-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 6s and Android Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-missing-gps-on-your-pokemon-journey/"><u>Restoring Missing GPS on Your Pokémon Journey</u></a></li>
 </ul></div>
 

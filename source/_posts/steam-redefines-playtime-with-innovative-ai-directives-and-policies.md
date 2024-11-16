@@ -1,7 +1,7 @@
 ---
 title: Steam Redefines Playtime with Innovative AI Directives and Policies
-date: 2024-09-09T09:43:22.214Z
-updated: 2024-09-10T09:43:22.214Z
+date: 2024-11-09T02:14:05.656Z
+updated: 2024-11-15T19:26:02.180Z
 tags:
   - games
 categories:
@@ -14,23 +14,18 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
 ## Steam Redefines Playtime with Innovative AI Directives and Policies
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Steam Takes a Softer Stance on Games Using AI](#steam-takes-a-softer-stance-on-games-using-ai)
 * [How Steam's AI Games Policy Could Affect Gamers](#how-steam-39-s-ai-games-policy-could-affect-gamers)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam has adjusted its policies towards games using generative AI. A shift from its previously cautious approach.
@@ -40,17 +35,12 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Steam Takes a Softer Stance on Games Using AI
 
  In 2023, Steam's parent company Valve noted that it needed time to learn more about the complex legalities and copyright rules around generative AI before making any rash decisions.
@@ -75,6 +65,19 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
  Steam is already home to a vast array of games, with tens of thousands of new titles added each year.
@@ -83,12 +86,6 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
 
  With the sheer volume of games that Steam publishes, many low-quality games (and games that clone other titles) appear on the storefront.
@@ -99,22 +96,10 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
  To get an AI game published, developers will need to submit a disclosure to Valve. But for those who are dishonest in their disclosure, the responsibility is being passed onto players to report illegal AI content.
@@ -125,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
  If you don't want to play games that use AI-generated content, you will need to look out for the relevant disclosures on Steam Store pages. Some gamers may want to avoid these games due to quality concerns, or ethical concerns around who the content truly belongs to.
@@ -133,14 +125,11 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
 
  Whether you're excited to see what creative takes will appear on the Steam store, or you're concerned about the impact on quality and discoverability, games using generative AI are now officially welcome on Steam.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +138,22 @@ thumbnail: https://thmb.techidaily.com/aa827fc3b79814207754c42d6a6a4c83088ec414a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-strategies-for-hiring-superior-cinematographers/"><u>[New] 2024 Approved Strategies for Hiring Superior Cinematographers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-harmony-hub-next-gen-unveiled/"><u>[New] In 2024, Harmony Hub Next Gen Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-pros-guide-to-conquering-photovideo-importers-in-win11/"><u>[New] The Pro's Guide to Conquering Photo/Video Importers in Win11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-record-screen-and-upload-to-youtube-pc-mac-online/"><u>[Updated] Record Screen and Upload to YouTube [PC, Mac, Online]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-maplestory-freezes-and-crashes-on-windows-10-with-proven-techniques/"><u>Banish MapleStory Freezes & Crashes on Windows 10 with Proven Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-xbox-hardware-protection/"><u>Decoding Xbox Hardware Protection</u></a></li>
+<li><a href="https://games-able.techidaily.com/disable-game-overlay-on-discord-client/"><u>Disable Game Overlay on Discord Client</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-youtube-video-glitches-on-apple-devices/"><u>Fixing YouTube Video Glitches on Apple Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-compress-your-retrogame-isos-with-chdman-and-keep-using-them/"><u>How to Compress Your Retrogame ISOs With CHDMAN (and Keep Using Them)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-narzo-60-pro-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pastglam-pocket-luxury-in-a-minuscule-form/"><u>PastGlam Pocket: Luxury in a Minuscule Form</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-your-route-with-correct-gps-in-pokemon-go/"><u>Rediscover Your Route with Correct GPS in Pokémon Go</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-10-heavy-lift-drones-you-should-know-for-2024/"><u>Top 10 Heavy Lift Drones You Should Know for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xboxs-video-adjustment-features/"><u>Understanding Xbox's Video Adjustment Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-meta-quest-potential-for-steam-gaming/"><u>Unleash Your Meta Quest Potential for Steam Gaming</u></a></li>
+</ul></div>
 

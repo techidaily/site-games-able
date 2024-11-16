@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2024-11-01T18:41:17.548Z
-updated: 2024-11-05T19:57:45.473Z
+date: 2024-11-08T20:01:35.959Z
+updated: 2024-11-16T01:27:48.763Z
 tags:
   - games
 categories:
@@ -49,6 +49,13 @@ Let’s explore some of the names leading the scene.
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
  Players control Diogenes’ sledgehammer with their mouse and nothing else. It can be rotated around a limited pivot but holds enough power to move the pot-dweller. As such, you’re meant to ascend steep hills and navigate tricky terrain with the sledgehammer alone.
@@ -60,13 +67,6 @@ Let’s explore some of the names leading the scene.
  So, if you want to sink deeper into this unique and intriguing game genre, Getting Over It is worth exploring—to say the least.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Pogostuck
 
@@ -80,9 +80,23 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -94,23 +108,9 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -123,10 +123,10 @@ Let’s explore some of the names leading the scene.
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It’s About the Journey
@@ -150,22 +150,22 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-noworrycapture-quick-and-easy-win11-recordings/"><u>[New] In 2024, NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-carbon-footprint-reduction-in-the-cityscape-revolution/"><u>[Updated] 2024 Approved Carbon Footprint Reduction in the Cityscape Revolution</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-kinemaster-tools-for-cohesive-narrative-flow/"><u>[Updated] 2024 Approved Kinemaster Tools for Cohesive Narrative Flow</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-audio-notes-essential-tips/"><u>[Updated] Mastering Audio Notes Essential Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-performance-on-windows-with-the-asrock-ab350-pro4-complimentary-drivers-available-for-download-now/"><u>Boost Performance on Windows with the ASRock AB350 Pro4 - Complimentary Drivers Available for Download Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-stakes-gaming-frame-rate-boost-techniques/"><u>High Stakes Gaming: Frame Rate Boost Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-thinning-down-tech-colorizing-connectivity-with-tecno/"><u>IFA Thinning Down Tech, Colorizing Connectivity with Tecno</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>In 2024, Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-superior-websites-for-a-modern-social-experience/"><u>In 2024, Superior Websites for a Modern Social Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-quick-resume-a-worthwhile-feature-of-your-xbox-series-xs/"><u>Is Quick Resume a Worthwhile Feature of Your Xbox Series X|S?</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-performance-not-safety-graphics-alert/"><u>Peak Performance, Not Safety: Graphics Alert</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-user-experience-steps-to-handle-switch-accounts/"><u>Simplify User Experience: Steps to Handle Switch Accounts</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-the-update-changing-your-name-and-slogan-in-riot/"><u>Streamlining the Update: Changing Your Name & Slogan in Riot</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-clean-tech-gurus-ps5-revival-guide/"><u>The Clean Tech Guru's PS5 Revival Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-put-a-background-on-a-green-screen/"><u>Updated 2024 Approved How to Put a Background on A Green Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-now-question-my-rtx-4090-spending/"><u>Why I Now Question My RTX 4090 Spending</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/xbox-series-s-evaluation-astonishing-tech-in-compact-design/"><u>Xbox Series S Evaluation: Astonishing Tech in Compact Design</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-digital-domain-decision-which-platform-for-your-videos-in-2024/"><u>[Updated] Digital Domain Decision Which Platform for Your Videos, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-blueprint-for-producing-high-impact-youtube-videos/"><u>[Updated] The Blueprint for Producing High-Impact YouTube Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/authentic-sades-headset-drivers-for-windows-100-safe-to-install-immediate-access-available/"><u>Authentic Sades Headset Drivers for Windows – 100% Safe to Install, Immediate Access Available</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-validity-of-discords-offline-label/"><u>Examining the Validity of Discord’s 'Offline' Label</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-affordable-stunning-1440p-gaming-monitors-under-500/"><u>Expert Tips: Affordable, Stunning 1440P Gaming Monitors Under $500</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-harmony-a-salute-to-independence/"><u>Global Harmony: A Salute to Independence</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-maintain-your-gpu-at-ideal-gameplay-temp-levels/"><u>How to Maintain Your GPU at Ideal Gameplay Temp Levels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/immediate-steps-to-rectify-itbm-driver-not-accessible-warning/"><u>Immediate Steps to Rectify 'ITBM Driver Not Accessible' Warning</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pushing-boundaries-with-high-speed-cinematography/"><u>In 2024, Pushing Boundaries with High-Speed Cinematography</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s24-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S24 Screen | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-surging-through-the-noise-supercharging-telegram-campaigns/"><u>In 2024, Surging Through the Noise Supercharging Telegram Campaigns</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimalism-meets-gaming-how-to-shrink-game-isos-with-chdman/"><u>Minimalism Meets Gaming: How to Shrink Game ISOs with CHDMAN</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-error-during-oculus-app-setup/"><u>Remedying Error During Oculus App Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-selection-of-console-games-for-macos/"><u>The Ultimate Selection of Console Games for macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-epic-and-steam-step-by-step-guide/"><u>Uniting Epic & Steam: Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-computer-gear-at-toms-hardware-insights/"><u>Unveiling the Latest Computer Gear at Tom's Hardware Insights</u></a></li>
 </ul></div>
 

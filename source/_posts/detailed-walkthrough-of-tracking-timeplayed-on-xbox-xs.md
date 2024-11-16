@@ -1,7 +1,7 @@
 ---
 title: Detailed Walkthrough of Tracking Timeplayed on Xbox X/S
-date: 2024-10-30T16:34:13.011Z
-updated: 2024-11-05T16:33:49.194Z
+date: 2024-11-08T23:20:31.689Z
+updated: 2024-11-16T01:52:27.232Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Check Your Time Played From Your Xbox Series X|S
 
  Now you know some of the caveats of the feature, you can go ahead and start checking your**Time played** stat for any game you've played with your Xbox account without any confusing surprises.
@@ -55,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
 
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
@@ -84,31 +91,18 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the Load screen for Mass Effect Legendary Edition on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2893.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official[Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
- But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -131,24 +125,24 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-video-editor-for-vimeo/"><u>[New] 2024 Approved Best Video Editor for Vimeo</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-mastering-the-art-of-youtube-creating-accessible-video-ideas/"><u>[New] In 2024, Mastering the Art of YouTube Creating Accessible Video Ideas</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slomo-mastery-unleashed-in-depth-2024-review/"><u>[Updated] SloMo Mastery Unleashed In-Depth 2024 Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-essential-snapshot-strategies-snapchat-boomerangs-unveiled/"><u>2024 Approved The Essential Snapshot Strategies Snapchat Boomerangs Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-disrupted-copy-and-paste-on-windows-11/"><u>Addressing Disrupted Copy & Paste on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-crafting-guide-for-mc-map-integration/"><u>Comprehensive Crafting Guide for MC Map Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/detailed-ps4-reset-procedure-walkthrough/"><u>Detailed PS4 Reset Procedure Walkthrough</u></a></li>
-<li><a href="https://games-able.techidaily.com/ea-plays-top-30-games-for-a-ps5-night-in/"><u>EA Play’s Top 30 Games for a PS5 Night In</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-display-driver-failed-to-start-error-on-windows-10-and-11/"><u>How to Fix the “Display Driver Failed to Start” Error on Windows 10 & 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-tips-for-sharing-twitter-videos-via-instagram/"><u>In 2024, Tips for Sharing Twitter Videos via Instagram</u></a></li>
-<li><a href="https://games-able.techidaily.com/origins-and-odyssey-foddian-games-tale/"><u>Origins and Odyssey: Foddian Games Tale</u></a></li>
-<li><a href="https://games-able.techidaily.com/prioritize-performance-a-guide-to-essential-pc-upgrades/"><u>Prioritize Performance: A Guide to Essential PC Upgrades</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-to-combat-graphics-panel-sagging-effects/"><u>Solutions to Combat Graphics Panel Sagging Effects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/solving-god-of-war-stability-issues-a-guide-to-fixing-game-crashes-on-computer/"><u>Solving God of War Stability Issues: A Guide to Fixing Game Crashes on Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/sparking-change-what-more/"><u>Sparking Change: What More?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/steps-for-perfect-audio-transition-in-adobe-audition-for-2024/"><u>Steps for Perfect Audio Transition in Adobe Audition for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-amds-rdna-35-features-and-launch-timeline/"><u>Unveiling AMD's RDNA 3.5: Features and Launch Timeline</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-media-reader-unmatched-for-all-devices-type/"><u>[Updated] 2024 Approved Elite Media Reader - Unmatched for All Devices Type</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-recording-games-like-a-pro-discover-the-best-of-windows-11-methods/"><u>[Updated] In 2024, Recording Games Like a Pro Discover the Best of Windows 11 Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>[Updated] Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-audio-transcription-insights-into-azures-speech-recognition/"><u>2024 Approved Simplifying Audio Transcription Insights Into Azure's Speech Recognition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/child-becomes-children/"><u>Child Becomes Children</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked!</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gameplay-and-monetization-top-7-bots-for-twitch-enthusiasts/"><u>Elevate Gameplay & Monetization - Top 7 Bots for Twitch Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172767277-enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up!</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-steam-image-redundancy/"><u>Essential Tips for Steam Image Redundancy</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-typing-and-the-quest-for-optimal-pace/"><u>High-Speed Typing and the Quest for Optimal Pace</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/how-to-access-and-listen-to-apple-music-effortlessly-on-android-phones/"><u>How to Access and Listen to Apple Music Effortlessly on Android Phones</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Without a Home Button</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-itel-s23-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Itel S23 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-ps5-connectivity-wi-fi-troubleshooting-steps/"><u>Navigating PS5 Connectivity: Wi-Fi Troubleshooting Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-spinning-discs-no-stress-on-your-series-x/"><u>No Spinning Discs, No Stress! On Your Series X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/shine-bright-easy-brightening-for-iphones-visual-content-for-2024/"><u>Shine Bright Easy Brightening for iPhone's Visual Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-5-features-we-loved-on-the-new-lenovo-legion-go-at-ifa-2023/"><u>The 5 Features We Loved on the New Lenovo Legion Go at IFA 2023</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-zero-5g-2023-turbo-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Zero 5G 2023 Turbo Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/win1111s-dxgierror-0x887a0006-unlock-your-device/"><u>Win11/11's DXGI_ERROR 0X887A0006: Unlock Your Device</u></a></li>
 </ul></div>
 

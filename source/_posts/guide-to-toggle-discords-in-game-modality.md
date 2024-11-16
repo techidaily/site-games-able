@@ -1,7 +1,7 @@
 ---
 title: Guide to Toggle Discord's In-Game Modality
-date: 2024-09-09T09:43:58.859Z
-updated: 2024-09-10T09:43:58.859Z
+date: 2024-11-10T17:58:29.149Z
+updated: 2024-11-15T19:13:08.782Z
 tags:
   - games
 categories:
@@ -35,12 +35,6 @@ To turn on the Discord overlay, follow these steps:
 
 ![Discord Detecting the Game Being Played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-detecting-the-game-being-played.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If Discord doesn't automatically detect the game, you must troubleshoot the problem. If you fail to[fix the game detection feature in Discord](https://www.makeuseof.com/windows-discord-game-detection-not-working/) , you can manually add the game.
 
 Here's how:
@@ -51,26 +45,15 @@ Here's how:
 4. Click on**Add it!** on the right**.**  
 ![Adding a Game Manually in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-game-manually-in-discord.jpg)
 5. Select the game you want to add from the list and hit**Add Game** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to Use the Discord Overlay During Gaming
 
  Once you have enabled the overlay, you'll get a notification for every incoming text or call, even when playing the game in full screen.
@@ -80,18 +63,20 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
 
@@ -108,32 +93,24 @@ Follow these steps to disable the in-game overlay:
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
 
  Overlays save gamers from the hassle of navigating through different apps during gameplay and make it easier for them to communicate. Discord's overlay helps you stay on top of your communication in-game. Hopefully, you now better understand how to enable the overlay in Discord, use it, and turn it off when needed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +119,26 @@ Follow these steps to disable the in-game overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-creativity-a-guide-to-instagram-story-archiving/"><u>[New] In 2024, Unlocking Creativity A Guide to Instagram Story Archiving</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-transform-your-tech-experience-learn-how-to-screen-record-efficiently/"><u>[Updated] In 2024, Transform Your Tech Experience Learn How to Screen Record Efficiently</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-movie-magic-on-mobile-ioss-best-free-and-paid-film-apps-for-2024/"><u>[Updated] Movie Magic on Mobile IOS's Best Free and Paid Film Apps for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-pioneering-popularity-with-powerful-instagram-videos/"><u>2024 Approved Pioneering Popularity with Powerful Instagram Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-setup-tutorial-activating-your-account-for-microsoft-bings-smart-search-features/"><u>Easy Setup Tutorial: Activating Your Account for Microsoft Bing's Smart Search Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-handheld-gamers-choices/"><u>Exploring Handheld Gamers' Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y27s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mini-led-savings-gamers-delight-screen/"><u>Mini-LED Savings: Gamer's Delight Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-3d-strategies-for-high-performance-gaming/"><u>Optimal 3D Strategies for High-Performance Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-speed-unlock-the-full-potential-of-steam-deck-keys/"><u>Precision and Speed: Unlock the Full Potential of Steam Deck Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/proliferating-purchasing-power-for-steam-gamers/"><u>Proliferating Purchasing Power for Steam Gamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secret-sauce-for-a-peak-performance-ps4/"><u>The Secret Sauce for a Peak Performance PS4</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/vrs-expensive-edge-analyzing-the-financial-hurdles/"><u>VR's Expensive Edge: Analyzing the Financial Hurdles</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-encouraging-gamers-to-develop-games-can-have-negative-consequences/"><u>Why Encouraging Gamers to Develop Games Can Have Negative Consequences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-italy-has-banned-chatgpt-with-immediate-effect/"><u>Why Italy Has Banned ChatGPT “With Immediate Effect”</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controllers-the-legality-of-third-party-modifications/"><u>Xbox Controllers – The Legality of Third-Party Modifications</u></a></li>
+</ul></div>
 

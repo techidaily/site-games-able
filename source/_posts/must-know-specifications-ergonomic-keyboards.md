@@ -1,7 +1,7 @@
 ---
 title: "Must-Know Specifications: Ergonomic Keyboards"
-date: 2024-09-09T09:42:15.977Z
-updated: 2024-09-10T09:42:15.977Z
+date: 2024-11-09T18:19:58.232Z
+updated: 2024-11-15T16:28:31.854Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Ergonomic Keyboards Guide,Keyboard Comfort Tips,ErgoKey Design Feature
 thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597c10c002cec7499f13b2deb2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Must-Know Specifications: Ergonomic Keyboards
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Form Factor: 60 Percent, TKL, and More](#form-factor-60-percent-tkl-and-more)
@@ -34,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 * [Analog Switches With Rapid Trigger](#analog-switches-with-rapid-trigger)
 * [The Actuation Point and Actuation Force of Switches](#the-actuation-point-and-actuation-force-of-switches)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Gaming keyboards come in various sizes. Choose the form factor depending on how much mouse space you need.
@@ -52,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
 ![Wooting 60HE product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-product-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Wooting](https://wooting.io/wooting-60he)
 
  Not everyone wants a full-sized keyboard on their desk. If you're someone who regularly plays FPS games, you may need more mouse real estate for those flick shots. Downsizing to a 60 percent or tenkeyless (TKL) keyboard is a great way to get more space.
@@ -78,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
  I recommend the[Wooting 80HE](https://wooting.io/wooting-80he) , as it features industry-leading analog switches, which I'll get to in a bit. You can also find other popular options on Amazon, like the[Corsair K65 Mini](https://www.amazon.com/Corsair-Customizable-Backlighting-Keyswitches-Hyper-Processing/dp/B08W2CSXLM/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) ,[Razer Huntsman V2](https://www.amazon.com/Razer-Huntsman-Optical-Gaming-Keyboard/dp/B09C12L49Z/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) , and[NZXT Function 2](https://www.amazon.com/NZXT-Tenkeyless-Adjustable-Double-Shot-Hot-Swappable/dp/B0CST2HK9G/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Low-Latency 2.4GHz Wireless Mode
 
 ![Logitech Pro X 60 promo image showing Lightspeed wireless feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/logitech-pro-x-60-promo-image-showing-lightspeed-wireless-feature.jpg)
@@ -90,16 +73,17 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
  These keyboards come with a dongle that you connect to your PC to set up a wireless connection between the keyboard and the dongle. You can choose from[Logitech Pro X 60](https://www.amazon.com/Logitech-Lightspeed-Mechanical-LIGHTSYNC-Dual-Shot/dp/B0BRSSGBCN/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) ,[SteelSeries Apex Pro TKL](https://www.amazon.com/New-SteelSeries-Apex-Wireless-2023/dp/B0BF67DM6K/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) , and[Razer DeathStalker V2 Pro TKL](https://www.amazon.com/Razer-DeathStalker-Wireless-Gaming-Keyboard/dp/B0BLZXCZSL/?tag=makeusw-20&ascsubtag=UUmuoUeUpU2032167&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Funique-features-to-look-for-in-gaming-keyboard%2F&asc%5Fcampaign=Evergreen) if you're not satisfied with[our wireless mechanical keyboard recommendations](https://www.makeuseof.com/best-wireless-mechanical-keyboards/) .
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Analog Switches With Rapid Trigger
 
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You may be familiar with traditional mechanical switches because most gaming keyboards have them already. Consider analog switches as a step up from mechanical switches; they give you much more control over the actuation point and distance. Analog keyboards can use either[magnetic hall effect switches or optical switches](https://www.makeuseof.com/hall-effect-vs-optical-switches/) . They both work differently to give you the same benefits.
 
  For instance, magnetic switches have a hall effect sensor and magnets in the switch's stem. When you press a key, the magnets trigger the hall effect sensor to activate the switch. On the other hand, optical switches have infrared sensors. When you press a key, the switch's stem blocks the infrared beam, which the sensor detects to register the keypress.
@@ -108,22 +92,24 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
  Analog keyboards typically offer a feature called Rapid Trigger, which instantly deactivates the key when you release it. Also, you don't have to wait for the key to completely reset before you press it again to register another keypress. This lets you "spam" a key as much as you want. These keyboards also let you adjust the Rapid Trigger sensitivity to as low as 0.1mm.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 The Actuation Point and Actuation Force of Switches
 
 ![cherry mx switch tester up close with other switches](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/cherry-mx-switch-tester-up-close-with-other-switches.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Another important point to consider is the actuation point and actuation force of the switches. A lower actuation point (or distance) means you'll register the keypress faster. A lower actuation force, on the other hand, means you can press it with less effort. However, this also means you're more prone to making typos.
@@ -138,14 +124,11 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
 
  Now that you know what to look for in your next gaming keyboard, buyer's remorse is the last thing you need to worry about.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +137,24 @@ thumbnail: https://thmb.techidaily.com/3153de74f0140829de221d87f3024edf0be402597
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-imageinstinct-a-compreehensive-guide-for-instagram-size-control/"><u>[Updated] ImageInstinct A Compreehensive Guide for Instagram Size Control</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-comprehensive-list-audio-pace-modification-tools/"><u>[Updated] In 2024, Comprehensive List Audio Pace Modification Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/formulating-complaints-about-player-misbehavior-on-gaming-system/"><u>Formulating Complaints About Player Misbehavior on Gaming System</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>In 2024, Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-system-performance-5-techniques-to-limit-steams-ram-usage/"><u>Master System Performance: 5 Techniques to Limit Steam's RAM Usage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mastering-screen-recordings-powerpoint-edition/"><u>Mastering Screen Recordings PowerPoint Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mornings-spoken-worldwide-exploring-greetings-from-different-cultures/"><u>Mornings Spoken Worldwide: Exploring Greetings From Different Cultures</u></a></li>
+<li><a href="https://games-able.techidaily.com/potential-harm-from-allowing-players-to-fund-game-creation/"><u>Potential Harm From Allowing Players to Fund Game Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivating-playstations-online-services-swiftly/"><u>Reactivating PlayStation's Online Services Swiftly</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-game-absence-in-eg-libraries/"><u>Resolving Game Absence in EG Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-tech-frontier-of-2024-ai-hardware-at-computex/"><u>The Tech Frontier of 2024: AI Hardware at Computex</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-6-downfalls-with-upcoming-intel-processors/"><u>The Top 6 Downfalls with Upcoming Intel Processors</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-gratuitous-gaming/"><u>The Ultimate List of Gratuitous Gaming</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-addressing-the-resolved-windows-11-update-data-base-problem/"><u>Understanding & Addressing the Resolved Windows 11 Update Data Base Problem</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlock-the-power-of-windows-11-to-rapidly-close-frozen-applications-for-a-smoother-user-experience/"><u>Unlock the Power of Windows 11 to Rapidly Close Frozen Applications for a Smoother User Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-evolution-the-significant-changes-from-w10-to-w11/"><u>Windows Evolution: The Significant Changes From W10 to W11</u></a></li>
+</ul></div>
 

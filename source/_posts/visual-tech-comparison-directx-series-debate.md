@@ -1,7 +1,7 @@
 ---
 title: "Visual Tech Comparison: DirectX Series Debate"
-date: 2024-09-13T16:46:10.522Z
-updated: 2024-09-15T16:02:47.489Z
+date: 2024-11-12T20:45:28.817Z
+updated: 2024-11-16T04:15:29.109Z
 tags:
   - games
 categories:
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
  So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
 
  DirectX 11 was first released for Windows Vista on October 27, 2009\. So, with DirectX 12 following in 2015, there's a six-year gap between DirectX 11 and DirectX 12\. During this time, thousands of games have been developed using DirectX 11\. Unfortunately, moving from DirectX 11 to DirectX 12 is anything but easy.
@@ -57,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DX 11 vs. DX 12: Which Should You Choose?
@@ -74,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -91,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
  The results are surprising in many ways, with little visual difference at times between DX 11 and DX 12, despite the multiple years of difference between their launches. You may have also noted the differences in GPU and CPU loads between both DirectX versions, with the DX 12 versions of each game typically requiring fewer resources than the older DX 11.
 
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
 
@@ -109,5 +123,21 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-introduction-to-professional-audio-recording-a-mac-and-audacity-approach-for-2024/"><u>[New] Introduction to Professional Audio Recording A Mac & Audacity Approach for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-shadow-bidders-arena-virtual-artifacts-of-anonymity/"><u>[Updated] 2024 Approved The Shadow Bidders' Arena Virtual Artifacts of Anonymity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-enhancements-in-sonys-s6500-bdhd-player/"><u>[Updated] Unveiling Enhancements in Sony's S6500 BD/HD Player</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-10-parody-songs-that-totally-crack-you-up/"><u>2024 Approved 10 Parody Songs That Totally Crack You Up</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-imovie-techniques-to-upgrade-your-youtube-content/"><u>2024 Approved Essential iMovie Techniques to Upgrade Your YouTube Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/considerations-beyond-your-steam-score/"><u>Considerations Beyond Your Steam Score</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-mkv-converter-upload-and-convert-videos-effortlessly/"><u>Free Online MKV Converter - Upload and Convert Videos Effortlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-make-steam-safe-and-child-friendly-with-family-view/"><u>How to Make Steam Safe and Child-Friendly With Family View</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-accessories-for-a-next-level-ps5-setup/"><u>Innovative Accessories for a Next-Level PS5 Setup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y100i-power-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y100i Power 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-tips-for-extending-xbox-x-longevity/"><u>Top 5 Tips for Extending Xbox X Longevity</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-your-rights-for-xbox-digital-return/"><u>Understanding Your Rights for Xbox Digital Return</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-how-to-flip-a-clip-in-final-cut-pro-for-2024/"><u>Updated Unleash Your Creativity How to Flip a Clip in Final Cut Pro for 2024</u></a></li>
+</ul></div>
 

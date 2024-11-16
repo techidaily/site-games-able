@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Discovering Superior Indie Games
-date: 2024-09-09T09:43:05.462Z
-updated: 2024-09-10T09:43:05.462Z
+date: 2024-11-11T02:34:09.065Z
+updated: 2024-11-15T17:45:52.410Z
 tags:
   - games
 categories:
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ## Unveiling the Secrets of Discovering Superior Indie Games
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Use Tags and Filters](#use-tags-and-filters)
@@ -38,18 +32,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 Use Tags and Filters
 
  On itch.io, you can use various tags and filters to find great indie games. I am a big fan of[roguelite video games](http://www.makeuseof.com/what-are-roguelike-and-roguelite-video-games/) , so I use the**Roguelite** tag to ensure I only see the relevant results.
@@ -58,28 +40,17 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
@@ -90,9 +61,23 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
 
@@ -101,11 +86,12 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
@@ -118,13 +104,20 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Look at User Reviews and Ratings
 
@@ -132,40 +125,19 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Check Out Community Recommendations
 
  The itch.io community has the[Recommend a Game page](https://itch.io/board/13293/recommend-a-game) . This is where people post games that they've enjoyed and why. It's a good place to see the discussion around the game, ask questions, and even find people and developers to follow.
 
  Keep in mind that itch.io is just one of the many platforms to find great indie games. You can also find them on Steam, PlayStation Store, Microsoft Store, Xbox Marketplace, Nintendo eShop, and others. And If you love itch.io for its free games, there's also a way to[find free games on Steam](https://www.makeuseof.com/how-to-find-free-games-on-steam/) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +146,23 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-gaming-top-10-gaming-tiktokers/"><u>[New] Tiktok Gaming | Top 10 Gaming Tiktokers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tranquil-acoustic-settings-on-computers/"><u>[New] Tranquil Acoustic Settings on Computers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-dividing-footage-top-splitcams-worth-in-review-in-2024/"><u>[Updated] Dividing Footage Top SplitCam's Worth in Review, In 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-cube-androidios-edition-of-tetris-battles/"><u>Conquer the Cube: Android/iOS Edition of Tetris Battles</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-solutions-to-unlock-stuck-steam-program/"><u>Effortless Solutions to Unlock Stuck Steam Program</u></a></li>
+<li><a href="https://win-docs.techidaily.com/expert-guide-to-server-backup-strategies-for-windows-2012-through-2022-best-practices-in-action/"><u>Expert Guide to Server Backup Strategies for Windows 2012 Through 2022 - Best Practices in Action</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-gaming-keys-reviewed-mod007b-hall-effect-board/"><u>High-End Gaming Keys Reviewed: Mod007B Hall Effect Board</u></a></li>
+<li><a href="https://games-able.techidaily.com/historic-skirmishes-reimagined-top-11-ww2-strategy-games/"><u>Historic Skirmishes Reimagined: Top 11 WW2 Strategy Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-g54-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola G54 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-mats-for-long-gaming-runs/"><u>Ideal Mats for Long Gaming Runs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-poco-x5-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Poco X5? Try These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/share-the-fun-with-wrapped-up-game-copies/"><u>Share the Fun with Wrapped-Up Game Copies</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-gpu-glitches-diagnosing-and-fixing-quickly/"><u>Top 4 GPU Glitches: Diagnosing & Fixing Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-host-for-32-bit-print-driver-error-message/"><u>Troubleshooting Guide: Fixing the 'Host for 32-Bit Print Driver' Error Message</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-addressing-the-issue-of-unavailable-disks-for-backup-storage-solutions/"><u>Troubleshooting: Addressing the Issue of Unavailable Disks for Backup Storage Solutions</u></a></li>
+</ul></div>
 

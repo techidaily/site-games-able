@@ -1,7 +1,7 @@
 ---
 title: Is There Merit to In-Game Purchases in Premiums?
-date: 2024-10-18T05:23:02.966Z
-updated: 2024-10-25T01:40:36.106Z
+date: 2024-11-09T21:27:30.744Z
+updated: 2024-11-16T02:46:03.789Z
 tags:
   - games
 categories:
@@ -26,16 +26,10 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -63,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 But what about premium games? Should they have microtransactions?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Microtransactions Are Appearing in Premium Games
@@ -84,6 +78,13 @@ But what about premium games? Should they have microtransactions?
  Another indicator of how successful in-game microtransactions can be is Blizzard Entertainment’s Overwatch, released in 2016\. It was an online multiplayer game, sold for anything between $40 to $60\. Overwatch was filled with cosmetic microtransactions and loot boxes (which could be earned or bought), and it was still a commercial and critical success.
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are Microtransactions Good for the Gaming Industry?
 
@@ -105,13 +106,6 @@ But what about premium games? Should they have microtransactions?
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
  Battle passes in games like these use fear of missing out and other psychological tricks to make you purchase them. It’s basically like Horse Armor all over again since you’re paying for skins and cosmetics, which only you will see.
@@ -122,6 +116,19 @@ But what about premium games? Should they have microtransactions?
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
@@ -129,13 +136,6 @@ But what about premium games? Should they have microtransactions?
  It’s downright dishonest to create a core game mechanic and exclude it as an option in the base game. Because you’ve spent $40 already, you might as well spend $10 more to enjoy the game.
 
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
 
@@ -160,19 +160,19 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-sonic-shifts-for-strategic-victories-in-free-fire/"><u>[New] In 2024, Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elite-10-audio-amplifiers-desktops-to-smartphones-for-2024/"><u>[Updated] Elite 10 Audio Amplifiers Desktops to Smartphones for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-through-8-prime-free-srt-translation-options/"><u>2024 Approved Navigating Through 8 Prime Free SRT Translation Options</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 8/iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/digitizing-documents-ai-driven-pdf-focused-methodologies-with-chatgpt/"><u>Digitizing Documents: AI-Driven, PDF-Focused Methodologies with ChatGPT</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/einfach-und-effektiv-methodik-zur-wiederherstellung-vergangener-dokumentversionen/"><u>Einfach Und Effektiv: Methodik Zur Wiederherstellung Vergangener Dokumentversionen</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-safety-of-enhancing-gameplay-in-roblox/"><u>Evaluating the Safety of Enhancing Gameplay in Roblox</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-end-gpus-why-i-overpaid-and-overlooked-alternatives/"><u>High-End GPUs: Why I Overpaid & Overlooked Alternatives</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-full-reviewed-evaluation-hero4-black-capabilities/"><u>In 2024, Full Reviewed Evaluation Hero4 Black Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-connectivity-issues-on-switch/"><u>Navigating Connectivity Issues on Switch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/obs-screen-recorder-review-for-2024/"><u>OBS Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/stream-deck-gaming-add-epic-and-gog-to-your-setup/"><u>Stream Deck Gaming: Add Epic & GOG to Your Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-gaming-on-the-switch-with-these-setups/"><u>Transforming Gaming on the Switch with These Setups</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-replace-lost-media-driver-software-a-step-by-step-tutorial/"><u>Troubleshoot and Replace Lost Media Driver Software: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-excellent-free-webcam-video-snapper-app/"><u>[New] 2024 Approved Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-essential-guide-for-the-finest-travel-movie-tools/"><u>2024 Approved Essential Guide for the Finest Travel Movie Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-oversights-a-closer-look-at-6-gaming-drawbacks/"><u>Apple's Oversights: A Closer Look at 6 Gaming Drawbacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862843691-building-computers-made-easy-with-diy-compatible-motherboards-no-expertise-needed/"><u>Building Computers Made Easy with DIY-Compatible Motherboards - No Expertise Needed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-crashes-and-freezes-restoring-epics-launcher-function/"><u>Conquer Crashes and Freezes - Restoring Epic's Launcher Function</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conveying-cinematic-dreams-through-screenwriting/"><u>Conveying Cinematic Dreams Through Screenwriting</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-shift-how-xbox-live-gold-becomes-core-to-game-pass/"><u>Gaming Shift: How Xbox Live Gold Becomes Core to Game Pass</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-13t-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi 13T Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/ideal-practices-for-mobile-and-dslr-crafting-impeccable-igtv-videos/"><u>Ideal Practices for Mobile & DSLR Crafting Impeccable IGTV Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-introduction-to-kinetic-graphic-principles/"><u>In 2024, Introduction to Kinetic Graphic Principles</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-smart-with-economy-led-monitor/"><u>Invest Smart with Economy LED Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-storage-steam-deck-and-sd-card/"><u>Optimizing Storage: Steam Deck and SD Card</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronized-shutdown-a-windows-user-written-guide/"><u>Synchronized Shutdown: A Windows User' Written Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y200e-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y200e 5G Phone Pattern Lock</u></a></li>
 </ul></div>
 

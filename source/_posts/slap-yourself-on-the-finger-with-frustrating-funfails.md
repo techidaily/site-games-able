@@ -1,7 +1,7 @@
 ---
 title: Slap Yourself on the Finger with Frustrating Funfails
-date: 2024-09-09T09:45:47.713Z
-updated: 2024-09-10T09:45:47.713Z
+date: 2024-11-13T16:08:14.402Z
+updated: 2024-11-15T21:25:24.052Z
 tags:
   - games
 categories:
@@ -41,21 +41,16 @@ Let’s explore some of the names leading the scene.
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
  Players control Diogenes’ sledgehammer with their mouse and nothing else. It can be rotated around a limited pivot but holds enough power to move the pot-dweller. As such, you’re meant to ascend steep hills and navigate tricky terrain with the sledgehammer alone.
@@ -68,16 +63,24 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
  You can move the caveman around as a player and jump on the pogo stick. The pogo stick has an interesting recovery mechanic that launches the caveman higher when they fall from a greater height. One can also rotate the caveman and launch them at an angle for a greater jump distance.
@@ -86,22 +89,10 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
  Besides the two-player nature, one major difference between this game and other Foddian titles is the movement options. Both players can move the penguins left or right, jump, grab surfaces, swing using the tether binding them together, and anchor themselves by crouching. The map is designed around these mechanics—as certain areas are only accessible using the right movement options.
@@ -116,6 +107,13 @@ Let’s explore some of the names leading the scene.
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -126,26 +124,17 @@ Let’s explore some of the names leading the scene.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +143,20 @@ Let’s explore some of the names leading the scene.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-crafting-unique-valorant-thumbnails-with-style-and-flair/"><u>[New] 2024 Approved Crafting Unique Valorant Thumbnails with Style and Flair</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximize-your-window-usage-top-30-unknown-tips-and-tricks-for-windows-11-for-2024/"><u>[New] Maximize Your Window Usage Top 30 Unknown Tips and Tricks for Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-the-world-of-montage-image-magic-for-2024/"><u>[Updated] Exploring the World of Montage Image Magic for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[Updated] In 2024, Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016208450-astro-a50-mic-issues-heres-how-you-can-get-it-working-again/"><u>Astro A50 Mic Issues? Here's How You Can Get It Working Again!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y36i-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Vivo Y36i.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-se-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone SE The Right Way</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-peak-of-switch-controls/"><u>Navigate the Peak of Switch Controls</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-in-play-setting-up-your-steam-launchers/"><u>Precision in Play: Setting Up Your Steam Launchers</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-8-lightweight-game-boxes-for-android-on-pcmac/"><u>Premium 8 Lightweight Game Boxes for Android on PC/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-5-frustrating-foddian-games-to-test-your-skills/"><u>The Top 5 Frustrating Foddian Games to Test Your Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/timebound-tactics-temporary-gaming-powerups/"><u>Timebound Tactics: Temporary Gaming Powerups</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-ps3-games-on-pc-ultimate-emulator-guide/"><u>Top 30 PS3 Games on PC: Ultimate Emulator Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unsubscribing Minecraft: Exporting Kingdoms"
-date: 2024-09-09T09:42:57.235Z
-updated: 2024-09-10T09:42:57.235Z
+date: 2024-11-14T03:31:02.527Z
+updated: 2024-11-15T17:03:17.385Z
 tags:
   - games
 categories:
@@ -29,29 +29,25 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 ![View order history on Xbox Game Pass](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/view-order-history-on-xbox-game-pass.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Alternatively, you can head directly to[Microsoft Services & Subscriptions](https://account.microsoft.com/services) which is where you’ll eventually end up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Manage Your Minecraft Realms Subscriptions and Unsubscribe
 
 ![Microsoft Account Orders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/microsoft-account-orders.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re on the order history page, find your Minecraft Realms order and click on**Manage Subscription** . This will take you to the previously linked Services & Subscriptions page.
 
 ![Manage services on Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/manage-services-on-microsoft-account.jpg)
@@ -60,23 +56,25 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 
 ![Minecraft Java Realms Cancel Subscription button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-realms-cancel-subscription-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This will open up a new page where you can find the**Cancel subscription** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Happens After Unsubscribing from Minecraft Realms?
 
 ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you unsubscribe from Minecraft Realms, you won’t lose your access until the next billing cycle. You’ll be able to use your Realms until that date, but when it expires, you will lose a few things.
 
@@ -84,22 +82,17 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 
  You won’t lose your Realms world immediately, and the backups will still exist. However, the Realms servers will only keep them for 18 months. We’ll be covering how to download your Minecraft Realms backups for offline play or on[free Minecraft server hosting services](https://www.makeuseof.com/how-to-set-up-minecraft-server-free/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Download Your Minecraft Realms Worlds After Unsubscribing
 
  If you don’t want to lose your backups, you should download them locally. Here’s how to download your backups and find the files so you can use them elsewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Downloading Your World on Minecraft Java Edition
 
 ![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
@@ -109,11 +102,12 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 ![Minecraft Realms Java Edition World backups button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-world-backups-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, select the world in the Realm you want to back up and click on**World Backups** .
 
 ![Minecraft Realms Java Edition Backups section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-backups-section.jpg)
@@ -141,31 +135,23 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
 ![Play on Realms and Export World Button Minecraft Bedrock edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/play-on-realms-and-export-world-button-minecraft-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Clicking on the**pencil icon** beside the single-player downloaded backup will allow you to click**Play on Realm** in the future if you re-subscribe. Instead of finding the file on your device, you can also scroll down to the very bottom and click on**Export World** . This is much quicker as the Bedrock Edition’s world files are harder to find.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Don't Lose Your Minecraft Realm While Being Unsubscribed
 
  There are probably plenty of large worlds we used to play with our friends in and wish we had saved them before they all disappeared. You never know when you’ll come back to Minecraft, but there’s always a chance that you and your friends will. Revisiting a world you haven’t seen in months or years is a unique feeling and we hope this guide will help you preserve your Minecraft Realms worlds for future use.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +160,26 @@ thumbnail: https://thmb.techidaily.com/474c5054a0eaa723712bc3725331bacf73663ebfe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-full-utilization-of-final-cut-pro-an-in-depth-guide-for-2024/"><u>[New] Full Utilization of Final Cut Pro An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-evaluating-hdr-tvs-does-aurora-hit-the-mark/"><u>2024 Approved Evaluating HDR TVs Does Aurora Hit the Mark?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-bandwidth-exploring-revolutionary-5g-applications-that-surpass-connectivity-deep-dive-with-zdnet/"><u>Beyond Bandwidth: Exploring Revolutionary 5G Applications That Surpass Connectivity | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/computational-time-for-a-20mb-media-piece/"><u>Computational Time for a 20Mb Media Piece</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-thunderbolt-driver-downloads-for-windows-computers/"><u>Free Thunderbolt Driver Downloads for Windows Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-developers-feel-ai-will-impact-their-workflow/"><u>How Developers Feel AI Will Impact Their Workflow</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-control-prowess-in-switch-emulation-using-ryujinx/"><u>Perfect Control Prowess in Switch Emulation Using Ryujinx</u></a></li>
+<li><a href="https://games-able.techidaily.com/proven-strategies-for-immediate-ps5-gamepad-recovery/"><u>Proven Strategies for Immediate PS5 Gamepad Recovery</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-buying-made-easier-with-these-6-tips/"><u>PS5 Buying Made Easier with These 6 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-friendship-flirtations-a-textual-dance-of-words/"><u>Seven Friendship Flirtations: A Textual Dance of Words</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steams-invalid-file-recovery-issue/"><u>Solving Steam's Invalid File Recovery Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-security-configuring-a-password-lock-on-your-nintendo-console/"><u>Step Into Security: Configuring a Password Lock on Your Nintendo Console</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlined-qanda-guide-for-attractive-podcasts/"><u>Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-tactics-why-choose-pc-over-console-games/"><u>Switch Tactics: Why Choose PC Over Console Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-xboxs-strike-process/"><u>The Science Behind Xbox's Strike Process</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-strands-showdown-how-to-beat-the-brain-bending-nyt-puzzle/"><u>The Strands Showdown: How to Beat the Brain-Bending NYT Puzzle</u></a></li>
+</ul></div>
 

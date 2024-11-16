@@ -1,7 +1,7 @@
 ---
 title: "Mind the Murders: 4 Interactive AI Experiences"
-date: 2024-10-30T18:22:27.573Z
-updated: 2024-11-05T21:39:44.961Z
+date: 2024-11-08T21:35:47.733Z
+updated: 2024-11-15T19:44:13.242Z
 tags:
   - games
 categories:
@@ -36,22 +36,15 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2. Gron
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -61,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -80,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4. Murdle
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -120,18 +120,22 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-cinematic-motion-smear-in-adobe/"><u>[New] Capture Cinematic Motion Smear in Adobe</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>[New] Elevate with IG Stories Constructing an Impactful Marketing Strategy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-5-best-no-cost-video-enhancement-platforms/"><u>2024 Approved 5 Best No-Cost Video Enhancement Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-your-shooting-canons-time-lapse-techniques/"><u>2024 Approved Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/control-over-in-game-voice-conversations/"><u>Control Over In-Game Voice Conversations</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-your-projects-proportions-with-aspect-ratio/"><u>In 2024, Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
-<li><a href="https://games-able.techidaily.com/legal-aspects-related-to-copyright-licensing-and-intellectual-property-rights-concerning-street-maps-and-symbolic-representations/"><u>Legal Aspects Related to Copyright, Licensing, and Intellectual Property Rights Concerning Street Maps and Symbolic Representations</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-browsers-tale-5-adventure-games/"><u>The Browser's Tale: 5 Adventure Games</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-pros-playlist-shuffle-manual-for-2024/"><u>The Pro's Playlist Shuffle Manual for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/translate-speech-to-text-with-ultimate-accuracy-thanks-to-google-for-2024/"><u>Translate Speech to Text with Ultimate Accuracy, Thanks to Google for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-games-arent-crashing-by-design-find-out-why-and-fix-them/"><u>Your Games Aren't Crashing by Design - Find Out Why and Fix Them</u></a></li>
-<li><a href="https://games-able.techidaily.com/zero-delays-maximum-speed-razers-top-tier-gaming-machine/"><u>Zero Delays, Maximum Speed: Razer's Top-Tier Gaming Machine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparative-evaluation-of-cost-effective-clouds/"><u>[New] Comparative Evaluation of Cost-Effective Clouds</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-savor-the-hype-the-best-of-the-best-15-culinary-creations-from-tiktoks-food-influencers/"><u>[New] Savor the Hype The Best of the Best 15 Culinary Creations From TikTok’s Food Influencers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-trim-the-excess-a-beginners-guide-to-simple-video-cuts-in-windows/"><u>[Updated] Trim the Excess A Beginner's Guide to Simple Video Cuts in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-ps4-performance-a-comprehensive-guide/"><u>Boosting PS4 Performance: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-visual-frontier-steps-to-setting-up-your-xbox-series-x-in-4k/"><u>Conquer the Visual Frontier: Steps to Setting Up Your Xbox Series X in 4K</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effizienter-filmkonvertierung-mit-kostenlosem-winx-dvd-zu-mp4-konverter-unter-windows-11/"><u>Effizienter Filmkonvertierung Mit Kostenlosem WinX-DVD Zu MP4-Konverter Unter Windows 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/fehlerbehebung-warum-sie-diesen-ordner-nicht-synchronisieren-konnen/"><u>Fehlerbehebung: Warum Sie Diesen Ordner Nicht Synchronisieren Können</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-office-seat-style/"><u>Game on, Office Seat Style</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-v30-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo V30 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/installation-made-simple-get-discord-running-on-mac/"><u>Installation Made Simple: Get Discord Running on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseofs-pinnacle-innovations-from-mwc-2024/"><u>MakeUseOf's Pinnacle Innovations From MWC 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/moza-r5-unlocking-the-future-of-simulated-driving/"><u>MOZA R5: Unlocking the Future of Simulated Driving</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-enhancing-controllers-remotely/"><u>The Future of Gaming: Enhancing Controllers Remotely</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-are-top-artists-like-sarah-silverman-filed-suits-against-ai-pioneers/"><u>Why Are Top Artists Like Sarah Silverman Filed Suits Against AI Pioneers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-invest-in-corsairs-icue-link-uncover-the-four-transformative-perks/"><u>Why Invest in Corsair's iCUE Link? Uncover the Four Transformative Perks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reactivating Windows XPXbox Controllers That Don't Work
-date: 2024-09-09T09:38:44.459Z
-updated: 2024-09-10T09:38:44.459Z
+date: 2024-11-13T02:59:01.196Z
+updated: 2024-11-15T18:49:59.350Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: Windows Xbox Controller Fix,XPController Revival,Non-Working Xbox USB,
 thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b157cf1a2528e89d05cbc2979.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reactivating Windows XPXbox Controllers That Don't Work
 
  If you prefer to game using a controller on your Windows PC, the experience may not always be smooth. At times, your Windows 10 or 11 PC may fail to detect the gaming controller or register its inputs.
@@ -33,13 +27,20 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 3. In the Game Controllers window, read the status of your controller.  
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your controller does not show up in the Game Controllers window or the status does not say**OK** , you may be experiencing a connection problem.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Controller
 
@@ -48,11 +49,12 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Scan for Hardware Changes
 
  If unplugging and plugging the controller proves ineffective, you can scan your system for hardware changes using Device Manager. To do so, follow these steps:
@@ -61,13 +63,14 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 2. Right-click anywhere on an empty spot within the Device Manager window and select**Scan for hardware changes** .  
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Following that, your controller should appear in the Device Manager window and work as expected.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run the Relevant Window Troubleshooters
 
@@ -91,11 +94,12 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After running the above troubleshooter, try using your controller again.
 
 ## 5\. Update or Reinstall the Controller's Driver
@@ -108,12 +112,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 4. Select the**Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
@@ -122,18 +120,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
@@ -142,14 +128,11 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  Unless your controller is faulty or damaged, one of the above tips should get it to work again. That said, if you find that your controller's performance is lacking precision or responsiveness, it might be a good idea to utilize the built-in Windows tool for calibration.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +141,18 @@ To run the Hardware and Devices troubleshooter, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-soundtrack-secrets-your-complete-audio-compilation-for-ig-videos/"><u>[New] Soundtrack Secrets Your Complete Audio Compilation for IG Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-videotwitteraudio-direct-conversion-for-2024/"><u>[New] VideoTwitterAudio Direct Conversion for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-legally-nurtured-viewership-growth-tips-for-youtubers/"><u>2024 Approved Legally Nurtured Viewership Growth Tips for YouTubers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-snapshot-shows/"><u>FB Snapshot Shows</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortifying-the-future-of-child-safe-gaming/"><u>Fortifying the Future of Child-Safe Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/funimate-masterclass-quick-video-access/"><u>Funimate Masterclass Quick Video Access</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-resolve-common-problems-in-microsoft-edge-for-a-smooth-browsing-experience/"><u>How To Resolve Common Problems in Microsoft Edge for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-gaming-journey-with-steams-storage-wisdom/"><u>Optimize Your Gaming Journey with Steam’s Storage Wisdom</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-checklist-of-five-essential-game-mouse-features/"><u>The Ultimate Checklist of Five Essential Game Mouse Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-lenovo-notebooks-tailored-for-the-hybrid-professional-unbeatable-value-at-just-1k-less/"><u>Top Lenovo Notebooks Tailored for the Hybrid Professional: Unbeatable Value at Just $1K Less!</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173214061-why-im-insisting-on-oled-a-gamers-perspective/"><u>Why I'm Insisting on OLED - A Gamer’s Perspective</u></a></li>
+</ul></div>
 

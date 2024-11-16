@@ -1,7 +1,7 @@
 ---
 title: Joining Java Network From Bedrock Through GeyserMC Portal
-date: 2024-09-09T09:44:59.785Z
-updated: 2024-09-10T09:44:59.785Z
+date: 2024-11-14T01:15:14.848Z
+updated: 2024-11-16T03:38:19.191Z
 tags:
   - games
 categories:
@@ -14,17 +14,18 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 ## Joining Java Network From Bedrock Through GeyserMC Portal
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?](#why-can-39-t-minecraft-bedrock-players-join-minecraft-java-servers-normally)
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,21 +36,29 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit: Jhet Borja/MUO
 
  You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
@@ -64,22 +73,10 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Jhet Borja
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Set Up a Server
 
  Firstly, you should set up a server on[Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
@@ -103,21 +100,16 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
 ![Installing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-geyser-plugin-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, click on the small download icon to the very right of the most recent or compatible version.
 
  For your locally run server, head to[PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through[Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
@@ -125,14 +117,22 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
@@ -144,12 +144,6 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Limitations of the GeyserMC Mod
 
  While Minecraft Java and Bedrock Edition are quite similar, there are major differences that the GeyserMC Mod creators can’t do anything about.
@@ -160,14 +154,11 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  While it has limitations, this can rarely get in the way of having fun. Now you don’t have to be worried that you and your friend have different versions of Minecraft. We hope this guide has helped you enjoy Minecraft with your friends no matter what they’re playing on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +167,24 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-profitability-on-yt-post-monetization-financial-steps/"><u>[New] In 2024, Streamline Profitability on YT – Post-Monetization Financial Steps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pioneering-open-worlds-worth-your-time-for-2024/"><u>[New] Pioneering Open Worlds Worth Your Time for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-proactive-gaming-enhancing-minecraft-through-ram-upgrade/"><u>[New] Proactive Gaming Enhancing Minecraft Through RAM Upgrade</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-stylish-shots-top-trending-instagram-filters-for-2024/"><u>[Updated] Stylish Shots Top Trending Instagram Filters for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-2-secrets-to-convert-instagram-videos-into-premium-mp4-for-2024/"><u>[Updated] Top 2 Secrets to Convert Instagram Videos Into Premium MP4 for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-installing-microsofts-latest-operating-system-onto-fresh-hddssd/"><u>A Comprehensive Tutorial: Installing Microsoft's Latest Operating System Onto Fresh HDD/SSD</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/economical-enhancement-tweets-to-animated-gifs-guide-for-2024/"><u>Economical Enhancement Tweets to Animated GIFs Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-best-practices-for-switch-gaming-device/"><u>Ensuring Longevity: Best Practices For Switch Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-worlds-dissipate-but-should-we-reflect/"><u>Game Worlds Dissipate, But Should We Reflect?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-failed-windows-and-steam-remote-play/"><u>Reconnecting Failed Windows and Steam Remote Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-steams-inaccessible-friend-list/"><u>Restoring Steam's Inaccessible Friend List</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-speakers-keep-chats-private-in-xbox-games/"><u>Silent Speakers: Keep Chats Private in Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/taming-xbox-audio-alerts-a-step-by-step-guide/"><u>Taming Xbox Audio Alerts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-perfect-blemish-free-3d-printing-results/"><u>The Ultimate Guide to Perfect, Blemish-Free 3D Printing Results</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-instant-online-games-for-downtime-fun/"><u>Top 20 Instant Online Games for Downtime Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-the-gaming-subscription-service/"><u>Xbox Game Pass: The Gaming Subscription Service</u></a></li>
+</ul></div>
 

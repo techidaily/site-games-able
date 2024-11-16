@@ -1,7 +1,7 @@
 ---
 title: "Innovative Tricks: No Controllers, Full Gameplay"
-date: 2024-11-01T17:06:31.070Z
-updated: 2024-11-05T20:08:55.774Z
+date: 2024-11-09T02:35:56.385Z
+updated: 2024-11-15T21:03:52.376Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  While that is indeed a bummer, it’s not something to worry about. There are other ways you can control your Xbox One without a controller. We’ve discussed these below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Your Smartphone to Control Your Xbox
 
  You can control your Xbox console using the native Xbox app, available for[iOS](https://apps.apple.com/us/app/xbox/id736179781) and[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027778/https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass&hl=en&gl=US) . This app provides a convenient and user-friendly interface for managing your Xbox remotely.
@@ -60,33 +53,19 @@ Close
 
 ![A screenshot of the Remote Features prompt that appears when connecting your Xbox to a mobile device on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-remote-features-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ​​​​​​​Finally,**Test remote play** on your Xbox to test your internet connection for remote play.
 
 ![A screenshot of the option to Test Remote Play on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/test-remote-play-on-xbox-series-x.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you pass the test, the Xbox app will automatically detect your console and connect with it. Then, you can remotely play games on your mobile, control your console using the app and manage games on your console, all just by using your smartphone.
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
@@ -95,15 +74,42 @@ Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connect a Keyboard and Mouse to Your Xbox
 
 ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
 
  To connect a keyboard and mouse to your Xbox One, simply plug them into one of the USB ports on your console. The console should recognize the keyboard and mouse, allowing you to use them for navigation and in compatible games.
 
  However, note that although you can use a keyboard on Home and while navigating the Xbox interface, the use of a mouse is not supported for this purpose. You can only use a mouse in games that allow mouse input. Therefore, it’s best to check individual games for mouse compatibility before connecting a mouse to your Xbox One console.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Digital Assistants to Control Your Xbox One
 
@@ -112,13 +118,6 @@ Close
  The process of setting up and using digital assistants on an Xbox One is pretty straightforward. Go to **Settings > Devices & connections > Digital assistants** and check the box next to**Enable digital assistants** . If you do not have a controller, you can also perform these actions using the keyboard shortcuts mentioned in the above section.
 
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
 
@@ -135,6 +134,13 @@ Close
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You Can Now Control and Manage Your Xbox One Even Without a Controller
 
@@ -157,21 +163,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-the-essential-blueprint-for-srt-file-adaptability/"><u>[New] The Essential Blueprint for SRT File Adaptability</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-knowledge-for-aspiring-youtube-subscribers/"><u>[Updated] 2024 Approved Essential Knowledge for Aspiring YouTube Subscribers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-shot-guide-for-chromebook-users/"><u>[Updated] In 2024, Quick Shot Guide for Chromebook Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/cutting-edge-accessories-to-revolutionize-your-ps5/"><u>Cutting-Edge Accessories to Revolutionize Your PS5</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/explosive-growth-video-expectations-sky-high-views-for-2024/"><u>Explosive Growth Video Expectations Sky-High Views for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-google-pixel-8-pro-by-drfone-android/"><u>Full Guide to Unlock Your Google Pixel 8 Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-20-propluswithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 20 Pro+with/without a PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-8-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 8 Without Apple ID Password?</u></a></li>
-<li><a href="https://games-able.techidaily.com/nine-key-points-to-consider-when-choosing-mobile-games/"><u>Nine Key Points to Consider When Choosing Mobile Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-power-choosing-between-phone-and-tablet-games/"><u>Pixel Power: Choosing Between Phone and Tablet Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-reliable-wireless-performance-on-ps5/"><u>Securing Reliable Wireless Performance on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplified-ps5-game-removal-procedure/"><u>Simplified PS5 Game Removal Procedure</u></a></li>
-<li><a href="https://games-able.techidaily.com/starting-strong-in-virtual-battles-essential-configurations/"><u>Starting Strong in Virtual Battles: Essential Configurations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/uncharted-uprisings-decades-best-role-players/"><u>Uncharted Uprisings Decade’s Best Role-Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-full-spectrum-of-ps5-gaming-by-mastering-ea-play-features/"><u>Unlock the Full Spectrum of PS5 Gaming by Mastering EA Play Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-filmoras-easy-steps-to-convert-avi-files-into-vibrant-gifs-on-all-platforms/"><u>[New] Filmora’s Easy Steps to Convert AVI Files Into Vibrant GIFs on All Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-use-youtube-cards-and-annotations/"><u>[Updated] How to Use YouTube Cards and Annotations?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-steady-snapstreaks-tips-to-never-miss-a-snap/"><u>[Updated] In 2024, Steady Snapstreaks Tips to Never Miss a Snap</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-uncover-the-leaders-1-6-in-global-short-video-clips/"><u>2024 Approved Uncover the Leaders #1-#6 in Global Short Video Clips</u></a></li>
+<li><a href="https://games-able.techidaily.com/customization-for-a-fresh-ps5-vibe/"><u>Customization for a Fresh PS5 Vibe</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-latest-canoscan-lide-120-scanner-software/"><u>Download and Install the Latest CanoScan LiDE 120 Scanner Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/econopcs-meet-gaming-budget-board-guide/"><u>EconoPCs Meet Gaming: Budget Board Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-javas-game-world-what-catches-our-eye/"><u>Exploring Java's Game World: What Catches Our Eye</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-servers-are-fleeting-but-should-you-care/"><u>Game Servers Are Fleeting, but Should You Care?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/making-simple-text-pop-in-videos-without-costs-for-2024/"><u>Making Simple Text Pop in Videos without Costs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722881231678-master-the-art-of-clear-digital-tv-in-any-room-maximizing-your-internal-antennas-potential-for-optimal-reception/"><u>Master the Art of Clear Digital TV in Any Room: Maximizing Your Internal Antenna's Potential for Optimal Reception</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mp4mp3-vlc/"><u>MP4からMP3への変換: VLCメディアプレーヤーで簡単な手順</u></a></li>
+<li><a href="https://games-able.techidaily.com/personal-tech-preferences-picking-the-right-size-for-your-pc/"><u>Personal Tech Preferences: Picking the Right Size for Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviewing-razers-mechanical-marvel-blackwidow-v4/"><u>Reviewing Razer's Mechanical Marvel, BlackWidow V4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721475224590-solve-iphone-unrecognized-by-itunesfinder-essential-troubleshooting-steps/"><u>Solve iPhone Unrecognized by iTunes/Finder: Essential Troubleshooting Steps!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-tech-savvy-nomad-9-must-know-travel-tips-for-games/"><u>The Tech-Savvy Nomad: 9 Must-Know Travel Tips for Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-fb-photo-selection/"><u>The Ultimate Guide to FB Photo Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-wireless-controller-wont-connect-to-your-pc-try-these-fixes/"><u>Xbox Wireless Controller Won't Connect to Your PC? Try These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-streamlined-gaming-with-steam-big-picture/"><u>Your Guide to Streamlined Gaming with Steam Big Picture</u></a></li>
 </ul></div>
 

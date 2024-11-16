@@ -1,7 +1,7 @@
 ---
 title: "Premium Games: Can MTs Be Justified?"
-date: 2024-10-18T05:15:56.877Z
-updated: 2024-10-25T00:06:52.774Z
+date: 2024-11-09T01:47:13.680Z
+updated: 2024-11-15T17:47:11.884Z
 tags:
   - games
 categories:
@@ -57,13 +57,6 @@ But what about premium games? Should they have microtransactions?
 
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
  The DLC caused a lot of uproar on the internet and became something of a meme representing video game features that are useless and overpriced. However, reports indicate that the DLC was still a huge financial success.
@@ -71,6 +64,13 @@ But what about premium games? Should they have microtransactions?
  Another indicator of how successful in-game microtransactions can be is Blizzard Entertainment’s Overwatch, released in 2016\. It was an online multiplayer game, sold for anything between $40 to $60\. Overwatch was filled with cosmetic microtransactions and loot boxes (which could be earned or bought), and it was still a commercial and critical success.
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Are Microtransactions Good for the Gaming Industry?
 
@@ -80,13 +80,6 @@ But what about premium games? Should they have microtransactions?
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Paying More to Experience Less
 
  Let’s look at Middle-earth: Shadow of War as a case study. It was released as a sequel to Shadow of Mordor, a well-received game using the proprietary nemesis system.
@@ -95,16 +88,16 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -117,16 +110,10 @@ But what about premium games? Should they have microtransactions?
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### A Dishonest Means of Collecting More Money
@@ -136,6 +123,13 @@ But what about premium games? Should they have microtransactions?
  It’s downright dishonest to create a core game mechanic and exclude it as an option in the base game. Because you’ve spent $40 already, you might as well spend $10 more to enjoy the game.
 
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
 
@@ -160,18 +154,21 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-musical-enhancements-for-social-video-sharing-platforms-fb/"><u>[New] Musical Enhancements for Social Video Sharing Platforms (FB)</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-clones-playbook-secrets-to-mirror-success-on-the-tiktok-sphere/"><u>[Updated] The Clone's Playbook Secrets to Mirror Success on the TikTok Sphere</u></a></li>
-<li><a href="https://games-able.techidaily.com/enjoying-games-without-financial-commitment-our-six-picks/"><u>Enjoying Games Without Financial Commitment: Our SIX Picks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guida-rapida-alla-trasformazione-di-file-mts-in-mp4-e-formati-multimedia-con-movavi/"><u>Guida Rapida Alla Trasformazione Di File MTS in MP4 E Formati Multimedia Con MOVAVì</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-14-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi 14 Pro Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 6 to Android | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-latest-graphics-milestone-ai-powered-dlss-update-35/"><u>Nvidia's Latest Graphics Milestone: AI-Powered DLSS Update 3.5</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fix-for-forgotten-ps5-subscriptions/"><u>Quick Fix for Forgotten PS5 Subscriptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-command-stop-console-rumbles-on-xbox/"><u>Quiet Command: Stop Console Rumbles on Xbox</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/rapidly-acquire-japanese-numbers-today/"><u>Rapidly Acquire Japanese Numbers Today</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-desktop-recording-101-mastering-filmora-scrn-in-minutes/"><u>Updated 2024 Approved Desktop Recording 101 Mastering Filmora Scrn in Minutes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-use-luts-to-spark-ar-and-download-free-lut/"><u>[New] In 2024, How to Use LUTs to Spark AR & Download Free LUT</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastery-over-picture-in-picture-for-improved-productivity-for-2024/"><u>[New] Mastery over Picture In Picture for Improved Productivity for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-retrogaming-on-rpi-with-batocera-and-retropie/"><u>Battle Royale: RetroGaming on RPi with Batocera and RetroPie</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fight-game-interface-console-vs-arcade-joysticks/"><u>Fight Game Interface: Console Vs. Arcade Joysticks</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-0x887a0006-dxgierrordevicehung-error-in-windows-10-and-11/"><u>How to Fix the 0X887A0006: DXGI_ERROR_DEVICE_HUNG Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-import-and-watch-avi-videos-on-itunes-conversion-guide/"><u>How to Import and Watch AVI Videos on iTunes – Conversion Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-cutting-edge-techniques-for-professional-obs-edits/"><u>In 2024, Cutting-Edge Techniques for Professional OBS Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-invisible-presence-guide-to-instagram-live-broadcasts-and-streaming/"><u>In 2024, Invisible Presence Guide to Instagram Live Broadcasts and Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-magic-formula-how-g-sync-improves-graphics/"><u>Nvidia's Magic Formula: How G-Sync Improves Graphics</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ryzen-7-powered-framework-laptop-16-why-choose-ubuntu-over-windows-experience-for-peak-efficiency/"><u>Ryzen 7 Powered Framework Laptop 16: Why Choose Ubuntu Over Windows eXperience for Peak Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-you-really-care-about-your-steam-level/"><u>Should You Really Care About Your Steam Level?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-coders-guide-to-enhanced-xbox-playtime/"><u>The Coder's Guide to Enhanced Xbox Playtime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-webm-file-type-and-mastering-its-playback-a-comprehensive-guide/"><u>Understanding the WebM File Type and Mastering Its Playback: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-with-openais-latest-gpt-hub-get-started-today/"><u>Unlocking the Power of AI with OpenAI's Latest GPT Hub - Get Started Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-corsairs-icue-link-top-4-upscale-benefits/"><u>Unveiling Corsair's iCUE Link: Top 4 Upscale Benefits</u></a></li>
 </ul></div>
 

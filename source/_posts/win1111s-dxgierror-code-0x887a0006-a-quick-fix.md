@@ -1,7 +1,7 @@
 ---
 title: "Win11/11's DXGI_ERROR (Code 0X887A0006): A Quick Fix"
-date: 2024-10-31T21:31:32.286Z
-updated: 2024-11-05T19:59:03.366Z
+date: 2024-11-11T00:51:09.227Z
+updated: 2024-11-15T22:34:58.025Z
 tags:
   - games
 categories:
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/66485902527c2f60d68ff1756c39d95b2b9ff2d6a
 ![The Run this program as administrator setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab1.jpg)
 6. To save the settings, press the**Apply** button.
 7. Then try playing your affected game to see if this potential solution makes a difference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
@@ -73,6 +80,13 @@ For Steam:
 ![The Verify integrity option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/steams-verify-option.jpg)
 5. Select Steam’s**Verify integrity of game files** option.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
  If you have a PC with two GPUs, make sure your affected games are configured to run with the dedicated high-performance graphics card. Your PC’s integrated graphics card (usually of the Intel variety) might not meet the affected game’s minimum system requirements. You can check and change a game’s GPU setting on the NVIDIA Control Panel like this:
@@ -85,10 +99,10 @@ For Steam:
 5. Select a game for which you need to fix the 0x887A0006 error.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the**Select the preferred graphics processor** drop-down menu, and select the**High-performance NVIDIA processor** option.  
@@ -98,10 +112,10 @@ For Steam:
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the**Switchable Graphics** tab, and select the**High Performance** GPU option for the affected game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Roll Back the Most Recent Graphics Driver Update
@@ -109,13 +123,6 @@ For Steam:
  A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Your GPU’s Driver
 
@@ -126,13 +133,6 @@ For Steam:
  Our guide for[updating your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) provides further details about the various methods.
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable DirectX 12 in Any Affected Games
 
@@ -150,10 +150,10 @@ For Steam:
 6. Add**d3d11** in the text box.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Switch to the High-Performance Power Plan
@@ -167,21 +167,14 @@ For Steam:
 4. Select the**High performance** option for the plan.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
@@ -191,6 +184,13 @@ For Steam:
  Overclocking GPUs or CPUs (central processors) is one of the more common causes of error 0x887A0006\. Have you overclocked your PC with overclocking software like CPU Tweaker, AMD Ryzan Master, or MSI Afterburner in any way? If so, it’s recommended you disable (undo) any overclocking you’ve applied by restoring default system values with whatever overclock software you utilize.
 
  You can disable NVIDIA GPU overclocking with the method outlined for resolution two. However, that option won’t be available on PCs with AMD graphics cards. Nor will it be of any use for users who’ve overclocked CPUs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Edit the GraphicsDrivers Registry Key
 
@@ -202,17 +202,18 @@ For Steam:
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type**TdrLevel** inside the DWORD’s text box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click**TdrLevel** to view a**Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Reinstall the Game That's Crashing
 
@@ -241,20 +242,18 @@ For Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comprehensive-review-and-overview-of-du-recorder/"><u>[New] In 2024, Comprehensive Review and Overview of Du Recorder</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-empowering-video-content-with-advanced-aiseesoft-tech-for-2024/"><u>[Updated] Empowering Video Content with Advanced Aiseesoft Tech for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-best-nature-friendly-video-capture-tools-explained/"><u>2024 Approved Best Nature-Friendly Video Capture Tools Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722896041011-apple-music-continuous-streaming-heres-how-you-can-stop-it/"><u>Apple Music Continuous Streaming? Here's How You Can Stop It!</u></a></li>
-<li><a href="https://games-able.techidaily.com/diverse-ways-to-reboot-steam-service/"><u>Diverse Ways to Reboot Steam Service</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortlessly-capture-slow-motion-footage-on-ios-devices-discover-our-4-step-method-and-movavi-tutorial/"><u>Effortlessly Capture Slow Motion Footage on iOS Devices - Discover Our 4-Step Method and Movavi Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-rom-experience-with-translated-patches/"><u>Enhancing Rom Experience with Translated Patches</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/enhancing-team-call-aesthetics-before-and-after/"><u>Enhancing Team Call Aesthetics Before & After</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-striving-for-top-of-steam-worth-it/"><u>Is Striving for Top of Steam Worth It?</u></a></li>
-<li><a href="https://games-able.techidaily.com/modular-gaming-setup-akko-mod007b-explained/"><u>Modular Gaming Setup: Akko MOD007B Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-remotes-your-switchs-additional-companion/"><u>PlayStation Remotes: Your Switch's Additional Companion</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-epic-and-gog-games-setup-guide/"><u>Steam Deck: Epic & GOG Games Setup Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/unpacking-the-xbox-ss-exclusive-features/"><u>Unpacking the Xbox S's Exclusive Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212293023-windows-7-startup-woes-heres-how-to-get-faster-boot-speeds/"><u>Windows 7 Startup Woes? Here's How to Get Faster Boot Speeds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhanced-audio-experience-top-5-game-headsets-for-streaming/"><u>[Updated] Enhanced Audio Experience Top 5 Game Headsets for Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-time-management-for-those-balancing-careers-and-youtubing/"><u>[Updated] Time Management for Those Balancing Careers and YouTubing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-best-of-the-brainless-top-zombie-game-sweepstakes/"><u>2024 Approved The Best of the Brainless Top Zombie Game Sweepstakes</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-impact-on-upcoming-pc-game-industry/"><u>Apple's Impact on Upcoming PC Game Industry?</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-ms-store-downloads-techniques-and-tips/"><u>Boosting MS Store Downloads: Techniques and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/chat-and-builds-top-5-ways-friends-can-join-forces-in-mc/"><u>Chat & Builds: Top 5 Ways Friends Can Join Forces in MC</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-ios-delights-join-apple-arcade-enthusiast-club/"><u>Dive Into iOS Delights: Join Apple Arcade Enthusiast Club</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/diy-guide-master-the-art-of-clearing-your-iphone-memory/"><u>DIY Guide: Master the Art of Clearing Your iPhone Memory</u></a></li>
+<li><a href="https://games-able.techidaily.com/expertly-designed-charging-hubs-compatible-with-sony-console/"><u>Expertly Designed Charging Hubs: Compatible with Sony Console</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagram-snapshot-of-an-enlightening-episode/"><u>In 2024, Instagram Snapshot of an Enlightening Episode</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-gameplay-to-the-next-level-with-tech/"><u>Taking Gameplay to the Next Level with Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-motivational-lens-capturing-stirring-scenes-on-ig/"><u>The Motivational Lens Capturing Stirring Scenes on IG</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-the-top-10-ai-avatar-generators-for-2024/"><u>Updated The Top 10 AI Avatar Generators for 2024</u></a></li>
 </ul></div>
 

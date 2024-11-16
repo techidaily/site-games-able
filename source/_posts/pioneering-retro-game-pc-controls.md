@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2024-11-04T16:28:07.423Z
-updated: 2024-11-05T16:17:03.565Z
+date: 2024-11-10T00:13:52.400Z
+updated: 2024-11-15T22:11:09.501Z
 tags:
   - games
 categories:
@@ -49,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
@@ -71,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
@@ -83,29 +70,36 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
 
@@ -128,18 +122,24 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-free-vimeo-tutorial-to-craft-engaging-videos/"><u>[Updated] 2024 Approved Free Vimeo Tutorial to Craft Engaging Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-faster-vimeo-viewing-experiences/"><u>2024 Approved Faster Vimeo Viewing Experiences</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-storytelling-harnessing-top-10-text-innovations-in-videos/"><u>2024 Approved Immersive Storytelling Harnessing Top 10 Text Innovations in Videos</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210659422-9798886802986-daily-dose-of-melancholy/"><u>Daily Dose of Melancholy | Free Book</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ver-9-easy-no-cost-editing-software-options-for-2024/"><u>Discover 9 Easy, No-Cost Editing Software Options for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-samsung-galaxy-m14-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Samsung Galaxy M14 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/membership-misconceptions-the-true-cost-of-games/"><u>Membership Misconceptions: The True Cost of Games</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/review-of-grand-adventures-in-yokus-island-express-a-surprising-experience/"><u>Review of Grand Adventures in Yoku's Island Express – A Surprising Experience</u></a></li>
-<li><a href="https://fox-that.techidaily.com/simple-solutions-overcome-top-10-frequent-apple-pay-troubles/"><u>Simple Solutions: Overcome Top 10 Frequent Apple Pay Troubles</u></a></li>
-<li><a href="https://games-able.techidaily.com/solve-and-survive-4-ai-powered-online-mysteries/"><u>Solve and Survive: 4 AI-Powered Online Mysteries</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-7-ai-companions-elevating-live-streaming-on-twitch/"><u>Top 7 AI Companions Elevating Live Streaming on Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-instant-online-fun/"><u>Your Ultimate Guide to Instant Online Fun</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-top-10-jpg-to-gif-converters-online-free/"><u>[Updated] Top 10 JPG to GIF Converters Online Free</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony-for-2024/"><u>[Updated] Ultimate Guide Top 8 Convertors for Sub to Srt Harmony for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-connecting-through-ig-a-guide-for-hyperlink-posts/"><u>2024 Approved Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-skills-elevating-performance-and-resolving-valorants-fps-problems-windows-edition/"><u>Boost Your Skills: Elevating Performance & Resolving Valorant's FPS Problems, Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-xbox-to-laptop-monitor-for-enhanced-gaming/"><u>Connect Xbox to Laptop Monitor for Enhanced Gaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-repair-tips-for-overcoming-error-14-in-ios-systems/"><u>DIY Repair Tips for Overcoming Error 14 in iOS Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-much-do-you-really-make-as-a-podcaster/"><u>In 2024, How Much Do You Really Make as a Podcaster?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-assessment-of-nook-glowlight-4-reviews-and-features/"><u>In-Depth Assessment of Nook GlowLight 4: Reviews & Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-ea-play-an-economically-sound-choice/"><u>Is EA Play an Economically Sound Choice?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-game-play-xbox-without-controllers/"><u>Mastering the Game: Play Xbox Without Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-headset-use-on-xbox-series-xs/"><u>Maximizing Headset Use on Xbox Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-mending-windows-oculus-app-issues/"><u>Methods for Mending Windows Oculus App Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-high-refresh-monitor-selection/"><u>Optimal High Refresh Monitor Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204832042-solving-your-connectivity-issues-get-your-windows-pcs-bluetooth-mouse-running-again/"><u>Solving Your Connectivity Issues: Get Your Windows PC's Bluetooth Mouse Running Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-subscribe-or-not-to-subscribe-the-price-dilemnium-of-ea-play/"><u>To Subscribe or Not to Subscribe: The Price Dilemnium of EA Play</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone-for-2024/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-the-best-twitch-video-extraction-services-5/"><u>Unraveling the Best Twitch Video Extraction Services #5</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-10-free-online-video-trimmers-2023-edition/"><u>Updated The Ultimate List of 10 Free Online Video Trimmers (2023 Edition)</u></a></li>
 </ul></div>
 

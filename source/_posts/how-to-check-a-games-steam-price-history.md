@@ -1,7 +1,7 @@
 ---
 title: How to Check a Game's Steam Price History
-date: 2024-09-09T09:44:11.437Z
-updated: 2024-09-10T09:44:11.437Z
+date: 2024-11-14T18:51:30.950Z
+updated: 2024-11-16T02:24:04.701Z
 tags:
   - games
 categories:
@@ -12,31 +12,20 @@ keywords: Steam Price Tracking,Game Value Timeline,Historical Steam Cost,Steam S
 thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205d185e4b265bf0a0d105bd32.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check a Game's Steam Price History
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Check a Steam Game's Price History on SteamDB](#how-to-check-a-steam-game-39-s-price-history-on-steamdb)
 * [Why a Game Might Not Have a Price History on Steam](#why-a-game-might-not-have-a-price-history-on-steam)
 * [Other Ways to Check Whether a Game Deal Is Worth It](#other-ways-to-check-whether-a-game-deal-is-worth-it)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,11 +36,12 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
  Steam doesn't have a built-in way to see a game's price history, but luckily SteamDB offers a way to track this metric. Here's how to use the website so you can figure out if a deal is worth it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Check a Steam Game's Price History on SteamDB
 
 [SteamDB](https://steamdb.info/) is a database website that keeps track of various Steam metrics such as the most played games, trending games, and Steam sales. However, one of its most useful features is the ability to track a game's price history.
@@ -68,6 +58,13 @@ Here's how you can access the price history of a Steam game:
 
 ![price history for baldurs gate 3 on steamdb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-for-baldurs-gate-3-on-steamdb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the right side of the page, you can set the currency you want to use. You should also note that the price history does not include the price of a game's DLC. You will have to search for the DLC separately to track its price history.
 
  The chart will also show you the price changes for the game in other currencies, along with the lowest recorded price for the game. In the case of Baldur's Gate 3, the current price is listed as $59.99 and its lowest recorded price was $53.99 (a 10% discount).
@@ -77,31 +74,20 @@ Here's how you can access the price history of a Steam game:
 ![price history chart timeline for bg3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-chart-timeline-for-bg3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Players will also be able to check if a price has increased since launch. You'll see this most often with games that were in Early Access or that had a launch sale, but is also helps you avoid price gouging.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why a Game Might Not Have a Price History on Steam
 
  Occasionally, you may come across a game that has no price history. This usually applies to free-to-play games like Dota 2.
 
  For games like PUBG: Battlegrounds, the current price is listed as N/A. This is because while the game was previously paid for, it has since moved to free-to-play.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Ways to Check Whether a Game Deal Is Worth It
 
  There are other websites that focus on tracking the price history of Steam games. For example,[GG.Deals](https://gg.deals/) focuses on highlighting games with historical lows on Steam as well as other storefronts.
@@ -114,14 +100,11 @@ Here's how you can access the price history of a Steam game:
 
  Now you have all the tools you need to check whether a sale is offering an actual discount and not simply providing discounts on price-gouged games. Hopefully this will help you find the best discount possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +113,17 @@ Here's how you can access the price history of a Steam game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revitalize-disappearing-watch-preview-for-2024/"><u>[Updated] Revitalize Disappearing Watch Preview for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-guide-to-restoring-connection-with-imessage-on-your-iphone-after-disconnecting/"><u>A Guide to Restoring Connection with iMessage on Your iPhone After Disconnecting</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ethereal-escapes-slick-action-recorders-for-2024/"><u>Ethereal Escapes Slick Action Recorders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-games-six-alternatives-to-controls/"><u>Exploring PS5 Games: Six Alternatives to Controls</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopro-hero-series-clash-with-polaroid-cube-which-wins/"><u>GoPro Hero Series Clash with Polaroid Cube Which Wins?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-hot-30-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Hot 30 5G Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-premiere-pro-for-youtube-cutting/"><u>In 2024, Step-by-Step Guide Premiere Pro for YouTube Cutting</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-game-bar-introspection-in-windows-11-scope/"><u>Managing Game Bar Introspection in Windows 11 Scope</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-why-gamers-should-choose-steam/"><u>The Definitive Guide to Why Gamers Should Choose Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-your-potential-best-ethernets-for-gamers/"><u>Unleash Your Potential: Best Ethernets For Gamers</u></a></li>
+</ul></div>
 

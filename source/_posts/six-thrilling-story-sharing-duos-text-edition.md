@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2024-11-04T18:04:30.329Z
-updated: 2024-11-05T18:52:40.236Z
+date: 2024-11-14T22:07:44.293Z
+updated: 2024-11-16T00:32:12.370Z
 tags:
   - games
 categories:
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 Story Builder
@@ -89,10 +89,10 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -105,6 +105,13 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Where Am I?
 
 Close
@@ -114,6 +121,13 @@ Close
  With**Where Am I?** , each player takes it, in turn, to describe one feature of their surroundings, while the other tries to guess where they are. You can make this game as easy or as hard as you like by varying the level of detail you give to your opponent.
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
 
@@ -125,13 +139,6 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9 What If...?
 
 Close
@@ -141,13 +148,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -176,19 +176,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-build-diy-virtual-reality-google-cardboard-hack/"><u>[New] Build DIY Virtual Reality Google Cardboard Hack</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-compile-of-top-15-gopro-stabilizers-and-mounts/"><u>[Updated] 2024 Approved Compile of Top 15 GoPro Stabilizers & Mounts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-privacy-preservation-through-invisible-modifications-for-2024/"><u>[Updated] Privacy Preservation Through Invisible Modifications for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-streamline-your-content-with-these-4-instagram-looping-hacks/"><u>2024 Approved Streamline Your Content with These 4 Instagram Looping Hacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhanced-playtime-for-families-valve-updates-steam-sharing-today/"><u>Enhanced Playtime for Families: Valve Updates Steam Sharing Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-pre-windows-10-era-to-windows-11-now/"><u>In 2024, From Pre-Windows 10 Era To Windows 11 Now</u></a></li>
-<li><a href="https://games-able.techidaily.com/keyboards-that-rule-the-game-modular-board-reviewed-mod007b/"><u>Keyboards That Rule the Game: Modular Board Reviewed - MOD007B</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-7-video-mergers-with-no-watermark-for-2024/"><u>New The Ultimate List 7 Video Mergers with No Watermark for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-xbox-gamepad-glitches-and-drifts/"><u>Overcoming Xbox Gamepad Glitches and Drifts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/re-formatting-corrupted-video-extensions-using-qt-player/"><u>Re-Formatting Corrupted Video Extensions Using QT Player</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-online-packaging-is-it-justified/"><u>Switch Online Packaging: Is It Justified?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-battle-of-personal-computing-uncovering-the-true-variances-between-mac-and-windows-systems/"><u>The Battle of Personal Computing: Uncovering the True Variances Between Mac and Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-game-overview-guide-deconstructing-a-gaming-marvel-xbox-s/"><u>The Game Overview Guide: Deconstructing a Gaming Marvel - Xbox S</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-from-show-to-storyline-in-multiple-fallouts/"><u>Transition From Show to Storyline in Multiple Fallouts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-securely-save-your-favorite-facebook-films-on-chrome/"><u>[New] 2024 Approved Securely Save Your Favorite Facebook Films on Chrome</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-finest-racing-games-roundup-top-5-for-2024/"><u>[New] Finest Racing Games Roundup (Top 5) for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-best-fb-movie-grabs-8-edition-for-2024/"><u>[Updated] Unveiling the Best FB Movie Grabs #8 Edition for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726220813688-aacmp4-movavi/"><u>在线免费AAC到MP4格式转换: 使用 Movavi 提供出色服务</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-ultimate-guide-to-eliminate-fallout-eb-lags/"><u>Boost Your Gameplay - Ultimate Guide to Eliminate Fallout Eb Lags</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-winxp-games-the-power-of-dxvk-integration/"><u>Enhance WinXP Games: The Power of DXVK Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/everyday-tactics-for-circumventing-nyt-connections/"><u>Everyday Tactics for Circumventing NYT Connections</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-lovers-mac-users-uncover-the-restrictions/"><u>Fortnite Lovers, Mac Users! Uncover the Restrictions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-quickly-transforming-mxf-files-into-mov-on-various-platforms/"><u>Guide to Quickly Transforming MXF Files Into MOV on Various Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimized-multi-port-adapters-for-playstation-5-users/"><u>Optimized Multi-Port Adapters for PlayStation 5 Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/rom-localization-made-simple-language-patch-guide/"><u>Rom Localization Made Simple: Language Patch Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-nine-crucial-nintendo-switch-tips/"><u>The Ultimate Guide: Nine Crucial Nintendo Switch Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-selection-of-compact-on-the-move-players/"><u>The Ultimate Selection of Compact, On-The-Move Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/this-app-lets-you-play-nintendo-classics-on-your-iphone-heres-how/"><u>This App Lets You Play Nintendo Classics on Your iPhone: Here's How</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/troubleshoot-hulus-dev318-issue-fast-expert-fixing-guide/"><u>Troubleshoot Hulu's DEV318 Issue Fast: Expert Fixing Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-golds-shift-to-game-pass-inclusion/"><u>Understanding Xbox Gold's Shift to Game Pass Inclusion</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c55-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C55 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enjoy Your Fortnite Experience on Mac – But Keep an Eye Out
-date: 2024-09-09T09:45:46.409Z
-updated: 2024-09-10T09:45:46.409Z
+date: 2024-11-08T23:39:41.113Z
+updated: 2024-11-15T18:11:34.237Z
 tags:
   - games
 categories:
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 ## Enjoy Your Fortnite Experience on Mac – But Keep an Eye Out
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Get Fortnite on Your Mac](#how-to-get-fortnite-on-your-mac)
@@ -50,11 +44,12 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
 
  While Fortnite will likely boot and run smoothly on most recent Macs,[the Epic Games vs. Apple lawsuit](https://www.makeuseof.com/epic-games-apple-lawsuit-explained/) has marred the Fortnite experience on macOS because the developer has refused to update its game.
@@ -63,22 +58,17 @@ Follow these steps to get Fortnite on your Mac:
 
 ![Almost empty outfit section in Fortnite Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/almost-empty-outfit-section-in-fortnite-locker.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Epic Games has also blocked access to V-Bucks and the Item Shop. So, you can't buy new skins, emotes, gifts, back blings, or any other cosmetic items. And if you bought any on another device running a more recent version of Fortnite, you won't see it in your inventory.
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Play the Latest Version of Fortnite on Your Mac
 
  Thanks to[the Xbox Cloud Gaming service](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) , you can still play the latest version of Fortnite on a Mac via your browser. It's typically a paid service that costs $16.99 per month, but you can access some free games like Fortnite without a subscription.
@@ -88,29 +78,26 @@ Follow these steps to get Fortnite on your Mac:
 1. Visit[Fortnite's Xbox Cloud Gaming page](https://www.xbox.com/en-US/play/games/fortnite/BT5P2X999VH2) using a browser (preferably Google Chrome).  
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
+
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
  Alternatively, you can[play Fortnite using Nvidia GeForce Now](https://www.makeuseof.com/how-to-play-fortnite-on-iphone/) on an iPhone or Mac, but the same points and limitations apply regardless of the cloud gaming service you choose.
@@ -119,14 +106,11 @@ Follow these steps to get Fortnite on your Mac:
 
  This is mostly a bummer for gamers who just want to have some good old battle royale action without having to purchase a Windows PC. Since it's unlikely Apple will change its App Store policies, we hope Epic Games makes a compromise soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +119,20 @@ Follow these steps to get Fortnite on your Mac:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>[New] 2024 Approved Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-achieve-negative-like-images-effectively/"><u>[New] How to Achieve Negative-Like Images Effectively</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-how-to-watch-videos-quickly-and-smoothly-for-2024/"><u>[New] Instagram How to Watch Videos Quickly & Smoothly for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfecting-webp-conversion-to-jpeg-format/"><u>[New] Perfecting WebP Conversion to JPEG Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb-for-2024/"><u>[New] The Future Is Virtual Making and Sharing Immersive Footage for FB for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-or-classic-swings-for-games/"><u>Cutting Edge or Classic Swings for Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-global-gaming-with-rom-language-tweaks/"><u>Embrace Global Gaming with ROM Language Tweaks</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashs-farewell-revel-in-your-game-time-with-alternatives/"><u>Flash's Farewell? Revel in Your Game Time with Alternatives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitech-g203-software-on-pcs-windows-7-to-11-support/"><u>Install Logitech G203 Software on PCs (Windows 7 to 11 Support)</u></a></li>
+<li><a href="https://games-able.techidaily.com/ios-gaming-wonders-revisit-nintendo-classics/"><u>IOS Gaming Wonders: Revisit Nintendo Classics</u></a></li>
+<li><a href="https://games-able.techidaily.com/now-played-then-made-the-new-console-era/"><u>Now Played, Then Made: The New Console Era</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-leading-macos-applications-insights/"><u>Ultimate Guide to Leading macOS Applications : Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-escapades-5-adventure-titles-online/"><u>Virtual Escapades: 5 Adventure Titles Online</u></a></li>
+</ul></div>
 

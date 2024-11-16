@@ -1,7 +1,7 @@
 ---
 title: What to Expect From AMD's RDNA 3.5 Graphics Engine - Its Debut?
-date: 2024-09-09T09:41:14.302Z
-updated: 2024-09-10T09:41:14.302Z
+date: 2024-11-11T02:40:59.791Z
+updated: 2024-11-16T04:17:33.324Z
 tags:
   - games
 categories:
@@ -12,18 +12,6 @@ keywords: AMD RDNA 3.5,RDNA 3.5 GPU,New Radeon Gen,RDNA Graphics Engine,AMD Tech
 thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6e8803f065c62fd751a91e70.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Expect From AMD's RDNA 3.5 Graphics Engine - Its Debut?
 
 ### Key Takeaways
@@ -37,11 +25,12 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is AMD RDNA 3.5?
 
  While AMD has been tight-lipped about the specifics, RDNA 3.5 is its new GPU architecture that's somewhere between[RDNA 3, AMD's Ada Lovelace competitor,](https://www.makeuseof.com/what-is-rdna-3/) and the upcoming RDNA 4\. It'll most likely be used as an integrated GPU (iGPU) solution for mobile APUs for handhelds and laptops.[Accelerated Processing Units combine a CPU and GPU](https://www.makeuseof.com/tag/what-is-the-difference-between-an-apu-a-cpu-and-a-gpu-makeuseof-explains/) into a single chip for efficiency and to deliver other benefits.
@@ -49,22 +38,24 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
 
  These next-generation chips will be based on AMD's upcoming Zen 5 architecture (expected in 2024), built on a 4nm process with performance and efficiency cores set up very similar to Intel's design. We might also see updates to AMD's software stack, most notably to[FSR 3, AMD's equivalent of DLSS 3.5](https://www.makeuseof.com/amd-announces-fsr-3-but-will-it-compete-with-dlss-35/) .
 
  All the information available about RDNA 3.5 suggests that it's AMD's answer to modern dedicated mobile GPUs. Whether we'll see a standalone GPU with RDNA 3.5 architecture also remains a mystery. That said, if AMD decides to refresh RDNA 3 before RDNA 4 launches, it might be based on RDNA 3.5, so the possibility of a standalone GPU isn't completely out of the water.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Will RDNA 3.5 Launch?
 
@@ -72,12 +63,6 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
 
  With the limited information available, it's hard to tell how much of a lead RDNA 3.5 will be over previous RDNA generations, namely RDNA 3 and 2\. However, we can take a look at the CPUs and APUs that RDNA 3.5 will be launching with to get an idea of how it'll perform.
@@ -87,35 +72,27 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
 
  It seems like RDNA 3.5 will be making its debut in AMD's mobile APU lineup. The decision makes sense considering what it has achieved in gaming handhelds with RDNA 2 and RDNA 3 (for example, with the Steam Deck, Asus ROG Ally, and the upcoming Lenovo Legion Go). The Zen 5-powered CPU, armed with its 16 RDNA 3.5 GPU compute cores, should theoretically provide a big GPU performance boost over its predecessors.
 
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
 
  One of AMD's biggest advantages over Intel is integrated RDNA graphics in its processors. Provided RDNA 3.5 lives up to the hype, the GPU architecture can render lower-end GPUs obsolete and will help AMD regain some of the market share it has lost to Intel.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +101,20 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-customize-your-video-to-fit-seamlessly-in-instagram/"><u>[New] 2024 Approved Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-discovering-pc-gaming-the-quintessential-5-gb-advance-emulators/"><u>[New] Discovering PC Gaming The Quintessential 5 GB Advance Emulators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-pairing-podcast-with-picture/"><u>[New] In 2024, Pairing Podcast with Picture</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-crossing-over-attending-tiktok-live-gigs-easily-for-2024/"><u>[Updated] Crossing Over Attending TikTok Live Gigs Easily for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convertidor-de-audio-online-sin-coste-mp3-a-wma-con-movavi-facil-y-gratis/"><u>Convertidor De Audio Online Sin Coste: MP3 a WMA Con Movavi (Fácil Y Gratis)</u></a></li>
+<li><a href="https://games-able.techidaily.com/discords-super-boost-a-must-or-not/"><u>Discord's Super Boost: A Must or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-fixes-ensuring-constant-ps4-controller-connection-in-windows/"><u>Essential Fixes: Ensuring Constant PS4 Controller Connection in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-techniques-for-control-use-in-ryujinx-emulation/"><u>Essential Techniques for Control Use in Ryujinx Emulation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-guide-to-understanding-the-enhanced-features-of-the-2018-kindle-paperwhite/"><u>Expert Guide to Understanding the Enhanced Features of the 2018 Kindle Paperwhite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Nokia XR21?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-phone-without-password-by-drfone-android/"><u>How To Unlock Poco M6 Pro 4G Phone Without Password?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-issues-with-nvidia-geforce-experiences-setting-retrieval/"><u>Resolved: Fixing Issues with Nvidia GeForce Experience's Setting Retrieval</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-picking-perfect-oled-display-dont-follow-my-errors/"><u>The Art of Picking Perfect OLED Display: Don't Follow My Errors</u></a></li>
+</ul></div>
 

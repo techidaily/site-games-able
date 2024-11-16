@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Through EA Play on PS5
-date: 2024-10-21T05:42:56.029Z
-updated: 2024-10-24T16:40:16.209Z
+date: 2024-11-10T20:12:20.856Z
+updated: 2024-11-16T00:44:38.110Z
 tags:
   - games
 categories:
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Subscribe to EA Play on the PS5
@@ -51,15 +57,22 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 4. Select**$4.99** and choose**Order & Pay** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use an EA Play Membership on the PS5
 
@@ -69,25 +82,19 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 2. Select**View Games** , and you’ll find yourself in the**EA Play Play List** .  
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
-![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -118,21 +125,20 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-lab.techidaily.com/vs/"><u>地方サーバーバックアップ Vs. クラウドストレージのバックアップ:詳細なコンパリション</u></a></li>
-<li><a href="https://games-able.techidaily.com/create-a-unique-gaming-experience-with-personalized-xbox-game-bar-configurations/"><u>Create a Unique Gaming Experience with Personalized Xbox Game Bar Configurations</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/dvd-mov/"><u>DVD フリー! MOV形式への変換ガイド</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extract-and-save-still-images-from-movies-in-windows-photos-for-2024/"><u>Extract and Save Still Images From Movies in Windows Photos for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-the-perfect-slideshow-design-10-places-to-download-for-inspiration/"><u>In 2024, Get the Perfect Slideshow Design 10 Places to Download for Inspiration</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-social-synergy-add-friends-effortlessly-on-devices/"><u>In 2024, Social Synergy Add Friends Effortlessly on Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigate-through-windows-10s-media-importation-elegantly-for-2024/"><u>Navigate Through Windows 10'S Media Importation Elegantly for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/office-seat-advantage-for-gamers/"><u>Office Seat Advantage for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-console-play-with-ryujinx-a-controller-guide-for-ps4switch-games/"><u>Optimal Console Play with Ryujinx: A Controller Guide for PS4/Switch Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-rank-a-truly-essential-concern/"><u>Steam Rank: A Truly Essential Concern?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-acrocefexe-from-crashing-effective-fixes-for-windows-users/"><u>Stop AcroCEF.exe From Crashing - Effective Fixes for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-secrets-for-boosting-your-steam-decks-performance-while-docked/"><u>Top 5 Secrets for Boosting Your Steam Deck’s Performance While Docked</u></a></li>
-<li><a href="https://games-able.techidaily.com/turbocharge-your-gameplay-on-the-ps4-platform/"><u>Turbocharge Your Gameplay on the PS4 Platform</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-test-of-sonic-quality-sony-wh-1000xm4/"><u>Ultimate Test of Sonic Quality - Sony WH-1000XM4</u></a></li>
-<li><a href="https://games-able.techidaily.com/unplugging-for-peaceful-console-experience/"><u>Unplugging for Peaceful Console Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-choosing-premium-free-srt-translation-apps/"><u>[New] The Ultimate Checklist for Choosing Premium Free SRT Translation Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enhance-your-mobile-calls-with-these-top-10-safe-and-free-chat-applications-for-iosandroid-for-2024/"><u>[Updated] Enhance Your Mobile Calls with These Top 10 Safe & Free Chat Applications for iOS/Android for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-worlds-best-short-videos-download-now-free-for-2024/"><u>[Updated] World's Best Short Videos – Download Now! (Free) for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-the-audio-element-in-instagram-storytelling/"><u>2024 Approved Perfecting the Audio Element in Instagram Storytelling</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-computer-use-gaming-vs-professional-work/"><u>Comparing Computer Use: Gaming Vs. Professional Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-a-cpu-cooler-the-must-know-8-factors/"><u>Deciding on a CPU Cooler: The Must-Know 8 Factors</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-arcade-showdown-ps5-vs-affordable-gaming-unit/"><u>Digital Arcade Showdown: PS5 V/S Affordable Gaming Unit</u></a></li>
+<li><a href="https://games-able.techidaily.com/discord-setup-made-simple-for-mac-users/"><u>Discord Setup Made Simple for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-free-gaming-without-investments/"><u>Discover the Best Free Gaming without Investments</u></a></li>
+<li><a href="https://facebook.techidaily.com/dismantling-facebook-observation-via-off-fb-workflow/"><u>Dismantling Facebook Observation via Off-FB Workflow</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-elevate-your-vimeo-watch-time/"><u>In 2024, Elevate Your Vimeo Watch Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-playful-phrase-swapping-games-for-friendly-teasing/"><u>Nine Playful Phrase Swapping Games for Friendly Teasing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/resolve-ipadiphone-fb-video-playback-delays/"><u>Resolve iPad/iPhone FB Video Playback Delays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-dll-file-not-found-issues/"><u>Troubleshooting Guide: Resolving 'DLL File Not Found' Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-warfare-odyssey-exploring-the-best-11-simulators/"><u>Virtual Warfare Odyssey: Exploring the Best 11 Simulators</u></a></li>
 </ul></div>
 

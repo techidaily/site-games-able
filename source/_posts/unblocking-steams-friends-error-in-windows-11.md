@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2024-11-04T17:11:26.616Z
-updated: 2024-11-05T21:42:40.904Z
+date: 2024-11-14T22:19:28.901Z
+updated: 2024-11-15T17:49:16.239Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 Restart Steam and check if the issue is now fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Steam Friends & Chat Settings
 
  If restarting Steam didn’t fix the issue, you should check your account’s Friends & Chat settings. Here’s how you can do it:
@@ -58,17 +65,10 @@ Restart Steam and check if the issue is now fixed.
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Edit Steam’s Executable
@@ -84,13 +84,6 @@ Restart Steam and check if the issue is now fixed.
  To delete Steam’s cache, press**Windows key + R** to launch a Run dialog. Then, type**%appdata%** and press**Enter** . In the File Explorer window, locate and permanently delete the**Steam** folder.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
@@ -109,10 +102,17 @@ Restart Steam and check if the issue is now fixed.
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
@@ -134,20 +134,20 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-top-8-services-to-amplify-video-content/"><u>[New] 2024 Approved Discover the Top 8 Services to Amplify Video Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-plating-aesthetics-capturing-delectable-dishes-on-screen/"><u>[New] 2024 Approved Plating Aesthetics Capturing Delectable Dishes on Screen</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-maximizing-social-media-roi-with-judicious-facebook-hash-usage/"><u>[New] In 2024, Maximizing Social Media ROI with Judicious Facebook Hash Usage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elite-5-drones-perfect-choices-for-experts-for-2024/"><u>[Updated] Elite 5 Drones Perfect Choices for Experts for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-sound-and-filter-integration-in-windows-10-photos-app-for-2024/"><u>[Updated] Mastering Sound & Filter Integration in Windows 10 Photos App for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-chart-a-course-for-success-top-5-effective-video-marketing-strategies-on-youtube/"><u>2024 Approved Chart a Course for Success Top 5 Effective Video Marketing Strategies on YouTube</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/affordable-alternatives-to-the-mophie-ac-powerstation-revealed-in-our-comprehensive-review/"><u>Affordable Alternatives to the Mophie AC Powerstation Revealed in Our Comprehensive Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-and-rectifying-steam-auth-delays-in-rust-games/"><u>Deciphering & Rectifying Steam Auth Delays in Rust Games</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>In 2024, Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-identity-verification-a-deep-dive-into-ig-selfies/"><u>In 2024, Mastering Identity Verification A Deep Dive Into IG Selfies</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-to-the-lands-of-java-miners-methodology/"><u>Journey to the Lands of Java: Miners' Methodology</u></a></li>
-<li><a href="https://games-able.techidaily.com/mwc-2024-highlights-and-hits-makeuseof-top-picks/"><u>MWC 2024 Highlights & Hits: MakeUseOf Top Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-common-steam-issues-in-windows-11/"><u>Overcoming Common Steam Issues in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/running-bg3-on-macos-with-crossover/"><u>Running BG3 on macOS with CrossOver</u></a></li>
-<li><a href="https://games-able.techidaily.com/wi-fi-woes-7-easy-to-follow-solutions-for-playstation-4-users/"><u>Wi-Fi Woes? 7 Easy-to-Follow Solutions for PlayStation 4 Users</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-decoding-the-new-era-of-bite-sized-videos-for-2024/"><u>[New] Facebook Decoding the New Era of Bite-Sized Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-from-doodles-to-dollars-the-graphic-artists-guide-for-2024/"><u>[New] From Doodles to Dollars The Graphic Artist's Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>[Updated] In 2024, Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-every-milestone-the-complete-guide-to-steam-awards/"><u>Achieve Every Milestone: The Complete Guide to Steam Awards</u></a></li>
+<li><a href="https://games-able.techidaily.com/ascertaining-maximum-vram-for-your-device/"><u>Ascertaining Maximum VRAM for Your Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-eero-pro-mesh-network-test-run-optimal-coverage-across-every-room/"><u>Comprehensive Eero Pro Mesh Network Test Run - Optimal Coverage Across Every Room</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-indie-game-search-tips/"><u>Discovering Hidden Gems: Indie Game Search Tips</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-latest-driets-software-for-your-epson-scan-machine/"><u>Download the Latest Driets Software for Your Epson Scan Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-typing-experience-on-steam-deck/"><u>Enhancing Typing Experience on Steam Deck</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-12-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi 12 5G FRP Locks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-delete-your-chatgpt-account/"><u>How to Delete Your ChatGPT Account</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-consoles-capabilities-using-a-laptop-as-monitor/"><u>Maximize Your Console's Capabilities Using a Laptop as Monitor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-generative-ai-successfully-the-7-blunders-to-dodge/"><u>Navigating Generative AI Successfully: The 7 Blunders to Dodge</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-signal-shadows-on-your-pokemon-go-quest/"><u>Steering Clear of Signal Shadows on Your Pokémon Go Quest</u></a></li>
 </ul></div>
 

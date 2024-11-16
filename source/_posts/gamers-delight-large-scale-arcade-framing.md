@@ -1,7 +1,7 @@
 ---
 title: Gamer's Delight - Large-Scale Arcade Framing!
-date: 2024-10-17T21:31:18.037Z
-updated: 2024-10-25T03:01:15.585Z
+date: 2024-11-12T21:50:35.034Z
+updated: 2024-11-16T03:09:07.363Z
 tags:
   - games
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -44,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This saves days’ worth of work alone, and means[LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
@@ -76,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
@@ -107,10 +107,16 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Big Box Takes the Headache Out of Arcade Frontends
@@ -132,18 +138,20 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-deluxe.techidaily.com/echec-de-la-prise-dexclusivite-par-le-systeme-de-sauvegarde-windows-7-strategies-alternatives/"><u>Échec De La Prise D'Exclusivité Par Le Système De Sauvegarde Windows: 7 Stratégies Alternatives</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enthusiastic-educational-approaches-to-latin/"><u>Enthusiastic Educational Approaches to Latin</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-resolving-windows-1110-endless-reboot-loop/"><u>Fix: Resolving Windows 11/10 Endless Reboot Loop</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-quick-scan-maker-chrome-os/"><u>In 2024, Quick Scan Maker (Chrome OS)</u></a></li>
-<li><a href="https://games-able.techidaily.com/increase-the-joy-of-playing-learn-2-techniques-to-check-your-phones-frame-rate/"><u>Increase the Joy of Playing: Learn 2 Techniques to Check Your Phone's Frame Rate</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-deck-games-9-premier-emulators/"><u>Mastering Steam Deck Games: 9 Premier Emulators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/proactive-leaders-embracing-5-breakthrough-artificial-intelligence-tech/"><u>Proactive Leaders: Embracing 5 Breakthrough Artificial Intelligence Tech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/protect-your-data-while-turning-youtube-to-mp3-3-steps-for-2024/"><u>Protect Your Data While Turning YouTube to MP3 - 3 Steps for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/quietude-quests-minimalist-mmos/"><u>Quietude Quests: Minimalist MMOs</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-note-50-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Note 50</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-or-force-playing-subtitles-on-your-dvds/"><u>Step-by-Step Guide: Adding or Force-Playing Subtitles on Your DVDs</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-big-question-ps5-vs-xbox-s-next-gen-warriors/"><u>The Big Question: PS5 Vs. Xbox S - Next Gen Warriors</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-redmi-k70-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-achieving-perfect-fisheye-sphere-shots/"><u>[New] Achieving Perfect Fisheye Sphere Shots</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-effortless-way-to-personalize-your-youtube-channel-url/"><u>[New] In 2024, Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-the-complexities-of-youtube-copyright-claims-for-2024/"><u>[New] Navigating the Complexities of YouTube Copyright Claims for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[Updated] The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-for-expertise-start-with-moza-r5-bundle-review/"><u>$499 for Expertise Start with MOZA R5 Bundle Review</u></a></li>
+<li><a href="https://article-helps.techidaily.com/boost-creativity-tiktok-video-treatments/"><u>Boost Creativity TikTok Video Treatments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-imaginary-realms-with-chatgpt-a-step-by-step-guide/"><u>Crafting Imaginary Realms with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/galaxy-forger-unveiling-top-gaming-pcs/"><u>Galaxy Forger: Unveiling Top Gaming PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-gaming-secure-dont-use-ps5-microphone/"><u>Keep Gaming Secure: Don't Use PS5 Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-gaming-setup-repair-xbox-controllers/"><u>Master Your Gaming Setup - Repair Xbox Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-xbox-s-x-connectivity-issues/"><u>Solving Xbox S X Connectivity Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-economic-trajectory-of-video-games/"><u>Steam's Economic Trajectory of Video Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepping-up-your-game-cs2-for-mac-devices/"><u>Stepping Up Your Game: CS2 for Mac Devices</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-5-best-free-computer-diagnostic-tools-compare-and-choose/"><u>Top 5 Best Free Computer Diagnostic Tools - Compare & Choose!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Itel A60 | Dr.fone</u></a></li>
 </ul></div>
 

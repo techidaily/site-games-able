@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Blizzard Titles for a Reunion: MS Edition"
-date: 2024-09-09T16:45:52.917Z
-updated: 2024-09-15T16:26:43.437Z
+date: 2024-11-14T19:27:58.309Z
+updated: 2024-11-15T23:01:55.207Z
 tags:
   - games
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  Spyro still has a huge amount of diehard fans who have more than enough room for a brand new Spyro title in their collection, not to mention the younger audience that a successful entry would no doubt appeal to.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Skylanders
 
  If you were wondering where Spyro went back in the day, Skylanders is your answer. But Skylanders wasn’t just a Spyro clone that profited off the purple dragon’s name. It also introduced its own unique spin on things.
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
 
  The games were known not only for their fluid and satisfying gameplay but their incredible soundtracks that featured some of the most iconic songs of their age. Remastered versions of Tony Hawk's Pro Skater 1 and 2 were released in 2020 and were highly anticipated, so a new entry in the series would no doubt be just as, if not more, hyped than the remaster.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Hexen
 
  If the words Doom, Dark Fantasy, and Dark Souls trigger your interest, Hexen is something you should absolutely look into. It is very similar to Doom in many ways, including but not limited to the fact that it was built in a modified version of the same engine.
@@ -65,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  Instead of completing one level at a time, Hexen requires you to backtrack and make your way through several areas via a hub world. This added to the game's difficulty and made it far more unforgiving than your average FPS. But for gamers that thrive on a good challenge, it also makes it that much more satisfying when you complete it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Prototype
@@ -78,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
  Prototype doesn’t have webs, but Alex Mercer’s venom-like virus powers provided a very similar experience as you parkoured your way around the city. Even if Microsoft doesn’t revive the Prototype series, the games still hold up today and are well worth playing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Hopefully, Microsoft Doesn’t Leave These Games in the Past
@@ -103,5 +117,20 @@ thumbnail: https://thmb.techidaily.com/d558a627b87b79877888fadd197a60bce9f9f1882
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-the-inspired-moment-essential-photos-for-ig-for-2024/"><u>[New] Capture the Inspired Moment Essential Photos for IG for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>[New] Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-clearing-up-audio-in-skype-conferences/"><u>[Updated] Clearing Up Audio in Skype Conferences</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-android-mac-video-archiving-a-snap-solution-guide/"><u>[Updated] In 2024, Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-the-ideal-gaming-setup-controller-plus-android-connection/"><u>Crafting the Ideal Gaming Setup: Controller + Android Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-these-lightning-fast-online-gaming-experiences/"><u>Discover These Lightning-Fast Online Gaming Experiences</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-6-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 6</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-online-event-replay-collectors/"><u>In 2024, Online Event Replay Collectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-gaming-potential-with-a-personalized-xbox-game-bar-in-windows/"><u>Reimagine Gaming Potential with a Personalized Xbox Game Bar in Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-the-amplifi-hd-mesh-system-ending-the-era-of-unreliable-wi-fi/"><u>The Ultimate Guide to the Amplifi HD Mesh System: Ending the Era of Unreliable Wi-Fi.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-converting-movies-and-videos-into-iphone-friendly-mp4-files-with-top-software-picks/"><u>Ultimate Guide to Converting Movies & Videos Into iPhone-Friendly MP4 Files with Top Software Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-connection-an-easy-guide-for-xbox-one-controllers/"><u>Unravel Connection: An Easy Guide for Xbox One Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/where-fiction-meets-reality-meta-quest-3/"><u>Where Fiction Meets Reality - Meta Quest 3</u></a></li>
+</ul></div>
 

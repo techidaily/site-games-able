@@ -1,7 +1,7 @@
 ---
 title: "Evolved Rendering Tech: DirectX Series Analysis"
-date: 2024-10-29T18:53:19.771Z
-updated: 2024-11-05T20:30:59.845Z
+date: 2024-11-14T17:32:46.173Z
+updated: 2024-11-16T02:13:07.618Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are the Differences Between DirectX 11 and DirectX 12?
 
  So, what are the differences between DirectX 11 and DirectX 12? Put simply, DirectX 12 is the latest version of DirectX. One of the most noticeable differences is how they interact with your hardware. Most games developed with DirectX 11 only utilize between two and four[CPU cores](https://www.makeuseof.com/cpu-vs-vcpu-threads-vs-cores/) . One of these cores usually tells the GPU what to do.
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
@@ -76,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DX 11 vs. DX 12: Which Should You Choose?
@@ -93,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
@@ -130,18 +124,18 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-crafting-visual-wonders-in-lightrooms-hdr-workflow/"><u>[New] Crafting Visual Wonders in Lightroom's HDR Workflow</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-smooth-playthrough-troubleshooting-pc-performance-hiccups/"><u>Assassin's Creed Valhalla Smooth Playthrough - Troubleshooting PC Performance Hiccups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/corporate-decisions-five-momentous-reasons-against-gpt-deployment/"><u>Corporate Decisions: Five Momentous Reasons Against GPT Deployment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-concerns-identifying-why-chatgpt-is-a-hotspot-for-hacker-activities/"><u>Cybersecurity Concerns: Identifying Why ChatGPT Is a Hotspot for Hacker Activities</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-msi-b350-toms-tomahawk-motherboard-drivers-for-windows-11-and-7/"><u>Download MSI B350 TOM'S TOMAHAWK Motherboard Drivers for Windows 11 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-mind-games-with-nyts-strands-beginner-to-pro-steps/"><u>Elevate Your Mind Games with NYT's ‘Strands’ - Beginner to Pro Steps</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps5-connectivity-a-step-by-step-approach/"><u>Mastering PS5 Connectivity: A Step-by-Step Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-your-mc-adventure-troubleshooting-disconnects-in-pc-lan/"><u>Resume Your MC Adventure: Troubleshooting Disconnects in PC LAN</u></a></li>
-<li><a href="https://games-able.techidaily.com/stronger-gameplay-starts-here-fixing-low-valorant-fps-windows-edition/"><u>Stronger Gameplay Starts Here: Fixing Low Valorant FPS Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/terminate-recurring-purchases-on-steam-securely/"><u>Terminate Recurring Purchases on Steam Securely</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-mobile-computer-for-gamers-pdw4/"><u>The Ultimate Mobile Computer for Gamers: PDW4</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-10-best-offline-android-games-to-pass-time-filmora/"><u>[New] 2024 Approved 10 Best Offline Android Games to Pass Time - Filmora</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality/"><u>[New] 2024 Approved Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/lear-shots-for-youtube-filmmakers-for-2024/"><u>[New] Clear Shots for YouTube Filmmakers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-newsletter-the-most-recent-changes/"><u>[New] In 2024, Facebook Newsletter - The Most Recent Changes</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-fixes-for-windows-steam-remote-gaming-glitches/"><u>Essential Fixes for Windows Steam Remote Gaming Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-boosting-ps5-upgrades-unveiled/"><u>Game Boosting PS5 Upgrades Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-razr-40-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Razr 40 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-sonys-console-controller-into-pcmac-setup/"><u>Integrating Sony's Console Controller Into PC/Mac Setup</u></a></li>
+<li><a href="https://article-posts.techidaily.com/mastering-the-art-of-persuasion-in-marketing-for-2024/"><u>Mastering the Art of Persuasion in Marketing for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-gameplay-sound-series-x-headset-preference/"><u>Personalized Gameplay Sound: Series X Headset Preference</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-nintendo-switch-docks-a-compilation/"><u>Top Nintendo Switch Docks : A Compilation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-file-m4a-in-mp4-gratuitamente-online-con-convertimp3/"><u>Trasforma I File M4A in MP4 Gratuitamente Online Con ConvertiMp3</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-remove-faces-from-photos-and-videos-the-best-10-free-apps-for-anonymization-for-2024/"><u>Updated Remove Faces From Photos and Videos The Best 10 Free Apps for Anonymization for 2024</u></a></li>
 </ul></div>
 

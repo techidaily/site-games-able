@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2024-10-31T21:01:01.196Z
-updated: 2024-11-05T20:36:15.944Z
+date: 2024-11-14T00:36:42.099Z
+updated: 2024-11-16T00:41:20.107Z
 tags:
   - games
 categories:
@@ -29,18 +29,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -54,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Unravel Two
 
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -98,18 +98,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Final Fantasy VII Remake
 
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -130,18 +130,21 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-securing-streams-of-cash-from-content-creation/"><u>[New] 2024 Approved Securing Streams of Cash From Content Creation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-prime-choices-for-budget-conscious-consumers-4k-viewing/"><u>[New] Prime Choices for Budget-Conscious Consumers' 4K Viewing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>[Updated] Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-create-captivate-independent-animation-innovations/"><u>[Updated] Create, Captivate Independent Animation Innovations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-six-pioneering-steps-for-moving-mov-files-to-win-11/"><u>[Updated] Six Pioneering Steps for Moving MOV Files to Win 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-childs-defensive-ps5-environment/"><u>Crafting a Child’s Defensive PS5 Environment</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-pairing-how-to-link-airpods-with-your-hp-notebook/"><u>Effortless Pairing: How to Link AirPods with Your HP Notebook</u></a></li>
-<li><a href="https://fox-that.techidaily.com/handling-a-rejected-payment-on-apple-platforms-try-these-6-quick-remedies/"><u>Handling a Rejected Payment on Apple Platforms? Try These 6 Quick Remedies</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-pc-inputs-to-steam-deck-safely-using-a-barrier-approach/"><u>Integrating PC Inputs to Steam Deck Safely Using a Barrier Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/streaming-simplicity-intels-contribution-with-stream-assist/"><u>Streaming Simplicity: Intel's Contribution with Stream Assist</u></a></li>
-<li><a href="https://games-able.techidaily.com/taking-a-glimpse-at-amds-future-with-rdna-35-and-its-expected-unveiling/"><u>Taking a Glimpse at AMD’s Future with RDNA 3.5 and Its Expected Unveiling</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-purging-past-games-from-playstation-5/"><u>The Ultimate Guide to Purging Past Games From PlayStation 5</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-canon-driver-get-it-now/"><u>Windows 10 Canon Driver, Get It Now</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>2024 Approved Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-tips-for-capturing-whatsapp-chat-calls-methods-and-techniques/"><u>2024 Approved Tips for Capturing WhatsApp Chat Calls Methods & Techniques</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-your-youtube-earnings-adsense-payments-per-thousand-viewer/"><u>2024 Approved Understanding Your Youtube Earnings AdSense Payments per Thousand Viewer</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-friendly-boards-next-gen-gaming-companions/"><u>Budget-Friendly Boards: Next Gen Gaming Companions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/closer-look-strategies-in-virtual-world-of-roblox/"><u>Closer Look Strategies in Virtual World of Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/expecting-more-from-play-understanding-steams-ai-directive/"><u>Expecting More From Play: Understanding Steam's AI Directive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-geforce-rtx-2060-super-graphics-card-drivers-for-windows-10-and-11/"><u>Get the Latest GeForce RTX 2060 Super Graphics Card Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-itel-a60s-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel A60s Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y56-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y56 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-vs-asus-picking-the-best-gpu-out-there/"><u>Nvidia Vs. ASUS: Picking the Best GPU Out There</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perplexity-ai-the-ultimate-innovation-in-ai-powered-google-search-tools-you-need-to-try-today/"><u>Perplexity AI: The Ultimate Innovation in AI-Powered Google Search Tools You Need to Try Today!</u></a></li>
+<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/uncovering-the-top-rated-dual-function-device-of-the-year-with-a-hidden-workplace-perk-a-zdnet-review/"><u>Uncovering the Top Rated Dual-Function Device of the Year with a Hidden Workplace Perk: A ZDNet Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-peak-performance-elevate-low-fps-on-pc/"><u>Unleash Peak Performance: Elevate Low FPS on PC</u></a></li>
 </ul></div>
 

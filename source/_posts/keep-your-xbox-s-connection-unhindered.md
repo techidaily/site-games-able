@@ -1,7 +1,7 @@
 ---
 title: Keep Your Xbox S Connection Unhindered
-date: 2024-10-31T18:02:10.336Z
-updated: 2024-11-05T19:04:53.957Z
+date: 2024-11-13T16:24:25.597Z
+updated: 2024-11-15T16:54:15.345Z
 tags:
   - games
 categories:
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  You may be one of the Xbox Series X owners whose joypads are falling foul of a controller disconnection error. If so, here are several ways you may be able to solve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is the Xbox Series X Controller Issue?
 
  Not long after the release of the Xbox Series X and S, several Xbox owners were experiencing connectivity issues with the Series X controller. Since then,[Microsoft has reportedly fixed the bug](https://www.makeuseof.com/microsoft-fixes-xbox-controller-disconnection-bug/) with a software update. However, you may still experience issues with your Xbox Series X controller disconnecting.
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  If your Xbox controller keeps disconnecting, you might just need to update the firmware. To check whether your controller has the latest firmware, go to **Profile & system > Settings > Devices & connections > Accessories** . This will allow you to check whether the firmware is up-to-date.
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update Your Xbox Series X Console
 
@@ -82,23 +82,9 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Hard Restart Your Xbox Series X
 
 ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
@@ -108,16 +94,22 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Replace Your Controller's Batteries
 
 ![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  More often than not, if your Xbox controller is low on battery, it will disconnect, blink for a couple of seconds, and turn off when you're actively playing a game. You can power it back on immediately, but it will only work for a minute or less before disconnecting and turning off again.
 
@@ -125,15 +117,22 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  To access and swap the AA batteries, all you need to do is push the battery cover below the controller upwards and pull either end of each battery outwards. Then, put the new ones back in and snap the battery cover in place.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Use an Xbox One Controller
 
 ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Did you know you can[connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
@@ -143,6 +142,19 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  So, if you have an Xbox One gamepad, grab it and connect it to your Series X console. And if it works, feel free to continue gaming because your Series X controller is the culprit here.
 
  If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Game Without Your Xbox Series X Controller Disconnecting
 
@@ -165,20 +177,19 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-swift-cinematic-skills-the-quickest-5-diy-hacks-for-success/"><u>2024 Approved Swift Cinematic Skills The Quickest 5 DIY Hacks for Success</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-artistry-in-radio-plays/"><u>Auditory Artistry in Radio Plays</u></a></li>
-<li><a href="https://games-able.techidaily.com/current-currents-of-change/"><u>Current Currents of Change</u></a></li>
-<li><a href="https://games-able.techidaily.com/enabling-console-playback-control-on-pc-games-150-chars/"><u>Enabling Console Playback Control on PC Games (150 Chars)</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-very-best-8-game-news-plus-sites/"><u>Explore: The Very Best 8 Game News + Sites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-excel-surpasses-gpt-based-interaction/"><u>How Excel Surpasses GPT-Based Interaction</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-advanced-presentation-techniques-youtube-in-slides/"><u>In 2024, Advanced Presentation Techniques YouTube in Slides</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210966120-9781088228036-la-reencarnacion-de-una-reina/"><u>La Reencarnación de una Reina | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-pilgrimages-a-top-9-travelers-guide-to-games/"><u>Pixel Pilgrimages: A Top 9 Traveler's Guide to Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/streaming-showdown-obs-and-shadowtoolkit/"><u>Streaming Showdown OBS & ShadowToolkit</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-pre-released-video-games/"><u>Understanding Pre-Released Video Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-a-new-era-of-portability-connecting-pc-and-steam-deck-with-barrier-methods/"><u>Unleashing a New Era of Portability: Connecting PC & Steam Deck with Barrier Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-potential-of-ea-play-a-guide-for-newcomers-and-veterans-alike/"><u>Unlock the Potential of EA Play - A Guide for Newcomers & Veterans Alike</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-cyber-disturbances-audio-set-unlimited-free/"><u>Updated In 2024, Cyber Disturbances Audio Set - Unlimited, FREE</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-become-a-lol-broadcasting-pro-with-these-three-methods-for-2024/"><u>[New] Become a LOL Broadcasting Pro with These Three Methods for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-controlling-playback-rate-on-snapchat-for-2024/"><u>[New] The Ultimate Guide to Controlling Playback Rate on Snapchat for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battle-tested-techniques-to-resolve-your-rocket-league-stalling-and-freezing-problems/"><u>Battle-Tested Techniques to Resolve Your Rocket League Stalling and Freezing Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-fun-in-games-invest-in-high-quality-tech/"><u>Boosting Fun in Games: Invest in High-Quality Tech</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/integrating-abbyy-sdk-into-packaging-automation-enhancing-efficiency-in-transport-and-logistics/"><u>Integrating ABBYY SDK Into Packaging Automation: Enhancing Efficiency in Transport and Logistics</u></a></li>
+<li><a href="https://games-able.techidaily.com/mechanical-masterpiece-revealed-razers-hot-swap-widow-v4/"><u>Mechanical Masterpiece Revealed - Razer's Hot-Swap Widow V4</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-decks-new-frontier-external-memory-expansion/"><u>Steam Deck's New Frontier: External Memory Expansion</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-using-steam-deck-for-pc-gaming-broadcasts/"><u>Step-By-Step: Using Steam Deck for PC Gaming Broadcasts</u></a></li>
+<li><a href="https://techidaily.com/successful-resolution-overcoming-windows-10-setup-issues/"><u>Successful Resolution: Overcoming Windows 10 Setup Issues</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-hardware-experts/"><u>The Ultimate Guide to New Technology by Tom's Hardware Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-on-recognizing-and-responding-to-fake-chatgpt-portals/"><u>Tips on Recognizing and Responding to Fake ChatGPT Portals</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-remote-link-failures/"><u>Troubleshooting Steam Remote Link Failures</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-to-check-before-buying-a-gamers-display/"><u>What to Check Before Buying a Gamers Display</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Perils of a Tipped Gaming Innovation System
-date: 2024-09-09T09:44:38.576Z
-updated: 2024-09-10T09:44:38.576Z
+date: 2024-11-15T02:06:39.309Z
+updated: 2024-11-16T03:56:00.060Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Tipped Gaming Risks,Gaming Tipping Challenges,Game Innovation Pitfalls
 thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736cfcb08614e4c3a629de687e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Perils of a Tipped Gaming Innovation System
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -35,11 +23,12 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -57,20 +46,22 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -80,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -95,11 +80,12 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
@@ -126,14 +112,11 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +125,23 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-scripts-that-define-movie-industrys-variety/"><u>[Updated] Scripts That Define Movie Industry's Variety</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-how-to-launch-your-first-session-with-vrecorder/"><u>2024 Approved How to Launch Your First Session with VRecorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-etude-le-phenomene-dautomatisation-chez-les-entreprises-francaises-en-2019-la-quete-pour-une-strategie-et-des-competences-optimales/"><u>ABBYY Étude : Le Phénomène D'Automatisation Chez Les Entreprises Françaises en 2019 - La Quête Pour Une Stratégie Et Des Compétences Optimales</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-crafting-and-maintaining-daily-meditation-rituals/"><u>ChatGPT's Role in Crafting and Maintaining Daily Meditation Rituals</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-high-definition-video-playback-on-windows-n-top-plays-for-hd-uhd-and-standard-definition-movies/"><u>Free High-Definition Video Playback on Windows N: Top Plays for HD, UHD and Standard Definition Movies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-resolve-drivers-problems-with-arduino-uno-in-windows/"><u>How to Resolve Drivers Problems with Arduino Uno in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/immerse-in-gaming-the-power-of-oled-technology/"><u>Immerse in Gaming: The Power of OLED Technology.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-smooth-playback-a-comprehensive-look-at-setting-up-xbox-vrr/"><u>Maximize Smooth Playback: A Comprehensive Look at Setting Up Xbox VRR</u></a></li>
+<li><a href="https://games-able.techidaily.com/pixel-power-play-choosing-the-right-control/"><u>Pixel Power Play: Choosing the Right Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-growth-spurt-whats-new-and-different/"><u>PS5 Growth Spurt: What's New & Different?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-old-games-reduce-disk-size-without-losing-gameplay-via-chdman/"><u>Reimagining Old Games: Reduce Disk Size without Losing Gameplay via ChDMan</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/start-making-movies-8-best-film-cameras-under-300-for-2024/"><u>Start Making Movies 8 Best Film Cameras Under $300 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-ssd-for-ps5/"><u>The Best SSD for PS5</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-a54-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy A54 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-ps5-film-adventures/"><u>Unleashing PS5 Film Adventures</u></a></li>
+</ul></div>
 

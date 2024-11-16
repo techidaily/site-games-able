@@ -1,7 +1,7 @@
 ---
 title: "Conquer Every Game: Mastering Button Mappings on Android"
-date: 2024-09-09T09:43:42.625Z
-updated: 2024-09-10T09:43:42.625Z
+date: 2024-11-13T20:42:08.515Z
+updated: 2024-11-15T22:18:00.093Z
 tags:
   - games
 categories:
@@ -14,30 +14,12 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ## Conquer Every Game: Mastering Button Mappings on Android
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Button Mapping?](#what-is-button-mapping)
 * [How to Get Started With Button Mapping on Android](#how-to-get-started-with-button-mapping-on-android)
 * [How to Assign Buttons to an Android Game](#how-to-assign-buttons-to-an-android-game)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Button mapping is handy if you want to use your controller with Android games that don't support it.
@@ -47,57 +29,35 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Plenty of gamepads can turn your smartphone into a portable handheld, but only a minority of Android games actually support physical controls. Fortunately, you can solve this problem by mapping buttons to different parts of the screen using apps.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What Is Button Mapping?
 
  Button mapping refers to the process of manually determining what happens when you press a button on your game controller or keyboard. When it comes to gaming on Android devices, it typically means getting games that lack controller support to work by telling buttons to activate different parts of the touchscreen.
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Get Started With Button Mapping on Android
 
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
 ![Mantis button mapping app prompting you to enable overlay settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-allow-overlay-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mantis uses an pop-up window to help you enter a pairing code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-overlay-settings-pair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  Button mapping isn't a built-in feature on Android, so you'll need to use a third-party app like Mantis Gamepad Pro, which is one of the best options for the job.
@@ -118,6 +78,13 @@ Close
 
  Mantis Gamepad Pro isn't your only choice if you want to get started with button mapping on your Android device. You should also consider alternatives like[Octopus](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.chaozhuo.gameassistant&hl=en&gl=US) and[Panda Gamepad Pro](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031380/https://play.google.com/store/apps/details?id=com.panda.gamepad&hl=en&gl=US) , which perform the same core function in different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Assign Buttons to an Android Game
 
  Button mapping software generally requires you to enable the feature per game. To do this in Mantis Gamepad Pro, follow these steps:
@@ -132,6 +99,19 @@ Close
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
@@ -143,29 +123,27 @@ Close
 ![Buttons mapped using Mantis Gamepad Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-map-controls.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  From here on, you're good to go. The experience isn't without its quirks, but it works with most games you throw at it. Just know that sometimes you may need to re-activate the Mantis app, especially after restarting your phone.
 
  Button mapping won't deliver as smooth an experience as native controller support since things like navigating menus and other UI elements that move around often will still require touching the screen. You may also encounter other issues at unexpected times, which can be resolved by turning off developer settings and only re-enabling them when you intend to use Mantis.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +152,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elite-essentials-the-ultimate-collection-of-cardboard-vr-games/"><u>[New] In 2024, Elite Essentials The Ultimate Collection of Cardboard VR Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-up-your-game-mastering-effective-video-title-and-tag-techniques-for-2024/"><u>[Updated] Step Up Your Game Mastering Effective Video Title & Tag Techniques for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-timers-map-to-earning-wealth-with-periscope/"><u>2024 Approved First-Timer's Map to Earning Wealth with Periscope</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-say-goodbye-to-vertical-and-horizontal-bars-in-youtube-movies/"><u>2024 Approved Say Goodbye to Vertical and Horizontal Bars in YouTube Movies</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-effective-fixes-for-dealing-with-yellow-tint-problems-on-iphones/"><u>9 Effective Fixes For Dealing With Yellow Tint Problems On iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/disassemble-and-repair-a-frozen-steam-application/"><u>Disassemble and Repair a Frozen Steam Application</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-sparks-with-tecnos-enhanced-smartphones/"><u>IFA 2023 Sparks with Tecno’s Enhanced Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-network-stability-resolving-your-new-world-connections-issues/"><u>Mastering Network Stability: Resolving Your 'New World Connections Issues'</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefine-where-you-play-change-switch-region/"><u>Redefine Where You Play: Change Switch Region</u></a></li>
+<li><a href="https://games-able.techidaily.com/reset-wordle-streaks-on-mobile-devices-successfully/"><u>Reset Wordle Streaks on Mobile Devices Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/revealing-the-next-big-thing-leading-asus-rog-ally-docks/"><u>Revealing 'The Next Big Thing': Leading ASUS ROG Ally Docks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices/"><u>The Ultimate Guide to Recording Hulu Episodes on Multiple Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-mfc42dll-file-not-found-issue-on-your-pc/"><u>Troubleshooting the 'mfc42.dll File Not Found' Issue on Your PC</u></a></li>
+</ul></div>
 

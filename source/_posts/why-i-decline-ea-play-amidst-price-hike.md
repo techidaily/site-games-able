@@ -1,7 +1,7 @@
 ---
 title: Why I Decline EA Play Amidst Price Hike
-date: 2024-09-09T09:42:17.283Z
-updated: 2024-09-10T09:42:17.283Z
+date: 2024-11-08T21:09:51.833Z
+updated: 2024-11-15T18:35:18.181Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: EA Game Cost Increase,EA Pricing Controversy,Refuse EA Games,Anti-Pric
 thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e12422de4ab2672dba23567f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why I Decline EA Play Amidst Price Hike
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [EA Play Prices Are Increasing Globally](#ea-play-prices-are-increasing-globally)
@@ -42,22 +30,17 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
  EA Play subscribers received an email from the company in April 2024 announcing a price increase for its subscription services. While I've been using the service since 2019, when it was still called EA Origin, this price increase is finally causing me to end my subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## EA Play Prices Are Increasing Globally
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
  An extra dollar or two per month seems small, and even the $10 or $20 annual increase might seem reasonable. However, these increases are large if you look at them relative to the original price.
@@ -82,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. EA Isn't Adding New Perks and Features
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
@@ -98,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
  As I said earlier, EA Play is still the most affordable gaming subscription in 2024\. However, it doesn't mean it offers excellent value for your money. That's because while other gaming subscriptions are more expensive, they also have a more extensive library.
@@ -106,28 +103,17 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  However, the biggest reason to cancel my EA Play subscription is that[EA Play already comes with Xbox Game Pass for PC and Ultimate](https://www.makeuseof.com/how-to-use-ea-play-xbox-game-pass-pc/) . If you're a PC or Xbox gamer, getting this subscription makes the most sense, as you get 456 titles in your library as of April 2024 (and that's just for PC games). Although Game Pass for PC costs $9.99 monthly ($4 or 66% more expensive than the standard EA Play subscription), it offers much more value.
@@ -136,14 +122,11 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 
  Because of these reasons, I'm canceling my EA Play subscription and moving to Xbox Game Pass for PC. And unless you're a hardcore EA fan, I suggest you do, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +135,26 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-creation-to-public-domain-google-podcast-upload/"><u>[New] From Creation to Public Domain Google Podcast Upload</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast/"><u>[New] Stream Wars Evaluating Streamers' Top Contenders, OBS & Wirecast</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/comparative-analysis-of-top-rated-media-players-vlc-vs-5kplayer-on-mac-and-windows-platforms/"><u>Comparative Analysis of Top-Rated Media Players: VLC Vs. 5KPlayer on Mac and Windows Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-gaming-navigating-surge-in-attacks/"><u>Digital Gaming: Navigating Surge in Attacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-separate-to-synced-attaching-a-controller-on-your-phonetablet/"><u>From Separate to Synced: Attaching a Controller on Your Phone/Tablet</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-premium-logitech-mice/"><u>Gamers’ Choice: Premium Logitech Mice</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/get-your-hands-on-daums-potplayer-for-windows-1n-best-free-software-and-competitors-in-the-market/"><u>Get Your Hands on Daum's PotPlayer for Windows 1N: Best Free Software & Competitors in the Market</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphic-finesse-for-the-financially-prudent/"><u>Graphic Finesse for the Financially Prudent</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-copy-and-paste-functionality-on-your-windows-11-pc/"><u>How to Enable Copy and Paste Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-fun-smartphone-or-tablet-games/"><u>Maximizing Fun: Smartphone or Tablet Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/price-surge-precludes-my-return-to-ea-play/"><u>Price Surge Precludes My Return to EA Play</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smarter-enhancements-key-factors-in-technology-progress/"><u>Smarter Enhancements Key Factors in Technology Progress</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-subscribe-engage-and-revel-in-ps5s-ea-play-experience/"><u>Step-by-Step Guide: Subscribe, Engage, and Revel in PS5's EA Play Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-turning-off-automatic-mac-address-generation-on-your-android-device/"><u>Step-by-Step Guide: Turning Off Automatic MAC Address Generation on Your Android Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-importance-of-regulating-graphics-driver-fan-speeds/"><u>The Importance of Regulating Graphics Driver Fan Speeds</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-game-on-my-desk/"><u>Why I Game on My Desk?</u></a></li>
+<li><a href="https://win11.techidaily.com/winsecuretips-4-alternatives-if-bitlocker-is-not-an-option/"><u>WinSecureTips: 4 Alternatives if Bitlocker Is Not an Option</u></a></li>
+</ul></div>
 

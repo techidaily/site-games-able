@@ -1,7 +1,7 @@
 ---
 title: Top 20 Friendly Faction Duos for Mobile Connectivity
-date: 2024-09-09T09:38:37.682Z
-updated: 2024-09-10T09:38:37.682Z
+date: 2024-11-12T22:07:34.220Z
+updated: 2024-11-16T03:54:04.353Z
 tags:
   - games
 categories:
@@ -29,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 **Download:** Spaceteam for[iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Words With Friends 2
 
 The sequel to the acclaimed Words With Friends is more like an update.
@@ -46,18 +47,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Words With Friends 2 for[iOS](https://apps.apple.com/app/words-with-friends-2-word-game/id1196764367) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.zynga.words3) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Pokémon UNITE
 
  A MOBA (Multiplayer Online Battle Arena) similar to League of Legends, Pokémon UNITE offers more fast-paced, streamlined gameplay for quick on-demand teamwork battles.
@@ -67,11 +56,12 @@ The sequel to the acclaimed Words With Friends is more like an update.
 **Download:** Pokémon UNITE for[iOS](https://apps.apple.com/us/app/pok%C3%A9mon-unite/id1512321575) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Teamfight Tactics
 
  Riot Games' auto chess title provides a competitive experience with familiar League of Legends' champions. Draft and play champions while aiming to create the best team.
@@ -101,23 +91,18 @@ The sequel to the acclaimed Words With Friends is more like an update.
 **Download:** Hearthstone for[iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Pokémon Go
 
  When it debuted, Pokémon Go smashed the glass ceiling for AR (Augmented Reality) gaming, bringing pocket monsters into the real world. You and your friends can take your phones, whether Android or iOS, and go out into the real world and explore.
 
 **Download:** Pokémon Go for[iOS](https://apps.apple.com/app/pok%C3%A9mon-go/id1094591345) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. PUBG Mobile
 
  The world's classic battle royale game is available on pretty much any platform you can think of, including iOS and Android.
@@ -138,17 +123,18 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Mario Kart Tour for[iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Old School RuneScape
 
  Ready to scratch the nostalgia bug with friends? As one of the earliest accessible MMORPGs, many gamers will fondly remember RuneScape. Whether you're ready to fish, mine, or fight, you can resume your adventures in true crossplay form with all of your friends.
 
 **Download:** Old School RuneScape for[iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 11\. League of Legends: Wild Rift
 
@@ -160,14 +146,11 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
  So there we have it, a selection of the best cross-platform multiplayer games to play on mobile. With these tested titles, you can download a game you know can play together for a long time. So if you want more fun mobile games to play with friends, it's a simple install away.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +159,20 @@ The sequel to the acclaimed Words With Friends is more like an update.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-discovering-free-srt-excellence-our-top-8-picks/"><u>[New] 2024 Approved Discovering Free SRT Excellence Our Top 8 Picks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iy-tips-to-cut-unwanted-sounds-from-your-videos/"><u>[New] DIY Tips to Cut Unwanted Sounds From Your Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aximizing-your-youtube-earnings-with-smart-tactics/"><u>[New] Maximizing Your YouTube Earnings with Smart Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-analysis-of-sharex-criticism-and-replacements-for-2024/"><u>[Updated] In-Depth Analysis of ShareX Criticism & Replacements for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030690026-movwindows/"><u>無理やりもうけたMOVファイルをWindowsメディアプレーヤーで見る方法</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gaming-with-effective-ps5-assist-controller-setup/"><u>Achieve Seamless Gaming with Effective PS5 Assist Controller Setup</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/effortlessdataback-take/"><u>EffortlessDataback Take</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-conventional-to-revolutionary-the-pdw4-story/"><u>From Conventional to Revolutionary: The PDW4 Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-operas-advantage-secure-an-unlimited-free-discord-membership-for-1-month/"><u>Revel in Opera’s Advantage: Secure an Unlimited Free Discord Membership for 1 Month</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-playstyle-for-cs2-on-mac/"><u>Streamlining Your Playstyle for CS2 on Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-ssd-compatibility-with-ps5/"><u>Top-Notch SSD Compatibility with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/voltage-to-values-more-than-energys-promise/"><u>Voltage to Values: More Than Energy's Promise</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96320821-9781580059145-wicca/"><u>Wicca | Free Book</u></a></li>
+</ul></div>
 

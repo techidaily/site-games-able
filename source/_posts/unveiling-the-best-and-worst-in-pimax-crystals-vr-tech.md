@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Best & Worst in Pimax Crystal's VR Tech
-date: 2024-10-31T19:17:20.823Z
-updated: 2024-11-05T16:37:47.798Z
+date: 2024-11-12T22:04:44.274Z
+updated: 2024-11-15T16:40:00.823Z
 tags:
   - games
 categories:
@@ -95,22 +95,15 @@ SnapDragon XR2
 [See at Pimax](https://pimax.com/crystal/) [See at Amazon](https://www.amazon.com/Pimax-Crystal-headsets-All-One/dp/B0BZSGFLQ7?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031352&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fpimax-crystal-review%2F&asc%5Fcampaign=Affiliate)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Unpacking: There's a Lot
 
 ![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -122,13 +115,6 @@ Inside the large and densely packed box you'll find:
 * Video and power cable; proprietary connector on the headset side, DisplayPort and two USB on the other.
 * USB power adaptor, and USB A to A cable to connect the hub to your computer.
 * Two USB-A to C cables for charging the controllers.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Controllers: Functional but Nasty
 
@@ -150,16 +136,16 @@ Related
 
  The Pimax Crystal controllers are good enough in that they get the job done and track well, but have no unique features or design. They're a far cry from the[PSVR2](https://www.makeuseof.com/playstation-vr2-review/) controllers with their advanced haptics, adaptive trigger, and general Sony mastery of all things controller-related. The Valve Index set is cheaper and arguably has more advanced controllers, but I’m not a fan of those either—I’m forever accidentally dropping or grabbing items thanks to the pressure-sensitive grab features. At least the Pimax Crystal controllers have a basic physical grip button. If I'm honest, nothing compares to the enormous[HTC Vive](https://www.makeuseof.com/tag/virtual-reality-is-finally-here-htc-vive-review-giveaway/) wands, which always felt like you were holding a gun or sword.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design: Heavy but Comfortable
 
 ![pimax crystal - headset overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-headset-overview.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -181,6 +167,13 @@ Related
 
 ![pimax crystal - battery packs and charger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-battery-packs-and-charger.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  The battery is swappable and should last around four to six hours of regular PCVR use, with two provided in the box. Assuming things are plugged in right, it should automatically charge when the headset is not in use. If you end up with a dud battery, you may find your play sessions getting cut short, but overall, this reliance on a battery was less of a problem than I had assumed it would be. However, I found the latching mechanism for the battery pack to be tricky; I can see myself breaking it at some point, which would render it useless since the battery slots in from underneath.
@@ -192,10 +185,10 @@ Related
 ![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
@@ -215,10 +208,10 @@ Related
 ![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
@@ -232,6 +225,19 @@ Related
  Of course, it's worth pointing out that to really benefit from this high pixel density, you're going to need some seriously good hardware. For graphically detailed and intensive games like Microsoft Flight Simulator, you're looking at a 4070 or 4090\. My 3060 can barely keep up.
 
  But let's be clear: from a hardware and imaging perspective, you cannot beat the Pimax Crystal right now for tethered PCVR.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Dynamic Foveated Rendering Gives You a Performance Boost (in Theory)
 
@@ -250,6 +256,13 @@ Related
  Four cameras on the front of the Pimax Crystal enable the headset to track in both standalone and tethered mode without the use of Basestations or external sensors. Like any camera-based system, it relies on your play space being well lit and with suitable markers around the room. An empty room with plain white walls and an unpatterned carpet will not track, nor will a dark room.
 
 ![pimax crystal - waving hands around in game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-waving-hands-around-in-game.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -274,13 +287,6 @@ Related
  There’s no doubt that the display hardware on offer here is the best you can get at a semi-reasonable price right now. But is it three times as good as an HP Reverb or Quest 3? That’s a difficult call. PCVR can be temperamental at the best of times (especially if you’re pairing it with steering wheels or flight sticks and a motion rig!)
 
 ![pimax crystal - motion sim chair front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-front-view.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -323,14 +329,20 @@ Related
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-jriver-media-centre-non-microsoft-media-option/"><u>[New] JRiver Media Centre Non-Microsoft Media Option</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-find-youtube-sponsorships-by-using-famebit/"><u>[Updated] 2024 Approved How to Find YouTube Sponsorships by Using FameBit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chromes-pip-magic-for-seamless-video-playback/"><u>[Updated] Chrome's PIP Magic for Seamless Video Playback</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-exploring-2023s-av-voice-modification-tools-reviews-and-alternatives/"><u>2024 Approved Exploring 2023S AV Voice Modification Tools Reviews & Alternatives</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>2024 Approved The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-game-dynamics-and-player-satisfaction-in-helldivers-2/"><u>Discovering Game Dynamics and Player Satisfaction in Helldivers 2</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-gameplay-on-your-steam-deck-with-our-top-9-selection-of-emulators/"><u>Elevating Gameplay on Your Steam Deck with Our Top 9 Selection of Emulators</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-to-cpu-supremacy-intel-vs-amd/"><u>Gamers' Guide to CPU Supremacy: Intel Vs. AMD</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-powerhouse-ddr5-boards-24/"><u>Gaming Powerhouse DDR5 Boards '24</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-mac-options-to-replace-bandicam/"><u>[New] 2024 Approved Best Mac Options to Replace Bandicam</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-dive-into-iphone-photo-magic-with-surface-mirror-tips/"><u>[New] 2024 Approved Dive Into iPhone Photo Magic with Surface Mirror Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionize-your-content-with-top-twitter-video-pipelines/"><u>[New] Revolutionize Your Content with Top Twitter Video Pipelines</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-essential-guide-to-top-analytics-platforms-for-better-instagram-metrics/"><u>[Updated] The Essential Guide to Top Analytics Platforms for Better Instagram Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-manage-games-in-steam-with-disk-management/"><u>Efficiently Manage Games in Steam with Disk Management</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-learning-5-key-uses-of-chatgpt-for-students/"><u>Enhancing Learning: 5 Key Uses of ChatGPT for Students</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-retro-playback-to-modern-windows-the-steam-deck-route/"><u>From Retro Playback to Modern Windows - The Steam Deck Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-enhancing-performance-and-fun/"><u>Gamers' Guide to Enhancing Performance and Fun</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-with-photomosaic-artistry/"><u>In 2024, Pushing Boundaries with PhotoMosaic Artistry</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-toms-pc-world-unveiling-the-latest-in-tech-gear/"><u>Inside Tom's PC World: Unveiling the Latest in Tech Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-deciding-on-top-gaming-browsers/"><u>Opera GX and Edge Showdown: Deciding on Top Gaming Browsers</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-freeze-error-decoding-code-0x887a0006-on-windows/"><u>Overcoming Freeze Error – Decoding Code 0X887A0006 on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-motorola-razr-40-ultra-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Motorola Razr 40 Ultra, is it possible?</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-steam-points-accumulation-and-application/"><u>Unveiling Steam Points: Accumulation & Application</u></a></li>
 </ul></div>
 

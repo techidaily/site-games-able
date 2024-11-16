@@ -1,7 +1,7 @@
 ---
 title: Tackling Account Management Challenges on Nintendo Switch
-date: 2024-10-30T16:32:51.515Z
-updated: 2024-11-05T17:34:15.608Z
+date: 2024-11-11T16:32:28.190Z
+updated: 2024-11-15T18:58:23.682Z
 tags:
   - games
 categories:
@@ -37,21 +37,28 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Manage and Access Your Account Information on Nintendo Switch
 
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Access Your Nintendo Account Information on Your Nintendo Switch
@@ -63,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 ![A screenshot of the Home screen for a Nintendo Switch with the System Settings option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023042110313400-57b4628d2267231d57e0fc1078c0596d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
@@ -78,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 ![A screenshot of the Nintendo Account settings available through the User options on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209552900-57b4628d2267231d57e0fc1078c0596d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Choose either**View email address** or**View family group members** .
@@ -95,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 * From the Home screen of your Nintendo Switch, select**Nintendo eShop** .
 
 ![A screenshot of the Nintendo Switch Home screen with the option for Nintendo eShop highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092211225900-57b4628d2267231d57e0fc1078c0596d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Select the user profile linked to your Nintendo account.
 * Once the eShop loads, select your profile icon in the top-right of the screen.
@@ -124,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the Sign In and Security Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-in.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under**Privacy and Other Settings** , you can alter any notifications you receive or information you send regarding things like**Emails from Nintendo** or**Usage Information** by selecting**Change** .
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
@@ -162,20 +162,20 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[New] In 2024, Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-upgrade-video-experience-activate-av1-on-youtube-for-2024/"><u>[Updated] Upgrade Video Experience Activate AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-mememagic-app-unleash-your-comedic-genius-online/"><u>2024 Approved MemeMagic App - Unleash Your Comedic Genius Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/oad-youtube-audio-safely-and-legally-in-3-ways-for-2024/"><u>Download Youtube Audio Safely & Legally in 3 Ways for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-peak-led-lights-of-2024/"><u>Exploring Peak LED Lights of 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-anonymity-disguising-activity-on-steam/"><u>Gaming Anonymity: Disguising Activity on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-end-gpu-spendback-three-big-regrets-here/"><u>High-End GPU Spendback: Three Big Regrets Here</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-moto-g24-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola Moto G24</u></a></li>
-<li><a href="https://games-able.techidaily.com/justifying-the-expense-an-in-depth-look-at-ea-play/"><u>Justifying the Expense: An In-Depth Look at EA Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-for-purging-unwanted-steam-titles/"><u>Strategies for Purging Unwanted Steam Titles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-personalizing-your-gmail-experience-with-smart-filter-creation/"><u>The Ultimate Guide to Personalizing Your Gmail Experience with Smart Filter Creation</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-list-of-apples-best-photo-watermark-applications-for-2024/"><u>Ultimate List of Apple's Best Photo Watermark Applications for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-to-superior-visuals-a-4k-setup-on-xbox-sx/"><u>Unveiling the Secrets to Superior Visuals: A 4K Setup on Xbox SX</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-tomorrows-tech-today-at-ifa/"><u>Unveiling Tomorrow's Tech Today at IFA</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-decoding-script-annotations-slug-lines-explained/"><u>[New] Decoding Script Annotations Slug Lines Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-skyrocket-your-twitter-presence-through-livestreaming/"><u>[New] Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artists-roadmap-to-professional-growth/"><u>[New] The Artist's Roadmap to Professional Growth</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound/"><u>[Updated] 2024 Approved Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-snapchat-marketing-playbook-boosting-sales/"><u>[Updated] The SnapChat Marketing Playbook Boosting Sales</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-twitch-experience-with-smartphone-streaming/"><u>Elevate Your Twitch Experience with Smartphone Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-system-stability-with-breaks/"><u>Enhancing System Stability with Breaks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/freeze-free-fast-windows-11/"><u>Freeze-Free, Fast Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-fun-to-profitable-lessons-from-helldivers-2s-success-story/"><u>From Fun to Profitable: Lessons From Helldivers 2'S Success Story</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-titans-clash-examining-the-power-of-supers-and-ti-vs-4080/"><u>Graphics Titans Clash: Examining the Power of Supers and Ti Vs. 4080</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/seminar-screen-recording-for-2024/"><u>Seminar Screen Recording for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-sony-xperia-10-v-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Sony Xperia 10 V Reset Code | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-lost-gps-connection-in-pokemon-adventure/"><u>Troubleshooting Lost GPS Connection in Pokémon Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-true-magic-with-am08-pro-an-examination/"><u>Unveiling True Magic with AM08 Pro: An Examination?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-pc-games-win-over-consoles-the-ten-points/"><u>Why PC Games Win Over Consoles: The Ten Points</u></a></li>
 </ul></div>
 

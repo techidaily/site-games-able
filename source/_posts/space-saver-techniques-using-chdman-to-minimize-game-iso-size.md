@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2024-10-31T19:18:55.065Z
-updated: 2024-11-05T20:25:21.430Z
+date: 2024-11-13T16:54:30.751Z
+updated: 2024-11-16T04:19:42.425Z
 tags:
   - games
 categories:
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 * IMG.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Compress Your ISOs With CHDMAN
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
 ![A screenshot of a BIN and CUE ROM image from the File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bin-and-cue-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Windows CMD or PowerShell. Then, move to the folder with your game's files with the Change Directory (CD) command:
 
 `cd PATH_TO_FOLDER`
@@ -76,6 +69,13 @@ Our command was:
 `cd "H:\Emulation\ROMs\PS1\Compress-to-CHD"`
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To compress your game with CHDMAN to CHD format, use the following:
 
@@ -89,10 +89,16 @@ Our command was:
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
@@ -131,6 +137,19 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -151,13 +170,6 @@ Our command was:
  You don't have to specify the BIN file; CHDMAN creates it automatically using the same name used for the CUE file. To extract compressed HDD backups, swap "extractcd" with "extracthd" as follows:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More Storage, More Gaming
 
@@ -180,20 +192,24 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-refining-your-tiktok-end-screen-elements-for-2024/"><u>[New] Refining Your TikTok End Screen Elements for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>[New] The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-fun-navigating-ifunny-meme-app/"><u>2024 Approved Unlocking Fun Navigating iFunny Meme App</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-joy-of-gaming-youtubes-new-minigames-invite-you-to-play/"><u>Discover the Joy of Gaming: YouTube’s New Minigames Invite You to Play!</u></a></li>
-<li><a href="https://games-able.techidaily.com/harnessing-full-power-of-steam-deck-through-effective-docking/"><u>Harnessing Full Power of Steam Deck Through Effective Docking</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a38-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A38 Safely | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-how-to-record-and-save-youtube-videos-without-spending-a-penny/"><u>In 2024, The Ultimate Guide How To Record and Save YouTube Videos without Spending a Penny</u></a></li>
-<li><a href="https://games-able.techidaily.com/legends-of-the-spark-the-shiny-quest-edition-73/"><u>Legends of the Spark: The Shiny Quest Edition (73)</u></a></li>
-<li><a href="https://games-able.techidaily.com/melodic-matchmaker-find-your-musical-gems-on-mobile/"><u>Melodic Matchmaker: Find Your Musical Gems on Mobile</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsoft-upgrades-windows-11-memory-functionality-for-improved-user-experience/"><u>Microsoft Upgrades Windows 11 Memory Functionality for Improved User Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/savor-fun-in-isolation-selecting-best-mobile-games/"><u>Savor Fun in Isolation - Selecting Best Mobile Games</u></a></li>
-<li><a href="https://article-tips.techidaily.com/skyward-saga-with-gopro-karma-a-comprehensive-review/"><u>Skyward Saga with GoPro Karma A Comprehensive Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/twitch-interaction-control-halt-resume-chats/"><u>Twitch Interaction Control: Halt, Resume Chats</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-find-n3-flip-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Find N3 Flip Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/yearbook-of-gamers-favorite-keyboards-2024-edition/"><u>Yearbook of Gamers' Favorite Keyboards - 2024 Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-flipping-fun-facts-into-memes-with-kinemaster/"><u>[New] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-perfected-panels-expert-recommended-photo-editing-screens/"><u>[New] In 2024, Perfected Panels Expert-Recommended Photo Editing Screens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-youtube-rankings-seo-tools-for-peak-performance/"><u>[Updated] 2024 Approved Explore YouTube Rankings SEO Tools for Peak Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-the-art-of-fps-with-counter-strike-tips/"><u>Ace the Art of FPS with Counter-Strike Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-reverse-image-problem-on-windows-7-device/"><u>Adjusting Reverse Image Problem on Windows 7 Device</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-8-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boost-your-teams-efficiency-discover-the-surprising-impact-of-ai-on-productivity-insights-and-strategies-from-zdnet/"><u>Boost Your Team's Efficiency: Discover the Surprising Impact of AI on Productivity – Insights and Strategies From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/disconnect-screen-games-in-discord/"><u>Disconnect Screen Games in Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-pricing-jab-i-retreat-from-subscription-life/"><u>EA’s Pricing Jab, I Retreat From Subscription Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/forgoing-a-game-a-refund-approach-for-xbox-users/"><u>Forgoing a Game - A Refund Approach for Xbox Users</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-g310-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia G310 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-hdrs-role-in-modern-photography-trends/"><u>In 2024, Quantum HDR's Role in Modern Photography Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-the-kingdom-secure-online-gaming-risks/"><u>Keeping the Kingdom Secure: Online Gaming Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-modernizing-classics-six-stories-on-pi/"><u>The Essence of Modernizing Classics - Six Stories on Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-microsoftblizzard-pact-could-it-be-a-win-win-or-a-risk/"><u>The Microsoft/Blizzard Pact: Could It Be a Win-Win or a Risk?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-10-exciting-free-to-play-games/"><u>The Ultimate List: 10 Exciting, Free-to-Play Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-stabilizing-arcadegeddon-gameplay-on-computer-setups/"><u>Troubleshooting Steps for Stabilizing Arcadegeddon Gameplay on Computer Setups</u></a></li>
 </ul></div>
 

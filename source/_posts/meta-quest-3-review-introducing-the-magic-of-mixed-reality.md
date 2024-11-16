@@ -1,7 +1,7 @@
 ---
 title: "Meta Quest 3 Review: Introducing the Magic of Mixed Reality"
-date: 2024-10-29T20:20:21.044Z
-updated: 2024-11-05T17:02:54.181Z
+date: 2024-11-12T20:20:34.093Z
+updated: 2024-11-15T18:11:29.488Z
 tags:
   - games
 categories:
@@ -104,11 +104,31 @@ Snapdragon XR2 Gen 2
 
 But let me back up for a moment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why You Can Trust My Review
 
  I've been involved with advanced video technologies since two decades ago, having had my first preview of stereoscopic gaming in the form of Nvidia 3DVision back in 2001—a remarkable device at the time. I dabbled in interactive tables, homemade 3D projectors, and weird experiments with a Wii controller. Fast forward a decade, and when I first read about the Oculus VR headset Kickstarter on a little 3D forum I visited, I was all in.
 
 ![oculus rift development kit 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2013/05/oculus-rift-review-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The[Oculus Dev Kit 1](https://www.makeuseof.com/tag/oculus-rift-development-kit-review-and-giveaway/) was enormous, clunky, and had a sum total of two demos you could play on it—a Tuscany villa, and a single rollercoaster track—but it was enough to convince me that affordable, consumer VR was finally a reality, and it was glorious.
 
@@ -117,19 +137,6 @@ But let me back up for a moment.
  The true value of the Quest line of mobile-powered headsets has always been the ease of use. Of all the headsets I own (including the PSVR2 and the Valve Index), the Quest 2 is the one I use most often. Not because I have a mountain of games on that platform, but because it's so easy to jump in and play something—anywhere.
 
  So that's where I'm at, and I tell you this because I came into this review with a few key frustrations of the Quest 2 that I had hoped the Quest 3 would address: audio, field of view, and passthrough camera. And I'm pleased to say it has—but I ended up being blown away most by the Mixed Reality features. So, let's jump straight into that.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Mixed Reality: A Mixed Bag, But Still Magic
 
@@ -151,13 +158,6 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clip - making coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clip-making-coffee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
  At a basic level, at any time during regular VR use, you can double-tap your headset to pause and view the full-color passthrough camera view of the world. The Quest 2 offered something similar, but only in black and white, with much distortion. A classic litmus test was being able to read your phone. You couldn’t do that in the Quest 2\. But you can comfortably do that in the Quest 3\. Double-tap the side, read your notification (or say hi to the postman), then jump back into VR. It's definitely a useful feature, but hardly game-changing.
@@ -168,6 +168,13 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![meta quest 3 - side view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-side-view.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  That said, the visual quality of your Mixed Reality experience will vary significantly depending on the light level. Like all small camera sensors, the lower the light levels, the grainier the image. Mixed Reality is best used in a well-lit environment.
@@ -176,25 +183,11 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clips - demeo in kitchen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-demeo-in-kitchen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
 [Demeo](https://www.meta.com/en-gb/experiences/3634830803298285/) is a top-down role-play adventure that places the environment within a virtual table, which you can place anywhere in your real environment like a board game. You'll walk around it, roll your virtual dice, and drag your mini figure around the board.
 
 ![quest 3 clips - puzzling places](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-puzzling-places.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -228,13 +221,6 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![quest 3 clip - outdoors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clip-outdoors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
  Though promised during the demos, we're not quite at the level where you can drag and drop persistent interactive elements—“Augments”, Meta calls them—around your home. For now, you'll need to pick up and drag your home screen as you move around, but it's a useful feature even in its infancy.
@@ -244,13 +230,6 @@ So, how good are the Mixed Reality features of the Quest 3?
  James Bruce / MakeUseOf
 
  That said, I still prefer the controllers for, well, everything. They're comfortable and lightweight, and the obnoxious tracking rings are gone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Audio
 
@@ -274,6 +253,13 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 ![meta quest 3 - strap overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-strap-overview.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  You’ll also find both physical IPD adjustment and four levels of eye relief, meaning you can push the screen away from your eyes if needed—usually if you're wearing glasses. Bear in mind this will reduce your field of view, though.
@@ -285,13 +271,6 @@ So, how good are the Mixed Reality features of the Quest 3?
  In terms of resolution, the dual LCD panels natively offer up to 2064 x 2208 per eye, or about twice as many pixels as HD. However, most of the time, that’s not the resolution you’ll see when you look through the display. During standalone use, the UI and most games target 1680 x 1760px. That’s the standard 1x resolution scale.
 
 ![meta quest 3 - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/meta-quest-3-lenses.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -308,6 +287,13 @@ So, how good are the Mixed Reality features of the Quest 3?
  The screens are only half the story; the other half is the lenses. For the Quest 3, Meta has moved away from Fresnel lenses (recognizable by the telltale concentric rings), and toward pancake lenses (flat, more traditional lenses). The upshot of this is that you get a larger sweet spot, greater clarity across your field of view, and less of the “god rays” effect—where large white streaks would occur with bright objects on a dark background.
 
  The visual quality is by no means perfect, or even the best I’ve seen yet on a VR headset (I’ll leave that award for the PSVR2), but it is indeed good enough, and a clear improvement over the previous Quest 2.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery Life
 
@@ -332,16 +318,10 @@ So, how good are the Mixed Reality features of the Quest 3?
 ![quest 3 clips - virtual monitiors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clips-virtual-monitiors.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
@@ -352,11 +332,25 @@ So, how good are the Mixed Reality features of the Quest 3?
 
  Another alternative to both the Quest Link and Remote Desktop feature is[Virtual Desktop](https://www.meta.com/en-gb/experiences/2017050365004772/) , which is a paid application from a third-party developer. In my experience, it’s more reliable and allows you to interact with your desktop over a fast Wi-Fi connection, as well as playing any PCVR games from Steam or Oculus. You can even emulate a gamepad for regular flat games. However, using the Touch controllers as an Xbox gamepad isn’t exactly intuitive with half your buttons on the other thumb, so you’d better off just pairing a gamepad with your Quest 3 if you’ll be flat gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Buy the Meta Quest 3?
 
  I’m blown away by the Mixed Reality capabilities of the Meta Quest 3, and that’s coming from a hardened VR gamer and cynical MR/AR/XR skeptic. There are still kinks to work out with the legacy boundary system operating seemingly in tandem with new room scanning features (arguably, you don't need a boundary at all if the game lets you see your surroundings at all times, but it still insists on you making one), but it's early days. We've yet to see the full potential of persistent "Augments" realized, nor are there any games that take advantage of your environment, yet. But still, I'm blown away by what is here.
 
 ![quest 3 clip - room scanning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quest-3-clip-room-scanning.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -391,20 +385,21 @@ So, how good are the Mixed Reality features of the Quest 3?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-grab-your-guiltless-film-endings-with-our-template-service/"><u>[New] Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-unlock-the-secrets-to-high-impact-youtube-branding/"><u>[Updated] 2024 Approved Unlock the Secrets to High-Impact YouTube Branding</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-xbox-console-cases/"><u>Decoding Xbox Console Cases</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-your-gaming-on-windows-via-dxvk-software/"><u>Elevating Your Gaming on Windows via DXVK Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/engaging-oratorics-assessment-version-8/"><u>Engaging Oratorics Assessment, Version 8</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/expert-tips-to-dominate-kinemaster-and-identify-top-online-video-services-for-2024/"><u>Expert Tips to Dominate KineMaster & Identify Top Online Video Services for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/expertly-curated-8-lightweight-virtual-platforms/"><u>Expertly Curated 8 Lightweight Virtual Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-clone-your-steam-decks-ssd-for-an-easier-upgrade/"><u>How to Clone Your Steam Deck's SSD for an Easier Upgrade</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor 70 Lite 5G</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-blueprint-for-tiktok-media-transfer/"><u>In 2024, The Ultimate Blueprint for TikTok Media Transfer</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-robloxs-fps-cheat-legitimate-and-secure/"><u>Is Roblox's FPS Cheat Legitimate and Secure?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/protecting-your-tech-investment-how-waterproof-is-the-iphone-15-pro-max-really/"><u>Protecting Your Tech Investment: How Waterproof Is the iPhone 15 Pro Max Really?</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-your-switch-with-these-key-settings/"><u>Supercharge Your Switch with These Key Settings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-steps-for-missing-mfc71dll-error-message/"><u>Ultimate Troubleshooting Steps for Missing mfc71.dll Error Message</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/upgrade-your-workstation-for-less-grab-our-sale-on-the-multifunctional-10-in-1-docking-station-now-at-35-off-zdnet/"><u>Upgrade Your Workstation for Less: Grab Our Sale on the Multifunctional 10-in-1 Docking Station Now at 35% Off | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-seamless-soundscape-design-with-expert-crossfading-techniques-audacity/"><u>[New] In 2024, Seamless Soundscape Design with Expert Crossfading Techniques (Audacity)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-game-changer-elevating-your-virtual-reality-film-quality/"><u>[Updated] In 2024, The Game Changer Elevating Your Virtual Reality Film Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-your-games-closer-with-playnite-fullscreen-tv/"><u>Bring Your Games Closer with Playnite Fullscreen TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-sturdy-2024s-finest-holders-for-switch/"><u>Compact and Sturdy: 2024'S Finest Holders for Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-your-controls-the-perfect-dpi-level-for-shooters/"><u>Customize Your Controls: The Perfect DPI Level for Shooters</u></a></li>
+<li><a href="https://games-able.techidaily.com/discord-for-mac-users-step-by-step-setup-instructions/"><u>Discord for Mac Users: Step-by-Step Setup Instructions</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-choice-analyzing-the-pros-and-cons-of-game-downloads/"><u>Gamer's Choice: Analyzing the Pros & Cons of Game Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-safely-download-and-install-dell-wd1er-drivers-a-step-by-step-guide/"><u>How to Safely Download & Install Dell WD1er Drivers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/less-than-150-for-a-night-of-melodies-discover-the-charm-of-karaoke-usa-review/"><u>Less than $150 for a Night of Melodies: Discover the Charm of Karaoke USA Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-gamers-guide-setting-up-windows-on-steam-deck/"><u>Master Gamer's Guide: Setting up Windows on Steam Deck</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-quick-sequences-with-gopro-burst-for-2024/"><u>Mastering Quick Sequences with GoPro Burst for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-tech-tips-from-toms-hardware/"><u>Navigating Advanced Tech Tips From Tom's Hardware</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issues-with-launching-the-microsoft-store-fix-guide/"><u>Resolved: Issues with Launching the Microsoft Store - Fix Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-gaming-with-epic-and-steam-integration/"><u>Streamline Gaming with Epic and Steam Integration</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-fixing-a-non-functional-wacom-stylus-on-windows-11-or-windows-10/"><u>Troubleshooting Tips: Fixing a Non-Functional Wacom Stylus on Windows 11 or Windows 10</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/your-guide-to-favorite-tiktok-backgrounds/"><u>Your Guide to Favorite TikTok Backgrounds</u></a></li>
 </ul></div>
 

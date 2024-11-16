@@ -1,7 +1,7 @@
 ---
 title: "Spotlight on Silence: 4 Tips to Uncover Offline Xbox"
-date: 2024-09-09T09:40:24.247Z
-updated: 2024-09-10T09:40:24.247Z
+date: 2024-11-14T20:14:32.388Z
+updated: 2024-11-15T18:20:03.389Z
 tags:
   - games
 categories:
@@ -27,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![A screenshot of the Apps section of My Games and Apps on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot-2995.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Find the displayed posts under**Shared by friends** .
 * Scroll through the listed posts, looking for one of your offline friends.
 
@@ -41,17 +35,12 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
  If you find a recent post by an offline friend, you know they are appearing offline. And through the type of posts you find, you can see the games, achievements, or captures your friend has posted.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. View the Xbox Series X|S Gamerscore Leaderboard
 
  Aside from searching through Xbox posts, a quicker way of telling if someone has been appearing offline involves viewing the monthly**Gamerscore leaderboard** on your Xbox Series X|S.
@@ -66,11 +55,18 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ![A screenshot of the Gamerscore Leaderboard on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3160-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Look through the rankings of you and your friends, looking for an offline friend who has been consistently earning Gamerscore.
 
  If you know someone hasn't been online for the duration of the time the**Gamerscore leaderboard** has been tracking Achievements, but you can see they have earned Gamerscore, they are appearing offline.
@@ -87,12 +83,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![A screenshot of an Xbox Friend profile on Xbox Series X with the option See Full Profile highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3163.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Under**Social** , highlight**Activity Feed** to see recently unlocked Achievements.
 
 ![A screenshot of an Xbox Friend Activity Feed on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3173.jpg)
@@ -100,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
  From here, you should be able to see your friend's most recently unlocked Achievement and how long ago it was unlocked. You know your friend is appearing offline if they are offline but have unlocked Achievements recently.
 
  Alternatively, you can[compare gaming statistics with a friend on your Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) to provide direct Achievement comparisons with the games you have been playing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use the Time Played Feature for Specific Xbox Games
 
@@ -118,34 +115,26 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![A screenshot of the Time Played statistic on an Xbox Series X for a specific Xbox game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3166.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With stats for**Time played** on-screen, you can check how much time the friend has put into the selected game. If you suspect them of being offline, you can check the**Time played** stat again to see if they have put more time into the game while seemingly offline.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Keep Track of Your Friends on Xbox Series X|S for Smooth Social Gaming
 
  When an Xbox friend appears offline, whether it is to ignore you, not play a specific game, or even to just escape social pressures, it can complicate organizing social gaming sessions. But at least with Xbox Series X|S, you can use any of the above methods to try and get to the bottom of why or if a friend is offline.
 
  With the questions of whether and why someone is offline solved, you can get on with organizing your Xbox parties and sessions without any extra social road bumps caused by offline players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +143,18 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-exploring-options-a-treasure-hunt-for-your-tiktok-symbol/"><u>[New] 2024 Approved Exploring Options A Treasure Hunt for Your TikTok Symbol</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-strategies-to-swiftly-remove-unwanted-video-post-comments-for-2024/"><u>[Updated] Strategies to Swiftly Remove Unwanted Video Post-Comments for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-for-board-usage-during-your-zoom-meetings-desktopiosandroid/"><u>[Updated] The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discovering-brilliance-in-the-dark-lightroom-hdr-essentials/"><u>Discovering Brilliance in the Dark Lightroom HDR Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-depth-of-beyerdynamic-mmx-200/"><u>Exploring the Depth of Beyerdynamic MMX 200</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashback-pocket-retro-gaming-in-your-palm/"><u>FlashBack Pocket: Retro Gaming in Your Palm</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-video-scale-in-youtube-recordings/"><u>In 2024, Boosting Video Scale in YouTube Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-edge-slow-motion-capture-software-phones-iosandroid/"><u>Leading Edge Slow Motion Capture Software, Phones iOS/Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-error-code-28-on-your-pc-a-step-by-step-tutorial/"><u>Troubleshooting and Fixing 'Error Code 28' On Your PC – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-white-components-for-bargain-buyers-dreams/"><u>Ultimate White Components for Bargain Buyers' Dreams</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-how-to-get-a-game-money-back/"><u>Xbox Series X/S: How to Get a Game Money Back</u></a></li>
+</ul></div>
 

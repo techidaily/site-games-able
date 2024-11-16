@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Meets Joy-Con: A New Gaming Hybrid Experience"
-date: 2024-10-20T01:15:13.906Z
-updated: 2024-10-25T06:46:11.807Z
+date: 2024-11-13T18:22:29.057Z
+updated: 2024-11-15T19:47:21.201Z
 tags:
   - games
 categories:
@@ -46,27 +46,41 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
@@ -79,23 +93,9 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
 
@@ -118,16 +118,21 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-resolve-chromebooks-video-issue/"><u>[Updated] 2024 Approved Resolve Chromebook's Video Issue</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-financial-arrangements-in-buying-guides-online-in-2024/"><u>[Updated] Financial Arrangements in Buying Guides Online, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-inside-microsofts-visionary-hololens-innovation-for-2024/"><u>[Updated] Inside Microsoft's Visionary HoloLens Innovation for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/apples-latest-innovation-unveiled-discover-the-new-m4-processor-launch-details-and-technical-specifications/"><u>Apple's Latest Innovation Unveiled: Discover the New M4 Processor Launch Details & Technical Specifications</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/comprehensive-kinetic-insight-study-for-2024/"><u>Comprehensive Kinetic Insight Study for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-routines-for-beating-nyts-power-network/"><u>Daily Routines for Beating NYT's Power Network</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders/"><u>From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-12-clicker-games-you-may-like-on-pc/"><u>In 2024, Top 12 Clicker Games You May Like on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/jumpstart-savings-with-sonys-midyear-blowout/"><u>Jumpstart Savings with Sony's Midyear Blowout!</u></a></li>
-<li><a href="https://games-able.techidaily.com/pokesleuths-ultimate-shiny-seeker-handbook-74/"><u>PokéSleuth's Ultimate Shiny Seeker Handbook (74)</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-case-for-upscaling-xboxs-reward-program/"><u>The Case for Upscaling Xbox's Reward Program</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmony-and-rhythm-discover-the-best-15-youtube-educational-videos/"><u>[New] In 2024, Harmony & Rhythm Discover the Best 15 YouTube Educational Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-5-cloud-giants-unlimited-capacity-showdown/"><u>[Updated] Top 5 Cloud Giants Unlimited Capacity Showdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-no1-avi/"><u>2024 リピーターに必見！人気No.1ベスト 無料AVI編集プログラム</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/wmvaac-movavi/"><u>線上無需付款，WMV轉成AAC格式 - 利用 Movavi 媒體轉換器</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-glitches-mastery-of-ps5-gamepad-restart/"><u>Clearing Glitches: Mastery of PS5 Gamepad Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/counteracting-steams-reacquire-data-alert/"><u>Counteracting Steam's Reacquire Data Alert</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-downloads-platforms-dlcs-more-for-bg3/"><u>Essential Downloads: Platforms, DLCs, More for BG3</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-selector-101-finding-your-next-apple-arcade-hit/"><u>Game Selector 101: Finding Your Next Apple Arcade Hit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-13t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi 13T Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-made-easy-discover-the-power-of-manycam-professional-virtual-camera/"><u>Live Streaming Made Easy: Discover the Power of ManyCam - Professional Virtual Camera</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterfulaiimageeditor-the-best-of-both-worlds-for-2024/"><u>MasterfulAiImageEditor The Best of Both Worlds for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-face-off-the-best-browsers-for-games/"><u>Opera GX & Edge Face-Off - The Best Browsers for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/preempting-compatibility-issues-in-your-next-computer-buy/"><u>Preempting Compatibility Issues in Your Next Computer Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-listicle-of-premier-app-store-games-by-genres/"><u>The Ultimate Listicle of Premier App Store Games by Genres</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-tips-to-boost-your-gameplay-speed-in-windows-11/"><u>Top Tips to Boost Your Gameplay Speed in Windows 11</u></a></li>
 </ul></div>
 

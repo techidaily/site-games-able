@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Button Mapping with Android Games
-date: 2024-09-09T09:45:31.431Z
-updated: 2024-09-10T09:45:31.431Z
+date: 2024-11-15T04:07:36.948Z
+updated: 2024-11-16T04:09:38.628Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Button Mapping in Android Gaming,Android Game Design Tips,Mastering Ga
 thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b014ebf3cf5f5ddd4c2dec0d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Master the Art of Button Mapping with Android Games
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Button Mapping?](#what-is-button-mapping)
@@ -33,11 +21,12 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 * [How to Assign Buttons to an Android Game](#how-to-assign-buttons-to-an-android-game)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Button mapping is handy if you want to use your controller with Android games that don't support it.
@@ -46,21 +35,29 @@ thumbnail: https://thmb.techidaily.com/13464bbf7702e727674e34228111122f1f619fb5b
 
  Plenty of gamepads can turn your smartphone into a portable handheld, but only a minority of Android games actually support physical controls. Fortunately, you can solve this problem by mapping buttons to different parts of the screen using apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Button Mapping?
 
  Button mapping refers to the process of manually determining what happens when you press a button on your game controller or keyboard. When it comes to gaming on Android devices, it typically means getting games that lack controller support to work by telling buttons to activate different parts of the touchscreen.
 
  For example, moving the analog stick can simulate dragging your thumb around the left side of the screen. Pressing the**A** button can imitate tapping on the right side of the screen. The task is easiest for games with a virtual game controller spread across the screen, since you can assign a physical button to the location of their virtual counterparts.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Get Started With Button Mapping on Android
 
 ![Mantis prompting you to enable USB debugging.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-mapping-usb-debugging.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Enabling USB debugging on Android.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/android-developer-settings-usb-debugging.png)
 
@@ -98,62 +95,43 @@ Close
 
 ![Mantis needs you to manually add games before applying button mapping.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-add-game.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Adding support for a game within Mantis Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-pro-add-games.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Mantis Gamepad Pro with three games added.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-three-games-added.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Close
 
  When the game opens, you will see a Mantis widget hovering on one side of the screen. Tap this widget to bring up the controller options.
 
 ![Tap the floating Mantis button to begin mapping buttons.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-floating-button.png)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can select each of the inputs on your controller, such as the analog sticks, face buttons, and triggers. You then drag where on the screen you want the button press to correspond to. Mantis Gamepad Pro also includes support for gestures, so you can make pressing a button the equivalent of swiping rather than tapping.
 
 ![Buttons mapped using Mantis Gamepad Pro.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/mantis-button-map-controls.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From here on, you're good to go. The experience isn't without its quirks, but it works with most games you throw at it. Just know that sometimes you may need to re-activate the Mantis app, especially after restarting your phone.
 
  Button mapping won't deliver as smooth an experience as native controller support since things like navigating menus and other UI elements that move around often will still require touching the screen. You may also encounter other issues at unexpected times, which can be resolved by turning off developer settings and only re-enabling them when you intend to use Mantis.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +140,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-best-mobile-app-dev-editing-systems-for-2024/"><u>[New] Best Mobile App Dev Editing Systems for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-art-of-dialogue-in-writing-scripts/"><u>[New] The Art of Dialogue in Writing Scripts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-troubleshooting-obs-fullscreen-failure/"><u>[Updated] 2024 Approved Troubleshooting OBS Fullscreen Failure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-visualize-vitality-vent-laughter-kapwings-design-suite/"><u>[Updated] 2024 Approved Visualize Vitality, Vent Laughter - Kapwing’s Design Suite</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-entertainment-showdown-ps5-vs-budget-pc/"><u>Digital Entertainment Showdown: PS5 V/S Budget PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professional-tips-top-10-text-effects/"><u>In 2024, Professional Tips Top 10 Text Effects</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-8t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 8T IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/innocn-27m2v-an-affordable-mini-led-gaming-monitor-that-is-anything-but-cheap/"><u>Innocn 27M2V: An Affordable Mini-LED Gaming Monitor That Is Anything but Cheap</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-unveils-legion-gos-core-improvements/"><u>Lenovo Unveils Legion Go's Core Improvements</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-jaw-dropping-glitches-with-these-free-online-generators/"><u>New Create Jaw-Dropping Glitches with These Free Online Generators</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-driving-devices-steering-wheel-versus-screen/"><u>Precision Driving Devices: Steering Wheel Versus Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/stellar-photo-alterations-frameshift-prowess/"><u>Stellar Photo Alterations FrameShift Prowess</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-what-to-do-if-your-key-is-malfunctioning/"><u>Step-by-Step Guide: What to Do If Your '@' Key Is Malfunctioning</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-hidden-titles-remedying-eg-libraries-errors/"><u>Unlocking Hidden Titles: Remedying EG Libraries Errors</u></a></li>
+</ul></div>
 

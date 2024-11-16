@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck Game Unlock: Launcher Integration Tips"
-date: 2024-11-03T17:13:04.858Z
-updated: 2024-11-05T17:55:19.215Z
+date: 2024-11-09T00:05:52.773Z
+updated: 2024-11-16T00:09:18.693Z
 tags:
   - games
 categories:
@@ -40,10 +40,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
@@ -60,6 +60,13 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
 
  Even the free games offered by Epic will show up in your library, so make sure[you're grabbing those freebies from the Epic Games Launcher](https://www.makeuseof.com/how-to-get-free-games-on-the-epic-games-store/) if you're not already.
@@ -71,10 +78,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## NonSteamLaunchers for Battle.net, EA App, and More
@@ -94,22 +101,15 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of ubisoft connect in steam list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_ubisoft_connect_in_steam_list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
 
@@ -130,17 +130,22 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-strategy-dominion-discovering-the-7-pinnacle-conflicts-for-2024/"><u>[New] Strategy Dominion Discovering the 7 Pinnacle Conflicts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mirthful-mayhem-makers/"><u>2024 Approved Mirthful Mayhem Makers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-visionary-layout-overhauls/"><u>2024 Approved Visionary Layout Overhauls</u></a></li>
-<li><a href="https://games-able.techidaily.com/confronting-the-hype-around-high-game-refresh-rates/"><u>Confronting the Hype Around High Game Refresh Rates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-the-editors-journey-best-in-class-ai-tools/"><u>Enhancing the Editor's Journey: Best-in-Class AI Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ea-play-ps5-game-selection/"><u>Essential EA Play PS5 Game Selection</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-version-of-huion-drivers-for-your-windows-computer-easily/"><u>Get the Latest Version of Huion Drivers for Your Windows Computer Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-streamline-browsing-fb-gaming-in-chrome/"><u>How to Streamline Browsing: FB Gaming in Chrome</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-connection-speed-techniques-for-lower-latency/"><u>Mastering Connection Speed: Techniques for Lower Latency</u></a></li>
-<li><a href="https://games-able.techidaily.com/nine-sentiment-swaying-duets-the-heartfelt-text-challenge/"><u>Nine Sentiment-Swaying Duets: The Heartfelt Text Challenge</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-blueprint-for-youtube-educational-video-success-stories-for-2024/"><u>The Blueprint for YouTube Educational Video Success Stories for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-cause-of-non-responsive-windows-search/"><u>Unveiling the Cause of Non-Responsive Windows Search</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-a-creators-primer-to-understanding-major-content-providers/"><u>[New] 2024 Approved A Creator's Primer to Understanding Major Content Providers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-of-the-best-a-ranked-list-of-top-10-video-call-apps/"><u>[New] In 2024, Best of the Best A Ranked List of Top 10 Video Call Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-computing-efficiency-are-you-bottlenecked-by-cpu/"><u>Assessing Computing Efficiency: Are You Bottlenecked by CPU?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-content-the-leading-online-television-recordings/"><u>Capturing Content The Leading Online Television Recordings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-subscription-management-for-x-boosted-gaming/"><u>Decoding Subscription Management for X Boosted Gaming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/diverse-tricks-to-fire-up-your-favorite-apps-on-windows/"><u>Diverse Tricks to Fire Up Your Favorite Apps on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-these-best-5-iphone-podcast-platforms-now-for-2024/"><u>Explore These Best 5 iPhone Podcast Platforms Now for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-apples-answer-to-optimized-gaming-on-macos-sonoma/"><u>Game Mode: Apple's Answer to Optimized Gaming on macOS Sonoma</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-link-ps-gaming-devices-with-nintendo-switch/"><u>How to Link PS Gaming Devices with Nintendo Switch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-telegram-web-usage-tips-and-tricks/"><u>In 2024, Comprehensive Telegram Web Usage Tips & Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-final-cut-pro-for-free/"><u>In 2024, How to Get Final Cut Pro for Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
+<li><a href="https://games-able.techidaily.com/on-the-move-gamers-checklist-nine-key-items/"><u>On-the-Move Gamer's Checklist: Nine Key Items</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-personalized-sound-experience-via-headsets/"><u>Secure Personalized Sound Experience via Headsets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions-for-2024/"><u>Unlocking the Full Potential of YouTube Video Interactions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-mobile-gaming-adventure-begins-here-with-7-essentials/"><u>Your Mobile Gaming Adventure Begins Here, With 7 Essentials</u></a></li>
 </ul></div>
 

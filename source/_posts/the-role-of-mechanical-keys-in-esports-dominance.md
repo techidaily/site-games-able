@@ -1,7 +1,7 @@
 ---
 title: The Role of Mechanical Keys in Esports Dominance
-date: 2024-09-09T09:45:13.272Z
-updated: 2024-09-10T09:45:13.272Z
+date: 2024-11-13T02:22:37.024Z
+updated: 2024-11-16T02:24:07.726Z
 tags:
   - games
 categories:
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 * [Drawbacks of Mechanical Keyboards for Gaming](#drawbacks-of-mechanical-keyboards-for-gaming)
 * [Do You Need a Mechanical Keyboard for Gaming?](#do-you-need-a-mechanical-keyboard-for-gaming)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The light actuation force of mechanical keys reduces the need for heavy pressing on gaming keys.
@@ -38,44 +32,27 @@ thumbnail: https://thmb.techidaily.com/259bceb776cdbf3be867bf48c477b3f9885a0b2e9
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lighter Actuation Force
 
 ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Unless you specifically build your mechanical keyboard to have a heavy actuation force,[the most popular mechanical keyboard switches](https://www.makeuseof.com/most-popular-mechanical-keyboard-switches-how-they-impact-gaming/) require little actuation force compared to common rubber dome keyboards.
 
  Rubber dome keyboards also require you to press the key all the way down in order to register a click and add to that the squishy feeling that makes you want to press the keyboard harder to feel some sort of tactile feedback. Mechanical keyboards, on the other hand, have the actuation somewhere in the middle, making bottoming out less of a necessity.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mechanical Keyboards Have Better Tactile Feedback
 
 ![hands holding mouse and keyboard-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/hands-holding-mouse-and-keyboard-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  As we’ve mentioned, non-mechanical keyboards usually require you to bottom-out the keys in order to actuate them and have poor tactile feedback. Mechanical keyboards give you great tactile feedback, even if the switches on your mechanical keyboard aren’t specifically tactile switches.
@@ -84,12 +61,6 @@ Jhet Borja/MakeUseOf
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Gaming Mechanical Keyboards Have Many Functions and Features
 
 ![Wooting 60HE rapid trigger and actuation point settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/wooting-60he-rapid-trigger-and-actuation-point-settings.png)
@@ -114,20 +85,28 @@ Jhet Borja/MakeUseOf
 
  You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Drawbacks of Mechanical Keyboards for Gaming
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mechanical Keyboards Are Heavier
 
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Mechanical keyboards tend to be heavier. While enthusiasts would see this as a plus, this can be a drawback for many. Repositioning your keyboard mid-game can get tiring and it makes it less portable.
@@ -136,21 +115,35 @@ Jhet Borja/MakeUseOf
 
  However, the customizable nature of mechanical keyboards means that if you really did want a lightweight, ultra-portable keyboard, you can definitely build one yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mechanical Keyboards Cost More
 
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
  Mechanical keyboards are composed of more components: the switches, keycaps, PCB, case, backplate, etc. These things combined end up making a fully functional mechanical keyboard more expensive.
 
  Most non-mechanical keyboards are pretty straightforward, having a PCB that doesn’t need switches to actuate, a singular rubber lattice that’s practically indestructible through normal use, and a simple plastic housing and keycaps. This makes them cheaper and lighter.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mechanical Keyboards Are Louder
 
@@ -161,11 +154,12 @@ Jhet Borja/MakeUseOf
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Do You Need a Mechanical Keyboard for Gaming?
 
  A mechanical keyboard isn’t a necessity for gaming. It’s different from a mouse where a mouse needs to translate your analog hand movements accurately to your computer. Keyboards are really just boards consisting of on-off switches.
@@ -174,14 +168,11 @@ Jhet Borja/MakeUseOf
 
  The verdict is this: You don’t need a mechanical keyboard, but you most likely want one. You can easily try them out at internet cafés or tech shops. Get a feel for them, but if you can’t justify the price, rest assured you’re not missing out on much performance.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,4 +181,26 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/21-edition-spotlight-the-new-era-of-sports-betting-in-vegas-pro-for-2024/"><u>'21 Edition Spotlight – The New Era of Sports Betting in Vegas Pro for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-ios-tools-mimicking-playstation-2-experience/"><u>[New] Premier IOS Tools Mimicking PlayStation 2 Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ranked-top-5-ps3-virtual-players-for-pc-for-2024/"><u>[New] Ranked Top 5 PS3 Virtual Players for PC for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-maximize-your-content-impact-with-imovie-on-vimeo/"><u>[Updated] 2024 Approved How to Maximize Your Content Impact with iMovie on Vimeo</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-capturing-ios-device-screen-on-video/"><u>[Updated] In 2024, Step-by-Step Capturing iOS Device Screen on Video</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-becoming-a-gif-maestro-the-meme-creators-handbook/"><u>2024 Approved Becoming a GIF Maestro The Meme Creator’s Handbook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-surviving-splashes-top-7-action-cam-selection/"><u>2024 Approved Surviving Splashes Top 7 Action Cam Selection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-tapestry-of-tech-loom-recording-explained/"><u>2024 Approved The Tapestry of Tech Loom Recording Explained</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bebops-avian-evolution-strikes-again-with-parrot-2/"><u>Bebop's Avian Evolution Strikes Again with Parrot 2</u></a></li>
+<li><a href="https://games-able.techidaily.com/dial-in-the-perfect-ambiance-adjusting-console-light-intensity/"><u>Dial in the Perfect Ambiance: Adjusting Console Light Intensity</u></a></li>
+<li><a href="https://games-able.techidaily.com/executing-android-programs-via-linux/"><u>Executing Android Programs via Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-started-with-ea-play-ps5-sign-up-and-exploration-steps/"><u>Get Started with EA Play PS5: Sign-Up & Exploration Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/hrtf-the-key-to-spatial-audio-mastery-in-valorant/"><u>HRTF: The Key to Spatial Audio Mastery in Valorant?</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-heat-levels-for-rig-performance-in-games/"><u>Optimal Heat Levels for Rig Performance in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-white-computing-gear-under-250/"><u>Optimal White Computing Gear Under $250</u></a></li>
+<li><a href="https://games-able.techidaily.com/reigniting-passion-with-indie-games-from-itchio/"><u>Reigniting Passion with Indie Games From Itch.io</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-exploring-xbox-cloud-play/"><u>The Future of Gaming: Exploring Xbox Cloud Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-steam-deck-key-usage/"><u>The Ultimate Guide to Steam Deck Key Usage</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-a15-4g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy A15 4G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

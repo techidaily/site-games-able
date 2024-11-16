@@ -1,7 +1,7 @@
 ---
 title: Strategies for Controlling Steam Web Helper's RAM Overuse
-date: 2024-11-02T18:12:39.369Z
-updated: 2024-11-05T17:58:57.540Z
+date: 2024-11-09T01:21:12.532Z
+updated: 2024-11-15T19:45:40.854Z
 tags:
   - games
 categories:
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Does Steam Use So Much Memory?
@@ -43,30 +43,43 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -92,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
@@ -108,19 +121,6 @@ steam://open/minigameslist
 3. Hit enter. This will change the size of your Steam window, forcing it into a vertical slice rather than the more feature-full rectangle that Steam usually defaults to.
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 
@@ -160,24 +160,24 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-finding-the-right-angle-for-your-fb-videos-for-2024/"><u>[New] Finding the Right Angle for Your FB Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-editmaster-app/"><u>[Updated] EditMaster App</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-loop-and-relish-youtube-videos-double-the-delight-on-tv/"><u>[Updated] Loop & Relish YouTube Videos, Double the Delight on Tv</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discovering-the-ideal-moments-and-locations-unveiling-top-savings-on-black-friday-2022-tech-news-insights/"><u>Discovering the Ideal Moments & Locations: Unveiling Top Savings on Black Friday 2022 | Tech News Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-tips-for-keeping-your-windows-audio-device-drivers-current/"><u>Easy Tips for Keeping Your Windows Audio Device Drivers Current</u></a></li>
-<li><a href="https://fox-place.techidaily.com/elevate-your-web-development-with-nodejs-check-out-3plus-high-quality-premium-themes-and-frameworks-by-creative-tim/"><u>Elevate Your Web Development with Nodejs: Check Out 3+ High-Quality Premium Themes and Frameworks by Creative Tim</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-free-football-fun-old-championship-manager-windows-edition/"><u>Embrace Free Football Fun: Old Championship Manager, Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploiting-discord-for-social-gaming-sessions-chesspoker-tactics/"><u>Exploiting Discord for Social Gaming Sessions: Chess/Poker Tactics</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-screen-lines-a-comprehensive-guide-for-portable-computers/"><u>Fixing Screen Lines: A Comprehensive Guide for Portable Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-for-mac-enjoy-and-understand-restrictions/"><u>Fortnite for Mac: Enjoy and Understand Restrictions</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-plant-to-patient-the-journey-of-cannabinoid-biotransformation/"><u>From Plant to Patient: The Journey of Cannabinoid Biotransformation</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-ground-sitting-solutions-for-long-hours/"><u>High Ground Sitting Solutions for Long Hours</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-next-step-after-vlc-top-media-players-reviewed/"><u>In 2024, The Next Step After VLC - Top Media Players Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-mts-in-top-shelf-gaming-experiences/"><u>Integrating MTs in Top-Shelf Gaming Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-gaming-unleashed-on-linux-systems/"><u>Mobile Gaming Unleashed on Linux Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/score-hps-powerhouse-of-a-pc-the-victus-15l-with-nearly-half-the-price-now-only-520-zdnet-exclusive/"><u>Score HP's Powerhouse of a PC – The Victus 15L with Nearly Half the Price, Now Only $520! | ZDNET Exclusive</u></a></li>
-<li><a href="https://games-able.techidaily.com/silicon-showdown-cpus-clash-for-console-supremacy/"><u>Silicon Showdown: CPUs Clash for Console Supremacy</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-blueprint-for-epic-and-steam-account-linkage/"><u>The Essential Blueprint for Epic & Steam Account Linkage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-strategies-for-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved Essential Strategies for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-profits-the-guide-to-gainful-youtube-endeavors-sans-ads/"><u>[New] Maximizing Profits The Guide to Gainful YouTube Endeavors Sans Ads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[New] Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet-for-2024/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/backing-out-of-latest-xbox-wireless-controls/"><u>Backing Out of Latest Xbox Wireless Controls</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-pcs-data-transfer-speed-an-easy-guide-to-update-standard-sata-ahci-controller-software/"><u>Boost Your PC’s Data Transfer Speed: An Easy Guide to Update Standard SATA AHCI Controller Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-the-chains-of-a-locked-steam-service-with-7-effective-actions/"><u>Break the Chains of a Locked Steam Service with 7 Effective Actions</u></a></li>
+<li><a href="https://games-able.techidaily.com/cozy-games-a-cultural-phenomenon-breakdown/"><u>Cozy Games: A Cultural Phenomenon Breakdown</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/font-exploration-for-enhanced-youtube-thumbnails-appeal/"><u>Font Exploration for Enhanced YouTube Thumbnails' Appeal</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-a1-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A1 5G Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalizing-the-look-of-windows-11-with-easy-color-modifications-for-the-taskbar/"><u>Personalizing the Look of Windows 11 with Easy Color Modifications for the Taskbar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-red-magic-9-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Red Magic 9 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reclaiming-spent-on-games-maximize-your-steam-returns/"><u>Reclaiming Spent on Games? Maximize Your Steam Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/rekindling-the-joy-of-play-with-these-six-ideas/"><u>Rekindling the Joy of Play with These Six Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-screen-guide-avoiding-pitfalls-during-purchase/"><u>The Ultimate Screen Guide: Avoiding Pitfalls During Purchase</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-budget-savvy-white-computing-solutions/"><u>Ultimate Budget-Savvy White Computing Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-premium-video-capture-devices-for-xbox/"><u>Ultimate Guide to Premium Video Capture Devices for Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncover-additional-excitement-fallout-game-series/"><u>Uncover Additional Excitement: Fallout Game Series</u></a></li>
 </ul></div>
 

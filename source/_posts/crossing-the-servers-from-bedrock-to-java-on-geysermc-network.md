@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Servers: From Bedrock to Java on GeyserMC Network"
-date: 2024-11-02T18:42:47.668Z
-updated: 2024-11-05T20:52:06.558Z
+date: 2024-11-09T03:25:13.377Z
+updated: 2024-11-15T19:46:47.242Z
 tags:
   - games
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 * [Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?](#why-can-39-t-minecraft-bedrock-players-join-minecraft-java-servers-normally)
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
@@ -63,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Set Up a Server
@@ -74,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Firstly, you should set up a server on[Aternos](https://aternos.org/) . Aternos is a free third-party server hosting service that has everything you need to set up a server to allow crossplay between Java and Bedrock.
 
 ![Aternos Create a Server button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/aternos-create-a-server-button.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve made an account on Aternos, click on**Create** to create a server and name it. Make sure to choose**Java Edition** on the blue bar above.
 
@@ -99,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click on the**Install** button to add PaperMC to your server.
 
@@ -121,33 +114,40 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
- Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
 ## The Limitations of the GeyserMC Mod
 
@@ -174,24 +174,19 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>[New] The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012098142-solved-fortnite-fps-drops-season-8-update/"><u>[SOLVED] Fortnite FPS Drops – Season 8 Update</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-bridging-the-gap-between-tiktok-and-facebook-sharing-for-2024/"><u>[Updated] Bridging the Gap Between TikTok & Facebook Sharing for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-elevating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[Updated] Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-compre-point-guide-to-instagrams-inquiry-tool/"><u>[Updated] The Compre Point Guide to Instagram's Inquiry Tool</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-premier-portals-to-retro-playstation-gaming-on-your-desktop/"><u>2024 Approved Premier Portals to Retro PlayStation Gaming on Your Desktop</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-videos-with-the-right-dimension-proportions/"><u>2024 Approved Transform Your Videos with the Right Dimension Proportions</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-drawbacks-to-on-the-go-entertainment/"><u>Dissecting the Drawbacks to On-the-Go Entertainment</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-to-follow-guide-for-activating-and-using-the-measure-feature-in-android-devices/"><u>Easy-to-Follow Guide for Activating and Using the Measure Feature in Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-to-preventive-measures-finding-the-right-monitor/"><u>Guide to Preventive Measures: Finding the Right Monitor</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-clips-to-tunes-explained-in-detail/"><u>Instagram Clips to Tunes Explained in Detail</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-language-through-these-top-5-teaching-tools/"><u>Mastering Language Through These Top 5 Teaching Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-mouse-accuracy-in-action-games/"><u>Mastering Mouse Accuracy in Action Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/premier-usb-extenders-for-sony-console-gaming/"><u>Premier USB Extenders for Sony Console Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/razer-basilisk-pro-review-gameplay-enhanced-latency-reduced/"><u>Razer Basilisk Pro Review: Gameplay Enhanced, Latency Reduced</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-gaming-is-here-without-needing-adobe-flash/"><u>The Future of Gaming Is Here: Without Needing Adobe Flash</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-ios-gaming-boosters-pick-four-for-perfection/"><u>The Ultimate List of iOS Gaming Boosters: Pick Four for Perfection</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-full-potential-of-xbox-series-x-the-4k-setup-guide/"><u>Unlocking the Full Potential of Xbox Series X: The 4K Setup Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-layers-of-steam-versus-gog-services/"><u>Unveiling the Layers of Steam Versus GOG Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-watch-facebook-live-on-roku/"><u>[Updated] In 2024, How to Watch Facebook Live on Roku?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pro-tips-to-perfect-minecraft-pixelation/"><u>[Updated] Pro Tips to Perfect Minecraft Pixelation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-digital-dimension-state-of-the-art-vr/"><u>2024 Approved The Digital Dimension State-of-the-Art VR</u></a></li>
+<li><a href="https://games-able.techidaily.com/assembled-now-deconstructed-your-xbox-360-slim-guide/"><u>Assembled, Now Deconstructed: Your Xbox 360 Slim Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-steams-resource-drain-5-effective-methods-to-limit-ram-use/"><u>Avoid Steam's Resource Drain - 5 Effective Methods to Limit RAM Use</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-easy-steam-deck-ssd-swap-with-cloning/"><u>Quick and Easy Steam Deck SSD Swap with Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-playstation-5-for-your-youngsters-benefit/"><u>Secure Playstation 5 for Your Youngster's Benefit</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speed-kings-and-queens-of-2022-for-2024/"><u>Speed Kings and Queens of 2022 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-selecting-a-game-ready-keyboard/"><u>The Essential Guide to Selecting a Game-Ready Keyboard</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-capturing-your-ps4-experience/"><u>The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-solving-windows-11-video-schedulers-internal-error-problem/"><u>Troubleshooting and Solving Windows 11 Video Scheduler's Internal Error Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-a-good-gpu-temperature-for-gaming/"><u>What Is a Good GPU Temperature for Gaming?</u></a></li>
 </ul></div>
 

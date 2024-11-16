@@ -1,7 +1,7 @@
 ---
 title: Key Steps for Reviewing Gameplay Durations on Xbox
-date: 2024-10-29T19:35:39.777Z
-updated: 2024-11-05T18:03:11.161Z
+date: 2024-11-09T16:18:16.546Z
+updated: 2024-11-16T03:55:31.278Z
 tags:
   - games
 categories:
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check Your Time Played From Your Xbox Series X|S
 
  Now you know some of the caveats of the feature, you can go ahead and start checking your**Time played** stat for any game you've played with your Xbox account without any confusing surprises.
@@ -49,22 +56,15 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Under**Progress** , highlight**Stats** .
 
@@ -75,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
@@ -97,24 +91,24 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the Load screen for Mass Effect Legendary Edition on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2893.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official[Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -137,21 +131,17 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pioneering-animated-film-series-the-top-15-list/"><u>[New] Pioneering Animated Film Series The Top 15 List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonizing-marketing-brands-and-youtubes-co-creative-pathways/"><u>2024 Approved Harmonizing Marketing Brands & YouTube's Co-Creative Pathways</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/decoding-the-art-of-enhanced-perception/"><u>Decoding the Art of Enhanced Perception</u></a></li>
-<li><a href="https://games-able.techidaily.com/emulate-d-pad-gaming-experience/"><u>Emulate D-Pad Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-airpods-audio-experience-when-connected-to-a-desktop-or-laptop/"><u>Enhancing AirPods Audio Experience When Connected to a Desktop or Laptop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-diagnosing-and-fixing-black-screens-in-active-computers/"><u>Expert Advice on Diagnosing and Fixing Black Screens in Active Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-a-mouse-scroll-wheel-jumping-up-and-down/"><u>How to Fix a Mouse Scroll Wheel Jumping Up and Down</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-logitech-gaming-mouse-g203-driver-on-pc-windows-7-to-11-guide/"><u>Install Logitech Gaming Mouse G203 Driver on PC: Windows 7 to 11 Guide</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/itext-file-modification-a-comprehensive-guide/"><u>IText File Modification: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-next-gen-marvel-ps5-boosted-by-9-new-traits/"><u>Sony's Next-Gen Marvel: PS5, Boosted by 9 New Traits</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essentials-of-space-management-in-retro-game-archives-via-chdman/"><u>The Essentials of Space Management in Retro Game Archives via ChDMan</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-steam-library-the-art-of-deleting-games/"><u>Transform Your Steam Library: The Art of Deleting Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-the-potential-of-ps5-with-these-9-features/"><u>Unleashing the Potential of PS5 with These 9 Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-4-pivotal-points-against-a-disc-drive-on-xbox-s/"><u>Unveiling 4 Pivotal Points Against a Disc Drive on Xbox S</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-living-virtually-tips-for-an-active-facebook-presence/"><u>[New] Living Virtually Tips for an Active Facebook Presence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-revolutionary-content-your-path-to-100k-views/"><u>[New] Revolutionary Content Your Path to 100K Views</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-fortified-process-for-adding-tiktok-profile-hyperlinks-for-2024/"><u>[Updated] Fortified Process for Adding TikTok Profile Hyperlinks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/20-fast-and-quick-mobile-games-to-kill-time-on-android-and-iphone/"><u>20 Fast and Quick Mobile Games to Kill Time on Android and iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bg3-hw-specs-and-game-store-details/"><u>BG3 HW Specs & Game Store Details</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-7-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 7 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-lost-games-to-clean-start-ps4-recovery/"><u>From Lost Games to Clean Start: PS4 Recovery</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-agni-2-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Agni 2 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-coding-redemption-xbox-edition/"><u>Master the Art of Coding Redemption: Xbox Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862867782-maxsun-unveils-intel-and-amds-latest-gear-an-extensive-selection-of-31-high-performance-chipsets-meet-the-future/"><u>Maxsun Unveils Intel and AMD's Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-6-critical-issues-affecting-your-kindle-fire-experience/"><u>Unveiling the Top 6 Critical Issues Affecting Your Kindle Fire Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-breaks-inertia-revamps-shared-gaming-on-steam/"><u>Valve Breaks Inertia: Revamps Shared Gaming on Steam</u></a></li>
 </ul></div>
 

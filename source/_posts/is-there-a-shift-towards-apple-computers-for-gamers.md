@@ -1,7 +1,7 @@
 ---
 title: Is There a Shift Towards Apple Computers for Gamers?
-date: 2024-09-09T09:41:29.252Z
-updated: 2024-09-10T09:41:29.252Z
+date: 2024-11-08T18:00:17.865Z
+updated: 2024-11-15T23:11:13.399Z
 tags:
   - games
 categories:
@@ -22,42 +22,18 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ![14-inch M2 Pro MacBook Pro models side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/14-inch-m2-pro-macbook-pro-models-side-by-side.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Apple](https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/)
 
 [According to Apple Insider](https://appleinsider.com/articles/19/05/09/how-apples-macs-lost-an-early-lead-in-video-gaming) , Apple's Macintosh computers held an advantage in PC gaming in the 1980s and early '90s. However, this is no longer true today. According to[Steam's Hardware and Software Survey June 2023](https://store.steampowered.com/hwsurvey?platform=combined) , Windows holds 96.77% of the Steam market, while MacOS has a measly 1.79%.
 
  But will we see this number increase in the coming years? Especially as Apple continues to release more powerful, efficient, and affordable Apple-silicon-powered Macs and MacBooks?
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The MacBook Air and Its Popularity
 
  The launch of the M1 MacBook Air turned the laptop market on its head. With its exceptional efficiency, many users switched to the MacBook Air and the more expensive MacBook Pro to take advantage of its ridiculously long battery life.
 
 ![15-inch MacBook Air battery percentage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/15-inch-macbook-air-battery-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Furthermore, its reasonable price[made the MacBook Air an outstanding laptop for students](https://www.makeuseof.com/reasons-macbook-air-great-for-students/) . Even some professionals agree that[MacBooks are better than other laptops](https://www.makeuseof.com/why-macbooks-are-better-than-other-laptops/) , with many of them switching to macOS from Windows.
 
  So, with this increased userbase, you can expect some of them to want to game on their computer. As more people buy into the Apple ecosystem, the demand for Mac gaming will also slowly increase.
@@ -77,21 +53,23 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  And because macOS has the Apple App Store baked into it, it would give many would-be Mac gamers access to a vast library of games already there. Furthermore, if developers could port their iOS games and make them compatible with macOS, it would encourage iPhone gamers to switch to a Mac, allowing them to switch between devices seamlessly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steam's Availability on macOS
 
 ![Launching Steam on a MacBook Air](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/launching-steam-on-a-macbook-air.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit:[Jowi Morales](https://www.makeuseof.com/author/jowi-morales)
 
  Steam is arguably the most popular gaming service in 2023, and its availability will help gamers switching from Windows to macOS get settled into Mac gaming. By giving gamers a familiar place, Steam for macOS will help encourage gamers to switch to Mac without fearing they'll have trouble finding their favorite titles.
@@ -104,16 +82,17 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  However, despite the power and possibilities of macOS, many gamers are still hesitant to switch to Apple. But why is this so?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Macs Are Expensive
 
 ![A Mac and a Windows Laptop Placed Side-by-Side on a White Surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/The-Pros-and-Cons-of-Using-a-Virtual-Machine-to-Run-Windows-on-a-Mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While the MacBook Air and Mac mini are relatively affordable devices for the power they have, they're still expensive if you compare them to many Windows computers. In fact, this is one of the[reasons why Macs aren't great for gaming](https://www.makeuseof.com/reasons-why-macs-arent-great-for-gaming/) .
 
  For example, as of July 2023, the 2020 M1 MacBook Air retails at $999 on the Apple website. Although this is affordable for an Apple device, this is pricey for a three-year-old laptop.
@@ -123,17 +102,18 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  And if the budget is really tight, you can build a desktop PC for less than $500—Linus Tech Tips shows how he does it on[YouTube](https://www.youtube.com/watch?v=Xzhp1HTt43M&ab%5Fchannel=LinusTechTips) .
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### There Is No Way to Upgrade an Apple-Silicon Mac
 
 ![Apple Silicon M2 Chip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Apple-Silicon-Mac-M2-Chip.jpg)
@@ -148,9 +128,23 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  Furthermore, Windows PC's upgradability means that even if you only have a $500 gaming rig today, you could upgrade it next year to a $5,000 monster gaming PC without necessarily replacing everything—something that is impossible with the Apple SoC.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### There Is a Lack of Mac-Exclusive AAA Titles
 
 ![Screen showing call of duty home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/video-game.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One thing that brings gamers to a platform is the availability of exclusive games. It has even become a point of contention in Microsoft's proposed acquisition of Activision Blizzard, with Sony complaining that Microsoft will make the Call of Duty franchise an Xbox exclusive if the deal pushes through.
 
@@ -164,36 +158,21 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ![A screenshot of the home page for Xbox Game Pass on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/game-pass.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Aside from the lack of Mac-exclusive AAA titles, Macs also lack an excellent game subscription service.[PC gaming has several excellent subscription services](https://www.makeuseof.com/best-pc-games-subscription-services/) , giving gamers access to many titles without spending much money.
 
  If Apple or another developer introduces a Mac gaming subscription service that offers a good number of great titles at an affordable price, then we might see gamers with money switch to Mac. However, this requires extensive investment, and this move is a gamble in and of itself.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Apple Needs to Address Some Issues Before It Can Become a Gaming Giant
 
  While Apple Silicon delivers excellent power and efficiency to Mac hardware, building a gaming empire takes more than that. So, if Apple wants to have a bigger pie in the gaming industry, it needs to invest in so much more.
 
  It must entice developers to create excellent games for macOS, build computers primarily focused on gamers' needs, and find a way to make gaming on Mac more accessible to more people. If Apple pulls this off, it would severely threaten Windows' monopoly on the PC gaming market.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -202,4 +181,22 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/winx-mediatrans-100/"><u>[安心お得] WinX MediaTrans認定購入ページ - 100%安全なオンラインショッピング体験</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-virtual-racing-masterclass-our-five-favorite-games-for-2024/"><u>[Updated] Virtual Racing Masterclass Our Five Favorite Games for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a54-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A54 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/compute-aspect-variety-from-anywhere/"><u>Compute Aspect Variety From Anywhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/developing-a-distinctive-style-for-steam-game-critiques/"><u>Developing a Distinctive Style for Steam Game Critiques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-dvd-copying-and-saving-as-iso-with-winx-dvd-copy-pro-a-step-by-step-guide/"><u>Effortless DVD Copying & Saving as ISO with WinX DVD Copy Pro - A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-optimal-steam-play-on-meta-quest/"><u>Essential Tips for Optimal Steam Play on Meta Quest</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/is-av1-codec-compatible-with-handbrake-encoder/"><u>Is AV1 Codec Compatible with Handbrake Encoder?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-stuck-during-update-process-issue-in-msfs-2020-a-step-by-step-guide/"><u>Resolving the 'Stuck During Update Process' Issue in MSFS 2020: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-supreme-joy-con-and-controller-compendium-nintendo-switch-2024/"><u>The Supreme Joy-Con & Controller Compendium (Nintendo Switch, 2024)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-accessory-compendium-for-psvr2/"><u>The Ultimate Accessory Compendium for PSVR2</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-xbox-series-x-controller-disassembly/"><u>The Ultimate Guide to Xbox Series X Controller Disassembly</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-benefits-going-from-console-to-pc-gaming/"><u>Top 10 Benefits: Going From Console to PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-hrtf-in-valorant-and-should-you-use-it/"><u>What Is HRTF in Valorant and Should You Use It?</u></a></li>
+</ul></div>
 

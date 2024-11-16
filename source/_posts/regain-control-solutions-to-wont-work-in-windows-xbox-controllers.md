@@ -1,7 +1,7 @@
 ---
 title: "Regain Control: Solutions to Won't Work in Windows Xbox Controllers"
-date: 2024-09-09T09:44:14.062Z
-updated: 2024-09-10T09:44:14.062Z
+date: 2024-11-15T00:27:28.680Z
+updated: 2024-11-15T19:14:46.730Z
 tags:
   - games
 categories:
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check if Windows Recognizes Your Controller
 
  The first thing you need to do is check if Windows recognizes your controller. For that, you will need to[open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
@@ -39,38 +27,21 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 3. In the Game Controllers window, read the status of your controller.  
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your controller does not show up in the Game Controllers window or the status does not say**OK** , you may be experiencing a connection problem.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Disconnect and Reconnect the Controller
 
  When you encounter[issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Scan for Hardware Changes
 
  If unplugging and plugging the controller proves ineffective, you can scan your system for hardware changes using Device Manager. To do so, follow these steps:
@@ -80,11 +51,12 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 ![Scan for Hardware Changes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-for-hardware-changes-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Following that, your controller should appear in the Device Manager window and work as expected.
 
 ## 4\. Run the Relevant Window Troubleshooters
@@ -99,6 +71,13 @@ To run the Hardware and Devices troubleshooter, use these steps:
 4. Tick the checkbox that reads**Apply repairs automatically** and click**Next** .  
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -109,11 +88,12 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After running the above troubleshooter, try using your controller again.
 
 ## 5\. Update or Reinstall the Controller's Driver
@@ -138,24 +118,15 @@ To run the Hardware and Devices troubleshooter, use these steps:
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Controller Issues on Windows Made Easy
 
  Unless your controller is faulty or damaged, one of the above tips should get it to work again. That said, if you find that your controller's performance is lacking precision or responsiveness, it might be a good idea to utilize the built-in Windows tool for calibration.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +135,24 @@ To run the Hardware and Devices troubleshooter, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-leading-filmmaking-applications-for-gopro/"><u>[New] 2024 Approved Leading Filmmaking Applications for GoPro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-zero-to-viral-video-top-10-user-friendly-youtube-concepts-for-2024/"><u>[New] From Zero to Viral Video Top 10 User-Friendly YouTube Concepts for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-explore-top-5-ps2-games-simulators-for-ios/"><u>[New] In 2024, Explore Top 5 PS2 Games Simulators for iOS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-writers-almanac-crafting-compelling-biographies-on-facebook/"><u>2024 Approved The Writer's Almanac Crafting Compelling Biographies on Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-online-combat-discovering-the-best-fps-games-on-a-browser/"><u>Elite Online Combat: Discovering the Best FPS Games on a Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-every-part-perfectly-pairs-up-for-a-new-pc/"><u>Ensuring Every Part Perfectly Pairs Up for a New PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x9a-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor X9a</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-gaming-fixes-the-top-20-mobile-games-to-relax-and-entertain/"><u>Instant Gaming Fixes: The Top 20 Mobile Games to Relax and Entertain</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-joystick-juice-prolonging-battery-life/"><u>Maximizing Xbox Joystick Juice: Prolonging Battery Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-vs-edge-ultimate-challenge-to-identify-best-game-browser/"><u>Opera Vs Edge - Ultimate Challenge to Identify Best Game Browser</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-effective-steam-game-review-writing/"><u>Strategies for Effective Steam Game Review Writing</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-gamers-mouse-pads/"><u>Top-Rated Gamers' Mouse Pads</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-hidden-depths-of-your-playstation-5-games/"><u>Unlock the Hidden Depths of Your PlayStation 5 Games</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-zero-cost-flv-video-editors-you-need/"><u>Updated Best Zero-Cost FLV Video Editors You Need</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-xcover-6-pro-tactical-edition-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy XCover 6 Pro Tactical Edition Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

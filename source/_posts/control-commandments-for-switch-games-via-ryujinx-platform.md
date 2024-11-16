@@ -1,7 +1,7 @@
 ---
 title: Control Commandments for Switch Games via Ryujinx Platform
-date: 2024-09-14T16:17:39.637Z
-updated: 2024-09-15T16:57:08.241Z
+date: 2024-11-15T03:58:35.054Z
+updated: 2024-11-15T22:31:30.137Z
 tags:
   - games
 categories:
@@ -40,16 +40,37 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
  Once you are done, select**Add** in the top-right of the**Configure** screen. You will then be prompted to name your controller configuration. Confirm your changes by selecting**Ok** followed by**Save** .
 
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
 
@@ -65,14 +86,14 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
 
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
- While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
@@ -93,5 +114,26 @@ thumbnail: https://thmb.techidaily.com/7677f4cd9df16c6a66672a56bd970deac980e4b07
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-integrate-audio-magic-the-secrets-of-musical-stories-on-instagram/"><u>[New] 2024 Approved Integrate Audio Magic The Secrets of Musical Stories on Instagram</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-crafting-cinematic-magic-making-your-instagram-videos-shine-for-2024/"><u>[New] Crafting Cinematic Magic Making Your Instagram Videos Shine for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unpacking-sharex-evaluation-and-replacements-for-2024/"><u>[New] Unpacking ShareX Evaluation & Replacements for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-mobile-and-professional-cameras-producing-igtv-excellence-for-2024/"><u>[Updated] Mastering Mobile and Professional Cameras Producing IGTV Excellence for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ultimate-app-review-with-az-screenshotter/"><u>2024 Approved Ultimate App Review with AZ Screenshotter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bug-fixes-preventing-frequent-shutdowns-while-playing-total-war-eternal-angels-pc-edition/"><u>Bug Fixes: Preventing Frequent Shutdowns While Playing Total War: ETERNAL ANGELS (PC Edition)</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-factors-for-selecting-a-game-controller/"><u>Crucial Factors for Selecting a Game Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/eleven-hilarious-chat-games-to-spruce-up-your-texts/"><u>Eleven Hilarious Chat Games to Spruce Up Your Texts</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-keys-to-a-child-oriented-ps5-security/"><u>Five Keys to a Child-Oriented PS5 Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/fostering-safe-steam-experiences-in-homes/"><u>Fostering Safe Steam Experiences in Homes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-oppo-a38-by-drfone-android/"><u>Full Guide to Unlock Your Oppo A38</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-6-essentials-before-purchasing-ps5/"><u>Gamers' Guide: 6 Essentials Before Purchasing PS5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-htc-u23-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your HTC U23</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lenovo-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lenovo Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/linguistic-enhancement-applying-custom-rom-patches/"><u>Linguistic Enhancement: Applying Custom ROM Patches</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-playtime-essential-5-steps-to-optimize-games-on-macos/"><u>Revolutionize Your Playtime: Essential 5 Steps to Optimize Games on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-on-the-go-top-nintendo-switch-docks/"><u>Revolutionizing Gaming on the Go: Top Nintendo Switch Docks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-d3dx9-33dll-missing-errors-on-your-pc/"><u>Step-by-Step Guide: Correcting 'D3dx9_ 33.dll' Missing Errors on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-tech-tecnos-new-color-changing-features/"><u>Transforming Tech: Tecno's New Color-Changing Features</u></a></li>
+</ul></div>
 

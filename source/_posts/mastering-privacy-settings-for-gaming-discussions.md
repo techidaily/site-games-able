@@ -1,7 +1,7 @@
 ---
 title: Mastering Privacy Settings for Gaming Discussions
-date: 2024-09-09T09:42:47.575Z
-updated: 2024-09-10T09:42:47.575Z
+date: 2024-11-12T20:50:10.093Z
+updated: 2024-11-15T18:55:43.893Z
 tags:
   - games
 categories:
@@ -30,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
 ![A promotional image of a step by step guide to Xbox voice reporting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/stock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Xbox](https://news.xbox.com/en-us/2023/07/12/xbox-voice-reporting-feature/)
 
  Similarly to taking captures on your Xbox Series X|S, recorded voice chats are also saved to your Xbox. However, while you can[upload Xbox captures to an external storage device](https://www.makeuseof.com/how-to-copy-xbox-game-captures-to-external-storage/) , you only have the option to delete or report your saved voice clips.
@@ -51,16 +45,24 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
 ![A screenshot of the Parties and Chats section of the Guide menu for Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/guide-menu.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select**Save voice clip (last 60s)** .
 
 ![A screenshot of the Report In Game Voice Chat settings on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-voice-clip.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After selecting**Save voice clip (last 60s)** , a minute of voice chat will be saved directly to your Xbox. You can then review and listen back to your recorded voice clip by entering the**Review saved clips** tab of the same**Report in-game voice chat** option available through**Parties & chats** .
 
 ![A screenshot of the Saved Voice Clips menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/saved-voice-clips.jpg)
@@ -79,42 +81,32 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
 ![A screenshot of Report In Game Voice Chat reporting options on Xbox Series X highlighting player selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-players.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Choose why you are reporting the online players,**Harassment** , or**Hate speech** , for instance, followed by**Next** .
 
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Next, as an optional choice, you can provide extra details about the incident. Select**Next** to continue.
 
 ![A screenshot of the In Your Own Words page for the Report In Game Voice Chat option on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extra-info.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Lastly, select**Submit Report** to finalize reporting your saved voice clip.
 
 ![A screenshot of the Summary page for the option to Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/finaliaze.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  With your saved voice clip reported, Xbox will review your claim and eventually send you an Xbox notification informing you whether action was taken. And with that, you're one step ahead when socializing online in multiplayer games.
 
 ## Protect Your Online Communities With Voice Reporting on Xbox Series X|S
@@ -123,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  So, the reporting tools available on Xbox Series X|S only work to empower you to make all of your online spaces, especially multiplayer gaming, safer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +128,17 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-techniques-to-combat-unsteady-shot-dynamics/"><u>[New] 2024 Approved Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-recordings-zooms-leading-transcription-apps-reviewed-for-2024/"><u>[New] Streamline Your Recordings Zoom's Leading Transcription Apps Reviewed for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-observers-lens-reportage/"><u>[Updated] Observer's Lens Reportage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-the-perfect-way-to-add-linktree-to-tiktok-bio/"><u>[Updated] The Perfect Way to Add Linktree to TikTok Bio</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-steam-remote-play-windows-tips/"><u>Enabling Steam Remote Play: Windows Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-passs-unmatched-benefits-except-for-this-exception/"><u>Google Play Pass's Unmatched Benefits, Except for This Exception</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-spark-20cmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Spark 20CMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-pi-fans-decision-time-batocera-vs-retropie/"><u>Retro Pi Fans, Decision Time: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-switching-laser-focused-or-lever-based/"><u>Swift Switching: Laser-Focused or Lever-Based?</u></a></li>
+</ul></div>
 

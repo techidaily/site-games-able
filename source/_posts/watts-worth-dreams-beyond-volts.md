@@ -1,7 +1,7 @@
 ---
 title: "Watt's Worth: Dreams Beyond Volts"
-date: 2024-09-13T16:43:48.439Z
-updated: 2024-09-15T16:56:59.402Z
+date: 2024-11-11T17:43:35.667Z
+updated: 2024-11-16T00:57:22.837Z
 tags:
   - games
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
  A faster CPU, sure. Better graphics, naturally. But what quirky, groundbreaking features could Nintendo’s out-of-the-box thinking bring to the Switch successor?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 The Switch Tablet as a Second Screen
 
 ![A white Wii U GamePad with a large screen surrounded by joysticks and buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_79169617.jpg)
@@ -40,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 
 ![official nintendo switch docking station](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/official-nintendo-switch-docking-station.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Nintendo
 
  One of the promises of a hybrid system was that it offers portability when you need it, and power when you can afford to stay still. The Switch has never quite borne this out, with a pretty ineffective[dock lacking in some obvious areas](https://www.makeuseof.com/the-nintendo-switch-dock-desperately-needs-an-upgrade-reasons-why/) . It does little more than serve as a hub for power and video output. By improving its dock, and introducing a broader range, Nintendo could do us all a huge favor.
@@ -53,10 +67,10 @@ Nintendo
  Nintendo likes to test our patience, releasing remaster after remaster, and each console revision tends to introduce its own unique way of playing Super Mario Bros (1985). But I'd like the company to really push the boat out and embrace permanent ownership of digital titles, starting from this generation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Improved Screenshot and Video Features
@@ -71,16 +85,16 @@ Nintendo
 
  It might also be fun to see a return of a proper camera, as lovable as the JoyCon IR is.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 More Than One Game Card Slot
 
 ![shutterstock_1447447304](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/shutterstock_1447447304.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Back in the heyday of compact discs, one of the most sought-after features was a disc changer or multi-disc tray that gave access to several albums at once. I've never wanted a console equivalent quite as much as I do with the Nintendo Switch.
 
@@ -101,5 +115,26 @@ Nintendo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection/"><u>[New] 2024 Approved Precision Workflow Tackling Backdrops in Affinity Photo to Perfection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimizing-facebook-search-efficiency-101/"><u>[New] In 2024, Optimizing Facebook Search Efficiency 101</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-master-your-youtube-settings-stop-auto-play-videos/"><u>[New] Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-quick-shot-guide-for-chromebook-users/"><u>[Updated] Quick Shot Guide for Chromebook Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-webinar-creation-kit/"><u>2024 Approved Premier Webinar Creation Kit</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/convertir-un-dvd-non-regionalise-avec-contourner-le-code-sur-windows-11/"><u>Convertir Un DVD Non Régionalisé Avec Contourner Le Code Sur Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-ideals-of-handheld-gameplay-the-flip-side/"><u>Debunking Ideals of Handheld Gameplay: The Flip Side</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972569041-download-wacom-drivers-instantly-the-fastest-way/"><u>Download Wacom Drivers Instantly - The Fastest Way!</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-streaming-xbox-games-with-glossi/"><u>Elevate Your Gaming Experience: Streaming Xbox Games with GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-visibility-for-games-in-eg-libraries/"><u>Enhancing Visibility for Games in EG Libraries</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-game-enhancers-on-a-tight-budget/"><u>Essential Game Enhancers on a Tight Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-calm-amidst-virtual-chaos-6-approaches/"><u>Finding Calm Amidst Virtual Chaos: 6 Approaches</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-windows-pc-running-with-new-geforce-gtx-460-graphics-card-software/"><u>How to Get Your Windows PC Running With New GeForce GTX 460 Graphics Card Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-prolong-your-switch-with-easy-maintene/"><u>How To Prolong Your Switch with Easy Maintene</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-m6-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco M6 5G Fingerprint Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-classics-iphone-and-legendary-titles/"><u>Rediscovering Classics: IPhone and Legendary Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedy-for-component-absence-warning-on-windows/"><u>Remedy for “Component Absence” Warning on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-on-how-to-reverse-game-console-purchase/"><u>Step-by-Step on How to Reverse Game Console Purchase</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-strategies-for-uninterrupted-gaming-battle-royale-fixes-on-desktops-tech-insights-2024/"><u>Winning Strategies for Uninterrupted Gaming: Battle Royale Fixes on Desktops (Tech Insights - 2024)</u></a></li>
+</ul></div>
 

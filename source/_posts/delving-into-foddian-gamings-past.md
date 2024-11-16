@@ -1,7 +1,7 @@
 ---
 title: Delving Into Foddian Gaming's Past
-date: 2024-09-09T16:37:07.118Z
-updated: 2024-09-15T16:16:06.354Z
+date: 2024-11-11T21:03:47.238Z
+updated: 2024-11-15T20:53:31.968Z
 tags:
   - games
 categories:
@@ -22,9 +22,29 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
  Games that fall under the Foddian category are as unique as the name, but how did they come about? Here are some events that led to a platform game revolution, birthing the Foddian genre as we know and love it.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The First Bennet Foddy Game
 
 ![A guy in a pot holding a sledgehammer who is about to fall off a cliff](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-getting-over-it.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It all began with the Foddian game, "Getting Over It with Bennett Foddy". Getting Over It is a puzzle game that challenges the player to use a sledgehammer to propel themselves up steep ledges and across slick platforms to get to space. “Foddian” refers to the creator of the first game, Bennett Foddy, in this genre and represents titles of a similar format.
 
@@ -50,24 +70,18 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
 ![A streaming setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-streamer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Streaming goes beyond just playing a game. Streamers understand that they need to engage their chat as much as possible to keep interest high. Fortunately, Foddian games are the perfect gateway for viewer engagement.
 
  A player still needs to focus on the game, especially when speedrunning it. However, the punishment for responding to chat is not so severe as to ruin your game. In other titles, like shooters or racers, you may end up dying to an opponent or losing a race if you are distracted.
 
  Ultimately, Foddian games are[a great way to interact with your subscribers](https://www.makeuseof.com/how-to-interact-with-subscribers-followers/) and let your personality shine. Some popular creators who have tried this include Ludwig, CdawgVA, Apharad, and Ironmouse. What’s more, there’s a high chance that your favorite creator has played some popular Foddian titles like Getting Over It, Pogostuck, Only Up!, or Jump King.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Evolution of Foddian Games
 
@@ -86,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
  While Foddian games are simple in design, the execution is magnificently intricate. They present a fun challenge for players, one you can ride all the way to victory at the top of the map.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -101,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 ### Q: How Long Is Only Up!?
 
  A popular Foddian game, Only Up! takes around 40 to 120 minutes to complete. However, because of the game's difficulty, it will more than likely take quite a lot longer than the listed competition time, especially due to a lack of checkpoints. Because of this, you may be looking at a completion time of around four to five hours depending on your skill level.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q: Who Popularized the Only Up! Game?
 
@@ -126,5 +133,26 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-harnessing-power-of-ez-grabber-quick-start-guide-to-usage/"><u>[New] In 2024, Harnessing Power of EZ Grabber - Quick Start Guide to Usage</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficiently-record-your-screen-with-io-screen-recorder/"><u>[Updated] Efficiently Record Your Screen with IO Screen Recorder</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-v30-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-efficient-web-tracking-technologies/"><u>Cookiebot: Your Key to Efficient Web Tracking Technologies</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-battle-the-prime-selection-of-online-fps-browser-games/"><u>Dive Into Battle: The Prime Selection of Online FPS Browser Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-ranking-of-premium-gaming-keyboards/"><u>Game On: A Ranking of Premium Gaming Keyboards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-create-a-channel-that-dominates-the-business-world/"><u>How to Create a Channel that Dominates the Business World</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/improve-productivity-learn-to-record-macs-screen-using-shortcut-keys/"><u>Improve Productivity Learn to Record Mac's Screen Using Shortcut Keys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-stories-screen-capture-made-simple/"><u>In 2024, Instagram Stories Screen Capture Made Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-complexity-of-steams-external-drive-use/"><u>Navigating the Complexity of Steam's External Drive Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-10-free-avi-file-joiners-simple-fast-and-effective/"><u>New In 2024, Top 10 Free AVI File Joiners Simple, Fast, and Effective</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-failed-payment-errors/"><u>Overcoming Steam's Failed Payment Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/refining-rendered-worlds-the-efficient-3d-route/"><u>Refining Rendered Worlds: The Efficient 3D Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-trends-and-talk-gamings-pivot-point/"><u>Switch Trends & Talk - Gaming's Pivot Point</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-evolution-of-auto-hdr-and-its-role-in-todays-photography-for-2024/"><u>The Evolution of Auto HDR and Its Role in Today's Photography for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-your-pcs-potential-with-these-5-windows-11-recording-methods/"><u>Unlock Your PC's Potential with These 5 Windows 11 Recording Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-virtual-worlds-pros-and-cons-to-consider-before-buying/"><u>Unlocking Virtual Worlds: Pros & Cons to Consider Before Buying</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-warfronts-the-creme-de-la-creme-of-online-fps-browser-games/"><u>Virtual Warfronts: The Crème De La Crème of Online FPS Browser Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-is-immersive-tech-so-pricey-uncovering-4-triggers/"><u>Why Is Immersive Tech so Pricey?: Uncovering 4 Triggers</u></a></li>
+</ul></div>
 

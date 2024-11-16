@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Gaming - Master Assist Controller on PS5
-date: 2024-10-31T21:27:39.635Z
-updated: 2024-11-05T19:13:33.352Z
+date: 2024-11-12T18:41:06.657Z
+updated: 2024-11-16T03:00:13.196Z
 tags:
   - games
 categories:
@@ -35,16 +35,22 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
@@ -60,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
@@ -68,38 +81,31 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
 ![PS5 Settings Assign Assist Controller to Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-assign-assist-controller-to-profile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will now be able to use the second controller to assist the first player in any way they need. You can tell the two controllers have successfully been connected by checking the**battery icon** at the top right. If there are two batteries instead of one, you are good to go.
 
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
 
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
 
@@ -122,24 +128,14 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/apture-the-season-wardrobe-top-5-winter-yt-scenes-for-2024/"><u>[New] Capture the Season' Wardrobe Top 5 Winter YT Scenes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-maximize-your-consoles-potential-top-monitors-explored/"><u>[New] Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-smartphone-tools-for-crafting-your-ideal-vocal-sound/"><u>2024 Approved Smartphone Tools for Crafting Your Ideal Vocal Sound</u></a></li>
-<li><a href="https://games-able.techidaily.com/delve-into-depth-and-detail-boosting-blu-ray-quality-in-xbox-sx/"><u>Delve Into Depth & Detail - Boosting Blu-Ray Quality in Xbox SX</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-roster-selection-for-starfield-beta/"><u>Demystifying Roster Selection for Starfield Beta</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974802339-fast-setup-essential-steps-for-your-validity-fingerprint-sensor-drivers-free-download/"><u>Fast Setup: Essential Steps for Your Validity Fingerprint Sensor Drivers - Free Download</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-online-video-earnings/"><u>In 2024, Mastering Online Video Earnings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-speed-eradicating-background-bgs-in-a-flash/"><u>In 2024, Mastering Speed Eradicating Background Bgs in a Flash</u></a></li>
-<li><a href="https://games-able.techidaily.com/install-and-enjoy-discord-on-your-mac-with-ease/"><u>Install and Enjoy Discord on Your Mac with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/jump-into-22-rapid-online-game-escapes/"><u>Jump Into 22 Rapid Online Game Escapes</u></a></li>
-<li><a href="https://games-able.techidaily.com/life-without-ps-plus-the-games-fate/"><u>Life Without PS Plus: The Games' Fate</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-field-of-data-professionals-a-5-step-guide-for-successful-career-trajectory-according-to-zdnet/"><u>Mastering the Field of Data Professionals: A 5-Step Guide for Successful Career Trajectory (According to ZDNet)</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendos-past-present-in-your-palm/"><u>Nintendo's Past, Present in Your Palm!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/outstanding-beginners-guide-unpacking-the-amazfit-bip-smartwatch/"><u>Outstanding Beginner's Guide: Unpacking the Amazfit Bip Smartwatch</u></a></li>
-<li><a href="https://games-able.techidaily.com/rising-through-the-roosters-of-new-york-city-unconventionally/"><u>Rising Through the Roosters of New York City Unconventionally</u></a></li>
-<li><a href="https://games-able.techidaily.com/save-smart-spend-less-with-xbox-series/"><u>Save Smart, Spend Less with Xbox Series</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-vive-cosmos-face-off-a-stellar-vr-headset-among-formidable-rivals-examined/"><u>The Vive Cosmos Face-Off: A Stellar VR Headset Among Formidable Rivals Examined</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gaming-mice-and-buttons-2024-edition/"><u>Top Gaming Mice & Buttons, 2024 Edition</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/x-dvd/"><u>「簡単操作のマックX DVDコピープログラム：無料版お試しください」</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-critical-eye-on-manipulative-playtime-trailers/"><u>A Critical Eye on Manipulative Playtime Trailers</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-inaccessible-steam-connections-on-win11/"><u>Correcting Inaccessible Steam Connections on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/defining-and-assessing-dual-mode-monitor-utility-in-gaming/"><u>Defining and Assessing Dual-Mode Monitor Utility in Gaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expertise-at-your-fingertips-the-ultimate-beginners-tripod-guide/"><u>Expertise at Your Fingertips: The Ultimate Beginner's Tripod Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-google-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Google Lock Screen Password</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-multitasking-with-picture-in-picture-feature-ios/"><u>In 2024, Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-step-by-step-guide-to-painless-iphone-screen-sharing/"><u>In 2024, Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
+<li><a href="https://games-able.techidaily.com/transitioning-iphone-into-a-mobile-gaming-station/"><u>Transitioning iPhone Into a Mobile Gaming Station</u></a></li>
 </ul></div>
 

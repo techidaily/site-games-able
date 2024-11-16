@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2024-11-04T17:04:13.503Z
-updated: 2024-11-05T21:28:04.141Z
+date: 2024-11-10T02:10:36.932Z
+updated: 2024-11-16T02:13:35.918Z
 tags:
   - games
 categories:
@@ -28,15 +28,28 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
@@ -47,22 +60,15 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  In my experience with my RTX 4090, the energy consumption skyrocketed by 15-30 percent for a 2-5 percent boost in frame rate across various games. So, is overclocking worth the increased electricity costs? Not in my book.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Higher Operating Temperature
 
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
@@ -70,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  This isn't a major issue if you have a triple-fan GPU with massive heatsinks or if it's liquid-cooled. My RTX 4090 is a liquid-cooled AIO unit with a 360mm radiator. So, for me personally, this is the least of my problems.
 
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Screen Flickering
 
@@ -82,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ## Occasional Crashes While Gaming
 
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
 
@@ -113,18 +119,14 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-x-audio-capture-pc-version/"><u>[Updated] 2024 Approved X-Audio Capture PC Version</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-minimizing-film-length-mac-solutions-for-instagram-posting/"><u>[Updated] Minimizing Film Length Mac Solutions for Instagram Posting</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-how-to-clear-the-clutter-blurring-backgrounds-for-engaging-yt/"><u>In 2024, How to Clear the Clutter Blurring Backgrounds for Engaging YT</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/instantly-rejoined-print-device/"><u>Instantly Rejoined Print Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/old-school-gameplay-androids-pokemon-adventures/"><u>Old-School Gameplay: Android's Pokémon Adventures</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-detection-errors-ensuring-your-astro-a50-works-with-command-station/"><u>Overcoming Detection Errors: Ensuring Your Astro A50 Works with Command Station</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscribing-at-a-steep-price-i-opt-out-of-ea/"><u>Subscribing at a Steep Price: I Opt-Out of EA</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailoring-your-ps5-environment/"><u>Tailoring Your PS5 Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-impact-of-premium-gaming-devices-on-performance/"><u>The Impact of Premium Gaming Devices on Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-shoppers-checklist-screen-selection-mistakes/"><u>The Ultimate Shopper's Checklist: Screen Selection Mistakes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722901063721-unleash-musical-bliss-8-amazing-free-melodies-apps-for-ios-devices/"><u>Unleash Musical Bliss: 8 Amazing Free Melodies Apps for iOS Devices.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>[New] In 2024, Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-capturing-every-corner-our-top-picks-for-best-11-bridge-cameras/"><u>2024 Approved Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-entertainment-navigating-costs-with-series-sx/"><u>Affordable Entertainment: Navigating Costs with Series S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyerdynamic-mmx-200-exceptional-audio-quality/"><u>Beyerdynamic MMX 200: Exceptional Audio Quality</u></a></li>
+<li><a href="https://games-able.techidaily.com/pitch-perfect-excellent-audio-games-for-music-enthusiasts/"><u>Pitch Perfect: Excellent Audio Games for Music Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivating-purchased-games-on-ps5-console/"><u>Reactivating Purchased Games on PS5 Console</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/seamless-music-addition-for-social-media-iphoneandroid-for-2024/"><u>Seamless Music Addition for Social Media IPhone/Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eginners-roadmap-to-a-thriving-youtube-channel-for-2024/"><u>The Beginner's Roadmap to a Thriving YouTube Channel for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-nokia-g22-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Nokia G22 Phone Pattern Lock</u></a></li>
 </ul></div>
 
