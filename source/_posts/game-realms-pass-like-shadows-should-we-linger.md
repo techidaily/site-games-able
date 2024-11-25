@@ -1,7 +1,7 @@
 ---
 title: Game Realms Pass Like Shadows, Should We Linger?
-date: 2024-09-09T09:35:06.171Z
-updated: 2024-09-10T09:35:06.171Z
+date: 2024-11-22T19:13:03.451Z
+updated: 2024-11-25T03:45:49.547Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Game Realms Struggle,Shadow Passage Impact,Lingers in Gaming,Play Like
 thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d5020753bc2f35168b92bccdf6.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Game Realms Pass Like Shadows, Should We Linger?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are Game Servers?](#what-are-game-servers)
@@ -34,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 * [What Happens When Servers Shut Down?](#what-happens-when-servers-shut-down)
 
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are Game Servers?
 
@@ -46,21 +38,13 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -78,21 +62,13 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
  Such games include Mario Maker and Little Big Planet. Console publishers are often more protective of their IP; Nintendo, in particular, is fiercely protective of its games, locking them down to prevent anything but official, sanctioned access.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Long Do Game Servers Last?
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
 
  Long-running game servers are few and far between, although Furcadia’s servers have been up and running for 30 years. The majority of very popular server-backed games have only been around for the last decade or so, and are still running, with large customer bases.
@@ -103,16 +79,18 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Happens When Servers Shut Down?
 
 ![A close up of a maze-based video game with the words “Game Over” in prominent lettering.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/game-over-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Frenzel/[Shutterstock](https://www.shutterstock.com/image-photo/screen-showing-that-game-over-macro-153068465)
 
  Typically, when game servers shut down, that means no more multiplayer. Games with multiplayer at their core may, in effect, cease to exist, while others will simply lose a big part of their functionality.
@@ -123,14 +101,11 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
  A smaller group of players is[concerned about game preservation](https://www.makeuseof.com/what-is-video-game-preservation/) . Once servers are gone, they often remove access to beloved games; not even emulation can save the day, unless enterprising developers can find a way of using alternative servers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +114,26 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-how-to-make-asmr-videos-all-you-need-to-know/"><u>[Updated] How to Make ASMR Videos All You Need to Know</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-opposite-end-video-retrospective-techniques/"><u>[Updated] YouTube's Opposite End Video Retrospective Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arise-chronicles-overcoming-unexpected-game-shutdowns-successfully/"><u>Arise Chronicles: Overcoming Unexpected Game Shutdowns Successfully</u></a></li>
+<li><a href="https://games-able.techidaily.com/disabling-device-lockup-the-solution-for-error-0x887a0006/"><u>Disabling Device Lockup: The Solution for Error 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/engaging-with-films-via-ps5-cinematic-hub/"><u>Engaging with Films via PS5 Cinematic Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-247-wellness-monitoring-with-garmin-venu-your-ultimate-activity-tracker/"><u>Experience 24/7 Wellness Monitoring with Garmin Venu: Your Ultimate Activity Tracker</u></a></li>
+<li><a href="https://games-able.techidaily.com/grasp-total-console-playtime-using-xbox-series-xs/"><u>Grasp Total Console Playtime Using Xbox Series X/S</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-10-hidden-photoshop-photo-editing-tips-for-beginners/"><u>In 2024, 10 Hidden Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breaking-boundaries-education-through-vr-lenses/"><u>In 2024, Breaking Boundaries Education Through VR Lenses</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-cluttered-to-clear-a-beginners-guide-to-freeing-up-space-for-fcpx/"><u>New From Cluttered to Clear A Beginners Guide to Freeing Up Space for FCPX</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-rtx-4070-super-apex-vs-titan-x-vs-4080-super/"><u>Nvidia's RTX 4070 Super - Apex Vs. Titan X Vs. 4080 Super</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-tag-selection-elevate-your-videos-online-presence-for-2024/"><u>Optimal Tag Selection Elevate Your Video's Online Presence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/price-patterns-investigating-gaming-costs-on-steam/"><u>Price Patterns: Investigating Gaming Costs on Steam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/scheduling-success-a-step-by-step-approach-to-google-meets-for-2024/"><u>Scheduling Success A Step-by-Step Approach to Google Meets for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-your-pc-experience-by-managing-game-bar/"><u>Securing Your PC Experience by Managing Game Bar</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-tackling-non-responsive-drivers-on-your-windows-11-system/"><u>Strategies for Tackling Non-Responsive Drivers on Your Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-partners-for-steam-decks-a-rundown-of-the-top-9-emulators/"><u>The Perfect Partners for Steam Decks: A Rundown of the Top 9 Emulators</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-hardware-guide-smart-selections-from-toms-technological-insight/"><u>The Ultimate Hardware Guide: Smart Selections From Tom's Technological Insight</u></a></li>
+</ul></div>
 

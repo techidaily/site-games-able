@@ -1,7 +1,7 @@
 ---
 title: "Preventing Crashes: Repair Epic Games Launcher Windows"
-date: 2024-09-09T09:35:55.196Z
-updated: 2024-09-10T09:35:55.196Z
+date: 2024-11-23T23:02:17.243Z
+updated: 2024-11-25T01:03:24.214Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
  If you are facing a similar issue, this guide contains some troubleshooting tips that will help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Close the Epic Games Launcher Completely and Reopen It
 
  The Epic Games Launcher may freeze on your Windows PC due to malfunctioning or unresponsive app processes. In most cases, you can resolve the issue by closing the Epic Games Launcher completely and then reopening it. Hence, it's the first thing you should try.
@@ -29,25 +33,17 @@ thumbnail: https://thmb.techidaily.com/02545b46a0f89851cd200be4f89aa4a5cf07cac66
 
 Reopen the Epic Games Launcher and try using it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run Epic Games Launcher as an Administrator
 
  Running the Epic Games Launcher with admin rights can help you avoid any issues caused by a lack of relevant permissions to access system files and settings. Right-click on the**Epic Games Launcher** shortcut and select**Run as administrator** . Select**Yes** when the UAC (User Account Control) prompt appears.
 
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to[always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the Epic Games Server Status
 
@@ -65,17 +61,13 @@ Reopen the Epic Games Launcher and try using it.
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Fullscreen Optimizations
 
  Enabling full-screen optimizations for an app on Windows can boost its performance in full-screen mode. However, this feature can sometimes cause compatibility issues, leading to abrupt app crashes. You can try disabling full-screen optimizations for the Epic Games Launcher to see if that restores normalcy.
@@ -86,6 +78,10 @@ Reopen the Epic Games Launcher and try using it.
 4. Clear the**Disable fullscreen optimizations** checkbox.
 5. Hit**Apply** followed by**OK** .  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
@@ -101,18 +97,6 @@ Reopen the Epic Games Launcher and try using it.
 6. Click the**trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
  Do you see the D3DCOMPILER\_43.dll error when Epic Games Launcher crashes on Windows? If so, the D3DCOMPILER\_43.dll file on your PC may be corrupt or missing. Here's what you can do to fix it.
@@ -125,12 +109,6 @@ Reopen the Epic Games Launcher and try using it.
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Repair the Epic Games Launcher
 
  Your Windows PC includes an app repair feature that can help you fix such issues with the Epic Games Launcher without affecting its data. You can try using this feature to see if that gets the Epic Games Launcher to run smoothly.
@@ -145,18 +123,16 @@ Reopen the Epic Games Launcher and try using it.
 
  Follow the on-screen instructions to repair the launcher and try using it again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall the Epic Games Launcher
 
  If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on[how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
 
  After uninstalling Epic Games Launcher, press**Win + R** to open the Run dialog box. Type**%localappdata%** in the box and press**Enter** . In the File Explorer window that appears, delete the**Epic Games launcher** folder. Once done, go to[Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Try Other Common Fixes
 
  If the above fixes don’t help, there may be an issue with your Windows PC. In that case, you can try the following troubleshooting tips to resolve the issue.
@@ -164,24 +140,15 @@ Reopen the Epic Games Launcher and try using it.
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try[updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility,[scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Epic Games Launcher Crashes on Windows
 
  Problems with the Epic Games Launcher can be annoying as they prevent you from playing your favorite games. In most cases, these issues are caused by a lack of permissions or a corrupted app cache. In any case, one of the tips above should help you fix the underlying issue for good.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -190,4 +157,22 @@ Reopen the Epic Games Launcher and try using it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-inspirational-metaverse-sayings-arvr-edition/"><u>[New] 2024 Approved Inspirational Metaverse Sayings AR/VR Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-share-tiktok-videos-to-facebook-in-2024/"><u>[New] How to Share TikTok Videos to Facebook, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pioneering-strategies-in-instavid-world-design-an-optimal-marketing-approach/"><u>[Updated] 2024 Approved Pioneering Strategies in InstaVid World Design an Optimal Marketing Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-success-stories-adopting-viral-techniques-from-tiktok/"><u>In 2024, Instagram Success Stories Adopting Viral Techniques From TikTok</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-playstation-fresh-remove-reinstall-games/"><u>Keep Your PlayStation Fresh: Remove, Reinstall Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-fixing-roblox-error-code-403-on-windows-systems/"><u>Mastering the Art of Fixing Roblox Error Code 403 on Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-access-to-premium-vr-save-big-on-limited-time-meta-quest-3-512gb-deals-this-oct-zdnet-insider-tips/"><u>Prime Access to Premium VR: Save Big on Limited-Time Meta Quest 3 512GB Deals This Oct – ZDNET Insider Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/reducing-risks-dont-tap-into-ps5s-microphone/"><u>Reducing Risks: Don't Tap Into PS5's Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-controller-enhancing-classic-games/"><u>Retro Controller: Enhancing Classic Games</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-how-to-address-and-repair-d3dx928dll-errors-on-your-computer/"><u>Step-by-Step Solution: How to Address and Repair 'd3dx9_28.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategizing-for-secure-interactions-with-adaptive-ai/"><u>Strategizing for Secure Interactions with Adaptive AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-earning-early-starfield-access-credits/"><u>Tips for Earning Early Starfield Access Credits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-affordable-home-theater-setup-essentials/"><u>Top Affordable Home Theater Setup Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steam-deck-model-potentials/"><u>Unlocking Steam Deck Model Potentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-go-to-guide-for-top-8-game-news-and-reviews/"><u>Your Go-To Guide for Top 8 Game News & Reviews</u></a></li>
+</ul></div>
 

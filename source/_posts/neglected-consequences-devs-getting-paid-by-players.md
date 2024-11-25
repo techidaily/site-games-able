@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-11-11T23:05:08.769Z
-updated: 2024-11-16T03:24:57.085Z
+date: 2024-11-17T20:55:28.363Z
+updated: 2024-11-24T21:32:42.478Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -27,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -41,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -58,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
@@ -69,16 +56,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -89,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -96,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  On the counter side, consumers run a risk from ever-encroaching payment models. Microtransactions have already been broadly accepted as one cost of modern gaming, they just go into the pockets of publishers rather than developers.
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When Tips Might Work
 
@@ -138,20 +124,15 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-illuminating-your-photos-with-iphones-hdr-capabilities/"><u>[Updated] Illuminating Your Photos with iPhone’s HDR Capabilities</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pc-macs-top-10-in-screencasting-capabilities-for-2024/"><u>[Updated] PC, Mac's Top 10 in Screencasting Capabilities for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/paralleled-youtube-gamers-intros-revealed-free-or-fee/"><u>12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>2024 Approved First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-hot-30i-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Hot 30i Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensive-guide-to-fixing-driver-not-starting-on-windows-11/"><u>Comprehensive Guide to Fixing Driver Not Starting on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-compelling-story-the-essentials-of-using-chatgpt-as-an-rpg/"><u>Crafting a Compelling Story: The Essentials of Using ChatGPT as an RPG</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/economical-yet-abundant-dive-into-the-extensive-collection-available-with-roku-express/"><u>Economical Yet Abundant: Dive Into the Extensive Collection Available with Roku Express</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-motorola-edge-40-neo-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Motorola Edge 40 Neo Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-social-and-multiplayer-worlds-subscribing-to-and-using-ea-play-on-ps5/"><u>Journey Through Social & Multiplayer Worlds: Subscribing to and Using EA Play on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/leveraging-the-power-of-steam-currency/"><u>Leveraging the Power of Steam Currency</u></a></li>
-<li><a href="https://games-able.techidaily.com/mmo-evolution-adaptation-and-survival-in-gaming-world/"><u>MMO Evolution: Adaptation & Survival in Gaming World</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fixes-to-enable-your-windows-scanner/"><u>Quick Fixes to Enable Your Windows Scanner</u></a></li>
-<li><a href="https://games-able.techidaily.com/running-ps3-titles-on-newer-ps-console/"><u>Running PS3 Titles on Newer PS Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-iphone-potential-for-high-end-gaming/"><u>Unleashing iPhone Potential for High-End Gaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[New] In 2024, From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-editing-powerhouses-top-9-simplified-video-tools-for-2024/"><u>[Updated] Free Editing Powerhouses Top 9 Simplified Video Tools for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-googles-console-style-gaming-experience-for-computer-use/"><u>Acquiring Google's Console-Style Gaming Experience for Computer Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-closing-outdated-windows-fix-load-errors/"><u>Avoid Closing Outdated Windows - Fix Load Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-robloxs-low-memory-warnings-tips-for-iphones/"><u>Avoiding Roblox's Low-Memory Warnings: Tips for iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-online-shooters-a-comprehensive-list-of-browser-based-games/"><u>Best Online Shooters: A Comprehensive List of Browser-Based Games</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dive-deep-into-powerdirector-comprehensive-guide-2024/"><u>Dive Deep Into PowerDirector Comprehensive Guide - 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronic-analysis-by-the-pros-at-toms-hardware-review/"><u>In-Depth Electronic Analysis by the Pros at Tom's Hardware Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-mobility-the-ultimate-guide-to-using-portable-driver-easy/"><u>Mastering Mobility: The Ultimate Guide to Using Portable Driver Easy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-creative-potential-effortless-backdrop-elimination-on-canvas-for-2024/"><u>Unleash Creative Potential Effortless Backdrop Elimination on Canvas for 2024</u></a></li>
 </ul></div>
 

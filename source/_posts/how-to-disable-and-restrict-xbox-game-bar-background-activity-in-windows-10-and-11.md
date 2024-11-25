@@ -1,7 +1,7 @@
 ---
 title: How to Disable and Restrict Xbox Game Bar Background Activity in Windows 10 and 11
-date: 2024-09-09T09:36:06.020Z
-updated: 2024-09-10T09:36:06.020Z
+date: 2024-11-18T14:04:57.044Z
+updated: 2024-11-24T19:23:12.034Z
 tags:
   - games
 categories:
@@ -19,17 +19,9 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
  If you want to save resources and improve game performance, you can turn off the feature in Windows 10 and restrict its background activity in Windows 11\. Below, we'll show you how to do just that.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable the Xbox Game Bar in Windows 10
 
  Windows 10 lets you disable the Xbox Game Bar completely. To do that, follow these steps:
@@ -41,11 +33,9 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
 
  Unlike Windows 10, Windows 11 does not offer an easy way to disable the Xbox Game Bar completely. Therefore, you will have to block the app from running in the background to save system resources. Here's how you can do that:
@@ -55,69 +45,38 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 3. Go to**Installed apps** on the right.  
 ![opening the list of installed apps to customize settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-list-of-installed-apps-to-customize-settings-1.jpg)
 4. Search**"Xbox"** in the search bar.
+
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Don't Let the Xbox Game Bar Drain Your System Resources
 
  The Xbox Game Bar is a helpful tool for gamers, but it can have an adverse effect on game performance. Hopefully, you now know how to completely disable the tool in Windows 10 and how to restrict its background activity in Windows 11 to reduce resource consumption.
 
  Once you stop the Xbox Game Bar from stressing your hardware, your games will run more smoothly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +85,16 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-friends-evaporation-identify-now/"><u>[Updated] In 2024, Instagram Friends Evaporation Identify Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-power-of-pause-effectively-responding-to-comments/"><u>[Updated] In 2024, The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-advanced-editing-techniques-for-immersive-video-in-premiere-pro/"><u>[Updated] Navigating Advanced Editing Techniques for Immersive Video in Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-1440p-monitors-the-ultimate-gaming-companion/"><u>Affordable 1440P Monitors: The Ultimate Gaming Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-game-experiene-the-top-9-reasons-to-use-steam-first/"><u>Elevating Game Experiene: The Top 9 Reasons to Use Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-pass-what-real-world-benefits-exist/"><u>GeForce Now Pass: What Real-World Benefits Exist?</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/real-time-ai-voice-changer-revolutionizing-communication/"><u>Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://games-able.techidaily.com/right-oled-monitor-decision-guide/"><u>Right OLED Monitor Decision Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a14-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A14 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 

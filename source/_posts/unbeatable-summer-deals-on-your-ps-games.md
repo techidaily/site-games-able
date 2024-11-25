@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Summer Deals on Your PS Games
-date: 2024-11-10T02:21:26.579Z
-updated: 2024-11-16T00:10:38.148Z
+date: 2024-11-20T02:34:04.186Z
+updated: 2024-11-25T14:23:20.971Z
 tags:
   - games
 categories:
@@ -29,31 +29,21 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
 
@@ -68,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -80,17 +67,29 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -103,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -130,18 +122,15 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/combat-profiles-hitbox-vs-streamer-supremacy/"><u>Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-steams-metrics-insights-on-playtime-and-points-earned/"><u>Demystifying Steam's Metrics: Insights on Playtime and Points Earned</u></a></li>
-<li><a href="https://win-community.techidaily.com/easy-conversion-tools-adapt-videos-for-flawless-playback-on-windows-media-player/"><u>Easy Conversion Tools: Adapt Videos for Flawless Playback on Windows Media Player</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-steam-cloud-connectivity-fails/"><u>Eliminating Steam Cloud Connectivity Fails</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-for-brother-hl-l23dw-printer-step-by-step-tutorial/"><u>Get the Latest Drivers for Brother HL-L23_DW Printer - Step by Step Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-collect-and-leverage-steam-credits/"><u>How to Collect and Leverage Steam Credits</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-infinix-gt-10-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Infinix GT 10 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/npc-neighbors-network-five-friendly-mc-gameplay-styles/"><u>NPC Neighbors' Network: Five Friendly MC Gameplay Styles</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-10-hang-issues-a-comprehensive-guide-to-get-it-running-smoothly-again/"><u>Solving Windows 10 Hang Issues: A Comprehensive Guide to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://games-able.techidaily.com/speaking-up-procedure-to-address-player-misconduct-xbox/"><u>Speaking Up: Procedure to Address Player Misconduct (Xbox)</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-controller-enabled-phone-games-selection/"><u>Top Controller-Enabled Phone Games Selection</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-undetected-steam-vr-devices-on-windowsmac/"><u>Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-luminous-leadership-elevating-content-through-insta-hits/"><u>[Updated] 2024 Approved Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-elevate-your-drone-game-with-these-top-mods/"><u>[Updated] In 2024, Elevate Your Drone Game with These Top Mods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inside-look-a-detailed-review-of-the-android-lightroom-app-for-2024/"><u>[Updated] Inside Look A Detailed Review of the Android Lightroom App for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-experience-with-game-pass-ultimate/"><u>Enhance Your Gaming Experience With Game Pass Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-following-components-are-required-error-on-windows-11-and-11/"><u>How to Fix the “Following Components Are Required” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-intel-graphics-drivers-easily/"><u>How to Update Intel Graphics Drivers. Easily!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12-pro-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12 Pro 4G Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-high-dpi-gamepad-marvels/"><u>Next-Gen High DPI Gamepad Marvels</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-top-switch-accessory-picks-2024-edition/"><u>Nintendo's Top Switch Accessory Picks: 2024 Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-and-stable-wi-fi-connection-tips-for-your-android-device/"><u>Secure and Stable Wi-Fi Connection Tips for Your Android Device</u></a></li>
 </ul></div>
 

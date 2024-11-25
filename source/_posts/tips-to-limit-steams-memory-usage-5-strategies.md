@@ -1,7 +1,7 @@
 ---
 title: "Tips to Limit Steam's Memory Usage: 5 Strategies"
-date: 2024-11-12T23:48:01.265Z
-updated: 2024-11-16T02:08:04.458Z
+date: 2024-11-23T22:30:45.970Z
+updated: 2024-11-25T02:08:32.337Z
 tags:
   - games
 categories:
@@ -36,10 +36,7 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Offline Mode
@@ -47,19 +44,24 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -95,23 +97,9 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
@@ -129,10 +117,7 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
@@ -154,17 +139,14 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-earhearer-live-sound-critique-for-2024/"><u>[Updated] EarHearer Live Sound Critique for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-unraveling-sierras-icloud-full-access-guide/"><u>2024 Approved Unraveling Sierra's iCloud Full Access Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-methods-for-repairing-the-netflix-ui-800-3-streaming-problem/"><u>Effective Methods for Repairing the Netflix UI-800-3 Streaming Problem</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-cosmos-an-in-depth-stellaris-game-guide/"><u>Exploring the Cosmos: An In-Depth Stellaris Game Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-10c-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark 10C Pattern Lock Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-to-know-your-gpu-understanding-the-specs-of-amds-radeon-xt/"><u>Get to Know Your GPU: Understanding the Specs of AMD's Radeon XT</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-virtual-world-offline-top-gaming-apps/"><u>Navigate the Virtual World Offline - Top Gaming Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-fixes-for-outdated-nvidia-on-windows-pc/"><u>Quick Fixes for Outdated NVIDIA on Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-guide-to-outsmarting-ny-times-influence-daily/"><u>The Guide to Outsmarting NY Times Influence Daily</u></a></li>
-<li><a href="https://win11.techidaily.com/the-guide-to-pairing-classic-gaming-and-windows-memories/"><u>The Guide to Pairing Classic Gaming and Windows Memories</u></a></li>
-<li><a href="https://games-able.techidaily.com/transformative-tactics-for-gaming-via-steam-modding-mastery/"><u>Transformative Tactics for Gaming via Steam Modding Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-executing-ps5-remote-reset/"><u>Understanding and Executing PS5 Remote Reset</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-epic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos/"><u>[New] Epic Soundscape Trending Audio for Cutting-Edge YouTube Short Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-g42-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Nokia G42 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/indulge-in-off-line-play-with-these-11-favorite-phone-games/"><u>Indulge in Off-Line Play with These 11 Favorite Phone Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-beeld-omzetter-konverteren-van-fotos-naar-jpgpngandere-formaten-online-gratis/"><u>Online Beeld Omzetter - Konverteren Van Fotos Naar JPG/PNG/Andere Formaten Online Gratis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcoming-common-pitfalls-in-job-interviews/"><u>Overcoming Common Pitfalls in Job Interviews</u></a></li>
+<li><a href="https://games-able.techidaily.com/reverse-usb-power-fluctuation/"><u>Reverse USB Power Fluctuation</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pdw4-a-hands-on-high-end-portable-pc/"><u>The PDW4: A Hands-On, High-End Portable PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-intriguing-attributes-of-todays-hit-games/"><u>Top Intriguing Attributes of Today’s Hit Games</u></a></li>
 </ul></div>
 

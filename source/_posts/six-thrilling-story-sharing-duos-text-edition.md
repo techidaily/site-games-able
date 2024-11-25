@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2024-11-14T22:07:44.293Z
-updated: 2024-11-16T00:32:12.370Z
+date: 2024-11-22T10:46:44.204Z
+updated: 2024-11-24T21:47:32.029Z
 tags:
   - games
 categories:
@@ -32,10 +32,7 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Story Builder
@@ -58,6 +55,10 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 I Spy
 
 Close
@@ -67,6 +68,10 @@ Close
  Begin by telling your opponent where you are to at least give them a fighting chance of succeeding. Then look around your environment until your eye fixes on something in particular. Your opponent then has to guess what thing you have spied, with only the first letter of the object to guess from.
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Song Lyrics
 
@@ -89,10 +94,7 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -105,13 +107,6 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7 Where Am I?
 
 Close
@@ -122,13 +117,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -138,6 +126,10 @@ Close
  One person names three people, be they celebrities or individuals you both know, and asks, "Kiss, Marry, Kill?" The other person then has to determine which of the three they would kiss, which they would marry, and which they would kill. All in jest, you understand. None of the three are actually going to happen.
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9 What If...?
 
@@ -176,22 +168,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-securely-save-your-favorite-facebook-films-on-chrome/"><u>[New] 2024 Approved Securely Save Your Favorite Facebook Films on Chrome</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-finest-racing-games-roundup-top-5-for-2024/"><u>[New] Finest Racing Games Roundup (Top 5) for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-best-fb-movie-grabs-8-edition-for-2024/"><u>[Updated] Unveiling the Best FB Movie Grabs #8 Edition for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726220813688-aacmp4-movavi/"><u>在线免费AAC到MP4格式转换: 使用 Movavi 提供出色服务</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/boost-your-gameplay-ultimate-guide-to-eliminate-fallout-eb-lags/"><u>Boost Your Gameplay - Ultimate Guide to Eliminate Fallout Eb Lags</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-winxp-games-the-power-of-dxvk-integration/"><u>Enhance WinXP Games: The Power of DXVK Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/everyday-tactics-for-circumventing-nyt-connections/"><u>Everyday Tactics for Circumventing NYT Connections</u></a></li>
-<li><a href="https://games-able.techidaily.com/fortnite-lovers-mac-users-uncover-the-restrictions/"><u>Fortnite Lovers, Mac Users! Uncover the Restrictions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-to-quickly-transforming-mxf-files-into-mov-on-various-platforms/"><u>Guide to Quickly Transforming MXF Files Into MOV on Various Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimized-multi-port-adapters-for-playstation-5-users/"><u>Optimized Multi-Port Adapters for PlayStation 5 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/rom-localization-made-simple-language-patch-guide/"><u>Rom Localization Made Simple: Language Patch Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-nine-crucial-nintendo-switch-tips/"><u>The Ultimate Guide: Nine Crucial Nintendo Switch Tips</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-ultimate-selection-of-compact-on-the-move-players/"><u>The Ultimate Selection of Compact, On-The-Move Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/this-app-lets-you-play-nintendo-classics-on-your-iphone-heres-how/"><u>This App Lets You Play Nintendo Classics on Your iPhone: Here's How</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/troubleshoot-hulus-dev318-issue-fast-expert-fixing-guide/"><u>Troubleshoot Hulu's DEV318 Issue Fast: Expert Fixing Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-xbox-golds-shift-to-game-pass-inclusion/"><u>Understanding Xbox Gold's Shift to Game Pass Inclusion</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c55-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-stabilize-your-lens-no-trips-only-tricks/"><u>[Updated] Stabilize Your Lens No Trips, Only Tricks</u></a></li>
+<li><a href="https://media-tips.techidaily.com/another-jump-coming-soon-spotify-readies-upcoming-subscription-fee-boost/"><u>Another Jump Coming Soon: Spotify Readies Upcoming Subscription Fee Boost</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-hype-will-nvidias-new-passage-make-gaming-better/"><u>Beyond Hype, Will Nvidia's New Passage Make Gaming Better?</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-intel-stream-assist-a-game-enhancing-tool/"><u>Breaking Down Intel Stream Assist - A Game-Enhancing Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/camouflage-gaming-on-steam/"><u>Camouflage Gaming on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/case-studies-highlighting-successful-map-designs-that-effectively-integrate-functional-mapping-elements-with-aesthetic-considerations-eg-signage-in-public-s5/"><u>Case Studies Highlighting Successful Map Designs that Effectively Integrate Functional Mapping Elements with Aesthetic Considerations (E.g., Signage in Public Spaces).</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-11-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-avoiding-audible-distractions-silencing-audio-in-current-avi-updates/"><u>New Avoiding Audible Distractions Silencing Audio in Current AVI Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidias-best-in-class-gaming-drivers-now-available-free-download-for-windows/"><u>NVIDIA's Best-in-Class Gaming Drivers Now Available: Free Download for Windows</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-guide-to-the-finest-windows-computers-thoroughly-tested-and-critiqued-zdnet/"><u>Ultimate Guide to the Finest Windows Computers - Thoroughly Tested & Critiqued | ZDNET</u></a></li>
 </ul></div>
 

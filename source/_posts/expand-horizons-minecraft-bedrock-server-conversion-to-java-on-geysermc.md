@@ -1,7 +1,7 @@
 ---
 title: "Expand Horizons: Minecraft Bedrock Server Conversion to Java on GeyserMC"
-date: 2024-09-09T09:34:00.446Z
-updated: 2024-09-10T09:34:00.446Z
+date: 2024-11-18T18:32:49.319Z
+updated: 2024-11-24T22:16:31.071Z
 tags:
   - games
 categories:
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ## Expand Horizons: Minecraft Bedrock Server Conversion to Java on GeyserMC
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?](#why-can-39-t-minecraft-bedrock-players-join-minecraft-java-servers-normally)
@@ -27,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Minecraft Java and Bedrock editions are written in different programming languages, but the GeyserMC mod allows Bedrock players to join Java servers.
@@ -46,22 +32,14 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit: Jhet Borja/MUO
 
  You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
@@ -76,18 +54,6 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Jhet Borja
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
@@ -110,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
@@ -124,18 +94,6 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
@@ -145,41 +103,23 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Limitations of the GeyserMC Mod
 
  While Minecraft Java and Bedrock Edition are quite similar, there are major differences that the GeyserMC Mod creators can’t do anything about.
@@ -190,14 +130,11 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
  While it has limitations, this can rarely get in the way of having fun. Now you don’t have to be worried that you and your friend have different versions of Minecraft. We hope this guide has helped you enjoy Minecraft with your friends no matter what they’re playing on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,4 +143,23 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-facebook-video-downloader-application-for-mobilewinmac/"><u>[New] 2024 Approved 2023 | Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-step-by-step-maximizing-fb-video-area/"><u>[New] In 2024, Step by Step Maximizing Fb Video Area</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premier-10-lenses-for-superior-image-capture/"><u>[Updated] In 2024, Premier 10 Lenses for Superior Image Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-the-theme-of-your-ps5/"><u>Adapting the Theme of Your PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-vs-you-discover-top-6-challenging-online-chess-platforms/"><u>AI vs You: Discover Top 6 Challenging Online Chess Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-you-putting-too-much-emphasis-on-steam-points/"><u>Are You Putting Too Much Emphasis on Steam Points?</u></a></li>
+<li><a href="https://games-able.techidaily.com/astral-artisan-examining-emerging-pc-brands/"><u>Astral Artisan: Examining Emerging PC Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/backtracking-xbox-series-xs-controller-update/"><u>Backtracking Xbox Series X/S Controller Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-titans-on-a-tech-platform-batocera-vs-retropie/"><u>Battle of Titans on a Tech Platform: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-11-affordable-word-game-apps-for-smartphones/"><u>Best 11 Affordable Word Game Apps for Smartphones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1630723-9781776530601-book-of-wise-sayings/"><u>Book of Wise Sayings | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-t2x-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo T2x 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-transform-your-videos-easy-editing-with-microsoft-video-editor-on-windows-for-2024/"><u>New Transform Your Videos Easy Editing with Microsoft Video Editor on Windows for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-airpod-disconnection-woes-a-comprehensive-guide-for-iphone-users/"><u>Overcome AirPod Disconnection Woes: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/swift-download-hp-stream-graphics-driver-set/"><u>Swift Download: HP Stream Graphics Driver Set</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-and-paid-video-editing-apps-for-kids-a-parents-guide/"><u>Updated 2024 Approved Free and Paid Video Editing Apps for Kids A Parents Guide</u></a></li>
+</ul></div>
 

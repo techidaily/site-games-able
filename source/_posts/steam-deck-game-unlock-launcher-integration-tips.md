@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck Game Unlock: Launcher Integration Tips"
-date: 2024-11-09T00:05:52.773Z
-updated: 2024-11-16T00:09:18.693Z
+date: 2024-11-17T19:27:12.843Z
+updated: 2024-11-25T03:14:20.920Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 ![screenshot of Lutris in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_lutris_in_discover_store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because the Steam Deck natively runs on a Linux operating system, the availability of different game launchers can get a bit muddy.
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
@@ -35,16 +39,13 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 Instead, we have solutions designed specifically for the Steam Deck.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Heroic Games Launcher for GOG Galaxy, Epic Games Launcher, and Amazon Games
 
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
@@ -61,10 +62,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
@@ -77,16 +75,13 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
@@ -100,16 +95,13 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of ubisoft connect in steam list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_ubisoft_connect_in_steam_list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the installation script has finished, you'll find a new shortcut added to your Steam games list. All you have to do is launch this shortcut to gain access to your chosen launcher.
 
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
 
@@ -130,22 +122,18 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-creators-primer-to-understanding-major-content-providers/"><u>[New] 2024 Approved A Creator's Primer to Understanding Major Content Providers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-best-of-the-best-a-ranked-list-of-top-10-video-call-apps/"><u>[New] In 2024, Best of the Best A Ranked List of Top 10 Video Call Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-computing-efficiency-are-you-bottlenecked-by-cpu/"><u>Assessing Computing Efficiency: Are You Bottlenecked by CPU?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-content-the-leading-online-television-recordings/"><u>Capturing Content The Leading Online Television Recordings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-subscription-management-for-x-boosted-gaming/"><u>Decoding Subscription Management for X Boosted Gaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/diverse-tricks-to-fire-up-your-favorite-apps-on-windows/"><u>Diverse Tricks to Fire Up Your Favorite Apps on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-these-best-5-iphone-podcast-platforms-now-for-2024/"><u>Explore These Best 5 iPhone Podcast Platforms Now for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-mode-apples-answer-to-optimized-gaming-on-macos-sonoma/"><u>Game Mode: Apple's Answer to Optimized Gaming on macOS Sonoma</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-link-ps-gaming-devices-with-nintendo-switch/"><u>How to Link PS Gaming Devices with Nintendo Switch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-telegram-web-usage-tips-and-tricks/"><u>In 2024, Comprehensive Telegram Web Usage Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-get-final-cut-pro-for-free/"><u>In 2024, How to Get Final Cut Pro for Free</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-your-creative-talent-with-these-7-game-based-skills/"><u>Master Your Creative Talent with These 7 Game-Based Skills</u></a></li>
-<li><a href="https://games-able.techidaily.com/on-the-move-gamers-checklist-nine-key-items/"><u>On-the-Move Gamer's Checklist: Nine Key Items</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-personalized-sound-experience-via-headsets/"><u>Secure Personalized Sound Experience via Headsets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions-for-2024/"><u>Unlocking the Full Potential of YouTube Video Interactions for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-mobile-gaming-adventure-begins-here-with-7-essentials/"><u>Your Mobile Gaming Adventure Begins Here, With 7 Essentials</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-mobile-studio-kits-convenient-for-filmmakers-for-2024/"><u>[New] Mobile Studio Kits Convenient for Filmmakers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1440p-gaming-monitor-buying-guide-budget-friendly-options/"><u>1440P Gaming Monitor Buying Guide - Budget-Friendly Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-old-gaming-pics-on-windows-11-easy-guide/"><u>Access Old Gaming Pics on Windows 11 Easy Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/behemoth-performance-2500-msi-raider-hx-showdown/"><u>Behemoth Performance: $2500 MSI Raider HX Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-controllers-six-ways-to-game-on-ps5/"><u>Beyond Controllers: Six Ways to Game on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-game-experience-playing-on-an-external-storage-device-via-steam/"><u>Boosting Your Game Experience: Playing on an External Storage Device via Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaching-barriers-for-early-starfield-entry-passes/"><u>Breaching Barriers for Early Starfield Entry Passes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-enjoy-depth-effect-at-iphone-xsxr-lock-screen-in-ios-16-here-are-7-fixes-to-try-now/"><u>Can't Enjoy Depth Effect at iPhone XS/XR Lock Screen in iOS 16? Here Are 7 Fixes to Try Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-no-stress-just-peaceful-pc-gaming/"><u>In 2024, No Stress, Just Peaceful PC Gaming</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maximizing-gpu-performance-with-quadro-cards-on-an-open-source-linux-pc-mid-tower-build-guide/"><u>Maximizing GPU Performance with Quadro Cards on an Open Source Linux PC - Mid Tower Build Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/success-story-how-we-overcame-teredo-qualification-problems/"><u>Success Story: How We Overcame Teredo Qualification Problems</u></a></li>
 </ul></div>
 

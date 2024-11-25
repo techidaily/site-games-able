@@ -1,7 +1,7 @@
 ---
 title: How to Connect and Sync an Xbox One Controller
-date: 2024-11-08T18:00:19.526Z
-updated: 2024-11-15T23:18:25.017Z
+date: 2024-11-20T20:38:21.699Z
+updated: 2024-11-24T22:59:07.308Z
 tags:
   - games
 categories:
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
  Once you've paired your Xbox controller successfully, you can use it to navigate the home screen and play games. You'll see the current battery level at the top-right of the menu on the Xbox dashboard.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Pair Your Xbox One Controller Using a Cable
 
  If you'd rather, you can instead use a micro-USB cable to pair your Xbox One controller to your Xbox console. For the Xbox Series X|S controller, you'll need to use a USB-C cable instead.
@@ -57,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 ![Xbox One Controller Connected Cable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/07/Xbox-One-Controller-Connected-Cable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Sync an Xbox Controller to Your PC
@@ -68,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  We've written a full guide explaining[how to connect your Xbox controller to a Windows PC](https://www.makeuseof.com/tag/connect-xbox-one-controller-pc/) . Follow those steps to use your existing Xbox One or Xbox Series X|S controller with your favorite PC games.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I Use Xbox Series X|S Controllers on Xbox One?
@@ -83,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  Since the controllers are almost the same, you aren't missing out on anything major by using the older Xbox One controller with an Xbox Series X|S. The Xbox One controller lacks the dedicated**Share** button on the new controller, but that's not essential for gameplay. The only other improvements, aside from USB-C charging, are better grip textures and an improved D-pad.
 
  See our[guide to using Xbox One controllers on the Xbox Series X|S](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) for more info.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can't Connect Your Xbox One Controller?
 
@@ -96,16 +87,7 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 ![White Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/white-xbox-controller.png)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Remember that you can only have eight controllers connected to the system at once. If you somehow have this many connected, disconnect a few before connecting another. You can turn off a controller by holding the Xbox button for several seconds until the light on this button goes out.
@@ -116,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
  Try fully shutting down and unplugging any other Xbox One or Xbox Series X|S systems in your vicinity to avoid this overlap. This also applies if you're trying to connect an Xbox One controller to a PC when the controller is already paired with your nearby console, or vice-versa.
 
  If you continue to have problems, take a look at[troubleshooting help for your Xbox One controller](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Still Having Trouble? Try Fixing Your Xbox Controller
 
@@ -138,18 +124,22 @@ thumbnail: https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c32958
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-translate-speech-to-text-with-ultimate-accuracy-thanks-to-google/"><u>[New] 2024 Approved Translate Speech to Text with Ultimate Accuracy, Thanks to Google</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-6-tools-for-saving-linkedin-videos-effortlessly/"><u>[New] Top 6 Tools for Saving LinkedIn Videos Effortlessly</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-navigating-screen-space-enlargement-on-youtube/"><u>2024 Approved Navigating Screen Space Enlargement on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-conscious-ultra-high-precision-gaming-screens/"><u>Budget-Conscious, Ultra-High Precision Gaming Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168855962-enhance-performance-install-latest-nvidia-drivers-now/"><u>Enhance Performance! Install Latest Nvidia Drivers Now.</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-your-review-format-for-steam-games/"><u>Perfecting Your Review Format for Steam Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/remediation-techniques-for-low-end-display-effects/"><u>Remediation Techniques for Low-End Display Effects</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/section-3c-qandas-on-biocompatibility/"><u>Section 3C: Q&As on Biocompatibility</u></a></li>
-<li><a href="https://some-skills.techidaily.com/step-by-step-guide-to-drm-removal-from-ebook-pages/"><u>Step-by-Step Guide to DRM Removal From eBook Pages</u></a></li>
-<li><a href="https://games-able.techidaily.com/sweep-the-screen-with-savvy-tetris-techniques/"><u>Sweep the Screen with Savvy Tetris Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-wave-in-innovation-preview-of-google-pixel-fold-2-estimated-specs-pricing-and-release-window/"><u>The Next Wave in Innovation: Preview of Google Pixel Fold 2 – Estimated Specs, Pricing & Release Window</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-from-screen-to-controller-for-fallout-gaming/"><u>Transition From Screen to Controller for Fallout Gaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/vlc-screen-recorder-review-and-using-guide/"><u>VLC Screen Recorder Review and Using Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-high-res-gaming-the-best-screen-capture-options/"><u>[New] 2024 Approved High-Res Gaming The Best Screen Capture Options</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update/"><u>[Updated] How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-questions-on-vlc-player-mac-integration/"><u>[Updated] Top Questions on VLC Player Mac Integration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-best-4-free-web-based-calendar-tools-available-today/"><u>Discover the Best 4 Free Web-Based Calendar Tools Available Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-exploration-made-simple-with-these-7-complimentary-ai-driven-itinerary-crafting-tools/"><u>Effortless Exploration Made Simple with These 7 Complimentary, AI-Driven Itinerary Crafting Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-mousekeyboard-sharing-on-steam-deck-protected-by-barriers/"><u>Enabling Mouse/Keyboard Sharing on Steam Deck Protected by Barriers</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-quality-augmented-reality-glasses-at-a-low-price-the-arcshell-ar-5-unveiled/"><u>High Quality Augmented Reality Glasses at a Low Price: The ArcShell AR-5 Unveiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-g2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo G2</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-game-design-with-gpt-6-proven-approaches-for-dandd-masters/"><u>Innovative Game Design with GPT: 6 Proven Approaches for D&D Masters</u></a></li>
+<li><a href="https://games-able.techidaily.com/investment-shields-for-your-2024-portable-pc/"><u>Investment Shields for Your 2024 Portable PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-reconnect-to-the-web/"><u>Nintendo Switch: Reconnect to the Web</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/spotlight-secrets-perfecting-vlogger-lights-for-2024/"><u>Spotlight Secrets Perfecting Vlogger Lights for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-and-gog-the-battle-of-digital-game-platforms/"><u>Steam & GOG: The Battle of Digital Game Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-subscribing-to-apple-arcade-for-portable-play/"><u>The Game-Changer: Subscribing to Apple Arcade for Portable Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-guide-for-persistent-pc-crashes-in-samurai-warriors-5/"><u>Troubleshooting Guide for Persistent PC Crashes in Samurai Warriors 5</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a15-4g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A15 4G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

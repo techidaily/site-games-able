@@ -1,7 +1,7 @@
 ---
 title: Customize In-Game Overlay Display on Discord
-date: 2024-11-09T18:39:19.434Z
-updated: 2024-11-15T17:43:37.290Z
+date: 2024-11-18T17:26:32.078Z
+updated: 2024-11-24T21:44:24.496Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Discord Overlay
 
  To use the Discord overlay in a game, you must enable the feature in Discord. The app must also recognize the game you want to use the overlay in.
@@ -33,6 +37,10 @@ To turn on the Discord overlay, follow these steps:
 2. Navigate to the**Game Overlay** tab in the left sidebar.
 3. Turn on the toggle next to**Enable in-game overlay** .  
 ![Enabling Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-turn-on-the-toggle-next-to-enable-in-game-overlay-option-in-discord-s-game-overlay-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right next to the toggle, you'll find a keyboard shortcut for turning the overlay on or off. If you want to change it, click on it and press the shortcut keys on your keyboard.
 
@@ -52,13 +60,6 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the Discord Overlay During Gaming
 
  Once you have enabled the overlay, you'll get a notification for every incoming text or call, even when playing the game in full screen.
@@ -68,19 +69,13 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable the Discord In-Game Overlay
@@ -94,18 +89,15 @@ Follow these steps to disable the in-game overlay:
 3. Turn off the toggle next to**Enable in-game overlay** .  
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Keep Track of Conversations Through Discord Overlay
 
@@ -126,22 +118,24 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instasoul-unleash-your-essence-through-100-dynamic-captions/"><u>[New] In 2024, InstaSoul Unleash Your Essence Through 100 Dynamic Captions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-professional-photography-with-canons-complimentary-luts/"><u>[New] In 2024, Professional Photography with Canon's Complimentary LUTs</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>[New] Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-iphoneipad-premium-podcast-recording-tips-for-2024/"><u>[Updated] Mastering iPhone/iPad Premium Podcast Recording Tips for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-sensible-reasons-to-choose-a-regular-pc-screen-over-hdr/"><u>6 Sensible Reasons to Choose a Regular PC Screen Over HDR</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/audio-not-working-on-laptopdesktop-heres-how-to-turn-it-on-easily/"><u>Audio Not Working on Laptop/Desktop? Here's How to Turn It On Easily</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/batch-rename-made-easy-the-powerof-tools-guide/"><u>Batch-Rename Made Easy: The PowerOf Tools Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/connecting-consumers-and-companies-with-facebooks-new-initiative/"><u>Connecting Consumers and Companies with Facebook’s New Initiative</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-discord-on-a-mac/"><u>How to Install Discord on a Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-joy-con-replacement-effortlessly/"><u>Navigate Joy-Con Replacement Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-user-accessibility-with-nintendo-switch-accounts/"><u>Optimizing User Accessibility with Nintendo Switch Accounts</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fixes-for-xbox-gold-membership-cost-surge/"><u>Quick Fixes for Xbox Gold Membership Cost Surge</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revive-mouse-functionality-in-windows-environments/"><u>Revive Mouse Functionality in Windows Environments</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-unresponsive-wired-xbox-to-pc/"><u>Reviving Unresponsive Wired Xbox to PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/tracing-back-to-origins-foddian-games/"><u>Tracing Back to Origins: Foddian Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-top-6-gamified-chatgpt-experiences/"><u>Unveiling: Top 6 Gamified ChatGPT Experiences!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-capturing-a-full-view-iphone-filming-secrets-for-social-feeds-for-2024/"><u>[New] Capturing a Full View IPhone Filming Secrets for Social Feeds for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-virtual-quest-a-jaunt-vr-exploration/"><u>[Updated] 2024 Approved The Virtual Quest A Jaunt VR Exploration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-inverted-illusions-the-art-of-rotating-visuals-for-social-media-success/"><u>[Updated] Inverted Illusions The Art of Rotating Visuals for Social Media Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-comprehensive-degree-of-view-analysis/"><u>2024 Approved Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-for-choosing-your-next-game-console/"><u>Essential Factors for Choosing Your Next Game Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-11-steam-disconnect-glitch/"><u>Fixing Windows 11 Steam Disconnect Glitch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-guide-to-enhancing-youtube-content-post-upload/"><u>In 2024, Essential Guide to Enhancing YouTube Content Post-Upload</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-12-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi 12 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-transform-your-content-with-the-best-3d-video-generators-for-2024/"><u>New Transform Your Content with the Best 3D Video Generators for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-eternal-hygiene-controller-and-console-care/"><u>PlayStation Eternal Hygiene: Controller & Console Care</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-collage-creation-a-step-by-step-guide-for-google-images-for-2024/"><u>Quick Collage Creation A Step-by-Step Guide for Google Images for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/saturation-savvy-professionals-secrets-revealed/"><u>Saturation Savvy Professionals' Secrets Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/starforge-voyager-creator-is-this-custom-gaming-pc-brand-worth-checking-out/"><u>Starforge Voyager Creator: Is This Custom Gaming PC Brand Worth Checking Out?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insider-guide-to-changing-gamer-identities-on-riot-platforms/"><u>The Insider Guide to Changing Gamer Identities on Riot Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-android-setup-for-dreamcast-games-lovers/"><u>The Perfect Android Setup for Dreamcast Games Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upsurge-of-infiltration-in-game-realms/"><u>The Upsurge of Infiltration in Game Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-pc-potential-with-4-major-upgrades-from-corsairs-icue-link/"><u>Unleash PC Potential with 4 Major Upgrades From Corsair's iCUE Link</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-pros-and-cons-ais-pivotal-role-in-creative-endeavors/"><u>Unraveling Pros and Cons: AI’s Pivotal Role in Creative Endeavors</u></a></li>
 </ul></div>
 

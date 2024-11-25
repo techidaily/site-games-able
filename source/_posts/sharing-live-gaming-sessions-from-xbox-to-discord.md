@@ -1,7 +1,7 @@
 ---
 title: Sharing Live Gaming Sessions From Xbox to Discord
-date: 2024-11-08T18:33:27.415Z
-updated: 2024-11-15T17:32:09.970Z
+date: 2024-11-22T12:55:42.982Z
+updated: 2024-11-25T07:02:42.804Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
  If you already[use Discord voice chat on your Xbox console](https://www.makeuseof.com/use-discord-voice-chat-xbox-console/) , your accounts should be linked and ready to go. However, if you're new to using Discord on Xbox, the process to link your accounts is simple as long as you have a pre-existing Discord account.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Discord on Your Xbox
 
  If you're new to using Discord on Xbox, you'll need to ensure your Xbox and Discord accounts are linked before you try to stream gameplay. And while you can[link social media sites like Twitter and Twitch to your Xbox](https://www.makeuseof.com/xbox-how-to-link-social-accounts/) , to link and set up Discord on your Xbox Series X|S, follow these steps:
@@ -53,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 * Under**Account** , choose**Linked social accounts** .
 
 ![A screenshot of the Account settings available on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linked-social-accounts.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * From here, find the**Discord** tab and select**Link** .
 
@@ -67,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
  However, while the features for Discord on Xbox are plentiful, it's best to support your experience of Discord on Xbox with the official Discord app. If you want to[find and join some of the best Discord Servers](https://www.makeuseof.com/tag/how-to-find-best-discord-servers/) or even manage your servers and accounts, you're best doing so on the Discord app: it is not supported on Xbox.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Stream Games Using Discord on Xbox
 
  Now that your Discord account is linked to your Xbox, and as long as you are an applicable Xbox Insider, you're ready to start streaming games from Xbox to Discord.
@@ -79,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 ![A screenshot of the Parties and Chats menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/parties-and-chats.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Choose the**Server** you want to stream from, followed by the specific**Voice channel** .
@@ -90,27 +88,21 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 ![A screenshot of the available Discord Voice Channels for an Xbox account on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/discord-voice-channels.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * From here, select**Stream your game** .
 
 ![A screenshot of the Guide menu options for a Discord Voice Channel on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-streaming-initial.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Choose your streaming preferences by altering**Stream settings** .
 * Finally, select**Start streaming** .
 
 ![A screenshot of the Stream Settings for Discord on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stream-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  And with**Start streaming** selected, Discord will stream any game you play directly to the Discord Voice Channel of your choice. You can even alter your**Stream settings** throughout the stream by re-entering the**Discord** menu on the**Parties & chats** screen.
 
@@ -137,20 +129,22 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-step-by-step-guide-to-posting-on-instagram/"><u>[New] 2024 Approved A Step-by-Step Guide to Posting on Instagram</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-cloud-savings-guide-comparing-costs-and-top-deals/"><u>[Updated] Cloud Savings Guide Comparing Costs & Top Deals</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat-for-2024/"><u>[Updated] Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-your-ideal-gaming-ambiance-customize-xboxs-refresh-rate/"><u>Crafting Your Ideal Gaming Ambiance: Customize Xbox's Refresh Rate</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-steam-user-alias-digitally/"><u>Deciphering the Steam User Alias Digitally</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-a18-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo A18</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-m14-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy M14 4G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-spot-and-dispose-of-malware-in-your-windows-system-efficiently/"><u>How to Spot and Dispose of Malware in Your Windows System Efficiently</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Without Passcode?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone XS? How to Fix it?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 6s</u></a></li>
-<li><a href="https://games-able.techidaily.com/mts-and-their-place-in-elite-video-games/"><u>MTs and Their Place in Elite Video Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/preserve-ps5s-efficiency-time-it-well/"><u>Preserve PS5’s Efficiency: Time It Well</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-potential-essential-fps-configurations/"><u>Unlock Your Potential: Essential FPS Configurations</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-to-top-quality-1440p-gaming-screens-without-breaking-your-piggy-bank/"><u>Unlocking the Secrets to Top Quality 1440P Gaming Screens Without Breaking Your Piggy Bank</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-recording-gear-for-environmentalists/"><u>[New] Essential Recording Gear for Environmentalists</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-avoiding-pitfalls-securing-your-skype-recordings-in-obs/"><u>[New] In 2024, Avoiding Pitfalls Securing Your Skype Recordings in OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-edit-with-ease-10-video-to-mp3-tools-of-the-trade/"><u>[Updated] In 2024, Edit with Ease #10 Video-to-Mp3 Tools of the Trade</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-hit-parade-the-top-10-songs-on-spotify/"><u>[Updated] In 2024, Hit Parade The Top 10 Songs on Spotify</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-revenue-breakdown-cpm-insights/"><u>[Updated] YouTube Revenue Breakdown CPM Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-beyerdynamics-mmx-200-masterpiece/"><u>Delving Into Beyerdynamic's MMX 200 Masterpiece</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-visuals-for-gamers-165hz-class/"><u>Elite Visuals for Gamers, 165Hz Class</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-gameplay-controllers-and-buttons-on-android/"><u>Enhancing Your Gameplay: Controllers and Buttons on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-give-old-games-access-to-the-my-pictures-folder-on-windows-11/"><u>How to Give Old Games Access to the My Pictures Folder on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic5-ultimate-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic5 Ultimate Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reawakening-your-playstation-4-with-a-system-reset/"><u>Reawakening Your PlayStation 4 with a System Reset</u></a></li>
+<li><a href="https://games-able.techidaily.com/sweat-and-smile-top-7-sports-gaming-hits-for-iphone-and-android/"><u>Sweat & Smile: Top 7 Sports Gaming Hits for iPhone and Android</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/syma-x8-series-flyer-test-flight-budget-friendly-indoor-drone-experience/"><u>Syma X8 Series Flyer Test Flight: Budget-Friendly Indoor Drone Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-6-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 6 You Should Try Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-edge-in-online-gaming-best-fps-browser-games-revealed/"><u>The Ultimate Edge in Online Gaming: Best FPS Browser Games Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ps-vr-2-extras-guide/"><u>Ultimate PS VR 2 Extras Guide</u></a></li>
 </ul></div>
 

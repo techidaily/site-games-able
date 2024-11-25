@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Launching Games via EmuDeck on Steam Deck"
-date: 2024-09-09T09:37:27.683Z
-updated: 2024-09-10T09:37:27.683Z
+date: 2024-11-20T00:18:49.826Z
+updated: 2024-11-25T07:16:33.372Z
 tags:
   - games
 categories:
@@ -12,30 +12,16 @@ keywords: Steam Deck Gaming Guide,Emulated Titles for Steam Deck,Launch Game Ste
 thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a77042379632f2075c2e5462803d44d042.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step-by-Step: Launching Games via EmuDeck on Steam Deck
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Should You Use EmuDeck to Emulate Games on Steam Deck?](#should-you-use-emudeck-to-emulate-games-on-steam-deck)
 * [How to Set Up EmuDeck on a Steam Deck](#how-to-set-up-emudeck-on-a-steam-deck)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,22 +31,10 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
  You've probably heard plenty about how great the Steam Deck is as an emulation platform, but how do you actually get the emulators up and running? Let's take a look at how to play emulated games on the Steam Deck using EmuDeck.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Use EmuDeck to Emulate Games on Steam Deck?
 
 ![screenshot of the main emudeck screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The first decision you'll need to make is which emulator to use. For this guide, we chose EmuDeck. For most users, this is an easy option because of the convenience of the platform.
 
  EmuDeck manages the installation and folder structure for emulators. Keeping in mind that the Steam Deck utilizes a Linux-based operating system by default, having these aspects managed for you can be a huge help.
@@ -70,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  Are there any downsides to EmuDeck? The main downside is that you'll likely get many more emulators installed than you plan on using. Thankfully, these can be uninstalled and trimmed down after initial setup.
 
  If you prefer to install emulators individually, you'll find most of them on the Discover store. If you like the sound of EmuDeck, we'll cover the next steps involved in setting it up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up EmuDeck on a Steam Deck
 
@@ -91,12 +69,6 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 ![screenshot of the emudeck set up screen showing a selection between easy mode or custom mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_setup_easymode_or_custommode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 We'll choose easy mode, as it's the most straightforward.
 
  The rest of the options are fairly self-explanatory. You'll have the option to choose between installing EmuDeck on your internal storage or an SD card. You'll also be provided a list of emulators you wish to install. Installing all of them will have a minimal impact on space, so feel free to do so if you want to avoid installing any emulators down the line.
@@ -124,31 +96,21 @@ We'll choose easy mode, as it's the most straightforward.
 ![Screenshot of EmuDeck DuckStation page showing that BIOS files are needed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_duckstation_bios_files_needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Keep in mind that the Steam Deck has no native feature for transferring files from other devices. You will need to use hardware adapters to plug in a storage device like a USB drive or find alternative means to transfer the files over.
 
  With that, you have everything you need to get the emulation going. There's still one more step to completing the Steam Deck emulation experience, though.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Add Emulators to Your Steam Deck's Gaming Mode
 
 ![screenshot of emulator categories on the steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emulators_on_steam_deck.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So now you have a bunch of emulators installed. But you don't really want to launch into desktop mode every time you want to play them.
 
  EmuDeck has its own solution to this problem. Under the**Tools & Stuff** category in EmuDeck, you'll see something called the**Steam ROM Manager.** Launch this option, making sure to hit**Yes** on the warning message.
@@ -156,11 +118,9 @@ We'll choose easy mode, as it's the most straightforward.
 ![screenshot of the emudeck main screen showing steam rom manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_main_screen_showing_steam_rom_manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Steam ROM Manager automates the process of adding shortcuts to your Steam library, meaning that they can be launched from gaming mode. Specifically, it will scan your emulation library and add individual games as shortcuts.
 
  This means you will need to already have your ROMs copied over before this option will do anything. Once you do, it's as easy as hitting**Preview** and then**Parse.**
@@ -169,18 +129,19 @@ We'll choose easy mode, as it's the most straightforward.
 
 ![Screenshot of EmuDeck's Steam ROMS manager displaying several Switch games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_emudeck_steam_roms_manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you're ready to play an emulated game on your Steam Deck, select an emulated game shortcut to get right into it. If you launch a shortcut and an emulator pops up instead, don't worry. It may take a few seconds to redirect from the emulator to the game.
 
  While that may seem like a hassle, a big benefit of EmuDeck is that it's set-and-forget. If you manage to get it working, it will stay working. The platform lets you enjoy emulating games on your Steam Deck in a user-friendly way.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -189,4 +150,18 @@ We'll choose easy mode, as it's the most straightforward.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/2024gif/"><u>2024年度の最新版:優れた高解像度GIF作成ツールをご紹介</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-play-8t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Play 8T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cooking-up-healthiness-can-chatgpt-be-your-dietary-mentor/"><u>Cooking Up Healthiness: Can ChatGPT Be Your Dietary Mentor?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-look-new-and-improved-steam-deck-covers-24/"><u>Fresh Look: New and Improved Steam Deck Covers '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-perk-predicament-which-console-service-wins/"><u>Gaming Perk Predicament: Which Console Service Wins?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-proceed-with-a-digital-xbox-seriess-reimbursement/"><u>How to Proceed with a Digital Xbox Series/S Reimbursement</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-class-skew-your-pictures/"><u>In 2024, Master Class Skew Your Pictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/mapping-out-uncharted-digital-territories/"><u>Mapping Out Uncharted Digital Territories</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-the-vanishing-game-issue-on-egs-digital-shelf/"><u>Solving the Vanishing Game Issue on EG's Digital Shelf</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-restoring-connection-between-pc-and-disconnected-bluetooth-keyboard/"><u>Step-by-Step Solution: Restoring Connection Between PC and Disconnected Bluetooth Keyboard</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-7-techniques-to-successfully-merge-videoclips-in-windows-10-operating-system/"><u>Top 7 Techniques to Successfully Merge Videoclips in Windows 10 Operating System</u></a></li>
+</ul></div>
 

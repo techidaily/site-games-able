@@ -1,7 +1,7 @@
 ---
 title: Keep Your Xbox S Connection Unhindered
-date: 2024-11-13T16:24:25.597Z
-updated: 2024-11-15T16:54:15.345Z
+date: 2024-11-19T20:04:39.314Z
+updated: 2024-11-25T05:20:40.616Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Update your Xbox Series X controller and console to fix disconnection issues. Check for firmware updates in the settings menu.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  Is your Xbox Series X controller randomly disconnecting from your console? Do you find you're losing control of the game at crucial moments because your controller has simply stopped working? We're here to help.
 
  You may be one of the Xbox Series X owners whose joypads are falling foul of a controller disconnection error. If so, here are several ways you may be able to solve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Xbox Series X Controller Issue?
 
@@ -44,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update Your Xbox Series X Console
@@ -59,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  This should happen automatically, but if you have your console set up for manual updates and haven't played for a while, you should install the latest Xbox system software ASAP. This means you will have all the relevant security patches and so on. However, updates like this can iron out any issues, such as controller drift.
 
  To[update your Series X or Series S](https://www.makeuseof.com/how-to-update-xbox-series-x-series-s/) console, go to **Profile & system > Settings > System > Updates** . If a console update is available, it will say so next to your console on this settings page. Just update your console, as this might resolve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset and Re-Sync Your Series X Controller
 
@@ -99,16 +108,7 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 ![Batteries inside an Xbox controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/batteries-inside-an-xbox-controller.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  More often than not, if your Xbox controller is low on battery, it will disconnect, blink for a couple of seconds, and turn off when you're actively playing a game. You can power it back on immediately, but it will only work for a minute or less before disconnecting and turning off again.
@@ -117,23 +117,9 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  To access and swap the AA batteries, all you need to do is push the battery cover below the controller upwards and pull either end of each battery outwards. Then, put the new ones back in and snap the battery cover in place.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Use an Xbox One Controller
 
 ![Xbox One controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-One-Pad.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Did you know you can[connect an Xbox One controller to your Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) ? Thanks to backward compatibility, the Xbox One joypad functions almost exactly the same way as a Series X controller.
 
@@ -144,16 +130,7 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Game Without Your Xbox Series X Controller Disconnecting
@@ -177,19 +154,15 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-become-a-lol-broadcasting-pro-with-these-three-methods-for-2024/"><u>[New] Become a LOL Broadcasting Pro with These Three Methods for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-controlling-playback-rate-on-snapchat-for-2024/"><u>[New] The Ultimate Guide to Controlling Playback Rate on Snapchat for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battle-tested-techniques-to-resolve-your-rocket-league-stalling-and-freezing-problems/"><u>Battle-Tested Techniques to Resolve Your Rocket League Stalling and Freezing Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-fun-in-games-invest-in-high-quality-tech/"><u>Boosting Fun in Games: Invest in High-Quality Tech</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/integrating-abbyy-sdk-into-packaging-automation-enhancing-efficiency-in-transport-and-logistics/"><u>Integrating ABBYY SDK Into Packaging Automation: Enhancing Efficiency in Transport and Logistics</u></a></li>
-<li><a href="https://games-able.techidaily.com/mechanical-masterpiece-revealed-razers-hot-swap-widow-v4/"><u>Mechanical Masterpiece Revealed - Razer's Hot-Swap Widow V4</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-decks-new-frontier-external-memory-expansion/"><u>Steam Deck's New Frontier: External Memory Expansion</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-using-steam-deck-for-pc-gaming-broadcasts/"><u>Step-By-Step: Using Steam Deck for PC Gaming Broadcasts</u></a></li>
-<li><a href="https://techidaily.com/successful-resolution-overcoming-windows-10-setup-issues/"><u>Successful Resolution: Overcoming Windows 10 Setup Issues</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/the-ultimate-guide-to-new-technology-by-toms-hardware-experts/"><u>The Ultimate Guide to New Technology by Tom's Hardware Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-on-recognizing-and-responding-to-fake-chatgpt-portals/"><u>Tips on Recognizing and Responding to Fake ChatGPT Portals</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-steam-remote-link-failures/"><u>Troubleshooting Steam Remote Link Failures</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-to-check-before-buying-a-gamers-display/"><u>What to Check Before Buying a Gamers Display</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-battle-begins-tiktok-vs-snapchat-analysis/"><u>[New] The Battle Begins TikTok vs Snapchat Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/accessing-live-coverage-of-samsungs-annual-unpacked-showcase/"><u>Accessing Live Coverage of Samsung's Annual Unpacked Showcase</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-hype-seven-motivations-to-dismiss-ray-tracing/"><u>Beyond the Hype: Seven Motivations to Dismiss Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-experience-9-elevated-switch-configurations/"><u>Boost Your Experience: 9 Elevated Switch Configurations</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-the-joy-ios-compatible-nintendo-games/"><u>Bringing the Joy: IOS Compatible Nintendo Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/clearing-up-confusion-addressing-windows-error-30005/"><u>Clearing Up Confusion: Addressing Windows' Error 30005</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-saving-strategies-securing-your-mov-on-windows-pcs/"><u>In 2024, Saving Strategies Securing Your .mov On Windows PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/new-features-and-upgrades-in-the-advanced-samsung-copilotplus-desktop-pc-an-exclusive-first-impression/"><u>New Features and Upgrades in the Advanced Samsung Copilot+ Desktop PC – An Exclusive First Impression</u></a></li>
+<li><a href="https://fox-search.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-einer-geloschten-ext3-partition/"><u>Schritt-Für-Schritt Anleitung Zur Wiederherstellung Einer Gelöschten Ext3-Partition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-valorant-expert-tips-for-fixing-graphic-driver-malfunctions/"><u>Troubleshooting Valorant: Expert Tips for Fixing Graphic Driver Malfunctions</u></a></li>
 </ul></div>
 

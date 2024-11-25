@@ -1,7 +1,7 @@
 ---
 title: How Will the Xbox-Activision Deal Affect the Game Market?
-date: 2024-09-09T09:34:00.412Z
-updated: 2024-09-10T09:34:00.412Z
+date: 2024-11-22T01:42:43.891Z
+updated: 2024-11-24T17:02:13.091Z
 tags:
   - games
 categories:
@@ -28,14 +28,12 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ![A screenshot of the loading screen for Diablo II Resurrected on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/diablo-ii-resurrected-loading-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with Xbox owning massive Activision/Blizzard franchises, there is also the worry that the deal will enable Xbox to turn multiplatform franchises into Xbox exclusives. And while platform exclusivity is a more nuanced effect of the deal, with specific clauses, there are undoubtedly consequences of such an industry-shaking deal.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Potential Problems the Deal May Cause Gamers
 
  While the deal is good for Xbox as a platform and Xbox gamers, there are many damaging implications for the industry and gamers alike, even if you're a huge Xbox fan.
@@ -48,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 ![A promotional image highlighting the key art for Starfield](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/starfield.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Bethesda](https://bethesda.net/en/game/starfield)
 
  Worryingly, the Bethesda acquisition was around nine times less than the Activision/Blizzard deal. And with Activision/Blizzard enjoying a massive presence in the gaming industry, titan franchises like Call of Duty and Overwatch could eventually become Xbox exclusives.
@@ -61,17 +53,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  Xbox could use Activision/Blizzard exclusivity to monopolize some of gaming's most popular franchises, forcing you to own an Xbox Series X|S as competitors may not be able to sell specific Activision/Blizzard titles.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Both Xbox and PlayStation Are Prioritizing Exclusivity
 
  Aside from Xbox having a monopoly over Activision/Blizzard exclusivity and a sizable chunk of the industry, the deal further fuels the exclusivity race with rival platforms like PlayStation.
@@ -87,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  So, another unfortunate implication of the deal between Microsoft and Activision/Blizzard is the furthering of exclusivity competition between all platforms, restricting your choices as a consumer.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. A Mismanaged Deal Will Result in Higher Priced Games and Services for Consumers
 
  Aside from implications and problems linked to exclusivity, Microsoft's acquisition of Activision/Blizzard has been flagged by independent experts as possibly increasing the costs of games and services.
@@ -113,21 +89,13 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  And while there may be many[reasons you will see the price of Xbox Game Pass increasing](https://www.makeuseof.com/reasons-xbox-game-pass-will-get-more-expensive/) , the price tag of $68.7 billion for Activision/Blizzard will only inflate things further. So, even if you're a fan of Xbox, you may still be affected by price increases associated with the deal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why the Activision/Blizzard Deal May Not Be as Bad as You Think
 
  While you certainly have good reasons to be dubious of the acquisition of Activision/Blizzard by Microsoft, there is evidence to suggest that the deal isn't as problematic for gamers as previously thought.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Exclusive Games Have Always Been a Pivotal Part of Console Gaming
 
  One of the main reasons you may be worried about Microsoft's acquisition of Activision/Blizzard is how the deal stands to spur on platform exclusivity.
@@ -142,18 +110,6 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  So, while exclusivity may worry you, the deal is unable to affect platform exclusivity for at least 15 years, and even if it goes on to do so, it would only be following pre-established trends within the gaming industry.
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Xbox Is Focused on Consumer-Orientated Gaming
 
  While you may see the deal between Microsoft and Activision/Blizzard as stoking problematic issues for gamers, Xbox and its emphasis on consumer choice implies otherwise.
@@ -161,6 +117,10 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  Despite Xbox holding exclusivity on franchises like Halo and owning massive games like Minecraft, Xbox prioritizes allowing you to choose how you play. Halo: The Master Chief Collection is on Steam, and Minecraft is available and cross-compatible on all platforms.
 
 ![A screenshot of the loading screen for Halo The Master Chief Collection on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/halo-the-master-chief-collection-loading-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Along with multiple generations of backwards compatibility for Xbox consoles and Xbox All Access,[Xbox is one of the most consumer-friendly platforms](https://www.makeuseof.com/ways-microsoft-has-made-the-xbox-series-xs-the-most-consumer-friendly-console/) in gaming. Acquiring Activision/Blizzard spreads Xbox's pro-consumer values to Activision/Blizzard titles.
 
@@ -183,11 +143,9 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  Even with the acquisition of Activision/Blizzard, it may be more likely that competition between Xbox and PlayStation would increase instead of the industry being monopolized.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Acquisition of Activision/Blizzard by Xbox Improves Competition
 
  Despite the deal between Microsoft and Activision/Blizzard having negative implications, there are plenty of reasons it isn't as damaging as previously thought.
@@ -196,14 +154,11 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  And with Xbox and PlayStation producing two rival powerhouse consoles in the Xbox Series X and PlayStation 5, you could even see the deal as pushing console generations to be the very best platforms possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,4 +167,19 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-earhearer-live-sound-critique-for-2024/"><u>[New] EarHearer Live Sound Critique for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-steps-to-restore-obs-fullscreen/"><u>[Updated] 2024 Approved Steps to Restore OBS Fullscreen</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-50plus-best-text-techniques-in-film-making/"><u>[Updated] 50+ Best Text Techniques in Film-Making</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-guide-to-selecting-superior-discords/"><u>A Comprehensive Guide to Selecting Superior Discords</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-excellence-the-best-1440p-monitors-for-value-gamers/"><u>Affordable Excellence: The Best 1440P Monitors for Value Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-gpus-graphical-memory-usage/"><u>Assessing GPU's Graphical Memory Usage</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210206402-9781420972610-creative-mind-and-success/"><u>Creative Mind and Success | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164050497-enhanced-performance-flawless-operation-install-latest-nvidia-driver/"><u>Enhanced Performance, Flawless Operation – Install Latest Nvidia Driver!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instructions-turn-on-windows-11s-adaptive-hdr/"><u>Instructions Turn on Windows 11'S Adaptive HDR</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316843-9781848507517-supercoherence/"><u>Supercoherence | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171836864-unlock-every-steam-badge-in-minutes/"><u>Unlock Every Steam Badge in Minutes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unraveling-the-dyson-360-vis-navs-quirks-a-comprehensive-review-on-its-idiosyncratic-pathfinding-and-battery-consumption/"><u>Unraveling the Dyson 360 Vis Nav's Quirks: A Comprehensive Review on Its Idiosyncratic Pathfinding and Battery Consumption</u></a></li>
+</ul></div>
 

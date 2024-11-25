@@ -1,7 +1,7 @@
 ---
 title: Total Eradication of Your PS5 Accounts and Data
-date: 2024-11-13T02:28:08.510Z
-updated: 2024-11-15T18:50:13.202Z
+date: 2024-11-23T11:12:53.958Z
+updated: 2024-11-24T19:56:07.208Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Delete User Accounts on a PS5
 
  You might be tempted to retrace the path you took to[add a new user to your PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) to delete one. But while deleting users is straightforward, it’s quite different from the steps you take to make them.
@@ -36,19 +40,21 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 3. Choose**Delete Users** , and you’ll see all the users on the PS5 on the right panel.  
 ![Prompt to delete a user on a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/prompt-to-delete-a-user-on-a-ps5.JPG)
 4. Select the user you wish to delete and choose**Yes** when the prompt appears.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![List of users to delete in the PS5's Users and Accounts settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-of-users-to-delete-in-the-ps5-s-users-and-accounts-settings.JPG)
 5. If you have any games running, your PS5 will prompt you to close them; select**Yes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A small message will flash on the screen saying that it's deleting the user, and after that, the user’s account is gone forever.
 
  Deleting a user on a PS5 is quite different from deleting a PSN account. Deleting a PSN account will mean forever losing access to all games the owner purchased on that account. You can’t delete a PSN account on a PS5, you’ll need to contact Sony.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is There a Primary Account on a PS5?
 
@@ -59,19 +65,13 @@ thumbnail: https://thmb.techidaily.com/bcb4dab5fca23c5552c696b1f9621ccec9d5240a3
 ![Console Sharing and Offline Play prompt to disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/console-sharing-and-offline-play-prompt-to-disable.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 No one will be able to access your games again.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be Careful of Deleting Precious PS5 User Data
@@ -93,22 +93,18 @@ No one will be able to access your games again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-5-innovative-yt-tales-share-your-life-journey/"><u>[New] 2024 Approved 5 Innovative YT Tales Share Your Life Journey</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-budget-friendly-asmr-tech-premium-mics-for-exceptional-audio/"><u>[New] Budget-Friendly ASMR Tech Premium Mics for Exceptional Audio</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-instant-guide-image-to-thumbnail-magic-for-your-youtube-channel/"><u>[New] In 2024, Instant Guide Image-To-Thumbnail Magic for Your YouTube Channel</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-seeking-the-best-ps2-games-try-these-5-android-emulators/"><u>[Updated] Seeking the Best PS2 Games? Try These 5 Android Emulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-screen-record-your-win10-game-log-for-2024/"><u>[Updated] Step-by-Step Screen Record Your Win10 Game Log for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y77t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y77t without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-chips-that-will-shape-our-future-at-computex-2024/"><u>AI Chips That Will Shape Our Future at Computex 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-gaming-winner-innocn-39g1-r/"><u>Budget Gaming Winner: InnoCN 39G1 R</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-instructions-on-using-the-codegpt-extension-in-your-vs-code-workspace/"><u>Comprehensive Instructions on Using the CodeGPT Extension in Your VS Code Workspace</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/full-assessment-hero4-black-capabilities/"><u>Full Assessment Hero4 Black Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-development-winner-directx-11-or-12/"><u>Game Development Winner: DirectX 11 or 12?</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-pass-the-next-chapter-for-xbox-live-gold-users/"><u>Game Pass: The Next Chapter for Xbox Live Gold Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/individualized-fan-settings-optimize-gpu-temperature-and-power/"><u>Individualized Fan Settings Optimize GPU Temperature & Power</u></a></li>
-<li><a href="https://games-able.techidaily.com/minecraft-network-disconnect-on-windows-quick-tips/"><u>Minecraft Network Disconnect on Windows: Quick Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-twitch-guide-platform-overview-and-streamer-resources/"><u>The Twitch Guide: Platform Overview and Streamer Resources</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168463782-the-ultimate-arcade-upgrade-wide-front-panels/"><u>The Ultimate Arcade Upgrade: Wide Front Panels!</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-video-editing-tools-for-young-creators-free-and-paid-options/"><u>Updated Top Video Editing Tools for Young Creators Free and Paid Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-intro-excellence-app-your-device-friendly-solution/"><u>[Updated] 2024 Approved Intro Excellence App Your Device-Friendly Solution</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-roadmap-for-joining-a-youtube-media-company-mcn/"><u>[Updated] 2024 Approved The Roadmap for Joining a YouTube Media Company (MCN)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-through-fb-content-on-your-apple-media-hub-for-2024/"><u>[Updated] Navigating Through FB Content on Your Apple Media Hub for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/9-fixes-when-your-iphones-screen-has-a-yellow-tint/"><u>9 Fixes When Your iPhone's Screen Has a Yellow Tint</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/push-the-limits-prime-websites-for-gamerpoints-surge/"><u>Push the Limits - Prime Websites for Gamerpoints Surge</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-unlock-new-gaming-potentials-with-keyboardsmice-87-chars/"><u>Switch: Unlock New Gaming Potentials with Keyboards/Mice (87 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-story-of-amds-rx-7800xt-and-7700xt-performance/"><u>The Complete Story of AMD's RX 7800XT & 7700XT Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-great-processor-race-who-wins-in-gaming/"><u>The Great Processor Race: Who Wins in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-quad-of-qualities-to-upgrade-in-the-xbox-reward-system/"><u>The Quad of Qualities to Upgrade in the Xbox Reward System</u></a></li>
+<li><a href="https://games-able.techidaily.com/thriving-in-gameplay-understanding-macs-fortnite-limits/"><u>Thriving in Gameplay: Understanding Mac's Fortnite Limits</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-from-flat-to-fabulous-converting-videos-for-vr-with-ease-for-2024/"><u>Updated From Flat to Fabulous Converting Videos for VR with Ease for 2024</u></a></li>
 </ul></div>
 

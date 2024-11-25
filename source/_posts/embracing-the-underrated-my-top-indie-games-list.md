@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Underrated: My Top Indie Games List"
-date: 2024-09-09T09:38:17.955Z
-updated: 2024-09-10T09:38:17.955Z
+date: 2024-11-20T17:57:21.060Z
+updated: 2024-11-25T10:44:30.537Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Indie Game Guide,Top Game Choices,Underrated Gaming,Independent Titles
 thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Embracing the Underrated: My Top Indie Games List
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Last Word](#last-word)
@@ -37,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  If you’re not a fan of AAA titles, it can be really hard to find the stuff you do like. Fortunately, there are plenty of tools to root out fascinating indie titles; here are a few of my favorites and how I discovered them.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1 Last Word
 
 [Last Word](https://store.steampowered.com/app/355530/Last%5FWord/) is an RPG where you do battle not with swords or staves, but with the power of words. You’ve been summoned to a mysterious mansion alongside a cadre of colorful characters (not unlike Clue), where you must investigate matters of international intrigue.
@@ -49,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  To progress in the game, you build up conversational capital and challenge the other characters to various debates, basically RPG battles where “fight” and “magic” have been replaced by “pow” and “tact” to represent your conversational prowess.
 
  I first discovered this game thanks to writer[Colin Spacetwinks](https://twitter.com/spacetwinks) , who does regular roundups of recommended games whenever there’s[a sale or deals on Steam](https://www.makeuseof.com/tag/5-ways-to-make-sure-you-get-the-best-deals-on-steam-games/) . If there’s a games writer you particularly like, it’s always worth giving them a follow on social media, as they’re likely to recommend games and other media of interest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Untitled Goose Game
 
@@ -59,14 +49,16 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
  It’s a fairly accessible title for kids and those who don’t play video games a lot—and perfect for anyone who likes to embrace their inner chaos goblin.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 A Short Hike
 
 ![Video game screenshot of a small bird flying over a wooden bridge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-short-hike-screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Adam Robinson-Yu](https://ashorthike.com/)
 
@@ -81,11 +73,9 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 ![Video game screenshot of a six-panel comic strip showing a woman being bitten by a vampire and a man kills the vampire, curing the woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/storyteller-vampire-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Daniel Benmergui / Annapurna Interactive](https://annapurnainteractive.com/en/games/storyteller)
 
  Years and years ago, I came across this short, charming little game called[Storyteller](https://annapurnainteractive.com/en/games/storyteller) where you would click and drag various elements to tell a particular story. I was certainly surprised when I found out the developer was making a full version for PC and console. That game was released last year under the same title, expanding the original with more characters and situations into more complicated puzzles.
@@ -100,18 +90,6 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
 ![Video game screenshot of a woman with teal hair saying, "It makes me feel comfy and nostalgic."](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valhalla-bartending-screenshot.png)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Sukeban Games / Ysbryd Games](https://waifubartending.com/)
 
  Most people look at video game fan conventions like[PAX](https://www.paxsite.com/global/en-us.html) as places that are loud and confusing, full of streaming stars and people who prefer games like Call of Duty and Fortnite over smaller, more intimate titles. But get past the huge, loud booths, and you’ll find yourself in a warren of smaller tables full of weird, interesting, and experimental indie games.
@@ -122,14 +100,11 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 
  There are plenty of ways to find indie gems to play. These are a few of the ways I found some of my own favorites and hopefully they can help you find new indie games to play too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +113,24 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-igtv-a-comprehensive-guide-for-beginners/"><u>[New] 2024 Approved Mastering IGTV A Comprehensive Guide for Beginners</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-posting-tiktok-content-on-facebook-a-step-by-step-guide/"><u>[New] 2024 Approved Posting TikTok Content on Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-eliminate-fuzziness-clearer-facebook-video-tips-for-2024/"><u>[New] Eliminate Fuzziness Clearer Facebook Video Tips for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-achieve-sharpness-camera-tips-without-a-tripod/"><u>[New] In 2024, Achieve Sharpness Camera Tips Without a Tripod</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-advice-enhancing-your-screen-capture-game-with-mobizen-tools/"><u>[Updated] 2024 Approved Expert Advice Enhancing Your Screen Capture Game with Mobizen Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-picks-unbeatable-xbox-recording-gear/"><u>Best Picks: Unbeatable Xbox Recording Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-cost-not-quality-in-your-ps5-gaming-package/"><u>Cutting Cost, Not Quality in Your PS5 Gaming Package</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-dxvk-and-its-benefits-for-wingaming-enthusiasts/"><u>Decoding DXVK and Its Benefits for WinGaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/download-platforms-for-bg3-unveiled/"><u>Download Platforms for BG3 Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidance-on-repairing-vs-replacing-a-damaged-switch/"><u>Guidance on Repairing Vs. Replacing a Damaged Switch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-play-40c-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Play 40C? Try These Fixes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-meme-mastery-in-the-metaverse-a-comedic-journey/"><u>In 2024, Meme Mastery in the Metaverse A Comedic Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/link-up-sharing-games-on-ps5-console/"><u>Link Up: Sharing Games on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/nest-egg-personalized-steam-picks/"><u>Nest Egg: Personalized Steam Picks</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-compilation-of-top-soundscapes-adopting-the-perfect-audio-accompaniment-for-your-montage-creation/"><u>New Compilation of Top Soundscapes Adopting the Perfect Audio Accompaniment for Your Montage Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prelude-to-cinematic-dialogue-for-2024/"><u>Prelude to Cinematic Dialogue for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailoring-display-and-illumination-for-optimal-gaming/"><u>Tailoring Display & Illumination for Optimal Gaming</u></a></li>
+</ul></div>
 

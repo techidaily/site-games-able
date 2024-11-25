@@ -1,7 +1,7 @@
 ---
 title: "Retro Vs. Modern: The PS5 Transformation"
-date: 2024-11-08T16:01:30.971Z
-updated: 2024-11-15T19:30:05.347Z
+date: 2024-11-23T10:33:14.009Z
+updated: 2024-11-25T10:26:46.052Z
 tags:
   - games
 categories:
@@ -31,23 +31,9 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  The new PS5 will be available sometime in November (in time for the holiday season) in select retail stores and on[direct.playstation.com](https://direct.playstation.com/) . Rollout will start in the U.S., with a global launch expected in the months to follow. The disc version of the "PS5 Slim" will retail at $499.99, while the digital version will set you back $449.99.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Old PS5 Models vs. New PS5 Models: The Differences
 
  With this new PS5 version, Sony has worked on some improvements that go beyond aesthetics. If you already own a PS5, you might be wondering if the differences are worth upgrading, or, if you haven't got one yet, purchase it now. Let's take a look at them in a little more detail.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Size and Weight
 
@@ -57,11 +43,23 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ![the size differences for all PS5 versions on the CompareSizes website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-size-differences-for-all-ps5-versions-on-comparesizes-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sony has also reduced the weight of the disc edition from 9.9 pounds to 7.05 pounds. The weight of the digital edition has gone down to 5.73 pounds from 8.6 pounds (of course, it will weigh a little more if you attach the disk drive).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Attachable Disk Drive
 
 ![the attachable disk drive for the new smaller PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/detachable-disk-drive-for-the-new-smaller-ps5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
@@ -77,37 +75,25 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
  So that means you'll have over 200GB of extra internal storage space on the new PS5\. You can always upgrade it by[adding an M.2 SSD to the PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) with more storage space if that's still not enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Old PS5 vs. New PS5: Price
 
  The price of the old disc version of the PS5 is $499.99, and the new version will cost the same. The price for the old digital edition is $399.99, while the new one costs $449.99, marking a price increase. Furthermore, once you factor in the price of the disc drive, the digital edition gets even more expensive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Old PS5 vs. New PS5: Stand
 
 ![the horizontal stand for the new smaller ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/horizontal-stand-for-the-new-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image credit:[Sony](https://blog.playstation.com/2023/10/10/new-look-for-ps5-console-this-holiday-season/)
 
  The newer PS5 models come with a horizontal stand, which is not compatible with the old models. You can also purchase a horizontal stand separately, which will cost $29.99\. The good thing about the new horizontal stand is that it will be compatible with all PS5 models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The New PS5 Model Is Exciting
 
@@ -128,20 +114,22 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-leading-speech-recording-software-for-mac-discovering-our-five-favorites/"><u>[New] Leading Speech Recording Software for Mac Discovering Our Five Favorites</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[Updated] 2024 Approved Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-essentials-of-film-production-for-youtube-originals/"><u>[Updated] The Essentials of Film Production for YouTube Originals</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-transform-your-youtube-videos-into-webm-easily/"><u>[Updated] Transform Your YouTube Videos Into WebM Easily</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-science-of-color-representation-srgb-and-rgb/"><u>2024 Approved The Science of Color Representation Srgb & Rgb</u></a></li>
-<li><a href="https://games-able.techidaily.com/ai-ally-in-gaming-top-6-approaches-with-chatgpt/"><u>AI Ally in Gaming: Top 6 Approaches with ChatGPT</u></a></li>
-<li><a href="https://extra-information.techidaily.com/current-state-of-vr-hardware/"><u>Current State of VR Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/custom-fan-scheduling-for-maximum-performance-gain/"><u>Custom Fan Scheduling for Maximum Performance Gain</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-3-innovative-streaming-solutions-for-switch/"><u>Explore 3 Innovative Streaming Solutions for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-in-impact-choose-thick-broad-cabinet-frames/"><u>Invest in Impact: Choose Thick, Broad Cabinet Frames!</u></a></li>
-<li><a href="https://games-able.techidaily.com/outdoor-fun-in-ar-discover-these-8-titles/"><u>Outdoor Fun in AR: Discover These 8 Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-device-connectivity-steam-deck-and-pc-via-barrier-method/"><u>Streamline Device Connectivity: Steam Deck & PC via Barrier Method</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lenovo-thinkphone-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lenovo ThinkPhone Location | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlock-your-iphones-icloud-potential-a-guide-to-rectifying-non-responsive-configurations/"><u>Unlock Your iPhone's iCloud Potential: A Guide to Rectifying Non-Responsive Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/1719320743244-windows-users-run-a-cost-free-locally-operated-gpt-model/"><u>Windows Users: Run a Cost-Free, Locally Operated GPT Model</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-androids-leading-image-editing-does-pickup-reign-supreme/"><u>[New] Android's Leading Image Editing Does PickUp Reign Supreme?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-dissecting-vidmas-recording-features-a-technical-breakdown/"><u>[New] Dissecting Vidma's Recording Features - A Technical Breakdown</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-ensure-your-virtual-meetings-are-documented/"><u>[New] In 2024, How to Ensure Your Virtual Meetings Are Documented</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-quick-installation-of-discord-for-mac-devices/"><u>Achieve Quick Installation of Discord for Mac Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-non-responsive-controllers-in-windows-environment/"><u>Addressing Non-Responsive Controllers in Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/advances-in-non-invasive-measures-of-endocannabinoid-system-activity/"><u>Advances in Non-Invasive Measures of Endocannabinoid System Activity</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-gaming-chips-poised-for-higher-fees-soon/"><u>Are Gaming Chips Poised for Higher Fees Soon?</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-imacs-setting-new-benchmarks-in-gaming/"><u>Are iMacs Setting New Benchmarks in Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/becoming-a-pro-at-game-enhancement-using-steam-workshop/"><u>Becoming a Pro at Game Enhancement Using Steam Workshop</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-why-igdkmd64sys-causes-blue-screens-and-how-to-fix-it-in-win10/"><u>Expert Tips: Why IgdkmD64.sys Causes Blue Screens and How to Fix It in WIN10</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165707969-free-play-with-xbox-deals-awaits/"><u>Free Play with Xbox Deals Awaits</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essentials-of-hosting-a-zoom-event-via-android/"><u>In 2024, The Essentials of Hosting a Zoom Event via Android</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-release-of-apple-watch-series-8-specs-revealed-and-how-much-it-will-cost-you/"><u>Inside the Release of Apple Watch Series 8 – Specs Revealed and How Much It Will Cost You</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-red-magic-9-proplus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 9 Pro+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-economic-blueprint-for-music-video-filming/"><u>The Economic Blueprint for Music Video Filming</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160552147-unbeatable-summer-deals-on-your-ps-games/"><u>Unbeatable Summer Deals on Your PS Games!</u></a></li>
 </ul></div>
 

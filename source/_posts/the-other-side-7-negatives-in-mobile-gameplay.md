@@ -1,7 +1,7 @@
 ---
 title: "The Other Side: 7 Negatives in Mobile Gameplay"
-date: 2024-11-09T18:54:30.244Z
-updated: 2024-11-16T02:53:06.712Z
+date: 2024-11-19T06:50:19.050Z
+updated: 2024-11-25T06:54:33.143Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Paid Mobile Games Don't Sell Well
 
  One big difference between console gaming and mobile gaming is their business model. While the former comes with an up-front cost, the freemium model dominates the latter.
@@ -31,11 +35,19 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 ![A screenshot of Google Play Store home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Google-play-store-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  People just don't like to pay for mobile games, and the rare ones that actually do, pay mostly via in-app purchases and microtransactions. So, it forces game developers to either conform to that model or stick with console gaming.
 
  Now, we're not saying the freemium model isn't profitable. In fact, according to[Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
 
  But the problem with the freemium model is that it's not suitable for making big-budget console-level games. It's too risky for developers to invest so much time and money creating a high-end mobile game, in the vain hope that people might pay for it later... after playing it for free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. App Store Algorithms Only Favor Top Charts
 
@@ -45,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 ![App Store closeup on iPhone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/App-Store-closeup-on-iPhone-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This means if you're a game developer—especially a new one—the chances of your game succeeding are very low. Forget standing out from the sea of apps. It's a miracle if you even get discovered. And app stores do little to help new developers get seen.
 
  When searching for an app, most people just pick one from the items at the top of the list. And because of this, winners keep winning and losers keep losing.
@@ -59,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Low Consumer Expectations
@@ -81,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Poor Touchscreen Controls
 
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
@@ -95,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Lack of Storage to Dedicate to Games
 
@@ -120,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
  Since smartphones are so distinct from one another (thanks to so many competitors), it's too large an undertaking to have developers optimize their games according to each device.
 
  So, this leaves them with only two options; either create poor games that everyone can download or create good games that only a few can download. It seems the former gets the upper hand in boardroom meetings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Frequent In-Game Ads
 
@@ -152,15 +144,24 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-gigglegraphs-designing-delightful-memes/"><u>[New] GiggleGraphs Designing Delightful Memes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-hilarity-at-a-click-discovering-15-comical-youtubers-work/"><u>[New] In 2024, Hilarity at a Click Discovering 15 Comical YouTubers' Work</u></a></li>
-<li><a href="https://games-able.techidaily.com/adapting-to-change-how-steams-ai-rules-transform-gaming/"><u>Adapting to Change: How Steam's AI Rules Transform Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-high-memory-usage-of-roblox-app-on-mobile-phones/"><u>Combatting High Memory Usage of Roblox App on Mobile Phones</u></a></li>
-<li><a href="https://os-tips.techidaily.com/comprehensive-guide-syncing-and-controlling-your-ios-data-on-a-pc-with-microsoft-windows-tips-from-the-deardroid-handbook/"><u>Comprehensive Guide: Syncing & Controlling Your iOs Data on a PC with Microsoft Windows - Tips From the Deardroid Handbook</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-minecraft-launcher-error-0x803f8001-in-windows-11-and-10/"><u>How to Fix the Minecraft Launcher Error 0X803f8001 in Windows 11 and 10</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-monetization-success-a-3-step-system-to-determine-your-youtube-earnings/"><u>In 2024, Unlocking Monetization Success A 3-Step System to Determine Your YouTube Earnings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-videography-titans-battle/"><u>In 2024, Videography Titans Battle</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-game-pass-on-steam-glossi-assistance/"><u>Navigating Through Game Pass on Steam - GlosSI Assistance</u></a></li>
-<li><a href="https://win-news.techidaily.com/schutzt-ihre-daten-automatisch-lernen-sie-wie-ihr-computer-durch-einfaches-stecken-in-usb-sticks-gespeicherte-informationen-speichert-duales-sicherungswisse283/"><u>Schützt Ihre Daten Automatisch: Lernen Sie, Wie Ihr Computer Durch Einfaches Stecken in USB-Sticks Gespeicherte Informationen Speichert - Duales Sicherungswissen Enthüllt</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-harnessing-power-in-pixels-top-10-instagram-video-ad-mastery-techniques-for-2024/"><u>[New] Harnessing Power in Pixels Top 10 Instagram Video Ad Mastery Techniques for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-the-spin-a-step-by-step-instagram-video-reversal-guide-for-2024/"><u>[New] Navigating the Spin A Step-by-Step Instagram Video Reversal Guide for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2-expert-picks-for-ultimate-iphone-1n-pro-and-max-defenders-gizmodo/"><u>2: Expert Picks for Ultimate iPhone 1N-Pro and Max Defenders | Gizmodo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/cutting-edge-video-production-windows-11s-moviemaker-toolkit/"><u>Cutting-Edge Video Production Windows 11'S Moviemaker Toolkit</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-financial-sense-in-purchasing-ea-play/"><u>Evaluating the Financial Sense in Purchasing EA Play</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-requesting-video-games-returns/"><u>Mastering the Art of Requesting Video Games Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/preference-for-workspace-gaming/"><u>Preference for Workspace Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-video-game-tracker-assemblies/"><u>Prime Video Game Tracker Assemblies</u></a></li>
+<li><a href="https://win-studio.techidaily.com/resolution-des-problemes-de-demarrage-avec-un-disque-clone-sous-windows-11-guide-dexplications/"><u>Résolution Des Problèmes De Démarrage Avec Un Disque Cloné Sous Windows 11 : Guide D'explications</u></a></li>
+<li><a href="https://games-able.techidaily.com/risks-behind-tipping-software-development-teams/"><u>Risks Behind Tipping Software Development Teams</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-art-of-feigning-absence-on-steam/"><u>The Art of Feigning Absence on Steam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-blueprint-to-buzzing-video-success-on-insta/"><u>The Blueprint to Buzzing Video Success on Insta</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-guide-to-game-personalization-using-steam/"><u>The Essential Guide to Game Personalization Using Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-30-dpi-and-hdmi-enhanced-devices-for-gamers/"><u>Top 30 DPI & HDMI Enhanced Devices for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-guide-sending-and-receiving-imessage-texts-like-a-pro-tips-from-zdnet/"><u>Windows Guide: Sending & Receiving iMessage Texts Like a Pro - Tips From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-masterclass-silent-images-for-hidden-archives/"><u>Windows Masterclass: Silent Images for Hidden Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-covers-materials-and-protection-benefits/"><u>Xbox Covers: Materials & Protection Benefits</u></a></li>
 </ul></div>
 

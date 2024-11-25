@@ -1,7 +1,7 @@
 ---
 title: Increase Game Frames per Second (FPS) on PC
-date: 2024-09-09T09:34:46.594Z
-updated: 2024-09-10T09:34:46.594Z
+date: 2024-11-22T00:44:38.196Z
+updated: 2024-11-24T16:06:54.898Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: Boost FPS in Gaming,Enhance PC Game Speed,Increase Gaming Frame Rate,O
 thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f4d45de0f56404a9b7904a53.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Increase Game Frames per Second (FPS) on PC
 
  Part of the beauty of PC gaming is enjoying the best graphics and performance the industry has to offer. But when you're suffering from a low frame rate, it's hard to enjoy a game at all.
@@ -25,11 +19,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  Whether your latest purchase isn't running smoothly on your PC, or you suddenly find games struggling to perform in general, we're here to help. Here's how to fix low FPS issues in Windows and get back to high-quality gaming.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## First: Know the Difference Between Low FPS and Network Lag
 
  Before you spend time fixing the low frames per second on your PC, it's important to understand the difference between low FPS and online lag. People sometimes confuse these.
@@ -45,17 +37,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  Let's begin by looking at a few fundamental fixes you should perform to boost game frame rates. In many cases, when you wonder why your game FPS is so low, these tweaks will make a big improvement.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Update Your Drivers
 
 ![screenshot of amd radeon program updating drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_radeon_program_updating_drivers.jpg)
@@ -84,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ![Disk defragmentation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/disk-defragmentation.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Most gamers have hopefully upgraded to a solid-state drive (SSD) by now. But in case you're still using an HDD, you should make sure the disk is defragmented. If you use an SSD, you should not defragment, as doing so can shorten the life of your drive.
 
  To do this, type**defrag** into the Start menu and click the**Defragment and Optimize Drives** entry. If it's been a while since the drive was last defragged, you should do so.
@@ -104,20 +92,8 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ![windows power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/windows-power-plan.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that this will increase the power consumption of your computer. On a desktop, this isn't really a problem, aside from a slightly higher energy bill. But laptops will see worse battery life, so make sure your system is plugged in.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Turn Off Visual Effects in Windows
 
  By default, Windows uses a lot of fancy visual effects around the OS. These make menus and other common elements look smoother, but also use up some resources.
@@ -128,26 +104,8 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
 ![System performance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/system-properties-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the**Adjust for best performance** button to disable all these effects, followed by**OK** . It will take a moment as Windows disables them. When it's done, the interface won't look as slick, but you won't notice that when you're playing a game anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Disable the Game Bar and Background Recording
 
  Windows 10 and 11 include a Game Bar feature that allows you to record game clips, take screenshots, and even stream your gameplay. While this is handy in certain situations, it can also negatively impact game performance.
@@ -159,17 +117,13 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 ![Windows 10 Captures Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Captures-Settings-Panel.png)
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Enable Game Mode in Windows
 
  Also in the**Gaming** section of Settings, switch to the**Game Mode** tab. Here, confirm that you have the slider turned on.
@@ -180,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Next, we turn to settings you can change in most games that can solve your low frame rate problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Change the Game's Graphical Settings
 
  Most[PC games allow you to change a variety of graphical options](https://www.makeuseof.com/tag/video-game-graphics-settings-explained/) ; the exact choices will depend on the game. As a general rule, the more graphical effects you enable for improved visuals, the lower your frame rate will be.
@@ -189,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  You can also turn off individual visual effects, such as reflections and fog. While these can make the game look pretty, they put a strain on your GPU. To further improve the frame rate, disable extraneous options like these.
 
 ![Overwatch PC Graphics Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/05/Overwatch-PC-Graphics-Settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, keep an eye out for options that let you limit FPS. These can be useful if your GPU sends more frames than your monitor can keep up with, but obviously limiting your FPS may result in a sub-par frame rate. If you have a 144Hz monitor, you don't want to limit the game to 60FPS.
 
@@ -201,11 +163,9 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  This is because apps and games running in this mode have full control over the screen output. While borderless windowed might be more convenient, the game doesn't enjoy that display exclusivity in this mode, and may thus dip to a lower frame rate.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 10\. Repair or Reinstall the Game
 
  If you only experience FPS issues with one game, it might have some corrupted files causing the problem.
@@ -217,39 +177,19 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
  Else, try uninstalling and reinstalling the game to see if that improves performance.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hardware Fixes for Low Game FPS
 
  If you tried all the above and your games are still running at low FPS, your hardware is likely a bottleneck. In this case, you can look at making changes to your graphics card and other hardware for better frame rates.
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 11\. Consider Overclocking Your Components
 
  If you don't have the money to upgrade your PC's components right now, you might consider overclocking your existing hardware. This allows you to squeeze a little more power out of what you already have, at essentially no cost.
 
  Overclocking might sound dangerous, but it's safe if you do it properly. See our[guide to overclocking your GPU](https://www.makeuseof.com/overclock-gpu-windows-10-asus-gpu-tweak/) if you'd like to give it a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 12\. Upgrade Your Hardware
 
 ![Man modifying PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/04/pc_modification.png)
@@ -264,32 +204,17 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
 
  Find out[which computer upgrades improve performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) to see what you should replace first.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Low FPS Issues Easily
 
  We've looked at a number of tips to fix low FPS on your PC. Hopefully, some combination of these helps boost your frame rate back to an acceptable level.
 
  In the end, FPS issues come down to system resources. This is the case whether your computer is wasting resources on other processes or unnecessary features, or doesn't have enough power in the first place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,4 +223,19 @@ thumbnail: https://thmb.techidaily.com/5c068034f0080166994d164493cb808318b6f6a0f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elevate-your-channel-techniques-for-logo-insertion-in-videos/"><u>[Updated] 2024 Approved Elevate Your Channel Techniques for Logo Insertion in Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipated-launch-apple-watch-series-8-detailed-insights-on-specs-pricing-and-latest-updates/"><u>Anticipated Launch: Apple Watch Series 8 - Detailed Insights on Specs, Pricing & Latest Updates</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-ddr5-gaming-boards-2024/"><u>Cutting-Edge DDR5 Gaming Boards 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://media-tips.techidaily.com/future-of-audio-experience-upcoming-enhanced-equalized-noise-management-on-various-electronics-by-youtube/"><u>Future of Audio Experience: Upcoming Enhanced Equalized Noise Management on Various Electronics by YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-update-your-sas-drivers-for-windows-operating-systems-windows-7811/"><u>How to Obtain and Update Your SAS Drivers for Windows Operating Systems (Windows 7/8/11)</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-the-power-of-ai-thumbnail-generators/"><u>New 2024 Approved The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://games-able.techidaily.com/serene-soundless-xbox-one-setup-guide/"><u>Serene Soundless Xbox One Setup Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-methods-unlocking-xbox-gifts-with-digital-codes/"><u>Top Methods: Unlocking Xbox Gifts with Digital Codes</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-nintendo-switch-audio-experience/"><u>Top-Notch Nintendo Switch Audio Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-best-case-steam-decks/"><u>Ultimate Guide: Best Case Steam Decks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/understanding-sns-hdr-pros-role-in-hdr-editing/"><u>Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+</ul></div>
 

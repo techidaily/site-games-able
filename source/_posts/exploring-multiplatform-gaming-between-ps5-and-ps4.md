@@ -1,7 +1,7 @@
 ---
 title: Exploring Multiplatform Gaming Between PS5 & PS4?
-date: 2024-11-08T19:22:09.482Z
-updated: 2024-11-16T01:02:52.758Z
+date: 2024-11-24T00:41:55.144Z
+updated: 2024-11-25T14:01:09.205Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The PS5 Controller and PS4 Console Are Not Compatible
 
  Sony made it clear in a[PlayStation Blog post](https://blog.playstation.com/2020/11/09/ps5-the-ultimate-faq/#dualsens) that the DualSense controller will not work on PS4 consoles, as the two devices aren't compatible when connected directly. The console manufacturer has not provided a reason why this is the case, but it's a bit strange considering that the[PS4 controller is forward-compatible with the PS5](https://www.makeuseof.com/use-ps4-controllers-on-playstation-5/) and backward-compatible with the PS3.
@@ -30,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
  However, if all you have is a PS4 console and DualSense controller (no PS4 controller to play with), you can indirectly connect these incompatible devices with the help of two middlemen: PS Remote Play or the Titan Two adapter.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on PC?
@@ -45,9 +46,18 @@ Here’s how to do that:
 1. Download the[PS Remote Play app](https://www.playstation.com/en-us/remote-play/) for PC and Mac onto your computer and install it.  
 ![ps remote play download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ps-remote-play-app-download.jpg)
 2. Turn on your PS4, make sure it connects to the internet, and that it’s logged in to your PlayStation Network account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Open the Remote Play app on your PC or Mac, click the**Sign In to PSN** button, and follow the instructions to log in to your PSN account.  
 ![signing in to the ps remote play app on pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sign-in-ps-remote-play-pc.jpg)
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
@@ -67,30 +77,13 @@ Here’s how to do that:
 ![the sign in button on PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-sign-in-button-on-ps-remote-play-mobile-app.jpg)  
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
@@ -122,18 +115,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-inconspicuous-storywatchers-choice-apps/"><u>[New] In 2024, Inconspicuous Storywatcher's Choice Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-perfecting-the-craft-of-youtube-short-video-making/"><u>[New] Perfecting the Craft of YouTube Short Video Making</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-split-screen-audio-logging-for-2024/"><u>[New] Split Screen Audio Logging for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-all-you-need-to-know-about-instagram-video-limits/"><u>[Updated] In 2024, All You Need to Know About Instagram Video Limits</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-a-customized-financing-blueprint-for-steam-gaming/"><u>Crafting a Customized Financing Blueprint for Steam Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-mysteries-of-steams-gametime-metrics-a-comprehensive-guide/"><u>Deciphering the Mysteries of Steam's Gametime Metrics: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/diy-gaming-repair-and-customize-your-xbox-controls/"><u>DIY Gaming: Repair and Customize Your Xbox Controls</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-protected-are-your-files-on-windows-10-expert-advice-from-malwarefox/"><u>How Protected Are Your Files on Windows 10? Expert Advice From MalwareFox</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-captivation-creator-for-articles/"><u>In 2024, Captivation Creator for Articles</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps5-networking-your-wi-fi-problems-guide/"><u>Mastering PS5 Networking: Your Wi-Fi Problems Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ultimate-guide-to-15-best-4k-recording-tools-for-2024/"><u>Ultimate Guide to #15 Best 4K Recording Tools for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469495376-why-are-my-iphone-contacts-not-appearing-easy-fixes-inside/"><u>Why Are My iPhone Contacts Not Appearing? Easy Fixes Inside</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-11-secrets-to-increasing-your-facebook-video-reach/"><u>[New] 11 Secrets to Increasing Your Facebook Video Reach</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-access-to-no-cost-music-for-video-makers-for-2024/"><u>[New] Easy Access to No-Cost Music for Video Makers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-innovative-approaches-to-capturing-rl-experiences-for-2024/"><u>[Updated] Innovative Approaches to Capturing RL Experiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/bid-farewell-to-single-os-on-steam-deck/"><u>Bid Farewell to Single OS on Steam Deck!</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakdown-of-xbox-series-time-logistics/"><u>Breakdown of Xbox Series Time Logistics</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-vintage-pixels-to-life-why-raspberry-pi/"><u>Bring Vintage Pixels to Life: Why Raspberry Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-an-older-gamepad-dock-support-switchs-oled-model/"><u>Can an Older Gamepad Dock Support Switch's OLED Model?</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-ps4-support-ps3-gaming/"><u>Can PS4 Support PS3 Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ceasing-abnormal-mouse-scrolling-patterns/"><u>Ceasing Abnormal Mouse Scrolling Patterns</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-console-play-on-your-modern-device/"><u>Classic Console Play on Your Modern Device!</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-center-unveiling-2024s-ultimate-keyboards-and-mice/"><u>Command Center: Unveiling 2024'S Ultimate Keyboards and Mice</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-printer-woes-issue-fixed/"><u>Epson Printer Woes, Issue Fixed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-14-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-guide-to-the-top-5-windows-snipper-tools/"><u>In 2024, Essential Guide to The Top 5 Windows Snipper Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-driver-downloads-for-the-canon-mp280-printer-compatible-with-windows-systems/"><u>Latest Driver Downloads for the Canon MP280 Printer Compatible with Windows Systems</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/losung-fur-das-konstante-anhalten-von-windows-11-entdecken-sie-6-effektive-methoden/"><u>Lösung Für Das Konstante Anhalten Von Windows 11 - Entdecken Sie 6 Effektive Methoden</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-significance-of-ai-in-prompt-design-and-workforce-outlook/"><u>The Significance of AI in Prompt Design and Workforce Outlook</u></a></li>
 </ul></div>
 

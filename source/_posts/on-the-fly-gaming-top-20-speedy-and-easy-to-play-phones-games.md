@@ -1,7 +1,7 @@
 ---
 title: "On The Fly Gaming: Top 20 Speedy and Easy-to-Play Phones Games"
-date: 2024-09-09T09:36:52.309Z
-updated: 2024-09-10T09:36:52.309Z
+date: 2024-11-21T00:05:02.689Z
+updated: 2024-11-25T07:02:54.960Z
 tags:
   - games
 categories:
@@ -12,24 +12,12 @@ keywords: Fast Phone Gaming,Quick Play Mobile,Speedy Game Apps,Easy Mobile Games
 thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1dec50e97267f5b7542797ed.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## On The Fly Gaming: Top 20 Speedy and Easy-to-Play Phones Games
 
  Whenever you have a small chunk of time to burn, check out these fast and free mobile games for a burst of fun. From awesome arcade challenges to perplexing puzzlers, these games will keep you entertained.
 
  All the games are available for free on Android and iOS, though they contain optional in-app purchases.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 iSlash Heroes
 
 Close
@@ -39,6 +27,10 @@ Close
  The more pieces you remove, the less space there is for the stars to move.
 
 **Download:** iSlash Heroes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.duellogames.iSlash2) |[iOS](https://apps.apple.com/app/islash-heroes/id949498190) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Fishing Break
 
@@ -50,12 +42,6 @@ Close
 
 **Download:** Fishing Break for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=ca.roofdog.fishing) |[iOS](https://apps.apple.com/app/fishing-break/id997811612) (Free, in app-purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Doodle Jump
 
 Close
@@ -95,11 +81,9 @@ You have to be strategic because you have limited moves.
 **Download:** Angry Birds Blast for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.rovio.blast) |[iOS](https://apps.apple.com/app/angry-birds-blast/id1122444037) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7 Roll the Ball
 
 Close
@@ -109,6 +93,10 @@ Close
  Do your best to arrange the tiles so that you can collect three stars on each level. There are no time or move limits, so play at your own pace.
 
 **Download:** Roll the Ball for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.bitmango.rolltheballunrollme) |[iOS](https://apps.apple.com/app/roll-the-ball-slide-puzzle/id961875786) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 NYT Games
 
@@ -120,12 +108,6 @@ Close
 
 **Download:** NYT Games for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.nytimes.crossword) |[iOS](https://apps.apple.com/app/nyt-games-word-games-sudoku/id307569751) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9 Trivia Crack
 
 Close
@@ -134,12 +116,6 @@ Close
 
 **Download:** Trivia Crack for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.etermax.preguntados.lite) |[iOS](https://apps.apple.com/app/trivia-crack/id651510680) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10 Word Chums
 
 Close
@@ -150,12 +126,6 @@ Close
 
 **Download:** Word Chums for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.peoplefun.wordchums) |[iOS](https://apps.apple.com/app/word-chums/id517840944) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11 Draw With Friends
 
 Close
@@ -176,6 +146,10 @@ Close
 
 **Download:** Bowling Crew for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.tetrox.bowl) |[iOS](https://apps.apple.com/app/bowling-crew/id1490240246) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 13 Subway Surfers
 
 Close
@@ -185,6 +159,10 @@ Close
  Stay on top of your game, get a big score, and outrun that cop on your tail.
 
 **Download:** Subway Surfers for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf) |[iOS](https://apps.apple.com/app/subway-surfers/id512939461) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 14 Horizon Chase
 
@@ -214,12 +192,6 @@ Close
 
 **Download:** Pokémon GO for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo) |[iOS](https://apps.apple.com/app/pokémon-go/id1094591345) (Free, in-app purchases available)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 17 WordBrain
 
 Close
@@ -231,11 +203,9 @@ Close
 **Download:** WordBrain for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=se.maginteractive.wordbrain) |[iOS](https://apps.apple.com/app/wordbrain-classic-word-puzzle/id708600202) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 18 Jigsaw Puzzles
 
 Close
@@ -245,17 +215,9 @@ Close
 **Download:** Jigsaw Puzzles for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.easybrain.jigsaw.puzzles) |[iOS](https://apps.apple.com/app/jigsaw-puzzles-puzzle-games/id1324604053) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 19 Crossy Road
 
 Close
@@ -274,14 +236,11 @@ Close
 
 **Download:** Infinite Tiles for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34529/https://play.google.com/store/apps/details?id=com.opalastudios.infinitetiles) |[iOS](https://apps.apple.com/app/infinite-tiles-edm-piano/id1465612626) (Free, in-app purchases available)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -290,4 +249,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-next-level-splitting-tools-beyond-xsplit/"><u>[New] Next-Level Splitting Tools Beyond Xsplit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-complete-strategy-for-superior-animoji-use-on-iphone-x-for-2024/"><u>A Complete Strategy for Superior Animoji Use on iPhone X for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/abolishing-automatic-purchases-in-steam/"><u>Abolishing Automatic Purchases in Steam</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-c67-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme C67 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/expert-online-assistance-hub-for-windows-xdvdripper-and-video-conversion-tools/"><u>Expert Online Assistance Hub for Windows XDVDRipper & Video Conversion Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/managing-background-data-by-xbox-game-bar-in-windows-11/"><u>Managing Background Data by Xbox Game Bar in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-energy-top-choice-charger-kits-for-sonys-ps5-controller/"><u>Next-Gen Energy: Top Choice Charger Kits for Sony's PS5 Controller</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-enabling-phone-radio-feature-on-iphoneandroid/"><u>Step-by-Step Instructions for Enabling Phone Radio Feature on iPhone/Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-trending-holiday-flicks-on-hallmark-channel-including-free-downloads/"><u>Top Trending Holiday Flicks on Hallmark Channel - Including Free Downloads!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/what-sets-the-ipad-apart-from-the-ipad-air/"><u>What Sets the iPad Apart From the iPad Air?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-cloud-game-platform-a-deep-dive/"><u>Xbox’s Cloud Game Platform: A Deep Dive</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-budget-friendly-switch-gaming-guide/"><u>Your Budget-Friendly Switch Gaming Guide</u></a></li>
+</ul></div>
 

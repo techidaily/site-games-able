@@ -1,7 +1,7 @@
 ---
 title: Enabling PS5 Party Mode Sharing
-date: 2024-09-09T09:37:15.608Z
-updated: 2024-09-10T09:37:15.608Z
+date: 2024-11-23T05:33:54.697Z
+updated: 2024-11-24T18:32:09.714Z
 tags:
   - games
 categories:
@@ -12,30 +12,12 @@ keywords: PS5 Party Mode,Sony PS5 Multiplayer Experience,PS5 Game Sharing Option
 thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b57ae525149deda993c1369b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enabling PS5 Party Mode Sharing
 
  To share a physical game with another PlayStation 5 owner, you just hand them the disc, and that's it. Sharing a digital game, however, requires some extra steps, and you can do it through the PS5's game share feature. Thankfully, it's relatively easy to enable and disable as you please.
 
 Here's how you can game share on PS5.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Game Sharing on PS5?
 
  PS5 game share is a feature that allows you to share your digital games with friends and family so they can play them on their PS5 as if they own them. It's slightly different from[game sharing on PS4](https://www.makeuseof.com/how-to-gameshare-on-ps4/) since you don't set the other PS5 as the primary console. Rather, you link your PSN account to the other console and enable an option called**Console Sharing and Offline Play** .
@@ -43,6 +25,10 @@ Here's how you can game share on PS5.
  Do not confuse game sharing with[Share Play on PlayStation 5](https://www.makeuseof.com/how-to-share-ps5-games-share-play/) . The former gives the other person full access to your digital library so they can play the games on their user account, while the latter only gives them temporary access to your user account so they can play your games.
 
  Furthermore, if you have a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) , you will also share it with them, meaning they will be able to access certain PS Plus benefits. These include playing the games in your PS Plus game library (including titles in the classic catalog) and having access to online multiplayer. Benefits they can't use include saving game progress to the cloud and claiming PS Plus discounts and free monthly games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Game Share on PS5
 
@@ -55,60 +41,53 @@ Here's how you can game share on PS5.
 1. On the home screen, select**Settings** (the gear icon) in the top-right corner.  
 ![Screenshot of PS5 home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/improved-user-interface.jpeg)
 2. Select**User and Accounts > Other** on the left side menu, and then select**Console Sharing and Offline Play** on the right.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![the other page of the ps5 user and accounts settings screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/user-and-accounts-ps5.jpg)
 3. Select**Disable** to turn off game sharing on your console.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the console sharing and offline play settings screen on ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/console-sharing-and-offline-play-ps5.jpg)
 4. On the other PS5, connect it to the internet and log into your PSN account. If you don't have an existing account on that console, you can[create a new user account on that PS5](https://www.makeuseof.com/how-to-add-a-new-ps5-user-and-guest-account/) .
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Navigate to the**Console Sharing and Offline Play** screen (steps one and two above).
 6. Select**Enable** this time around to enable game sharing on that console.  
 ![enabling game sharing on PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enabling-game-sharing-on-ps5.jpg)
 7. Download the game your friend or family member wants to play, and they will be able to access it from their account.  
-![the download page of the Witcher 3 on PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-witch-complete-version-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![the download page of the Witcher 3 on PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-witch-complete-version-ps5.jpg)
+
  If you're having problems downloading games after game sharing, it could be due to licensing issues. To fix that, go to**Settings > User and Accounts > Other** and select**Restore Licenses** . Doing this will refresh the licenses of all the digital games in your library so you can download and play them with no problems.
 
  To protect your PSN account, you should never share your login credentials with anyone. That's why we recommend that when signing in and enabling game sharing on another person's PlayStation 5, you do it in person.
 
  When you no longer wish to game share, just disable**Console Sharing and Offline Play** on the other PS5, and re-enable it on yours.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Now You're Ready to Game Share on PS5
 
  PS5 game sharing is a great way to let others play your digital games without having to purchase copies of their own. Not only does this save them money when it comes to game purchases, but it also means they don't need a PS Plus subscription of their own, especially if they just want online multiplayer.
 
  And if your friend or family member has a game in their digital library that you want to play, just have them enable their account's game sharing feature on your PS5 console. That way, you can play each other's games and effectively double the savings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +96,19 @@ Here's how you can game share on PS5.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-kinemaster-guide-to-green-screening/"><u>[Updated] The Ultimate KineMaster Guide to Green Screening</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-by-step-backdrop-blurring-techniques-on-youtube-videos/"><u>2024 Approved Step-by-Step Backdrop Blurring Techniques on YouTube Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/enter-the-battlefield-top-10-immersive-online-fps-browser-games/"><u>Enter the Battlefield: Top 10 Immersive Online FPS Browser Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-recently-introduced-distinctive-accessories-the-hidden-launch-story-zdnet/"><u>Exploring Apple's Recently Introduced Distinctive Accessories: The Hidden Launch Story | ZDNET</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-edge-video-editing-mastering-green-screen-integration/"><u>In 2024, Cutting Edge Video Editing Mastering Green Screen Integration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leveraging-user-feedback-with-instagram-story-questions/"><u>In 2024, Leveraging User Feedback with Instagram Story Questions</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-xbox-s-x-with-best-blu-ray-practices/"><u>Optimize Xbox S X with Best Blu-Ray Practices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-gaming-analyzing-steams-new-ai-standards/"><u>The Evolution of Gaming: Analyzing Steam's New AI Standards</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-improved-steam-deck-key-presses/"><u>Tips for Improved Steam Deck Key Presses</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-budget-budgets-for-white-motherboards/"><u>Top Budget Budgets for White Motherboards</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-advanced-screen-captures-on-android-for-2024/"><u>Unlocking Advanced Screen Captures on Android for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/voice-your-thoughts-quick-recording-in-windows-10/"><u>Voice Your Thoughts Quick Recording in Windows 10</u></a></li>
+</ul></div>
 

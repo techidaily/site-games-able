@@ -1,7 +1,7 @@
 ---
 title: Xbox S&X Repair Strategies & Steps
-date: 2024-11-11T01:17:39.892Z
-updated: 2024-11-16T00:34:58.854Z
+date: 2024-11-20T09:07:34.108Z
+updated: 2024-11-24T17:20:39.864Z
 tags:
   - games
 categories:
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![A screenshot of the Register Device option for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3094.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But with that, your Xbox Series X|S will be registered with Microsoft, and you should be well on your way to booking a repair with Xbox for your Series X|S.
 
 ## How to Check the Warranty Status of Your Xbox Series X|S
@@ -57,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ![A screenshot of the Device Coverage Information for an Xbox Series X registered under a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3100.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bear in mind, that standard Xbox Series X|S warranties for consoles last for 12 months, so if you purchase your Xbox upon release, its warranty will have unfortunately expired. Because of this, you should[maintain consoles like the Xbox Series X](https://www.makeuseof.com/ways-to-maintain-xbox-series-x-hardware/) throughout its generation. This way, you may avoid ever needing to repair your Xbox.
@@ -77,16 +78,7 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 ![A screenshot of a Microsoft account Device Service and Repair screen for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3103-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Enter a short description of your issue and select**Next** .
@@ -95,38 +87,20 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![A screenshot of the repair costs for an Xbox Series X being repaired through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3108.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From here, you need to**Select a shipping method** and agree to Microsoft's terms and conditions. You will then be expected to pay for the repair and any delivery fees. If your console is under warranty, the repair fees should be waived depending on the exact issue with your Xbox.
 
 ![A screenshot of the Shipping Methods for the repair of an Xbox Series X through Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3111.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But with your repair paid for and the delivery method selected, you can expect your Xbox to be fixed and returned to you very soon, or at least depending upon your chosen delivery method.
 
  However, if you find the price tag for a repair to be too expensive, there are plenty of Xbox issues that are fixable at home. For instance,[fixing Xbox Wireless Controller stick drift](https://www.makeuseof.com/how-to-fix-xbox-one-controller-drift/) can be easy and doesn't necessarily require replacements or an official repair.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Repair Your Xbox Series X|S Officially and Efficiently
@@ -150,21 +124,16 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-ps2-emulation-software-for-ios-users/"><u>[New] 2024 Approved Ideal PS2 Emulation Software for IOS Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-making-photographs-larger-without-losing-quality/"><u>[New] 2024 Approved Making Photographs Larger Without Losing Quality</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-flashstoppage-instant-video-quit-guide/"><u>[Updated] In 2024, FlashStoppage Instant Video Quit Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-night-photos-checklist-dos-and-donts-for-2024/"><u>[Updated] The Ultimate Night Photos Checklist Do's and Don'ts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dive-into-screen-recording-expert-insights-on-top-obs-software/"><u>2024 Approved Dive Into Screen Recording Expert Insights on Top OBS Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-picture-paradise-expertly-selected-plugins-and-sites-for-frame-upgrades/"><u>2024 Approved Picture Paradise Expertly Selected Plugins & Sites for Frame Upgrades</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-gaming-aesthetics-and-function/"><u>Budget Gaming: Aesthetics and Function</u></a></li>
-<li><a href="https://games-able.techidaily.com/desk-dwelling-gamers-delight/"><u>Desk Dwelling: Gamers’ Delight</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-initialization-now-flawless/"><u>Direct3D Initialization Now Flawless</u></a></li>
-<li><a href="https://win-top.techidaily.com/free-online-tool-change-mp3-files-into-high-quality-wav-format-with-ease-movevvi/"><u>Free Online Tool: Change MP3 Files Into High-Quality WAV Format with Ease - MoveVvi</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-mobile-games-with-perfect-controller-support/"><u>Peak Mobile Games With Perfect Controller Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/reflecting-on-an-excessive-gpu-purchase-decision/"><u>Reflecting on an Excessive GPU Purchase Decision</u></a></li>
-<li><a href="https://games-able.techidaily.com/select-new-steam-language-option/"><u>Select New Steam Language Option</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-seated-partnership-titles-top-16-xbox-series-choices/"><u>Superior Seated Partnership Titles - Top 16 Xbox Series Choices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-instructions-to-uninstall-apps-on-samsungs-latest-tv-models/"><u>Ultimate Instructions to Uninstall Apps on Samsung's Latest TV Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-your-system-needs-the-top-8-factors-for-a-cooler/"><u>Understanding Your System Needs – The Top 8 Factors for a Cooler</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-conquering-the-world-of-instagram-reels-tips-inside/"><u>[New] 2024 Approved Conquering the World of Instagram Reels – Tips Inside</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-video-grabbers-for-mac-for-2024/"><u>[New] Best Video Grabbers for Mac for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>[New] The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-video-virtuosos-guide-amplifying-iphone-hdri-clarity-using-four-editing-steps/"><u>2024 Approved [Video Virtuoso's Guide] Amplifying iPhone HDRI Clarity Using Four Editing Steps</u></a></li>
+<li><a href="https://games-able.techidaily.com/debating-the-need-for-mechanical-gaming-mice/"><u>Debating the Need for Mechanical Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-gaming-trove-on-steam/"><u>Hidden Gaming Trove on Steam</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-effective-are-evs-when-facing-extreme-weather-challenges/"><u>How Effective Are EVs When Facing Extreme Weather Challenges?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-gt-5-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme GT 5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-enhance-visual-fidelity-with-series-sx-tools/"><u>Learn to Enhance Visual Fidelity with Series S/X Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gamers-image-with-a-new-riot-nickname-and-tagline/"><u>Mastering Your Gamer's Image with a New Riot Nickname and Tagline</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-origin-cant-launch-error-on-windows-operating-systems/"><u>Troubleshooting Guide: Resolving 'Origin Can't Launch' Error on Windows Operating Systems</u></a></li>
 </ul></div>
 

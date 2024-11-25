@@ -1,7 +1,7 @@
 ---
 title: Patience Pays Off in Video Games
-date: 2024-11-15T04:07:08.791Z
-updated: 2024-11-15T21:24:04.956Z
+date: 2024-11-22T19:36:17.222Z
+updated: 2024-11-25T00:48:11.265Z
 tags:
   - games
 categories:
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
  While some people work well under pressure, positive environments often produce the best results. When you actually look at[whether crunch culture creates better video games](https://www.makeuseof.com/does-crunch-culture-deliver-good-bad-games/) , in the end, the answer is far from a resounding yes. Great games have come from crunch culture, sure. But it's simply not worth subjecting workers to crunch culture when it is entirely possible to create brilliant games without it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Delaying Video Games Improves the Final Product
 
  When a video game is delayed, it’s because it’s simply not ready yet. Pulling your chicken out of the oven before it’s finished cooking doesn’t automatically make it done. If you take it out too early, it will be inedible. Although that’s a bit of an extreme example, the same general idea applies to games that are released before they’re finished.
@@ -42,10 +46,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 ![A screenshot taken from CD Projekt Red of the key art for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cyberpunk-2077-key-art.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[CD Projekt Red](https://www.cdprojektred.com/en/our-games)
@@ -53,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  Developers continued working on Cyberpunk 2077 well after its release date, and it's great now. But it is clear to see that the game would have met a much warmer reception if the developers had been given enough time to finish it before it was released.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Better Games Mean Better Sales
@@ -66,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  Delaying the release of games allows the final product to be better, which means better sales, which means creators have the resources required to make more titles for gamers to enjoy. That is the circle of life for video games, but that cycle stops if a game doesn’t sell well enough to recoup costs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Gamers Will Actually Get What They Paid For
@@ -78,20 +73,11 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 ![Man holding white piece over paper that reads balance over burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-white-piece-over-paper-that-reads-balance-over-burnout.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In situations like this, everyone loses. The consumer loses, the development team loses, and the publisher loses. All for something that could have possibly been avoided if the game’s release date was pushed back a bit and developers had enough time to create a more polished experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unfinished Games Don’t Benefit Anyone
 
@@ -114,24 +100,20 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-digital-frontier-exploration-selecting-best-tools-for-turning-images-into-nfts/"><u>[New] 2024 Approved Digital Frontier Exploration Selecting Best Tools for Turning Images Into NFTs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-action-screen-recorder-review/"><u>2024 Approved Action Screen Recorder Review</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>2024 Approved Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-to-reading-understanding-and-playing-epic-and-gog-titles/"><u>A Guide to Reading, Understanding, and Playing Epic & GOG Titles</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-tab-s4-the-ultimate-portable-android-device/"><u>Comprehensive Analysis of the Samsung Galaxy Tab S4: The Ultimate Portable Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquering-your-console-game-pass-portfolio/"><u>Conquering Your Console Game Pass Portfolio</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eliminate-display-disturbance-learn-how-to-tackle-phone-screen-flicker-with-these-7-proven-solutions/"><u>Eliminate Display Disturbance: Learn How to Tackle Phone Screen Flicker with These ^7 Proven Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-achieve-a-cinematic-experience-with-tv-tuning/"><u>How to Achieve a Cinematic Experience with TV Tuning</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/05681873-in-2024-free-end-credits-maker-the-1-video-closers-guide/"><u>In 2024, Free End Credits Maker - The #1 Video Closers Guide!</u></a></li>
-<li><a href="https://games-able.techidaily.com/ioss-gaming-extravaganza-why-i-subscribe-to-apple-arcade/"><u>IOS's Gaming Extravaganza: Why I Subscribe to Apple Arcade</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-innovators-in-virtual-reality-production/"><u>Leading Innovators in Virtual Reality Production</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-new-innovations-through-toms-hardware-wisdom/"><u>Navigating New Innovations Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/octobers-must-have-prime-gaming-bargains-for-gamers-save-big-on-the-latest-releases/"><u>October's Must-Have Prime Gaming Bargains for Gamers: Save Big on the Latest Releases</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-responsibly-skip-the-ps5-controllers-mic/"><u>Play Responsibly: Skip the PS5 Controller's Mic</u></a></li>
-<li><a href="https://games-able.techidaily.com/psplus-vs-xbgplus-best-gaming-subscription-comparison/"><u>PS+ vs XBG+: Best Gaming Subscription Comparison</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/snag-the-ultimate-vr-experience-with-metas-limited-time-october-deal-on-512gb-quest-3-prime-day-bargain-hunters-guide-zdnet/"><u>Snag the Ultimate VR Experience with Meta's Limited-Time October Deal on 512GB Quest 3 - Prime Day Bargain Hunter’s Guide | ZDNET</u></a></li>
-<li><a href="https://games-able.techidaily.com/stay-alert-parenting-in-the-era-of-virtual-connectivity/"><u>Stay Alert! Parenting in the Era of Virtual Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/subtle-steam-title-concealment/"><u>Subtle Steam Title Concealment</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[New] In 2024, Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveiling-success-the-best-tools-for-youtube-seo-and-keyword-research-for-2024/"><u>[New] Unveiling Success The Best Tools for YouTube SEO and Keyword Research for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-facebook-video-submission-pc-and-android-users-blueprint/"><u>[Updated] 2024 Approved Facebook Video Submission PC and Android Users' Blueprint</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/amazon-music-showdown-understanding-the-key-distinctions-between-prime-and-unlimited-membership-plans/"><u>Amazon Music Showdown: Understanding the Key Distinctions Between Prime and Unlimited Membership Plans.</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-charts-3-must-visit-score-boosting-platforms/"><u>Conquer the Charts: 3 Must-Visit Score-Boosting Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-leading-av1-video-transcoders-for-converting-av1-to-mp4-hevc-formats-and-beyond/"><u>Discover the Leading AV1 Video Transcoders for Converting AV1 to MP4, HEVC Formats and Beyond</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-strategies-for-dominating-tetris-on-mobile-devices/"><u>Epic Strategies for Dominating Tetris on Mobile Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/eradicate-epic-game-crashes-on-windows-systems/"><u>Eradicate Epic Game Crashes on Windows Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/essential-tips-on-retrieving-your-saved-website-favorites/"><u>Essential Tips on Retrieving Your Saved Website Favorites</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-system-running-smoothly-limit-steams-ram-consumption/"><u>Keep Your System Running Smoothly: Limit Steam's RAM Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-embrace-the-upcoming-rtx-now/"><u>Should Your PC Embrace the Upcoming RTX Now?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-legally-convert-youtube-to-mp4-format-for-2024/"><u>Step-by-Step Legally Convert YouTube to MP4 Format for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tensile-strength-measures-how-much-pulling-force-a-material-can-withstand-before-failing/"><u>Tensile Strength Measures How Much Pulling Force a Material Can Withstand Before Failing.</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steams-failed-remote-gaming-link/"><u>Troubleshooting Steam's Failed Remote Gaming Link</u></a></li>
 </ul></div>
 

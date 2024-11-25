@@ -1,7 +1,7 @@
 ---
 title: Why GameFi Can't Break Through to Core Gamer Circles
-date: 2024-11-14T02:09:05.317Z
-updated: 2024-11-15T21:35:01.026Z
+date: 2024-11-22T06:55:43.538Z
+updated: 2024-11-24T19:33:32.386Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * GameFi's potential among gamers is limited due to token instability, as crypto assets are known for their price fluctuations. This means that users could potentially lose a significant amount of value earned through gameplay.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  So, what are the problems with GameFi, and why will they seal its fate?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GameFi?
 
  GameFi ([short for gaming finance](https://www.makeuseof.com/what-is-gamefi/) ) is a blend of the gaming and decentralized finance (DeFi) industries, wherein users can play games to earn crypto tokens and other decentralized assets, such as NFTs. GameFi allows blockchain-based apps to shift into the gaming industry, attracting users with the lure of digital tokens.
@@ -44,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
  While GameFi may seem innovative, many downsides affect players and investors.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Token Instability
 
  If there's one thing we can all agree on about crypto, it's that assets are almost always unstable in price. From new, smaller tokens to market leaders like Bitcoin, price fluctuations have been a problem from the beginning.
@@ -60,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Even if a P2E game solely rewards users with NFTs, cryptocurrency price fluctuations directly affect how much a user can get through the sale of their P2E NFTs. For instance, if an NFT is worth 2 ETH and Ethereum's price drops by 10%, the NFT owner stands to lose 10% of their original profit when they[sell this NFT on a marketplace](https://www.makeuseof.com/best-nft-marketplaces-buying-all-kinds-digital-assets/) like OpenSea.
 
  GameFi developers could aim to adopt stablecoins over regular cryptos in P2E games, as this provides more price stability and protects users from really suffering when the market turns downward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scams
 
@@ -88,10 +93,7 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Higher transaction fees can put people off getting into GameFi, as a large chunk of their earnings will be stripped away through these mandatory charges. It's a loss and isn't something that attracts gamers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Prioritizing Money Over the Game
@@ -99,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
  Naturally, when a game offers digital assets in return for playtime, users will put the earnings at the front and center of why they play the game.
 
  There's nothing inherently wrong with this, but avid gamers may argue that adding real-world tokenomics to a video game somewhat removes the heart of it. Developers may choose to cut corners by leaving in bugs or providing poor game progression, factors which can severely affect the enjoyment and satisfaction people receive when they game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Lack of Regulation
 
@@ -129,16 +124,13 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 ![screenshot of coinmarketcap illuvium seven day price graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/illuvium-price-graph.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Between August 14 and 22, the price of one ILV token went from $53 to $42, a drop of almost 21% in just over a week. This drop doesn't seem to be the result of any major scandal or market crash. Rather, it seems to be a product of a lack of interest.
 
  It's been a while since Illuvium's developers have given gamers anything new, with many getting bored with waiting. While top-tier games without the P2E structure focus heavily on user satisfaction and experience, P2E developers often have more of a focus on increasing the in-game token value.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GameFi's Future Is Precarious
 
@@ -159,14 +151,17 @@ thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-mastery-essential-tech-to-enhance-your-streams/"><u>[New] YouTube Mastery Essential Tech to Enhance Your Streams</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-regular-and-premium-discord-service/"><u>Comparing Regular and Premium Discord Service</u></a></li>
-<li><a href="https://os-tips.techidaily.com/current-status-of-game-emulator-legality-safe-or-on-the-brink-of-illegalization/"><u>Current Status of Game Emulator Legality: Safe or on the Brink of Illegalization?</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0xc00000e9-explained-strategies-for-fixing-the-plcncachewiper-stop-error-on-windows/"><u>Error Code 0xC00000E9 Explained: Strategies for Fixing the PLCN_CACHE_WIPER Stop Error on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-the-nyc-connection-game-like-a-pro-8-steps/"><u>How to Play the NYC Connection Game Like a Pro (8 Steps)</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-pitch-turn-off-series-s-shakes/"><u>Perfect Pitch: Turn Off Series S Shakes</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-gtx-world-do-you-need-an-rtx-right-away/"><u>Post-GTX World: Do You Need an RTX Right Away?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-se-2022-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone SE (2022) and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unexpected-grand-adventures-await-in-our-yokus-island-express-gameplay-analysis/"><u>Unexpected Grand Adventures Await in Our Yoku's Island Express Gameplay Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>[New] In 2024, How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-melodies-of-matrimony-romantic-hits-for-the-big-moment/"><u>[Updated] Melodies of Matrimony Romantic Hits for the Big Moment</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-your-xbox-controllers-energy-efficiency/"><u>Boosting Your Xbox Controller's Energy Efficiency</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-gamepad-and-smartphone-through-bluetooth/"><u>Bridge Gamepad and Smartphone Through Bluetooth</u></a></li>
+<li><a href="https://games-able.techidaily.com/calm-gaming-tame-your-xbox-series-vibration/"><u>Calm Gaming: Tame Your Xbox Series Vibration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-you-crafting-personalized-health-targets-for-success/"><u>ChatGPT and You: Crafting Personalized Health Targets for Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/chdman-technique-optimizing-old-game-isos-size-and-performance/"><u>ChDMan Technique: Optimizing Old Game ISOs Size & Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/color-me-inspired-tecnos-smartphone-revamp-for-ifa-2023/"><u>Color Me Inspired: Tecno’s Smartphone Revamp for IFA 2023</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi Note 12 Pro+ 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-top-15-non-copyrighted-music-for-montages/"><u>New Top 15 Non Copyrighted Music for Montages</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-finding-the-most-impactful-keywords-for-your-videos-for-2024/"><u>The Ultimate Guide to Finding the Most Impactful Keywords for Your Videos for 2024</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/top-free-online-radio-platforms-your-ultimate-guide-to-unlimited-listening/"><u>Top Free Online Radio Platforms: Your Ultimate Guide to Unlimited Listening</u></a></li>
 </ul></div>
 

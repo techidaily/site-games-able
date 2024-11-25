@@ -1,7 +1,7 @@
 ---
 title: The Hidden Risks Behind LinkedIn's Latest Gaming Venture
-date: 2024-09-09T09:33:58.894Z
-updated: 2024-09-10T09:33:58.894Z
+date: 2024-11-24T08:48:02.578Z
+updated: 2024-11-25T07:00:31.135Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: LinkedIn Gaming Risks,Gaming Venture Dangers,Social Network Gaming,Net
 thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815dae1954866b21ab967027c21.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Hidden Risks Behind LinkedIn's Latest Gaming Venture
 
 ### Quick Links
@@ -26,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -50,35 +38,29 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Crossclimb
 
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Queens
 
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
 
@@ -88,36 +70,29 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why LinkedIn Users Shouldn't Play These Games
 
  The bottom line is, you should steer well clear of these games. Why? Because LinkedIn isn't designed for these frivolities, and they'll just distract you from using LinkedIn in the way it was intended to be used. Not only that, sharing your scores with your LinkedIn contacts could look unprofessional, and make it look like you're doing something other than being productive. Which is not what hiring managers and potential employers want to see.
 
  Play web games as much as you want, but do so on the New York Times, Facebook, or any of the other platforms specifically designed to let you waste away your free time. If you're on LinkedIn, use your time more productively by[improving your LinkedIn profile](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) or[broadening your network](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . To be fair to LinkedIn, the platform addresses these concerns directly in[its announcement/tutorial](https://www.linkedin.com/pulse/how-play-games-linkedin-seriously-michaelaalexis-gqwre/) , but I still can't help thinking that this is a misstep from the company.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +101,19 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-dominance-youtubes-best-female-gamers/"><u>[New] In 2024, Digital Dominance YouTube's Best Female Gamers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-social-media-shifts-yearly-data-visualization-guide/"><u>[New] In 2024, Social Media Shifts Yearly Data Visualization Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-an-odyssey-through-time-unexplored-worlds-in-classic-books/"><u>[Updated] An Odyssey Through Time Unexplored Worlds in Classic Books</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-wonders-our-favorites-list/"><u>[Updated] High Definition Wonders Our Favorites List</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pioneers-shaping-the-future-of-vr-experiences/"><u>[Updated] Pioneers Shaping The Future Of VR Experiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-to-create-gripping-documentary-scenes/"><u>[Updated] Strategies to Create Gripping Documentary Scenes</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-quirky-and-fun-chess-apps-to-play-chess-variants-online-or-against-ai/"><u>6 Quirky and Fun Chess Apps to Play Chess Variants Online or Against AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-brilliant-blend-of-tradition-and-innovation-why-pi/"><u>A Brilliant Blend of Tradition and Innovation: Why Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/add-an-unbreakable-barrier-implement-passcode-lock-on-switch-console/"><u>Add an Unbreakable Barrier: Implement Passcode Lock on Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/banishing-display-lag-zeroing-out-error-code-0x887a0006/"><u>Banishing Display Lag: Zeroing Out Error Code 0X887A0006</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "FSR 3 Rollout by AMD: The Next Chapter in Anti-Aliasing Warfare?"
-date: 2024-09-09T09:36:53.639Z
-updated: 2024-09-10T09:36:53.639Z
+date: 2024-11-22T06:56:54.750Z
+updated: 2024-11-24T17:30:41.224Z
 tags:
   - games
 categories:
@@ -12,13 +12,11 @@ keywords: FSR Anti-Aliasing Tech,AMD Radeon FSR Update,Next-Gen FSR Rollout,AMD 
 thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa434982e234c62e6bb83237e0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FSR 3 Rollout by AMD: The Next Chapter in Anti-Aliasing Warfare?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,18 +28,6 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  However, that doesn't mean AMD has given up on FSR. Far from it, in fact. At Gamescom 2023, alongside the launch of its new GPUs, AMD also announced FSR 3, which promises great improvements over its predecessor in performance and image fidelity. It's a major upgrade, but can it compete with NVIDIA DLSS 3.5?
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is AMD's FSR 3?
 
  You might already know what FSR, or[FidelityFX Super Resolution](https://www.makeuseof.com/amd-fsr-explained/) , is, but we'll give you a quick refresh if not. FSR is software that takes games rendered at a lower resolution and upscales them to higher ones. It's AMD's competition to[NVIDIA's DLSS](https://www.makeuseof.com/how-deep-learning-super-sampling-can-give-budget-pcs-top-end-graphics/) , boosting in-game visuals and frame rates, and FSR 3 is the latest version of this technology. AMD announced the new tech right as it announced its newest GPUs, the[Radeon RX 7800 XT and the Radeon RX 7700 XT](https://www.makeuseof.com/everything-you-need-to-know-amd-radeon-rx-7800-xt-and-rx-7700-xt/) .
@@ -51,11 +37,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![AMD FSR 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/fsr-3-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Image Credits: AMD
 
  AMD is employing a series of new party tricks to further improve its experience, including one called "Fluid Motion Frames." Essentially, it's a competitor to DLSS's Frame Generation, which generates and fits new frames between actual rendered frames, dramatically improving your frame rates. Fluid Motion Frames will be supported on games that support FSR 3 and in all DirectX 11 and 12 games, as long as you have a Radeon 7000-Series GPU.
@@ -63,11 +47,9 @@ Image Credits: AMD
  FSR 3 will be available on all Radeon RDNA cards (5000-Series, 6000-Series, and 7000-Series), Intel Arc GPUs, and NVIDIA RTX GPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does FSR 3 Compare to DLSS 3.5?
 
  Of course, the big elephant in the room is how AMD's FSR 3 fares compared to its direct competitor,[NVIDIA's recently updated DLSS 3.5](https://www.makeuseof.com/what-is-nvidia-ai-powered-dlss-3-5/) . NVIDIA announced its latest technology just days before FSR 3, as basically a drop-in upgrade for DLSS 3-compatible cards. DLSS 3.5's biggest upgrade is how it leverages the power of AI to help with its upscaling, employing a model called Ray Reconstruction to create high-quality ray-traced images.
@@ -77,33 +59,26 @@ Image Credits: AMD
  As for how well it works compared to its direct competitor, we'll have to see FSR 3 in use in-game to compare properly. We'd expect things to remain pretty similar to how they are, with FSR producing similar framerate gains but with less detail than DLSS.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Use FSR 3?
 
  If you have an AMD GPU or another GPU that doesn't support DLSS, using FSR is a no-brainer. It can greatly help your framerates, especially if you have a higher-resolution monitor. FSR 3 is a great improvement to an already great technology, and you should give it a spin as soon as it's available. AMD says that new titles Forspoken and Immortals of Aveum will get support in September, with other games following suit.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FSR 3 is a Big Improvement
 
  When NVIDIA added Frame Generation to DLSS 3, it was a big breakthrough. By generating extra frames from scratch, your frame rates could be effectively doubled. With this addition to FSR 3, you should see the same kind of gains, and we're excited to see how it fares in real life.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +87,22 @@ Image Credits: AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fb-content-extraction-mastered-discover-the-5-apps/"><u>[New] In 2024, FB Content Extraction Mastered - Discover the #5 Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-audio-visual-vanguard-evaluating-the-best-classroom-recorders/"><u>[Updated] 2024 Approved Audio-Visual Vanguard Evaluating the Best Classroom Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhance-projects-no-cost-templates-for-pp-prodigies/"><u>[Updated] In 2024, Enhance Projects No-Cost Templates for PP Prodigies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-wealthiest-web-workshops-hosts-for-2024/"><u>[Updated] Wealthiest Web Workshops Hosts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/alternative-play-styles-for-your-ps5-console/"><u>Alternative Play Styles for Your PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-computing-mini-pc-versus-full-sized-desktops/"><u>Compact Computing: Mini PC Versus Full-Sized Desktops</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-worlds-flicker-but-do-they-matter-to-us/"><u>Game Worlds Flicker, But Do They Matter to Us?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-nvidia-g-sync-transform-your-gaming-vision/"><u>How Does Nvidia G-Sync Transform Your Gaming Vision?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-enriching-meta-descriptions-a-template-transformation-journey/"><u>In 2024, Enriching Meta Descriptions A Template Transformation Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-with-easy-windows-11-rejuvenation-methods-refresh-and-reset-tips-inside/"><u>Optimize Your PC with Easy Windows 11 Rejuvenation Methods – Refresh & Reset Tips Inside</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paperclips-computing-and-the-quest-for-maximum-optimization/"><u>Paperclips, Computing, & The Quest for Maximum Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/tecnos-ifa-showcase-slimmer-brighter-models-arrive/"><u>Tecno’s IFA Showcase: Slimmer, Brighter Models Arrive</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tier-gaming-setup-with-modular-keyboard-akkos-mod007b/"><u>Top-Tier Gaming Setup with Modular Keyboard - Akko's MOD007B</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-spoken-words-into-written-text-using-in-built-tools-of-office-suite-ms-word-for-2024/"><u>Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-da-vinci-resolve-for-seamless-mxf-file-management-and-editing/"><u>Troubleshooting DA VINCI Resolve for Seamless MXF File Management and Editing</u></a></li>
+</ul></div>
 

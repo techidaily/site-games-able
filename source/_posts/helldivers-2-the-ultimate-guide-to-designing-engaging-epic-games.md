@@ -1,7 +1,7 @@
 ---
 title: "Helldivers 2: The Ultimate Guide to Designing Engaging, Epic Games"
-date: 2024-11-12T22:06:24.917Z
-updated: 2024-11-16T02:51:40.143Z
+date: 2024-11-19T10:54:24.940Z
+updated: 2024-11-24T20:27:00.172Z
 tags:
   - games
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 * [Offer Community Challenges](#offer-community-challenges)
 * [Have a Free Progression System](#have-a-free-progression-system)
 * [Balance Gameplay Mechanics](#balance-gameplay-mechanics)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,14 +58,11 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![Screenshot of Helldivers 2 Warbond menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415451.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Have A Strong Social Media Presence
 
@@ -69,27 +70,17 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Offer Community Challenges
 
 ![Screenshot of Major Order in Helldivers 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415472.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Helldivers 2 also succeeded in creating a sense of community through weekly challenges known as Major Orders. One recent Major Order required the game's player base to kill 2 million Terminids to receive in-game currency called medals.
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Have a Free Progression System
 
@@ -97,26 +88,20 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 ![Screenshot of Helldivers 2 Acquisition Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415430.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Players can find Super Credits, which unlock new monthly Warbonds and cosmetics, across missions at random points on the map. Super Credits are also available for purchase in the game store. Medals can be obtained by completing Major Orders or finding stashes during missions. You can also earn medals by completing missions. The higher the difficulty level of the mission, the more medals players unlock upon completion.
 
 ![Screenshot of Helldivers 2 Super Credits store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415072.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are also samples scattered across each mission depending on the difficulty level. Players can trade in these samples to upgrade their ships and stratagems, which are mission call-ins and weapons, such as airstrikes and turrets. Finally, requisition slips pop up, which players earn by completing missions or locating points of interest on the map, which unlock new stratagems.
 
 ![Screenshot of Helldivers 2 strategem menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415051.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
@@ -148,20 +133,20 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>[New] In 2024, Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-photo-perfection-best-practices-for-integrating-frames-online/"><u>[New] In 2024, Photo Perfection Best Practices for Integrating Frames Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-forward-leveraging-live-talks-in-the-instagram-world/"><u>[Updated] 2024 Approved Step Forward Leveraging Live Talks in the Instagram World</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-m1-explored-apples-leap-in-computational-innovation/"><u>[Updated] M1 Explored Apple's Leap in Computational Innovation</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-desktop-gaming-experience-with-a-ps5-pad/"><u>Enhancing Your Desktop Gaming Experience with a PS5 Pad</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Without a Passcode</u></a></li>
-<li><a href="https://games-able.techidaily.com/keyboard-speed-balancing-accuracy-and-fluidity/"><u>Keyboard Speed: Balancing Accuracy & Fluidity</u></a></li>
-<li><a href="https://games-able.techidaily.com/metaquest-3-where-reality-meets-fantasy/"><u>MetaQuest 3: Where Reality Meets Fantasy</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/most-effective-profile-transfer-utility-for-multiple-windows-versions-optimize-your-shift-to-win7-win8-or-win10/"><u>Most Effective Profile Transfer Utility for Multiple Windows Versions: Optimize Your Shift to Win7, Win8 or Win10</u></a></li>
-<li><a href="https://games-able.techidaily.com/sequential-advantages-optimal-cpugpu-upgrade-order/"><u>Sequential Advantages: Optimal CPU/GPU Upgrade Order</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailoring-your-tech-edge-the-ideal-dpi-level-for-fps-enthusiasts/"><u>Tailoring Your Tech Edge: The Ideal DPI Level for FPS Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-aftermath-of-leaving-ps-plus-service/"><u>The Aftermath of Leaving PS Plus Service</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-quintessential-quotient-subscriber-rankings-for-2024/"><u>The Quintessential Quotient Subscriber Rankings for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hannel-creators-reveal-their-favorite-quick-setup-ideas-for-your-business/"><u>Top Channel Creators Reveal Their Favorite Quick Setup Ideas for Your Business</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-gameplay-essential-tweaks-for-switch-users/"><u>Transforming Gameplay: Essential Tweaks for Switch Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-enhance-reach-the-top-10-highlight-strategies-unveiled/"><u>[Updated] 2024 Approved Enhance Reach The Top 10 Highlight Strategies Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-zoom-audio-settings-for-getting-audio-quality-in-zoom-meeting/"><u>[Updated] Best Zoom Audio Settings for Getting Audio Quality in Zoom Meeting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-the-autoplay-feature-in-your-apple-music-library/"><u>Disabling the Autoplay Feature in Your Apple Music Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-navigate-the-complexities-of-game-refunds-on-steam/"><u>How to Navigate the Complexities of Game Refunds on Steam</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-15-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 15 Pro Max Activation Lock</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpu-troubleshooting-four-common-pitfalls/"><u>Mastering GPU Troubleshooting: Four Common Pitfalls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-through-atandts-overseas-roaming-agreement/"><u>Navigating Through AT&T's Overseas Roaming Agreement</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-freezing-issues-in-fallout-3-on-windows-10-computers/"><u>Overcoming Freezing Issues in Fallout 3 on Windows 10 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-issues-heres-how-to-resolve-the-persistent-game-crashing-problem/"><u>Resident Evil Village PC Issues? Here's How to Resolve the Persistent Game Crashing Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-the-six-secrets-of-starting-ps5/"><u>Revel in the Six Secrets of Starting PS5</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-solution-overcoming-download-failures-from-youtube-via-keepvid-toolbar-extension/"><u>Step-by-Step Solution: Overcoming Download Failures From YouTube via KeepVid Toolbar Extension</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ergonomic-mouse-squares/"><u>Superior Ergonomic Mouse Squares</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-offline-mobile-game-classics-ios/"><u>The Ultimate Collection of Offline Mobile Game Classics (iOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-top-5-pros-of-paid-vs-free-mobile-gaming-apps/"><u>The Ultimate Guide: Top 5 Pros of Paid vs Free Mobile Gaming Apps</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windows-11-10-8-7-hdd/"><u>Windows 11, 10, 8, 7 HDD 交換前の重要なデータ保存ガイド</u></a></li>
 </ul></div>
 

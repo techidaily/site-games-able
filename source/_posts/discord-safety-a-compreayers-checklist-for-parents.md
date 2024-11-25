@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2024-11-12T16:15:28.281Z
-updated: 2024-11-15T19:05:04.944Z
+date: 2024-11-22T21:49:21.086Z
+updated: 2024-11-24T19:19:32.653Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Discord, and Why Do Kids Use It?
 
  Discord was launched in 2015, and initially served primarily as a[communication platform for gamers](https://www.makeuseof.com/how-to-get-started-discord-beginners-guide/) . Over the years, it's become a lot more than that, with millions of people around the globe using it every single day. Discord is available on pretty much all platforms and operating systems and can also run in web browsers, so children can access it very easily.
@@ -34,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 ![Discord logo on black and white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/discord-parental-controls.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Discord requires users to be at least 13 years old. However, this requirement is not strictly enforced, since the platform doesn't actually verify a user's age upon signup. At the same time, it needs to be noted that Discord is not just for texting, but also for exchanging photos and videos, as well as making audio and video calls. In other words, a child is very likely to encounter inappropriate content at some point, which is definitely something parents should be aware of.
@@ -50,22 +51,12 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Communicate Openly
@@ -81,15 +72,16 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Encourage Critical Thinking
 
@@ -116,22 +108,17 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-audio-archiving-pc-noises-and-dialogue-storage/"><u>[New] 2024 Approved Audio Archiving PC Noises & Dialogue Storage</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-measuring-movie-gb-usage-over-a-day/"><u>[New] In 2024, Measuring Movie GB Usage Over a Day</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-strategies-to-procure-perfect-photographic-archives-for-2024/"><u>[Updated] Strategies to Procure Perfect Photographic Archives for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-xsplit-versus-obs-ultimate-livestream-guide/"><u>[Updated] XSplit versus OBS – Ultimate Livestream Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/499-virtual-driving-dream-embrace-moza-r5-bundle/"><u>$499 Virtual Driving Dream - Embrace MOZA R5 Bundle</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gently-lower-sound-amplitude-tutorial/"><u>2024 Approved Gently Lower Sound Amplitude Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/accelerating-online-interactions-strategies-to-diminish-pings-and-latency/"><u>Accelerating Online Interactions: Strategies to Diminish Pings and Latency</u></a></li>
-<li><a href="https://games-able.techidaily.com/after-the-subscription-discontinued-games-fate/"><u>After the Subscription: Discontinued Games' Fate</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-smart-7-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Smart 7 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-unboxing-expert-tips-and-tricks/"><u>Mastering Unboxing Expert Tips and Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcome-software-hurdles-for-a-smooth-steam-experience/"><u>Overcome Software Hurdles for a Smooth Steam Experience</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-metaverse-brand-presence-for-2024/"><u>Pioneering Metaverse Brand Presence for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-under-the-sun-8-summer-ar-games/"><u>Play Under the Sun: 8 Summer AR Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/silence-steam-on-boot-process/"><u>Silence Steam On Boot Process</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-sharing-your-netflix-viewing-experience-live/"><u>Step-by-Step Guide: Sharing Your Netflix Viewing Experience Live</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-computer-gaming-experience-through-steam-deck/"><u>Transform Your Computer Gaming Experience Through Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-journeys-browsing-through-5-adventures/"><u>Virtual Journeys: Browsing Through 5 Adventures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boost-your-channels-with-these-10-artisan-banner-creators-for-2024/"><u>[Updated] Boost Your Channels with These 10 Artisan Banner Creators for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>2024 Approved Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-media-player-pc-and-tablet-edition/"><u>2024 Approved Optimal Media Player (PC & Tablet Edition)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-faux-pas-essential-tips-for-effective-content-generation-with-chatgpt/"><u>Avoiding Faux Pas: Essential Tips for Effective Content Generation with ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-resolving-display-driver-failure-in-windows/"><u>Essential Tips for Resolving Display Driver Failure in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-office-mats-and-their-benefits/"><u>Excellent Office Mats and Their Benefits</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-htc-u23-pro-easily-by-drfone-android/"><u>How To Unlock a HTC U23 Pro Easily?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x100-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X100 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-the-experience-with-am08-pro-a-true-representation-of-magic/"><u>Is the Experience with AM08 Pro a True Representation of Magic?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gaming-potential-installing-on-steam-decks/"><u>Maximizing Gaming Potential: Installing on Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/series-x-disc-woes-find-the-eject-fix-now/"><u>Series X Disc Woes, Find the Eject Fix Now!</u></a></li>
 </ul></div>
 

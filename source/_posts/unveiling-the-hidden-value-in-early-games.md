@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Hidden Value in Early Games
-date: 2024-09-09T09:33:59.438Z
-updated: 2024-09-10T09:33:59.438Z
+date: 2024-11-20T17:25:46.420Z
+updated: 2024-11-25T05:35:56.755Z
 tags:
   - games
 categories:
@@ -12,26 +12,8 @@ keywords: Early Game Worth,Uncovering Values,Early Gaming Benefits,Initial Game 
 thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a570e502a336cc42130adb602.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unveiling the Hidden Value in Early Games
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Early Access?](#what-is-early-access)
@@ -44,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
 * [Con: The Game May Become Unrecognizable](#con-the-game-may-become-unrecognizable)
 * [Con: Risk of Abandonment](#con-risk-of-abandonment)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Early access allows for player involvement in game development, providing feedback, testing, and a role in shaping the final product.
@@ -53,27 +39,13 @@ thumbnail: https://thmb.techidaily.com/d7dc5f497c3ff92b83099053ccb7b434fc4fb16a5
  Early access games are abundant in the industry. While many are fun and absolutely worth your money, they come with some drawbacks that could prevent you from enjoying your time completely.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Early Access?
 
 ![Early Access section on Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/early-access-section-on-steam-game.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Early access games are games that are released before the publishers or developers think it is ready for its official release.
@@ -84,28 +56,20 @@ Jhet Borja/MakeUseOf
 
  Steam is one of the most popular platforms to get early access to many games, but you can also get[early access for Xbox games](https://www.makeuseof.com/how-to-participate-in-xbox-research-for-xbox-series-xs/) or even Google Play.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pro: Contributing to the Development of the Game
 
 ![Dinkum gameplay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/dinkum-gameplay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Early access games usually allow players to have an active role in how the game transforms. Players can often join Discord servers where the developers are easily accessible and their concerns, feedback, bug reports, and suggestions can all be taken seriously.
 
  My favorite example of this is Dinkum. It’s a farm builder similar to Animal Crossing or Stardew Valley, but with a lot of Australian personality. It’s developed by one person and it has a busy and active Discord server where your concerns can be seen directly by the developer.
 
  Dinkum has grown to be an awesome game and it is partially thanks to early access. It not only gained funding, but also real player testing and feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Con: The Game Might Be in Early Access Limbo
 
  Some games take forever to reach their official release stage. BeamNG.drive is one example that's been in early access since 2015\. Of course, the game has transformed so much since its early days that it's starting to be recognized as one of the best rally simulators, but the game itself is still very reliant on community-created mods, maps, cars, and plugins.
@@ -118,16 +82,14 @@ Jhet Borja/MakeUseOf
 
 ![valheim store page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valheim-store-page-on-steam.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Valheim was released in a pretty early state. While you were able to complete the game, there were many features that the developers still wanted to implement. The building mechanics were frustrating and limiting, and the spider biome was still completely empty. My friends and I also faced frequent crashes and connection issues despite having no connection issues on any of our computers.
 
  Despite those issues, it was still a wonderfully fun game that we put 90 hours into within just a week and we only looked forward to how the game would improve over time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro: Early Access Games Are Usually Cheaper
 
  While it’s not always the case, there have been many times where early access prices are lower than the release price.
@@ -137,6 +99,10 @@ Jhet Borja/MakeUseOf
  However, there are cases where the price goes down after release. This could be to gain more sales, or because early access players have given feedback about the price. Either way the price goes, you should only buy it if you think it’s worth it.
 
  Thankfully[Steam refunds are pretty easy to do](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) ; so long as your playtime is less than 2 hours or you’ve owned the game for less than 14 days, you can refund it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Con: Incomplete Story/World/Mechanics
 
@@ -148,12 +114,6 @@ Jhet Borja/MakeUseOf
 
  You’re often left waiting until the updates roll out to get more of what you were promised. This is usually why games like Palworld have a very steep drop in player count after a few weeks. Without many of the features that would’ve kept players busy and having fun, it’s easy to feel like there’s nothing more to the game except waiting for future updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro: Experiencing the Game’s Transformation
 
  While you should know that you’re paying for something that’s incomplete, it should still be worth it if you enjoy it.
@@ -178,14 +138,11 @@ Jhet Borja/MakeUseOf
 
  With more and more games opting to go early access, you should always keep in mind if it’s worth its price or not. Ask yourself if you would pay the amount they’re asking for despite the game not being in its best state, whether it’s worth waiting for those updates, or if you can afford to lose what you spent. What matters the most is that you enjoy what you paid for.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +151,26 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>[New] 2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/harting-a-course-through-yts-creative-space-for-2024/"><u>[New] Charting a Course Through YT's Creative Space for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-circle-of-life-filming-iphone-videography-explained-for-2024/"><u>[New] The Circle of Life Filming IPhone Videography Explained for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ignite-your-passion-launching-an-epic-youtube-game-streaming-venture/"><u>[Updated] Ignite Your Passion Launching an Epic YouTube Game-Streaming Venture</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-superior-traits-of-microsoft-edge-in-games/"><u>8 Superior Traits of Microsoft Edge in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-the-unintended-effects-of-gaming-industry-funding-shifts/"><u>A Closer Look at the Unintended Effects of Gaming Industry Funding Shifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-disadvantages-in-portable-games/"><u>Advantages, Disadvantages in Portable Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/androidiphone-showdowns-where-gamers-clash-in-tetris/"><u>Android/iPhone Showdowns: Where Gamers Clash in Tetris</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-scenes-repairing-your-own-xbox-sensors/"><u>Behind-the-Scenes: Repairing Your Own Xbox Sensors</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-compact-android-virtual-machines-for-windowsmac/"><u>Best 8 Compact Android Virtual Machines for Windows/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-broadcaster-picks-6-versatile-video-games/"><u>Best Broadcaster Picks: 6 Versatile Video Games</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-unavailable-remote-procedure-call-error-in-windows-environments/"><u>Diagnosing and Repairing the Unavailable Remote Procedure Call Error in Windows Environments</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168172703-embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-and-simple-solutions-to-the-battery-not-found-error/"><u>Fast and Simple Solutions to the 'Battery Not Found' Error</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secure-and-organize-files-5-must-have-tips-for-optimizing-windows-folders/"><u>Secure & Organize Files: 5 Must-Have Tips for Optimizing Windows Folders</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-gear-for-youtube-a-filmmakers-essentials-for-2024/"><u>Selecting Gear for YouTube A Filmmaker's Essentials for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172615230-your-complete-list-of-affordable-1440p-monitors-ready-to-play/"><u>Your Complete List of Affordable 1440P Monitors, Ready to Play!</u></a></li>
+</ul></div>
 

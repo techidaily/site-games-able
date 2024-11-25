@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Windows 10/11'S Zero X: 0X887A0006 Failure"
-date: 2024-09-09T09:37:25.006Z
-updated: 2024-09-10T09:37:25.006Z
+date: 2024-11-18T16:22:06.259Z
+updated: 2024-11-24T19:44:23.054Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 
  Microsoft has described the DXGI\_ERROR\_DEVICE\_HUNG error to be a command communication issue between system hardware and games. This error is a big deal when it keeps crashing affected Windows games. However, players have resolved the 0x887A0006 error with these potential fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set Affected Games to Run With Administrator Rights
 
  Make sure the games that error 0x887A0006 crashes have full system access by running them with administrator rights. You can temporarily select to run a game with admin rights or set it to always run with elevated privileges. This is how you can configure an affected game to run as an administrator:
@@ -29,20 +33,8 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 5. Select**Run this game as administrator** to give the game elevated privileges.  
 ![The Run this program as administrator setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab1.jpg)
 6. To save the settings, press the**Apply** button.
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Then try playing your affected game to see if this potential solution makes a difference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Select Debug Mode in the NVIDIA Control Panel
 
  Some players have fixed the 0x887A0006 error by selecting**Debug Mode** in the NVIDIA Control Panel. That option disables GPU (graphical processing unit) overclocking. If your PC has an NVIDIA graphics card, you can select the**Debug Mode** option as follows:
@@ -51,28 +43,14 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 2. Click the**Help** menu.  
 ![The Debug Mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-debug-mode-option.jpg)
 3. Select**Debug Mode** on the menu.
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair the Files for Any Affected Games
 
  There’s a possibility that the 0x887A0006 error sometimes occurs because of corrupted game files. So, it’s recommended players verify affected games with their gaming clients. Epic Games, Steam, Origin, and Battle.net all include options for verifying (repairing) games. This is how you can verify affected games in the Epic Game and Steam launchers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Repair Games on Epic Games
 
@@ -87,17 +65,9 @@ For Epic Games:
 ![The Verify button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-verify-files-option-in-epic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### How to Repair Games on Steam
 
 For Steam:
@@ -110,11 +80,9 @@ For Steam:
 5. Select Steam’s**Verify integrity of game files** option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Check If Your PC Uses the Right GPU for Affected Games
 
  If you have a PC with two GPUs, make sure your affected games are configured to run with the dedicated high-performance graphics card. Your PC’s integrated graphics card (usually of the Intel variety) might not meet the affected game’s minimum system requirements. You can check and change a game’s GPU setting on the NVIDIA Control Panel like this:
@@ -131,30 +99,12 @@ For Steam:
 
  If your PC has an AMD graphics card, you’ll need to open the AMD Radeon Settings panel from the desktop’s context menu. Click the System tab in AMD Radeon Settings. Then click the**Switchable Graphics** tab, and select the**High Performance** GPU option for the affected game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Roll Back the Most Recent Graphics Driver Update
 
  A few players have said they fixed error 0x887A0006 by rolling back graphics drivers. Applying such a resolution will restore the previous graphics driver installed on your PC. If the file for your previous graphics driver remains saved, you can select to roll back the driver via Device Manager. This article about[how to roll back a driver](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) includes instructions for applying this possible fix.
 
 ![The Roll Back Driver button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/roll-back-driver-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Your GPU’s Driver
 
  The 0x887A0006 error message explicitly says that an issue has occurred with your PC’s display (graphics) adapter. That could mean there’s an outdated graphics driver on your PC that isn’t compatible with affected games. The probable solution in such a scenario is to update the driver for your PC’s GPU.
@@ -165,12 +115,6 @@ For Steam:
 
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-nvidia-driver-download-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable DirectX 12 in Any Affected Games
 
  DirectX 12 is the more advanced alternative version to DX11 that’s known to generate issues for some games. So, it’s recommended that you disable DX12 by setting DX11 for games where the 0x887A0006 error occurs.
@@ -187,11 +131,13 @@ For Steam:
 6. Add**d3d11** in the text box.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Switch to the High-Performance Power Plan
 
  Error 0x887A0006 will more likely arise with the Power saver or Balanced power setting selected. Those power settings reduce PC performance for the sake of saving energy. So, try selecting the high-performance setting to ensure optimal gaming performance as follows:
@@ -203,8 +149,17 @@ For Steam:
 4. Select the**High performance** option for the plan.  
 ![The Create a power plan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/high-performance-radio-button.jpg)
 5. Input a plan title in the name box and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Create** to add the plan.
 7. Select the new high-performance plan in the Power Options Control Panel applet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Don’t Overclock Your PC
 
@@ -213,11 +168,9 @@ For Steam:
  You can disable NVIDIA GPU overclocking with the method outlined for resolution two. However, that option won’t be available on PCs with AMD graphics cards. Nor will it be of any use for users who’ve overclocked CPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Edit the GraphicsDrivers Registry Key
 
  Disabling Timeout Detection and Recovery is another potential 0x887A0006 error fix some players have confirmed works. Time Detection and Recovery is a Windows feature that resets an unresponsive graphics driver. You can disable that feature by editing the**GraphicsDrivers** registry key in the following steps:
@@ -228,17 +181,16 @@ For Steam:
 3. Right-click GraphicsDrivers and select that key’s**New** \>**DWORD (32-bit) Value** options.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-dword-option.jpg)
 4. Type**TdrLevel** inside the DWORD’s text box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Double-click**TdrLevel** to view a**Value data** box for that DWORD.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-edit-dword-value-box.jpg)
 6. Enter**0** in TdrLevel’s**Value** box, and select**OK** to save.
 7. Close the Regedit app, and then restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Reinstall the Game That's Crashing
 
 ![The Uninstall option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-option-2.jpg)
@@ -251,14 +203,11 @@ For Steam:
 
  It’s likely that one of those Windows 11/10 solutions will fix the 0x887A0006 error for affected games on your PC. There are also other potential resolutions for this issue since it has variable causes. Disabling game overlays, turning off Steam Cloud syncing, and updating Windows and DirectX are additional potential fixes for error 0x887A0006 that might also be worth a try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -267,4 +216,21 @@ For Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-calculator-projected-profits-from-youtube/"><u>[New] 2024 Approved Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-inside-the-pros-playbook-top-5-gaming-techniques/"><u>[New] In 2024, Inside the Pro's Playbook Top 5 Gaming Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-morphvox-mastery-a-complete-voice-modification-companion-for-2024/"><u>[New] MorphVOX Mastery A Complete Voice Modification Companion for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-obs-enhancing-integrating-a-timed-countdown-mechanism/"><u>[New] Obs Enhancing Integrating a Timed Countdown Mechanism</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-mobile-device-ai-how-it-runs-on-your-smartphone/"><u>Deciphering Mobile Device AI: How It Runs on Your Smartphone?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/grasping-squid-game-themes-in-k-language/"><u>Grasping Squid Game Themes in K-Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-universally-turn-off-controller-vibration-on-your-xbox-series-xs/"><u>How to Universally Turn Off Controller Vibration on Your Xbox Series X|S</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-top-5-free-pinterest-video-downloader-online/"><u>In 2024, Top 5 Free Pinterest Video Downloader Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-psp-gaming-perks-reviewed/"><u>Sony PSP Gaming Perks, Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-ps5-dualsense-chargers-of-the-future/"><u>Superior PS5 DualSense Chargers of the Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-flash-drives-to-boost-ps5-performance/"><u>Top Flash Drives to Boost PS5 Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-connectivity-choosing-top-ethernets/"><u>Unbeatable Connectivity: Choosing Top Ethernets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/zero-cost-frame-perfection-on-youtube-video-viewing-for-2024/"><u>Zero-Cost Frame Perfection on YouTube Video Viewing for 2024</u></a></li>
+</ul></div>
 

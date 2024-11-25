@@ -1,7 +1,7 @@
 ---
 title: "Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs"
-date: 2024-11-12T21:58:53.663Z
-updated: 2024-11-15T19:43:16.377Z
+date: 2024-11-24T07:40:13.899Z
+updated: 2024-11-24T22:30:56.649Z
 tags:
   - games
 categories:
@@ -66,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
@@ -85,19 +82,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -129,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -152,10 +140,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -184,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -204,6 +182,10 @@ And finally, don’t forget to actually start the game:
 > Start Game.
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
@@ -311,6 +293,10 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -332,21 +318,19 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-visual-virtuosity-adding-fonts-to-adobe-workflows/"><u>[New] 2024 Approved Visual Virtuosity Adding Fonts to Adobe Workflows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-giggle-engine-for-the-internet/"><u>[New] Giggle Engine for the Internet</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-vs-video-edition-gopro-hero-or-polaroid-cube/"><u>[New] In 2024, Vs. Video Edition GoPro Hero or Polaroid Cube?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-penning-powerful-film-prospectus/"><u>[New] Penning Powerful Film Prospectus</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-masterful-motion-secrets-from-a-pro-canon-time-lapse-viewer-for-2024/"><u>[Updated] Masterful Motion Secrets From a Pro Canon Time-Lapse Viewer for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/before-the-buy-sign-consider-these-6-important-points/"><u>Before the BUY Sign, Consider These 6 Important Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/budgetgamingedge-sleek-led-screen-27m2v/"><u>BudgetGamingEdge - Sleek LED Screen 27M2V</u></a></li>
-<li><a href="https://games-able.techidaily.com/canceling-out-your-costly-fortnite-purchase-and-claiming-back/"><u>Canceling Out Your Costly Fortnite Purchase and Claiming Back</u></a></li>
-<li><a href="https://win-webster.techidaily.com/get-your-hands-on-microsoft-project-and-visio-professional-licenses-exceptional-deals-for-only-20-from-zdnet-shop/"><u>Get Your Hands on Microsoft Project and Visio Professional Licenses - Exceptional Deals for Only $20 From ZDNet Shop!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mac-mastery-unleashing-the-full-potential-of-chatgpt/"><u>Mac Mastery: Unleashing the Full Potential of ChatGPT</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-game-display-playnite-in-tv-fullscreen-format/"><u>Mastering Game Display: Playnite in TV Fullscreen Format</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-nyt-power-network/"><u>Navigating the NYT Power Network</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-consoles-vs-high-end-pcs-in-games/"><u>Next Gen Consoles Vs. High-End PCs in Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-bg3-on-macos-with-crossover-software/"><u>Step-by-Step BG3 on macOS with Crossover Software</u></a></li>
-<li><a href="https://solve-help.techidaily.com/transform-your-home-movies-using-windows-movie-maker-unveiling-three-simple-cutting-tricks/"><u>Transform Your Home Movies Using Windows Movie Maker: Unveiling Three Simple Cutting Tricks!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-powerdirector-vs-the-rest-top-alternative-video-editors-for-mobile/"><u>Updated In 2024, PowerDirector vs The Rest Top Alternative Video Editors for Mobile</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-live-guide-audiences/"><u>[Updated] 2024 Approved FB Live Guide Audiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>[Updated] Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-making-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs/"><u>[Updated] Making YouTube Videos Come Alive Your Ultimate Guide To Animated GIFs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-selecting-the-perfect-no-fee-video-communication-tools/"><u>[Updated] Selecting the Perfect No-Fee Video Communication Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-decoding-youtubes-procedure-after-a-video-is-uploaded/"><u>2024 Approved Decoding YouTube's Procedure After a Video Is Uploaded</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-11-error-code-0x800f0922/"><u>Eliminating Windows 11 Error Code 0X800f0922</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unbiased-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-creators-for-2024/"><u>New Unbiased Comparison Sony Vegas vs Adobe Premiere Pro for Video Creators for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivating-your-ps5s-gaming-licenses/"><u>Reactivating Your PS5's Gaming Licenses</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-adapt-quickly-to-nvidias-new-rtx-release/"><u>Should Your PC Adapt Quickly to Nvidia's New RTX Release?</u></a></li>
+<li><a href="https://facebook.techidaily.com/stay-safe-in-a-digital-world-reasons-not-to-accept-all-friend-requests/"><u>Stay Safe in a Digital World: Reasons Not to Accept All Friend Requests</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-stabilizing-steams-bp-feature/"><u>Strategies for Stabilizing Steam's BP Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-overlooked-efficiency-gains-when-ignoring-ray-tracing/"><u>The Overlooked Efficiency Gains When Ignoring Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-mobile-duo-delights-for-social-gamers/"><u>Top 15 Mobile Duo Delights for Social Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-3d-tvs-for-immersive-blu-ray-viewing/"><u>Top 3D TVs for Immersive Blu-Ray Viewing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Indie Game Hunt: Top Tactics for Itch.io Fans"
-date: 2024-11-15T01:46:47.904Z
-updated: 2024-11-15T19:13:06.705Z
+date: 2024-11-23T06:01:57.335Z
+updated: 2024-11-24T21:34:28.089Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 * [Look at User Reviews and Ratings](#look-at-user-reviews-and-ratings)
 * [Check Out Community Recommendations](#check-out-community-recommendations)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Find indie games on itch.io using tags that describe the genre of the game.
@@ -45,33 +49,16 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
@@ -80,22 +67,23 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
  The itch.io website has a[Bundles page](https://itch.io/bundles) where you can find game bundles created by developers. These are promotional packages containing multiple games. Each bundle is sold at a discounted price, and when you purchase it, you get instant access to all the games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Check the itch.io Blog
 
  The[itch.io blog](http://itch.io/blog) is a surprisingly good place to find sales and bundles of some great indie games. These promotions are curated based on various themes, such as winter, summer, Halloween, or Valentine's Day. The blog also highlights “Games of the Week,” where the team curates several great indie games for you to try.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Check Out Game Jams
 
  Game jams are a fantastic way to discover hidden gems for free. On itch.io, game jams take place throughout the year, so keep your eye on the[Game Jams page](https://itch.io/jams) to see upcoming events on the calendar. Look for past game jams to try highly rated game submissions.
 
 ![The page to see past game jams on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/past-game-jams-itch.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  These game jams usually have creative and innovative indie games from different genres. Developers usually display talent in crafting unique experiences at these events. Fun games I have discovered through game jams on itch.io include[Inside Job](https://featurekreep.itch.io/inside-job) ,[Bready or not - unSURVIVOR](https://aramilion.itch.io/bready-or-not-unsurvivor) , and[Let There Be Cat](https://kyboon.itch.io/let-there-be-cat) .
 
@@ -109,14 +97,11 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
- Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
 ## 6 Look at User Reviews and Ratings
 
@@ -147,22 +132,22 @@ thumbnail: https://thmb.techidaily.com/859749633d2fe977555173ddfc42dda3acc4bf2fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-step-by-step-ensuring-accurate-age-on-tiktok/"><u>[New] Step-by-Step Ensuring Accurate Age on TikTok</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-boosting-earnings-in-cosmetic-videography-for-2024/"><u>[Updated] Boosting Earnings in Cosmetic Videography for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-complete-guide-to-crafting-killer-youtube-outros/"><u>[Updated] Complete Guide to Crafting Killer YouTube Outros</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-15-exceptional-free-bootloader-antivirus-apps/"><u>Discover 15 Exceptional Free Bootloader Antivirus Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-managing-your-switch-gaming-identity/"><u>Efficiently Managing Your Switch Gaming Identity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-x100-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo X100 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-feasible-to-connect-ps5-controller-with-ps4/"><u>Is It Feasible to Connect PS5 Controller with PS4?</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-combining-sony-and-switch-gameplay/"><u>Master the Art of Combining Sony & Switch Gameplay</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-lava-agni-2-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Lava Agni 2 5G</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-your-computer-5-ways-to-curb-steams-ram-consumption/"><u>Optimizing Your Computer - 5 Ways to Curb Steam's RAM Consumption</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-website-downtime-a-guide-to-resolving-503-error-messages/"><u>Overcoming Website Downtime: A Guide to Resolving 503 Error Messages</u></a></li>
-<li><a href="https://games-able.techidaily.com/peeling-back-layers-authenticity-in-fake-game-hype/"><u>Peeling Back Layers: Authenticity in Fake Game Hype</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-easy-way-to-secure-your-gameplay-with-nintendos-passcode-feature/"><u>The Easy Way to Secure Your Gameplay with Nintendo's Passcode Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-threat-of-tesla-and-elon-musks-free-speech-stance-to-indias-vulnerable-groups-revealed-wired/"><u>The Threat of Tesla and Elon Musk's Free Speech Stance to India's Vulnerable Groups Revealed | Wired</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-10-choices-expert-reviews-on-xbox-recording-tech/"><u>Top 10 Choices: Expert Reviews on Xbox Recording Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-steams-in-game-purchasing-power/"><u>Unlocking Steam's In-Game Purchasing Power</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagram-securing-sponsorships-amidst-content-creation/"><u>[New] 2024 Approved Mastering Instagram Securing Sponsorships Amidst Content Creation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-rapid-ascension-harness-likes-and-videos-for-insta-success-for-2024/"><u>[Updated] Rapid Ascension Harness Likes & Videos for Insta Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-averages-questioning-game-score-credibility/"><u>Beyond Averages: Questioning Game Score Credibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-beauty-how-technology-enhances-play/"><u>Beyond Beauty: How Technology Enhances Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-steam-deck-functionality-with-supplementary-gear/"><u>Boosting Steam Deck Functionality with Supplementary Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-your-xbox-pc-connection-with-these-fixes/"><u>Bring Back Your Xbox-PC Connection with These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/change-main-language-settings-on-steam/"><u>Change Main Language Settings on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/cinematic-journey-with-ps5-and-sony-pictures/"><u>Cinematic Journey with PS5 & Sony Pictures</u></a></li>
+<li><a href="https://games-able.techidaily.com/classiccompress-mini-portable-classics-reimagined/"><u>ClassicCompress Mini: Portable Classics Reimagined</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-and-strong-sounds-on-xbox-by-troubleshooting/"><u>Clear and Strong Sounds on Xbox by Troubleshooting</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/convert-your-giantbomb-videos-into-high-quality-mp4-files/"><u>Convert Your GiantBomb Videos Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-google-pixel-7a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Google Pixel 7a Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-removing-photo-borders/"><u>In 2024, The Ultimate Guide to Removing Photo Borders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters-for-2024/"><u>Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-water-filters-for-underwater-video-for-2024/"><u>Premium Water Filters For Underwater Video for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722873735879-snag-your-dream-apple-watch-at-exclusive-deals-just-in-time/"><u>Snag Your Dream Apple Watch at Exclusive Deals Just In Time</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-screen-seize-techniques-for-mac-devices-under-156-chars/"><u>Top Screen Seize Techniques for Mac Devices (Under 156 Chars)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Technical Marvels of AMD's Latest GPUs: XT Series"
-date: 2024-09-09T09:35:12.955Z
-updated: 2024-09-10T09:35:12.955Z
+date: 2024-11-24T13:17:01.017Z
+updated: 2024-11-25T08:05:53.345Z
 tags:
   - games
 categories:
@@ -15,17 +15,9 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ## Exploring the Technical Marvels of AMD's Latest GPUs: XT Series
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * At Gamescom 2023, AMD announced the highly anticipated Radeon RX 7800 XT and RX 7700 XT, filling a gap in its RDNA 3 GPU lineup.
@@ -37,11 +29,9 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  To better understand the capabilities of AMD's current-gen GPU architecture, here's a comprehensive breakdown of all the relevant details surrounding the RX 7800 XT and RX 7700 XT.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## RX 7800 XT vs. RX 7700 XT: Specifications and Overview
 
  For starters, both the Radeon RX 7800 XT and RX 7700 XT are built around AMD's brand-new Navi 32 GPU die, which adopts a chiplet-based design to reduce manufacturing costs and facilitate production. Like before, the central section of this GPU features a relatively smaller GCD (Graphics Compute Die) than Navi 31 (fabricated on TSMC's N5 process), flanked by four MCDs (Memory Complex Die) utilizing an older yet efficient N6 technology.
@@ -88,39 +78,23 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![RX 7700 XT vs. RTX 4060 Ti 16GB Benchmark Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7700-xt-vs-rtx-4060-ti-16gb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Across the 19-game configuration sample, the RX 7700 XT outperforms Nvidia's GeForce RTX 4060 Ti 16GB by about 12% on average. Interestingly, AMD's scaled-down Navi 32 GPU secures a 17% lead in rasterization performance while exhibiting a mere 4% deficit in certain games that implement advanced ray tracing effects.
 
 ![RX 7800 XT vs. RTX 4070 Performance Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/rx-7800-xt-vs-rtx-4070.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[IGN](https://www.youtube.com/watch?v=cJyRQmhCkDk)
 
  Furthermore, AMD's performance figures for the RX 7800 XT put it in a formidable position against the RTX 4070, showcasing a 9% advantage in rasterization and a 6% deficit in select RT titles. Although the average gain isn't as impressive as seen in the previous slide, the RX 7800 XT undercuts Nvidia's upper mid-range offering by around $100.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## RX 7800 XT vs. RX 7700 XT: Pricing and Availability
 
  At an MSRP of $499, AMD's Radeon RX 7800 XT represents a better price-to-performance ratio than the cut-down Navi 32 variant on multiple occasions. If the performance numbers for both GPUs hold true, the RX 7700 XT, at a starting price of $449, could face some potential challenges in its own lineup.
@@ -130,25 +104,20 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  While the Radeon RX 7800 XT comes in an AMD reference dual-fan, dual-slot design, alongside custom variants, the RX 7700 XT will only be made available through AIB partners like ASRock, ASUS, Biostar, Gigabyte, PowerColor, Sapphire, Vastarmor, XFX, and Yeston.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## AMD's Next-Gen 1440p Gaming GPUs Unveiled
 
  From what has been revealed, AMD's marketing strategy for this launch involves pitting the Radeon RX 7800 XT and RX 7700 XT against older yet capable 1440p cards. Considering the recent adoption of QHD displays, both GPUs should be able to offer a stellar gaming experience, with enough headroom to drive graphically demanding titles at 4K.
 
  Ultimately, the success of these sub-$500 graphics cards will depend largely on their real-world performance, feature set, and overall, given that this market segment is highly competitive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +126,23 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-circumference-video-rigging/"><u>2024 Approved Full-Circumference Video Rigging</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-sharp-smudge-free-shooting-with-gopro/"><u>2024 Approved Sharp, Smudge-Free Shooting with GoPro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-look-at-the-gorgeous-multifaceted-dell-xps-13-convertible-laptop-7390/"><u>A Comprehensive Look at the Gorgeous, Multifaceted Dell XPS 13 Convertible Laptop 7390</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-ai-powered-gaming-discover-chatgpts-best-6/"><u>Explore AI-Powered Gaming: Discover ChatGPT's Best 6</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-youtube-content-with-social-blade-a-stats-journey/"><u>In 2024, Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-switching-back-from-macos-sierra-to-older-os-x/"><u>In 2024, Switching Back From MacOS Sierra To Older OS X</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-s18e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo S18e Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-data-protection-mastering-cloud-and-mac-sync-and-backup-techniques/"><u>IPhone Data Protection: Mastering Cloud and Mac Sync & Backup Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/optimizing-igtv-video-success-metrics/"><u>Optimizing IGTV Video Success Metrics</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-your-access-to-ps5-multimedia-services/"><u>Restoring Your Access to PS5 Multimedia Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/rtx-supers-grand-challenge-compare-and-contrast-4070-titan-x-4080/"><u>RTX Supers' Grand Challenge: Compare & Contrast 4070, Titan X, 4080</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-ps5-game-access-with-an-unique-passcode/"><u>Securing PS5 Game Access with an Unique Passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-offers-maximize-your-gaming-budget/"><u>Xbox Offers: Maximize Your Gaming Budget</u></a></li>
+</ul></div>
 

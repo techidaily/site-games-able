@@ -1,7 +1,7 @@
 ---
 title: The Frugal Gamer's Guide to Xbox Series X/S
-date: 2024-11-14T20:03:38.834Z
-updated: 2024-11-16T00:55:40.204Z
+date: 2024-11-20T14:17:35.820Z
+updated: 2024-11-25T04:32:59.878Z
 tags:
   - games
 categories:
@@ -38,26 +38,20 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 ![A photograph of an Xbox Wireless Controller in front of a gaming monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/replacement-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Games that have online multiplayer functionality, like Call of Duty, for example, are great for replayability. If you’re not a fan of first-person shooters or competitive games, life or farming sims such as Stardew Valley can provide you with hundreds or even thousands of hours of playtime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and Play Free Games
 
  Buying games on sale that are cheaper than they otherwise would have been is great. But there are hordes of games out there that won't even cost you a single penny. Free games usually come with a catch in the form of gatcha game mechanics or in-game purchases to entice people into spending money.
 
  But there are many games where these in-game purchases are purely cosmetic and completely optional, meaning you can play for as long as you want without reaching for your wallet at all. Games like Overwatch 2, Fortnite, or Apex Legends are just a few examples of fun and rewarding games that you can play completely free of charge.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Subscribe to Xbox Game Pass
 
@@ -70,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
  For just $10.99 per month, you can play however many of the hundreds of games on offer that your heart desires. The games are also switched up and added to consistently, so there is always something new for you to play.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Collect and Use Microsoft Reward Points
@@ -82,18 +73,15 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  You can redeem these points for things like gift cards or micro-transactions in supported games and even Xbox Game Pass subscriptions, so you can save more money while you’re saving money.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Take Advantage of Xbox Game Pass Perks
 
  If you didn't know what Microsoft Rewards Points are, you're probably also wondering[what Xbox Game Pass Perks are](https://www.makeuseof.com/game-pass-perks-explained/) all about. Xbox Game Pass Perks are similar to Microsoft Reward Points, but instead of being earned over all Microsoft platforms, these offers are exclusive to those with an Xbox Game Pass Ultimate subscription. These perks are updated frequently, so you always have something new to choose from.
 
 ![Xbox Game Pass Perks Screen on Xbox Game Pass App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-screen-on-xbox-game-pass-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Xbox Game Pass Perks on Xbox Game Pass Mobile App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-on-xbox-game-pass-mobile-app.jpg)
 
@@ -103,6 +91,10 @@ Close
 
  You can check your Game Pass Perks from the Xbox website, your console itself, or on the Xbox Game Pass mobile app by opening it and heading to your profile. If you have Xbox Game Pass but don’t see any Perks there, keep in mind that they are only available to Xbox Game Pass Ultimate subscribers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Use Energy Saving Mode on Your Xbox
 
  Saving money on your Xbox doesn’t just come from buying cheaper games or utilizing reward points and perks. You can also use your Xbox to save money on your power bill by using the more eco-and-wallet-friendly energy-saving mode.
@@ -110,13 +102,6 @@ Close
  The main[difference between shutdown and sleep mode on the Xbox Series X|S](https://www.makeuseof.com/xbox-shutdown-vs-sleep-mode/) is that sleep effectively only turns your console half-off when you're not using it. This is great for convenience as it will boot up faster the next time you turn it on, but the amount of time it really saves you is negligible.
 
 ![Xbox Shutdown energy saving mode explaination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/xbox-shutdown-energy-saving-mode-explaination.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://news.xbox.com/en-us/2023/01/11/xbox-carbon-aware-console-sustainability/)
 
@@ -131,10 +116,7 @@ Close
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Much Electricity Does Your Xbox Series X Use?
@@ -164,17 +146,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-free-screen-recording-techniques-for-pc-enthusiasts/"><u>[New] 2024 Approved Free Screen Recording Techniques for PC Enthusiasts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>[New] Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-transforming-your-iphone-footage-into-vr/"><u>2024 Approved Transforming Your iPhone Footage Into VR</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyerdynamics-mmx-200-a-sound-revolution/"><u>Beyerdynamic's MMX 200: A Sound Revolution</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-error-0x80072efd-a-comprehensive-guide-for-windows-11-users/"><u>Diagnosing and Fixing Error 0X80072EFD - A Comprehensive Guide for Windows 11 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-gaming-with-chatgpt-the-top-6-titles/"><u>Explore Gaming with ChatGPT: The Top 6 Titles!</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-nostalgia-using-emudeck-for-old-games/"><u>Exploring Nostalgia: Using EmuDeck for Old Games</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/passa-mkv-a-wav-senza-costi-su-movavi-guida-completa-e-facile-da-usare/"><u>Passa MKV a WAV Senza Costi Su Movavi: Guida Completa E Facile Da Usare</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-prevent-online-predators-on-discord/"><u>Strategies to Prevent Online Predators on Discord</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-redmi-note-13-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi Redmi Note 13 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-superior-audience-experiences/"><u>[Updated] Superior Audience Experiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-key-to-smooth-screencasting-a-macos-guide/"><u>[Updated] The Key to Smooth Screencasting A MacOS Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/460plus-rapid-response-monitor-innocn-39g1-r/"><u>$460+ Rapid Response Monitor: InnoCN 39G1 R</u></a></li>
+<li><a href="https://games-able.techidaily.com/8-features-that-make-microsoft-edge-the-best-gaming-browser/"><u>8 Features That Make Microsoft Edge the Best Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensible-approach-to-locking-your-ps5-games/"><u>A Comprehensible Approach to Locking Your PS5 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-gamers-guide-to-ps4-hardware-restoration/"><u>A Gamer's Guide to PS4 Hardware Restoration</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-smooth-control-transition-from-pc-mousekeyboard-to-steam-deck-via-barrier-technique/"><u>Achieving Smooth Control Transition From PC Mouse/Keyboard To Steam Deck via Barrier Technique</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-old-docks-suitable-for-nintendos-new-switch-oled/"><u>Are Old Docks Suitable for Nintendo's New Switch OLED?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163487039-become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comprehensive-guide-to-downloading-standardized-youtube-images-for-2024/"><u>Comprehensive Guide to Downloading Standardized YouTube Images for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 15 Pro to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-battle-of-innovation-deciding-between-apple-watch-ultra-and-apple-watch-series-8-expert-reviews-and-comparison-chart/"><u>The Battle of Innovation: Deciding Between Apple Watch Ultra & Apple Watch Series #8 | Expert Reviews & Comparison Chart</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711810-9781454936053-the-witchs-way/"><u>The Witch's Way | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-surface-pro-4-stylus-issues/"><u>Troubleshooting Guide: Fixing Surface Pro 4 Stylus Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-google-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Google Device</u></a></li>
 </ul></div>
 

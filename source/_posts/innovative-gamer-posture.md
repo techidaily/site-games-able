@@ -1,7 +1,7 @@
 ---
 title: Innovative Gamer Posture
-date: 2024-11-09T01:14:08.640Z
-updated: 2024-11-15T21:57:24.528Z
+date: 2024-11-18T03:30:47.580Z
+updated: 2024-11-24T19:34:38.950Z
 tags:
   - games
 categories:
@@ -25,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 * [Gaming Chairs Are Cheaply Built and Overpriced](#gaming-chairs-are-cheaply-built-and-overpriced)
 * [An Office Chair Is Aesthetically Safer](#an-office-chair-is-aesthetically-safer)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Office chairs are generally more ergonomic than gaming chairs, offering better back support and allowing for more natural movement.
@@ -40,27 +33,17 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
  There’s a popular myth that every gaming setup needs a gaming chair. On the surface, it makes sense; where else would you need a gaming chair? However, I’ve used both office chairs and gaming chairs long enough to establish reasons why an office chair is indeed better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Office Chairs Are Often More Ergonomic and Comfortable
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Race car Bucket Seat Design
 
 ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Standret/[Shutterstock](https://www.shutterstock.com/image-photo/next-gen-graphics-online-streamer-playing-2159933123)
 
@@ -79,15 +62,16 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  Oddly enough, larger people may still struggle with gaming chairs because the bucket seat design is restrictive.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bad Lumbar Support
 
 ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Dreamchild Obari/MakeUseOf
 
@@ -98,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
  For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
@@ -114,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 ## 3 An Office Chair Is Aesthetically Safer
 
 ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Dreamchild Obari/MakeUseOf
 
@@ -140,14 +132,15 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-freefire-gaming-guide-maximizing-video-impact/"><u>[New] FreeFire Gaming Guide Maximizing Video Impact</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-beginners-guide-to-flawless-ipad-screen-saving/"><u>[Updated] In 2024, A Beginner's Guide to Flawless iPad Screen Saving</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-launches-advanced-video-editing-tool-with-final-cut-on-iphone-a-game-changer-for-amateur-filmmakers/"><u>Apple Launches Advanced Video Editing Tool with Final Cut on iPhone: A Game Changer for Amateur Filmmakers</u></a></li>
-<li><a href="https://games-able.techidaily.com/disc-freeze-the-simple-eject-on-xbox-s/"><u>Disc Freeze? The Simple Eject on Xbox S</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-stakes-for-virtual-worlds-four-driving-cost-factors/"><u>High Stakes for Virtual Worlds: Four Driving Cost Factors</u></a></li>
-<li><a href="https://games-able.techidaily.com/integration-challenge-switch-oled-and-past-docks/"><u>Integration Challenge: Switch OLED and Past Docks</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steams-content-conflux-on-mac/"><u>Overcoming Steam's Content Conflux on Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-100-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 100 Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-itel-p40plus-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Itel P40+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-360-degree-view-transformative-media-experience/"><u>[Updated] A 360-Degree View Transformative Media Experience</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-method-for-producing-captivating-video-thumbnails/"><u>[Updated] Step-by-Step Method for Producing Captivating Video Thumbnails</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-arsenal-choosing-the-top-7-fps/"><u>2024 Approved Elite Arsenal Choosing the Top 7 FPS</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-bottom-line-thinking-envisioning-electricitys-role/"><u>Beyond Bottom-Line Thinking: Envisioning Electricity's Role</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/break-controller-conundrum-quick-cure-for-ps4-gamepad-glitches/"><u>Break Controller Conundrum: Quick Cure for PS4 Gamepad Glitches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/bulk-video-resizing-a-step-by-step-guide-to-adjusting-many-videos-simultaneously/"><u>Bulk Video Resizing: A Step-by-Step Guide to Adjusting Many Videos Simultaneously</u></a></li>
+<li><a href="https://games-able.techidaily.com/collectors-delight-vs-cashless-commitment/"><u>Collector's Delight Vs. Cashless Commitment</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-oppo-reno-8t-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo Reno 8T 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978411968-download-epson-v700-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson V700 Printer Drivers Compatible with Windows 7, 8.1 & 10</u></a></li>
 </ul></div>
 

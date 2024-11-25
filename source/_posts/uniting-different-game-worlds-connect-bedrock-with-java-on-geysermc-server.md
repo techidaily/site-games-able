@@ -1,7 +1,7 @@
 ---
 title: "Uniting Different Game Worlds: Connect Bedrock with Java on GeyserMC Server"
-date: 2024-11-09T17:45:05.258Z
-updated: 2024-11-16T04:04:58.280Z
+date: 2024-11-21T09:20:17.451Z
+updated: 2024-11-25T11:52:25.934Z
 tags:
   - games
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Jhet Borja/MUO
 
  You’ve probably been disappointed to find out that you and your friend aren’t playing the same editions of Minecraft and can’t play together. While there are plenty of[other ways to play Minecraft with friends](https://www.makeuseof.com/how-to-play-minecraft-with-friends/) , crossplay between Java and Bedrock isn't something that comes up often.
@@ -55,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  However, the GeyserMC mod takes the C++ information and translates it to Java, emulating a Java Minecraft client. This allows Bedrock Edition players to join Java Edition servers and play as if they were on the same version of the game.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
@@ -70,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Set Up a Server
@@ -86,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Install GeyserMC
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
@@ -94,22 +85,13 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
@@ -121,33 +103,21 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
@@ -180,18 +150,19 @@ thumbnail: https://thmb.techidaily.com/d72c9b0ad235ae2e33438a2833486adc17771826c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-echoes-encode-discovering-exceptional-audio-to-text-programs/"><u>2024 Approved Echoes Encode Discovering Exceptional Audio to Text Programs</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-instant-tune-livestreams-on-douyin/"><u>2024 Approved Instant Tune Livestreams on Douyin</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mp4mkvmov/"><u>複数種フォーマットビデオ効率的な一括変換テクニック: MP4、MKV、MOVへのチェインコンバータ</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-power-of-play-chatgpts-6-thrilling-games/"><u>Discover the Power of Play: ChatGPT’s 6 Thrilling Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-removal-and-reinstallation-of-ps5-games/"><u>Easy Removal & Reinstallation of PS5 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-refresh-low-price-innocn-39g1r/"><u>High Refresh, Low Price: InnoCN 39G1R</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-insights-into-timecode-manipulation-in-macos-srt-files/"><u>In 2024, Expert Insights Into Timecode Manipulation in macOS SRT Files</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-se-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone SE to Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-slowing-down-reality-crafting-slow-motion-videos-from-still-images-online/"><u>In 2024, Slowing Down Reality Crafting Slow Motion Videos From Still Images Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-psplus-future-of-unsubscribed-games/"><u>Post-PSPlus: Future of Unsubscribed Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/security-at-stake-the-looming-increase-of-threats-in-the-age-of-generative-ai-technology/"><u>Security at Stake: The Looming Increase of Threats in the Age of Generative AI Technology</u></a></li>
-<li><a href="https://video-capture.techidaily.com/step-by-step-guide-transforming-your-ivf-footage-into-high-quality-mp4-videos/"><u>Step-by-Step Guide: Transforming Your IVF Footage Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-7-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 7 Making It Possible</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-proven-steps-to-elevate-webinar-video-quality/"><u>[New] In 2024, Proven Steps to Elevate Webinar Video Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming-for-2024/"><u>[Updated] Master Controls Navigating the World of Switch Pro and Steam Gaming for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/capturing-moments-in-time-creating-dynamic-photo-videos-with-pixiz-for-2024/"><u>Capturing Moments in Time Creating Dynamic Photo Videos with Pixiz for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-routines-for-beating-nyts-power-network/"><u>Daily Routines for Beating NYT's Power Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-capturing-twitch-broadcasts-the-5-best-downloader-apps/"><u>Efficiently Capturing Twitch Broadcasts: The 5 Best Downloader Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-collection-of-online-video-grabbers-and-savers-for-2024/"><u>Elite Collection of Online Video Grabbers & Savers for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-discovering-hidden-events-in-your-iphones-calendar-system/"><u>Fix It: Discovering Hidden Events in Your iPhone's Calendar System</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-savings-with-sonys-midyear-blowout/"><u>Jumpstart Savings with Sony's Midyear Blowout!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keep-upgrades-at-bay-with-these-4-tips/"><u>Keep Upgrades at Bay with These 4 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-chrome-freeze-with-games/"><u>Overcoming Chrome Freeze with Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-windows-camera-error-code-0xa00f4292-efficiently/"><u>Step-by-Step Guide to Resolve Windows Camera Error Code 0xA00F4292 Efficiently</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-a-faulty-switch-repairs-or-exchange-choices/"><u>Tackling a Faulty Switch: Repairs or Exchange Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-the-cutting-edge-bots-for-successful-twitch-streamers/"><u>Unleash Potential: The Cutting-Edge Bots For Successful Twitch Streamers</u></a></li>
 </ul></div>
 

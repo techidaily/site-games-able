@@ -1,7 +1,7 @@
 ---
 title: "Tailored Thermal Profile: Game-Changing Performance Upgrades"
-date: 2024-11-08T16:54:33.238Z
-updated: 2024-11-15T19:43:52.811Z
+date: 2024-11-17T16:06:15.597Z
+updated: 2024-11-25T02:51:24.076Z
 tags:
   - games
 categories:
@@ -26,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  Graphics cards rarely reach really high fan speeds, often reaching the thermal throttling threshold before it hits 80%. This could be because manufacturers don't want their graphics cards to be loud or for the fans to wear out prematurely.[GPU thermal throttling lowers performance](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) , and higher temperatures lower your GPU's lifespan, a lose-lose situation. Similar to CPU throttling, GPU throttling leads to random FPS drops, lag spikes, artifacts, screen tearing, and other issues when gaming as your hardware struggles to keep up with the in-game processing requirements.
@@ -55,10 +56,7 @@ Jhet Borja/MakeUseOf
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -66,10 +64,7 @@ Jhet Borja/MakeUseOf
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should Your GPU Fans Run at 100%?
@@ -86,18 +81,15 @@ Jhet Borja/MakeUseOf
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
  To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
@@ -118,13 +110,6 @@ Jhet Borja/MakeUseOf
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
@@ -132,6 +117,10 @@ Jhet Borja/MakeUseOf
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
 ![0% and 100% fan speed poitns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/0-and-100-fan-speed-poitns.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To create a custom GPU fan curve in MSI Afterburner, click**Settings** **\> Fan** . Here, you can move the points around to create your own fan curve. We've deleted all the other points and set 0% fan speed at 50°C and 100% fan speed at 75°C. You can also choose a lower maximum speed if you want.
 
@@ -162,24 +151,18 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom-for-2024/"><u>[New] Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-precision-and-perfection-applying-luts-in-video-post-production-for-2024/"><u>[New] Precision and Perfection Applying LUTs in Video Post-Production for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-detailed-breakdown-of-fbm-transcription-techniques/"><u>[New] The Detailed Breakdown of FBM Transcription Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-becoming-a-live-broadcast-pro-the-essential-guide-to-wirecast-and-fb/"><u>2024 Approved Becoming a Live Broadcast Pro The Essential Guide to Wirecast and FB</u></a></li>
-<li><a href="https://games-able.techidaily.com/baffling-board-games-for-brainy-beings/"><u>Baffling Board Games for Brainy Beings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-vivo-v30-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo V30 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://games-able.techidaily.com/controlling-snes-games-new-way/"><u>Controlling SNES Games, New Way</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effortless-pairing-how-to-link-your-airpods-with-an-hp-computer/"><u>Effortless Pairing: How to Link Your AirPods with an HP Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/embracing-change-xbox-live-gold-merges-with-game-pass/"><u>Embracing Change: Xbox Live Gold Merges with Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-joy-con-to-console-now-to-steam/"><u>From Joy-Con to Console, Now to Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-a-taste-of-victory-free-soccer-management-on-windows/"><u>Get a Taste of Victory: Free Soccer Management on Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-vr-horizons-the-premier-pc-headsets-of-today/"><u>In 2024, VR Horizons The Premier PC Headsets of Today</u></a></li>
-<li><a href="https://win11.techidaily.com/incorporating-sound-in-windows-11-snipping-tool-recordings-max-156/"><u>Incorporating Sound in Windows 11 Snipping Tool Recordings (Max 156)</u></a></li>
-<li><a href="https://games-able.techidaily.com/joining-worlds-together-using-ps5-controller-on-windows-pc/"><u>Joining Worlds Together: Using PS5 Controller on Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719166740000-jumpstart-savings-with-sonys-midyear-blowout/"><u>Jumpstart Savings with Sony's Midyear Blowout</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-razer-barracuda-x-mic-problems-for-w10w11-users/"><u>Step-by-Step Guide: Resolving Razer Barracuda X Mic Problems for W10/W11 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/stepping-up-to-excellent-steam-deck-input/"><u>Stepping Up to Excellent Steam Deck Input</u></a></li>
-<li><a href="https://some-skills.techidaily.com/strategic-unveiling-the-box-of-opportunity-for-2024/"><u>Strategic Unveiling The Box of Opportunity for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-long-term-win-of-late-game-drops/"><u>The Long-Term Win of Late Game Drops</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-deep-dive-into-rank-tracker-software-optimize-your-channels-success/"><u>[Updated] In 2024, Deep Dive Into Rank Tracker Software - Optimize Your Channel's Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices/"><u>2024 Approved Decoding Instagram The Technique for Video Downloads on PC/Mac Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-xs-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone XS and iPad Securely</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-gaming-accessories-for-switch/"><u>Discover the Best Gaming Accessories for Switch</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-se-2020-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone SE (2020) Smoothly</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-gaming-future-the-time-for-rtx-rollout/"><u>Nvidia's Gaming Future: The Time for RTX Rollout?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-lg-usb-driver-challenges-for-a-smooth-experience-on-windows-operating-systems-1087/"><u>Overcoming LG USB Driver Challenges for a Smooth Experience on Windows Operating Systems (10/8/7)</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/resolved-fixing-the-issue-of-sync-failure-on-your-iphone-with-itunes-error-code-54/"><u>Resolved: Fixing the Issue of Sync Failure on Your iPhone with iTunes Error Code -54</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-ahead-with-smooth-play-overcoming-fps-dips-and-enhancing-valorant-gameplay-windows-edition/"><u>Stay Ahead with Smooth Play: Overcoming FPS Dips and Enhancing Valorant Gameplay, Windows Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-zte-axon-40-lite-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 ZTE Axon 40 Lite Android SIM Unlock APK</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-quick-ready-gaming-with-steam-storage-fixes/"><u>Unlock Quick Ready Gaming with Steam Storage Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-solutions-to-gps-woes-in-pokemon-traveling-game/"><u>Unveiling Solutions to GPS Woes in Pokémon Traveling Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-unveils-new-mini-games-learn-to-play/"><u>YouTube Unveils New Mini-Games; Learn to Play</u></a></li>
 </ul></div>
 

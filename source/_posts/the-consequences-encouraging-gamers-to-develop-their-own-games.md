@@ -1,7 +1,7 @@
 ---
 title: "The Consequences: Encouraging Gamers to Develop Their Own Games"
-date: 2024-09-09T09:37:59.165Z
-updated: 2024-09-10T09:37:59.165Z
+date: 2024-11-18T22:03:53.618Z
+updated: 2024-11-24T18:52:59.444Z
 tags:
   - games
 categories:
@@ -12,13 +12,11 @@ keywords: Game Development Strategies,DIY Gaming Creation,Self-Made Video Games,
 thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf462fe90ad515f1ed2896ad3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Consequences: Encouraging Gamers to Develop Their Own Games
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,11 +27,9 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -42,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Much Do Game Developers Already Earn?
 
  The quick and unsatisfying answer is: it depends. Game Developer roles vary enormously, from sole indie developers working on their dream projects to in-house employees at the biggest publishing houses. Like many professions, game development can be very lucrative or pitifully rewarding.
@@ -57,21 +47,17 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Tipping is an interesting idea, but do we really need one more payment method?
 
 [Sites like Patreon and Ko-fi](https://www.makeuseof.com/patreon-vs-ko-fi-for-creators/) approach the issue of funding in different ways. The former focuses on subscription and recurring payments to provide creators with a side income; regular tips, if you like. Ko-fi, meanwhile, encourages small, one-off or regular payments, more akin to the nature of tipping, but less directly associated with service.
@@ -79,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -92,12 +82,6 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
  Game developer[GrimTalin](https://www.grimtalin.com/p/home.html) (The Adventures of Elena Temple) picked up on Ybarra’s point about convenience:
@@ -120,14 +104,11 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
 
  I think this is a reasonable compromise. I don’t want to see developers taken advantage of by a tipping culture that treats them as disposable. But if tipping is simply one form of recompense among many, and developers are fairly rewarded for their toil and innovation, then maybe it’s not all so bad.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/127593239da9ddf3aa0e35e9fdfe9cdfb96622adf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-peeling-back-layers-of-vivas-video-features/"><u>[Updated] 2024 Approved Peeling Back Layers of Viva's Video Features</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ai-powered-vr-retail-navigation/"><u>2024 Approved AI-Powered VR Retail Navigation</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-release-decision-making-for-game-lovers/"><u>Early Release Decision Making for Game Lovers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-hunt-down-gamers-a-steams-journey/"><u>How to Hunt Down Gamers: A Steam's Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-your-gaming-experience-with-a-comprehensive-4k-configuration-on-xbox-sx/"><u>Ignite Your Gaming Experience with a Comprehensive 4K Configuration on Xbox SX</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oneplus-12-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of OnePlus 12 Without PUK Codes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-nokia-c12-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Nokia C12 FRP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-quick-resume-a-strategic-feature-for-xbox-sx-gamers/"><u>Is Quick Résumé a Strategic Feature for Xbox S/X Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gpt-top-6-strategies-for-a-flawless-game-guide/"><u>Mastering GPT: Top 6 Strategies for a Flawless Game Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-your-sound-the-best-microphones-for-podcasting-for-2024/"><u>Maximizing Your Sound The Best Microphones for Podcasting for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/outstanding-value-and-speed-a-comprehensive-oneplus/"><u>Outstanding Value and Speed: A Comprehensive OnePlus</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-comfortable-gamepad-guide/"><u>Ultimate Comfortable Gamepad Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-destinations-players-peak-places/"><u>Ultimate Destinations: Players' Peak Places</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-vintage-joy-the-ultimate-list-of-ps3-games-for-pc-emulation/"><u>Unlock Vintage Joy: The Ultimate List of PS3 Games for PC Emulation</u></a></li>
+</ul></div>
 

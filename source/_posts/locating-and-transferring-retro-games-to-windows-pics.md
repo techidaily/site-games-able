@@ -1,7 +1,7 @@
 ---
 title: Locating and Transferring Retro Games to Windows Pics
-date: 2024-09-09T09:36:29.416Z
-updated: 2024-09-10T09:36:29.416Z
+date: 2024-11-18T21:25:41.819Z
+updated: 2024-11-25T04:05:52.861Z
 tags:
   - games
 categories:
@@ -23,27 +23,17 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ![screenshot of the my pictures folder highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_highlighted.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The My Pictures folder you can find under My Documents isn't actually a real folder, as far as Windows is concerned. This My Pictures folder is basically a shortcut that points to the actual My Pictures folder, located in the Users directory.
 
  This is a compatibility measure, intended to allow programs designed for older Windows versions to still work. Unfortunately, this can create new issues for older programs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Give Read Access Rights for Older Games
 
 ![screenshot of my pictures folder modifying permission](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_my_pictures_folder_modifying_permissions.jpg)
@@ -54,17 +44,15 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 ![screenshot of advanced security settings selecting principal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_advanced_security_settings_select_principal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hit**Select a principal** , which will open yet another window. In this new window, underneath**Enter the object name to select** , type in**Everyone** and hit**Check Names.**
 
  Once the word "Everyone" is underlined, hit**OK** . You'll be returned to the last window and have a few checkboxes to select. For our purposes, the only one that matters is the**Read** checkbox.
 
  Ensure this is selected and then hit**OK** again. You can now close out all of these security windows, boot up your game, and see if this fix has worked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I Grant Read Access to Other User Folders?
 
@@ -75,11 +63,9 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  Certain games may try to read information from your My Documents folder as well, so it's worth trying this fix on that folder if it's needed. Otherwise, use this fix sparingly. It might even be a good idea to remove these access rights once you're done.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## New Fixes for Old Games on Windows
 
  Windows 11 has been steadily getting better at maintaining compatibility with older software, but it's no surprise that it can't cover every edge case.
@@ -93,39 +79,22 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
  There are a few ways to make your old games work with your Windows 11 operating system. One way is to run your games in Windows' compatibility mode. This lets you choose the Windows version you want to run your game in. Second way is to use an emulator that lets you play old games on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: Does Windows 11 Work With All Games?
 
  Windows 11 is similar to Windows 10, so most of your games compatible with Windows 10 should run just fine on your Windows 11 computer. If a game fails to work on your PC, you can use your PC's compatibility mode to make the game run in an older version of Windows.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Does Windows 11 Delete Games?
 
  Windows 11 doesn't delete your games if you choose to preserve your files when you upgrade from an earlier version of Windows. If you find a game missing, you can always reinstall it on your upgraded system.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +103,21 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[Updated] Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-4k-laptops-for-ultimate-gaming/"><u>Best 4K Laptops for Ultimate Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridging-console-and-computer-joystick-connectivity-made-simple-156-chars/"><u>Bridging Console and Computer: Joystick Connectivity Made Simple (156 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/dazzling-ifa-2023-tecnos-color-shifting-phones/"><u>Dazzling IFA 2023: Tecno’s Color Shifting Phones</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/erweiterung-der-arbeitspipeline-mit-dem-neuen-multilingualen-module-jobrouter-fur-fortschrittliche-abbyy-ocr-anwendung/"><u>Erweiterung Der Arbeitspipeline Mit Dem Neuen Multilingualen Module JobRouter Für Fortschrittliche ABBYY OCR Anwendung</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a05s-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/peaceful-playback-practices-for-pcos-users-for-2024/"><u>Peaceful Playback Practices for PC/OS Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/recharge-joy-not-purchase-fix-your-own-controllers/"><u>Recharge Joy, Not Purchase - Fix Your Own Controllers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steps-to-preventing-pc-crashes-caused-by-the-gray-zone-warfare-problem/"><u>Steps to Preventing PC Crashes Caused by the Gray Zone Warfare Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/subtle-variations-in-steams-offerings-compared-to-gog/"><u>Subtle Variations in Steam's Offerings Compared to GOG</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-balance-of-comedy-and-courtesy-online/"><u>The Balance of Comedy and Courtesy Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-within-reach-play-fc-manager-for-free-windows/"><u>The Game Within Reach: Play FC Manager for Free (Windows)</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultrabudget-mini-led-gamerview-pro/"><u>UltraBudget Mini-LED GamerView Pro</u></a></li>
+</ul></div>
 

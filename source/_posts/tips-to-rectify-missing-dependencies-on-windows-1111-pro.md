@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2024-11-12T22:16:34.309Z
-updated: 2024-11-16T03:31:08.742Z
+date: 2024-11-23T16:22:10.483Z
+updated: 2024-11-25T05:31:39.187Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Check out[how to update Windows manually](https://www.makeuseof.com/update-windows-manually/) and ensure your PC is on the latest build.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Repair Visual C++ Packages on Your PC
 
  The “following components are required” error often complains about missing Visual C++ or DirectX runtimes. If it specifies a missing Visual C++ runtime, you may need to repair your PC's version of Visual C++.
@@ -44,10 +48,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
@@ -78,26 +79,24 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-i-accept-radio-button.jpg)
 4. Click**Next** to proceed to an offer for installing a Bing Bar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Uncheck the**Install the Bing Bar** checkbox if you don’t want that software.  
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
@@ -109,28 +108,12 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -139,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via**Programs and Features** as covered in our guide to[uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
@@ -172,22 +148,14 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-transformative-colors-in-video-editing-workflows/"><u>[Updated] Transformative Colors in Video Editing Workflows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unsealing-the-secret-permanently-ditch-youtube-shorts-for-2024/"><u>[Updated] Unsealing the Secret Permanently Ditch YouTube Shorts for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-to-excellent-screen-recordings-on-lenovo/"><u>2024 Approved Secrets to Excellent Screen Recordings on Lenovo</u></a></li>
-<li><a href="https://games-able.techidaily.com/alternative-inputs-to-power-up-your-ps5-experience/"><u>Alternative Inputs to Power Up Your PS5 Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-audio-gear-how-are-home-theater-amplifiers-different-from-stereo-receivers/"><u>Decoding Audio Gear: How Are Home Theater Amplifiers Different From Stereo Receivers?</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-game-with-144hz-ultrawide-monitors/"><u>Elevate Your Game with 144Hz Ultrawide Monitors</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-visual-experience-detecting-fps-in-android-gaming-2-strategies/"><u>Enhance Visual Experience: Detecting FPS in Android Gaming (2 Strategies)</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-ps5-dualsense-battery-enhancers/"><u>Excellent PS5 DualSense Battery Enhancers</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-check-your-fps-in-games-on-android-2-methods/"><u>How to Check Your FPS in Games on Android: 2 Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 14 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-physical-presence-vs-virtual-validation/"><u>In 2024, Physical Presence vs Virtual Validation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-video-game-chroniclers-essential-checklist/"><u>In 2024, The Video Game Chronicler’s Essential Checklist</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>In 2024, Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165844109-indulge-in-the-best-gba-ios-simulation-tools-for-legends/"><u>Indulge in the Best GBA iOS Simulation Tools for Legends!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-total-iphone-data-removal-a-step-by-step-tutorial/"><u>Mastering Total iPhone Data Removal: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplifying-pc-gaming-with-steam-deck-remote-streaming/"><u>Simplifying PC Gaming with Steam Deck Remote Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/sonys-portable-entertainment-revealed/"><u>Sony’s Portable Entertainment Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>[New] In 2024, ScreenRecorderPro A Detailed Analysis of Video Capture Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-screen-recording-techniques-for-pc-enthusiasts-for-2024/"><u>[Updated] Free Screen Recording Techniques for PC Enthusiasts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-video-gaming-options-for-content-creators/"><u>Best Video Gaming Options for Content Creators</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-playfulness-on-the-go-two-methods-to-gauge-fps-in-android-games/"><u>Boost Playfulness on the Go: Two Methods to Gauge FPS in Android Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-your-football-fortunes-free-pc-management-game/"><u>Command Your Football Fortunes: Free PC Management Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/compact-and-efficient-gameplay-entry-points/"><u>Compact & Efficient Gameplay Entry Points</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/evaluating-the-razer-blade-pro-17-a-game-changer-in-portable-computing/"><u>Evaluating the Razer Blade Pro 17: A Game Changer in Portable Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-the-power-of-azure-transcript-services/"><u>Harnessing the Power of Azure Transcript Services</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-mastering-adobe-premiere-top-6-tricks-for-professional-grade-videos/"><u>New In 2024, Mastering Adobe Premiere Top 6 Tricks for Professional-Grade Videos</u></a></li>
 </ul></div>
 

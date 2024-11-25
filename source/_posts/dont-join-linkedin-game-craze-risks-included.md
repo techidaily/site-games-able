@@ -1,7 +1,7 @@
 ---
 title: Don't Join LinkedIn Game Craze - Risks Included
-date: 2024-09-09T09:33:58.798Z
-updated: 2024-09-10T09:33:58.798Z
+date: 2024-11-20T18:44:02.912Z
+updated: 2024-11-24T21:28:04.882Z
 tags:
   - games
 categories:
@@ -14,30 +14,12 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
 ## Don't Join LinkedIn Game Craze - Risks Included
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [LinkedIn Has Added NYT-Style Games](#linkedin-has-added-nyt-style-games)
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -46,12 +28,6 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  For some unexplained reason, LinkedIn has added games to its website and app. This is despite LinkedIn being designed for professional networking and job searching. While we're stuck pondering why LinkedIn has added games, we would advise you to stay away from them regardless.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## LinkedIn Has Added NYT-Style Games
 
  Since the 1990s, when Java and Flash were all the rage, people have been able to play silly little games online. However, when it burst onto the scene in 2021,[Wordle ushered in a new era of daily web-based games](https://www.makeuseof.com/what-is-wordle/) . Easily playable and easily shareable, the game spawned[a raft of Wordle alternatives](https://www.makeuseof.com/best-wordle-alternatives/) . And the New York Times has been the big driver of this trend, first buying Wordle, and then creating a raft of daily games you can play in your browser or on its app.
@@ -62,37 +38,25 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Crossclimb
 
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Queens
 
@@ -106,9 +70,17 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
 
@@ -116,14 +88,11 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
 
  Play web games as much as you want, but do so on the New York Times, Facebook, or any of the other platforms specifically designed to let you waste away your free time. If you're on LinkedIn, use your time more productively by[improving your LinkedIn profile](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) or[broadening your network](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . To be fair to LinkedIn, the platform addresses these concerns directly in[its announcement/tutorial](https://www.linkedin.com/pulse/how-play-games-linkedin-seriously-michaelaalexis-gqwre/) , but I still can't help thinking that this is a misstep from the company.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +101,19 @@ thumbnail: https://thmb.techidaily.com/855eb1fbf7971ff96081545be670b71dd8396e6ec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-leading-free-platforms-for-youtube-openings/"><u>[New] 2024 Approved Leading Free Platforms for YouTube Openings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[New] Insta Perfect Pivoting Mastering Video Angles for Social Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-vhs-illusions-transforming-video-artistry-for-2024/"><u>[Updated] Essential VHS Illusions Transforming Video Artistry for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decoding-aspect-ratios-for-effective-youtube-videos/"><u>2024 Approved Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-comprehensive-look-at-benq-sw320s-4k-features-for-2024/"><u>A Comprehensive Look at BenQ SW320's 4K Features for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-tecno-phantom-v-fold-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Tecno Phantom V Fold to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/batocera-vs-retropie-the-best-rpi-game-platform-debated/"><u>Batocera Vs. RetroPie: The Best RPi Game Platform Debated</u></a></li>
+<li><a href="https://games-able.techidaily.com/considering-an-immediate-switch-from-gtx-to-the-next-gen-rtx/"><u>Considering an Immediate Switch: From GTX to the Next Gen RTX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-puzzles-navigating-through-the-good-and-bad-aspects/"><u>Digital Puzzles: Navigating Through the Good & Bad Aspects</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-how-to-fix-your-broken-logiteche-g633-headset-microphone/"><u>Expert Advice on How to Fix Your Broken Logiteche G633 Headset Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-for-revolutionary-hardware-at-the-biggest-tech-event/"><u>Get Ready for Revolutionary Hardware at the Biggest Tech Event</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-entertainment-smart-money-moves-with-xbox/"><u>Invest in Entertainment: Smart Money Moves with Xbox</u></a></li>
+</ul></div>
 

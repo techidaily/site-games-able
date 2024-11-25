@@ -1,7 +1,7 @@
 ---
 title: Jumpstarting Retro Game Projects with the Might of Pi
-date: 2024-09-09T09:33:58.538Z
-updated: 2024-09-10T09:33:58.538Z
+date: 2024-11-20T05:35:03.366Z
+updated: 2024-11-25T09:33:47.782Z
 tags:
   - games
 categories:
@@ -25,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
  Here are some of the reasons to use a Raspberry Pi 5 for your retro gaming project, instead of previous models and other alternatives.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. The Processor Is More Powerful
 
  Although the Raspberry Pi 5 improves on its predecessor in a number of ways, the processor is the most noticeable upgrade. The Raspberry Pi 5 sports a new application processor, the BCM2712, derived from the 28-nanometer BCM2711 (Raspberry Pi 4) with certain enhancements.
@@ -41,17 +39,9 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. The GPU Is Better
 
  The Raspberry Pi 5 features a Broadcom VideoCore VII GPU, up from the VideoCore VI found with the Raspberry Pi 4\. The VideoCore VII GPU supports OpenGL ES 3.1 and Vulkan 1.2, with fully open-source Mesa drivers from Igalia.
@@ -68,12 +58,6 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a[handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several[ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
 
  Since the Raspberry Pi 5 isn’t out yet and graphics driver support is still in the early stages, it is hard to say for sure what retro gaming consoles the Pi 5 will be able to emulate. Currently, the Raspberry Pi OS Bookworm is the most optimized operating system for the Raspberry Pi 5\. It is not yet available for download, but will ship with the Raspberry Pi 5.
@@ -83,17 +67,9 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
  We are keeping our fingers crossed that this may be the Raspberry Pi that is finally powerful enough to emulate PS2 games.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Cheaper Than Alternatives
 
  The Raspberry Pi has not lost its edge when it comes to pricing. Although there are more[powerful single-board computer alternatives](http://www.makeuseof.com/powerful-sbc-extra-computing-power/) on the market, the Raspberry Pi 5 is competitively priced. It is not the cheapest SBC, but it does maintain a fair balance between price and performance.
@@ -102,40 +78,33 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
 
  According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Better Software Support Than Most Alternatives
 
 ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 
  The Raspberry Pi 5 maintains a key advantage of the platform over its competitors: software support. Most Raspberry Pi alternatives do not have mainline Linux support, instead providing a few custom images. However, these builds get outdated very quickly as development slows and the manufacturer moves on to other products.
 
  Raspberry Pi, on the other hand, provides consistent long-term software support and drivers are usually patched upstream to maintain mainline kernel support. As a result, you will most likely be able to run your favorite retro game distribution on a Raspberry Pi. While the Raspberry Pi 5 will not be the most powerful single-board computer on the market, it will be one of the best-supported.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Best Raspberry Pi for Retro Gaming Yet
 
  Raspberry Pi 5 will be available for purchase in late October, shortly after the release of the official operating system for the single-board computer, Raspberry Pi OS Bookworm. Demand will be high for this board, so be sure to pre-order one as soon as possible.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +113,24 @@ thumbnail: https://thmb.techidaily.com/a131e22df3df2377fb881bb5a1b4cf5042cfae531
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-flashcapture-screen-tools-for-2024/"><u>[New] FlashCapture Screen Tools for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-gnome-videos-open-source-multimedia-for-windows/"><u>[New] GNOME Videos Open-Source Multimedia for Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-the-top-mobile-photo-tools-for-your-iphoneandroid-device/"><u>2024 Approved Discover the Top Mobile Photo Tools for Your iPhone/Android Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/battling-boot-blues-in-league-of-legends/"><u>Battling Boot Blues in League of Legends</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-resolving-issues-with-disc-reading-on-the-nintendo-wii-console/"><u>Expert Tips for Resolving Issues with Disc Reading on the Nintendo Wii Console.</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighters-toolkit-controller-or-stick/"><u>Fighter's Toolkit: Controller or Stick?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-consoles-stack-up-against-high-end-pcs/"><u>How Consoles Stack Up Against High-End PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-safely-wipe-your-ps5s-game-and-backup-savings/"><u>How to Safely Wipe Your PS5's Game and Backup Savings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/itunes-audio-configuration-flaw-rectified-what-you-need-to-know/"><u>ITunes Audio Configuration Flaw Rectified - What You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-metro-exodus-pc-upgrade-overcoming-the-frequent-game-crash-issues/"><u>Mastering Metro Exodus PC Upgrade: Overcoming the Frequent Game Crash Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwcs-finest-recognized-by-makeuseof/"><u>MWC's Finest: Recognized By MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-recreation-for-everyone-select-the-best-20-fast-playing-apps/"><u>Rapid Recreation for Everyone: Select the Best 20 Fast-Playing Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-playing-epic-games-on-steam-deck/"><u>The Ultimate Guide to Playing Epic Games on Steam Deck</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-monster-hunter-rise-doesnt-start-properly/"><u>Troubleshooting Steps When Monster Hunter Rise Doesn't Start Properly</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-performance-for-gamers-with-pdw4/"><u>Ultimate Performance for Gamers with PDW4</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-make-your-own-video-dvds-3-simple-methods-for-windows-and-mac/"><u>Updated Make Your Own Video DVDs 3 Simple Methods for Windows and Mac</u></a></li>
+<li><a href="https://win-net.techidaily.com/windows-11programdata/"><u>Windows 11でのProgramDataフォルダ不可視化問題に対する最終解決方法</u></a></li>
+</ul></div>
 

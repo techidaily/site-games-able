@@ -1,7 +1,7 @@
 ---
 title: Ephemeral Games – Curiosity or Concerns?
-date: 2024-11-09T19:51:48.216Z
-updated: 2024-11-15T22:41:02.284Z
+date: 2024-11-17T22:26:56.042Z
+updated: 2024-11-24T18:56:33.285Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are Game Servers?](#what-are-game-servers)
@@ -27,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 * [What Happens When Servers Shut Down?](#what-happens-when-servers-shut-down)
 
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Are Game Servers?
 
@@ -46,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
 
@@ -65,22 +70,12 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Such games include Mario Maker and Little Big Planet. Console publishers are often more protective of their IP; Nintendo, in particular, is fiercely protective of its games, locking them down to prevent anything but official, sanctioned access.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Long Do Game Servers Last?
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
@@ -94,10 +89,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Happens When Servers Shut Down?
@@ -129,14 +121,18 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[Updated] Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-wars-psplus-versus-xbox-game-pass/"><u>Console Wars: PS+ Versus Xbox Game Pass</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-platform-use-for-ps5-with-ps4/"><u>Cross-Platform Use for PS5 with PS4?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/impact-of-gpu-acceleration-on-video-quality-in-video-rendering/"><u>Impact of GPU Acceleration on Video Quality in Video Rendering</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-dormant-xbox-controller-on-windows/"><u>Reviving Your Dormant Xbox Controller on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/smart-cooling-tech-top-choices-for-a-steam-deck-lover/"><u>Smart Cooling Tech: Top Choices for a Steam Deck Lover</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-mastering-langchains-large-language-models-llm/"><u>Step-by-Step Guide to Mastering LangChain's Large Language Models (LLM)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-the-dynamics-of-windows-updates/"><u>Understanding the Dynamics of Windows Updates</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-hardware-recognition-complete/"><u>Windows Hardware Recognition Complete</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/can-you-afford-to-exclude-itop-from-your-setup/"><u>Can You Afford to Exclude ITop From Your Setup?</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-fortnite-on-a-mac-just-know-its-boundaries/"><u>Embrace Fortnite on a Mac; Just Know Its Boundaries</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-great-outdoors-with-sealocs-new-55-inch-4k-led-screen-stylish-and-weatherproof-design-unveiled/"><u>Experience the Great Outdoors with Sealoc's New 55-Inch 4K LED Screen - Stylish and Weatherproof Design Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-creative-linux-terminals-7-game-ideas/"><u>Explore Creative Linux Terminals: 7 Game Ideas</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-audio-issues-how-to-troubleshoot-non-functional-speakers-on-a-windows-10-hp-laptop/"><u>Fixing Audio Issues: How to Troubleshoot Non-Functional Speakers on a Windows 10 HP Laptop</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-gaming-are-macs-at-the-forefront/"><u>Future Gaming: Are Macs at the Forefront?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-control-gaming-interface-elements-in-discord/"><u>How to Control Gaming Interface Elements in Discord</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-asus-rog-phone-7-ultimate-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Asus ROG Phone 7 Ultimate to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-13c-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi 13C Lock Screen Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-techniques-of-capturing-emotion-in-digital-gif-formats/"><u>In 2024, Techniques of Capturing Emotion in Digital GIF Formats</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-s18-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo S18 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/preventing-xbox-pad-misfires-through-calibration/"><u>Preventing Xbox Pad Misfires Through Calibration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-the-leading-10-live-streaming-networks/"><u>Ultimate Guide The Leading 10 Live Streaming Networks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Gaming Masterpiece: The Legion Go Review"
-date: 2024-11-14T17:57:13.168Z
-updated: 2024-11-15T17:55:13.330Z
+date: 2024-11-18T23:32:40.072Z
+updated: 2024-11-25T11:33:31.560Z
 tags:
   - games
 categories:
@@ -35,13 +35,6 @@ Watch out Steam, ASUS, and dare I say, even Nintendo?
 
 ![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Gavin Phillips/MakeUseOf
 
  The Lenovo Legion Go uses an all-AMD hardware configuration, using AMD's Ryzen Z1 Extreme CPU, with 8 cores/16 threads, clocked at up to 5.1GHz and a 16MB L3 cache. It also uses AMD's RDNA 3 graphics, featuring up to 12 cores, plus a substantial 16GB of LPDDR5x, rated at 7,500Mhz.
@@ -72,10 +65,7 @@ You can check out the Lenovo Legion Go's specs below.
  The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a[Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. The Lenovo Legion Go Has an Excellent Screen
@@ -94,13 +84,6 @@ You can check out the Lenovo Legion Go's specs below.
 
 ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Gavin Phillips/MakeUseOf
 
  The reason I've added the Nintendo Switch to the list of Legion Go competitors mostly comes down to this feature. First up, the Legion Go controllers are detachable, similar to how you slip the Switch Joy-Cons off to use the screen separately or for two-player gaming. We don't know if you'll be able to use them for two-player game modes as yet—we'll find out when we get some more time with the Legion Go.
@@ -109,6 +92,10 @@ You can check out the Lenovo Legion Go's specs below.
 
  You can also use the right controller as a mouse, which can make it easier to navigate menus and otherwise on the Legion Go. The experience is very similar to a regular mouse, which will make it accessible to most folks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Bigger Battery
 
  Both the Steam Deck and Asus ROG Ally have a 40Wh battery. They both last a decent stretch but come under serious pressure when playing AAA-rated games.
@@ -116,10 +103,7 @@ You can check out the Lenovo Legion Go's specs below.
  Lenovo opted for a 49.2Wh battery, which will theoretically give it the edge over the competition. Again, the battery life is something we'd have to test with more time, but the figures show a clear boost.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Excellent Hardware
@@ -132,9 +116,17 @@ You can check out the Lenovo Legion Go's specs below.
 
  You should be able to really make the most of the 8.8-inch QHD screen, though we must concede that you'll be playing around with resolution and settings to prolong battery life. That's just a fact of life for any handheld gaming device, though.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Size and Weight
 
 ![man holding lenovo legion go with separate controller atifa 2023-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-with-separate-controller-atifa-2023-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -146,16 +138,13 @@ You can check out the Lenovo Legion Go's specs below.
 
 The carry case is also a nice touch!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lenovo Legion Go Launch Date and Price
 
  First revealed at IFA 2023, the Lenovo Legion Go is set to launch in October 2023\. The starting price is $700, but Lenovo hasn't revealed any configurations, and this is the information listed on its site. However, the price and additional configurations may well change before its October launch.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Lenovo Legion Go vs. Steam Deck vs. Asus ROG Ally: Battle of the Gaming Handhelds
 
@@ -178,16 +167,22 @@ The carry case is also a nice touch!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-premium-virtual-meetup-software-titles/"><u>[Updated] In 2024, Premium Virtual Meetup Software Titles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-elite-quinte-innovative-4k-capture-systems/"><u>2024 Approved Elite Quinte Innovative 4K Capture Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-high-quality-tablets-of-the-year-2024s-expert-evaluations-and-insights/"><u>Affordable High-Quality Tablets of the Year: 2024'S Expert Evaluations and Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/high-fidelity-webcams-for-professional-podcasting-for-2024/"><u>High-Fidelity Webcams for Professional Podcasting for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/invisible-steam-games-cache/"><u>Invisible Steam Games Cache</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-gen-gems-discover-the-best-nintendo-switch-docks/"><u>Next-Gen Gems: Discover the Best Nintendo Switch Docks</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-guide-calibrating-your-series-sx-display/"><u>Step-by-Step Guide: Calibrating Your Series S/X Display</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-fallout-3-game-crashes-on-windows-10-comprehensive-guide-and-fixes/"><u>Stop Fallout 3 Game Crashes on Windows 10 – Comprehensive Guide & Fixes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/superior-hd-video-capture-options-reviewed-here/"><u>Superior HD Video Capture Options Reviewed Here</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211260936-9798987586037-the-weighted-feather-vol-2/"><u>The Weighted Feather Vol. 2 | Free Book</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlocking-potential-discovering-hidden-streaming-tricks/"><u>[New] 2024 Approved Unlocking Potential Discovering Hidden Streaming Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unveiling-the-power-of-effective-screencasts-in-digital-content/"><u>[New] Unveiling the Power of Effective Screencasts in Digital Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>2024 Approved Avoid Being Overwhelmed by TikTok Drafts Edits for Orderliness</u></a></li>
+<li><a href="https://games-able.techidaily.com/blazing-speeds-razers-high-end-gaming-rig-basilisk-v3/"><u>Blazing Speeds: Razer's High-End Gaming Rig, Basilisk V3</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakdown-fixing-faulty-xbox-series-xs/"><u>Breakdown: Fixing Faulty Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/busting-the-big-game-pass-bill-hike-temporary-solutions/"><u>Busting the Big Game Pass Bill Hike – Temporary Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypass-xbox-ultimate-price-hike-with-smart-strategies/"><u>Bypass Xbox Ultimate Price Hike with Smart Strategies</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-standard-controls-to-play-xbox-one-games/"><u>Bypassing Standard Controls to Play Xbox One Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-video-game-adventures-now-on-your-iphone/"><u>Classic Video Game Adventures, Now on Your iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensible-list-best-games-music-found-online/"><u>Comprehensible List Best Games’ Music Found Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-eye-candy-for-gamers-on-a-budget/"><u>Essential Eye Candy for Gamers on a Budget</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/al-void-a-complete-ban-on-youtube-short-video-feature/"><u>Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/online-extension-for-nintendo-switch-a-deal/"><u>Online Extension for Nintendo Switch: A Deal?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-playbook-skyrocket-your-youtube-shorts-traffic-and-engagement-for-2024/"><u>The Ultimate Playbook Skyrocket Your YouTube Shorts Traffic and Engagement for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-iphone-virtual-reality-games-for-next-level-play/"><u>Top 10 IPhone Virtual Reality Games for Next Level Play</u></a></li>
 </ul></div>
 

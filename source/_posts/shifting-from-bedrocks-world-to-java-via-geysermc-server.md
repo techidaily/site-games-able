@@ -1,7 +1,7 @@
 ---
 title: Shifting From Bedrock's World to Java via GeyserMC Server
-date: 2024-09-09T09:34:01.262Z
-updated: 2024-09-10T09:34:01.262Z
+date: 2024-11-21T00:51:29.239Z
+updated: 2024-11-25T07:18:52.518Z
 tags:
   - games
 categories:
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Minecraft Java and Bedrock editions are written in different programming languages, but the GeyserMC mod allows Bedrock players to join Java servers.
@@ -34,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
 
@@ -48,18 +50,6 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  However, the GeyserMC mod takes the C++ information and translates it to Java, emulating a Java Minecraft client. This allows Bedrock Edition players to join Java Edition servers and play as if they were on the same version of the game.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Minecraft Bedrock Edition Players Can Join Java Edition Servers
 
 ![Two Minecraft versions open at the same time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/two-minecraft-versions-open-at-the-same-time.JPG)
@@ -67,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
  Image Credit: Jhet Borja
 
  This process involves both versions of Minecraft running at the same time on one computer, connected to the same Java server. We'll show you how to create a server that you can join whether you're playing Minecraft's Java or Bedrock Edition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Set Up a Server
 
@@ -78,48 +72,30 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  Alternatively, you can[host your Minecraft server on a Raspberry Pi](https://www.makeuseof.com/tag/setup-minecraft-server-raspberry-pi/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Install GeyserMC
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
 ![Installing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-geyser-plugin-on-aternos.jpg)
@@ -130,44 +106,20 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On Minecraft Bedrock Edition, click on the**Servers** tab, scroll all the way down, and click the**Add Server** button.
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Limitations of the GeyserMC Mod
 
  While Minecraft Java and Bedrock Edition are quite similar, there are major differences that the GeyserMC Mod creators can’t do anything about.
@@ -178,14 +130,11 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
 
  While it has limitations, this can rarely get in the way of having fun. Now you don’t have to be worried that you and your friend have different versions of Minecraft. We hope this guide has helped you enjoy Minecraft with your friends no matter what they’re playing on.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +143,24 @@ thumbnail: https://thmb.techidaily.com/a5a7b7ec3022517415e821b6bfe83159465cabea9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-quick-guide-accessorizing-windows-with-a-clownfish-speech-modifier/"><u>[New] Quick Guide Accessorizing Windows with a Clownfish Speech Modifier</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-simplified-steps-for-instagram-collage-mastery/"><u>[New] Simplified Steps for Instagram Collage Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-is-max-360-superior-to-hero-11-in-video-quality/"><u>[Updated] In 2024, Is Max 360 Superior to Hero 11 in Video Quality?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-start-to-engaging-in-face-to-face-conversations-on-snapchat-for-2024/"><u>[Updated] Quick Start to Engaging in Face-to-Face Conversations on Snapchat for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/6-effective-ways-to-add-live-facebook-content-online-for-2024/"><u>6 Effective Ways to Add Live Facebook Content Online for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-reasons-to-challenge-ray-tracings-dominance-in-gaming/"><u>7 Reasons to Challenge Ray Tracing's Dominance in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/acquiring-and-attaching-mojang-maps-with-ease/"><u>Acquiring and Attaching Mojang Maps with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-highview-monitor-27m2v-pixels/"><u>Affordable HighView Monitor, 27M2V Pixels</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-powered-narrative-building-for-games/"><u>AI-Powered Narrative Building for Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-the-variances-in-asus-tuf-proart-prime-pcs/"><u>Analyzing the Variances in Asus, Tuf, ProArt, Prime PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/athletic-adventures-7-exciting-sporting-titles-for-ios-and-android/"><u>Athletic Adventures: 7 Exciting Sporting Titles for iOS & Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-errors-and-enhance-your-pc-with-new-nvidia-drivers-update/"><u>Banish Errors and Enhance Your PC with New Nvidia Drivers Update.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertidor-de-archivos-gratuito-en-la-web-png-a-jpeg-por-movavi-sin-costo-adicional/"><u>Convertidor De Archivos Gratuito en La Web: PNG a JPEG Por Movavi Sin Costo Adicional</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-effortlessly-manage-iphone-photos-aligning-albums-and-streamlining-icloud-storage/"><u>In 2024, Effortlessly Manage iPhone Photos Aligning Albums and Streamlining iCloud Storage</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165694207-the-history-and-evolution-of-street-mapping-techniques-and-tools/"><u>The History and Evolution of Street Mapping Techniques and Tools</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-voice-memos-and-mic-functionality/"><u>Troubleshooting Tips: Resolving Issues with Voice Memos and Mic Functionality</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-current-hp-laserjet-pro-m404n-drivers-direct-download-links-available/"><u>Update to the Current HP LaserJet Pro M404N Drivers – Direct Download Links Available!</u></a></li>
+</ul></div>
 

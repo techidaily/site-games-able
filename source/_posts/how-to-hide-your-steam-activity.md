@@ -1,7 +1,7 @@
 ---
 title: How to Hide Your Steam Activity
-date: 2024-11-11T04:09:27.222Z
-updated: 2024-11-15T18:30:08.908Z
+date: 2024-11-20T13:06:47.907Z
+updated: 2024-11-25T00:13:02.475Z
 tags:
   - games
 categories:
@@ -35,6 +35,14 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Hide Steam played games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-played-games-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Hide Steam Games From Your Library
 
  If you’re sharing the computer with anyone else, it might make sense to hide certain games from your Steam library. Maybe they’re younger than you and the in-game content is not appropriate for their age.
@@ -43,18 +51,15 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Hide Steam game from library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-steam-game-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to play the game that you’ve hidden, go to**View > Hidden games** . To bring back the game to your library, access its settings and click**Manage > Remove from hidden** .
 
 ![Unhide Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1.jpg)
 
  Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can[uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Hide Steam Gameplay Activity
 
@@ -66,16 +71,13 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Set status to Invisible on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-invisible-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Offline** option will log you out of the Steam chat, so you’ll not receive any messages from your friends. On the other hand, if you still want to communicate with your friends, it’s better to select**Invisible** . Also, you will not receive any invitations on Steam while you’ve set your status as**Offline** or**Invisible** .
 
  Besides hiding your Steam gameplay activity, you can[customize the in-game activity status on Steam](https://www.makeuseof.com/how-to-customize-in-game-activity-status-steam/) to confuse your friends.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Hide Steam Gameplay Activity for Specific Friends
 
@@ -106,19 +108,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  Go through the above steps two or three more times, but play different episodes. Steam will try to replace your recent activities, but because it couldn’t properly play the episodes, it will simply remove the previous Recent Activity version.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Make Your Steam Profile Private
 
  If you don’t want to manage multiple settings on your Steam account, you can choose the nuclear option and set your profile to**Private** . This will block any form of communication with your friends and will influence multiple categories such as Game details, Friends List, and Inventory.
@@ -133,10 +122,7 @@ Follow these steps to set your profile to Private:
 ![Set Steam profile to Private](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-private-profile-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Steam Private
@@ -160,20 +146,16 @@ Follow these steps to set your profile to Private:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-tiktok-to-twitter-a-2023-blueprint/"><u>[Updated] 2024 Approved From TikTok to Twitter A 2023 Blueprint</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-goods-get-em-for-xbox/"><u>Digital Goods: Get 'Em for Xbox</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-digital-portraits-with-acoustic-accents/"><u>Elevating Digital Portraits with Acoustic Accents</u></a></li>
-<li><a href="https://games-able.techidaily.com/emudeck-tips-for-optimal-emulation-on-steam-deck/"><u>EmuDeck Tips for Optimal Emulation on Steam Deck</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722879475123-fix-the-not-found-error-for-msvcr80dll-on-your-pc-easily/"><u>Fix the 'Not Found' Error for msvcr80.dll on Your PC Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-common-errors-that-prevent-loading-of-the-steam-store-webpage/"><u>Fixing Common Errors That Prevent Loading of The Steam Store Webpage</u></a></li>
-<li><a href="https://win-able.techidaily.com/helldivers-2-launch-problems-heres-how-to-fix-the-initial-black-screen/"><u>Helldivers 2 Launch Problems? Here's How to Fix the Initial Black Screen!</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-ensure-audio-plays-only-through-your-headset-on-xbox-series-xs/"><u>How to Ensure Audio Plays Only Through Your Headset on Xbox Series X|S</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-busting-vlogger-shakiness-leading-camera-stabilizer-brands/"><u>In 2024, Busting Vlogger Shakiness Leading Camera Stabilizer Brands</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-top-food-youtubers-you-should-follow/"><u>In 2024, Top Food YouTubers You Should Follow</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-it-classic-chdman-guide-for-small-sized-retro-gaming-discs/"><u>Keeping It Classic: CHDMAN Guide for Small-Sized Retro Gaming Discs</u></a></li>
-<li><a href="https://games-able.techidaily.com/leadership-in-gaming-secure-early-spiderman-2-edition/"><u>Leadership in Gaming: Secure Early SPIDERMAN 2 Edition</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-any-problem-with-your-iphone-discover-these-15-crucial-hacks/"><u>Resolving Any Problem with Your iPhone? Discover These 15 Crucial Hacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-exclusive-headphone-volume-on-xbox-series/"><u>Setting Exclusive Headphone Volume on Xbox Series</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-ten-cost-free-virtual-chat-solutions-for-teams-for-2024/"><u>Top Ten Cost-Free Virtual Chat Solutions for Teams for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capture-mac-scenery-screen-and-microphone-feature/"><u>[New] 2024 Approved Capture Mac Scenery Screen and Microphone Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled/"><u>[New] 2024 Approved Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/cultivating-an-xbox-community-hub/"><u>Cultivating an Xbox Community Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-intel-usb-30-driver-package-for-windows-10/"><u>Free Download: Ultimate Intel USB 3.0 Driver Package for Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-keyboards-with-sticky-keys-dilemma/"><u>How to Resolve Windows Keyboards with Sticky Keys Dilemma</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-input-devices-for-top-gamers/"><u>Innovative Input Devices for Top Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-deleting-ps5-users/"><u>Mastering the Art of Deleting PS5 Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-media-switching-your-ultimate-guide-for-srt-conversion/"><u>Seamless Media Switching Your Ultimate Guide for SRT Conversion</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-20-versatile-game-pairs-for-social-fun-across-devices/"><u>Top 20 Versatile Game Pairs for Social Fun Across Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-blands-borderline-issue-fixing-game-falls-in-line/"><u>Ultimate Guide: Resolving Bland's Borderline Issue - Fixing Game Falls in Line</u></a></li>
 </ul></div>
 

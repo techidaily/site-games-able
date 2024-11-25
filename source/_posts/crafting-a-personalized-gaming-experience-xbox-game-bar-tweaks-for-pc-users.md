@@ -1,7 +1,7 @@
 ---
 title: "Crafting a Personalized Gaming Experience: Xbox Game Bar Tweaks for PC Users"
-date: 2024-11-11T03:01:46.606Z
-updated: 2024-11-15T19:59:38.999Z
+date: 2024-11-19T21:24:25.005Z
+updated: 2024-11-25T09:17:21.259Z
 tags:
   - games
 categories:
@@ -31,7 +31,15 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ![Customize Shortcuts on Xbox Game Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/customize-shortcuts-on-xbox-game-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These are default shortcuts, however, and you may have your own ideas in mind. To create your own shortcuts, open the Xbox Game Bar by pressing the**Windows Key + G** and opening the**Settings** . Select**Shortcuts** , and enter new ones or restructure existing ones to create your perfect shortcut menu. Press**Save** to confirm your changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Add Favorites to Your Xbox Game Bar
 
@@ -42,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
  In these cases, you can 'favorite' certain features of the Game Bar, so they always appear on the Home Bar. To do so, find your favorite feature and press the**star icon** to the right of it. That will mark your feature as a favorite, so it will always be available to you whenever you need it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Shuffle, Resize, or Pin Widgets to Your Xbox Game Bar
@@ -53,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 [Adding handy widgets to the Xbox Game Bar](https://www.makeuseof.com/windows-game-bar-add-widgets/) can vastly improve your gaming experience and provide quick access to things like stopwatches to improve your speed-running abilities, aim trainers to help you improve your aim, and even maps for certain games.
 
 ![Pin Icon on Xbox Game Bar Widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pin-icon-on-xbox-game-bar-widget.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These widgets can be added and customized however you would like to create your perfect Game Bar. You can move widgets by clicking, holding, and dragging them to your preferred position. To resize a widget, click, hold, and drag one of the corners, and pin them in place by pressing the**pin icon** at the top right of the widget to lock it in.
 
@@ -69,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ![Remember This is a Game Setting on Xbox Game Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remember-this-is-a-game-setting-on-xbox-game-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If so, press the**Windows Key + G** to bring up your Xbox Game Bar while you’re using the app or game in question. Head to the**settings** , and select the**checkbox** that reads**Remember this is a game** . If the checkbox isn’t available, the app is already recognized as a game, and you are free to continue playing with all the features you need.
 
 ## 5\. Adjust Your Xbox Game Bar Preferences
@@ -84,13 +75,14 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 ![Xbox Game Bar Personalize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/xbox-game-bar-personalize-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Adjusting your preferences can help you fit your Xbox Game Bar to your personal aesthetic or stop any distracting notifications from popping up on you mid-game and breaking your focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Game Your Own Way
@@ -114,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nlock-video-insights-top-7-free-easy-to-use-tag-extraction-software-reviewed-for-2024/"><u>[New] Unlock Video Insights Top 7 Free, Easy-to-Use Tag Extraction Software Reviewed for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-perfect-palette-playbook-mastering-the-art-of-grading-for-2024/"><u>[Updated] Perfect Palette Playbook Mastering the Art of Grading for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-tailor-made-youtube-closings-how-to-get-them-right/"><u>2024 Approved Tailor-Made YouTube Closings How to Get Them Right</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-8-best-tips-for-perfecting-igtv-video-dimensions-and-layouts/"><u>2024 Approved The 8 Best Tips for Perfecting IGTV Video Dimensions and Layouts</u></a></li>
-<li><a href="https://games-able.techidaily.com/embark-on-epic-journeys-from-your-computer/"><u>Embark on Epic Journeys From Your Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/free-games-just-a-click-away-on-series-xs/"><u>Free Games, Just a Click Away on Series X|S</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976740161-get-your-hands-on-hp-elitebook-x360-1030-g2-compatible-driver-pack-available-now/"><u>Get Your Hands on HP EliteBook X360 (1030 G2) - Compatible Driver Pack Available Now!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Motorola Moto G14? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi A2? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/nine-entertaining-text-battles-for-laughs-and-connection/"><u>Nine Entertaining Text Battles for Laughs & Connection</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/personalize-and-protect-youtube-channel-url-made-simple-for-2024/"><u>Personalize & Protect YouTube Channel URL Made Simple for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-steam-service-unavailable-errors/"><u>Troubleshooting Steam Service Unavailable Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-superior-joy-cons-the-ultimate-guide-to-2024/"><u>Unleashing Superior Joy-Cons: The Ultimate Guide to 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-best-elgato-models/"><u>Unveiling the Best Elgato Models</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/unveiling-the-secrets-acquiring-attractive-pexel-photos-for-2024/"><u>Unveiling the Secrets Acquiring Attractive Pexel Photos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-ten-recommendations-for-dynamic-instagram-grid-crafting/"><u>[New] 2024 Approved Top Ten Recommendations for Dynamic Instagram Grid Crafting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-detailed-guide-to-minecraft-live-broadcasting/"><u>[New] In 2024, Detailed Guide to Minecraft Live Broadcasting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-dive-into-fb-360-videos-recording-and-sharing-secrets/"><u>[Updated] In 2024, Dive Into FB 360 Videos Recording and Sharing Secrets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-star-search-leading-view-counts-on-youtube-for-2024/"><u>[Updated] Social Star Search Leading View Counts on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-keyword-stuffing-ensure-that-your-title-flows-naturally-with-keywords-incorporated-in-a-way-that-feels-natural-to-the-reader-overstuffing-may-result-i88/"><u>Avoid Keyword Stuffing: Ensure that Your Title Flows Naturally, with Keywords Incorporated in a Way that Feels Natural to the Reader. Overstuffing May Result in Penalties From Google's Algorithms or Simply Look Unappealing to Users.</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-expanding-steam-deck-with-sd-card/"><u>Efficiently Expanding Steam Deck with SD Card</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-eliminate-cyberpunk-2077s-notorious-input-delay/"><u>Fixing the Issue: How to Eliminate Cyberpunk 2077'S Notorious Input Delay</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-frp-by-drfone-android/"><u>Full Guide to Bypass Honor FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-lava-blaze-2-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Lava Blaze 2 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-era-when-is-it-right-for-rtx/"><u>Nvidia's New Era: When Is It Right for RTX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pokemon-strategy-for-ios-devices-a-complete-walkthrough/"><u>Pokémon Strategy for iOS Devices - A Complete Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-plus-gaming-life-beyond-subscription-end/"><u>PS Plus Gaming Life Beyond Subscription End</u></a></li>
+<li><a href="https://games-able.techidaily.com/shared-worlds-mastering-2p-gameplay-in-switchs-minecraft/"><u>Shared Worlds: Mastering 2P Gameplay in Switch's Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-lags-and-lockups-mastering-epic-launcher-stability-on-pc/"><u>Stop Lags and Lockups: Mastering Epic Launcher Stability on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gpu-troubleshooting-for-the-most-recurrent-cases/"><u>Streamlining GPU Troubleshooting for The Most Recurrent Cases</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-online-retailers-for-video-games-where-to-save-biggest/"><u>Top Online Retailers for Video Games: Where to Save Biggest</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-adventure-awaits-in-todays-mmos/"><u>Ultimate Adventure Awaits in Today's MMOs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-high-speed-connectivity-and-slim-latency-with-the-innovative-extollo-lansocket-1500-reviewed/"><u>Unleash High-Speed Connectivity & Slim Latency with the Innovative Extollo LANSocket 1500 Reviewed!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-create-stunning-visual-stories-best-online-collage-software-for-2024/"><u>Updated Create Stunning Visual Stories Best Online Collage Software for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From Screen to Console: Explore More of Fallout’s Realm"
-date: 2024-11-08T21:16:17.540Z
-updated: 2024-11-15T23:36:07.351Z
+date: 2024-11-18T14:06:48.527Z
+updated: 2024-11-25T13:55:31.654Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Fallout: New Vegas](#fallout-new-vegas)
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -50,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -67,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -84,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -117,19 +109,19 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-innovative-ways-to-create-captivating-slow-motion-videos-for-instagram-fame-for-2024/"><u>[New] Innovative Ways to Create Captivating Slow Motion Videos for Instagram Fame for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-list-of-top-18-webcam-recorder-apps-and-tools-to-use/"><u>[New] List of Top 18 Webcam Recorder Apps and Tools to Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-detailed-analysis-of-mozillas-popup-functionality/"><u>[Updated] A Detailed Analysis of Mozilla's Popup Functionality</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-google-insider-reveals-why-he-loves-his-macbook-and-escapes-the-grief-of-using-a-windows-laptop-insights/"><u>A Google Insider Reveals Why He Loves His MacBook and Escapes the Grief of Using a Windows Laptop - Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/brand-showdown-asus-rog-tuf-proart-vs-prime-precision/"><u>Brand Showdown: Asus ROG, TUF, ProArt Vs. Prime Precision</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/camlock-secure-mounting-clip/"><u>CamLock Secure Mounting Clip</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-gaming-iem-quality-an-overview/"><u>Exploring Gaming IEM Quality: An Overview</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-2023-unleashing-the-future-of-game-hardware/"><u>IFA 2023: Unleashing the Future of Game Hardware</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>In 2024, Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-multi-image-instagram-stories-a-step-by-step-tutorial/"><u>Mastering Multi-Image Instagram Stories A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-how-to-stop-auto-renewal/"><u>Mastering Steam: How to Stop Auto-Renewal</u></a></li>
-<li><a href="https://games-able.techidaily.com/steer-clear-from-linkedin-games-here-are-reasons-why/"><u>Steer Clear From LinkedIn Games - Here Are Reasons Why</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-fundamental-factors-for-your-next-game-handset-selection/"><u>The Fundamental Factors for Your Next Game Handset Selection</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-future-of-drone-control-with-syma-x8c-for-2024/"><u>The Future of Drone Control with Syma X8C for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-notch-animated-text-settings/"><u>[New] Top-Notch Animated Text Settings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-infographic-cache-of-2017s-yt-facts-and-figures/"><u>[Updated] In 2024, The Infographic Cache of 2017’S YT Facts and Figures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/26454177-updated-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[Updated] Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-red-magic-8s-proplus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Red Magic 8S Pro+ Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-logging-live-audio-on-the-go-a-user-friendly-manual/"><u>2024 Approved Logging Live Audio On-the-Go A User-Friendly Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-evolution-how-the-xbox-series-s-abandons-physical-media/"><u>Gaming Evolution: How the Xbox Series S Abandons Physical Media</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>In 2024, Chasing Likes and Loads Jake Paul's YouTube Ambition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-gopro-comparison-max-360-vs-hero-11-performance/"><u>In 2024, Ultimate GoPro Comparison Max 360 vs Hero 11 Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-games-and-getaways-key-strategies/"><u>Navigating Games & Getaways: Key Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/obs-troubleshooting-success-no-more-screen-recording-problems/"><u>OBS Troubleshooting Success: No More Screen Recording Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-power-the-ultimate-guide-to-starting-an-fps-game-right/"><u>Precision Power: The Ultimate Guide to Starting an FPS Game Right</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-stop-your-xbox-joystick-from-skipping/"><u>Solutions to Stop Your Xbox Joystick From Skipping</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/947425-9781101199206-the-complete-idiots-guide-to-tantric-sex/"><u>The Complete Idiot's Guide to Tantric Sex | Free Book</u></a></li>
 </ul></div>
 

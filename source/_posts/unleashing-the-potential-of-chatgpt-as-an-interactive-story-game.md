@@ -1,7 +1,7 @@
 ---
 title: Unleashing the Potential of ChatGPT as an Interactive Story Game
-date: 2024-11-13T01:08:35.057Z
-updated: 2024-11-16T03:31:38.632Z
+date: 2024-11-20T02:37:15.256Z
+updated: 2024-11-24T18:48:50.259Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -66,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
@@ -137,13 +138,14 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -171,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -192,16 +187,13 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
@@ -326,17 +318,24 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-procedural-blueprint-inserting-srt-within-mp4-recordings/"><u>[New] 2024 Approved Procedural Blueprint Inserting SRT Within MP4 Recordings</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-access-to-nostalgia-classic-games-new-tech-pc/"><u>Effortless Access to Nostalgia: Classic Games, New Tech (PC)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-formula-1-2021-from-suddenly-closing-on-your-computer-troubleshooting-guide/"><u>How to Stop Formula 1 2021 From Suddenly Closing on Your Computer - Troubleshooting Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-stepping-into-silence-fading-out-audio-in-adobe-premiere-pro/"><u>In 2024, Stepping Into Silence Fading Out Audio in Adobe Premiere Pro</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-transformative-beauty-tutorials-for-everyone/"><u>In 2024, Transformative Beauty Tutorials for Everyone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719161846220-joy-con-plus-the-ultimate-guide-for-controller-extension-92-chars-this-title-slightly-exceeds-but-is-relevant-enough-to-be-considered-within-the-limit/"><u>Joy-Con Plus: The Ultimate Guide for Controller Extension (92 Chars) – This Title Slightly Exceeds but Is Relevant Enough to Be Considered Within the Limit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-starfields-intensive-processing-challenge-effective-solutions-for-gamers/"><u>Overcoming Starfield's Intensive Processing Challenge - Effective Solutions for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/pulsar-pioneer-top-brand-revelations-in-pcs/"><u>Pulsar Pioneer: Top Brand Revelations in PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolve-your-problems-easy-way-to-install-mouse-driver-on-windows-7-guide/"><u>Resolve Your Problems: Easy Way to Install Mouse Driver on Windows 7 [Guide]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-on-adding-soundtracks-to-instagram-footage/"><u>Step-by-Step Tutorial on Adding Soundtracks to Instagram Footage</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-gamers-toolkit-razers-v4-unveiled/"><u>The Ultimate Gamer's Toolkit - Razer's V4 Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-essential-tips-resolving-issues-in-systems-power-on-self-test-post/"><u>Troubleshooting Essential Tips: Resolving Issues in System's Power-On Self Test (POST)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-expressive-film-conclusions-available-on-the-free-shelf/"><u>[Updated] In 2024, Expressive Film Conclusions Available on the Free Shelf</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convert-videos-without-hassle-moveavis-free-mpeg-wmv-and-avi-online-conversion-services/"><u>Convert Videos Without Hassle - Moveavi's Free MPEG, WMV and AVI Online Conversion Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722214155719-discover-new-ways-to-use-chatgpt-essential-tools-and-functions-you-havent-tried-yet/"><u>Discover New Ways to Use ChatGPT: Essential Tools and Functions You Haven't Tried Yet</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-hidden-gems-a-deep-dive-review-of-the-beantech-bitwatch-s1-plus-for-savvy-shoppers/"><u>Discover the Hidden Gems: A Deep Dive Review of the Beantech Bitwatch S1 Plus for Savvy Shoppers</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-typing-the-interplay-of-speed-and-accuracy/"><u>Efficient Typing: The Interplay of Speed & Accuracy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gaming-experience-free-drivers-available-for-geforce-gtx-1650-super-on-windows-1011/"><u>Enhance Your Gaming Experience: Free Drivers Available for GeForce GTX 1650 Super on Windows 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/gearhead-guidance-which-input-device-makes-the-best-driver/"><u>Gearhead Guidance: Which Input Device Makes the Best Driver?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2022-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone SE (2022) to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-ssd-technologies-showdown-2024s-ultimate-guide-on-zdnet/"><u>Leading SSD Technologies Showdown - 2024'S Ultimate Guide on ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/need-a-speedy-phone-connection-try-these-proven-methods-to-up-your-mobile-data-speed/"><u>Need a Speedy Phone Connection? Try These Proven Methods to Up Your Mobile Data Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-windows-games-on-m1-a-guide-with-crossover/"><u>Playing Windows Games on M1: A Guide with Crossover</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-play-facing-the-rising-game-crime-wave/"><u>Safe Play: Facing the Rising Game Crime Wave</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-switch-essential-3-live-stream-platforms/"><u>Supercharge Your Switch: Essential 3 Live-Stream Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-prime-8-gaming-hubs/"><u>The Ultimate Collection of Prime 8 Gaming Hubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tech-showcased-mwc-and-makeuseofs-choice/"><u>Top Tech Showcased: MWC & MakeUseOf's Choice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaking-up-in-fortnite-when-your-mic-fails/"><u>Troubleshooting: Speaking Up in Fortnite When Your Mic Fails!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>What are Location Permissions Life360 On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

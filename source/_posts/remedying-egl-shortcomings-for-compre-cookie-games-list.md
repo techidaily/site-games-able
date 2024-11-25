@@ -1,7 +1,7 @@
 ---
 title: Remedying EGL Shortcomings for Compre Cookie Games List
-date: 2024-11-12T19:10:25.600Z
-updated: 2024-11-15T17:34:25.161Z
+date: 2024-11-23T14:00:08.772Z
+updated: 2024-11-25T07:12:55.533Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![How to refresh the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/refresh-library-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart the Epic Games Launcher
 
  If refreshing the library didn’t fix the issue, try restarting the Epic Games Launcher app. This way, you stop its processes from running in the background and give it a fresh start. Once you close the app, press**Ctrl + Shift + Esc** to bring up the Task Manager.
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Stop Epic Games from running in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/end-epic-games-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, relaunch the app and check if all of your games are now showing within the library.
@@ -59,10 +60,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Check the game's availability on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-availability-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A game might have limited availability which is why you can no longer see it in your library. In this case, go to the Epic Store and check the game’s status.
@@ -75,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![How to unhide the Epic Games library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hide-game-library-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Remove Library Filters
 
  The Epic Games app allows you to sort your titles depending on genre, features, and supported platforms, among other criteria. If certain titles are missing from your library, chances are you’ve set a filter and forgot about it. To check out every title in your library, you should remove Epic Games library filters.
@@ -91,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 ![Reset the library filters on Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-filters-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Epic Games Launcher Cache
@@ -108,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 5. Relaunch Epic Games and check if the problem is now solved.
 
 ![Delete the Webcache Folder in the Epic Games Launcher Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-delete-the-webcache-folder-in-the-epic-games-launcher-installation-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bring Back Your Epic Games Library
 
@@ -128,20 +120,19 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>[New] 2024 Approved Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-professional-fb-cover-setups-to-skyrocket-engagement-for-2024/"><u>[New] Professional FB Cover Setups to Skyrocket Engagement for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-instagram-writers-and-broadcasters-podcast-sharing-explained/"><u>[Updated] Instagram’ Writers & Broadcasters Podcast Sharing Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-why-everyone-loves-steam-for-good-reasons/"><u>Discover Why Everyone Loves Steam (For Good Reasons)</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-6-curious-chess-programs-with-ai-matches/"><u>Dive Into 6 Curious Chess Programs with AI Matches</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evolution-of-intelligence-openais-gpt-story/"><u>Evolution of Intelligence: OpenAI's GPT Story</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-driver-update-successful-error-22/"><u>GPU Driver Update Successful - Error 22</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-live-stream-using-the-twitch-mobile-app/"><u>How to Live Stream Using the Twitch Mobile App</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-troubleshoot-unheard-sounds-on-xbox-console/"><u>How to Troubleshoot Unheard Sounds on Xbox Console</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-versus-edge-top-gaming-browsers-ranked/"><u>Opera GX Versus Edge: Top Gaming Browsers Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/srt-file-how-to-open-srt-file-on-windows-or-mac-for-2024/"><u>SRT File How to Open SRT File on Windows or Mac for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/syncing-sonata-to-still-images-in-the-cyberrealm-for-2024/"><u>Syncing Sonata to Still Images in the Cyberrealm for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-insiders-guide-to-exceptional-discord-communities/"><u>The Insider's Guide to Exceptional Discord Communities</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-role-of-endocannabinoids-in-modulating-immune-responses-and-disease-progression/"><u>The Role of Endocannabinoids in Modulating Immune Responses and Disease Progression</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-choosing-google-pixel-music-matches-online/"><u>[New] 2024 Approved Choosing Google Pixel Music Matches Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-tweets-adding-media-files/"><u>[New] 2024 Approved Enhancing Tweets Adding Media Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-no-more-youtube-the-best-5-alternative-editors-await/"><u>[New] 2024 Approved No More Youtube? The Best 5 Alternative Editors Await</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-multi-platform-experience-epic-meets-steam/"><u>Enhancing Your Multi-Platform Experience: Epic Meets Steam</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-splice-video-editor-a-must-have-for-mac-users/"><u>New 2024 Approved Splice Video Editor A Must-Have for Mac Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-decision-guide-to-digital-games-ups-and-downs/"><u>The Ultimate Decision Guide to Digital Games' Ups and Downs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-digital-code-redeeming/"><u>The Ultimate Guide to Digital Code Redeeming</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-full-potential-of-your-gaming-with-steam-modding/"><u>Unlock the Full Potential of Your Gaming with Steam Modding</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-speed-potential-with-easy-ssd-transition-steps/"><u>Unlocking Speed Potential with Easy SSD Transition Steps</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-make-a-photo-collage-using-iphoto/"><u>Updated 2024 Approved How to Make a Photo Collage Using iPhoto?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-xs-is-fast-resume-beneficial/"><u>Xbox Series X|S: Is Fast Résumé Beneficial?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get the Most Out of Your Steam Deck's Gaming World
-date: 2024-09-09T09:33:59.311Z
-updated: 2024-09-10T09:33:59.311Z
+date: 2024-11-22T13:12:12.723Z
+updated: 2024-11-25T01:15:49.432Z
 tags:
   - games
 categories:
@@ -31,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
  If you have games on Epic Games or GOG that you want to play on Steam Deck, Heroic is ideal.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Alternatives to Heroic Games Launcher
 
  This guide attempts to make installing GOG games and Epic Games titles as easy as possible. However, using Heroic Games Launcher is not the only method.
@@ -46,18 +44,6 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
  Heroic Games Launcher is a simpler approach that enables you to start playing games sooner, rather than later.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before You Add Non-Steam Games to Steam Deck
 
  Setting up Heroic Games Launcher on Steam Deck is straightforward, but there is something you might want to do first.
@@ -74,36 +60,20 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 4. Go to**Installed Files**  
 ![muo-gaming-steam-deck-gog-epic-games-installed-files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-installed-files.jpeg)
 5. Select**Move install folder**
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In the Move Content screen, highlight**MicroSD Card** and tap**Move**  
 ![Move data to the SD card](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-sdcard-move.jpeg)
 7. Wait while the process completes
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This should provide more space for installing titles from other platforms. Epic Games are often quite large titles, although most games you might have acquired from GOG.com are probably comparatively modest in size.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is It Safe to Install Non-Steam Games on Your Steam Deck?
 
  If you’re concerned about breaking warranty or have some other reason to be concerned, don’t worry. A Steam Deck is capable of running most PC games, including those on Epic Games. You may have noticed some crossover between the Epic Games and the Steam libraries.
@@ -120,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 
  Otherwise, you’ll be using the right-hand touchpad as a laptop touchpad to control the mouse pointer on your Steam Deck.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Install Heroic Games Launcher on Steam Deck
 
  Start by accessing Steam Deck’s desktop mode. This is straightforward:
@@ -129,22 +103,10 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 3. Select**Switch to Desktop** and press**A**  
 ![Change to Desktop Mode on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/muo-gaming-steam-deck-gog-epic-games-switch-mode.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the desktop environment, find the shopping bag icon on the left-hand side of the taskbar. This is the**Discover** app, a software store. Click to open, then enter “heroic” in the search bar.
 
  Heroic Games Launcher should be displayed. Click**Install** , and wait for the process to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Install GOG Games on Steam Deck
 
  The process to install titles from your GOG library on Steam Deck with Heroic is straightforward.
@@ -152,27 +114,24 @@ thumbnail: https://thmb.techidaily.com/212e21d96bc4724d21a24c1110e599b63bc2c397e
 1. First, launch the software, then use the mouse to select**Manage Accounts**  
 ![Log in to Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-login.jpg)
 2. Under GOG, click**Log in** and input your credentials, along with any two-factor authentication
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Go to**Library** and browse for the game you want to install  
 ![GOG games on the Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-games.jpg)
 4. Click**Install** on the selected game, confirm the installation location and click**Install** again  
 ![Install GOG games on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-gog-smac.jpg)
 5. After installation is complete, click**Play Now**
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Because most GOG games are pre-2005 titles, they have varying compatibility requirements for Steam Deck. To tweak these, highlight the game and click the**Settings** cog icon.
 
  Options available to you include switching the Proton or Wine versions (software that enables Windows titles to run on SteamOS) and even editing initialization and configuration files for the game in question. In most cases, someone will already have had success with the same game; take a moment to search the internet as explained above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Install Epic Games on Steam Deck With Heroic
 
@@ -196,18 +155,6 @@ You can then install Epic Games on the Steam Deck as follows:
 
  You can also add new titles to your Epic Games account (free and paid) from the Steam Deck. Note that it may inform you the device is incompatible, but you don’t need to worry about this. Simply proceed to add it to your account, and it will shortly appear in the game library in the Heroic launcher.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play GOG Games on Steam Deck
 
  After you have completed the setup GOG, Epic Games, or both, click the Steam button in the lower-left corner and select**Restart** .
@@ -217,6 +164,10 @@ This will reboot the Steam Deck into the main console interface.
  Here, you will find the Heroic Games Launcher listed, which you can select with the D-pad and launch with**A** . In the following screen, select**Play** to open the launcher.
 
 ![Start Heroic Games Launcher on Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/muo-gaming-epic-games-steam-deck-heroic-play.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then either select a game to play or install a new one. It’s that simple.
 
@@ -242,14 +193,11 @@ Wait for the process to complete before installing any other games.
 
  Although there are alternatives to Heroic Games Launcher, this is the simpler option for playing Epic Games and GOG titles on Steam Deck.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -258,4 +206,19 @@ Wait for the process to complete before installing any other games.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>[New] In 2024, Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-art-of-describing-your-podcast-with-flair/"><u>[Updated] 2024 Approved The Art of Describing Your Podcast with Flair</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-perfecting-channel-art-a-step-by-step-instructional-manual/"><u>[Updated] In 2024, Perfecting Channel Art A Step-by-Step Instructional Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-insider-tips-for-cost-effective-xbox-series-owners/"><u>3 Insider Tips for Cost-Effective Xbox Series Owners</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-classic-pokemon-revival-guide/"><u>Android's Classic Pokémon Revival Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-overstimulation-in-your-gaming-journey/"><u>Avoiding Overstimulation in Your Gaming Journey</u></a></li>
+<li><a href="https://win-hot.techidaily.com/comment-recuperer-des-fichiers-apres-une-defaillance-de-windows-7-et-restauration-du-systeme/"><u>Comment Récupérer Des Fichiers Après Une Défaillance De Windows 7 Et Restauration Du Système</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001694671-how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-restore-lost-details-4-premiere-pro-methods-for-iphone-hdr-footage/"><u>In 2024, Restore Lost Details 4 Premiere Pro Methods for iPhone HDR Footage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-bring-your-vision-to-life-advanced-video-editing-techniques-for-home-movie-makers-for-2024/"><u>New Bring Your Vision to Life Advanced Video Editing Techniques for Home Movie Makers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/revolutionize-your-gaming-by-recording-on-win10/"><u>Revolutionize Your Gaming by Recording on Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168475628-top-titles-towns-winners-worlds/"><u>Top Titles Towns: Winners' Worlds</u></a></li>
+</ul></div>
 

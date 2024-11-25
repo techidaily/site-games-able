@@ -1,7 +1,7 @@
 ---
 title: "Personalized GPU Temperature Control: Boost Gaming Speed"
-date: 2024-09-09T09:35:04.792Z
-updated: 2024-09-10T09:35:04.792Z
+date: 2024-11-21T10:10:33.858Z
+updated: 2024-11-25T13:16:43.590Z
 tags:
   - games
 categories:
@@ -12,19 +12,21 @@ keywords: Personalized GPU Cooling,Enhanced PC Performance,Optimize Gaming Speed
 thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Personalized GPU Temperature Control: Boost Gaming Speed
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
 * [Why Should You Use a Custom GPU Fan Curve?](#why-should-you-use-a-custom-gpu-fan-curve)
 * [Should Your GPU Fans Run at 100%?](#should-your-gpu-fans-run-at-100)
 * [How to Set a Custom GPU Fan Curve to Boost Gaming Performance](#how-to-set-a-custom-gpu-fan-curve-to-boost-gaming-performance)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -40,18 +42,6 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jhet Borja/MakeUseOf
 
  Graphics cards rarely reach really high fan speeds, often reaching the thermal throttling threshold before it hits 80%. This could be because manufacturers don't want their graphics cards to be loud or for the fans to wear out prematurely.[GPU thermal throttling lowers performance](https://www.makeuseof.com/what-is-gpu-thermal-throttling-in-gaming/) , and higher temperatures lower your GPU's lifespan, a lose-lose situation. Similar to CPU throttling, GPU throttling leads to random FPS drops, lag spikes, artifacts, screen tearing, and other issues when gaming as your hardware struggles to keep up with the in-game processing requirements.
@@ -60,16 +50,14 @@ Jhet Borja/MakeUseOf
 
 ![Applying thermal paste on GPU die](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/applying-thermal-paste-on-gpu-die.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  If you're trying to get the lowest GPU temperatures and the most performance for your graphics card, you might also want to check out[how to replace your graphics card's thermal paste](https://www.makeuseof.com/how-reapply-thermal-paste-graphics-card/) or[undervolt your graphics card](https://www.makeuseof.com/how-to-undervolt-graphics-card/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should Your GPU Fans Run at 100%?
 
  If you run your GPU fans at 100%, they will wear out quicker than normal. It'll still take a while, but in most cases, it'll just be the lubricant drying out, which can easily be fixed with a single tiny drop of[Krytox GPL 105](https://www.amazon.com/Mechanical-Keyboard-Switches-Stabilizer-Lubricant/dp/B09YV7TMKV?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) ,[Super Lube 51010](https://www.amazon.com/Super-Lube-51010-Oil/dp/B000BXOGHY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031241&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Flower-gpu-temperature-custom-fan-curve%2F&asc%5Fcampaign=Evergreen) , or other dielectric oils.
@@ -85,11 +73,9 @@ Jhet Borja/MakeUseOf
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
  To create a custom fan curve, we'll be using[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) .[Unigine Heaven](https://benchmark.unigine.com/heaven) will be the benchmark software you'll use to put your graphics card up to temperature, and[HWinfo](https://www.hwinfo.com/download/) will help you see your GPU temperatures in detail.
@@ -97,19 +83,11 @@ Jhet Borja/MakeUseOf
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Benchmark and Find Your Temperatures
 
  Before creating a custom fan curve, you need to figure out four things:
@@ -123,16 +101,14 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
@@ -145,12 +121,6 @@ Jhet Borja/MakeUseOf
 
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
 
 * At 55°C, our GPU is under a little bit of load; we'll put that at 40% fan speed.
@@ -161,14 +131,11 @@ Jhet Borja/MakeUseOf
 
  By creating your own custom fan curve, you're taking more control over your graphics card and making the most out of it. You'll extend the lifespan and improve performance (all performance—not just gaming performance) by preventing thermal throttling, hitting two birds with one stone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +144,24 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlock-the-secrets-to-high-impact-youtube-branding/"><u>[Updated] In 2024, Unlock the Secrets to High-Impact YouTube Branding</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-live-service-games-that-arent-pay-to-win/"><u>6 Live Service Games That Aren’t Pay-to-Win</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-the-life-is-strange-true-colors-game-malfunctions/"><u>Comprehensive Fixes for the Life Is Strange: True Colors Game Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/convertir-imagenes-de-formato-tga-a-jpg-sin-costo-con-el-servicio-online-de-movavi/"><u>Convertir Imágenes De Formato TGA a JPG Sin Costo Con El Servicio Online De Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/embark-on-exciting-adventures-in-our-top-10-no-ad-games/"><u>Embark on Exciting Adventures in Our Top 10 No-Ad Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-fidelity-horizons-and-hurdles-the-story-of-pimax-crystal/"><u>High-Fidelity Horizons and Hurdles: The Story of Pimax Crystal</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-0x80240034-update-error/"><u>How to Fix the Windows 11 0X80240034 Update Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-fresh-joysticks-on-your-nintendo-switch/"><u>How to Install Fresh Joysticks on Your Nintendo Switch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-blaze-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Blaze Pro 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-xiaomi-mix-fold-3-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/revealing-gaming-cost-chronicles-on-steam-service/"><u>Revealing Gaming Cost Chronicles on Steam Service</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-affordability-of-sonys-online-multiplayer-service/"><u>The Affordability of Sony’s Online Multiplayer Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-sxs-vs-gaming-pc-performance-analysis/"><u>Xbox SXS Vs. Gaming PC Performance Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/years-leading-accessories-top-cases-for-your-steam-device/"><u>Year's Leading Accessories: Top Cases for Your Steam Device</u></a></li>
+</ul></div>
 

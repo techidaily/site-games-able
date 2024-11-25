@@ -1,7 +1,7 @@
 ---
 title: The Breakdown of EA Play's Monetary Requirements
-date: 2024-09-09T09:34:04.197Z
-updated: 2024-09-10T09:34:04.197Z
+date: 2024-11-23T02:43:12.723Z
+updated: 2024-11-24T19:25:14.928Z
 tags:
   - games
 categories:
@@ -12,13 +12,11 @@ keywords: Game Monetization Insights,EA Play Economics,Free-to-Play Revenue,Paym
 thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3daaeb866103686a0f1d6cb404.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Breakdown of EA Play's Monetary Requirements
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,12 +24,6 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 * [What Popular Games Are Included in EA Play?](#what-popular-games-are-included-in-ea-play)
 * [Is EA Play Worth the Price?](#is-ea-play-worth-the-price)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * EA Play offers access to dozens of EA titles, Game Trials, and up to 10% discount on games and content for $4.99 per month.
@@ -43,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
  Here's what you should know about EA Play and whether it's worth the money.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is EA Play?
 
  EA Play offers members access to many EA titles for a monthly subscription. You also get Game Trials, which lets you try new EA titles for up to 10 hours without buying them. If you decide to purchase a game after trying it, you get to keep your progress, so you don’t have to start all over again.
@@ -55,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
  EA Play members also get a 10% discount on EA digital content, including expansions, passes, packs, and DLCs. The subscription also offers in-game challenges and rewards, letting you get more out of your games and giving you a more competitive experience.
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  EA Play comes in two tiers. The base EA Play, which costs $4.99 a month or $29.99 a year, lets you access many popular EA titles and gives you the Game Trials, Member Rewards, and 10% discount benefits.
 
@@ -66,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Some of the most popular titles you can get with a basic EA Play subscription include the Battlefield series, from Battlefield 3 to Battlefield 2042, seven Need for Speed titles, including the three latest releases (Payback, Heat, and Unbound), and a few classics like Burnout Paradise Remastered, the Command & Conquer collection, and SimCity 3000 Unlimited.
 
  You also get several trilogies, including Crysis, Dead Space, and Mass Effect. Here's a[complete list of all EA Play games](https://www.ea.com/ea-play/games#ea-app) on the EA website.
@@ -81,11 +69,9 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 ![Ea Play Pro games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-pro-games.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The more expensive EA Play Pro subscription includes everything in the EA Play subscription plus more niche games, like several titles from EA Sports and many Star Wars franchise titles.
 
  You also get a few top-billed indie games like FTL: Faster Than Light, Frostpunk, and They Are Billions. If you want to see all the games included in this subscription, you can check out this[list of all EA Play Pro games on PC](https://www.ea.com/ea-play/games#ea-play-pro) .
@@ -94,12 +80,6 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 
 ![man playing on a gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/man-playing-on-a-gaming-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Gorodenkoff/[Shutterstock](https://www.shutterstock.com/image-photo/professional-gamer-playing-firstperson-shooter-online-1430140334)
 
  The EA Play subscription gives you access to many loved titles in the EA library, whether you're using a PC, a PlayStation 5, or an Xbox Series X|S console. But is the cost worth it?
@@ -116,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  If you’re a fan of specific game titles in the EA library, it’s better to purchase these titles directly on Steam so that you’ll always have ownership of these games. But if you’re a PC gaming fan, Xbox Game Pass gives you more value, as you get many more titles and you are not limited to EA titles only.
@@ -124,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
 
  EA Play isn’t exactly the best value gaming subscription out there, especially if you’re a PC gamer. Unless you’re a superfan of Electronic Arts, you’re better off going for Xbox Game Pass for PC or just buying your favorite titles outright from Steam or EA.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +121,21 @@ thumbnail: https://thmb.techidaily.com/647ef78b4d08f0529cf98c1ddda37990b536ba3da
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-close-out-discord-on-all-devices-for-2024/"><u>[New] Close Out Discord on All Devices for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-add-good-bokeh-effects-in-instagram-stories/"><u>[New] In 2024, How to Add Good Bokeh Effects in Instagram Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tackling-inaudible-speech-in-obs-captures-for-2024/"><u>[New] Tackling Inaudible Speech in OBS Captures for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-affordable-pc-video-grabbing-software/"><u>2024 Approved Best Affordable PC Video Grabbing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-out-your-ps5-identity-information/"><u>Clear Out Your PS5 Identity Information</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-tutorial-accessing-rar-compressed-folders-on-macos/"><u>Comprehensive Tutorial: Accessing RAR Compressed Folders on macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/crafting-serenity-a-spiritual-journey-through-6-intellectually-designed-minecraft-modern-houses-for-2024/"><u>Crafting Serenity A Spiritual Journey Through 6 Intellectually Designed Minecraft Modern Houses for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-7-microphone-issues-complete-solutions/"><u>Fixing Windows 7 Microphone Issues - Complete Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-rtx-4090-an-expensive-hindsight-lesson/"><u>NVIDIA's RTX 4090: An Expensive Hindsight Lesson</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-game-tracker-software-guide/"><u>Prime Game Tracker Software Guide</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/selecting-secure-queries-essential-tips-for-optimal-account-protection/"><u>Selecting Secure Queries: Essential Tips for Optimal Account Protection</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-home-computing-choosing-a-small-or-big-pc/"><u>Size Matters in Home Computing: Choosing a Small or Big PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-bold-move-overhauling-family-game-access-for-10-years/"><u>Steam's Bold Move: Overhauling Family Game Access for 10 Years</u></a></li>
+<li><a href="https://games-able.techidaily.com/sweat-it-off-8-health-boosting-ar-titles/"><u>Sweat It Off! - 8 Health-Boosting AR Titles</u></a></li>
+</ul></div>
 

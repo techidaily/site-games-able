@@ -1,7 +1,7 @@
 ---
 title: Epic Entanglements in Everyday Epic Gaming
-date: 2024-09-09T09:37:00.980Z
-updated: 2024-09-10T09:37:00.980Z
+date: 2024-11-23T05:25:02.575Z
+updated: 2024-11-25T08:26:39.995Z
 tags:
   - games
 categories:
@@ -20,16 +20,14 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 Let’s explore some of the names leading the scene.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Jump King
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
  The primary objective is to get to the top of the map by jumping from platform to platform while navigating any obstacles you might encounter. This game has a somewhat medieval pixel art, which is one characteristic of classic 2D platformers.
@@ -47,21 +45,13 @@ Let’s explore some of the names leading the scene.
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Getting Over It
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
  Players control Diogenes’ sledgehammer with their mouse and nothing else. It can be rotated around a limited pivot but holds enough power to move the pot-dweller. As such, you’re meant to ascend steep hills and navigate tricky terrain with the sledgehammer alone.
@@ -75,11 +65,9 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
@@ -93,17 +81,9 @@ Let’s explore some of the names leading the scene.
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
@@ -117,6 +97,10 @@ Let’s explore some of the names leading the scene.
  As such, they released a single-player mode that chains one of the penguins to a counterweight that a single player can control. This appeals to speedrunners who would prefer to trust in their skills alone during a run. The developers also released a timer as another quality-of-life addition for speedrunners.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Only Up
 
@@ -132,26 +116,17 @@ Let’s explore some of the names leading the scene.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +135,22 @@ Let’s explore some of the names leading the scene.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ideal-online-destinations-for-video-promotion/"><u>2024 Approved Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-app-for-gamers-milestone-maps/"><u>Best App for Gamers' Milestone Maps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/chromebook-stuck-on-ice-discover-8-ways-to-restore-functionality/"><u>Chromebook Stuck on Ice? Discover 8 Ways to Restore Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/continuous-freezing-issues-resolved-in-the-renamed-new-world/"><u>Continuous Freezing Issues Resolved in the Renamed 'New World'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-winx-dvd-ripping-software-convert-dvds-to-mp4avi-formats-for-ios-and-android-devices/"><u>Free WinX DVD Ripping Software: Convert DVDs to MP4/AVI Formats for iOS and Android Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-12-pro-max-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 12 Pro Max without a computer?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphone-users-ultimate-podcast-download-techniques/"><u>In 2024, IPhone Users' Ultimate Podcast Download Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-your-stream-with-these-pioneering-7-twitch-ai-partners/"><u>Master Your Stream with These Pioneering 7 Twitch AI Partners</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-framespeed-modifications-and-safety-analysis/"><u>Roblox Framespeed Modifications and Safety Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-guide-removing-previous-save-data-on-ps5/"><u>Simplified Guide: Removing Previous Save Data on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-mechanics-how-to-deconstruct-your-xbox-360s/"><u>Step Into the Mechanics: How to Deconstruct Your Xbox 360/S</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-spark-20c-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Spark 20C Phone Hassle-Free</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-convergence-experience-meta-quest-3-explored/"><u>The Convergence Experience: Meta Quest 3 Explored</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ate-selection-10-budget-friendly-youtube-caption-tools-for-2024/"><u>Ultimate Selection 10 Budget-Friendly YouTube Caption Tools for 2024</u></a></li>
+</ul></div>
 

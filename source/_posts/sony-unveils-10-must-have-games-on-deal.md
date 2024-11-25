@@ -1,7 +1,7 @@
 ---
 title: Sony Unveils 10 Must-Have Games on Deal
-date: 2024-11-09T02:03:28.709Z
-updated: 2024-11-15T23:55:59.545Z
+date: 2024-11-22T23:07:32.797Z
+updated: 2024-11-24T19:54:55.063Z
 tags:
   - games
 categories:
@@ -29,18 +29,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -54,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
@@ -68,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -79,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -93,10 +84,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
@@ -110,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -130,18 +122,24 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/astering-your-videos-top-youtube-friendly-cameras-for-2024/"><u>[New] Mastering Your Videos Top YouTube-Friendly Cameras for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-preeminent-zero-price-stock-image-sites/"><u>[Updated] Preeminent Zero-Price Stock Image Sites</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-innovate-your-tiktok-storytelling-with-effects/"><u>2024 Approved Innovate Your TikTok Storytelling with Effects</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210163162-9781640270527-dedicated-to-all/"><u>Dedicated to All | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-error-262-on-roblox-games/"><u>Eliminating Error 262 on Roblox Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-mobile-gaming-playing-steam-games-on-smartphones/"><u>Embrace Mobile Gaming: Playing Steam Games on Smartphones</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-portables-to-televisions-embracing-playnites-fullscreen/"><u>From Portables to Televisions: Embracing Playnite's Fullscreen</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magix-vpx-review-transforming-media-with-ease-for-2024/"><u>Magix VPX Review Transforming Media with Ease for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/removing-content-file-lock-error-from-windows-steam-account/"><u>Removing Content File Lock Error From Windows Steam Account</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-the-d3dx930dll-file-not-detected-or-absent-issue/"><u>Resolving the d3dx9_30.dll File Not Detected or Absent Issue</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-the-power-of-chatgpt-on-your-phone-strategies-for-both-iphone-and-android-users/"><u>Unleashing the Power of ChatGPT on Your Phone: Strategies for Both iPhone and Android Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-potential-essential-tools-for-gaming-success/"><u>Unlocking Potential: Essential Tools for Gaming Success</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-acting-impression-review/"><u>[New] Quick Acting Impression Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-10plus-sites-accessible-free-visuals-for-everyone/"><u>2024 Approved 10+ Sites Accessible, Free Visuals for Everyone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-step-by-step-guide-to-obs-streaming-success/"><u>2024 Approved The Step-by-Step Guide to OBS Streaming Success</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/5-effective-techniques-to-overcome-dell-cannot-read-nvme-drive-problems/"><u>5 Effective Techniques to Overcome 'Dell Cannot Read NVMe Drive' Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ameliorez-la-securisation-de-vos-processus-dacquisition-de-documents-avec-tangro-renforce-et-abbyy/"><u>Améliorez La Sécurisation De Vos Processus D'acquisition De Documents Avec Tangro® Renforce Et ABBYY</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024-highlights-next-level-ai-systems/"><u>Computex 2024 Highlights Next-Level AI Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-sonys-top-games-at-a-bargain-price/"><u>Discover Sony’s Top Games at a Bargain Price</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-sonys-handheld-gaming-tech/"><u>Discovering Sony's Handheld Gaming Tech</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-game-experience-xbox-display-tuning/"><u>Enhancing Game Experience: Xbox Display Tuning</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-unlink-programs-from-your-google-drive-account-a-comprehensive-tutorial/"><u>How To Unlink Programs From Your Google Drive Account - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-android-guide-enhance-your-video/"><u>In 2024, Android Guide Enhance Your Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-controllers-with-android-devices-a-step-by-step-guide/"><u>Joining Controllers with Android Devices: A Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-to-reactivate-playstation-services/"><u>Methods to Reactivate PlayStation Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/murderous-minds-unlocked-by-intelligent-ai/"><u>Murderous Minds Unlocked by Intelligent AI</u></a></li>
+<li><a href="https://games-able.techidaily.com/space-smith-gamers-guide-to-new-tech-brands/"><u>Space Smith: Gamer's Guide to New Tech Brands</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-clearing-out-dangling-vms-from-your-vcenter-environment/"><u>Step-by-Step Guide: Clearing Out Dangling VMs From Your vCenter Environment</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-best-stop-motion-animation-tools-for-mac-and-pc/"><u>Updated 2024 Approved Unleash Your Creativity Best Stop Motion Animation Tools for Mac and PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-breaks-a-decade-long-seal-updates-shared-games/"><u>Valve Breaks a Decade Long Seal: Updates Shared Games</u></a></li>
 </ul></div>
 

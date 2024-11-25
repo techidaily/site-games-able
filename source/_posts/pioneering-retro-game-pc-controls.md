@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2024-11-10T00:13:52.400Z
-updated: 2024-11-15T22:11:09.501Z
+date: 2024-11-21T08:58:32.269Z
+updated: 2024-11-24T20:43:05.803Z
 tags:
   - games
 categories:
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
  The Classic Nintendo controllers can have some interesting button layouts, especially when it comes to the N64 controller. So you may have to configure your button layout to ensure that everything works the way you want it to.
@@ -58,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
@@ -71,10 +72,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Enable Steam Input on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-steam-input-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To view your current inputs, select**View Layout** . From this screen, you can see the default button layout, so you know what you’re working with. If there is anything you would like to change, press the B button to go back and then select**Edit Layout** .
@@ -82,10 +80,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
@@ -95,10 +90,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
@@ -122,24 +114,21 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-top-10-jpg-to-gif-converters-online-free/"><u>[Updated] Top 10 JPG to GIF Converters Online Free</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony-for-2024/"><u>[Updated] Ultimate Guide Top 8 Convertors for Sub to Srt Harmony for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-connecting-through-ig-a-guide-for-hyperlink-posts/"><u>2024 Approved Connecting Through IG A Guide for Hyperlink Posts</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-skills-elevating-performance-and-resolving-valorants-fps-problems-windows-edition/"><u>Boost Your Skills: Elevating Performance & Resolving Valorant's FPS Problems, Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/connect-xbox-to-laptop-monitor-for-enhanced-gaming/"><u>Connect Xbox to Laptop Monitor for Enhanced Gaming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/diy-repair-tips-for-overcoming-error-14-in-ios-systems/"><u>DIY Repair Tips for Overcoming Error 14 in iOS Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-much-do-you-really-make-as-a-podcaster/"><u>In 2024, How Much Do You Really Make as a Podcaster?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-assessment-of-nook-glowlight-4-reviews-and-features/"><u>In-Depth Assessment of Nook GlowLight 4: Reviews & Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-ea-play-an-economically-sound-choice/"><u>Is EA Play an Economically Sound Choice?</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-game-play-xbox-without-controllers/"><u>Mastering the Game: Play Xbox Without Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-headset-use-on-xbox-series-xs/"><u>Maximizing Headset Use on Xbox Series X/S</u></a></li>
-<li><a href="https://games-able.techidaily.com/methods-for-mending-windows-oculus-app-issues/"><u>Methods for Mending Windows Oculus App Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-high-refresh-monitor-selection/"><u>Optimal High Refresh Monitor Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204832042-solving-your-connectivity-issues-get-your-windows-pcs-bluetooth-mouse-running-again/"><u>Solving Your Connectivity Issues: Get Your Windows PC's Bluetooth Mouse Running Again</u></a></li>
-<li><a href="https://games-able.techidaily.com/to-subscribe-or-not-to-subscribe-the-price-dilemnium-of-ea-play/"><u>To Subscribe or Not to Subscribe: The Price Dilemnium of EA Play</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone-for-2024/"><u>Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-the-best-twitch-video-extraction-services-5/"><u>Unraveling the Best Twitch Video Extraction Services #5</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-of-10-free-online-video-trimmers-2023-edition/"><u>Updated The Ultimate List of 10 Free Online Video Trimmers (2023 Edition)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-bypassing-tiktoks-watermarking-for-iphones-how-to-guide/"><u>[New] 2024 Approved Bypassing TikTok's Watermarking for iPhones – How-To Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensuring-seamless-functionality-brother-mfc-j480dw-driver-upgrade-instructions-for-windows-users/"><u>Ensuring Seamless Functionality: Brother MFC-J480DW Driver Upgrade Instructions for Windows Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/gopros-deep-sea-capturing-unforgettable-underwater-scenes/"><u>GoPro's Deep Sea Capturing Unforgettable Underwater Scenes</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guide-to-downloading-and-viewing-mcgraw-hill-health-sciences-media-without-an-internet-connection/"><u>Guide to Downloading and Viewing McGraw-Hill Health Sciences Media Without an Internet Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-gadget-alert-keeping-your-deck-cool-and-comfortable/"><u>Hot Gadget Alert: Keeping Your Deck Cool & Comfortable</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-12-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 12 in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210245031-9780645094114-just-being/"><u>Just Being | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-battlefield-conquering-chivalry-2-groggy-performance-and-slow-response-times-with-new-tricks-expert-insights/"><u>Master the Battlefield: Conquering Chivalry 2' Groggy Performance and Slow Response Times with New Tricks [Expert Insights]</u></a></li>
+<li><a href="https://games-able.techidaily.com/modern-gaming-systems-old-school-appeal/"><u>Modern Gaming Systems, Old-School Appeal</u></a></li>
+<li><a href="https://games-able.techidaily.com/monthly-access-subscription-showdown-psplus-xbgplus/"><u>Monthly Access Subscription Showdown: PS+ XBG+</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimize-frame-rates-for-maximum-gameplay-immersion-for-2024/"><u>Optimize Frame Rates for Maximum Gameplay Immersion for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pinnacle-performance-the-best-8k-camera-technology-for-2024/"><u>Pinnacle Performance The Best 8K Camera Technology for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-cure-missing-gems-on-epics-library-platform/"><u>Steps to Cure Missing Gems on Epic’s Library Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-in-demand-discord-communities/"><u>The Ultimate List of In-Demand Discord Communities</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-and-tricks-for-ultimate-blue-ray-performance-sx/"><u>Tips & Tricks for Ultimate Blue-Ray Performance SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-procedural-dynamism-in-games/"><u>Understanding Procedural Dynamism in Games</u></a></li>
 </ul></div>
 

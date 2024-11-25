@@ -1,7 +1,7 @@
 ---
 title: Tackling Account Management Challenges on Nintendo Switch
-date: 2024-11-11T16:32:28.190Z
-updated: 2024-11-15T18:58:23.682Z
+date: 2024-11-19T17:37:07.910Z
+updated: 2024-11-24T23:52:28.794Z
 tags:
   - games
 categories:
@@ -35,19 +35,14 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A photograph of Nintendo Switch Joy Con attached to a Joy Con controller adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sara-kurfess-tn7v-55ti4q-unsplash-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While the account information and options available on your Nintendo Switch may be limited, they still offer useful information or quick and easy ways to deal with subscriptions. But how do you access your Nintendo account options from a Switch?
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage and Access Your Account Information on Nintendo Switch
@@ -55,10 +50,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  There are two main ways you can manage and access your Nintendo account information on your Switch, either through the**System Settings** of your console or the**Nintendo eShop** . However, the options provided by both methods vary.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Access Your Nintendo Account Information on Your Nintendo Switch
@@ -69,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the Home screen for a Nintendo Switch with the System Settings option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2023042110313400-57b4628d2267231d57e0fc1078c0596d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Highlight the options for**User** , and select the user profile linked to your Nintendo account.
 
 ![A screenshot of the User settings on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209550900-57b4628d2267231d57e0fc1078c0596d.jpg)
@@ -83,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 * Under**Nintendo Account** , select**Check Account Information** .
 
 ![A screenshot of the Nintendo Account settings available through the User options on a Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092209552900-57b4628d2267231d57e0fc1078c0596d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Choose either**View email address** or**View family group members** .
 
@@ -102,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 * From the Home screen of your Nintendo Switch, select**Nintendo eShop** .
 
 ![A screenshot of the Nintendo Switch Home screen with the option for Nintendo eShop highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/2023092211225900-57b4628d2267231d57e0fc1078c0596d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select the user profile linked to your Nintendo account.
 * Once the eShop loads, select your profile icon in the top-right of the screen.
@@ -128,16 +110,13 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 ![A screenshot of the options for Privacy and Other Settings for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/privacy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Or, you can select the**Family Group** tab to add or remove Family members.
 
 ![A screenshot of the Family Group settings available for a Nintendo Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And with that, you can alter and edit numerous aspects of your Nintendo account. So, if the options on your Nintendo Switch fail you, you at least have a backup method that may not be as convenient but is sure to address your needs.
 
@@ -162,20 +141,20 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-decoding-script-annotations-slug-lines-explained/"><u>[New] Decoding Script Annotations Slug Lines Explained</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-skyrocket-your-twitter-presence-through-livestreaming/"><u>[New] Skyrocket Your Twitter Presence Through Livestreaming</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-artists-roadmap-to-professional-growth/"><u>[New] The Artist's Roadmap to Professional Growth</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unparalleled-top-10-free-image-archiving-hubs-pics-safe-and-sound/"><u>[Updated] 2024 Approved Unparalleled Top 10 Free Image Archiving Hubs, Pics Safe and Sound</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-snapchat-marketing-playbook-boosting-sales/"><u>[Updated] The SnapChat Marketing Playbook Boosting Sales</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-twitch-experience-with-smartphone-streaming/"><u>Elevate Your Twitch Experience with Smartphone Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-system-stability-with-breaks/"><u>Enhancing System Stability with Breaks</u></a></li>
-<li><a href="https://driver-error.techidaily.com/freeze-free-fast-windows-11/"><u>Freeze-Free, Fast Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-fun-to-profitable-lessons-from-helldivers-2s-success-story/"><u>From Fun to Profitable: Lessons From Helldivers 2'S Success Story</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-titans-clash-examining-the-power-of-supers-and-ti-vs-4080/"><u>Graphics Titans Clash: Examining the Power of Supers and Ti Vs. 4080</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/seminar-screen-recording-for-2024/"><u>Seminar Screen Recording for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-sony-xperia-10-v-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Sony Xperia 10 V Reset Code | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-lost-gps-connection-in-pokemon-adventure/"><u>Troubleshooting Lost GPS Connection in Pokémon Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-true-magic-with-am08-pro-an-examination/"><u>Unveiling True Magic with AM08 Pro: An Examination?</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-pc-games-win-over-consoles-the-ten-points/"><u>Why PC Games Win Over Consoles: The Ten Points</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] 2024 Approved Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-the-essentials-for-high-end-gaming-setups/"><u>Delving Into the Essentials for High-End Gaming Setups</u></a></li>
+<li><a href="https://games-able.techidaily.com/different-types-of-xbox-covers/"><u>Different Types of Xbox Covers</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-rising-cost-my-next-gen-gaming-future-unsubscribed/"><u>EA's Rising Cost: My Next-Gen Gaming Future Unsubscribed</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-nostalgia-unleashed-play-old-games-with-emudeck-on-steam-deck/"><u>Gaming Nostalgia Unleashed: Play Old Games with EmuDeck on Steam Deck</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-alter-another-persons-password-in-the-windows-operating-system/"><u>How To Alter Another Person’s Password in the Windows Operating System</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-find-n3-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo Find N3 FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-in-steams-return-system-now-shut-down/"><u>Loophole in Steam's Return System Now Shut Down</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-pause-perfection-a-step-by-step-guide-to-freezing-frames-in-videos/"><u>New Pause Perfection A Step-by-Step Guide to Freezing Frames in Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/staying-safe-from-gaming-system-breaches/"><u>Staying Safe From Gaming System Breaches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-lines-in-microsoft-word/"><u>Step-by-Step Guide: Adding Lines in Microsoft Word</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-secrets-stream-to-steam-with-glossi-expertise/"><u>Unlocking Xbox Secrets: Stream to Steam with GlosSI Expertise</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-using-ai-to-replace-skies-finding-the-right-methods/"><u>Updated 2024 Approved Using AI to Replace Skies Finding the Right Methods</u></a></li>
 </ul></div>
 

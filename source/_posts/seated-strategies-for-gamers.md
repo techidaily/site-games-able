@@ -1,7 +1,7 @@
 ---
 title: Seated Strategies for Gamers
-date: 2024-09-09T09:36:30.789Z
-updated: 2024-09-10T09:36:30.789Z
+date: 2024-11-24T04:53:31.348Z
+updated: 2024-11-25T06:22:22.668Z
 tags:
   - games
 categories:
@@ -12,13 +12,11 @@ keywords: Gamer Sitting Tips,Optimal Gaming Posture,Seat Position For Games,Ergo
 thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d18b4563b5a8924a658295ed.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Seated Strategies for Gamers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,21 +33,17 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
  There’s a popular myth that every gaming setup needs a gaming chair. On the surface, it makes sense; where else would you need a gaming chair? However, I’ve used both office chairs and gaming chairs long enough to establish reasons why an office chair is indeed better.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1 Office Chairs Are Often More Ergonomic and Comfortable
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Race car Bucket Seat Design
 
 ![a man playing pc games in a gaming chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-man-playing-pc-games-in-a-gaming-chair.jpg)
@@ -70,12 +64,6 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  Oddly enough, larger people may still struggle with gaming chairs because the bucket seat design is restrictive.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bad Lumbar Support
 
 ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
@@ -90,12 +78,6 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
  I’ve seen this many times: a regular, not-so-great accessory is packaged with a “gaming” design and sold for a markup. It’s a popular marketing gimmick, and you may have noticed it yourself. Unfortunately, this is also often the case with gaming chairs. In fact, it’s a core[reason not to buy a gaming chair](https://www.makeuseof.com/dont-buy-a-gaming-chair-reasons-why/) .
@@ -109,14 +91,16 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
  Gaming chairs’ costs go into their metal frames and multi-colored upholsteries. However, while office chairs have more modest designs and plastics, they are better designed and cost less.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3 An Office Chair Is Aesthetically Safer
 
 ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Dreamchild Obari/MakeUseOf
 
@@ -128,14 +112,11 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  This isn’t to say gaming chairs are completely worthless; there are still some pretty good brands out there, especially at the higher price points. It’s just that you’re far more likely to get a better deal with a smaller budget if you choose an ergonomic office chair.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +125,26 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-dial-up-delight-your-guide-to-using-fun-lenses-in-snapchat/"><u>[New] Dial Up Delight Your Guide to Using Fun Lenses in Snapchat</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-youtube-srt-extraction-three-practical-approaches-for-downloading/"><u>[New] YouTube SRT Extraction Three Practical Approaches for Downloading</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-implementing-gradual-diminishing-techniques-on-soundtracks-with-audacity/"><u>[Updated] Implementing Gradual Diminishing Techniques on Soundtracks with Audacity</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screenflow-pros-mac-saga-full-evaluation-report/"><u>[Updated] In 2024, ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-in-depth-look-at-xbox-game-passs-offerings/"><u>An In-Depth Look at Xbox Game Pass's Offerings</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-catchers-reviving-retro-pokemon-on-android/"><u>Classic Catchers: Reviving Retro Pokémon on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/controller-skills-play-android-games-with-precision/"><u>Controller Skills: Play Android Games with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-outdated-data-from-your-ps5-saved-games/"><u>Deleting Outdated Data From Your PS5 Saved Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-steam-shot-experience/"><u>Enhancing Your Steam Shot Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/pathways-to-procuring-and-incorporating-jolly-roger-realms/"><u>Pathways to Procuring & Incorporating Jolly Roger Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164156571-play-retro-psp-hits-with-ios-now/"><u>Play Retro PSP Hits with iOS Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-remote-and-phone-establishing-connections/"><u>PS5 Remote & Phone: Establishing Connections</u></a></li>
+<li><a href="https://win-docs.techidaily.com/resolving-the-encryption-mode-must-be-activated-host-warning/"><u>Resolving the 'Encryption Mode Must Be Activated' Host Warning</u></a></li>
+<li><a href="https://games-able.techidaily.com/save-money-score-goals-old-championship-manager-pc/"><u>Save Money, Score Goals: Old Championship Manager (PC)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rt-of-video-storytelling-how-to-craft-impactful-and-informative-edu-vids-on-youtube-for-2024/"><u>The Art of Video Storytelling How to Craft Impactful and Informative Edu-Vids on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-guide-to-cutting-edge-computing-technology/"><u>Tom's Guide to Cutting-Edge Computing Technology</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tutorial-on-repairing-the-unresponsive-mic-in-turtle-beachs-recon-headset/"><u>Tutorial on Repairing the Unresponsive Mic in Turtle Beach's Recon Headset</u></a></li>
+</ul></div>
 

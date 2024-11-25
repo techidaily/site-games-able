@@ -1,7 +1,7 @@
 ---
 title: "Six Ingenious Dialogue Duos: A Twist for Text Time"
-date: 2024-11-08T18:58:18.948Z
-updated: 2024-11-15T18:34:54.101Z
+date: 2024-11-18T01:55:38.145Z
+updated: 2024-11-24T17:45:17.617Z
 tags:
   - games
 categories:
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Story Builder
 
 Close
@@ -47,6 +40,10 @@ Close
  With**Story Builder** , one of you begins the story by messaging an opening sentence to the other person. The other person then messages the second sentence in the story back to the first person. Slowly but surely, the two of you build a story over the course of several texts or a messaging thread.
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 20 Questions
 
@@ -58,13 +55,6 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 I Spy
 
 Close
@@ -74,6 +64,10 @@ Close
  Begin by telling your opponent where you are to at least give them a fighting chance of succeeding. Then look around your environment until your eye fixes on something in particular. Your opponent then has to guess what thing you have spied, with only the first letter of the object to guess from.
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Song Lyrics
 
@@ -85,6 +79,10 @@ Close
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Abbreviations
 
 Close
@@ -94,19 +92,6 @@ Close
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 List Builder
 
@@ -128,6 +113,10 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -138,6 +127,10 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 What If...?
 
 Close
@@ -147,13 +140,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -182,20 +168,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-free-android-capture-app-zero-ads-for-2024/"><u>[New] Best Free Android Capture App, Zero Ads for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoiding-common-pitfalls-crafting-memes-on-9gag-successfully/"><u>2024 Approved Avoiding Common Pitfalls Crafting Memes on 9GAG Successfully</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-6s-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 6s Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-ps5-slim-crucial-upgrades-exposed/"><u>Exploring PS5 Slim: Crucial Upgrades Exposed</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-gamer-self-fixing-your-xbox-controls-made-easy/"><u>Game On, Gamer! Self-Fixing Your Xbox Controls Made Easy</u></a></li>
-<li><a href="https://games-able.techidaily.com/guiding-you-through-ps4-controller-on-pc-and-mac/"><u>Guiding You Through PS4 Controller on PC & Mac</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cinematic-brilliance-in-motion-kinemaster-techniques/"><u>In 2024, Cinematic Brilliance in Motion Kinemaster Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-reno-10-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo Reno 10 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-gaming-enhanced-counter-strike-2-basics/"><u>Mac Gaming Enhanced: Counter-Strike 2 Basics</u></a></li>
-<li><a href="https://games-able.techidaily.com/makeitcount-awards-excellence-at-mwc-2024/"><u>MakeItCount Awards: Excellence at MWC 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-viewer-interest-6-essential-video-formats/"><u>Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-mp4-video-editing-tutorial-for-mac-and-windows-users/"><u>New In 2024, The Ultimate MP4 Video Editing Tutorial for Mac and Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/office-desk-vs-high-end-playstation-performance/"><u>Office Desk Vs. High-End PlayStation Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-seize-and-setup-your-mc-mapping-adventures/"><u>Steps to Seize & Setup Your MC Mapping Adventures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-light-up-your-screen-the-9-most-innovative-camgear-for-video-creators/"><u>[New] 2024 Approved Light Up Your Screen The 9 Most Innovative CamGear for Video Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-brand-awareness-with-selective-marketing-vernacular/"><u>[Updated] Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[Updated] The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premium-android-screenshot-and-video-tools-ranked-five/"><u>2024 Approved Premium Android Screenshot & Video Tools - Ranked Five</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/delving-into-ai-driven-transformations-for-windows-11-enthusiasts/"><u>Delving Into AI-Driven Transformations for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-delays-in-steams-e-commerce/"><u>Eliminating Delays in Steam's E-Commerce</u></a></li>
+<li><a href="https://games-able.techidaily.com/expanding-the-library-additional-funds-and-purchases/"><u>Expanding the Library: Additional Funds & Purchases</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strengthening-your-teams-efficiency-leveraging-chatgpt-for-enhanced-workflow-management/"><u>Strengthening Your Team's Efficiency: Leveraging ChatGPT for Enhanced Workflow Management</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-a70-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel A70 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-tips-for-prolonging-nintendo-switchs-life/"><u>Top 5 Tips for Prolonging Nintendo Switch's Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-selection-of-top-xbox-recorders/"><u>Ultimate Selection of Top Xbox Recorders</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11-sticky-note-access/"><u>Unlocking Windows 11 Sticky Note Access</u></a></li>
 </ul></div>
 

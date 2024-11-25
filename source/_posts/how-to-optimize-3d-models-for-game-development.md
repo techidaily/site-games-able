@@ -1,7 +1,7 @@
 ---
 title: How to Optimize 3D Models for Game Development
-date: 2024-11-12T21:31:43.841Z
-updated: 2024-11-16T01:32:29.461Z
+date: 2024-11-24T13:52:04.004Z
+updated: 2024-11-25T08:00:40.850Z
 tags:
   - games
 categories:
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3D Model Game Optimization: Development Practices
 
 ![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
@@ -35,36 +43,15 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  Asset reuse is very common in the video game development industry, and it’s something you should always consider when designing complex levels and scenes. Engines like Unity offer a prefabrication system to make this easier.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Compress Textures and Optimize Shaders
 
  Textures act like skin on the outside of a 3D object, adding patterns and other visual features to make the object look more real. Textures come in the form of image files, and each of these files needs to be loaded when it is used in a scene. By using compressed textures, you can free up a lot of resources.
 
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Static Lighting
 
  Lighting is by far one of the most resource-hungry operations found in modern 3D games. Calculating reflections on the fly is very costly, but you can bake the lighting in your scene to solve this problem. This prepares the lighting in the scene in advance so that the player doesn’t have to wait for it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use Occlusion Culling
 
@@ -80,11 +67,23 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Manual Geometry Optimization
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
@@ -95,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
 * **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Automated Geometry Optimization
 
@@ -130,24 +122,17 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-affordable-facetime-replacements-for-android/"><u>[New] 2024 Approved Affordable FaceTime Replacements for Android</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-optimal-srt-tweaks-elevating-your-computing-for-2024/"><u>[New] Optimal SRT Tweaks Elevating Your Computing for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-endless-screen-time-recorder/"><u>[Updated] In 2024, Endless Screen Time Recorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-precision-and-power-leading-kung-fu-vr-titles-for-2024/"><u>[Updated] Precision and Power Leading Kung Fu VR Titles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-to-enable-and-listen-to-wma-audio-on-android-smartphones/"><u>Easy Steps to Enable and Listen to WMA Audio on Android Smartphones</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-chromes-mistaken-malware-detection-errors-in-windows/"><u>Fixing Chrome’s Mistaken Malware Detection Errors in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-get-a-month-of-free-discord-nitro-with-opera-gx/"><u>How to Get a Month of Free Discord Nitro With Opera GX</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-improve-your-blu-ray-experience-on-xbox-series-x/"><u>How to Improve Your Blu-Ray Experience on Xbox Series X</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-pick-a-winner-top-5-features-in-next-gen-game-mice/"><u>How to Pick a Winner: Top 5 Features in Next-Gen Game Mice</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-7-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 7 to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-monetizing-your-content-on-youtube/"><u>In 2024, Monetizing Your Content on YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/melody-match-up-leading-audio-trivia-apps/"><u>Melody Match-Up: Leading Audio Trivia Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fixes-for-steam-connection-failed-errors/"><u>Quick Fixes for Steam Connection Failed Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-latest-update-reimagines-game-sharing-for-families/"><u>Steam's Latest Update Reimagines Game Sharing for Families</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-perfect-add-ons-for-your-steam-deck-journey/"><u>The Perfect Add-Ons for Your Steam Deck Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secrets-of-blending-into-steam-backgrounds/"><u>The Secrets of Blending Into Steam Backgrounds</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-rpi-console-powers-retro-gaming-more-batocera-or-retropie/"><u>Which RPi Console Powers Retro Gaming More: Batocera or RetroPie?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-control-picture-clarity-with-masked-gaussian-blur/"><u>[New] Control Picture Clarity with Masked Gaussian Blur</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-mastering-screen-sharing-basics-for-2024/"><u>[New] Zoom Mastering Screen-Sharing Basics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-professional-camera-techniques-for-superior-igtv-videos/"><u>[Updated] 2024 Approved Mastering Professional Camera Techniques for Superior IGTV Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-for-virtual-thrills-mozas-full-package/"><u>$499 for Virtual Thrills - MOZA's Full Package</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-unveiling-hidden-details-in-asmr-recordings/"><u>2024 Approved Unveiling Hidden Details in ASMR Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-sonys-console-to-pc-gaming-with-ease/"><u>Adapting Sony's Console to PC Gaming with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/apex-of-pc-gaming-raider-ge78-review-highlights/"><u>Apex of PC Gaming: Raider GE78 Review Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-steam-web-helpers-ram-habits-with-these-five-methods/"><u>Beat Steam Web Helper's RAM Habits with These Five Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/before-launch-gamers-dilemma-explored/"><u>Before Launch: Gamers' Dilemma Explored</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/hp-simple-save-windows-111087/"><u>HP Simple Save 相容的無成本儲存解決方案：Windows 11、10、8及7用户緊急下载</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nook-glowlight-plus-review/"><u>Nook GlowLight Plus Review</u></a></li>
 </ul></div>
 

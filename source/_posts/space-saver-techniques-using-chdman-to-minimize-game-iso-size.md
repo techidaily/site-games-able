@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2024-11-13T16:54:30.751Z
-updated: 2024-11-16T04:19:42.425Z
+date: 2024-11-19T18:21:28.916Z
+updated: 2024-11-25T04:42:45.411Z
 tags:
   - games
 categories:
@@ -42,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 * IMG.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Compress Your ISOs With CHDMAN
@@ -70,13 +67,6 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -89,16 +79,7 @@ Our command was:
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
@@ -108,6 +89,10 @@ Our command was:
 `chdman createhd -i "OLDPCback.img" -o "OLDPCback.chd"`
 
  CHDMAN can also back up to the CHD format actual HDDs connected to the PC. That, though, should be rarely needed by the average user.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Else Should You Know About CHDs?
 
@@ -138,16 +123,7 @@ Our command was:
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How Can You Check Your CHDs?
@@ -171,6 +147,10 @@ Our command was:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Storage, More Gaming
 
  Compressing your emulators' ROMs with CHDMAN will give you back a significant amount of storage space. But there's also a major con.
@@ -192,24 +172,15 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-flipping-fun-facts-into-memes-with-kinemaster/"><u>[New] Flipping Fun Facts Into Memes with KineMaster</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-perfected-panels-expert-recommended-photo-editing-screens/"><u>[New] In 2024, Perfected Panels Expert-Recommended Photo Editing Screens</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-explore-youtube-rankings-seo-tools-for-peak-performance/"><u>[Updated] 2024 Approved Explore YouTube Rankings SEO Tools for Peak Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-art-of-fps-with-counter-strike-tips/"><u>Ace the Art of FPS with Counter-Strike Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/adjusting-reverse-image-problem-on-windows-7-device/"><u>Adjusting Reverse Image Problem on Windows 7 Device</u></a></li>
-<li><a href="https://howto.techidaily.com/asus-rog-phone-8-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/boost-your-teams-efficiency-discover-the-surprising-impact-of-ai-on-productivity-insights-and-strategies-from-zdnet/"><u>Boost Your Team's Efficiency: Discover the Surprising Impact of AI on Productivity – Insights and Strategies From ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/disconnect-screen-games-in-discord/"><u>Disconnect Screen Games in Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/eas-pricing-jab-i-retreat-from-subscription-life/"><u>EA’s Pricing Jab, I Retreat From Subscription Life</u></a></li>
-<li><a href="https://games-able.techidaily.com/forgoing-a-game-a-refund-approach-for-xbox-users/"><u>Forgoing a Game - A Refund Approach for Xbox Users</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-nokia-g310-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Nokia G310 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quantum-hdrs-role-in-modern-photography-trends/"><u>In 2024, Quantum HDR's Role in Modern Photography Trends</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-the-kingdom-secure-online-gaming-risks/"><u>Keeping the Kingdom Secure: Online Gaming Risks</u></a></li>
-<li><a href="https://games-able.techidaily.com/size-shapes-strategy-the-impact-on-game-publishing-giants-strategic-analysis-report/"><u>Size Shapes Strategy: The Impact on Game Publishing Giants? [Strategic Analysis Report]</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essence-of-modernizing-classics-six-stories-on-pi/"><u>The Essence of Modernizing Classics - Six Stories on Pi</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-microsoftblizzard-pact-could-it-be-a-win-win-or-a-risk/"><u>The Microsoft/Blizzard Pact: Could It Be a Win-Win or a Risk?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-10-exciting-free-to-play-games/"><u>The Ultimate List: 10 Exciting, Free-to-Play Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-stabilizing-arcadegeddon-gameplay-on-computer-setups/"><u>Troubleshooting Steps for Stabilizing Arcadegeddon Gameplay on Computer Setups</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-free-tools-perfecting-your-video-calls/"><u>[New] Essential Free Tools Perfecting Your Video Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>[New] Mastering Voice-to-Text Conversion in MS Word A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-snippet-income-breakdown-whats-your-profit-share/"><u>[Updated] YouTube Snippet Income Breakdown What's Your Profit Share?</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-games-anywhere-steam-link-for-smartphonestablets/"><u>Dive Into Games Anywhere: Steam Link for Smartphones/Tablets</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/exportieren-von-gmail-nachrichten-zu-pst-oder-zip-dateien-schritt-fur-schritt-anleitung/"><u>Exportieren Von Gmail Nachrichten Zu PST-Oder ZIP-Dateien: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/flacmp3-6/"><u>FLACからMP3への無料変換 - シェアウェイト6つ紹介</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-ios-and-nintendos-historic-alliance/"><u>Game On! IOS and Nintendo's Historic Alliance</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-the-ultimate-showcase-for-tech-enthusiasts/"><u>IFA 2023: The Ultimate Showcase for Tech Enthusiasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/lenovo-legion-go-top-5-highlights-from-ifa-2023/"><u>Lenovo Legion Go: Top 5 Highlights From IFA 2023</u></a></li>
 </ul></div>
 

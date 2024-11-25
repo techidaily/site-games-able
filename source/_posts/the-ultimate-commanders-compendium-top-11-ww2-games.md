@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2024-11-15T03:16:39.129Z
-updated: 2024-11-16T03:37:49.551Z
+date: 2024-11-18T01:55:55.311Z
+updated: 2024-11-25T01:46:40.142Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Company of Heroes 3
 
  The original Company of Heroes is one of the best examples of real-time strategy games period, let alone in the war genre. The third entry is equally impressive.
@@ -30,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Company of Heroes 3 offers campaign and skirmish modes in single player as well as online multiplayer fun. It looks great too, with an impressive sandbox that lets you blow up buildings to create dynamic cover.
 
  If you've never played a Company of Heroes game before, it's easy to jump in here thanks to the Full Tactical Pause feature available in single-player, which lets you pause the action and plan an attack at your own pace.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2. Steel Division 2
 
@@ -70,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6. Codename: Panzers
 
  Codename: Panzers was first released in 2004, but it has since been remastered to work with modern systems and support larger resolutions. Despite its age, this is a game that is still worth playing thanks to its timeless tactical fun.
@@ -84,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Across landscapes like small towns, bleak mountains, and murky swamps, Codename: Panzers plunges you into the depths of war and lets you control lots of units like a battle tank, a flame-throwing squad, an organ rocket launcher, and more.
 
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7. War in the East
 
@@ -101,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9. Sudden Strike 4
 
  There's one thing that sets Sudden Strike 4 apart from many of its contemporaries: it's one of the few WW2 strategy games available on PS4 and Xbox One, as well as on PC.
@@ -110,10 +108,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10. Unity of Command II
@@ -125,10 +120,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11. Close Combat
@@ -160,17 +152,24 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>[New] In 2024, Leveraging Likes and Comments Enhancing Engagement on Instagram Stories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-depth-steps-using-mobizen-for-smooth-screen-recording-for-2024/"><u>[New] In-Depth Steps Using Mobizen for Smooth Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-ps4-game-broadcasts-with-obs/"><u>[New] The Ultimate Guide to PS4 Game Broadcasts with OBS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-making-the-most-of-your-phones-camera-in-video-production/"><u>[Updated] In 2024, Making the Most of Your Phone's Camera in Video Production</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-bg3-adventure-seamlessly-on-an-apple-m-device/"><u>Dive Into BG3 Adventure Seamlessly on an Apple M Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gaming-experience-with-key-monitor-specs/"><u>Elevate Your Gaming Experience with Key Monitor Specs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-navigate-apples-podcast-acceptance-policy-for-2024/"><u>How to Navigate Apple's Podcast Acceptance Policy for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-nvidia-graphics-card-drivers-compatible-with-windows-10-7-and-8/"><u>Latest Nvidia Graphics Card Drivers - Compatible with Windows 10, 7 & 8</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/save-money-upgrade-games-240hz-displays-specials/"><u>Save Money, Upgrade Games: 240Hz Displays Specials</u></a></li>
-<li><a href="https://games-able.techidaily.com/shining-up-your-guide-to-cleaner-gaming-tech/"><u>Shining Up: Your Guide to Cleaner Gaming Tech</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-recommended-antivirus-solutions-a-comprehensive-guide-by-zdnet/"><u>Top Recommended Antivirus Solutions : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amazons-favorite-originals-twitter-top-picks-for-2024/"><u>[New] Amazon's Favorite Originals - Twitter Top Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>[New] Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimal-online-sound-snatching/"><u>[Updated] 2024 Approved Optimal Online Sound Snatching</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-tips-capturing-screen-on-a-dell-notebook-pc-for-2024/"><u>[Updated] Quick Tips Capturing Screen on a Dell Notebook PC for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-8-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 8 Pattern Lock Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-steams-content-file-locked-error-in-windows/"><u>How to Fix Steam’s “Content File Locked” Error in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-counter-strike-2-on-your-mac/"><u>How to Play Counter-Strike 2 on Your Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-g24-power-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola G24 Power Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-game-setup-to-captivate-a-broad-demographic/"><u>Ideal Game Setup to Captivate a Broad Demographic</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-key-elements-in-a-wireless-mouse/"><u>Identifying Key Elements in a Wireless Mouse</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-techniques-for-capturing-and-recording-streamed-content/"><u>In 2024, Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 8 Plus?</u></a></li>
+<li><a href="https://games-able.techidaily.com/indie-discoveries-unveiling-selectively-chosen-games/"><u>Indie Discoveries: Unveiling Selectively Chosen Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-your-3d-printing-routine/"><u>Integrating ChatGPT Into Your 3D Printing Routine</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-editing-software-like-gopro-quik-for-windows-and-mac/"><u>New 2024 Approved Video Editing Software Like GoPro Quik for Windows and Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-game-multisession-access-enablement/"><u>PS5 Game Multisession Access Enablement</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-of-prime-and-twitch/"><u>Seamless Integration of Prime and Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-changing-landscape-of-online-multiplay-games/"><u>The Changing Landscape of Online Multiplay Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-full-potential-navigating-switch-login/"><u>Unlocking Full Potential: Navigating Switch Login</u></a></li>
 </ul></div>
 

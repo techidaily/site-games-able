@@ -1,7 +1,7 @@
 ---
 title: Six Ways to Play on PS5 Beyond Traditional Methods
-date: 2024-09-09T09:34:00.751Z
-updated: 2024-09-10T09:34:00.751Z
+date: 2024-11-23T05:53:50.830Z
+updated: 2024-11-24T16:47:00.071Z
 tags:
   - games
 categories:
@@ -18,16 +18,14 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
  Some of these options might not be as easy as a controller, but they have unique strengths and weaknesses you can take advantage of. You can also use many options listed here to explore your PS5’s remote access features. And the others provide hardware alternatives you can take advantage of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Power Off and On and Eject Discs via the PS5 Buttons
 
 ![Eject and power buttons on the lower end of a PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/eject-and-power-buttons-on-the-lower-end-of-a-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can power your PS5 by pressing the**PS** button on your controller, and you can eject discs with your controller by hovering over a game on your home screen, pressing the**options** button, and selecting**Eject Disc** from the menu. But you could also switch your PS5 off and on and eject discs by pressing the power and eject buttons on the body of the PS5.
 
  They are represented by two buttons on the lower end of your PS5, just beside the disc tray. The first button is shorter and has an eject icon above it, while the second button is longer and has the power symbol above it.
@@ -35,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  Using this disc ejection button is helpful if you just want to eject a disc quickly without waiting for your PS5’s UI to boot. The eject button will also boot your PS5 if it is switched off.
 
 [Your PS5 could also turn on and off with your monitor and TV](https://www.makeuseof.com/stop-ps5-turning-on-off-with-tv/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Remote Play to Remote Control Your PS5
 
@@ -45,17 +47,9 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  Remote play doesn’t work for PlayStation VR, Blu-Ray Discs and DVDs, music, SharePlay, and some video streaming apps.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Control Media Playback With a Media Remote
 
  One of the[things you can do to make your PS5 an excellent entertainment system](https://www.makeuseof.com/tips-to-get-the-best-ps5-entertainment-experience/) is get a PS5 media remote. The media remote is a simple one with buttons for volume, source, navigation, play/pause, fast forward, rewind, and additional buttons to launch entertainment apps quickly.
@@ -64,40 +58,16 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
  Of course, you can’t play games with a media remote; it works best for media playback.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Alternate From Your Controller Using a Mouse and Keyboard
 
 ![Astronomical Desk Pad under a Keyboard and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/astronomical-desk-pad-under-a-keyboard-and-mouse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Jowi Morales](https://www.makeuseof.com/author/jowi-morales)
 
 [Connect a keyboard and mouse to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) , and you can play games that support a keyboard and a mouse. However, there aren’t many titles on the PS5 that work with a keyboard and mouse, but it’s worth experimenting with, especially for FPS games.
 
  You can navigate your PS5 with a keyboard; use the arrow keys to move through the lists and the**Enter** or**Return** button to select the games or apps you want to launch. However, unlike the Xbox, which returns you to the home screen when you press the**Windows** button on a keyboard, the PS5 doesn’t recognize any home key on the keyboard. You must press the**PS** button on your controller or media remote to return home.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Control Your PS5 With Voice Commands
 
 ![Enabling voice command in PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ps5-voice-command.JPG)
@@ -115,11 +85,9 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
  Once you[enable voice commands on your PS5](https://www.makeuseof.com/how-to-enable-ps5-voice-commands/) , you must say, “Hey, PlayStation!” for it to start listening and then say the desired command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Launch Games and Apps With the PS App
 
  The PlayStation App (PS App) is a nifty tool you should have on your phone. It’s a great way to manage your PSN account and PS5’s game library and storage. You can use it not only to view games in your library but also to launch them.
@@ -132,20 +100,21 @@ Here’s how to do it:
 
  The PS App will connect to your console (whether or not you’re on the same network) and launch the game. If your PS5 is in Rest Mode, you can also wake it up remotely with this method if it’s connected to the internet. It could be useful to make sure no sneaky updates blindside you before you come to play.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Explore the PS5 Without a Controller
 
  If your controller is unavailable for any reason, remember there are still various ways to use your PS5\. All remote access options require your console to be connected to the internet, and others need you to own additional hardware accessories.
 
  However, none of these methods really makes gaming as fluid as a controller directly on your PS5 does. But they can be good for using your PS5 as an entertainment system.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +123,26 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/udio-amplified-todays-hits-backdropping-yt-shorts-for-2024/"><u>[New] Audio Amplified Today's Hits Backdropping YT Shorts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-your-audio-voice-match-the-perfect-mic-to-your-channels-character/"><u>[Updated] 2024 Approved Finding Your Audio Voice Match the Perfect Mic to Your Channel's Character</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-youtube-animated-subscribe-button-easily-in-filmora/"><u>[Updated] In 2024, How to Make YouTube Animated Subscribe Button Easily in Filmora</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-pure-summer-magic-the-top-10-classic-kids-films/"><u>[Updated] Pure Summer Magic The Top 10 Classic Kid's Films</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>2024 Approved Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-superior-internet-performance-reducing-extended-response-times/"><u>Achieving Superior Internet Performance: Reducing Extended Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-misconduct-on-series-xs-gaming-console/"><u>Addressing Misconduct on Series X/S Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/advanced-cooling-tech-for-a-steam-free-experience/"><u>Advanced Cooling Tech for a Steam-Free Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-led-sleekgamer-display/"><u>Affordable LED SleekGamer Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/bargain-trails-navigating-to-the-best-11-game-purchase-locations/"><u>Bargain Trails: Navigating to the Best 11 Game Purchase Locations</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-royale-contenders-discovering-the-best-fps-games-on-your-browser/"><u>Battle Royale Contenders: Discovering the Best FPS Games on Your Browser</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-face-off-which-is-more-proficient-at-coding-chatgpt-or-gemini/"><u>Chatbot Face-Off: Which Is More Proficient at Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170667310-discovering-nvidias-latest-app-elevate-your-gameplay/"><u>Discovering Nvidia's Latest App: Elevate Your Gameplay!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722896628290-explore-our-top-picks-the-15-best-free-bootable-anti-virus-solutions-available-online/"><u>Explore Our Top Picks: The 15 Best Free Bootable Anti-Virus Solutions Available Online!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/live-mastery-elevating-your-360-degree-videos-on-facebook/"><u>Live Mastery Elevating Your 360 Degree Videos on Facebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/master-your-epub-files-with-the-superior-epubor-ebook-editor-and-organizer/"><u>Master Your ePub Files with the Superior Epubor eBook Editor and Organizer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavis-no-cost-online-service-change-your-audio-tracks-from-mp3-to-video-on-demand-vob/"><u>Movavi's No-Cost Online Service: Change Your Audio Tracks From MP3 to Video on Demand (VOB)</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166387773-navigate-the-digital-labyrinths-with-us/"><u>Navigate the Digital Labyrinths with Us</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173038183-top-7-iosandroid-sports-games-unmatched-excitement/"><u>Top 7 iOS/Android Sports Games: Unmatched Excitement</u></a></li>
+</ul></div>
 

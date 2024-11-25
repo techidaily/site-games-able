@@ -1,7 +1,7 @@
 ---
 title: Unplugging to Reengage in Your Digital World
-date: 2024-09-09T09:33:59.998Z
-updated: 2024-09-10T09:33:59.998Z
+date: 2024-11-18T21:51:26.876Z
+updated: 2024-11-24T16:50:47.927Z
 tags:
   - games
 categories:
@@ -22,22 +22,24 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
 ![woman with sad expression and phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/woman-with-sad-expression-and-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gaming burnout, just like any burnout, is caused by mental, emotional, and even physical exhaustion.
 
  Gaming for too long can be taxing on your body, especially if you don’t move around and have bad posture as well. Addiction and dependency can also cause you to feel exhausted mentally and emotionally, especially if you often feel frustrated or angry.
 
  The worst thing you can do when you’re feeling burnt out is not change anything. You’ll get immensely stressed and potentially even depressed. If you’re going through gaming burnout, here are some tips to cope with it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Try Out New Platforms and Game Genres
 
 ![A photograph of someone playing a Nintendo Switch in handheld mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/alternative-feature-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’ve played only a few, or maybe just one type of game for a very long time, there might be a point where nothing surprises you anymore. Nothing feels novel, and the newest release feels predictable to you.
 
  In this case, you might want to try out other games. Maybe try out a genre you never thought you’d ever try before, like going from shooters to MOBAs, or vice versa. Ask a friend to recommend you some games, and try them without assuming that you won’t enjoy them beforehand.
@@ -46,22 +48,14 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 
 ![Pokemon game on a Samsung phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/old-pokemon-games-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Of course, there’s also the myriad of retro consoles and handhelds that you can get for cheap. A Sony PSP would be a great deal as you can even[emulate a Game Boy on a PSP](https://www.makeuseof.com/how-to-turn-psp-into-game-boy-emulator/) , giving you a lot more for your purchase. If you don’t want to buy anything at all, you could always[emulate games on your phone](https://www.makeuseof.com/tag/how-to-emulate-old-pokemon-games-android-phone/) .
 
 Who knows, you might discover another genre to sink your hours into.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Try Indie Games
 
 ![collage of indie games](https://thmb.techidaily.com/c6507ef1a8c1967e04b9a71ecc3df4d6b245a64121c79bffee638bab85472f90.jpg)
@@ -72,12 +66,6 @@ Who knows, you might discover another genre to sink your hours into.
 
  Indie games can send you down a rabbit hole of hidden treasures with strong storylines, interesting mechanics, or incredible replayability. Check out these[indie games on Nintendo Switch](https://www.makeuseof.com/best-indie-games-nintendo-switch/) if you want to start somewhere, some of them are also available on PC and other platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Set Unique Challenges
 
  Challenges are a great way to get more out of any game besides what the game already gives you. Think of challenges as your own game within the game you’re playing.
@@ -92,6 +80,10 @@ Who knows, you might discover another genre to sink your hours into.
 
 ![person playing pubg mobile on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/iphone-gameplay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are so many games nowadays with the sole purpose of making money. They hook you in and keep you locked in with a constant feeling of FOMO (fear of missing out).
 
  They’re engineered to give you controlled dopamine releases, enough to keep you playing the game and dependent on it to chase that feeling. They use that emotion to either make you shell out money or keep grinding and increasing your playtime. This emotional push and pull can be extremely exhausting, both emotionally and physically—eventually leading to burnout.
@@ -104,18 +96,6 @@ Who knows, you might discover another genre to sink your hours into.
 
 ![Camping chair with a smart water bottle on the table near river shore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Camping-chair-with-a-smart-water-bottle-on-the-table-near-river-shore.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Taking a break is definitely a solution if you’re feeling burnt out, especially if it’s caused by a dependence or addiction.
 
  While you’re stepping away, try to avoid anything gaming-related. Avoid talking about it, thinking about it, or looking at it. Separating yourself is a way for your body and subconscious to know that it’s really taking a break from gaming. It could be as simple as reading books to something like going off-grid like going to the beach or on a camping trip with no reception.
@@ -127,53 +107,34 @@ Who knows, you might discover another genre to sink your hours into.
 ![Man looking horrified at a computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/man-looking-horrified-at-a-computer-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As someone who has hit their table out of frustration in Counter-Strike, taking things less seriously has improved my gaming experience.
 
  Competitive games can get quite toxic, and you could probably relate if you’ve been heavily invested in trying to rank up on a MOBA or a shooter. We can get so focused on improving our skills that losing feels frustrating, possibly even anger-inducing.
 
 ![Person grabbing keyboard in frustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/frustrated-gamer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Some gamers thrive on that competitive feeling, but it could also be unhealthy. Even professional gamers have to manage their emotions to get the most performance out of themselves. Anger will only cloud your judgment, make you play worse, and ruin the experience.
 
  You can still take games seriously of course, but too much of anything can be detrimental.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reignite Your Gaming Passion
 
  If you know you want to keep playing but it just doesn’t feel the same anymore, you’re most likely burnt out. No matter how passionate we are about something, too much of it can cause many to feel this way.
 
  You don’t have to feel like your gaming days are over though, you just need to try different things, so you can get back to playing passionately and enjoying what you love again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +143,24 @@ Who knows, you might discover another genre to sink your hours into.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-creative-filmmaking-on-a-budget-using-smartphones-as-webcams/"><u>[Updated] 2024 Approved Creative Filmmaking on a Budget Using Smartphones as Webcams</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-enhance-your-artistry-mastering-clear-edges-in-photos/"><u>[Updated] 2024 Approved Enhance Your Artistry Mastering Clear Edges in Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-integrating-fb-live-on-roku-step-by-step-guide-for-2024/"><u>[Updated] Integrating FB Live on Roku Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/499-moza-r5-journey-into-the-world-of-sim-racing/"><u>$499 MOZA R5: Journey Into the World of Sim Racing</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-ultimate-battlefield-wwii-strategy-games/"><u>11 Ultimate Battlefield WWII Strategy Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-android-for-a-linux-user-environment/"><u>Adapting Android for a Linux User Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171067592-amplify-your-game-space-go-for-giant-arcade-panels/"><u>Amplify Your Game Space - Go for Giant Arcade Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-16-console-gaming-companions-on-xbox-sx/"><u>Best 16 Console Gaming Companions on Xbox S/X</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-maisto-remote-control-rock-crawler-analysis-ideal-toy-for-everyone/"><u>Comprehensive Maisto Remote Control Rock Crawler Analysis: Ideal Toy for Everyone</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-vintage-of-a-windows-pc/"><u>Deciphering Vintage of a Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170885977-dive-into-gaming-fallout-counterparts-await/"><u>Dive Into Gaming: Fallout Counterparts Await</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-ultimate-free-choice-high-definition-software-listing/"><u>In 2024, Ultimate Free Choice High Definition Software Listing</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165881041-ios-gba-mastery-discover-the-top-4-emulators/"><u>IOS GBA Mastery: Discover the Top 4 Emulators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-toms-computer-insights/"><u>Mastering Gadgets with Tom's Computer Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-w11s-startup-process-for-csgo/"><u>Mastering W11's Startup Process for CS:GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171456866-upgrade-to-efficiency-embrace-the-newest-nvidia-drivers-now/"><u>Upgrade to Efficiency: Embrace the Newest Nvidia Drivers Now!</u></a></li>
+</ul></div>
 

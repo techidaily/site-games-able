@@ -1,7 +1,7 @@
 ---
 title: "IFA 2023: The Best New Gaming Hardware We Want to Try"
-date: 2024-11-10T18:40:02.251Z
-updated: 2024-11-16T01:18:39.532Z
+date: 2024-11-18T11:25:44.465Z
+updated: 2024-11-24T23:02:26.294Z
 tags:
   - games
 categories:
@@ -27,16 +27,13 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
  Plenty of brands had a fine showing of their gaming hardware at IFA 2023\. But it was Lenovo that proverbially mopped the floor with the competition. It unveiled not one, or even two, but three pieces of gaming hardware that show Lenovo is making serious moves to become a leader in some of the game tech still in its infancy: portable gaming PCs and AR glasses.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Lenovo Legion GO
 
 ![MUO site on Lenovo Legion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/muo-on-legion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
@@ -52,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Windows running on Lenovo Legion Go](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
 
  At first glance, it's evident that Lenovo is making a significant push to be a big player in the portable PC gaming realm, competing against Valve's Steam Deck and Asus' ROG Ally. Yes, it's running Windows 11, just like the Ally. And yes, it utilizes a trackpad that the Steam Deck proved is a necessity.
@@ -68,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
  Interestingly, the right side of the controller can be placed into a holder, which sounds perfect for those times when you don't want to use the Lenovo Legion GO's trackpad in handheld mode.
 
 ![Lenovo Legion Go Controller and Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-controller-mouse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -91,24 +85,15 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![legion-glasses-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The Lenovo Legion Glasses can connect to virtually any device that supports USB-C Alt mode, which includes everything from laptops to iPads sporting a USB-C port via its unattachable 4-foot USB-C cable. If the cord breaks, the glasses are busted. That's still an odd choice by Lenovo, but we'll entertain the idea.
 
 ![Cord of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-cord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
@@ -116,33 +101,16 @@ thumbnail: https://thmb.techidaily.com/3e64ab7fbedf01adf094c0f7a07b62ec8466f9370
 
 ![Nosepad of the Legion Glasses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-glasses-nosepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Justin Duino/[MakeUseOf](http://www.makeuseof.com)
 
  The rebranded Lenovo Legion Glasses will be available sometime in October 2023 for $329.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Lenovo Legion 9i
 
 ![legion-9i-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/legion-9i-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Justin Duino /[MakeUseOf](http://www.makeuseof.com)
@@ -168,15 +136,16 @@ The Legion 9i features a:
 The Lenovo Legion 9i will be available starting October 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MSI GAMING SLIM Series Graphics Cards
 
 ![msi 4070 slimline gpu on msi stand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-msi-stand.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -185,6 +154,10 @@ The Lenovo Legion 9i will be available starting October 2023.
  Available in both black and white, MSI's GAMING SLIM graphics cards are also cooled by the TRI FROZR 3 and TORX Fan 5.0, directing proper airflow despite its small profile. It keeps itself cool with eight Core Pipes in the heatsink and a metal backplate with an opening to decrease heat.
 
 ![msi 4070 slimline gpu on stand black and white colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/msi-4070-slimline-gpu-on-stand-black-and-white-colors.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -228,22 +201,19 @@ No word on the price or release date yet, but color us intrigued.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-figure-skating-highlights-2022-winter-olympics/"><u>[Updated] In 2024, Figure Skating Highlights 2022 Winter Olympics</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-instant-sharing-transferring-twitter-videos-to-fb-2-written-in-english/"><u>[Updated] In 2024, Instant Sharing Transferring Twitter Videos to FB (2 Written in English)</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 11 to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/beginner-friendly-top-10-picks-the-most-user-friendly-video-editing-tools-on-the-market/"><u>Beginner-Friendly Top 10 Picks: The Most User-Friendly Video Editing Tools on the Market</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dread-hunger-no-more-say-goodbye-to-game-crashes-on-your-computer/"><u>Dread Hunger No More: Say Goodbye to Game-Crashes on Your Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976359599-easy-installation-of-rtl8188cu-driver-software-for-wireless-network-adapters-on-win-10-7-download-instantly/"><u>Easy Installation of RTL8188CU Driver Software for Wireless Network Adapters on Win 10, 7 - Download Instantly!</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-smooth-gameplay-with-regular-ps5-control-resets/"><u>Ensuring Smooth Gameplay with Regular PS5 Control Resets</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-ready-to-play-chatgpt-introduces-its-6-intense-games/"><u>Get Ready To Play: ChatGPT Introduces Its 6 Intense Games</u></a></li>
-<li><a href="https://fox-access.techidaily.com/illuminating-pathways-through-mixed-realitys-domain-for-2024/"><u>Illuminating Pathways Through Mixed Reality's Domain for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/meet-the-new-nvidia-application-amplifying-games/"><u>Meet the New Nvidia Application Amplifying Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/metaquest-3-the-ultimate-virtual-adventure/"><u>MetaQuest 3: The Ultimate Virtual Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-users-guide-to-unlimited-discord-time/"><u>Opera Users' Guide to Unlimited Discord Time</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-11r-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus 11R and Browser | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-stock-stabilized-expecting-pricing-changes/"><u>PS5 Stock Stabilized: Expecting Pricing Changes</u></a></li>
-<li><a href="https://games-able.techidaily.com/quicken-gameplay-quality-fixing-low-windows-fps/"><u>Quicken Gameplay Quality: Fixing Low Window's FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-xbox-case-purpose/"><u>Unveiling The Xbox Case Purpose</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-demystifying-how-to-access-youtube-via-facebook/"><u>[New] Demystifying How to Access YouTube via Facebook</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/erfecting-your-youtube-closings-essential-insights-and-tips-for-2024/"><u>[New] Perfecting Your YouTube Closings - Essential Insights & Tips for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-critical-process-died-bsod-error-in-windows-11/"><u>[SOLVED] Critical Process Died BSOD Error in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-quest-for-perfect-balance-top-gimbals-in-dronescapes/"><u>[Updated] The Quest for Perfect Balance Top Gimbals in Dronescapes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/adventurers-anthology-the-finest-10-affordable-mmos/"><u>Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-change-the-background-on-your-ps5/"><u>Can You Change the Background on Your PS5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/championship-edge-the-ultimate-7-iosandroid-sports-gaming-hits/"><u>Championship Edge: The Ultimate 7 iOS/Android Sports Gaming Hits</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-devices-phone-or-tablet-gameplay/"><u>Choosing Devices: Phone or Tablet Gameplay?</u></a></li>
+<li><a href="https://games-able.techidaily.com/closing-the-backdoor-in-steams-reimbayer-route/"><u>Closing the Backdoor in Steam’s Reimbayer Route</u></a></li>
+<li><a href="https://games-able.techidaily.com/clubhouse-crafting-for-xbox-10-generation/"><u>Clubhouse Crafting for Xbox 10 Generation</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-chronicles-a-selection-of-top-11-immersive-games/"><u>Command Chronicles: A Selection of Top 11 Immersive Games</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-realtek-pcie-gbe-chipset-support-in-win11-release-notes/"><u>Improve Realtek PCIe GBE Chipset Support in Win11 Release Notes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-asus-rog-phone-7-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Asus ROG Phone 7 is off? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-pova-5-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Pova 5 Phones</u></a></li>
 </ul></div>
 

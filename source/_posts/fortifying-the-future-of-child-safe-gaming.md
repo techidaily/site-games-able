@@ -1,7 +1,7 @@
 ---
 title: Fortifying the Future of Child-Safe Gaming
-date: 2024-11-12T19:59:56.838Z
-updated: 2024-11-15T16:30:03.529Z
+date: 2024-11-18T19:58:16.178Z
+updated: 2024-11-25T13:58:12.281Z
 tags:
   - games
 categories:
@@ -35,6 +35,11 @@ Here’s how to set up a child account:
 2. Select**Family Management** and log into your PSN account.  
 ![Add Family Member page on the PS5 with a QR Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-family-member-page-on-the-ps5-with-a-qr-code.JPG)
 3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the[PSN family management page](https://www.playstation.com/acct/family) on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Choose**Set Up Now** and select**Add a Child** .
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
@@ -42,6 +47,10 @@ Here’s how to set up a child account:
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You don’t need to worry about all the options you see while setting up the child account. You can always change it from the PSN Family panel or from the**Family and Parental Controls** section of the PS5’s settings.
 
@@ -57,15 +66,12 @@ Follow these steps:
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Choose**Confirm** when you’re finished.
 
@@ -81,10 +87,7 @@ You can set age restrictions for the following options:
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set Up Console Restrictions and User Passcodes
@@ -100,10 +103,7 @@ Here’s how to set up the console restrictions passcode:
 2. Enter the default passcode:**0000** .  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
@@ -111,13 +111,6 @@ Here’s how to set up the console restrictions passcode:
 
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
@@ -157,13 +150,6 @@ Here’s how to do it:
 ![Playtime Settings toggle on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playtime-settings-toggle-on-the-ps5.JPG)
 3. Use**When Playtime Ends** to choose whether you want the child to be forcefully logged out or simply notified when they’ve reached their playtime limit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Set how long they can play using**Duration and Playable Hours** . Selecting**By Days of the Week** from the menu allows you to specify how many hours they can play each day of the week.  
 ![Duration and Playable Hours dropdown meny in the PS5 Playtime Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/duration-and-playable-hours-dropdown-meny-in-the-ps5-playtime-settings.JPG)
 5. Select**Every Day** or the days of the week and choose your hours in**Playtime duration** . Inside here, you can also set a**Start time** and**End time** to customize when they can play video games, and you can choose their bedtime as**End time** so they don’t play at night when they should be sleeping.  
@@ -172,6 +158,10 @@ Here’s how to do it:
 6. Choose**Save** on the right-hand side of the page when you’re done.
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The PS5 Offers Extensive Safety Provisions for Children
 
@@ -196,24 +186,24 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-your-youtube-potential-expert-tips-on-writing-video-outlines/"><u>[Updated] 2024 Approved Unlock Your YouTube Potential Expert Tips on Writing Video Outlines</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-apowersofts-place-in-the-screen-capture-market/"><u>2024 Approved Apowersoft's Place in the Screen Capture Market</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-s17-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of S17 Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-x4-wi-fi-mesh-system-performance/"><u>Comprehensive Analysis of the Netgear Nighthawk X4 Wi-Fi Mesh System Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-the-price-history-of-games-on-steam/"><u>Deciphering the Price History of Games on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-economics-of-ea-play/"><u>Dissecting the Economics of EA Play</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-s18e-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo S18e Phone? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-the-game-the-true-value-of-tech/"><u>Elevating the Game: The True Value of Tech</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-corrupted-m4v-files-mac-and-windows-guide/"><u>Fixing Corrupted M4V Files: Mac & Windows Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-erratic-scroll-action-in-mice/"><u>Fixing Erratic Scroll Action in Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonize-tech-connect-your-xbox-one-remote/"><u>Harmonize Tech: Connect Your Xbox One Remote</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/limited-edition-marvels-spiderman-2-how-to-purchase-early/"><u>Limited-Edition Marvel's SpiderMan 2: How to Purchase Early</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-steam-purchase-power-financing-strategies/"><u>Maximizing Steam Purchase Power: Financing Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-the-adventure-playing-2p-minecraft-on-switch/"><u>Navigate the Adventure: Playing 2P Minecraft on Switch</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gopro-video-transformation-quickly-convert-your-adventures-into-mp4-avi-or-other-formats-with-our-specialized-tool/"><u>Seamless GoPro Video Transformation: Quickly Convert Your Adventures Into MP4, AVI, or Other Formats with Our Specialized Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-escape-artists-guide-to-gamers/"><u>The Escape Artist's Guide to Gamers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-ranked-visual-saver-for-chromebook-users-for-2024/"><u>Top-Ranked Visual Saver For Chromebook Users for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-adopting-nature-positive-policies-in-urban-governance/"><u>[Updated] Adopting Nature-Positive Policies in Urban Governance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-tips-for-easily-accessing-videos-on-facebook-for-2024/"><u>[Updated] Tips for Easily Accessing Videos on Facebook for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>2024 Approved Canon Camera Experience No Cost, But Pay for More LUTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>2024 Approved Grasping the Full Potential of Animoji on iPhone X</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-scripted-sign-offs-for-the-savvy-viewer/"><u>2024 Approved Scripted Sign-Offs for the Savvy Viewer</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-features-that-would-make-the-ps5-better/"><u>9 Features That Would Make the PS5 Better</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-in-the-hole-adding-windows-to-your-steam-deck/"><u>Ace in the Hole: Adding Windows to Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-unveils-fsr-3-upgrade-or-obsolete-against-dlss-35/"><u>AMD Unveils FSR 3: Upgrade or Obsolete Against DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-laptop-docks-the-ultimate-guide-to-2024/"><u>ASUS ROG Ally Laptop Docks: The Ultimate Guide to 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-hurdles-in-your-next-steam-decks-ssd-changeover/"><u>Avoiding Hurdles in Your Next Steam Deck's SSD Changeover</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-download-path-unveiled/"><u>Baldur's Gate 3: Download Path Unveiled!</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-match-for-your-nintendo-switch/"><u>Best Match for Your Nintendo Switch</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-overwatch-not-working-voice-chat-issues-instantly/"><u>Expert Tips for Fixing 'Overwatch Not Working' Voice Chat Issues Instantly</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172453461-ready-for-a-game-check-out-chatgpts-best-six-games/"><u>Ready for a Game? Check Out ChatGPT's Best Six Games</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tcl-32-inch-smart-roku-led-tv-a-comprehensive-2019-model-review/"><u>TCL 32-Inch Smart Roku LED TV - A Comprehensive 2019 Model Review</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transferring-dvd-content-to-a-usb-stick-step-by-step-guide-for-windows-and-mac/"><u>Transferring DVD Content to a USB Stick - Step-by-Step Guide for Windows & Mac</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-x-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone X Without Passcode Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11 Pro 5G Users</u></a></li>
 </ul></div>
 

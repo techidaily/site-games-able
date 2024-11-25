@@ -1,7 +1,7 @@
 ---
 title: "PS5 Vs. Xbox Series X: Which Console Should You Buy This Generation?"
-date: 2024-09-09T09:33:59.517Z
-updated: 2024-09-10T09:33:59.517Z
+date: 2024-11-22T19:03:31.349Z
+updated: 2024-11-25T03:38:24.921Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: PS5 vs Xbox,Next-Gen Console,Gaming Xbox,PlayStation 5,Series X Review
 thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695359221f913b5285fa5c2939.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PS5 Vs. Xbox Series X: Which Console Should You Buy This Generation?
 
 ### Quick Links
@@ -31,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 * [Should You Buy the PS5 or Xbox Series X?](#should-you-buy-the-ps5-or-xbox-series-x)
 
  The PlayStation 5 and Xbox Series X headline the ninth generation of video game consoles. Both have a lot to offer, but which is right for you? Let's compare the PS5 and Xbox Series X in several key areas to help you decide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Models and Pricing
 
@@ -60,30 +58,22 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 ![PS5 console and controller on glass table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/PS5-Back-Up-Save-Data-Featured.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Mohsen Vaziri/[Shutterstock](https://www.shutterstock.com/image-photo/toronto-canada-november-24-2020-playstation-1860838972)
 
  The Xbox Series X, on the other hand, has a square length and width, making it feel more like a desktop PC. It's not as large as the PS5, so if you're cramped for space, that console will fit your setup better.
 
 ![xbox series x on its side on a shelf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/xbox-series-x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hannah Stryker / MakeUseOf
 
  The PS5 has one USB-C port on the original models and two on the Slim models, while the Series X lacks these. Otherwise, this part mostly comes down to your preference, as both consoles work in either a vertical or horizontal position.
 
 **Winner:** Xbox Series X, due to its more compact size—though the PS5 has a more interesting design.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## New Controllers and Old Controller Support
 
  Sony and Microsoft took different approaches with their console controllers this time around. The Xbox Series X controller is nearly identical to the Xbox One's controller. The only differences are a reshaped D-pad, a dedicated Share button, and additional texture for grip.
@@ -91,17 +81,9 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 ![A person wearing gaming gloves and holding an Xbox controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/gaming-gloves.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Kris Henges / MakeUseOf
 
  The Xbox Series X controller still uses AA batteries, which you might see as a pro or a con. You can buy the[Xbox Rechargeable Battery kit](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?linkCode=ll1&tag=makeusw-20&linkId=25a8c19598f6cd2730f7f6a87b2c534f&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU96782&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fps5-vs-xbox-series-x%2F&asc%5Fcampaign=Evergreen) if you don't want to worry about changing batteries all the time, but this is an additional expense. As a perk, all[Xbox One controllers are fully compatible with Xbox Series X](https://www.makeuseof.com/how-to-use-xbox-one-controllers-on-your-xbox-series-x/) (and vice-versa).
@@ -110,12 +92,6 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 ![A Dualsense controller on top of the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/53398097586_69a53fb828_o.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Kris Henges / MakeUseOf
 
  The DualSense also includes a mic in the controller, allowing you to communicate without a headset. And haptic feedback allows for more detailed vibrations than older controllers.[There's a lot to love about the DualSense](https://www.makeuseof.com/ps5-dualsense-controller-reasons-love-hate/) , but it's not perfect (battery life is mediocre, and stick drift is an issue).
@@ -123,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
  Otherwise, it still has the familiar PS button layout, including the touchpad seen on the PS4's DualShock 4\. Like that controller, the DualSense is rechargeable (this time with a USB-C port). You can use the DualShock 4 on PS5 when playing PS4 titles, but PS5 games require a DualSense.
 
 **Winner:** PS5\. Worrying about AA batteries is a pain, and the DualSense has a few new exciting features. The Xbox controller is still rock-solid, though.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Game Libraries
 
@@ -150,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 **Winner:** Xbox Series X, due to the sheer volume of older Xbox games you can enjoy on the console.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Game Subscription Services
 
  Xbox's killer feature is Game Pass, a subscription service that provides unlimited access to hundreds of high-quality games for $11 per month. It's available on Xbox One and Xbox Series X|S, as well as a separate plan for PC. If you want Game Pass on both Xbox and PC, plus multiplayer access on Xbox, you can pay $17/month for Game Pass Ultimate.
@@ -162,18 +146,6 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 **Winner:** Xbox Series X. Game Pass is hard to beat.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Virtual Reality
 
  If you're into virtual reality, the PlayStation 5 is the console for you. The PlayStation VR (originally made for the PS4) works with PS5, and[the PlayStation VR2 (our review)](https://www.makeuseof.com/playstation-vr2-review/) is exclusive to PS5.
@@ -182,12 +154,6 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 
 **Winner:** PS5.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Platform Ecosystems
 
  As we've seen, both the PS5 and Xbox Series X have a lot going for them. However, there's another important element that you must decide for yourself: which console ecosystem makes more sense for you.
@@ -199,17 +165,9 @@ thumbnail: https://thmb.techidaily.com/8a48baa92cdc76a86f454f4bf37afbb0816527695
 **Winner:** Tie, as this depends on your situation.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Buy the PS5 or Xbox Series X?
 
  There's no clear answer on whether the PS5 or Xbox Series X is the better console. Counting each section winner above results in a tie score, and neither console has a strong enough weakness to make it the inferior choice.
@@ -221,14 +179,11 @@ As a result, we recommend the following:
 
  If you don't think either console is right for you at the moment, don't forget about the excellent Nintendo Switch, either.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -237,4 +192,19 @@ As a result, we recommend the following:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-restoring-visibility-in-your-youtube-screens/"><u>[New] In 2024, Restoring Visibility in Your YouTube Screens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-toggle-off-instagram-tv-feature/"><u>[Updated] In 2024, Toggle Off Instagram TV Feature</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-subscriber-youtube-connection-maximizing-engagement/"><u>[Updated] The Subscriber-YouTube Connection Maximizing Engagement</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-error-0x803f8001-during-minecraft-startup/"><u>Addressing Error 0X803F8001 During Minecraft Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-roblox-fps-enhancers-trustworthy-and-secure/"><u>Are Roblox FPS Enhancers Trustworthy and Secure?</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoid-these-6-pitfalls-with-intels-upcoming-chips/"><u>Avoid These 6 Pitfalls with Intel's Upcoming Chips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-customizable-typing-dynamics-with-asus-azoth-extreme-keyboards-unique-mechanical-switch/"><u>Experience Customizable Typing Dynamics with Asus Azoth Extreme Keyboard’s Unique Mechanical Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172710145-maximize-arcade-fun-embrace-big-box-framing/"><u>Maximize Arcade Fun: Embrace Big Box Framing!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mu-board-from-lattepanda-a-speedier-alternative-to-raspberry-pi-5-with-higher-price-tag/"><u>Mu Board From LattePanda: A Speedier Alternative to Raspberry Pi 5 with Higher Price Tag</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-removing-tiktok-watermarks-for-free-for-2024/"><u>New The Ultimate Guide to Removing TikTok Watermarks for Free for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/quick-guide-best-free-instagram-to-mp4-tools-windowsmac-for-2024/"><u>Quick Guide Best Free Instagram-to-MP4 Tools (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172109938-sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED!</u></a></li>
+</ul></div>
 

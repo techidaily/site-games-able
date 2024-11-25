@@ -1,7 +1,7 @@
 ---
 title: "Mastering Strategy: Top 6 Fresh Chess App Innovations"
-date: 2024-09-09T09:33:59.849Z
-updated: 2024-09-10T09:33:59.849Z
+date: 2024-11-18T02:25:53.010Z
+updated: 2024-11-25T04:24:22.923Z
 tags:
   - games
 categories:
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
  Have you ever played three-player chess? Or how about a game of chess where you don't take turns but keep playing all the time? From chess variants that challenge you to discard classical strategies and think anew to playing chess with AI for fun or to get your FIDE rating, these are some of the quirkiest and most fun ways to play a different type of chess.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1. Noctie
 
 ![Play a game against the Noctie AI to find your FIDE Elo rating in chess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-noctie-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Based on wins, losses, and draws, FIDE assigns an official Elo rating to players, with Candidate Masters starting at 2000\. Of course, this is only for those participating in official tournaments. But if you've ever wondered what your rating would be, you can find out by playing a game with Noctie AI.
 
@@ -32,12 +40,6 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 ![In Kung Fu Chess, you and your opponent don't take turns to play, but can move any and all pieces simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-kung-fu-chess.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Chess is a turn-by-turn game, and the standard game encourages taking your time to think through each move. Kung Fu Chess changes the rules to remove the turn-by-turn style. You can move any piece at any moment without waiting for the opponent to make a move. It's basically taking the principles of real-time strategy games like Age of Empires and applying them to chess.
 
  Apart from waiting for your turn, the rest of the rules of chess are intact. The pieces move and behave like standard, and the objective is to capture the king. When you move a piece to any square, the square turns yellow and starts cooling down, blocking you from moving the piece for 10 seconds. You can obviously move any other piece in that cooldown period. You can also see the cooldown effect on the opponent's pieces. The idea is to plan your movements in such a way that you can make the perfect moves.
@@ -49,29 +51,15 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 ![Chesswith.Ai uses ChatGPT to let you play against fictional characters who talk to you after each turn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-chesswithai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Among the many[cool things to do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) is to use it to chat with a fictional character. Chesswith.Ai has created profiles of several popular fictional characters and even real historical people such as Harry Potter, Dwight Schrute, John F. Kennedy, Marie Curie, etc. And you can now play a game of chess with them while they chat with you.
 
  The AI difficulty level doesn't change according to the chosen opponent, so you can set that as very easy, easy, medium, hard, and very hard. After every move made, the chatbot responds with a small message that would befit the personality, while also commenting on the game's status or borrowing from chess theory.
 
  The free version of Chesswith.Ai gives you one credit when you verify your account, which allows you to make 40 moves—the average length of any game. You'll need to purchase additional credits to play further moves or games.
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Halfchess
 
  Halfchess is made for those who don't have the time to play a full game of chess but want to get a quick game in. Instead of a blitz game though, Halfchess reduces the size of the board. While the standard board is 8x8 squares, Halfchess is set on a 4x8 board. It also reduces you to a maximum of 8 pieces.
@@ -83,11 +71,9 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 **Download:** Half Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.flipflopapp.halfchess&hl=en&gl=US) |[iOS](https://apps.apple.com/us/app/halfchess-play-chess-faster/id1182813218) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5. Really Bad Chess
 
  Eight pawns on the second row. Two rooks, knights, and bishops from out to in on the first row, with the king and queen between them. That's the standard chessboard. Really Bad Chess says, "Nah!" You'll still start with 16 pieces on the first two rows, but any piece could be anywhere and even repeat—except the King, who starts in the usual spot. The other 15 are completely random.
@@ -98,21 +84,13 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 **Download:** Really Bad Chess for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027833/https://play.google.com/store/apps/details?id=com.noodlecake.reallybadchess) |[iOS](https://apps.apple.com/app/id1109751921) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6. Green Chess
 
 ![Green Chess has a large variety of chess variants to play online, and an active community so you'll find matchups easily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/quirky-chess-variants-fun-ai-online-games-green-chess.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're digging the idea of playing chess variants, you need to register for an account at Green Chess. This website has the largest collection of chess variants and an active community of users, so you're likely to find a match-up quickly.
 
@@ -120,26 +98,17 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
  Green Chess categorizes the variants by types, such as different initial positions, different board sizes, randomly changing pieces, modified rules, different shapes of boards, three-player chess, and four-player chess. Create a game, join from the lobby, or start learning by watching someone else's public game.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Play Chess Variants Offline
 
  If you like this variety of different ways to play chess, you can even do them offline with friends. Games that use the regular board and pieces but change the rules are the easiest to implement, like Anti-Chess. For some others, you can get creative.
 
  For example, play the Chance variant, where after you select which piece you want to move, it changes to a random other piece. The randomizer is easy online, but you can do it offline with a dice. Assign a number to King, Queen, Rook, Bishop, Knight, and Pawn, and roll the dice after you've picked the piece to move.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-ephemeral-clip-creator/"><u>[New] 2024 Approved Ephemeral Clip Creator</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-decision-time-for-codecs-are-you-with-av1-or-vp9-for-2024/"><u>[New] Decision Time for Codecs Are You with Av1 or VP9 for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-scheduling-podcast-drops-with-peak-engagement-times/"><u>[New] Scheduling Podcast Drops with Peak Engagement Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/20-creative-messaging-match-ups-for-friendly-banter/"><u>20 Creative Messaging Match-Ups for Friendly Banter</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-zoom-outputs-top-3-transformer-tactics/"><u>2024 Approved Elevate Zoom Outputs Top 3 Transformer Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-reasons-your-retro-gaming-project-needs-a-raspberry-pi-5/"><u>6 Reasons Your Retro Gaming Project Needs a Raspberry Pi 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-begins-with-chatgpts-top-6-games/"><u>A New Era of Gaming Begins With ChatGPT’s Top 6 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/altering-steam-default-language/"><u>Altering Steam Default Language</u></a></li>
+<li><a href="https://games-able.techidaily.com/alternative-methods-for-steam-restart/"><u>Alternative Methods for Steam Restart</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-enhancement-for-gamers-through-macos-sonomas-game-mode/"><u>Apple’s Enhancement for Gamers Through macOS Sonoma's Game Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-the-rush-secure-mars-spiderman-2-on-ps5/"><u>Beat The Rush - Secure Mar's Spiderman 2 on PS5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-magic-6-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor Magic 6.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro Max without Backup | Stellar</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-take-your-edits-to-the-next-level-10-free-fcpx-plugins/"><u>New 2024 Approved Take Your Edits to the Next Level 10 Free FCPX Plugins</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171600737-ps3s-secrets-no-microphones-allowed-here/"><u>Ps3's Secrets: No Microphones Allowed Here</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-professionals-should-prioritize-learning-chatgpt-the-6-key-points/"><u>Why Professionals Should Prioritize Learning ChatGPT - The 6 Key Points</u></a></li>
+</ul></div>
 

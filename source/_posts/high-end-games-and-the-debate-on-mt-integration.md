@@ -1,7 +1,7 @@
 ---
 title: High-End Games and the Debate on MT Integration
-date: 2024-09-09T09:36:07.415Z
-updated: 2024-09-10T09:36:07.415Z
+date: 2024-11-23T11:38:25.540Z
+updated: 2024-11-25T02:19:33.388Z
 tags:
   - games
 categories:
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ## High-End Games and the Debate on MT Integration
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microtransactions stem from the desire for more profits and have become common in both free and premium games.
@@ -39,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 * Microtransactions can lead to a bloated gaming experience and may hinder the overall enjoyment of a premium game, making them unnecessary.
 
  Microtransactions (also known as MTX) have been popularized mainly by freemium games. They are optional payments that help game developers and publishers make money from games they otherwise might not have. However, microtransactions have increasingly snuck into premium, paid games. Is this trend, perhaps, justifiable?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Do Microtransactions Exist in Video Games At All?
 
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 But what about premium games? Should they have microtransactions?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Microtransactions Are Appearing in Premium Games
 
  So why are we seeing microtransactions in premium, even AAA, games? The short answer to this question is more money. We are at a time in the entertainment industry where it’s not enough to make a decent profit, but the company must grow every year.
@@ -64,12 +64,6 @@ But what about premium games? Should they have microtransactions?
 
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
  The DLC caused a lot of uproar on the internet and became something of a meme representing video game features that are useless and overpriced. However, reports indicate that the DLC was still a huge financial success.
@@ -77,6 +71,10 @@ But what about premium games? Should they have microtransactions?
  Another indicator of how successful in-game microtransactions can be is Blizzard Entertainment’s Overwatch, released in 2016\. It was an online multiplayer game, sold for anything between $40 to $60\. Overwatch was filled with cosmetic microtransactions and loot boxes (which could be earned or bought), and it was still a commercial and critical success.
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are Microtransactions Good for the Gaming Industry?
 
@@ -98,12 +96,6 @@ But what about premium games? Should they have microtransactions?
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
  Battle passes in games like these use fear of missing out and other psychological tricks to make you purchase them. It’s basically like Horse Armor all over again since you’re paying for skins and cosmetics, which only you will see.
@@ -114,12 +106,6 @@ But what about premium games? Should they have microtransactions?
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
@@ -129,11 +115,9 @@ But what about premium games? Should they have microtransactions?
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
 
  More recent premium games, such as Diablo IV and Dragon's Dogma 2, have also received criticism for their use of microtransactions.
@@ -142,14 +126,11 @@ But what about premium games? Should they have microtransactions?
 
  This is proof that it’s not necessary, and the companies behind these games can still make good money without tainting the sanctity of their craft. Hopefully, we will see a reduction in this trend in the future, but for now, we can only discourage it by not indulging.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +139,22 @@ But what about premium games? Should they have microtransactions?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhancing-googles-speech-to-text-capabilities-effectively/"><u>[New] 2024 Approved Enhancing Google's Speech-to-Text Capabilities Effectively</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-essentials-of-creating-share-worthy-instagram-videos/"><u>[Updated] 2024 Approved Essentials of Creating Share-Worthy Instagram Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphers-for-digital-content-creators-youtubes-keyword-techniques-for-2024/"><u>[Updated] Deciphers for Digital Content Creators YouTube's Keyword Techniques for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-from-novice-to-leader-top-30-facebook-tactics-unlocked-for-2024/"><u>[Updated] From Novice to Leader Top 30 Facebook Tactics Unlocked for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/an-honest-appraisal-of-the-bdr-xd05b-blu-ray-burner-by-pioneer-noticing-design-challenges/"><u>An Honest Appraisal of the BDR-XD05B Blu-Ray Burner by Pioneer: Noticing Design Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-larger-game-companies-stifling-the-markets-health-market-analysis-special-episode/"><u>Are Larger Game Companies Stifling the Market's Health? [Market Analysis Special Episode]</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-vs-computer-gaming-face-off/"><u>Console Vs. Computer: Gaming Face-Off</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-next-wave-of-mmo-innovations/"><u>Decoding the Next Wave of MMO Innovations</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effective-solutions-for-when-apowerunlock-struggles-with-identifying-your-ios-device/"><u>Effective Solutions for When Apowerunlock Struggles with Identifying Your iOS Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hands-on-approach-how-to-fix-the-test-tone-not-working-problem-fast/"><u>Hands-On Approach: How to Fix the Test Tone Not Working Problem Fast</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-motorola-edge-40-neo-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Motorola Edge 40 Neo Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-proplus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-best-3-live-stream-apps-and-games/"><u>Nintendo Switch - Best 3 Live-Stream Apps & Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-value-proposition-of-early-game-access/"><u>The Value Proposition of Early Game Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-finest-ea-play-games-for-sony-console/"><u>Unveiling the Finest EA Play Games for Sony Console</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Arcade Upgrade: Wide Front Panels"
-date: 2024-09-09T09:35:23.706Z
-updated: 2024-09-10T09:35:23.706Z
+date: 2024-11-20T11:53:08.111Z
+updated: 2024-11-25T04:03:13.429Z
 tags:
   - games
 categories:
@@ -29,11 +29,9 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -44,32 +42,18 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This saves days’ worth of work alone, and means[LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Big Box Adds Context to Your Library
 
  Want to know the importance of context? Look at this listing below as an example. If I had not used EmuMovies as I discussed a moment ago, this cabinet would be nothing but a list of games.
@@ -78,12 +62,6 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
@@ -91,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
 
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
 
@@ -100,13 +82,11 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
@@ -116,18 +96,19 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Big Box Takes the Headache Out of Arcade Frontends
 
  The amount of time and frustration saved alone is worth the cost of admission for LaunchBox and EmuMovies. It’s layered tidily in Big Box, making navigating your library of games via arcade controls so easy, you’ll wonder why other frontends are so complicated. Give it a shot, and you’ll become one of the converted.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +117,17 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlocking-mov-capture-potential-on-windows-10/"><u>[Updated] Unlocking MOV Capture Potential on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/budget-brilliance-top-deals-on-cost-effective-mobo/"><u>Budget Brilliance: Top Deals on Cost-Effective Mobo</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-xbox-encasements/"><u>Examining Xbox Encasements</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-concept-to-shares-how-to-create-hit-videos-for-fbinstagram-for-2024/"><u>From Concept to Shares How to Create Hit Videos for FB/Instagram for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-f34-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-virtual-realm-all-you-need-to-know-about-psvr2s-features-cost-and-release-timeline/"><u>Inside the Virtual Realm: All You Need to Know About PSVR2's Features, Cost & Release Timeline</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-your-ultimate-marvel-gaming-experience-now/"><u>Secure Your Ultimate Marvel Gaming Experience Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-collection-of-nintendo-switch-cartridge-cases/"><u>Ultimate Collection of Nintendo Switch Cartridge Cases</u></a></li>
+</ul></div>
 

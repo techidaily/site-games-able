@@ -1,7 +1,7 @@
 ---
 title: Insights Into the Workings of Xbox's Gaming Cloud
-date: 2024-09-09T09:35:10.210Z
-updated: 2024-09-10T09:35:10.210Z
+date: 2024-11-24T07:39:50.921Z
+updated: 2024-11-25T06:42:39.748Z
 tags:
   - games
 categories:
@@ -14,18 +14,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ## Insights Into the Workings of Xbox's Gaming Cloud
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Xbox Cloud Gaming allows you to play Xbox games without a console.
@@ -38,18 +26,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![a person holding a smartphone with the xbox cloud app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/a-person-holding-a-smartphone-with-the-xbox-cloud-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Diego Thomazini/[Shutterstock](https://www.shutterstock.com/image-photo/girl-holding-smartphone-xbox-cloud-gaming-2148832863)
 
  Xbox Cloud Gaming is Microsoft's gaming service that lives on the internet. Despite its name, you don't need an Xbox console to use the service.
@@ -59,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  Xbox Cloud Gaming lets you play the latest games at their best graphics fidelity on devices that could otherwise not run them. For example, you can play games on your phone, an underpowered PC, or even a television without a console attached.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Xbox Cloud Gaming Work?
 
  It may seem odd that you can play the latest and greatest games on something as small as your phone, but the key to Xbox Cloud Gaming (and cloud gaming in general) is that your device doesn't render any of the game's graphics whatsoever.
@@ -72,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  If you have a bad connection, the visuals may look choppy and your input may lag behind. However, if your internet is good, the game will look and feel almost as if you were playing it natively at home.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What You Need to Get Started With Xbox Cloud Gaming
 
  First up, in order to enjoy Xbox Cloud Gaming, you need to be subscribed to the Xbox Game Pass Ultimate tier. This gives you access to Xbox Cloud Gaming, which will work on any compatible device you own. You don't need to buy a new pass for each device you own; one pass will cover you for every device you want to use. Check out[what the Xbox Game Pass is](https://www.makeuseof.com/tag/what-is-xbox-game-pass-everything-need-know/) if this is the first time you've heard of it.
@@ -86,26 +54,8 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Selecting cloud-compatible games on Xbox Game Pass](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-cloud-gaming-compatibility.png)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Not every game supports cloud play. If you want to check which games work on Xbox Cloud Gaming before you dive in, head to the[Xbox Game Pass library](https://www.xbox.com/en-US/xbox-game-pass/games) , select**Plays on** via the filters to the left, and select**Cloud** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Use Xbox Cloud Gaming on iOS and Android
 
  To use Xbox Cloud Gaming on an Android or iOS phone, you need to download the official Xbox Game Pass app. The app has a Cloud section from which you can launch games.
@@ -130,6 +80,10 @@ Close
 
  If you're not signed in, or you are on an account without an active Xbox Game Pass Ultimate subscription, sign in with that account and click the above link again. If you are logged into the right account, make sure your subscription is still active, and that it's set to the Ultimate tier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the Xbox Cloud Gaming Service Any Good?
 
  So, playing Xbox games no matter where you are is easier than it has ever been. The question is, is the service worth subscribing to? I gave the Xbox Game Pass Ultimate service a spin and noted my discoveries as I played.
@@ -149,20 +103,16 @@ Close
  I also noticed that you could hot-swap your devices and continue playing without interruption. For example, if you played a game via the PC Xbox app, you could close the stream, boot up the Android app, and continue exactly where you left off.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Bad: Controllers Are a Must to Play With Xbox Cloud Gaming
 
 ![The Xbox app asking for a controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/xbox-cloud-gaming-controller.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How much are you a fan of playing all of your games with a controller? If you're not bothered by it, you'll get along with Xbox Cloud Gaming just fine. However, if you want to use mouse and keyboard, you're in for a rough time.
 
@@ -170,20 +120,21 @@ Close
 
  Once you plug in a compatible controller (either an Xbox controller or a supported third-party brand), Xbox Cloud Gaming will let you play. If you then put down your controller and try to use your keyboard and mouse, you'll find that it still won't work. You're forced to use a controller, which can be a major downside if you like using a keyboard and mouse for specific genres.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Verdict: Is Xbox Cloud Gaming Good?
 
  All in all, Xbox Cloud Gaming is an excellent addition for anyone who loves playing Xbox games. If you're frequently away from your Xbox, or you don't own a console whatsoever, then be sure to give Xbox Cloud Gaming a shot. As long as your internet is stable enough, the service is a great way to game on the go.
 
  However, if you're not married to Microsoft's hardware, the lack of options to play your games the way you want to can be disappointing. If you want to cloud game with your keyboard and mouse, I'd recommend the[Nvidia GeForce Now](https://www.makeuseof.com/reasons-why-use-nvidia-geforce-now/) service instead; it's a lot more accommodating in terms of what you want to use to play your games.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +143,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-hd-visual-recorders-available/"><u>[Updated] 2024 Approved Best HD Visual Recorders Available</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-compreeved-guide-converting-webp-to-quality-jpg-format/"><u>2024 Approved Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-in-game-console-reimbursements/"><u>Avoiding Common Pitfalls in Game Console Reimbursements</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discord-not-working-heres-how-to-check-if-the-problem-lies-with-your-network/"><u>Discord Not Working? Here's How to Check If The Problem Lies With Your Network</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-costly-hike-subscription-is-over-for-me/"><u>EA Play’s Costly Hike, Subscription Is Over for Me</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mastering-quick-retrieval-on-western-digital-passport-drives-top-3-methods-unveiled/"><u>Mastering Quick Retrieval on Western Digital Passport Drives: Top 3 Methods Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-seamless-device-integration-controlling-your-ipad-with-a-mac-using-apples-universal-control-unleash-the-magic/"><u>Mastering Seamless Device Integration: Controlling Your iPad with a Mac Using Apple's Universal Control - Unleash the Magic!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/micro-scripted-movie-plot-for-2024/"><u>Micro-Scripted Movie Plot for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-steps-for-windows-to-solve-ps4-controller-dropping-out/"><u>Reconnecting: Steps for Windows to Solve PS4 Controller Dropping Out</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-syncing-for-android-phonestablets/"><u>Seamless Controller Syncing for Android Phones/Tablets</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-storage-challenges-in-steam-games/"><u>Tackling Storage Challenges in Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-game-changer-essential-nintendo-switch-customizations/"><u>The Game Changer: Essential Nintendo Switch Customizations</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-affordable-gaming-list-top-11-sites-of-the-season/"><u>The Ultimate Affordable Gaming List: Top 11 Sites of the Season</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Smart 7 | Dr.fone</u></a></li>
+</ul></div>
 

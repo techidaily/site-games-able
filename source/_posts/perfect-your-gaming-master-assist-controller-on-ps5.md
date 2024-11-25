@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Gaming - Master Assist Controller on PS5
-date: 2024-11-12T18:41:06.657Z
-updated: 2024-11-16T03:00:13.196Z
+date: 2024-11-23T18:37:38.077Z
+updated: 2024-11-24T18:08:43.005Z
 tags:
   - games
 categories:
@@ -35,21 +35,16 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
@@ -66,26 +61,20 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Head to the**Accessibility** settings and scroll down to**Controllers** .
 
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
@@ -97,10 +86,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
@@ -128,14 +114,19 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-blog.techidaily.com/x-dvd/"><u>「簡単操作のマックX DVDコピープログラム：無料版お試しください」</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-critical-eye-on-manipulative-playtime-trailers/"><u>A Critical Eye on Manipulative Playtime Trailers</u></a></li>
-<li><a href="https://games-able.techidaily.com/correcting-inaccessible-steam-connections-on-win11/"><u>Correcting Inaccessible Steam Connections on Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/defining-and-assessing-dual-mode-monitor-utility-in-gaming/"><u>Defining and Assessing Dual-Mode Monitor Utility in Gaming</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expertise-at-your-fingertips-the-ultimate-beginners-tripod-guide/"><u>Expertise at Your Fingertips: The Ultimate Beginner's Tripod Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-google-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Google Lock Screen Password</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-multitasking-with-picture-in-picture-feature-ios/"><u>In 2024, Simplify Multitasking with Picture in Picture Feature (iOS)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-step-by-step-guide-to-painless-iphone-screen-sharing/"><u>In 2024, Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
-<li><a href="https://games-able.techidaily.com/transitioning-iphone-into-a-mobile-gaming-station/"><u>Transitioning iPhone Into a Mobile Gaming Station</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-tailoring-tutorials-for-square-shaped-video-sharing/"><u>[New] 2024 Approved Tailoring Tutorials for Square-Shaped Video Sharing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ptimal-video-kick-offs-selecting-the-top-16-for-more-viewers/"><u>[New] Optimal Video Kick-Offs Selecting the Top 16 for More Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-screen-building-a-youtube-trailer-in-filmora-for-2024/"><u>[Updated] From Script to Screen Building a YouTube Trailer in Filmora for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-in-depth-analysis-of-powerdirector-24-features/"><u>[Updated] In 2024, In-Depth Analysis of PowerDirector '24 Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshops-powerful-tool-image-curving-techniques/"><u>[Updated] Photoshop's Powerful Tool Image Curving Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/combat-unwanted-scrolling-windows-edition/"><u>Combat Unwanted Scrolling: Windows Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-the-game-syncing-xbox-one-remotes/"><u>Controlling the Game: Syncing Xbox One Remotes</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-power-of-xbox-game-pass/"><u>Discover the Power of Xbox Game Pass</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-basic-steps-for-saving-youtube-content/"><u>In 2024, Basic Steps for Saving YouTube Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-privacy-your-guide-to-switch-credentials/"><u>Maintaining Privacy: Your Guide to Switch Credentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalized-gpu-temperature-management-strategy/"><u>Personalized GPU Temperature Management Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-now-top-short-term-games-online/"><u>Play Now: Top Short-Term Games Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/staying-afloat-with-an-inflated-xbox-game-pass-rate/"><u>Staying Afloat with an Inflated Xbox Game Pass Rate</u></a></li>
 </ul></div>
 

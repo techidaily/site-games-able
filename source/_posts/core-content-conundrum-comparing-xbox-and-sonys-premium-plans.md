@@ -1,7 +1,7 @@
 ---
 title: "Core Content Conundrum: Comparing Xbox and Sony's Premium Plans"
-date: 2024-11-13T21:58:29.024Z
-updated: 2024-11-16T00:15:49.714Z
+date: 2024-11-20T16:36:35.977Z
+updated: 2024-11-25T02:16:21.299Z
 tags:
   - games
 categories:
@@ -23,24 +23,15 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PlayStation Plus and Xbox Live Gold Have Changed
 
  In September 2023,[Microsoft retired the long-running Xbox Live Gold name](https://www.makeuseof.com/xbox-live-gold-is-becoming-xbox-game-pass-core-what-you-need-to-know/) for the Xbox's online service. In its place is a new tier of Xbox Game Pass, called Game Pass Core. Similarly, in June 2022,[PlayStation Plus expanded to include three different tiers](https://www.makeuseof.com/new-playstation-plus-subscriptions-explained/) .
 
  The base tier of PlayStation Plus (Essential) is most similar to Game Pass Core. As a result, we'll spend most of this comparison on PS Plus Essential and Game Pass Core, then briefly cover the other tiers at the end.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## PlayStation Plus Essential and Game Pass Core: Basics
 
@@ -56,13 +47,6 @@ Let's walk through the primary benefits of both services.
 
  Thankfully, PlayStation and Xbox both let you enjoy free-to-play multiplayer games like Fortnite and Rocket League online without a subscription. Only paid games require a membership for online play.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## "Free" Games Are Included
 
  Both PlayStation Plus and Game Pass Core offer "free" games (included as part of the cost) with your subscription. However, these work differently across the two services.
@@ -74,6 +58,10 @@ Let's walk through the primary benefits of both services.
  The new PS Plus games arrive on the first Tuesday of each month and stay available until the first Tuesday of the following month. As long as you add the games to your library when they're free, they're yours to keep as long as your Plus subscription stays active.
 
  If you let your subscription lapse, you'll lose access to any free Plus games you grabbed. However, should you ever re-subscribe, you'll get access to those games again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Game Pass Core's Included Catalog
 
@@ -89,16 +77,13 @@ Let's walk through the primary benefits of both services.
 
  If you previously subscribed to Xbox Live Gold, any Xbox 360 titles you claimed through Games With Gold are yours to keep. You can still access Xbox One titles as long as you stay subscribed to Game Pass Core (or Ultimate).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Digital Game Discounts
 
 ![PS Plus Discounts on Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS-Plus-Discounts-Store.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In addition to the free games, PlayStation Plus and Game Pass Core both offer a variety of discounts on their respective digital stores.
 
@@ -107,15 +92,16 @@ Let's walk through the primary benefits of both services.
  These discounts extend to DLC and consumable items, so it's not just full titles. With PS Plus, you'll also sometimes get exclusive access to betas, plus some freebies like add-ons for various games or profile avatars.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Subscription Features
 
  We've covered the main features above, but PlayStation Plus and Game Pass Core both have a few other considerations to keep in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cloud Save Storage
 
@@ -124,10 +110,7 @@ Let's walk through the primary benefits of both services.
  However, both the Xbox One and Xbox Series X|S provide cloud storage without a subscription. Microsoft says "as your game library grows, so does your cloud storage," so the exact amount isn't known.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Party Chat and Share Play
@@ -197,19 +180,19 @@ Let's walk through the primary benefits of both services.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mcb-template-pack-download-now/"><u>[New] 2024 Approved MCB Template Pack Download Now</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-action-camera-faceoff-gopro-hero-vs-yi-4k-new-edition-review/"><u>[Updated] Action Camera Faceoff GoPro Hero Vs. Yi 4K - New Edition Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-real-number-of-youtube-views-you-need-to-make-a-living-for-2024/"><u>[Updated] The Real Number of YouTube Views You Need to Make a Living for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-become-an-influencer-grow-by-a-thousand-on-instagrammonth/"><u>2024 Approved Become an Influencer Grow by a Thousand on Instagram/Month</u></a></li>
-<li><a href="https://games-able.techidaily.com/curated-collection-of-best-console-emulators-for-mac/"><u>Curated Collection of Best Console Emulators for Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/engaging-kids-in-protected-steam-based-play/"><u>Engaging Kids in Protected Steam-Based Play</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-gpu-activation-a-success-story-in-win11/"><u>Laptop GPU Activation: A Success Story in Win11</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-ball-a-guide-to-the-top-7-mobile-sports-apps-iosandroid/"><u>Play Ball! A Guide to the Top 7 Mobile Sports Apps (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/stay-cool-keep-playing-essential-thermal-accessories/"><u>Stay Cool, Keep Playing: Essential Thermal Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-giant-gamers-comfort-choice/"><u>The Ultimate Giant Gamers' Comfort Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-playnite-on-television/"><u>The Ultimate Guide to Playnite on Television</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ultimate-tutorial-on-making-your-videos-work-with-iphones-conversion-techniques-explored/"><u>Ultimate Tutorial on Making Your Videos Work with iPhones: Conversion Techniques Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-remove-distractions-in-webcam-captures/"><u>[New] 2024 Approved Remove Distractions in Webcam Captures</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-design-mastery-in-minutes-canvas-quick-secret-tips/"><u>[Updated] 2024 Approved Design Mastery in Minutes Canva's Quick Secret Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-2-methods-to-transform-zoom-sound-ensuring-clarity/"><u>[Updated] In 2024, Top 2 Methods to Transform Zoom Sound, Ensuring Clarity</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-12-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 12 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-through-red-tape-on-digital-console-returns/"><u>Cutting Through Red Tape on Digital Console Returns</u></a></li>
+<li><a href="https://games-able.techidaily.com/gift-wrapped-adventures-presenting-games-through-steam/"><u>Gift-Wrapped Adventures: Presenting Games Through Steam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/impart-rotational-luminosity-modification-in-photoshopping/"><u>Impart Rotational Luminosity Modification in Photoshopping</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseof-spotlight-mwcs-top-products/"><u>MakeUseOf Spotlight: MWC's Top Products</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-s-x-controllers-bluetooth-linkage/"><u>Mastering Xbox S X Controller's Bluetooth Linkage</u></a></li>
+<li><a href="https://common-error.techidaily.com/modern-setup-host-what-is-it-and-how-to-fix-it-if-it-stops-working/"><u>Modern Setup Host — What Is It & How to Fix It if It Stops Working?</u></a></li>
+<li><a href="https://games-able.techidaily.com/sitting-smart-for-virtual-battles/"><u>Sitting Smart for Virtual Battles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-price-history-gaming-costs-on-steam/"><u>Unlocking Price History: Gaming Costs on Steam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-tabletop-gaming-secrets-how-to-harness-chatgpt-as-your-ideal-dungeon-master/"><u>Unlocking Tabletop Gaming Secrets: How to Harness ChatGPT as Your Ideal Dungeon Master</u></a></li>
 </ul></div>
 

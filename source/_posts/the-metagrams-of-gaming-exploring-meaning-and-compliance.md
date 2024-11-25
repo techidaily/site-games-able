@@ -1,7 +1,7 @@
 ---
 title: "The Metagrams of Gaming: Exploring Meaning & Compliance"
-date: 2024-09-09T09:36:49.587Z
-updated: 2024-09-10T09:36:49.587Z
+date: 2024-11-23T17:17:32.547Z
+updated: 2024-11-24T21:24:12.010Z
 tags:
   - games
 categories:
@@ -12,13 +12,11 @@ keywords: Meaning in Gaming,Gaming Compliance,Game Metaphors,Digital Game Struct
 thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Metagrams of Gaming: Exploring Meaning & Compliance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * [Should You Follow the Meta in Games?](#should-you-follow-the-meta-in-games)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Metas can help keep games fresh and introduce new play methods, benefiting from consistent updates and tweaks.
@@ -60,12 +56,6 @@ OpenAI / MakeUseOf
 
  At this point, you might be curious where the term meta came from. People sometimes claim that "meta" is an acronym, standing for "most efficient tactic available." There's no evidence of that, though it is a clever example of a "backronym," where people retroactively turn a word into an acronym. Instead, the term likely stemmed from the existing word "meta," which means something that refers to itself. This is because the meta is essentially a game based on a game, where strategies and tactics are devised before a round even starts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are Metas Good or Bad for Gaming?
 
 ![woman playing first person shooter on gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/woman-playing-first-person-shooter-on-gaming-pc.jpg)
@@ -77,11 +67,9 @@ OpenAI / MakeUseOf
  That's one of the fascinating things about metas. The core game can remain and persist through both good and bad meta changes. Let's look at how a meta can help or hurt a game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How Metas Can Help Games
 
  Metas can sometimes be seen as "flavors of the month." This is especially true for a game that receives consistent updates that tweak how the game is played. In this way, metas can help keep the game from going "stale" and introduce new play methods.
@@ -94,12 +82,6 @@ OpenAI / MakeUseOf
 
  The end result is a meta that shifts every six months, which keeps Magic the Gathering from getting boring and allows players to find new combos and playstyles with the new cards. And while Magic the Gathering has had its fair share of oppressive metas, they have either been banned or drifted out of Standard. It's a great example of how a game can shed a bad meta, introduce a good one, and keep players happy and engaged.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How Metas Can Harm Games
 
  Metas are not always positive. If a meta is too "powerful," it will warp the game around it. In severe instances, players will be at an active disadvantage if they do not, or cannot follow what the meta dictates.
@@ -110,6 +92,10 @@ OpenAI / MakeUseOf
 
  Eventually, Dr. Boom got a nerf and the meta re-stabilised itself, but the card was forever deemed a meta-warper by Hearthstone players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Follow the Meta in Games?
 
  Because metas aren't strictly good or bad, it's important to know whether or not you should follow them.
@@ -117,11 +103,9 @@ OpenAI / MakeUseOf
  Let's look at why you might want to follow along, why you might want to ignore the meta, and how to do so selectively.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Following the Game Meta Can Enhance Your Enjoyment
 
  If a meta is healthy and you enjoy playing in it, there's nothing wrong with following it. After all, the meta developed because people found the best way to achieve something within the game.
@@ -148,14 +132,11 @@ OpenAI / MakeUseOf
 
  So you should never feel bad stepping back from a game when you realize that the game's meta has tricked you into a grind or play style you don't enjoy!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +145,22 @@ OpenAI / MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-spectacular-gaming-capture-options/"><u>[New] 2024 Approved Spectacular Gaming Capture Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-top-5-pc-screen-grabbers-ranked-1-5/"><u>[Updated] 2024 Approved The Ultimate List of Top 5 PC Screen Grabbers Ranked #1-#5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-15-nba-live-stream-techniques/"><u>2024 Approved Top 15 NBA LIVE STREAM Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-security-of-roblox-performance-hacks/"><u>Assessing the Security of Roblox Performance Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-user-freedom-the-art-of-banning-and-u-banning-on-twitch/"><u>Balancing User Freedom: The Art of Banning and U-Banning on Twitch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-insight-hero4-black-operations/"><u>Detailed Insight Hero4 Black Operations</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-10t-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-freely-transform-avchd-videos-into-mp4-on-windows-10-a-comprehensive-guide-5-techniques/"><u>How To Freely Transform AVCHD Videos Into MP4 on Windows 10: A Comprehensive Guide (5 Techniques)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-secrets-lowering-playback-rate-for-better-views/"><u>In 2024, Snapchat Secrets Lowering Playback Rate for Better Views</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-good-on-unsatisfactory-fortnite-dealings/"><u>Making Good on Unsatisfactory Fortnite Dealings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New 2024 Approved Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reel-in-success-top-drone-video-editors-for-every-stage-of-learning/"><u>Reel in Success Top Drone Video Editors for Every Stage of Learning</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-a-better-gameplay-the-5-payment-perks-for-gamers/"><u>Secrets to a Better Gameplay: The 5 Payment Perks for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-6-core-features-that-make-games-intriguing/"><u>The 6 Core Features That Make Games Intriguing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-cloud-synch-issues-in-steam-devices/"><u>Unraveling Cloud Synch Issues in Steam Devices</u></a></li>
+</ul></div>
 

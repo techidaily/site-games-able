@@ -1,7 +1,7 @@
 ---
 title: Navigating Social & Multiplayer Features in EA Play for PS5 Users
-date: 2024-11-12T02:14:14.032Z
-updated: 2024-11-16T00:14:25.853Z
+date: 2024-11-19T03:32:30.077Z
+updated: 2024-11-24T19:01:41.288Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Subscribe to EA Play on the PS5
 
  Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must[add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
@@ -42,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
@@ -64,13 +65,14 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
@@ -82,20 +84,10 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EA Play Saves You Money
@@ -119,18 +111,18 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capturing-your-device-a-comprehensive-screen-recording-guide/"><u>[New] Capturing Your Device A Comprehensive Screen Recording Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lear-youtube-watch-later-playlist-step-by-step/"><u>[New] Clear YouTube Watch Later Playlist - [Step-by-Step]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-finding-the-right-sound-top-asmrists-advice/"><u>[New] Finding the Right Sound Top ASMRists Advice</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-quicker-resume-usage-in-xbox-series-gaming/"><u>Assessing Quicker Résumé Usage in Xbox Series Gaming</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722963985911-download-new-updates-for-your-lenovo-thunderbolt-3-portable-docking-station/"><u>Download New Updates for Your Lenovo Thunderbolt 3 Portable Docking Station!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-from-paid-to-free-embracing-the-world-of-fcp/"><u>In 2024, From Paid to Free Embracing the World of FCP</u></a></li>
-<li><a href="https://games-able.techidaily.com/investing-in-style-reaping-gameplay-rewards/"><u>Investing in Style, Reaping Gameplay Rewards</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-cs2-strategies-for-mac-users/"><u>Navigating CS2: Strategies for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fixes-for-joy-con-connection-issues-with-nintendo-switch/"><u>Quick Fixes for Joy-Con Connection Issues with Nintendo Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/real-time-gaming-footage-extraction-made-effortless/"><u>Real-Time Gaming Footage Extraction Made Effortless</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-advanced-electronics-insights-from-toms-hardware-collection/"><u>Unveiling Advanced Electronics - Insights From Tom's Hardware Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-hidden-gems-of-high-quality-discords/"><u>Unveiling the Hidden Gems of High-Quality Discords</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-nvidia-quadro-rtx-4000-with-the-newest-drivers-here/"><u>Update Your Nvidia Quadro RTX #4000 with the Newest Drivers Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-5-premium-4k-displays-for-the-hardcore-gamer-for-2024/"><u>[New] 5 Premium 4K Displays for the Hardcore Gamer for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-modifying-user-numbers-on-tiktok/"><u>[New] Step-by-Step Guide Modifying User Numbers on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[Updated] In 2024, The Power of Free Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-iphone-slow-motion-camera-video/"><u>[Updated] IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://games-able.techidaily.com/blackwidow-v4s-gaming-revolution-a-deep-dive-review/"><u>BlackWidow V4's Gaming Revolution - A Deep Dive Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-games-the-art-of-minimized-3d-models/"><u>Boosting Games: The Art of Minimized 3D Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/breathe-new-life-into-your-games-steams-workshop-explained/"><u>Breathe New Life Into Your Games: Steam's Workshop Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-the-music-headset-connection-tips-for-xbox-one/"><u>Bring Back the Music: Headset Connection Tips for Xbox One</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-cpu-upgrade-vs-gpu-boost-priority/"><u>Choosing: CPU Upgrade Vs. GPU Boost Priority</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-device-hang-error-code-0x887a0006-on-win11/"><u>Combat Device Hang (Error Code 0X887A0006) on Win11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-bluetooth-features-in-m06-audio-tech/"><u>Exploring Bluetooth Features in M06 Audio Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-rainbow-six-siege-refuses-to-start/"><u>Troubleshooting Steps: When Rainbow Six Siege Refuses to Start</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/understanding-why-youre-not-seen/"><u>Understanding Why You're Not Seen</u></a></li>
 </ul></div>
 

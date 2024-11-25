@@ -1,7 +1,7 @@
 ---
 title: The Real Score in Fake Playtime Videos
-date: 2024-09-09T09:37:11.585Z
-updated: 2024-09-10T09:37:11.585Z
+date: 2024-11-21T09:33:20.521Z
+updated: 2024-11-24T17:56:11.312Z
 tags:
   - games
 categories:
@@ -18,28 +18,20 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
  Why do companies use fake ads to promote their games? How can you confirm that the gameplay in the advertisement is real or just misleading? And how should you respond to such fake ads?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Do Fake Ads Look Like?
 
 ![A Fake Game Ad Showing a Man Floating in Water Pulling Out the PIN to Save His Life](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-fake-game-ad-showing-a-man-floating-in-water-pulling-out-the-pin-to-save-his-life.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Video ads showing gameplay that's different from the actual game are considered fake. These misleading ads exaggerate the game's graphics, making it seem more realistic than it is.
 
  In some cases, advertisers use catchy headlines and visually appealing footage to attract the audience's attention, while in other cases, they oversexualize the ad to encourage the viewer to take action.
 
  Since these ads can be highly misleading, why are they allowed in the first place?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why Don't Advertising Companies Ban Fake Ads?
 
  Ad companies usually approve such ads for publication and do not ban them because they are designed so that, despite misleading the audience, they do not violate a company's terms and conditions.
@@ -47,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
  Advertising companies consider ads deceptive and[suspend ad accounts](https://www.makeuseof.com/reasons-facebook-bans-ad-accounts/) if they misrepresent a product or service in an effort to sell it. As fake gameplay ads do not involve a sale, they don't qualify as misleading; they simply want the user to download the game free of charge.
 
  Just like that, advertisers make every effort to ensure that their ads align with the company's policies to avoid being banned. It begs the question: Why do companies use fake advertisements?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Do Companies Use Fake Advertisements to Promote Their Games?
 
@@ -63,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![The real ostrich looks at the fake one over the fence.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/real-and-fake-ostrich.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So is there any way to check that the gameplay shown in the advertisement is real?
 
  Confirming that the advertisement accurately represents the game you intend to install can save you from downloading something different to what you expected, and wasting your time and data. But how exactly can you do it?
@@ -84,18 +72,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 
  You can also read the most recent reviews on the store. If you see complaints about the game being different from what was portrayed in the advertisement, don't download it.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Should You Respond to the Fake Ad?
 
  Besides not downloading the app through the misleading advertisement, if you are confident that the ad is fake, here's what else you can do to prevent the wider community from wasting their time downloading the app:
@@ -110,11 +86,9 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![graph falling off at the end](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-of-graph-showing-a-decline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using misleading gameplay to run profitable campaigns isn't always a good idea. Fake ads increase the number of installations cost-effectively but has many downsides.
 
  First, fake ads can damage the company's reputation in the long run. Getting misled into downloading a game in such a way could lead users to skip downloading other games from the same publisher. The company could lose long-term customers who think they scam users.
@@ -126,25 +100,20 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
  The list of ways in which misleading advertisements can backfire goes on and on, so ultimately, while it might seem tempting at first, it's ultimately not worth pursuing this line of thinking.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Don't Be Misled by Fake Gameplay Ads
 
  Knowing how to verify the authenticity of fake advertisements allows you to avoid being deceived. Be sure you report such ads to the social media platform they appear on. Take the necessary steps to prevent others from wasting their time and energy too.
 
  And like fake gameplay ads, fake ads disguised as download links are all over the web. Keep an eye out for them to avoid being duped.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +122,21 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-creating-captivating-tiktok-outro-sequences-for-2024/"><u>[New] Creating Captivating TikTok Outro Sequences for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-soundscapes-for-the-eye-ranking-the-best-photographers-plus-videographers-w-tunes/"><u>[New] Soundscapes for the Eye Ranking the Best Photographers + Videographers W/ Tunes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quicksnap-screen-record-assessment-plus-choices/"><u>[Updated] Quicksnap Screen Record Assessment + Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-strategic-chatgpt-commands-to-dodge-digital-disturbances/"><u>Boost Productivity: Strategic ChatGPT Commands to Dodge Digital Disturbances</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-game-bar-controlling-windows-11-activity/"><u>Curtailing Game Bar: Controlling Windows 11 Activity</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-through-the-ages-retro-pokemon-on-phone/"><u>Gaming Through the Ages: Retro Pokémon on Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-c55-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco C55 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-precision-zoom-mastery-in-microsoft-teams-sessions/"><u>In 2024, Precision Zoom Mastery in Microsoft Teams Sessions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-the-process-of-ppt-recording/"><u>In 2024, Streamlining the Process of PPT Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/live-laugh-and-stream-with-twitch-app-on-the-go/"><u>Live, Laugh & Stream with Twitch App on the Go</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-light-setups-enhancing-your-game-room-vibe/"><u>Prime Light Setups: Enhancing Your Game Room Vibe</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-gaming-experience-master-these-5-mac-tricks/"><u>Supercharge Gaming Experience - Master These 5 Mac Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-journey-of-apples-ios-tracing-its-path-from-version-10-to-180/"><u>The Journey of Apple's iOS: Tracing Its Path From Version 1.0 to 18.0</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-maximizing-your-steam-milestones/"><u>Tips for Maximizing Your Steam Milestones</u></a></li>
+</ul></div>
 

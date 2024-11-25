@@ -1,7 +1,7 @@
 ---
 title: "Subscription Scorecard: Who Wins in the Console War?"
-date: 2024-09-09T09:33:58.637Z
-updated: 2024-09-10T09:33:58.637Z
+date: 2024-11-18T08:54:04.269Z
+updated: 2024-11-25T05:54:58.923Z
 tags:
   - games
 categories:
@@ -18,18 +18,6 @@ thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a5
 
  If you're considering buying a new console, its premium service could help you decide which one to get. Let's compare PlayStation Plus and Xbox Game Pass to see what they offer you.
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PlayStation Plus and Xbox Live Gold Have Changed
 
  In September 2023,[Microsoft retired the long-running Xbox Live Gold name](https://www.makeuseof.com/xbox-live-gold-is-becoming-xbox-game-pass-core-what-you-need-to-know/) for the Xbox's online service. In its place is a new tier of Xbox Game Pass, called Game Pass Core. Similarly, in June 2022,[PlayStation Plus expanded to include three different tiers](https://www.makeuseof.com/new-playstation-plus-subscriptions-explained/) .
@@ -44,18 +32,6 @@ thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a5
 
 Let's walk through the primary benefits of both services.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Access to Online Multiplayer (for Paid Titles)
 
  The key benefit to both PS Plus and Game Pass Core is online multiplayer. On the PS4 and PS5, as well as the Xbox One and Xbox Series X|S, the relevant service is required for all online multiplayer in paid games, whether competitive or cooperative.
@@ -67,11 +43,9 @@ Let's walk through the primary benefits of both services.
  Both PlayStation Plus and Game Pass Core offer "free" games (included as part of the cost) with your subscription. However, these work differently across the two services.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PlayStation Plus Free Games
 
  Each month, PlayStation Plus subscribers get to add a few free games to their library. Since the PlayStation 5's launch, there have been three games per month. Generally, two of them are PS4 games, with at least one PS5 title that may also have a PS4 version.
@@ -94,27 +68,23 @@ Let's walk through the primary benefits of both services.
 
  If you previously subscribed to Xbox Live Gold, any Xbox 360 titles you claimed through Games With Gold are yours to keep. You can still access Xbox One titles as long as you stay subscribed to Game Pass Core (or Ultimate).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Digital Game Discounts
 
 ![PS Plus Discounts on Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS-Plus-Discounts-Store.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In addition to the free games, PlayStation Plus and Game Pass Core both offer a variety of discounts on their respective digital stores.
 
  Of course, there are differences in the frequency and volume of what’s available. It's hard to compare the services directly in this area, as the sales vary in frequency and value. You might find a Game Pass-exclusive sale on the Microsoft Store, or deeper discounts with PlayStation Plus than non-members get.
 
  These discounts extend to DLC and consumable items, so it's not just full titles. With PS Plus, you'll also sometimes get exclusive access to betas, plus some freebies like add-ons for various games or profile avatars.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Subscription Features
 
@@ -126,12 +96,6 @@ Let's walk through the primary benefits of both services.
 
  However, both the Xbox One and Xbox Series X|S provide cloud storage without a subscription. Microsoft says "as your game library grows, so does your cloud storage," so the exact amount isn't known.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Party Chat and Share Play
 
  On both PS4 and PS5, even without PS Plus, you can create parties to chat with your friends no matter what game you're playing. Xbox consoles also allow you to do this; you don't need Xbox Game Pass to join a party and chat with friends.
@@ -140,40 +104,24 @@ Let's walk through the primary benefits of both services.
 
  You need PlayStation Plus to host a Share Play session. Both people need PS Plus to use the "play a game together" feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PlayStation Game Help
 
  The PS5 has a feature called Game Help that lets you see tips and tricks for supported games. It works without leaving your current game, so you don't have to pull up a separate walkthrough in the browser.
 
  This isn't available on PS4, and requires a PS Plus subscription to use on PS5.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Automatic Updates and Other Perks
 
  Finally, PS Plus enables some convenient features on PS4 and PS5, such as automatically downloading game updates in Rest mode. It also gives you priority shipping if you order physical goods from Sony's online store.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Cost of PS Plus and Game Pass Core
 
  For a long time, the retail price of Xbox Live Gold and PlayStation Plus Essential was the same: $60 per year. However, this has changed as of 2023.[PlayStation Plus's pricing](https://www.makeuseof.com/how-much-does-playstation-plus-cost/) has seen a major hike across all its tiers.
@@ -183,6 +131,10 @@ Let's walk through the primary benefits of both services.
  If you're patient, you can likely spot deals on either service that let you save $10 or more on a yearly subscription. As a result, you shouldn't ever have to pay full price, especially if you wait to renew your subscription until Black Friday or other seasonal sales.
 
  You can join either service on a monthly basis, but this ends up costing a lot more. Both services cost $10/month when paid monthly, while PS Plus Essential also offers a 3-month plan for $25\. Unless you're only looking to play online for a short time, paying yearly makes much more sense.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other Xbox Game Pass and PlayStation Plus Plans
 
@@ -208,14 +160,11 @@ Let's walk through the primary benefits of both services.
 
  Whichever system you play on, you'll get a lot of value out of either service.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -224,4 +173,22 @@ Let's walk through the primary benefits of both services.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-capturing-conversations-on-messenger-a-comprehensive-how-to-for-2024/"><u>[New] Capturing Conversations on Messenger A Comprehensive How-To for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creating-dynamic-content-with-youtube-playlist-embedding-for-2024/"><u>[Updated] Creating Dynamic Content with YouTube Playlist Embedding for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x50-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X50 GT Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-tech-unleashed-at-computex-2024/"><u>AI Tech Unleashed at Computex 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-mobile-games-with-optimal-inputs/"><u>Android Mobile Games with Optimal Inputs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-restoring-text-communication-on-android-phones/"><u>Effective Strategies for Restoring Text Communication on Android Phones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offers-compact-mobile-projectors-portable-power-units-google-nest-cams-and-more-tech-essentials/"><u>Exclusive Offers: Compact Mobile Projectors, Portable Power Units, Google Nest Cams, and More Tech Essentials!</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-systems-that-blend-the-past-with-now/"><u>Game Systems That Blend the Past with Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/internet-setup-for-the-switch-hq/"><u>Internet Setup for the Switch HQ</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/palette-prestige-highlighting-10-free-mac-compatible-art-tools-for-2024/"><u>Palette Prestige Highlighting 10 Free, Mac-Compatible Art Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-nova-11-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei Nova 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/seize-the-day-with-exhilarating-game-hits-all-for-free/"><u>Seize the Day with Exhilarating Game Hits (All for Free!)</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-gaming-experience-with-screen-tuning/"><u>Streamline Your Gaming Experience with Screen Tuning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments-for-2024/"><u>The No-Fuss Guide for Exploring Loved and Trending YouTube Comments for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-gaming-written-by-katherine/"><u>Unleash Gaming' Written by Katherine</u></a></li>
+</ul></div>
 

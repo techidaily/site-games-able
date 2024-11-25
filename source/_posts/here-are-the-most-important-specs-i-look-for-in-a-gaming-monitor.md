@@ -1,7 +1,7 @@
 ---
 title: Here Are the Most Important Specs I Look for in a Gaming Monitor
-date: 2024-09-09T09:34:34.482Z
-updated: 2024-09-10T09:34:34.482Z
+date: 2024-11-23T23:03:31.164Z
+updated: 2024-11-24T17:15:28.580Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Gaming Monitor Specs,Top Gaming Display Features,Essential Monitor Rev
 thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a16305034b7e133b158f74795a132b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Here Are the Most Important Specs I Look for in a Gaming Monitor
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Quick Links
 
 * [Refresh Rate](#refresh-rate)
@@ -35,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 * [Brightness, Contrast, and HDR Capability](#brightness-contrast-and-hdr-capability)
 * [Panel and Display Type](#panel-and-display-type)
 * [Ergonomics](#ergonomics)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -65,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 ![Monitor displaying Cities Skylines video game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/monitor-displaying-cities-skylines-video-game.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Dreamchild Obari/MakeUseOf
 
  As a gamer who prefers strategy games, city-building sims, and single-player adventure games, I find that how the graphics look is more important than anything else. Resolution is one core determinant of how detailed a game looks.
@@ -84,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  A 4K monitor is the only way for a gamer like me. 1080p is fine if you have a high-refresh-rate monitor because most displays have to compromise resolution for refresh rate speed. The good news is that 4K monitors are getting cheaper. The cheapest are often 60Hz monitors, but you can get some at 75Hz starting from $500.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Size, Aspect Ratio, and Curvature
 
  The next specs I look for in a gaming monitor are the size, aspect ratio, and how it curves (if at all). These three things are related but different—and they have differing effects depending on what you plan to use the monitor for.
@@ -102,12 +80,6 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
 ![Edge 2.5D Aspect Ratio Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Edge-25D-Aspect-Ratio-Menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Dreamchild Obari/MakeUseOf
 
  Lastly, there's curvature. I don’t buy curved displays because all the ones I have tried seemed fuzzy. They look good and they can help with FOV, but they’re also expensive and gimmicky. In fact, a curved monitor can sometimes be 20 to 30 percent more expensive than a flat one of similar specs. I’d rather put the money towards a better graphics card.
@@ -118,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
 ![Back of monitor displaying connectivity ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/back-of-monitor-displaying-connectivity-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dreamchild Obari/MakeUseOf
 
  Apart from getting a monitor with enough HDMI options, I always remember to check if the monitor I’m buying supports Thunderbolt ports and DisplayPorts. The Thunderbolt port ensures that I can use it to daisy-chain displays for my Mac, and DisplayPort supports higher refresh rates.
@@ -125,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
  I don’t necessarily use these ports all the time, but the option is comforting. If I find a good monitor without them, it’s still a good buy. High-end gamers need DisplayPorts, though, and you can see more arguments for DisplayPort in our guide on[DisplayPort 2.1 vs HDMI 2.1](https://www.makeuseof.com/hdmi-21-vs-displayport-21-whats-the-difference/) .
 
  If you’re curious where USB ports and a 3.5mm headphone jack fit into all of this, well, I’ve never seen a gaming monitor without those ports, so I wouldn’t be too worried. Additionally, I’ve never had any need for USB and headphones on a gaming monitor; my PC can replace whatever function those ports provide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Brightness, Contrast, and HDR Capability
 
@@ -151,19 +131,11 @@ Dreamchild Obari
 ![Lamp facing a matte black monitor test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/lamp-facing-a-matte-black-monitor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Dreamchild Obari
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7 Ergonomics
 
  When people say ergonomics, desks and chairs come to mind. It’s easy to forget how much monitors contribute to that. It might be because, for monitors, ergonomics is simply how adjustable the monitor’s stem and joints are.
@@ -176,14 +148,11 @@ Dreamchild Obari
 
  There are other things I didn’t discuss here, but these are the most important specs to me. In my decade-long experience of building setups, these particular specs have never failed me. I hope they serve you just as well.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,4 +161,21 @@ Dreamchild Obari
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-complete-walkthrough-mastering-adobe-cloud-services-for-2024/"><u>[New] Complete Walkthrough Mastering Adobe Cloud Services for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-inside-the-code-how-apeaksoft-outperforms-in-screen-capture/"><u>[New] Inside the Code How Apeaksoft Outperforms in Screen Capture</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better-for-2024/"><u>[Updated] Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-selective-mp4-editing-made-simple-on-mac/"><u>[Updated] Selective MP4 Editing Made Simple on Mac</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/cloning-soluzioni-efficienti-con-aomei-backupper-ideale-per-lampliare-ssd-m2/"><u>Cloning Soluzioni Efficienti Con AOMEI Backupper - Ideale per L'Ampliare SSD M.2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-digital-masterpieces-with-ease-the-ultimate-guide-to-using-chatgpt-for-ai-generated-imagery/"><u>Crafting Digital Masterpieces with Ease: The Ultimate Guide to Using ChatGPT for AI-Generated Imagery</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-glitches-adopt-the-updated-nvidia-graphics-driver-now/"><u>End Glitches! Adopt the Updated Nvidia Graphics Driver Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-what-sets-xbox-game-pass-apart/"><u>Inside Look: What Sets Xbox Game Pass Apart</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-level-screen-recorder-showdown/"><u>Pro-Level Screen Recorder Showdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-mystery-how-to-activate-undisclosed-browser/"><u>PS5 Mystery: How to Activate Undisclosed Browser?</u></a></li>
+<li><a href="https://games-able.techidaily.com/sustaining-the-spirit-of-gamers-beyond-burnout/"><u>Sustaining the Spirit of Gamers Beyond Burnout</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171291411-the-ultimate-game-boy-advance-emulator-showdown-on-ios/"><u>The Ultimate Game Boy Advance Emulator Showdown on iOS!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-and-repairing-robloxs-error-403-in-your-computer-system/"><u>Unraveling and Repairing Roblox's Error 403 in Your Computer System</u></a></li>
+</ul></div>
 

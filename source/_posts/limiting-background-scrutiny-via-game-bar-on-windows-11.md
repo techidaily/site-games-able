@@ -1,7 +1,7 @@
 ---
 title: Limiting Background Scrutiny via Game Bar on Windows 11
-date: 2024-11-11T20:21:23.140Z
-updated: 2024-11-15T17:26:51.795Z
+date: 2024-11-18T14:18:27.353Z
+updated: 2024-11-25T12:47:42.610Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable the Xbox Game Bar in Windows 10
 
  Windows 10 lets you disable the Xbox Game Bar completely. To do that, follow these steps:
@@ -34,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 ![disable the xbox gamebar in windows settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Restrict Xbox Game Bar's Background Activity in Windows 11
@@ -51,32 +52,23 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 4. Search**"Xbox"** in the search bar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click the**three horizontal dots** next to the**Xbox Game Bar** app and select**Advanced options** .  
 ![open advanced options settings for xbox game bar in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-advanced-options-settings-for-xbox-game-bar-in-the-settings-app.jpg)
 6. Select**Never** in the dropdown menu under**Let this app run in the background** .  
 
-![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![change the background app permissions for the xbox game bar app in the settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-the-background-app-permissions-for-the-xbox-game-bar-app-in-the-settings-app.jpg)
 
  Like disabling the Xbox Game Bar, you can tweak a few settings to[improve your gaming performance on Windows 10](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) and[Windows 11](https://www.makeuseof.com/improve-gaming-experience-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Don't Let the Xbox Game Bar Drain Your System Resources
@@ -100,16 +92,22 @@ thumbnail: https://thmb.techidaily.com/36f59289f42403367e98ee01ecd7f903ee9a9399b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[New] 2024 Approved LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[New] 2024 Approved Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-enhance-clips-best-winter-bgs-for-video-warmth/"><u>2024 Approved Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-freezing-woes-securing-epic-game-launcher-stability/"><u>Eliminate Freezing Woes: Securing Epic Game Launcher Stability</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-correct-mc-launcher-failure-error-0x803f8001-in-mcpc/"><u>How to Correct MC Launcher Failure: Error 0X803F8001 in MCPC</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-playstation-4-on-your-windows-or-macos-device/"><u>How to Use PlayStation 4 on Your Windows or macOS Device</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone X Unavailable Issue With Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-task-managers-dominance-over-desktop-applications/"><u>Mastering Task Manager's Dominance Over Desktop Applications</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-playing-legacy-xbox-games-on-pc/"><u>Step-by-Step: Playing Legacy Xbox Games on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-2024s-top-nintendo-switch-docks/"><u>The Ultimate List of 2024'S Top Nintendo Switch Docks</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/waht-is-ai-pixel-art-generator/"><u>Waht Is AI Pixel Art Generator?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-reimagine-your-profile-on-tiktok-with-innovative-pfps/"><u>[New] 2024 Approved Reimagine Your Profile on TikTok with Innovative PFPs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-decoding-instagrams-trends-reels-and-stories-comparison/"><u>[Updated] In 2024, Decoding Instagram's Trends Reels & Stories Comparison</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>[Updated] Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-value-in-1440p-selecting-the-perfect-gaming-screen-for-your-funds/"><u>Best Value in 1440P: Selecting the Perfect Gaming Screen for Your Funds</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-the-4060-ti-top-non-nvidia-gaming-cards/"><u>Beyond the 4060 Ti: Top Non-NVIDIA Gaming Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/blend-fun-across-phones-ranked-multiplayer-game-pairs/"><u>Blend Fun Across Phones: Ranked Multiplayer Game Pairs</u></a></li>
+<li><a href="https://games-able.techidaily.com/blending-sony-and-nintendo-a-guide-to-controllers-harmony/"><u>Blending Sony and Nintendo: A Guide to Controllers' Harmony</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-accuracy-with-the-steam-deck-keys/"><u>Boosting Accuracy with the Steam Deck Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/boosting-ps5-fun-essential-gameplay-enhancements/"><u>Boosting PS5 Fun: Essential Gameplay Enhancements</u></a></li>
+<li><a href="https://games-able.techidaily.com/choose-performance-why-switch-from-console-games/"><u>Choose Performance: Why Switch From Console Games</u></a></li>
+<li><a href="https://driver-error.techidaily.com/clarifying-how-to-fix-problems-with-obsolete-usb-composite-hardware/"><u>Clarifying How to Fix Problems with Obsolete USB Composite Hardware</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-driver-not-starting-frustration-windows-11-guide/"><u>Combat Driver Not Starting Frustration: Windows 11 Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-official-method-to-unlock-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Official Method to Unlock Your iPhone 13</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-essential-10-applications-to-boost-productivity-for-high-school-pupils/"><u>The Essential 10 Applications to Boost Productivity for High School Pupils</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-x7b-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor X7b Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-restart-options-for-macbook-pro-users/"><u>Troubleshooting: Restart Options for MacBook Pro Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting Continual Adventures Through Algorithmic Design
-date: 2024-11-10T00:28:46.836Z
-updated: 2024-11-15T19:00:08.131Z
+date: 2024-11-22T13:44:11.311Z
+updated: 2024-11-24T16:01:27.457Z
 tags:
   - games
 categories:
@@ -44,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Games Use Procedural Generation?
@@ -56,16 +53,13 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  So, here are a few modern titles which use this method when creating a game session.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### No Man's Sky
 
 ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
@@ -73,22 +67,13 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Civilization VI
 
 ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
 
@@ -101,15 +86,16 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
  Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 
@@ -130,18 +116,20 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-comprehensive-guide-your-shorts-hidden-thumbnails/"><u>[New] 2024 Approved Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-secrets-the-ultimate-guide-to-instagram-stories-mastery/"><u>[New] 2024 Approved Unlocking the Secrets The Ultimate Guide to Instagram Stories Mastery</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-camstudio-full-features-analysis-for-2024/"><u>[New] CamStudio Full Features Analysis for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] Parrots in Flight A Deep Dive Into Bebop's Essence</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>[Updated] In 2024, Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2023-techniques-posting-tiktoks-on-twitter/"><u>2023 Techniques Posting TikToks on Twitter</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-wrongful-oled-purchases-with-these-tips/"><u>Avoid Wrongful OLED Purchases with These Tips</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo-for-2024/"><u>Celebrating Matrimony The Best Wedding Movies From YouTube to Vimeo for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/critical-update-alert-for-it-professionals-vmware-transitions-vsphere-65-and-67-to-end-of-support-on-oct-15-2022/"><u>Critical Update Alert for IT Professionals: VMware Transitions vSphere 6.5 & 6.7 to End of Support on Oct 15, 2022</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-unveils-thinner-tech-trends-with-tecnos-new-models/"><u>IFA Unveils Thinner Tech Trends with Tecno's New Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/protecting-personal-data-on-nintendo-console-access/"><u>Protecting Personal Data on Nintendo Console Access</u></a></li>
-<li><a href="https://games-able.techidaily.com/solve-wordle-streak-crash-iosandroid-fix-guide/"><u>Solve Wordle Streak Crash: IOS/Android Fix Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-saving-techniques-for-your-game-console/"><u>Strategic Saving Techniques for Your Game Console</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-perfect-youtube-thumbnails-on-macos/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brainiac-broadcasting-curated-list-of-2024s-trivia-outlets/"><u>[Updated] Brainiac Broadcasting Curated List of 2024'S Trivia Outlets</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-art-to-blockchain-assets-with-top-7-tools-for-2024/"><u>[Updated] Elevate Art to Blockchain Assets with Top 7 Tools for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigate-effortlessly-to-your-favorite-facebook-videos-with-these-top-addons-for-2024/"><u>[Updated] Navigate Effortlessly to Your Favorite Facebook Videos With These Top Addons for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/eco-set-designs-30plus-free-downloadable-templates-for-filmmaking-artistry-for-2024/"><u>Eco-Set Designs 30+ Free Downloadable Templates for Filmmaking Artistry for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-infrastructure-supporting-xboxs-remote-service/"><u>Exploring the Infrastructure Supporting Xbox's Remote Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-warriors-comparing-rtx-4070-ti-and-4080-supers/"><u>Graphics Warriors: Comparing RTX 4070, Ti, and 4080 Supers</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-quickly-get-your-favorite-films-on-popcorn-time-a-beginners-tutorial/"><u>How to Quickly Get Your Favorite Films on Popcorn Time: A Beginner's Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-issues-in-steams-remote-gaming-setup/"><u>Identifying Issues in Steam's Remote Gaming Setup</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-a59-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo A59 5G Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/risks-in-an-ideal-world-where-players-fund-their-favorite-games/"><u>Risks in an Ideal World Where Players Fund Their Favorite Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-smart-spenders-guide-to-acquiring-steam-games/"><u>The Smart Spender's Guide to Acquiring Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-xbox-xs-digital-deals/"><u>Unlocking Xbox X|S Digital Deals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-editing-essentials-turning-your-avis-into-eye-catching-gifs-with-filmora-on-windowsmacos/"><u>Video Editing Essentials Turning Your AVIs Into Eye-Catching GIFs with Filmora on Windows/macOS</u></a></li>
 </ul></div>
 

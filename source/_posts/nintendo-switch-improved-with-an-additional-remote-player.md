@@ -1,7 +1,7 @@
 ---
 title: Nintendo Switch Improved with an Additional Remote Player
-date: 2024-09-09T09:37:02.295Z
-updated: 2024-09-10T09:37:02.295Z
+date: 2024-11-21T12:33:32.280Z
+updated: 2024-11-24T20:52:44.754Z
 tags:
   - games
 categories:
@@ -30,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
  For the first step, you must ensure that your Nintendo Switch is docked and turned on, and then plug in the wireless USB adapter to one of the USB slots on the left side of the dock. Next, you must navigate to the**System Settings** on the Switch’s main menu and select**Controllers and Sensors** .
@@ -43,36 +37,34 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
 
@@ -85,41 +77,24 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Play Switch Games the Way You Want to Play Them
 
  Whether you’re suffering from the dreaded Joy-Con drift, have hands too big for the undocked Switch controller, or just happen to prefer the PlayStation Controller, then the option is there.
 
  Of course, if it’s the size or shape of the Joy-Con that is the issue, there are plenty of other Switch controllers to consider using instead. But if you've got a DualShock 4 or DualSense to use, it's worth a try before splashing out for a new controller.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +103,22 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-shed-price-chains-with-free-video-player-pcmac/"><u>[New] 2024 Approved Shed Price Chains with Free VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-accelerating-your-tiktok-video-repository/"><u>[Updated] Accelerating Your TikTok Video Repository</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-experience-voice-transformation-list-of-the-best-android-recording-change-apps-for-2024/"><u>[Updated] Experience Voice Transformation List of the Best Android Recording Change Apps for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-propel-your-youtube-presence-via-advanced-creator-studio-techniques/"><u>[Updated] In 2024, Propel Your Youtube Presence via Advanced Creator Studio Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-and-resolving-gpu-distortion/"><u>Decoding and Resolving GPU Distortion</u></a></li>
+<li><a href="https://games-able.techidaily.com/embarking-on-a-new-adventure-play-steam-games-using-meta-quest-xbox-series-x/"><u>Embarking on a New Adventure - Play Steam Games Using Meta Quest Xbox Series X</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-of-troubleshooting-now-stable-no-more-crashing-in-insurgency-sandstorm/"><u>End of Troubleshooting: Now Stable, No More Crashing in 'Insurgency: Sandstorm'</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-forwarding-to-better-deck-performance-via-cloning/"><u>Fast-Forwarding to Better Deck Performance via Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-graphic-shift-xnas-next-gen-hurdle/"><u>Gaming Graphic Shift: XNA's Next-Gen Hurdle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-screen-record-on-mac-with-shortcuts-for-2024/"><u>How to Screen Record on Mac with Shortcuts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-external-input-devices-with-your-nintendo-switch-87-chars/"><u>Integrating External Input Devices with Your Nintendo Switch (87 Chars)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-credit-card-processing-three-proven-methods-for-small-businesses-according-to-zdnet-experts/"><u>Mastering Credit Card Processing: Three Proven Methods for Small Businesses According to ZDNet Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-the-challenge-youtube-touts-new-mini-games/"><u>Step Up the Challenge: YouTube Touts New Mini-Games!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-guide-why-are-my-plex-subtitles-missing-and-how-can-i-get-them/"><u>Troubleshooting Guide: Why Are My Plex Subtitles Missing and How Can I Get Them?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-screen-setup-optimal-144hz-widescreen-viewing/"><u>Ultimate Screen Setup: Optimal 144Hz Widescreen Viewing</u></a></li>
+</ul></div>
 

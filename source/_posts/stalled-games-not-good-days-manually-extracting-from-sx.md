@@ -1,7 +1,7 @@
 ---
 title: "Stalled Games, Not Good Days: Manually Extracting From SX"
-date: 2024-11-12T21:24:56.199Z
-updated: 2024-11-16T03:20:59.963Z
+date: 2024-11-22T23:43:23.682Z
+updated: 2024-11-24T18:12:24.165Z
 tags:
   - games
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manually Eject Your Xbox Disc Using the Hidden Eject Hole
 
  Having to force a disc out of your gaming console is never ideal, and manually removing a disc from your Xbox Series X is seen as a last resort by Xbox. However, doing so on Xbox Series X is relatively simple and relies on locating a hidden hole at the base of your console.
@@ -33,23 +37,24 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ![A photograph of an Xbox Series X resting on its side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/img20231106101548.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Adjacent to the disc drive and along the stand at the console's base, you should be able to see a small**Eject hole** .
 * To manually eject a stuck disc from your Xbox Series X, insert the long end of the paper clip into the**Eject hole** .
 
 ![An official image of the location of the Eject Hole on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cdbf6aa7-a452-4087-862e-41da990d5801.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://support.xbox.com/en-us/help/hardware-network/console/manually-eject-disc)
 
  After a few seconds of inserting the paper clip, the mechanism holding the disc inside your Xbox Series X should manually release, freeing your stuck disc. Even with the ability to[play old Xbox games on your Xbox Series X](https://www.makeuseof.com/how-to-play-old-xbox-games-on-xbox-series-x/) , triggering the**Eject hole** will eject any disc you insert into your console.
 
  However, while utilizing the**Eject hole** is a quick and easy solution, there are some key points surrounding manually ejecting a disc that may prevent you from relying on the**Eject hole** as a permanent solution.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Things Need to Know About Manually Ejecting an Xbox Disc
 
@@ -63,10 +68,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![A screenshot of the Home screen option to Eject a disc from an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3183.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you[send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
@@ -74,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  But even with these pointers from Xbox regarding how to avoid relying on the**Eject hole** , you can always rely on the manual method to retrieve any disc that may be stuck inside your Series X.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ensure You Can Always Retrieve Discs From Your Xbox Series X
@@ -101,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-sharing-photos-and-videos-between-android-and-iphone/"><u>[New] Sharing Photos & Videos Between Android & iPhone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-leading-you-to-8-superior-zero-cost-3d-videos-solutions/"><u>[Updated] Leading You to 8 Superior, Zero-Cost 3D Videos Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-social-media-influencers-secret-creating-captivating-facebook-biographies/"><u>[Updated] Social Media Influencers' Secret Creating Captivating Facebook Biographies</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-tools-and-gear-for-crafting-vlogs-for-2024/"><u>[Updated] Tools & Gear for Crafting Vlogs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-reasons-why-you-shouldnt-buy-an-hdr-monitor-for-pc-gaming/"><u>6 Reasons Why You Shouldn't Buy an HDR Monitor for PC Gaming</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/achieving-perfect-visibility-ideal-ps4-camera-setup-guide/"><u>Achieving Perfect Visibility: Ideal PS4 Camera Setup Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-brag-and-beat-the-odds-essential-achievement-websites/"><u>Boost, Brag & Beat The Odds: Essential Achievement Websites</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-delights-for-special-moments-via-steam/"><u>Digital Delights for Special Moments via Steam</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>In 2024, Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://games-able.techidaily.com/minecraft-map-mastery-acquiring-and-activating-adventures/"><u>Minecraft Map Mastery: Acquiring & Activating Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/questful-commuting-smart-tips-for-in-transit-gaming/"><u>Questful Commuting: Smart Tips for In-Transit Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-heat-management-kit-for-your-steam-deck/"><u>The Ultimate Heat Management Kit for Your Steam Deck</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transformer-facilement-vos-aac-en-mp3-gratuitement-sur-movavi-commencez-votre-migration-numerique/"><u>Transformer Facilement Vos AAC en MP3 Gratuitement Sur Movavi - Commencez Votre Migration Numérique !</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[New] In 2024, Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/budget-edits-8-no-charge-video-editing-software/"><u>Best Budget Edits 8 No-Charge Video Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/eco-conscious-gamers-budget-vr-choices/"><u>Eco-Conscious Gamers' Budget VR Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-experience-with-a-new-joystick/"><u>Elevate Gaming Experience with a New Joystick</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpt-as-a-source-for-credible-medical-insights-and-tips/"><u>Evaluating ChatGPT as a Source for Credible Medical Insights and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/finest-budget-friendly-whitescale-pc-parts-of-2023/"><u>Finest Budget-Friendly Whitescale PC Parts of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-ensuring-pc-component-harmony/"><u>Guide: Ensuring PC Component Harmony</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oneplus-11-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your OnePlus 11 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unveils-game-streaming-service-but-whats-the-verdict/"><u>Nvidia Unveils Game Streaming Service, But What's the Verdict?</u></a></li>
+<li><a href="https://games-able.techidaily.com/stepwise-guide-to-implementing-ps5-gamepasscode/"><u>Stepwise Guide to Implementing PS5 Gamepasscode</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X8b? | Dr.fone</u></a></li>
 </ul></div>
 

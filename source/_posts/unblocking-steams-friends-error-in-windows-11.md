@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2024-11-14T22:19:28.901Z
-updated: 2024-11-15T17:49:16.239Z
+date: 2024-11-21T08:46:59.358Z
+updated: 2024-11-24T19:46:54.675Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Steam
 
  There’s a chance you’ve run into the network unreachable error due to a temporary Steam glitch. Before going through more complicated fixes, try restarting the Steam app.
@@ -31,13 +35,14 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 
 ![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Restart Steam and check if the issue is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check Steam Friends & Chat Settings
@@ -52,6 +57,10 @@ Restart Steam and check if the issue is now fixed.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Opt Out of Steam’s Beta Participation
 
  Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the[Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/) , leading to the error. Follow these steps to disable the Steam Beta Client:
@@ -63,13 +72,6 @@ Restart Steam and check if the issue is now fixed.
 5. Select the**No beta chosen** option.
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Edit Steam’s Executable
 
@@ -84,6 +86,10 @@ Restart Steam and check if the issue is now fixed.
  To delete Steam’s cache, press**Windows key + R** to launch a Run dialog. Then, type**%appdata%** and press**Enter** . In the File Explorer window, locate and permanently delete the**Steam** folder.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
@@ -100,20 +106,6 @@ Restart Steam and check if the issue is now fixed.
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -134,20 +126,19 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-facebook-decoding-the-new-era-of-bite-sized-videos-for-2024/"><u>[New] Facebook Decoding the New Era of Bite-Sized Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-from-doodles-to-dollars-the-graphic-artists-guide-for-2024/"><u>[New] From Doodles to Dollars The Graphic Artist's Guide for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-innovation-in-action-reviewing-vidmas-new-screen-recording-features/"><u>[Updated] In 2024, Innovation in Action? Reviewing Vidma's New Screen Recording Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-every-milestone-the-complete-guide-to-steam-awards/"><u>Achieve Every Milestone: The Complete Guide to Steam Awards</u></a></li>
-<li><a href="https://games-able.techidaily.com/ascertaining-maximum-vram-for-your-device/"><u>Ascertaining Maximum VRAM for Your Device</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-eero-pro-mesh-network-test-run-optimal-coverage-across-every-room/"><u>Comprehensive Eero Pro Mesh Network Test Run - Optimal Coverage Across Every Room</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-indie-game-search-tips/"><u>Discovering Hidden Gems: Indie Game Search Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-driets-software-for-your-epson-scan-machine/"><u>Download the Latest Driets Software for Your Epson Scan Machine</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-typing-experience-on-steam-deck/"><u>Enhancing Typing Experience on Steam Deck</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-12-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi 12 5G FRP Locks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-delete-your-chatgpt-account/"><u>How to Delete Your ChatGPT Account</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-consoles-capabilities-using-a-laptop-as-monitor/"><u>Maximize Your Console's Capabilities Using a Laptop as Monitor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-generative-ai-successfully-the-7-blunders-to-dodge/"><u>Navigating Generative AI Successfully: The 7 Blunders to Dodge</u></a></li>
-<li><a href="https://games-able.techidaily.com/steering-clear-of-signal-shadows-on-your-pokemon-go-quest/"><u>Steering Clear of Signal Shadows on Your Pokémon Go Quest</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-itop-screen-recorder-essential-or-excessive/"><u>[New] 2024 Approved ITop Screen Recorder - Essential or Excessive?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unmatched-portable-experience-with-top-gba-simulators-android/"><u>[New] 2024 Approved Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-stand-out-with-custom-youtube-imagery/"><u>[New] Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[Updated] 2024 Approved Begin with Class in Every Screen Best Intro Editor App</u></a></li>
+<li><a href="https://games-able.techidaily.com/economically-savvy-gamers-guide-to-xbox-series-xs/"><u>Economically Savvy Gamers' Guide to Xbox Series X/S</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-troubleshooting-steps-when-back-4-blood-wont-start-on-pcs-with-windows-11-10-and-7/"><u>Fixing the Issue: Troubleshooting Steps When 'Back 4 Blood' Won't Start on PCs with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/heat-haze-the-dangerous-overclock-route/"><u>Heat Haze: The Dangerous Overclock Route</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-lag-solved-how-updating-your-graphic-card-drivers-can-help/"><u>Minecraft Lag Solved? How Updating Your Graphic Card Drivers Can Help</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-unconventional-gameplay-without-controllers/"><u>PlayStation 5: Unconventional Gameplay without Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-best-switch-ftp-games/"><u>Savvy Shopper's Guide: Best Switch FTP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/switching-games-with-ps5-controller-pc-connection/"><u>Switching Games with PS5 Controller - PC Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-secrets-of-steam-points-accumulation/"><u>The Secrets of Steam Points Accumulation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-resolving-samsung-ssd-drive-conflicts-within-the-windows-environment/"><u>Troubleshooting and Resolving Samsung SSD Drive Conflicts Within the Windows Environment</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-history-watching-older-facebook-content-on-your-device/"><u>Unveiling History Watching Older Facebook Content on Your Device</u></a></li>
 </ul></div>
 

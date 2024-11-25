@@ -1,7 +1,7 @@
 ---
 title: Key Steps for Reviewing Gameplay Durations on Xbox
-date: 2024-11-09T16:18:16.546Z
-updated: 2024-11-16T03:55:31.278Z
+date: 2024-11-18T22:50:44.831Z
+updated: 2024-11-25T03:48:34.459Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About the Time Played Stat on Xbox
 
  Unfortunately, before you check your play-time for an Xbox game, you might want to be aware of some key aspects of the feature. And how, despite the**Time played** statistic being a staple feature of Xbox Series X|S game settings, this specific stat can be inconsistent.
@@ -35,14 +39,11 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the Time Played statistic on Xbox Series X showcasing no time played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/001-1.jpg)
 
- So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
 ## How to Check Your Time Played From Your Xbox Series X|S
 
@@ -56,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Select the game you want to see the**Time played** stat for.
@@ -70,16 +68,13 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
@@ -98,16 +93,7 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
@@ -131,17 +117,22 @@ thumbnail: https://thmb.techidaily.com/56c9727e1647faa9df05a7ff87a2cebb670ed94ea
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-living-virtually-tips-for-an-active-facebook-presence/"><u>[New] Living Virtually Tips for an Active Facebook Presence</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-revolutionary-content-your-path-to-100k-views/"><u>[New] Revolutionary Content Your Path to 100K Views</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-fortified-process-for-adding-tiktok-profile-hyperlinks-for-2024/"><u>[Updated] Fortified Process for Adding TikTok Profile Hyperlinks for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/20-fast-and-quick-mobile-games-to-kill-time-on-android-and-iphone/"><u>20 Fast and Quick Mobile Games to Kill Time on Android and iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/bg3-hw-specs-and-game-store-details/"><u>BG3 HW Specs & Game Store Details</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-7-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 7 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-lost-games-to-clean-start-ps4-recovery/"><u>From Lost Games to Clean Start: PS4 Recovery</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-agni-2-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Agni 2 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-coding-redemption-xbox-edition/"><u>Master the Art of Coding Redemption: Xbox Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862867782-maxsun-unveils-intel-and-amds-latest-gear-an-extensive-selection-of-31-high-performance-chipsets-meet-the-future/"><u>Maxsun Unveils Intel and AMD's Latest Gear: An Extensive Selection of 31 High-Performance Chipsets - Meet the Future!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-6-critical-issues-affecting-your-kindle-fire-experience/"><u>Unveiling the Top 6 Critical Issues Affecting Your Kindle Fire Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-breaks-inertia-revamps-shared-gaming-on-steam/"><u>Valve Breaks Inertia: Revamps Shared Gaming on Steam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-future-of-storage-top-picks-and-prices-in-clouds/"><u>[Updated] Future of Storage Top Picks and Prices in Clouds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unique-video-monikers-brainstorming-insights/"><u>[Updated] In 2024, Unique Video Monikers Brainstorming Insights</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-troubleshooting-tips-when-your-logitech-mouse-fails-to-work-on-windows-10/"><u>Common Troubleshooting Tips When Your Logitech Mouse Fails to Work on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-caddys-ultimate-9-tips-for-mobility-in-games/"><u>Console Caddy's Ultimate 9 Tips for Mobility in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/decode-the-language-labyrinth-with-nyts-latest-puzzle-thriller-strands/"><u>Decode the Language Labyrinth with NYT's Latest Puzzle Thriller - 'Strands'</u></a></li>
+<li><a href="https://games-able.techidaily.com/expand-horizons-with-dual-booting-windows-and-ossteamos/"><u>Expand Horizons with Dual Booting - Windows & OS/SteamOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/framerate-facts-seeing-through-30fps-illusions/"><u>Framerate Facts: Seeing Through 30FPS Illusions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-latest-epson-gt-s50-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Free Download: Latest Epson GT-S50 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-overturning-a-wrongful-fortnite-order/"><u>Guide to Overturning a Wrongful Fortnite Order</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-shadowplays-video-capture-problem-in-windows-a-step-by-step-guide/"><u>How to Overcome Shadowplay's Video Capture Problem in Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-prime-photo-enhancements-at-no-charge-15-to-check-out-today/"><u>In 2024, Prime Photo Enhancements at No Charge #15 to Check Out Today</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-10-best-meme-templates/"><u>In 2024, Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://games-able.techidaily.com/personalizing-variable-refresh-rate-on-your-xbox-console/"><u>Personalizing Variable Refresh Rate on Your Xbox Console</u></a></li>
+<li><a href="https://win11.techidaily.com/resizing-desktop-picture-summaries-in-win11/"><u>Resizing Desktop Picture Summaries in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-playtime-select-20-mobile-games-to-enjoy-on-android-and-iphone/"><u>Swift Playtime: Select 20 Mobile Games to Enjoy on Android and iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-9-best-emulators-for-the-steam-deck/"><u>The 9 Best Emulators for the Steam Deck</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-pixel-perfect-grids-elevate-your-vision/"><u>Ultimate Pixel Perfect Grids Elevate Your Vision</u></a></li>
 </ul></div>
 

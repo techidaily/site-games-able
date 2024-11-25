@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Indulgences: EA Play on PS5"
-date: 2024-11-08T21:38:40.988Z
-updated: 2024-11-15T18:57:07.320Z
+date: 2024-11-19T01:31:06.534Z
+updated: 2024-11-25T04:44:03.778Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. It Takes Two
 
  It Takes Two is an award-winning thrilling local cooperative platformer game by Hazelight Studios. The story follows Cody and May, a husband and wife at the cusp of a divorce, who both get transformed into dolls by a sentient relationship book called Dr. Hakim.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Two players must get the tiny characters from the garden shed to their house. They must avoid, maneuver, and overcome obstacles together as they journey to save their marriage. Many reviewers have described this game as genre-bending, and it’s one of the most refreshing games of its decade.
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. FIFA 23
 
@@ -39,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. The Sims 4
 
  Thanks to EA Play, you can[get the Sims 4 free of charge](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) . It’s a relatively old game, released in 2014, but it remains evergreen thanks to its timeless style and all the infinite possibilities and playstyles you can have in it. The Sims 4 is one of the best life simulation games, with options that let you create a Sims dynasty and family line that can go on for as long as you have time to play.
@@ -53,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Additionally, one of the most understated things about The Sims 4 is its architecture and interior decor possibilities. If you don’t mind fiddling about columns and carpets using a joystick instead of a mouse, then The Sims 4 on a PS5 might be a good treat for you. And if you really dislike joystick simulation games, you can also[connect a keyboard and mouse to your PS5](https://www.makeuseof.com/how-to-use-keyboard-mouse-ps5/) .
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Need for Speed Heat
 
@@ -62,19 +67,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
@@ -82,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
@@ -97,16 +86,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. UFC 3
@@ -138,20 +118,14 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-windowgrabber-3d-top-choice/"><u>[New] In 2024, WindowGrabber 3D - Top Choice</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-knockout-kings-vs-viewership-titans-for-2024/"><u>[New] Knockout Kings Vs. Viewership Titans for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-youtube-shorts-music-things-you-need-to-know/"><u>[Updated] YouTube Shorts Music - Things You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-beginners-roadmap-to-mastering-openais-revolutionary-chatgpt-tool/"><u>A Beginner's Roadmap to Mastering OpenAI's Revolutionary ChatGPT Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-asus-tuf-proart-and-prime-pc-brands-unveiled/"><u>Comparing Asus, Tuf, ProArt & Prime: PC Brands Unveiled</u></a></li>
-<li><a href="https://win-great.techidaily.com/guia-paso-a-paso-clonacion-gratuita-de-unidades-externas-mediante-software-para-windows/"><u>Guía Paso a Paso: Clonación Gratuita De Unidades Externas Mediante Software Para Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-razr-40-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Razr 40 Ultra phone? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-enhance-tweet-management-the-most-effective-apps-for-tweets/"><u>In 2024, Enhance Tweet Management The Most Effective Apps for Tweets</u></a></li>
-<li><a href="https://games-able.techidaily.com/mending-steam-library-linking-issues/"><u>Mending Steam Library Linking Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-graphics-feature-amds-fsr-3-dlss-35-on-trial/"><u>New Graphics Feature, AMD's FSR 3: DLSS 3.5 on Trial?</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimized-network-interfaces-a-gamers-dream/"><u>Optimized Network Interfaces: A Gamer's Dream</u></a></li>
-<li><a href="https://games-able.techidaily.com/resetting-ps5s-video-game-licenses/"><u>Resetting PS5's Video Game Licenses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-text-entry-integrating-bing-ai-on-android-devices/"><u>Revolutionize Text Entry: Integrating Bing AI on Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-potential-boosting-valorants-frame-rates-on-pc-platform/"><u>Unleashing Potential: Boosting Valorant's Frame Rates on PC Platform</u></a></li>
-<li><a href="https://network-issues.techidaily.com/windows-10-black-screen-after-fall-creators-update-solved/"><u>Windows 10 Black Screen After Fall Creators Update [Solved]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-strategic-pricing-analysis-cloud-services-financial-face/"><u>[New] 2024 Approved Strategic Pricing Analysis Cloud Services' Financial Face</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots/"><u>[New] Streamlining Your Viewing Experience 6 Effective Mac Strategies for Netflix Screenshots</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-titanfall-2-keeps-crashing-quickly-and-easily/"><u>[Solved] Titanfall 2 Keeps Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reignite-your-consoles-zest-with-these-tips/"><u>Reignite Your Console's Zest with These Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1180513-9781615644285-the-complete-idiots-guide-to-psychic-intuition-3rd-edition/"><u>The Complete Idiot's Guide to Psychic Intuition, 3rd Edition | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-non-conformists-guide-to-mastering-nycs-social-networks/"><u>The Non-Conformist’s Guide to Mastering NYC's Social Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-game-pass-unveiled-the-lowdown/"><u>Xbox Game Pass Unveiled: The Lowdown</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-revolutionizing-gaming-through-cloud-technology/"><u>Xbox: Revolutionizing Gaming Through Cloud Technology</u></a></li>
 </ul></div>
 

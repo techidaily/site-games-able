@@ -1,7 +1,7 @@
 ---
 title: What Constitutes Idle Participation on Discord?
-date: 2024-09-09T09:33:59.582Z
-updated: 2024-09-10T09:33:59.582Z
+date: 2024-11-23T04:40:17.714Z
+updated: 2024-11-24T18:39:11.469Z
 tags:
   - games
 categories:
@@ -12,20 +12,12 @@ keywords: Discord Idle Behavior,Ignoring in Chats,Passive Online Engagement,Inac
 thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363e3c55cf994eda041a9cd465.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Constitutes Idle Participation on Discord?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Does Idle Mean on Discord?](#what-does-idle-mean-on-discord)
@@ -33,11 +25,9 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 * [Is the Discord Idle Status Always Accurate?](#is-the-discord-idle-status-always-accurate)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Being idle on Discord can mean that the person has been inactive on their computer for 10 minutes, they have minimized the smartphone app, or they have manually set their status to idle.
@@ -47,21 +37,13 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
  When you see that someone is "idle" on Discord, what does it mean? Are they available for a chat or are they away from their desk? Here's everything you need to know about the idle status on Discord and whether it's accurate.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Idle Mean on Discord?
 
 ![discord online and idle statuses in friends list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/discord-online-and-idle-statuses-in-friends-list.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Being idle on Discord means one of three things: the person has not interacted with their computer for 10 minutes, the person has minimized the app on their smartphone, or they have manually selected the idle status.
 
  These different reasons behind the idle status are why some friends will appear to always be idle, while some only have the status intermittently.
@@ -76,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/edd57a156bbf7df4d7711f42029b2540d33e03363
 
  If you manually select the idle status, you will remain idle regardless of whether you message someone or use the app in other ways. In fact, you can even be actively talking or streaming in a voice channel and the app will continue to show you as idle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Switch Your Discord Status to Idle
 
  There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
@@ -89,11 +75,9 @@ Close
  If you're using the mobile app, select the**You** tab at the bottom of the app. Then tap on your**profile picture** and select**Idle** . Discord will switch your status immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is the Discord Idle Status Always Accurate?
 
  Since you can manually set your status to Idle on Discord, and this status doesn't go away once you return to your desk, it's not always accurate. Someone could be online and still marked as idle.
@@ -104,14 +88,11 @@ Close
 
  If someone is marked as idle on Discord, you might not get a response right away—it all depends on whether they're really away from their device or if they have marked the status manually.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +101,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-brief-guide-to-kickstarting-conversations-on-instagram-for-2024/"><u>[Updated] A Brief Guide to Kickstarting Conversations on Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-deep-dive-into-dynamic-game-environments/"><u>A Deep Dive Into Dynamic Game Environments</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-quick-guide-to-palworlds-core/"><u>A Quick Guide to PalWorld's Core</u></a></li>
+<li><a href="https://games-able.techidaily.com/aim-and-accuracy-boosted-by-the-ideal-mouse-setting/"><u>Aim and Accuracy Boosted by the Ideal Mouse Setting</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-mac-devices-changing-gamers-landscape/"><u>Are Mac Devices Changing Gamers’ Landscape?</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-game-hits-without-an-internet-connection-ios/"><u>Best Game Hits Without an Internet Connection (iOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171243140-chatgpt-now-available-dive-into-these-6-games/"><u>ChatGPT Now Available - Dive Into These 6 Games!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nubia-red-magic-9-proplus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nubia Red Magic 9 Pro+ Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-9a-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 9A If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-complete-tutorial-on-audible-integration-into-video-editing-using-magix/"><u>New The Complete Tutorial on Audible Integration Into Video Editing Using Magix</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/server-201-ssdhdd/"><u>Server 201# 磁盘移植到 SSD/HDD:详解与步骤指南</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168178529-top-4-ios-game-boy-advance-portals-to-classic-worlds/"><u>Top 4 iOS Game Boy Advance Portals to Classic Worlds!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/unlock-advanced-web-application-potential-with-vue-white-dashboard-pro-for-laravel-expert-synergy-of-vue-framework-laravel-backend-and-json-api-from-creativ4/"><u>Unlock Advanced Web Application Potential with Vue White Dashboard PRO for Laravel: Expert Synergy of Vue Framework, Laravel Backend & JSON API From Creative Tim</u></a></li>
+</ul></div>
 

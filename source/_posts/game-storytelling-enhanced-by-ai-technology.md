@@ -1,7 +1,7 @@
 ---
 title: Game Storytelling Enhanced by AI Technology
-date: 2024-11-09T22:06:38.582Z
-updated: 2024-11-16T03:54:36.308Z
+date: 2024-11-17T20:01:19.347Z
+updated: 2024-11-25T03:42:47.899Z
 tags:
   - games
 categories:
@@ -33,15 +33,16 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  If you want to simplify dialogues in bulk, you can insert the whole dialogue tree into the prompt as well. If you run into the[ChatGPT character input limit, there are ways to bypass it](https://www.makeuseof.com/what-is-chatgpt-character-input-limit/) . Just be sure to put the dialogues in quotation marks, so the chatbot can easily recognize them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Give the NPCs Some Character
 
 ![chatgpt roleplaying as npc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-roleplay.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Role-play as a \[NPC character name and world setting\]. \[Provide some character history and background.\]"
@@ -53,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 ## 3\. Convey Character by Adding Emotion
 
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
 
@@ -76,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![chatgpt side quest ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-side-quest.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 > **Prompt inspiration** : "Give me side quest ideas for a \[Insert game type\] game set in a world with \[Insert game setting and lore\]. Be sure to include a reference to a video game where the side quest idea has been used."
 
  ChatGPT can help you brainstorm interesting questlines that players will love. Ask the AI chatbot to generate different kinds of quests for you to potentially use in your video game script. You can also provide side quest ideas that you really liked in a certain video game for ChatGPT to take inspiration from.
@@ -90,28 +88,22 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
  Or, you could request the chatbot to provide you with quest examples from other video games. You can then judge how well these types of quests worked for the game in question before incorporating them in your own script.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Write Barks
 
 ![chatgpt generating barks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-barks.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 > **Prompt inspiration** : "Give me a list of barks for a \[Insert character type\] commenting on the player's \[Insert situation for which you need the bark\]."
 
  Barks in video games can often get repetitive and boring for players to hear again and again. And they're even more monotonous to pen down. But you can instantly set your video game apart from other titles by generating interesting barks that provide valuable information to the player.
 
  Thankfully, ChatGPT can help with this. All you need to do is provide the AI with the situation in which the bark is to be used and which character is going to say it. Then, the AI can generate a long list of barks for you to take inspiration from.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Your Video Game Scripts More Engaging With ChatGPT
 
@@ -134,17 +126,16 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-taming-the-audio-in-your-canva-videos-step-by-step/"><u>[Updated] 2024 Approved Taming the Audio in Your Canva Videos Step by Step</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-no-8-advanced-online-photographic-merge-suite/"><u>[Updated] In 2024, No. 8 Advanced Online Photographic Merge Suite</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-to-blur-background-of-your-youtube-video-2-easy-ways-for-2024/"><u>How to Blur Background of Your YouTube Video - 2 Easy Ways for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-mini-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 mini If Youve Tried Everything</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-se-2022-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone SE (2022)? Complete Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/post-shortage-whats-next-for-ps5-retail-costs/"><u>Post-Shortage, What's Next for PS5 Retail Costs?</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-your-control-over-noncooperative-steam-software/"><u>Reclaim Your Control Over Noncooperative Steam Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/say-goodbye-to-freezing-frustrations-with-epics-launcher-fixes/"><u>Say Goodbye to Freezing Frustrations with Epic's Launcher Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-pc-gaming-setup-with-basilisk-v3-pro/"><u>The Ultimate PC Gaming Setup with Basilisk V3 Pro</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/titel-was-sie-uber-die-verschiedenen-dvd-bildauflosungen-wissen-mussen-faqs-aufgelost/"><u>Titel: Was Sie Über Die Verschiedenen DVD-Bildauflösungen Wissen Müssen - FAQs Aufgelöst</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-gadgets-unveiled-ifa-2023-edition/"><u>Top Gadgets Unveiled - IFA 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-hacks-averted-restore-your-facebook-account-safely/"><u>[Updated] Hacks Averted! Restore Your Facebook Account Safely</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] In 2024, Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-your-own-soccer-saga-old-championship-manager-on-pc-for-zero-dollars/"><u>Control Your Own Soccer Saga: Old Championship Manager on PC for ZERO Dollars</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-twitch-features-through-prime-membership/"><u>Discover Twitch Features Through Prime Membership</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/expert-level-bootstrap-pro-ui-framework-for-vue-developers-ultimate-admin-template-by-creative-tim/"><u>Expert-Level Bootstrap PRO UI Framework for Vue Developers - Ultimate Admin Template by Creative Tim</u></a></li>
+<li><a href="https://win-special.techidaily.com/guide-expert-pour-restaurer-des-photographies-supprimees-sur-les-modeles-fujifilm/"><u>Guide Expert Pour Restaurer Des Photographies Supprimées Sur Les Modèles Fujifilm</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-10-deals-playstations-midsummer-madness/"><u>Hot 10 Deals: PlayStation's Midsummer Madness</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-multitasking-media-expertise-in-using-picture-in-picture-for-2024/"><u>Navigating Multitasking Media Expertise in Using Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-artificial-intelligence-in-dlss-update-35/"><u>Nvidia's Artificial Intelligence in DLSS Update 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ten-hilarious-word-puzzles-that-break-the-ice-in-chats/"><u>Ten Hilarious Word Puzzles That Break The Ice in Chats</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/to-embrace-or-not-the-sonoma-os-dilemma/"><u>To Embrace or Not: The Sonoma OS Dilemma</u></a></li>
 </ul></div>
 

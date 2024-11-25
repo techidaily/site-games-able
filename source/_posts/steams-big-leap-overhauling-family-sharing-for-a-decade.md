@@ -1,7 +1,7 @@
 ---
 title: "Steam's Big Leap: Overhauling Family Sharing for a Decade"
-date: 2024-11-14T17:13:04.124Z
-updated: 2024-11-16T00:58:02.129Z
+date: 2024-11-21T00:00:53.767Z
+updated: 2024-11-24T20:49:51.477Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
@@ -61,37 +62,28 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -130,22 +122,20 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-excellent-zooid-formats-for-creation/"><u>[New] Excellent Zooid Formats for Creation</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-most-liked-prime-videos-amongst-twittersphere/"><u>[New] In 2024, Most Liked Prime Videos Amongst Twittersphere</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint/"><u>[Updated] 2024 Approved The Ultimate Guide to Speaking & Visualizing in PowerPoint</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-social-media-for-vimeo-sharing/"><u>[Updated] Optimizing Social Media for Vimeo Sharing</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/beware-of-fake-norton-360-reimbursement-offers-by-malwarefox-stay-protected-online/"><u>Beware of Fake Norton 360 Reimbursement Offers by MalwareFox - Stay Protected Online!</u></a></li>
-<li><a href="https://games-able.techidaily.com/building-better-games-through-model-efficiency/"><u>Building Better Games Through Model Efficiency</u></a></li>
-<li><a href="https://games-able.techidaily.com/green-playtime-top-8-eco-conscious-ar-games/"><u>Green Playtime: Top 8 Eco-Conscious AR Games</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-filmmaking-essentials-plus-invaluable-substitutes/"><u>In 2024, YouTube's Filmmaking Essentials + Invaluable Substitutes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/peak-interactive-webcam-fun-fests/"><u>Peak Interactive Webcam Fun Fests</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-quests-conquerors-companions/"><u>Prime Quests: Conquerors’ Companions</u></a></li>
-<li><a href="https://games-able.techidaily.com/quietude-in-action-optimizing-audio-for-serious-gamers/"><u>Quietude in Action: Optimizing Audio for Serious Gamers</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/snapchats-own-creativity-lab-inspire-over-a-hundred-private-stories-with-original-titles/"><u>Snapchat's Own Creativity Lab Inspire over a Hundred Private Stories with Original Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-playlist-for-exceptional-ps5-fun/"><u>The Ultimate Playlist for Exceptional PS5 Fun</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ranked-8-light-emulators-for-playing-android-titles/"><u>Top-Ranked 8 Light Emulators for Playing Android Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-a-shift-in-strategy-is-crucial-for-microsofts-xbox-point-program/"><u>Why a Shift in Strategy Is Crucial for Microsoft's Xbox Point Program</u></a></li>
-<li><a href="https://games-able.techidaily.com/youtube-games-take-on-a-new-dimension-with-cutting-edge-mini-challenges/"><u>YouTube Games Take on a New Dimension with Cutting-Edge Mini Challenges</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[New] 2024 Approved How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-a-captivated-audience-with-strategic-voiceovers/"><u>[New] Crafting a Captivated Audience with Strategic Voiceovers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-angle-adjustments-the-instagram-guide-for-perfecting-photo-flips/"><u>[New] In 2024, Angle Adjustments The Instagram Guide for Perfecting Photo Flips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-sound-system-advances-announced/"><u>[New] Sound System Advances Announced</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-eco-conscious-cinematography-setups-guide-for-2024/"><u>[New] Ultimate Eco-Conscious Cinematography Setups Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/2023s-tech-showcase-pioneering-games-devices/"><u>2023'S Tech Showcase: Pioneering Games Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xs-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/30-second-color-fixes-for-aspiring-photo-pros/"><u>30-Second Color Fixes for Aspiring Photo Pros</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-innovative-terminal-games-for-linux-aficionados/"><u>7 Innovative Terminal Games for Linux Aficionados</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-guide-to-quieter-xbox-gaming-bliss/"><u>A Guide to Quieter Xbox Gaming Bliss</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-shift-of-focus-7-compelling-arguments-against-ray-tracing/"><u>A Shift of Focus: 7 Compelling Arguments Against Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-acemagics-games-validated-by-am08-pro/"><u>Are AceMagic's Games, Validated by AM08 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-gaming-services-psplus-vs-xbox-game-pass/"><u>Battle of Gaming Services: PS+ vs Xbox Game Pass</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defrosting-techniques-for-a-seamlessly-running-computer-machine/"><u>Defrosting Techniques for a Seamlessly Running Computer Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-realme-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Realme</u></a></li>
 </ul></div>
 

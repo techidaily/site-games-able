@@ -1,7 +1,7 @@
 ---
 title: Value of MTs in High-End Gaming Titles
-date: 2024-09-09T09:33:58.972Z
-updated: 2024-09-10T09:33:58.972Z
+date: 2024-11-17T17:36:23.923Z
+updated: 2024-11-25T01:31:34.901Z
 tags:
   - games
 categories:
@@ -14,18 +14,16 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 
 ## Value of MTs in High-End Gaming Titles
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
 * [Why Microtransactions Are Appearing in Premium Games](#why-microtransactions-are-appearing-in-premium-games)
 * [Are Microtransactions Good for the Gaming Industry?](#are-microtransactions-good-for-the-gaming-industry)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microtransactions stem from the desire for more profits and have become common in both free and premium games.
@@ -59,11 +57,9 @@ But what about premium games? Should they have microtransactions?
 ![Elder Scrolls Obvlivion gold horse armor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/elder-scrolls-obvlivion-gold-horse-armor.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, it didn’t start today; we can see signs of this as far back as 2006\. The most infamous early example was Horse Armor in The Elder Scrolls: Oblivion (2006). Horse Armor was a $2.50 DLC package Microsoft and Bethesda added to the Xbox 360 release of the game.
 
  The DLC caused a lot of uproar on the internet and became something of a meme representing video game features that are useless and overpriced. However, reports indicate that the DLC was still a huge financial success.
@@ -73,11 +69,9 @@ But what about premium games? Should they have microtransactions?
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -95,21 +89,13 @@ But what about premium games? Should they have microtransactions?
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
  Battle passes in games like these use fear of missing out and other psychological tricks to make you purchase them. It’s basically like Horse Armor all over again since you’re paying for skins and cosmetics, which only you will see.
@@ -129,11 +115,9 @@ But what about premium games? Should they have microtransactions?
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
 
  More recent premium games, such as Diablo IV and Dragon's Dogma 2, have also received criticism for their use of microtransactions.
@@ -142,14 +126,11 @@ But what about premium games? Should they have microtransactions?
 
  This is proof that it’s not necessary, and the companies behind these games can still make good money without tainting the sanctity of their craft. Hopefully, we will see a reduction in this trend in the future, but for now, we can only discourage it by not indulging.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +139,23 @@ But what about premium games? Should they have microtransactions?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-expanding-your-instagram-audience-step-by-step/"><u>[New] Expanding Your Instagram Audience Step-by-Step</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-title-tag-and-description-mastery-for-youtube-success/"><u>[New] Title, Tag & Description Mastery for YouTube Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-activision-blizzard-games-microsoft-should-revive/"><u>7 Activision Blizzard Games Microsoft Should Revive</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-unauthorized-card-error-messages-in-ps5/"><u>Addressing Unauthorized Card Error Messages in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171377590-avoid-stability-issues-install-updated-nvidia-graphics-driver-today/"><u>Avoid Stability Issues - Install Updated Nvidia Graphics Driver Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/decoding-vivacut-video-editing-essentials/"><u>Decoding VivaCut Video Editing Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169904091-digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-background-cleanse-using-picsart/"><u>Effortless Background Cleanse Using Picsart</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/exploring-the-samsung-galaxy-tab-s6-in-depth-analysis-of-s-pen-features-and-dex-mode-capabilities/"><u>Exploring the Samsung Galaxy Tab S6: In-Depth Analysis of S Pen Features & Dex Mode Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172752956-game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-13-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your Apple iPhone 13?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-proven-strategies-to-amplify-zoomed-participants-in-google-meet/"><u>In 2024, Proven Strategies to Amplify Zoomed Participants in Google Meet</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168257558-step-into-the-fun-zone-engage-with-these-6-chatgpt-games/"><u>Step Into the Fun Zone: Engage With These 6 ChatGPT Games</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-y100a-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y100A Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-skills-essential-insights-unveiled-for-2024/"><u>YouTube Skills Essential Insights Unveiled for 2024</u></a></li>
+</ul></div>
 

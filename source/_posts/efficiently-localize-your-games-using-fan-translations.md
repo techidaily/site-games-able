@@ -1,7 +1,7 @@
 ---
 title: Efficiently Localize Your Games Using Fan Translations
-date: 2024-11-09T20:51:24.683Z
-updated: 2024-11-15T23:35:11.988Z
+date: 2024-11-23T09:24:17.794Z
+updated: 2024-11-25T13:51:02.385Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You’ll Need to Apply a Fan Translation Patch
 
  Before you download a fan translation patch, get an emulator. There are plenty of[fantastic emulators to play classic games on your Android phone or tablet](https://www.makeuseof.com/tag/best-game-emulators-for-android/) , like the Sega Genesis/Mega Drive game I'm using in the example later. If you prefer a standalone unit for retro gaming, consider[building a portable retro gaming console via Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) and putting your emulator on that.
@@ -30,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
  Got the emulator? The next thing you need is a ROM file to play the game you want to translate. It's important you ensure that you use copies of games you own. This way, you guarantee you use ROMs correctly and legally.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Working Emulator and ROM File
@@ -42,22 +43,12 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of the Fusion emulator directory on File Explorer highlighting a Roms folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2686-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While every emulator is different, you can test your ROM files in roughly the same way. Open your emulator, then select**File > Load ROM** . Choose the ROM file saved in the**ROMS** folder of your emulator's directory.
 
  In most cases, the ROM file should load, letting you play the game (albeit in an untranslated state). If the ROM does not load, obtain another copy of the ROM file or confirm the ROM file currently works with the emulator you have chosen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Translation Patch File
@@ -67,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 [Romhacking](https://www.romhacking.net/translations) has a library of translations (and a whole heck of a lot more) available for games of all generations. And there happens to be a “Fully Playable” English translation of Panorama Cotton available to download. Select**Download** under**Links** to download the translation patch file.
 
 ![Panorama Cotton English translation patch page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/romhacking-panorama-cotton-translation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some patch files are .zip or .7zip files. Ensure you have the appropriate software/app installed on your device, so you can open the file and drop it into its appropriate folder.
 
@@ -86,20 +81,11 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ![A screenshot of Rom Patcher JS with a loaded Rom File and Patch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/panorama-cotton-english-translation-file-in-folder-2.jpg)
 
- Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
-
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now it’s time to test out the new ROM file. Load the new ROM file in your emulator as normal. Did it work? In this example, yes! Take a look at the side-by-side comparison of the newly patched ROM file (left) and the original ROM file (right) in action!
 
 ## Patch Your Favorite Classic Games in a Few Simple Steps
 
@@ -120,24 +106,21 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevate-spirits-a-list-of-10-motivating-films/"><u>[New] In 2024, Elevate Spirits A List of 10 Motivating Films</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-skyrocket-your-streaming-status-three-winning-techniques-for-newbies/"><u>[Updated] Skyrocket Your Streaming Status Three Winning Techniques for Newbies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-upgrading-zoom-video-fidelity-a-comprehensive-guide-for-2024/"><u>[Updated] Upgrading Zoom Video Fidelity A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-pixelsplayzone-monitor-27m2v/"><u>Affordable PixelsPlayzone Monitor, 27M2V</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/az-video-grabber-in-depth-app-analysis-and-diversions/"><u>AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-platform-play-android-gaming-on-linux/"><u>Cross-Platform Play: Android Gaming on Linux</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-gaming-fallout-counterparts-await/"><u>Dive Into Gaming: Fallout Counterparts Await!</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-windows-1011-writable-device-stall-0x887a0006/"><u>Eliminating Windows 10/11' Writable Device Stall (0X887A0006)</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-list-celebrating-the-best-8-gaming-sites/"><u>Essential List: Celebrating the Best 8 Gaming Sites</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-minecraft-launcher-error-0x803f8001-on-windows-devices/"><u>Fixing Minecraft Launcher Error 0X803F8001 on Windows Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-connect-ps5-wireless-controllers-on-phone/"><u>Guide: Connect PS5 Wireless Controllers on Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-edge-40-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Edge 40?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-agni-2-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Agni 2 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-15-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 15 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-nubia-z60-ultrafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Nubia Z60 UltraFRP Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-graphics-power-the-secrets-of-amds-xt-series/"><u>Mastering Graphics Power: The Secrets of AMD's XT Series</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/roadwise-insight-assessing-the-capabilities-of-the-anker-roav-dashcam-c1-model/"><u>Roadwise Insight: Assessing the Capabilities of the Anker Roav DashCam C1 Model</u></a></li>
-<li><a href="https://games-able.techidaily.com/transition-to-global-gaming-set-time-regionally/"><u>Transition to Global Gaming: Set Time Regionally</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-cinema-chronicles-the-quintessential-cinematographic-tips-for-24/"><u>[New] In 2024, Cinema Chronicles The Quintessential Cinematographic Tips for '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-breaking-free-from-virtual-reality-discomfort/"><u>[Updated] Breaking Free From Virtual Reality Discomfort</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlock-free-power-learn-to-edit-videos-on-vimeo/"><u>2024 Approved Unlock FREE Power Learn to Edit Videos on Vimeo</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-android-photo-editor-is-pickup-top-in-2024/"><u>Best Android Photo Editor Is PickUp Top, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-breakthrough-techniques-for-online-audio-archiving-and-editing/"><u>In 2024, Breakthrough Techniques for Online Audio Archiving & Editing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y100-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y100 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/making-sense-of-ai-an-accessible-introduction-for-all/"><u>Making Sense of AI: An Accessible Introduction for All</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-high-end-xbox-streaming-kits/"><u>Peak Performance: High-End Xbox Streaming Kits</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-gaming-experience-why-i-opt-for-apple-arcade/"><u>Seamless Gaming Experience: Why I Opt for Apple Arcade</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-0x80070194-winos-onedrive-fixes/"><u>Tackling the 0X80070194: WinOS OneDrive Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-afterlife-of-discontinued-ps-plus-games/"><u>The Afterlife of Discontinued PS Plus Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-restoring-ps5-internet-connection/"><u>The Ultimate Guide to Restoring PS5 Internet Connection</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformar-seus-arquivos-pcx-facilmente-e-gratuitamente-com-a-ferramenta-on-line-do-movavi/"><u>Transformar Seus Arquivos PCX Fácilmente E Gratuitamente Com a Ferramenta On-Line Do Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/under-500-high-performance-innocn-display/"><u>Under $500: High-Performance InnoCN Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-how-playstation-5-handles-previous-titles/"><u>Understanding How PlayStation 5 Handles Previous Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-switchs-online-potential/"><u>Unlock Your Switch's Online Potential</u></a></li>
 </ul></div>
 

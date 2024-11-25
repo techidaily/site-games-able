@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Game Controls: Xbox Controller for PC Connection (147 Chars)"
-date: 2024-09-09T09:37:42.977Z
-updated: 2024-09-10T09:37:42.977Z
+date: 2024-11-20T12:03:19.284Z
+updated: 2024-11-25T03:42:34.773Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: Xbox Console PC Control,PC Xbox Controller Link,Xbox USB Controller PC
 thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking Game Controls: Xbox Controller for PC Connection (147 Chars)
 
  Wondering how to connect an Xbox controller to your PC? While using a keyboard and mouse is superior for many video game genres, other types of games work better with a controller.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  There are three ways to pair an Xbox controller to your PC. We'll cover each method in turn.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Connect Your Xbox Controller to PC via USB Cable
 
  The most straightforward way to connect your Xbox controller and PC is with a micro-USB cable (for Xbox One controllers) or a USB-C cable (for Series X|S controllers). Simply plug the slim end into your Xbox controller and the other end into a USB port on your PC. Hit the**Xbox button** to turn the controller on, if it doesn't do so on its own.
@@ -39,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![Connect Xbox One Controller to PC Wired](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/11/Connect-Xbox-One-Controller-to-PC-Wired.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit: Xbox Support
 
  On Windows 10 and Windows 11, your computer should recognize the controller instantly. On earlier versions of Windows, the OS should automatically download drivers and your controller will be ready in a few moments.
@@ -55,11 +45,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  If you have trouble, make sure you're using a high-quality cable. Some USB-C cables only charge and don't support data transfer, so you might need to purchase another cable that supports all functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Connect an Xbox Controller to PC Using Bluetooth
 
 [If your PC has Bluetooth](https://www.makeuseof.com/does-computer-have-bluetooth/) , this is a convenient way of connecting your Xbox controller and PC wirelessly. However, to use it with an Xbox One controller, you must have the later model; see the image below for an illustration of the differences.
@@ -69,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  All Xbox Series X|S controllers support Bluetooth. You'll know your controller is a Series X|S model if it has the**Share** button in the middle of the controller.
 
 ![Xbox One controller model comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Xbox-Controller-Comparison.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Xbox Support  
   
@@ -81,11 +73,9 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  Remember that the batteries in your Xbox controller will drain when using it wirelessly. To save money on batteries, we recommend picking up the[Xbox One Play and Charge Kit](https://www.amazon.com/Xbox-One-Play-Charge-Kit/dp/B00DBDPOZ4?th=1&psc=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=141e39c0797a1d7786bbe752350e72cf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Xbox One controllers) or the[Xbox Rechargeable Battery](https://www.amazon.com/Xbox-Rechargeable-Battery-USB-C%C2%AE-Cable-one/dp/B08DFB4889?crid=2M3PAHF8MA3Y4&dchild=1&keywords=series%2Bx%2Bplay%2Band%2Bcharge%2Bkit&qid=1616106289&sprefix=series%2Bx%2Bplay%2Caps%2C168&sr=8-2&th=1&linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=7d0bf187ffc186ab3a95d34957c4f9bf&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) (Series X|S controllers) to give your controller recharging capabilities. You can easily plug your controller into your PC when you're not using it, so it will always be ready for your next session.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use the Xbox Wireless Adapter to Pair Your Xbox One Controller to a PC
 
  Microsoft has a standard called**Xbox Wireless** that's built into a few computers, though it's likely not part of yours. So to sync your Xbox controller and PC wirelessly without Bluetooth, you'll need to buy the[Xbox Wireless Adapter](https://www.amazon.com/Microsoft-Xbox-Wireless-Adapter-Windows-one/dp/B00ZB7W4QU?linkCode=ll1&tag=muo-v2-pagvhls-20&linkId=4652892b504e435c77bf3a3d5f0b6779&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU26753&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Ftag%2Fconnect-xbox-one-controller-pc%2F&asc%5Fcampaign=Evergreen) .
@@ -112,32 +102,17 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  Finally, remember that you can turn off your Xbox controller (when it's not connected to a PC or console with a cable) by holding the**Xbox** button for around five seconds. When the light on this button goes out, your controller is off.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connect an Xbox Controller to Your PC Easily
 
  You have plenty of options for connecting an Xbox One or Xbox Series X|S controller to your PC. Whether you want to connect with a USB cable for the simplest option or prefer to connect wirelessly with Bluetooth, now you understand the available methods.
 
  Meanwhile, a Windows PC isn't the only device you can connect an Xbox controller to.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +121,21 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-steps-to-prevent-unplanned-recordings-in-qt/"><u>[New] 2024 Approved Steps to Prevent Unplanned Recordings in QT</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-sourcebook-on-valheim-farming-techniques/"><u>[New] In 2024, The Ultimate Sourcebook on Valheim Farming Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-thumbnail-artistry-for-engaging-youtube-channels/"><u>2024 Approved Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-gaming-trends-why-not-fall-for-ray-tracing/"><u>Evaluating Gaming Trends: Why Not Fall for Ray Tracing?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-itel-a70-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Itel A70 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-and-tips-for-mastering-your-new-win11-experience/"><u>In 2024, Tricks & Tips for Mastering Your New Win11 Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-the-world-of-vita-video-editor-comprehensive-analysis-2024/"><u>Inside the World of Vita Video Editor - Comprehensive Analysis, 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/razers-gaming-prowess-showcased-blackwidow-v4-analysis/"><u>Razer's Gaming Prowess Showcased - BlackWidow V4 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-display-drivers-not-launching-on-pcs/"><u>Steps to Overcome Display Drivers Not Launching on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-accessory-collection-to-supercharge-your-steam-deck/"><u>The Complete Accessory Collection to Supercharge Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-gamers-secrets-mastering-steam-games/"><u>Top 10 Gamers' Secrets: Mastering Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-potential-top-8-video-games-enhancing-design-skills/"><u>Unleash Potential: Top 8 Video Games Enhancing Design Skills</u></a></li>
+</ul></div>
 

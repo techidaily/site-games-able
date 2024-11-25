@@ -1,7 +1,7 @@
 ---
 title: "LinkedIn's New Trend: Beware the Gamification Traps"
-date: 2024-11-13T21:46:38.981Z
-updated: 2024-11-16T03:13:27.448Z
+date: 2024-11-18T20:22:31.099Z
+updated: 2024-11-24T20:52:39.154Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 * [What Possessed LinkedIn to Add Games?](#what-possessed-linkedin-to-add-games)
 * [Why LinkedIn Users Shouldn't Play These Games](#why-linkedin-users-shouldn-39-t-play-these-games)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * LinkedIn added NYT-style games like Pinpoint, Crossclimb, and Queens.
@@ -43,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![Playing the Pinpoint game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/pinpoint-linkedin-games.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Pinpoint](https://www.linkedin.com/games/pinpoint/) is a simple game that has you guessing the category from the clues provided. There are five clues in total, with the idea being to guess the category from the fewest number of clues. Its simple nature means this is the most fun and least frustrating game on offer.
 
 ### Crossclimb
@@ -57,10 +54,7 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 ![Playing the Crossclimb game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/crossclimb-linkedin-games.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Crossclimb](https://www.linkedin.com/games/crossclimb/) has two elements to it. First, you need to find the four-letter answers to the clues provided. Second, you need to rearrange the answers so that there's only one letter different to the answer above and below. Only then will you unlock the top and bottom clues.
@@ -69,7 +63,15 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![Playing the Queens game on LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/queens-linkedin-games.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Queens](https://www.linkedin.com/games/queens/) is a little like Sudoku, in that you have to be aware of several different elements in order to place things correctly. In Sudoku, it's numbers, whereas in Queens, it's crowns. There's a lot of trial and error with this, so you'll either love it or hate it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Possessed LinkedIn to Add Games?
 
@@ -77,28 +79,12 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 ![LinkedIn inviting users to play games to keep your mind sharp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/linked-in-games-search-result.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  LinkedIn thinks you'll use these games as another networking tool. In the same way that many of us send our Wordle, Connections, and Strands scores to our loved ones every morning, LinkedIn wants you to do the same with Pinpoint, Queens, and Crossclimb. However, there's a fundamental difference between your family and friends and the people you are likely to connect with on LinkedIn.
 
  Do you really want to invite hiring managers and C-suite executives to play a silly little game with you? Not just once, but every single day without fail? The correct answer is no. While LinkedIn may see this as a way of increasing engagement levels and making the usually dull and dreary LinkedIn a little more fun, that isn't why any of us use LinkedIn in the first place.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why LinkedIn Users Shouldn't Play These Games
@@ -122,22 +108,20 @@ thumbnail: https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-superior-5-social-sites-redefining-connectivity/"><u>2024 Approved Superior 5 Social Sites, Redefining Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-shiny-journey-to-immaculate-playstation/"><u>A Shiny Journey to Immaculate PlayStation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/best-mac-video-trims-top-6-picks-post-snow-leopard-for-2024/"><u>Best Mac Video Trims Top 6 Picks Post-Snow Leopard for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-13-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 13 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/expedite-boredom-20plus-high-speed-online-games/"><u>Expedite Boredom: 20+ High-Speed Online Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-11-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 11 and 11</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-migrate-sql-backups-into-a-fresh-database-a-three-step-guide/"><u>How to Migrate SQL Backups Into a Fresh Database - A Three-Step Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-unearth-your-secret-snapshots/"><u>In 2024, How to Unearth Your Secret Snapshots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sky-high-cloud-stashing-solutions-on-android/"><u>In 2024, Sky-High Cloud Stashing Solutions on Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/melodic-matchups-finding-the-right-song-for-your-insta-story-for-2024/"><u>Melodic Matchups Finding the Right Song for Your Insta Story for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-game-based-activities-in-discord-servers/"><u>Navigating Game-Based Activities in Discord Servers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-6-predominant-car-ai-integration-obstacles/"><u>Navigating Through 6 Predominant Car AI Integration Obstacles</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-for-the-digital-age-pros-and-cons-that-matter-to-gamers/"><u>Playing for the Digital Age: Pros and Cons That Matter to Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-vs-gog-key-distinctions-explored/"><u>Steam vs GOG: Key Distinctions Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-10-essentials-in-livestreaming-platform-selection-for-2024/"><u>Top 10 Essentials in Livestreaming Platform Selection for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-for-economical-virtual-reality-experiences/"><u>Top Picks for Economical Virtual Reality Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-playfields-trophies-terrains/"><u>Ultimate Playfields: Trophies Terrains</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-clear-shots-instagram-storys-in-and-out-tactics/"><u>[New] 2024 Approved Unlock Clear Shots Instagram Story's In and Out Tactics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-high-quality-fb-vids-on-demand/"><u>[New] High-Quality FB Vids on Demand</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-videographers-packing-essentials-kit/"><u>2024 Approved The Videographer's Packing Essentials Kit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-zoom-techniques-for-captivating-tiktok-audiences/"><u>2024 Approved Zoom Techniques for Captivating TikTok Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-money-smart-tips-for-your-xbox-series/"><u>5 Money-Smart Tips for Your Xbox Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-advantages-of-ignoring-ray-tracing-in-gaming/"><u>7 Advantages of Ignoring Ray Tracing in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-discord-mastery-mac-installation-tips/"><u>Achieve Discord Mastery: Mac Installation Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapting-to-progress-deciphering-steams-latest-ai-regulations-for-gamers/"><u>Adapting to Progress: Deciphering Steam's Latest AI Regulations for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-requires-additional-hardware-in-windows-11-systems/"><u>Addressing 'Requires Additional Hardware' In Windows 11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/align-gaming-with-regions-update-sx-series-time/"><u>Align Gaming with Regions: Update SX Series Time</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-troubleshooting-steps-for-grey-zone-conflict-simulations-in-pc-games/"><u>Effective Troubleshooting Steps for Grey-Zone Conflict Simulations in PC Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-aspects-to-ponder-before-investing-in-a-gps-running-watch-or-tracker/"><u>Key Aspects to Ponder Before Investing in a GPS Running Watch or Tracker</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168271225-revolutionize-your-computer-experience-upgrade-to-the-latest-nvidia-driver/"><u>Revolutionize Your Computer Experience – Upgrade to the Latest Nvidia Driver</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/slidestream-creator-pro-macos/"><u>SlideStream Creator Pro (macOS)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-copyright-demystified-key-principles-and-practices/"><u>YouTube Copyright Demystified Key Principles and Practices</u></a></li>
 </ul></div>
 

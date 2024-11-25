@@ -1,7 +1,7 @@
 ---
 title: "Lemokey's Masterpiece: Exploring the Quality of Keychron"
-date: 2024-11-12T03:47:14.229Z
-updated: 2024-11-16T01:11:25.394Z
+date: 2024-11-17T20:26:20.568Z
+updated: 2024-11-25T08:00:13.546Z
 tags:
   - games
 categories:
@@ -35,7 +35,15 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -122,18 +130,15 @@ No
 
 [See at Keychron](https://www.keychron.com/products/lemokey-l3-qmk-via-wireless-custom-mechanical-keyboard)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Configuration
 
  Like all Keychron keyboards, the Lemokey L3 is available in several configurations. The Fully Assembled Knob version, which features in this review, will set you back $214, while the barebones version is $194.
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -147,6 +152,10 @@ No
 
 ![person-using-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-using-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  With dimensions of 15.8 x 5.4 x 1.7 inches, the Lemokey L3 is a 91-key, tenkeyless design. However, the larger-than-usual footprint for a tenkeyless keyboard comes by way of the four additional customizable macro keys, above which sits the customizable media control knob. A full-size keyboard is usually around 17 inches wide, while most TKLs are around 14 inches.
@@ -154,13 +163,6 @@ No
  The case is relatively uniform. Around each of the main areas is a slightly raised lip for decoration, while there is a small vent at the front of the case for airflow (and style). The USB-C input is on the rear, along with a switch for moving between wired, Bluetooth, and 2.4GHz wireless (using the supplied USB dongle).
 
 ![plug-and-switch-on-the-back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/plug-and-switch-on-the-back-of-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -180,7 +182,15 @@ No
 
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Lemokey L3 Typing Experience
 
@@ -194,18 +204,15 @@ No
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
 
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Customization With VIA
 
@@ -216,13 +223,6 @@ No
  At other times, you might make changes without realizing it and then struggle to revert them. I swapped out the top row of numbers with Macro 0 keys accidentally, but there is no CTRL + Z option to undo your changes. VIA is a great tool, but if Keychron wants to attract a large slice of the gaming keyboard market, it might be time to create an in-house tool.
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -241,19 +241,6 @@ No
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -278,19 +265,19 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-leveraging-likes-uploading-and-sharing-twitter-videos-to-snapchat/"><u>[New] Leveraging Likes Uploading & Sharing Twitter Videos to Snapchat</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-a-list-playbook-swiftly-climb-the-social-ladder-on-instagram-with-these-essentials/"><u>[New] The A-List Playbook Swiftly Climb the Social Ladder on Instagram with These Essentials</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-blade-chroma-with-4k-camera-review/"><u>[Updated] In 2024, Blade Chroma with 4K Camera Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-final-farewell-to-your-instagram-world-process-and-steps/"><u>A Final Farewell to Your Instagram World Process & Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/akko-mod007b-for-gamers-hall-effect-keyboard-discovered/"><u>Akko MOD007B for Gamers: Hall Effect Keyboard Discovered</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-blockade-8-steps-to-resolving-windows-10s-error-code-0x800f0922-during-updates/"><u>Bypassing the Blockade: 8 Steps to Resolving Windows 10'S Error Code 0X800F0922 During Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-precision-gaming-the-ideal-mouse-sensitivity-levels/"><u>High Precision Gaming: The Ideal Mouse Sensitivity Levels</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/leading-edge-top-10-advanced-vimeo-video-extraction-sites-for-2024/"><u>Leading Edge Top 10 Advanced Vimeo Video Extraction Sites for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/linux-integration-for-android-software/"><u>Linux Integration for Android Software</u></a></li>
-<li><a href="https://win-latest.techidaily.com/mastering-lords-mobile-a-comprehensive-guide-to-playing-on-your-computer/"><u>Mastering Lords Mobile: A Comprehensive Guide to Playing on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximize-your-savings-on-the-powerful-macbook-pro-m1-max-exclusive-offer-inside-bandhs-black-friday-bonanza-spotlight/"><u>Maximize Your Savings on the Powerful MacBook Pro M1 Max – Exclusive Offer Inside B&H's Black Friday Bonanza, Spotlight</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-games-before-launch-exploration-or-caution/"><u>Premium Games Before Launch - Exploration or Caution?</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-locations-gamers-success-spots/"><u>Prime Locations: Gamers' Success Spots</u></a></li>
-<li><a href="https://games-able.techidaily.com/risky-reloading-gpus-unstable-future/"><u>Risky Reloading: GPU's Unstable Future</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-ultimate-android-3d-player-showcase/"><u>[New] 2024 Approved Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boosting-earnings-in-cosmetic-videography/"><u>[Updated] 2024 Approved Boosting Earnings in Cosmetic Videography</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-bridging-platforms-loop-ready-setups-for-youtube-and-tv/"><u>[Updated] Bridging Platforms Loop-Ready Setups for YouTube and TV</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-classic-1980s-visual-elements-in-editing-workflow/"><u>2024 Approved Classic 1980S Visual Elements in Editing Workflow</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/conversione-rapida-e-sicura-di-file-mkv-a-mp4-senza-danneggiare-la-qualita-come-fare/"><u>Conversione Rapida E Sicura Di File MKV a MP4 Senza Danneggiare La Qualità: Come Fare?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/investigation-reveals-only-half-of-rated-pc-watercoolers-contain-promoted-copper-components/"><u>Investigation Reveals Only Half of Rated PC Watercoolers Contain Promoted Copper Components</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-benefits-of-quick-resume-on-new-xbox-console/"><u>Navigating the Benefits of Quick Resume on New Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-pcs-new-life-experience-atlasos/"><u>Old PCs, New Life: Experience AtlasOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-unlocked-twitch-channels-await-you/"><u>Prime Unlocked: Twitch Channels Await You</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-beginners-blueprint-to-dominate-new-york-times-strands-challenge/"><u>The Beginner’s Blueprint to Dominate New York Times' Strands Challenge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-sleekest-gram-notebook-ever-released-by-lg-revolutionizing-on-the-go-computing/"><u>The Sleekest Gram Notebook Ever Released by LG: Revolutionizing On-the-Go Computing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-constant-deathloop-game-crashes-on-windows-computers-a-comprehensive-guide/"><u>Troubleshooting and Resolving Constant DeathLoop Game Crashes on Windows Computers: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-potential-a-comprehensive-guide-to-customize-xbox-game-bar-settings/"><u>Unraveling Potential: A Comprehensive Guide to Customize Xbox Game Bar Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-deceptive-gaming-promos-essentials-explored/"><u>Unveiling Deceptive Gaming Promos: Essentials Explored</u></a></li>
 </ul></div>
 

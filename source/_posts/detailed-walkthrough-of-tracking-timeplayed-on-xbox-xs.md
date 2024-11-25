@@ -1,7 +1,7 @@
 ---
 title: Detailed Walkthrough of Tracking Timeplayed on Xbox X/S
-date: 2024-11-08T23:20:31.689Z
-updated: 2024-11-16T01:52:27.232Z
+date: 2024-11-20T13:52:21.881Z
+updated: 2024-11-25T13:20:57.770Z
 tags:
   - games
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
  So, while the ability to[compare Xbox stats with friends on Xbox Series X|S](https://www.makeuseof.com/xbox-how-to-compare-gaming-stats-with-friends/) is mostly accurate, the**Time played** stat is strangely plagued with issues. However, for mainline and current game releases, the time you spend playing will be tracked accurately, unless developers have specifically disabled the feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check Your Time Played From Your Xbox Series X|S
 
  Now you know some of the caveats of the feature, you can go ahead and start checking your**Time played** stat for any game you've played with your Xbox account without any confusing surprises.
@@ -48,37 +52,24 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 ![A screenshot of the Xbox Series X Guide menu with Game Activity and All Achievements highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-activity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the game you want to see the**Time played** stat for.
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under**Progress** , highlight**Stats** .
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
@@ -96,13 +87,14 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
@@ -125,24 +117,15 @@ thumbnail: https://thmb.techidaily.com/289536a26b86dc5c26586097f9ebf58e81d35aa53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-media-reader-unmatched-for-all-devices-type/"><u>[Updated] 2024 Approved Elite Media Reader - Unmatched for All Devices Type</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-recording-games-like-a-pro-discover-the-best-of-windows-11-methods/"><u>[Updated] In 2024, Recording Games Like a Pro Discover the Best of Windows 11 Methods</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>[Updated] Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-audio-transcription-insights-into-azures-speech-recognition/"><u>2024 Approved Simplifying Audio Transcription Insights Into Azure's Speech Recognition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/child-becomes-children/"><u>Child Becomes Children</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-discounts-on-xbox-series-xs-unlocked/"><u>Digital Discounts on Xbox Series X|S Unlocked!</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gameplay-and-monetization-top-7-bots-for-twitch-enthusiasts/"><u>Elevate Gameplay & Monetization - Top 7 Bots for Twitch Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172767277-enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up!</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-steam-image-redundancy/"><u>Essential Tips for Steam Image Redundancy</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-speed-typing-and-the-quest-for-optimal-pace/"><u>High-Speed Typing and the Quest for Optimal Pace</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-access-and-listen-to-apple-music-effortlessly-on-android-phones/"><u>How to Access and Listen to Apple Music Effortlessly on Android Phones</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-pro-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Without a Home Button</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-itel-s23-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Itel S23 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-ps5-connectivity-wi-fi-troubleshooting-steps/"><u>Navigating PS5 Connectivity: Wi-Fi Troubleshooting Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/no-spinning-discs-no-stress-on-your-series-x/"><u>No Spinning Discs, No Stress! On Your Series X</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/shine-bright-easy-brightening-for-iphones-visual-content-for-2024/"><u>Shine Bright Easy Brightening for iPhone's Visual Content for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-5-features-we-loved-on-the-new-lenovo-legion-go-at-ifa-2023/"><u>The 5 Features We Loved on the New Lenovo Legion Go at IFA 2023</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-infinix-zero-5g-2023-turbo-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Zero 5G 2023 Turbo Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/win1111s-dxgierror-0x887a0006-unlock-your-device/"><u>Win11/11's DXGI_ERROR 0X887A0006: Unlock Your Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/intage-video-making-masterclass-complete-tutorial/"><u>[New] Vintage Video Making Masterclass Complete Tutorial</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback/"><u>[Updated] Average Earnings Per View What's the Income for YouTubers per Ad Playback?</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-soaring-sights-dissecting-the-gopro-karma-drones-features/"><u>2024 Approved Soaring Sights Dissecting the GoPro Karma Drone's Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-vintage-psp-games-via-iphone/"><u>Embrace Vintage PSP Games via iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-best-11-costless-word-games-on-phones/"><u>Explore the Best 11 Costless Word Games on Phones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-gionee-frp-by-drfone-android/"><u>Full Guide to Bypass Gionee FRP</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-m34-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy M34? Try These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-and-storing-your-steam-screens/"><u>Organizing and Storing Your Steam Screens</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-15-no-cost-watermark-tools-and-applications-exploring-movavi/"><u>Top 15 No-Cost Watermark Tools & Applications - Exploring Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-steam-interface-into-another-language/"><u>Transition Steam Interface Into Another Language</u></a></li>
 </ul></div>
 

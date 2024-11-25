@@ -1,7 +1,7 @@
 ---
 title: "Exploring Advanced Keyboard Tech: Akko's Modular Model MOD007B"
-date: 2024-09-09T09:36:45.487Z
-updated: 2024-09-10T09:36:45.487Z
+date: 2024-11-23T11:30:55.129Z
+updated: 2024-11-25T13:14:43.975Z
 tags:
   - games
 categories:
@@ -12,20 +12,8 @@ keywords: Modular Keyboards,Modular Tech Devices,Customizable Computers,Advanced
 thumbnail: https://thmb.techidaily.com/6e5f95b25124810982ee054b31aff132061c491b9479b9ba216941d7d9600153.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Exploring Advanced Keyboard Tech: Akko's Modular Model MOD007B
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Akko MOD007B HE keyboard uses Hall Effect switches for customizable actuation distance, giving gamers an advantage.
@@ -122,21 +110,17 @@ No
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Great-Looking Keyboard on the Surface
 
 ![Akko MOD007B HE Spacebar Detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-spacebar-detail.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Jowi Morales / MakeUseOf
 
  The Akko MOD007B Hall Effect keyboard is a 75% keyboard, which has ditched the numeric keypad and smushed the control keys together for a more compact form factor. It also comes in two keycap themes: Blue Santorini and Pink Tokyo.
@@ -144,6 +128,10 @@ No
  Akko sent us the MOD007B PC Tokyo for this review, which features pink and white keys with printed English and Japanese characters. The spacebar also features Mount Fuji with a torii and some cherry blossoms in the foreground to complete the theme.
 
  All of these sit on a plain white plastic case with two-level adjustable feet. You also get a plain white knob for adjusting volume and RGB brightness. This keyboard would look great on any desk. Even if you aim for a minimalist gaming station, its design could be your PC’s focal point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tokyo-Themed Keys and Accessories Included
 
@@ -159,6 +147,10 @@ No
 
  Jowi Morales / MakeUseOf
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Akko MOD007B Means Serious Business Underneath
 
  What makes the Akko MOD007B different from most gaming keyboards is that it uses Hall Effect switches instead of mechanical keys.[Mechanical keyboards work by using springs](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) to control how much pressure you need to apply before it closes the switch.
@@ -167,12 +159,6 @@ No
 
 ![Akko MOD007B HE Hall-Effect Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-hall-effect-switch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
 
  However, the most significant advantage of Hall Effect keyboards is that you can customize their actuation pressure. Unlike mechanical keyboards, where you have to replace the switches or brands to change how much pressure you need to apply before a key activates, you can set this to your desired distance on Hall Effect switches.
@@ -199,15 +185,13 @@ Related
 
  Even when you bottom out the keys, you’ll feel as if it’s cushioned, reducing the stress on your fingertips. And although it doesn’t have the bassy, thocky sound some keyboard enthusiasts look for, it still delivers excellent audible feedback for each keypress you make.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Extensive Customization With the Akko Cloud Driver
 
 ![Akko MOD007B HE Cloud Driver Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/akko-mod007b-he-cloud-driver-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Of course, hardware is no good if you don’t pair it with great software. Thankfully, the Akko MOD007B comes with an easy-to-use and easy-to-understand driver. On thge Main tab you can remap your keyboard, change its Dynamic Keystroke settings, and set custom actuation distances for the entire keyboard or each key.
 
@@ -219,18 +203,6 @@ Related
 
 ![Akko MOD007B HE mode switch slider under the caps lock key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-mode-switch-slider-under-the-caps-lock-key.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
 
  However, the Akko MOD007B isn’t all rainbows and sunshine. The Hall Effect keyboard has a few drawbacks—particularly when using it wirelessly.
@@ -241,22 +213,10 @@ Related
 
  It would’ve been better if Akko included at least a single color-changing LED bulb to indicate the mode the keyboard is currently on. And maybe they could put the OS mode switch on an easily reachable surface.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Questionable Battery Life
 
 ![Akko MOD007B HE Battery-Level Check](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/akko-mod007b-he-battery-level-check.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jowi Morales / MakeUseOf
 
  Another issue I faced with the Akko MOD007B is its battery life. I’ve never run out of power when reviewing other keyboards, but it’s the first time I did with this keyboard. Even with the RGB lights off, I need to charge more frequently. You also cannot check the power state while you're charging—you have to unplug it to see how much power is left by pressing Fn+Spacebar.
@@ -264,6 +224,10 @@ Related
  Furthermore, the keyboard’s off switch sits on the OS mode slider (top for macOS and on battery power, center for Windows and power supply off, and bottom for Windows with the power turned on) under the caps lock keycap, making it inconvenient to turn off.
 
  Granted that this keyboard will most likely sit on your desk in wired mode, it’s still better to allow the user to switch off the keyboard when not using it. This will help save power, especially if you transport the keyboard in your bag (like when going to a LAN party or an on-site competition) and want to use it wirelessly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Your Keyboard for Gaming Victory
 
@@ -276,11 +240,9 @@ Related
 ![Akko MOD007B PC eCommerce Image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/world-tour-tokyo-mod007b-pc-3-600x600.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### AKKO MOD007B PC
 
  7/ 10
@@ -353,14 +315,11 @@ No
 
 [See at Akko](https://en.akkogear.com/product/mod007b-pc-santorini-mechanical-keyboard/) [See at Amazon](https://www.amazon.com/dp/B0CP7CYWRY?tag=makeusw-20&ascsubtag=UUmuoUeUpU2031519&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fakko-mod007b-hall-effect-keyboard-review%2F&asc%5Fcampaign=Affiliate)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -369,4 +328,24 @@ No
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-live-video-responses-on-twitter-your-ultimate-how-to-manual/"><u>[New] In 2024, Live Video Responses on Twitter Your Ultimate How-To Manual</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pixels-into-panoramas-cutting-edge-edits-for-exceptional-results/"><u>[New] In 2024, Pixels Into Panoramas Cutting-Edge Edits for Exceptional Results</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-prime-5-racer-simulation-titles-to-play/"><u>[Updated] 2024 Approved Prime 5 Racer Simulation Titles to Play</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-inside-look-the-tech-behind-m1-max-clip-for-2024/"><u>[Updated] Inside Look The Tech Behind M1 Max Clip for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-vlogs-sound-with-effective-tips/"><u>2024 Approved Streamline Your Vlog's Sound with Effective Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-ps4-games-on-ps5-heres-what-matters/"><u>Can You Use PS4 Games on PS5? Here's What Matters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-meizu-21-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Meizu 21? Try These Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-16-co-play-couch-titles-on-xbox-series-consoles/"><u>Ideal 16 Co-Play Couch Titles on XBox Series Consoles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-button-controls-android-games-via-controller-mapping/"><u>Mastering Button Controls: Android Games via Controller Mapping</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-making-iphone-a-personal-gaming-center/"><u>Step-by-Step Guide: Making iPhone a Personal Gaming Center</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-unwanted-vertical-motion-of-mouse-wheel/"><u>Stop Unwanted Vertical Motion of Mouse Wheel</u></a></li>
+<li><a href="https://games-able.techidaily.com/teaming-up-in-tile-world-mc-multiplayer-strategies-for-friends/"><u>Teaming Up in Tile World: MC Multiplayer Strategies for Friends</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-official-method-to-alter-console-regions/"><u>The Official Method to Alter Console Regions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/there-are-five-classes-of-fire-based-on-fuel-type-a-b-c-d-and-k/"><u>There Are Five Classes of Fire Based on Fuel Type: A, B, C, D, and K</u></a></li>
+<li><a href="https://games-able.techidaily.com/verifying-the-real-magic-experience-by-am08-pro/"><u>Verifying the Real Magic Experience by AM08 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Poco X5 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

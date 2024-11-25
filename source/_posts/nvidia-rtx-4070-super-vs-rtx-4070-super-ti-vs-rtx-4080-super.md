@@ -1,7 +1,7 @@
 ---
 title: Nvidia RTX 4070 Super Vs. RTX 4070 Super Ti Vs. RTX 4080 Super
-date: 2024-09-09T09:36:41.542Z
-updated: 2024-09-10T09:36:41.542Z
+date: 2024-11-18T10:13:39.085Z
+updated: 2024-11-24T23:10:55.891Z
 tags:
   - games
 categories:
@@ -12,43 +12,21 @@ keywords: Nvidia RTX 4080,RTX 4070 Super Ti,RTX 4070 Comparison,RTX 4080 Perform
 thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88aaea370f1b5ca7a72e0a9d3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Nvidia RTX 4070 Super Vs. RTX 4070 Super Ti Vs. RTX 4080 Super
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Quick Links
 
 * [RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared](#rtx-4070-ti-super-vs-rtx-4070-super-vs-rtx-4080-super-compared)
 * [Should You Upgrade to the RTX 4070 Ti Super, RTX 4070 Super, or RTX 4080 Super?](#should-you-upgrade-to-the-rtx-4070-ti-super-rtx-4070-super-or-rtx-4080-super)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Nvidia launches its RTX 4000 "Super" and "Super Ti" branded GPUs with significant performance boosts.
@@ -58,11 +36,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
  Nvidia's new RTX 4070 Ti Super, RTX 4070 Super, and RTX 4080 Super are causing a stir because, despite being part of the RTX 4000 Series, the new GPUs bring some significant boosts—and unlike their counterparts, appear to be reasonably priced this time around.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## RTX 4070 Ti Super vs. RTX 4070 Super vs. RTX 4080 Super Compared
 
  Nvidia chose CES 2024 to unveil the latest updates to its 4000-Series GPUs: The RTX 4070 Ti Super, the RTX 4070 Super, and the RTX 4080 Super. It's the first time Nvidia has launched new GPUs with its "Super" branding, as while there were numerous rumors that the RTX 3000 Series would receive a refresh, it never came.
@@ -90,17 +66,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 | TGP              | 320W             | 320W              | 285W             | 220W             | 200W       |
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Specs
 
  As you can see from the table, the new GPUs receive a performance bump over the original RTX 4070 and RTX 4080\. However, the performance boost isn't uniform, with the new RTX 4070 Super and Super Ti getting a bigger upgrade than the new RTX 4080 Super.
@@ -114,11 +82,9 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
  Similarly, the RTX 4070 Super Ti receives a further boost, with its CUDA cores rising to 8,448\. Importantly, the 4070 Super Ti also has 16GB memory, rising from 12GB, while its memory bus also rises to 256-bit (bringing it in line with the RTX 4080 and 4080 Super). The 4GB memory increase and wider memory bus should see the RTX 4070 Super Ti deliver a hefty performance boost over the original RTX 4070 (as well as the RTX 4070 Ti, which is already on the market).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Price to Performance
 
  The[RTX 4080 launched in 2022](https://www.makeuseof.com/nvidia-rtx-4080-reasons-upgrade/) , priced around $1,199—the highest figure ever for one of Nvidia's "80" tier cards. Even allowing for inflation between the launch of the RTX 3080 in 2020 (around $699), the sky-high pricing put many would-be buyers off.
@@ -133,14 +99,11 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
 
  Dropping the price of the RTX 4080 Super to $999 is a good move, but it's hard to escape that it remains an extremely expensive GPU. Whereas the RTX 4070 Ti Super and RTX 4070 Super look like a much better proposition, especially the RTX 4070 Ti Super at $800\. While absolute performance benchmarks aren't available until the GPUs launch later in January 2024, they're certain to bring a boost, which can only be a boon for gamers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +112,20 @@ thumbnail: https://thmb.techidaily.com/f7a18b1ed8a37fcd7d106943fadf79a7add46bd88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/here-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>[New] Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/digiartydvd-40/"><u>Digiarty製品サポート：専門的なDVD コピー方法を40ページまでご紹介します</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-intrusive-windows-tracking-systems/"><u>Eliminate Intrusive Windows Tracking Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/handling-a-mysterious-journey-steps-to-take-if-your-lost-airtag-keeps-up-with-you/"><u>Handling a Mysterious Journey: Steps to Take if Your Lost AirTag Keeps Up with You</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-discord-nitro-worth-it/"><u>Is Discord Nitro Worth It?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/master-mac-hd-management-a-video-guide-to-hdd-arrangement/"><u>Master Mac HD Management: A Video Guide to HDD Arrangement</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-roblox-error-262-issues/"><u>Overcoming Roblox Error 262 Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-color-balance-pro/"><u>Pinnacle Color Balance Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-the-limits-with-gopro-film-techniques/"><u>Pushing the Limits with GoPro Film Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/solutions-to-apples-insufficient-ram-warning-roblox/"><u>Solutions to Apple's Insufficient RAM Warning (Roblox)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-xr-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone XR to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-advanced-technology-with-abbyys-newest-offering-vantage-2-platform-and-dynamic-ai-marketplace/"><u>Unlock Advanced Technology with ABBYY's Newest Offering: Vantage 2 Platform & Dynamic AI Marketplace</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-java-games-stands-out-in-the-mobile-arena/"><u>Why Java Games Stands Out in the Mobile Arena</u></a></li>
+</ul></div>
 

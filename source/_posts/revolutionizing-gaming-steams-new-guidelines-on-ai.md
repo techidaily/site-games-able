@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming: Steam's New Guidelines on AI"
-date: 2024-11-15T02:06:53.126Z
-updated: 2024-11-15T17:37:22.434Z
+date: 2024-11-18T10:34:20.325Z
+updated: 2024-11-24T21:28:42.844Z
 tags:
   - games
 categories:
@@ -19,16 +19,17 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Steam Takes a Softer Stance on Games Using AI](#steam-takes-a-softer-stance-on-games-using-ai)
 * [How Steam's AI Games Policy Could Affect Gamers](#how-steam-39-s-ai-games-policy-could-affect-gamers)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 * It will be up to players to report illegal AI content in games using a feature in the in-game overlay.
 
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
 
@@ -62,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  In addition, games that use live-generated AI content will need to disclose what guardrails will be in place to make sure that the AI is not generating illegal content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Steam's AI Games Policy Could Affect Gamers
 
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
@@ -70,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
  Steam is already home to a vast array of games, with tens of thousands of new titles added each year.
@@ -77,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  But with the wide array of capabilities of generative AI, gamers will likely see an increase in the variety of titles on offer. Especially from smaller studios that would be unable to publish games due to their small team size.
 
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
 
@@ -87,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  While you can always ignore games that look like they're low quality, this can also make the discoverability of actual indie gems much more difficult. Players may also find themselves wasting money on games that promise more than they can deliver.
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
@@ -108,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 > "Using the in-game overlay, players can easily submit a report when they encounter content that they believe should have been caught by appropriate guardrails on AI generation."
 
  Considering how often people get around AI guardrails, such as when people use[jailbreaks on ChatGPT](https://www.makeuseof.com/what-are-chatgpt-jailbreaks/) , it's very likely that some games using AI will fall foul of Steam's policies. That is as long as players actually report the content breaking the rules.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Gamers Will Need to Look Out for AI Disclosures
 
@@ -145,20 +131,19 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-viral-soundtracks-to-personalized-phone-alerts-a-how-to-guide/"><u>[New] From Viral Soundtracks to Personalized Phone Alerts – A How-To Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-sketching-your-signature-tiktok-end-note/"><u>[New] In 2024, Sketching Your Signature TikTok End-Note</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streaming-mastery-with-obs-game-mode/"><u>[New] In 2024, Streaming Mastery with OBS Game Mode</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleashing-creativity-converting-youtube-videos-into-captivating-gifs/"><u>[New] Unleashing Creativity Converting YouTube Videos Into Captivating GIFs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-fb-chronicles-with-complimentary-extension-tools/"><u>[Updated] In 2024, Elevate Your FB Chronicles with Complimentary Extension Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/495plus-high-framerate-display-by-innocn/"><u>$495+ High Framerate Display by InnoCN</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-insights-how-much-does-pewdopeep-make/"><u>2024 Approved Financial Insights How Much Does PewDoPeep Make?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-does-hrtf-affect-your-valorant-play/"><u>How Does HRTF Affect Your Valorant Play?</u></a></li>
-<li><a href="https://games-able.techidaily.com/mod007b-gaming-keyboard-akkos-high-performance-review/"><u>Mod007B Gaming Keyboard - Akko's High-Performance Review</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-editor/"><u>New What Is an AI Editor?</u></a></li>
-<li><a href="https://games-able.techidaily.com/primes-pathway-to-premium-twitch-viewing/"><u>Prime's Pathway to Premium Twitch Viewing</u></a></li>
-<li><a href="https://games-able.techidaily.com/quality-tech-for-gamers-achieve-new-heights/"><u>Quality Tech for Gamers: Achieve New Heights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-windows-device-manager-code-28-problems/"><u>Step-by-Step Guide: Correcting Windows Device Manager 'Code 28' Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-gaming-for-sustained-performance/"><u>Strategic Gaming for Sustained Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/stylus-symphony-tablet-takes-over-mice/"><u>Stylus Symphony: Tablet Takes Over Mice</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ow-to-render-and-upload-your-youtube-video-faster/"><u>[New] How to Render and Upload Your YouTube Video Faster?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-for-success-metaverse-sales-strategies/"><u>[New] Innovating for Success Metaverse Sales Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximizing-view-count-faster-discover-the-most-effective-shortcuts/"><u>[New] Maximizing View Count Faster Discover the Most Effective Shortcuts</u></a></li>
+<li><a href="https://win-top.techidaily.com/2-expert-guide-4-proven-techniques-for-extracting-information-from-a-dead-hard-disk-without-bootable-software/"><u>2. Expert Guide: 4 Proven Techniques for Extracting Information From a Dead Hard Disk without Bootable Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/all-encompassing-review-the-hero4-black-guide-for-2024/"><u>All-Encompassing Review The Hero4 Black Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-system-enabling-fortnite-gameplay-on-unsupported-windows-gpus/"><u>Beating the System: Enabling Fortnite Gameplay on Unsupported Windows GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/dealing-with-switch-dysfunction-restore-or-replace/"><u>Dealing with Switch Dysfunction: Restore or Replace?</u></a></li>
+<li><a href="https://games-able.techidaily.com/deleting-games-from-steam-efficient-tips-and-tricks/"><u>Deleting Games From Steam: Efficient Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/detecting-disconnect-xbox-sxs-offline-indicators-explained/"><u>Detecting Disconnect: Xbox S/X's Offline Indicators Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-smooth-os-operation-autoupdate-and-change-amd-drivers/"><u>Ensure Smooth OS Operation: Autoupdate & Change AMD Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-a-graphics-tablet-to-play-a-rhythm-game/"><u>How to Use a Graphics Tablet to Play a Rhythm Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/improve-your-viewing-angle-on-xbox-series-screens/"><u>Improve Your Viewing Angle on Xbox Series Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-a-playstation-controller-into-your-pc-gaming-setup/"><u>Integrating a PlayStation Controller Into Your PC Gaming Setup</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-window-11-screenshots-with-these-4-approaches/"><u>Mastering the Art of Window 11 Screenshots with These 4 Approaches</u></a></li>
 </ul></div>
 

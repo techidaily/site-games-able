@@ -1,7 +1,7 @@
 ---
 title: Strategies for Controlling Steam Web Helper's RAM Overuse
-date: 2024-11-09T01:21:12.532Z
-updated: 2024-11-15T19:45:40.854Z
+date: 2024-11-21T11:41:10.734Z
+updated: 2024-11-25T03:17:49.351Z
 tags:
   - games
 categories:
@@ -27,58 +27,36 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Does Steam Use So Much Memory?
 
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Steam is made up of several components. Its most popular components are its download manager and games list, but it has several other features, and all of these other features run off the Steam Client WebHelper. This is essentially an internet browser that Steam manages. Every store page, friends list, and chat window creates a new Steam Client WebHelper instance.
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
@@ -92,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
  This will ease the burden that Steam's web pages have on your available memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
@@ -104,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe2881674
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
  Thankfully, there's a way around this without having to go offline—it's called the Mini Games List. This launches Steam, but instead of opening all services, it only shows the games on your computer in a small window. Here's how to open it:
@@ -121,6 +96,10 @@ steam://open/minigameslist
 3. Hit enter. This will change the size of your Steam window, forcing it into a vertical slice rather than the more feature-full rectangle that Steam usually defaults to.
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Create a Custom Batch File for Minimal Steam
 
@@ -160,24 +139,19 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-strategies-for-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved Essential Strategies for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-profits-the-guide-to-gainful-youtube-endeavors-sans-ads/"><u>[New] Maximizing Profits The Guide to Gainful YouTube Endeavors Sans Ads</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-vocal-excellence-in-action-tweaking-sound-for-instagram-content/"><u>[New] Vocal Excellence in Action Tweaking Sound for Instagram Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-simplifying-the-process-of-enabling-virtual-screen-on-meet-for-2024/"><u>[Updated] Simplifying the Process of Enabling Virtual Screen on Meet for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/backing-out-of-latest-xbox-wireless-controls/"><u>Backing Out of Latest Xbox Wireless Controls</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-your-pcs-data-transfer-speed-an-easy-guide-to-update-standard-sata-ahci-controller-software/"><u>Boost Your PC’s Data Transfer Speed: An Easy Guide to Update Standard SATA AHCI Controller Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/break-the-chains-of-a-locked-steam-service-with-7-effective-actions/"><u>Break the Chains of a Locked Steam Service with 7 Effective Actions</u></a></li>
-<li><a href="https://games-able.techidaily.com/cozy-games-a-cultural-phenomenon-breakdown/"><u>Cozy Games: A Cultural Phenomenon Breakdown</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/font-exploration-for-enhanced-youtube-thumbnails-appeal/"><u>Font Exploration for Enhanced YouTube Thumbnails' Appeal</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-a1-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A1 5G Phone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/personalizing-the-look-of-windows-11-with-easy-color-modifications-for-the-taskbar/"><u>Personalizing the Look of Windows 11 with Easy Color Modifications for the Taskbar</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-nubia-red-magic-9-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Nubia Red Magic 9 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaiming-spent-on-games-maximize-your-steam-returns/"><u>Reclaiming Spent on Games? Maximize Your Steam Returns</u></a></li>
-<li><a href="https://games-able.techidaily.com/rekindling-the-joy-of-play-with-these-six-ideas/"><u>Rekindling the Joy of Play with These Six Ideas</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-screen-guide-avoiding-pitfalls-during-purchase/"><u>The Ultimate Screen Guide: Avoiding Pitfalls During Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-budget-savvy-white-computing-solutions/"><u>Ultimate Budget-Savvy White Computing Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-guide-to-premium-video-capture-devices-for-xbox/"><u>Ultimate Guide to Premium Video Capture Devices for Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncover-additional-excitement-fallout-game-series/"><u>Uncover Additional Excitement: Fallout Game Series</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-decoding-instagrams-reels-and-stories-differences/"><u>[Updated] 2024 Approved Decoding Instagram's Reels and Stories Differences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tricks-to-simulate-quantum-leap-phenomena/"><u>2024 Approved Tricks to Simulate Quantum Leap Phenomena</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-0x800713f-issue-for-smooth-function-of-win11s-mail-app/"><u>Decoding 0X800713F Issue for Smooth Function of Win11's Mail App</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-am08-pro-verify-a-true-acemagic-experience/"><u>Does AM08 Pro Verify a True AceMagic Experience?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevating-gameplay-increasing-ram-in-minecraft/"><u>Elevating Gameplay Increasing RAM in Minecraft</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-or-replace-tackling-common-issues-with-xbox-series-xs/"><u>Fix or Replace? Tackling Common Issues with Xbox Series X|S</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-grief-5-most-agonizing-adventures/"><u>Gaming Grief: 5 Most Agonizing Adventures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-note-30-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Note 30 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-mac-for-switch-gaming/"><u>Mastering Your Mac for Switch Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-fps-with-efficient-3d-designs/"><u>Maximizing FPS with Efficient 3D Designs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photovisionharmony-synchronize-ios-plus-sierra-photos-for-2024/"><u>PhotovisionHarmony Synchronize iOS + Sierra Photos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rgb-vs-srgb-color-representations-compared/"><u>RGB vs Srgb Color Representations Compared</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spearheading-groundbre-folks-in-vr-space-for-2024/"><u>Spearheading Groundbre Folks In VR Space for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-vsdc-video-editor-alternatives-for-macos-users/"><u>Updated In 2024, Best VSDC Video Editor Alternatives for macOS Users</u></a></li>
 </ul></div>
 

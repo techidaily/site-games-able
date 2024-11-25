@@ -1,7 +1,7 @@
 ---
 title: "Ignite the Passion: Expand on The Fallout Series"
-date: 2024-11-10T16:35:38.051Z
-updated: 2024-11-16T04:23:00.549Z
+date: 2024-11-18T03:47:29.046Z
+updated: 2024-11-25T13:21:31.096Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Fallout: New Vegas](#fallout-new-vegas)
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -50,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -67,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -84,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -117,24 +109,18 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-iphones-guide-to-slow-motion-video-magic/"><u>[Updated] 2024 Approved IPhone's Guide to Slow-Motion Video Magic</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-streamlining-visual-storytelling-best-plugin-choices-in-ae/"><u>[Updated] 2024 Approved Streamlining Visual Storytelling Best Plugin Choices in AE</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-quick-thumbnail-tips-for-youtube-success/"><u>[Updated] Quick Thumbnail Tips for YouTube Success</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725288543491-dvd/"><u>「ゲオ、ツタヤでレンタルDVDがなくなった後に何百円支払う必要がある？」</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-comprehensive-shoppers-guide-for-top-360cams/"><u>2024 Approved The Comprehensive Shopper’s Guide for Top 360Cams</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficient-methods-to-delete-past-games-data-on-ps5-console/"><u>Efficient Methods to Delete Past Games' Data on PS5 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/energize-innovation-dreams-for-tomorrow/"><u>Energize Innovation: Dreams for Tomorrow</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-care-steps-preserving-xbox-x-power/"><u>Essential Care Steps: Preserving Xbox X Power</u></a></li>
-<li><a href="https://games-able.techidaily.com/harmonizing-playstation-5-memberships-for-efficiency/"><u>Harmonizing PlayStation 5 Memberships for Efficiency</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-console-ambiance-with-premium-lights/"><u>Maximize Your Console Ambiance with Premium Lights</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-decoding-the-process-of-anime-dubbing-techniques-and-success-stories/"><u>New Decoding the Process of Anime Dubbing Techniques and Success Stories</u></a></li>
-<li><a href="https://games-able.techidaily.com/oled-gaming-monitors-my-2-year-experience/"><u>OLED Gaming Monitors: My 2-Year Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/play-uninterrupted-solutions-to-prevent-fall-guys-from-freezing-on-your-desktop-computer/"><u>Play Uninterrupted: Solutions to Prevent Fall Guys From Freezing on Your Desktop Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-playful-pause-balancing-screen-time-and-life/"><u>The Playful Pause: Balancing Screen Time and Life</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211350586--the-psychedelic-mindmeld/"><u>The Psychedelic Mindmeld | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/twitch-broadcast-excellence-a-step-by-step-mobile-approach/"><u>Twitch Broadcast Excellence: A Step-by-Step Mobile Approach</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862833460-unveiling-the-pro-gamers-dream-the-27-oled-masterpiece-by-dough-spectrum-an-ultimate-review-on-precision-and-premium-gaming-experience/"><u>Unveiling the Pro Gamers' Dream - The 27 OLED Masterpiece by Dough Spectrum: An Ultimate Review on Precision & Premium Gaming Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-ultimate-selection-of-gratis-tunes-apps-for-your-smartphone-and-tablet/"><u>Unveiling The Ultimate Selection of Gratis Tunes Apps for Your Smartphone and Tablet</u></a></li>
-<li><a href="https://games-able.techidaily.com/will-a-plentiful-ps5-stock-drive-down-prices/"><u>Will a Plentiful PS5 Stock Drive Down Prices?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-exclusive-selection-of-top-hd-stream-cameras/"><u>[New] 2024 Approved Exclusive Selection of Top HD Stream Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-efficient-methods-for-compiling-songs-on-youtube/"><u>[New] In 2024, Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube/"><u>[New] In-Depth Breakdown Stream Yourself Successfully via Zoom and YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-price-tag-on-sonys-playstation-plus/"><u>Dissecting the Price Tag on Sony’s PlayStation Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-and-conquer-a-list-of-top-10-free-online-shooters-for-browsers/"><u>Engage and Conquer: A List of Top 10 Free Online Shooters for Browsers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-guide-ralink-bluetooth-driver-compatibility-challenges-in-windows-11-systems/"><u>Fix Guide: Ralink Bluetooth Driver Compatibility Challenges in Windows 11 Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-secrets-in-xbox-series-xs-games/"><u>Keeping Secrets in Xbox Series X|S Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/manage-your-gaming-screenshots-like-a-pro/"><u>Manage Your Gaming Screenshots Like a Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-reviving-stuck-up-steam-software/"><u>Master the Art of Reviving Stuck-Up Steam Software</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-update-failure-code-0x80246007/"><u>Overcoming Windows 11'S Update Failure: Code 0X80246007</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-pads-for-extensive-gaming-sessions/"><u>Top Pads for Extensive Gaming Sessions</u></a></li>
 </ul></div>
 

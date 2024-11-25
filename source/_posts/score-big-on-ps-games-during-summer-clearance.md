@@ -1,7 +1,7 @@
 ---
 title: Score Big on PS Games During Summer Clearance
-date: 2024-11-14T00:36:42.099Z
-updated: 2024-11-16T00:41:20.107Z
+date: 2024-11-23T18:45:38.103Z
+updated: 2024-11-25T05:01:19.676Z
 tags:
   - games
 categories:
@@ -29,18 +29,15 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -54,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Owlboy
 
  Owlboy is a whimsical platforming adventure with a beautiful pixel art style and story to match. While there are plenty of[differences between AAA and indie games](https://www.makeuseof.com/aaa-games-vs-indie-games-differences/) , indie’s have more than enough potential to be just as good, if not better, than AAA titles. Owlboy is a perfect example of that. And it’s on sale for roughly the price of a deli sandwich. While deli sandwiches are unarguably good, forgoing one for lunch is definitely worth experiencing the breathtaking adventure of Owlboy.
@@ -61,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -73,24 +71,25 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. The Last of Us: Part II
 
  Even if you’re not a gamer, the chances are you know about The Last of Us. But Joel and Ellie’s story didn't just end when the hit TV series did. That is only one part of their adventure, so if you want a sneak peek into the events that you can expect from the second series, you can get it for half price in PlayStation’s summer sale. If you’ve been looking for[games to play if you like the Last of Us TV show](https://www.makeuseof.com/games-to-play-if-you-like-the-last-of-us-tv-show/) , this should be your first stop for obvious reasons.
 
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Resident Evil Village
 
  Resident Evil Village is the most recent entry in the long-running horror franchise and is one of the best of the bunch. If you haven’t delved into the terrifying world of Resident Evil yet, Resident Evil Village is a great place to start, and now that it's 50% off, what’s stopping you?
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
@@ -103,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -130,21 +122,15 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-profit-from-reddit-easy-style-top-13-beginner-strategies/"><u>2024 Approved Profit From Reddit Easy Style Top 13 Beginner Strategies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-tips-for-capturing-whatsapp-chat-calls-methods-and-techniques/"><u>2024 Approved Tips for Capturing WhatsApp Chat Calls Methods & Techniques</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-understanding-your-youtube-earnings-adsense-payments-per-thousand-viewer/"><u>2024 Approved Understanding Your Youtube Earnings AdSense Payments per Thousand Viewer</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-friendly-boards-next-gen-gaming-companions/"><u>Budget-Friendly Boards: Next Gen Gaming Companions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/closer-look-strategies-in-virtual-world-of-roblox/"><u>Closer Look Strategies in Virtual World of Roblox</u></a></li>
-<li><a href="https://games-able.techidaily.com/expecting-more-from-play-understanding-steams-ai-directive/"><u>Expecting More From Play: Understanding Steam's AI Directive</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-geforce-rtx-2060-super-graphics-card-drivers-for-windows-10-and-11/"><u>Get the Latest GeForce RTX 2060 Super Graphics Card Drivers for Windows 10 & 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-itel-a60s-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Itel A60s Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y56-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y56 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidia-vs-asus-picking-the-best-gpu-out-there/"><u>Nvidia Vs. ASUS: Picking the Best GPU Out There</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perplexity-ai-the-ultimate-innovation-in-ai-powered-google-search-tools-you-need-to-try-today/"><u>Perplexity AI: The Ultimate Innovation in AI-Powered Google Search Tools You Need to Try Today!</u></a></li>
-<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/uncovering-the-top-rated-dual-function-device-of-the-year-with-a-hidden-workplace-perk-a-zdnet-review/"><u>Uncovering the Top Rated Dual-Function Device of the Year with a Hidden Workplace Perk: A ZDNet Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-peak-performance-elevate-low-fps-on-pc/"><u>Unleash Peak Performance: Elevate Low FPS on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-stand-out-on-social-media-discover-a-hundredplus-creative-frameworks-for-your-snap-stories/"><u>[New] In 2024, Stand Out on Social Media Discover a Hundred+ Creative Frameworks for Your Snap Stories</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-clicks-to-cash-elevating-exposure-economics/"><u>[Updated] 2024 Approved From Clicks to Cash Elevating Exposure Economics</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-the-bits-activision-blizzard-titles-ready-for-reload-with-xbox/"><u>Bring Back the Bits! Activision Blizzard Titles Ready for Reload with Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/classic-console-fun-playing-nintendo-on-iphone/"><u>Classic Console Fun: Playing Nintendo on iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-gpu-drop-in-gaming-performance/"><u>Combatting GPU Drop in Gaming Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparative-display-examination-oled-amoled-and-lcd-tech/"><u>Comparative Display Examination: OLED, AMOLED and LCD Tech</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-tips-6-advanced-strategies-for-gif-artistry/"><u>Expert Tips 6 Advanced Strategies for GIF Artistry</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-12-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 12 Pro Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Plus Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-12-mini-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 12 mini? 5 Tips You Must Know</u></a></li>
 </ul></div>
 
