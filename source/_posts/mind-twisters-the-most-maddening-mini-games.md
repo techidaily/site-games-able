@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2024-11-20T16:54:11.777Z
-updated: 2024-11-25T03:05:54.534Z
+date: 2024-11-29T23:06:43.591Z
+updated: 2024-12-05T07:33:59.193Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ Let’s explore some of the names leading the scene.
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
 
  The primary objective is to get to the top of the map by jumping from platform to platform while navigating any obstacles you might encounter. This game has a somewhat medieval pixel art, which is one characteristic of classic 2D platformers.
@@ -44,10 +48,6 @@ Let’s explore some of the names leading the scene.
  Overall, Jump King will bring you hours of fun for your first introduction to the Foddian genre. This is one of the factors that makes it easy to recommend.
 
 **Download** : Jump King on[Steam](https://store.steampowered.com/app/1061090/Jump%5FKing/) , the[Nintendo Store](https://www.nintendo.com/store/products/jump-king-switch/) , the[PlayStation Store](https://store.playstation.com/en-us/product/UP3883-CUSA18541%5F00-JUMPKINGPS4US001) , or the[Xbox Store](https://www.xbox.com/en-US/games/store/jump-king/9PNLTX169N7L) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Getting Over It
 
@@ -66,12 +66,16 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -86,7 +90,7 @@ Let’s explore some of the names leading the scene.
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
@@ -99,13 +103,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
@@ -116,10 +120,6 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -142,21 +142,22 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-decoding-the-fuzziness-in-facebook-videos-for-2024/"><u>[New] Decoding the Fuzziness in Facebook Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-strategies-for-perfecting-igtv-video-titles-for-2024/"><u>[New] Strategies for Perfecting IGTV Video Titles for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-bonding-beyond-reality-top-metaverse-multiplayer-hits/"><u>2024 Approved Bonding Beyond Reality - Top Metaverse Multiplayer Hits</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/avi-m4v-movavi/"><u>自由下載 AVI 到 M4V: 利用 Movavi 優化影片格式 - 在線無限制</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-xbox-advantages-3-simple-steps/"><u>Decoding Xbox Advantages: 3 Simple Steps</u></a></li>
-<li><a href="https://games-able.techidaily.com/disassembling-the-powerhouse-xbox-s-controller-guide/"><u>Disassembling The Powerhouse: Xbox S Controller Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-features-choosing-the-best-chat-application-for-gamers/"><u>Essential Features: Choosing the Best Chat Application for Gamers</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lifetime-access-to-languages-black-fridays-best-price/"><u>Lifetime Access to Languages - Black Friday's Best Price</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-viral-meme-creation-techniques-for-2024/"><u>Mastering Viral Meme Creation Techniques for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-changes-pace-the-future-of-ai-games/"><u>Steam Changes Pace: The Future of AI Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-switching-dilemnas-for-gamers/"><u>The Ultimate Switching Dilemnas for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-playtime-claim-deals/"><u>Transform Your Playtime, Claim Deals!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-swap-your-ps5s-hdd-with-faster-ssd-storage/"><u>Ultimate Tutorial: How To Swap Your PS5's HDD with Faster SSD Storage</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210773287-9781685833848-unpacking-my-shit/"><u>Unpacking My Shit | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-frequent-connectivity-fixes/"><u>Xbox Series X Controller: Frequent Connectivity Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-efficiently-saving-your-screen-the-dell-approach/"><u>[New] 2024 Approved Efficiently Saving Your Screen The Dell Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-futures-virtual-frontier-predicted-top-5-new-ps-vr-titles/"><u>[Updated] In 2024, Future's Virtual Frontier Predicted Top 5 New PS VR Titles</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-ultimate-selection-for-premium-residential-weather-systems/"><u>2024'S Ultimate Selection for Premium Residential Weather Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan!</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-weighing-mech-vs-standard-keyboards/"><u>Gamers Weighing Mech Vs. Standard Keyboards</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-arena-rivalry-high-end-vs-low-cost-setup/"><u>Gaming Arena Rivalry: High-End vs Low-Cost Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/gpu-showdown-continues-with-amd-and-intel-debate/"><u>GPU Showdown Continues with AMD and Intel Debate</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-google-pixel-fold-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Google Pixel Fold Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-phantom-v-flip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Phantom V Flip phone? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/outsmarting-others-vanish-online-with-steam/"><u>Outsmarting Others: Vanish Online with Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/pimax-crystal-stunning-graphics-meets-technical-hurdles/"><u>Pimax Crystal: Stunning Graphics Meets Technical Hurdles</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-shifting-sessions-update-time-in-xbox-system/"><u>Seamless Shifting Sessions: Update Time in Xbox System</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-cool-play-smooth-finding-your-gpus-comfort-zone/"><u>Stay Cool, Play Smooth: Finding Your GPU's Comfort Zone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-to-scripting-engaging-youtube-videos-for-2024/"><u>Step-by-Step Guide to Scripting Engaging YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-disruptive-power-of-ios-145-for-facebooks-ad-business/"><u>The Disruptive Power of iOS 14.5 for Facebook's Ad Business</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-science-behind-predictive-ai-an-insightful-look/"><u>The Science Behind Predictive AI - An Insightful Look</u></a></li>
 </ul></div>
 

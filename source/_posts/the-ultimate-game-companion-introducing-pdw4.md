@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Game Companion: Introducing PDW4"
-date: 2024-09-09T09:34:02.648Z
-updated: 2024-09-10T09:34:02.648Z
+date: 2024-12-01T18:30:20.231Z
+updated: 2024-12-05T00:22:08.962Z
 tags:
   - games
 categories:
@@ -14,12 +14,6 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
 ## The Ultimate Game Companion: Introducing PDW4
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The GPD Win 4 is a powerful handheld gaming console for playing PC and Xbox games anywhere, but it lacks the comfort of its competitor, the Steam Deck.
@@ -35,6 +29,10 @@ But does it have what you need to enjoy PC gaming in any scenario?
  The[GPD Win 4 is currently $1099](https://affiliate.geekbuying.com/gkbaffiliate.php?id=150&url=944873) , but you can get an exclusive $400 discount through MakeUseOf. Simply add this discount code when you checkout:**NNN056GAME**
 
 ![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### GPD Win 4
 
@@ -109,11 +107,9 @@ Windows 11 pre-installed
 [$1099 at Geek Buying](https://affiliate.geekbuying.com/gkbaffiliate.php?id=150&url=944873)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Can You Do With a GPD Win 4 Gaming Handheld?
 
  Preinstalled with Windows 11 and equipped with an AMD Ryzen 7 6800U, the GPD Win 4 is a portable gaming machine. But whereas most handheld gaming systems today play retro games, this is something else entirely.
@@ -130,6 +126,10 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 with keyboard open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-kb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When keys are required, connecting a keyboard seems smarter; an onscreen keyboard should be adequate in most cases.
 
  That said, the action on the display’s sliding motion is nice. It feels like using a classic Windows Mobile phone, but this is arguably a direct lineage of “Pocket PC,” regardless of how many iterations and companies it took to get there.
@@ -140,24 +140,12 @@ One of the most stunning features of this device is the keyboard.
 
  The cable detaches from the charger (it’s USB Type-C at both ends) which makes it pretty flexible for most scenarios. Sadly, there's no case or even a small tote bag with this handheld. Accessories are available for the device, however, including a case.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## GPD Win 4 Gaming Handheld System Specification
 
  The specification for this handheld PC will surprise you. For context, it measures 220 x 92 x 28mm (8.66 x 3.62 x 1.1 inches), and weighs 598g (21.1oz). Inside its PSP-inspired chassis, you’ll find an AMD Ryzen 7 6800U with AMD Radeon 680M graphics, 16GB of RAM, and a 1TB M.2 SSD with Windows 11 pre-installed. The OS ensures all expected video, audio, and picture formats are playable.
 
 ![GPD Win 4 power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-left-power.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It supports 802.11ax Wi-Fi (Wi-Fi 6/6E) with 2.4 and 5GHz bands, and a dual channel maximum transmission rate of 2402Mbps. For audio and controllers, Bluetooth 5.2 is supported.
 
  A single USB 4 Type-C port supporting a data rate of 40Gbps is featured, along with a 3.5mm audio port. That port is on the top of the console for connectivity; the power port is on the lower side of the device. A USB 3 Type-A port is also provided, along with a TF slot for removable microSD card storage. Power and volume buttons are also provided.
@@ -170,6 +158,10 @@ One of the most stunning features of this device is the keyboard.
 
  The Corning Gorilla Glass 5 display is a 6-inch H-IPS with 1080p resolution, 368PPI, and refresh rate options of 40Hz and 60Hz. It boasts flicker-free DC light dimming and hides a QWERTY keyboard beneath. Sliding the display up reveals the keyboard; no other controls are hidden.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## USB Type C Expansion Options Turn It Into a PC
 
  With a suitable hub attached, the GPD Win 4 supports various expansions. Game controllers, printers, and input devices—they’re all compatible. You can watch videos, listen to music, and read eBooks.
@@ -178,15 +170,13 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 USB ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-ports.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Offering support for Wi-Fi, Bluetooth, and USB, you can hook up anything you would to a desktop computer. It doesn’t look like an office PC, but the GPD Win 4 is probably more powerful than the Dell on your desk at work.
 
  Note that there is also a USB Type A 3.0 port on the console. This is suitable for everything from external storage to additional peripherals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Design and Comfort of the GPD Win 4 Gaming Handheld
 
@@ -196,32 +186,14 @@ One of the most stunning features of this device is the keyboard.
 
 ![GPD Win 4 controller right](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-right-control.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For any game that requires “controller mode” a useful switch is situated on the left side of the console. This enables the thumbsticks and buttons to work as they would if you had plugged an Xbox controller into a PC.
 
  The GPD Win 4 also has supports rear-mounted expansions. At the time of writing, only a 4G LTE radio is available, which clips onto the back of the console. The mounting points can be seen in the molding of the chassis, which sports echoes of the Sony PSP handheld.
 
 ![GPD Win 4 left trigger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/muo-review-gpd-win-4-left-trigger.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  RGB LEDs cycle through a color change beneath the two clear shoulder buttons, changing how you might perceive the console. But when the color turns green, this white handheld feels like a portable Xbox 360.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Testing the GPD Win 4 Gaming Handheld
 
  I selected four games (all on Steam) to measure this device. How did they work out?
@@ -234,6 +206,10 @@ One of the most stunning features of this device is the keyboard.
  I like the controls on the device, which all seem to be where you would need them (apart from the ones on the back). The menu buttons are a different matter (see below).
 
  In terms of audio, the onboard speakers are a bit on the tinny size, but it sounds fine over a wired or Bluetooth headset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does the GPD Win 4 Compare to a Steam Deck?
 
@@ -249,18 +225,6 @@ One of the most stunning features of this device is the keyboard.
 
  Those rear buttons are a pain to reach, the Select and Start buttons are too small, and the mouse-to-controller toggle is easy to catch. That can cause some problems mid-game, let me tell you.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The GPD Win 4 Lets You Play Anywhere, for a Price
 
  At the most basic level, this handheld PC lets you play recent AAA titles on the go. That in itself is amazing, and with the controller layout, you get to enjoy seamless console-style gaming.
@@ -273,14 +237,11 @@ One of the most stunning features of this device is the keyboard.
 
  Hardware-wise, the GPD Win 4 is a Steam Deck killer, and battery life aside, delivers portable PC and console-level gaming. Comfort-wise, however, it only delivers hand cramps.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -289,4 +250,20 @@ One of the most stunning features of this device is the keyboard.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-angles-the-complete-manual-for-effective-video-turns/"><u>[New] In 2024, Instagram Angles The Complete Manual for Effective Video Turns</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-selecting-prime-meme-blueprints/"><u>[Updated] Selecting Prime Meme Blueprints</u></a></li>
+<li><a href="https://win-help.techidaily.com/acer-erecover/"><u>ACER eRecover ドライブをオリジナル工場梱包状態に完全修復</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficient-device-sharing-techniques-for-seamless-user-experience-on-steam-deck/"><u>Efficient Device Sharing Techniques for Seamless User Experience on Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/enterprise-of-exciting-games-in-google-play-beta-for-pc/"><u>Enterprise of Exciting Games in Google Play Beta for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-long-can-you-play-secrets-of-xbox-controller-power/"><u>How Long Can You Play? Secrets of Xbox Controller Power</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-metaverse-enthusiasts-secret-to-simple-avatars/"><u>In 2024, Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-android-a-guide-to-utilizing-the-measure-tool/"><u>Mastering Your Android: A Guide to Utilizing the Measure Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-approach-to-pairing-controllers-with-your-android-device/"><u>Step-By-Step Approach to Pairing Controllers With Your Android Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-mechanics-behind-ever-evolving-virtual-playgrounds/"><u>The Mechanics Behind Ever-Evolving Virtual Playgrounds</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-ranking-of-2024-vr-headsets-professional-assessments-and-insights-zdnet/"><u>Ultimate Ranking of 2024 VR Headsets: Professional Assessments and Insights | ZDNet</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/voice-driven-operations-free-of-charge/"><u>Voice-Driven Operations, Free of Charge</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-remote-play-service-unpacked/"><u>Xbox's Remote Play Service Unpacked</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unblocking Steam's Friends Error in Windows 11
-date: 2024-11-21T08:46:59.358Z
-updated: 2024-11-24T19:46:54.675Z
+date: 2024-12-02T16:30:27.604Z
+updated: 2024-12-05T05:03:09.746Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart Steam
@@ -36,14 +36,10 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 ![End Steam Client process from running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-task-manager-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart Steam and check if the issue is now fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Steam Friends & Chat Settings
 
@@ -58,7 +54,7 @@ Restart Steam and check if the issue is now fixed.
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -73,6 +69,14 @@ Restart Steam and check if the issue is now fixed.
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for**Steam** within the Start menu search bar and select**Open file location** . Then, right-click**Steam** and head to**Properties** . Open the**Shortcut** tab and add**\-nofriendsui** into the**Target** field.
@@ -86,10 +90,6 @@ Restart Steam and check if the issue is now fixed.
  To delete Steam’s cache, press**Windows key + R** to launch a Run dialog. Then, type**%appdata%** and press**Enter** . In the File Explorer window, locate and permanently delete the**Steam** folder.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can[view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) .
 
@@ -126,19 +126,22 @@ Restart Steam and check if the issue is now fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-itop-screen-recorder-essential-or-excessive/"><u>[New] 2024 Approved ITop Screen Recorder - Essential or Excessive?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unmatched-portable-experience-with-top-gba-simulators-android/"><u>[New] 2024 Approved Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-stand-out-with-custom-youtube-imagery/"><u>[New] Stand Out with Custom YouTube Imagery</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[Updated] 2024 Approved Begin with Class in Every Screen Best Intro Editor App</u></a></li>
-<li><a href="https://games-able.techidaily.com/economically-savvy-gamers-guide-to-xbox-series-xs/"><u>Economically Savvy Gamers' Guide to Xbox Series X/S</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-troubleshooting-steps-when-back-4-blood-wont-start-on-pcs-with-windows-11-10-and-7/"><u>Fixing the Issue: Troubleshooting Steps When 'Back 4 Blood' Won't Start on PCs with Windows 11, 10 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/heat-haze-the-dangerous-overclock-route/"><u>Heat Haze: The Dangerous Overclock Route</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-lag-solved-how-updating-your-graphic-card-drivers-can-help/"><u>Minecraft Lag Solved? How Updating Your Graphic Card Drivers Can Help</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstation-5-unconventional-gameplay-without-controllers/"><u>PlayStation 5: Unconventional Gameplay without Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-best-switch-ftp-games/"><u>Savvy Shopper's Guide: Best Switch FTP Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/switching-games-with-ps5-controller-pc-connection/"><u>Switching Games with PS5 Controller - PC Connection</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secrets-of-steam-points-accumulation/"><u>The Secrets of Steam Points Accumulation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/troubleshooting-and-resolving-samsung-ssd-drive-conflicts-within-the-windows-environment/"><u>Troubleshooting and Resolving Samsung SSD Drive Conflicts Within the Windows Environment</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unveiling-history-watching-older-facebook-content-on-your-device/"><u>Unveiling History Watching Older Facebook Content on Your Device</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-peculiar-pratfalls-memes-tailored-for-the-perfect-moment/"><u>[New] In 2024, Peculiar Pratfalls Memes Tailored for the Perfect Moment</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>[New] Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-becoming-an-expert-in-fisheye-panoramic-shots/"><u>[Updated] Becoming an Expert in Fisheye Panoramic Shots</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>[Updated] In 2024, DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-video-organization-the-art-of-chapter-addition/"><u>[Updated] YouTube Video Organization The Art of Chapter Addition</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-cellular-mechanisms-to-therapeutics-charting-the-course-for-cancer-fighting-cannabinoids/"><u>From Cellular Mechanisms to Therapeutics: Charting the Course for Cancer-Fighting Cannabinoids</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-much-does-sony-playstation-pass-cost/"><u>How Much Does Sony PlayStation Pass Cost?</u></a></li>
+<li><a href="https://fox-search.techidaily.com/how-to-fix-a-non-opening-png-image-issue-in-windows-11/"><u>How to Fix a Non-Opening PNG Image Issue in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-splitcam-review-is-it-the-best-video-recorder/"><u>In 2024, SplitCam Review Is It The Best Video Recorder?</u></a></li>
+<li><a href="https://games-able.techidaily.com/inquiring-about-video-memory-specifications/"><u>Inquiring About Video Memory Specifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/iphone-makeover-become-your-own-gaming-console/"><u>IPhone Makeover: Become Your Own Gaming Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-optimizing-expert-tips-on-using-your-steam-deck/"><u>Master the Art of Optimizing: Expert Tips on Using Your Steam Deck</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-0x80070091-error-when-performing-a-system-restore-on-windows-10-solution/"><u>Overcoming the 0X80070091 Error When Performing a System Restore on Windows 10 [Solution]</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-peripherals-with-the-joy-cons-and-pro-controller-105-chars-slight-adjustment-needed/"><u>Pairing Peripherals with the Joy-Cons & Pro Controller (105 Chars) - Slight Adjustment Needed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/remier-16-youtube-openings-elevating-viewer-count-for-2024/"><u>The Premier 16 YouTube Openings Elevating Viewer Count for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-steam-deck-model-should-you-buy/"><u>Which Steam Deck Model Should You Buy?</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-xboxs-alliance-with-activision-benefit-gamers/"><u>Will Xbox's Alliance with Activision Benefit Gamers?</u></a></li>
 </ul></div>
 

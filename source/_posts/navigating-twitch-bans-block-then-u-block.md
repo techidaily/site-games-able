@@ -1,7 +1,7 @@
 ---
 title: "Navigating Twitch Bans: Block, Then U-Block?"
-date: 2024-11-20T16:30:30.866Z
-updated: 2024-11-25T10:02:20.038Z
+date: 2024-12-03T22:54:18.420Z
+updated: 2024-12-04T22:49:03.929Z
 tags:
   - games
 categories:
@@ -35,18 +35,26 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
 
 ![The block confirmation screen on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-confirmation.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Twitch won't retroactively scrub away the person's messages, so if they said something particularly nasty, refresh the page to clear the chat and get rid of their comments.
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unblock People on Twitch: The Easiest Way
@@ -56,6 +64,10 @@ Here's how to block or unblock someone on Twitch...
  The problem is, if you blocked the person a long time ago, you won't see their messages anymore. If you can't see their messages, you can't click their name to unblock them!
 
  If you know what the user's exact name is, you can**type /unblock \[username\]** to bring them back. However, if you can't remember their name, you'll need to do some extra work.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unblock People on Twitch Using Settings
 
@@ -67,6 +79,10 @@ Here's how to block or unblock someone on Twitch...
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
@@ -75,19 +91,11 @@ Here's how to block or unblock someone on Twitch...
 
  Twitch will save the changes immediately and remove the user from your block list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
 
  Here are the best ways to unblock people on Twitch on iOS and Android...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Unblock People on iOS
 
@@ -101,15 +109,7 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
@@ -140,20 +140,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-ultimate-stream-software-showdown-obs-vs-shadowplay/"><u>[New] In 2024, The Ultimate Stream Software Showdown OBS vs ShadowPlay</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-navigating-the-digital-landscape-mastery-of-video-filter-techniques/"><u>[New] Navigating the Digital Landscape Mastery of Video Filter Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazons-e-readers-and-tablets-faceoff-the-essential-contrast-between-kindle-and-fire/"><u>Amazon's E-Readers and Tablets Faceoff: The Essential Contrast Between Kindle and Fire</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-of-both-worlds-top-android-video-editor-apps-for-chromebook-users/"><u>Best of Both Worlds Top Android Video Editor Apps for Chromebook Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-personalized-sound-exclusive-headset-use/"><u>Ensuring Personalized Sound: Exclusive Headset Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-playing-steam-on-iphones-and-tablets/"><u>Essential Tips for Playing Steam on iPhones and Tablets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/estrategias-essenciais-para-iniciantes-fazerem-sucesso-em-videos-do-youtube-passo-a-passo/"><u>Estratégias Essenciais Para Iniciantes Fazerem Sucesso Em Vídeos Do YouTube – Passo a Passo!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/nitro-premium-exceeding-standard-benefits/"><u>Nitro Premium: Exceeding Standard Benefits?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/open-new-doors-in-life-and-career-by-learning-hindi-reveal-top-8-reasons-to-choose-mondlys-platform/"><u>Open New Doors in Life and Career by Learning Hindi: Reveal Top 8 Reasons to Choose Mondly's Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/play-anywhere-decide-between-tablet-and-smartphone/"><u>Play Anywhere? Decide Between Tablet & Smartphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-remedy-for-dxgierrordevicehunk-on-windows-1011/"><u>Quick Remedy for DXGI_ERROR_DEVICE_HUNK on Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/simple-guide-overcoming-the-failed-to-install-discord-hurdle-successfully/"><u>Simple Guide: Overcoming the 'Failed to Install Discord' Hurdle Successfully</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12-proplus-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12 Pro+ 5G Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-ai-game-evolution-with-steams-regulations/"><u>Understanding AI Game Evolution with Steam's Regulations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-actor-rights-free-movie-downloads-license/"><u>[Updated] Actor Rights Free Movie Downloads License</u></a></li>
+<li><a href="https://games-able.techidaily.com/critics-cliches-the-fallacies-behind-review-scores/"><u>Critics' Cliches: The Fallacies Behind Review Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-intels-technology-for-optimized-gameplay/"><u>Deciphering Intel's Technology for Optimized Gameplay</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-xs-max-how-to-unlock-a-disabled-iphone-xs-max-by-drfone-ios/"><u>Disabled iPhone XS Max How to Unlock a Disabled iPhone XS Max?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/easily-stop-bluestacks-from-crashing-with-our-5-step-guide/"><u>Easily Stop BlueStacks From Crashing with Our 5-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-hot-40-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Hot 40 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-gpu-leaning/"><u>Unveiling the Secrets of GPU Leaning</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-updates-steam-family-access-for-first-time-in-10-years/"><u>Valve Updates Steam Family Access for First Time in 10 Years</u></a></li>
 </ul></div>
 

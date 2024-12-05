@@ -1,7 +1,7 @@
 ---
 title: "Evolved Rendering Tech: DirectX Series Analysis"
-date: 2024-11-21T07:38:58.977Z
-updated: 2024-11-24T16:48:36.921Z
+date: 2024-11-28T20:31:49.099Z
+updated: 2024-12-05T01:24:04.093Z
 tags:
   - games
 categories:
@@ -23,20 +23,20 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is Microsoft's DirectX?
 
 ![DirectX logo imposed on a photo of a man coding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As explained in[our overview of Microsoft DirectX](https://www.makeuseof.com/tag/everything-need-know-directx-2016/) , DirectX is a collection of application programming interfaces (APIs) used for handling tasks related to multimedia. This includes game programming on Microsoft-based platforms like Windows and Xbox. To provide some context, let's briefly talk about APIs.
 
  An API makes it possible for two or more computer programs to communicate with each other, which we discuss in[our overview of APIs](https://www.makeuseof.com/what-is-api/) . Think of it like a telephone. If your mom texts you with a grocery list, your phone will receive that data and display it for you. That is basically an API.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between DirectX 11 and DirectX 12?
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  This significantly reduces the CPU overhead found in DirectX 11 and improves performance. So, what does this difference look like? Well, according to Microsoft, DirectX 12 reduces CPU overhead by up to 50 percent and improves GPU performance by as much as 20 percent. While those are some substantial improvements, this doesn't mean you will see the same results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Switching From DirectX 11 to DirectX 12 Isn't Straightforward
@@ -73,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
  That being said, a game developed in DirectX 12 could end up with worse performance depending on the developer's knowledge of the API. Some improvements come with DirectX 12, but it really comes down to how well a developer can implement it. For this reason, many developers choose to stick to high-level APIs like DirectX 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## DX 11 vs. DX 12: Which Should You Choose?
 
  The answer depends on a few things, like what game you are trying to run. For example, Guild Wars 2 runs on DirectX 11\. Even if your OS and hardware can use DirectX 12, you will not have the option to select DirectX 11 in Guild Wars 2 because the game does not support it. This is entirely the decision of the developer, ArenaNet.
 
 ![In-game image from Guild Wars 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/untitled-design-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: Martin Kerstein/[Guild Wars 2](https://www.guildwars2.com/en/news/guesting-is-coming/)
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
  In addition to in-game support, choosing between DirectX 11 and DirectX 12 will also depend on your hardware. Just about any modern GPU will support DirectX 12, but the same can't be said for older GPUs like the Radeon HD 4870\. Released in 2008, this GPU only supports up to DirectX 10\. This means it would be incapable of running most modern games, which run using DirectX 11 and DirectX 12.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is DirectX 12 the Right Choice for You?
@@ -116,19 +116,18 @@ thumbnail: https://thmb.techidaily.com/eb6c43743edfe7719c43f746c3a62c94afe56182a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-chromes-best-5-sites-to-download-fb-videos-for-2024/"><u>[New] Chrome's Best 5 Sites to Download FB Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-audience-wow-factor-best-stream-cameras-for-your-twitch-channel/"><u>[New] In 2024, Audience Wow Factor Best Stream Cameras for Your Twitch Channel</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-stealth-video-tactics-for-soundless-capture/"><u>[New] In 2024, Stealth Video Tactics for Soundless Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-process-of-batched-tiktok-content-extraction-for-2024/"><u>[New] Unveiling the Process of Batched TikTok Content Extraction for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-privacy-focused-tools-for-unseen-story-watching/"><u>[Updated] In 2024, Privacy-Focused Tools for Unseen Story Watching</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-monetary-impact-of-mr-beast/"><u>2024 Approved The Monetary Impact of Mr. Beast</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-tale-of-three-missteps-my-rtx-4090-journey/"><u>A Tale of Three Missteps: My RTX 4090 Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/achieve-optimal-gaming-learn-how-to-fine-tune-xbox-series-vrr-configurations/"><u>Achieve Optimal Gaming: Learn How to Fine-Tune Xbox Series VRR Configurations</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-rtx-now-essential-post-gtx-era/"><u>Are RTX Now Essential Post-GTX Era?</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-in-selecting-the-right-oled-tv/"><u>Avoiding Common Pitfalls in Selecting the Right OLED TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719173882396-bid-farewell-to-single-os-on-steam-deck/"><u>Bid Farewell to Single OS on Steam Deck</u></a></li>
-<li><a href="https://article-posts.techidaily.com/enhance-pics-with-frames-top-lists-for-web-and-app-use/"><u>Enhance Pics with Frames - Top Lists for Web and App Use</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/meta-quest-3-insights-new-releases-price-points-specs-and-news-overview/"><u>Meta Quest 3 Insights: New Releases, Price Points, Specs, and News Overview</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170335503-what-is-the-essence-of-meta-in-video-games-compliance-matters/"><u>What Is the Essence of Meta in Video Games? Compliance Matters!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-identifying-top-8-linux-tools-for-immediate-screenshots-for-2024/"><u>[New] Identifying Top 8 Linux Tools for Immediate Screenshots for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>[Updated] Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-system-lags-with-updated-nvidia-graphics-drivers/"><u>Eliminate System Lags with Updated Nvidia Graphics Drivers.</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-longevity-tips-for-an-enduring-xbox-control/"><u>Ensuring Longevity: Tips for an Enduring Xbox Control</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonious-pcs-ensuring-components-unite-flawlessly/"><u>Harmonious PCs: Ensuring Components Unite Flawlessly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-15-plus-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 15 Plus Factory Reset? | Stellar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-the-mp4-conversion-process-overcoming-ifo-format-challenges-with-expert-guidel/"><u>Mastering the MP4 Conversion Process: Overcoming IFO Format Challenges with Expert Guidel</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/on-december-3rd-google-play-announced-its-choice-and-also-presented-the-best-android-apps-that-were-selected-by-users-so-without-further-ado-lets-take-a-loo/"><u>On December 3Rd Google Play Announced Its Choice and Also Presented the Best Android Apps that Were Selected by Users. So without Further Ado Lets Take a Look at the Best and Most Popular And</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscovering-classics-moviesgames-in-windows-folder/"><u>Rediscovering Classics: Movies/Games in Windows Folder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-spectrums-impact-applying-color-dynamics-for-2024/"><u>The Spectrum's Impact Applying Color Dynamics for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-ea-play-hits-for-ps5-gamers/"><u>Top 7 EA Play Hits For PS5 Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-choice-top-5-retro-handheld-picks/"><u>Ultimate Gaming Choice: Top 5 Retro Handheld Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-convert-rip-protected-dvds-using-vlc-and-handbrake-without-hiccups/"><u>Ultimate Guide: Convert Rip-Protected DVDs Using VLC & Handbrake Without Hiccups</u></a></li>
 </ul></div>
 

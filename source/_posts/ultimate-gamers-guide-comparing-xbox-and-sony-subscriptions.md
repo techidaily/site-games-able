@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Gamer's Guide: Comparing Xbox and Sony Subscriptions"
-date: 2024-09-09T09:34:02.140Z
-updated: 2024-09-10T09:34:02.140Z
+date: 2024-12-03T06:50:46.518Z
+updated: 2024-12-05T06:25:18.078Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
 
  The base tier of PlayStation Plus (Essential) is most similar to Game Pass Core. As a result, we'll spend most of this comparison on PS Plus Essential and Game Pass Core, then briefly cover the other tiers at the end.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PlayStation Plus Essential and Game Pass Core: Basics
 
  Neither PlayStation Plus nor Game Pass Core are required for the basic functionality of your console. You can enjoy media apps like Netflix and Spotify, buy digital games, and play single-player titles without subscribing.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5279af7c39b88fd4998fb7b9c2ae678e663ed7715
  The PS4, PS5, Xbox One, and Xbox Series X|S consoles all allow you to share certain benefits of one subscription with every user on the console. As long as you designate your console as your primary system and keep your subscription active, anyone using it can play games online without having to pay for their own subscription. For more, we've shown[how to gameshare on PS5](https://www.makeuseof.com/how-to-enable-game-sharing-playstation-5/) and[how to gameshare on Xbox Series consoles](https://www.makeuseof.com/how-to-gameshare-on-xbox-series-x/) .
 
 Let's walk through the primary benefits of both services.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access to Online Multiplayer (for Paid Titles)
 
@@ -43,11 +51,9 @@ Let's walk through the primary benefits of both services.
  Both PlayStation Plus and Game Pass Core offer "free" games (included as part of the cost) with your subscription. However, these work differently across the two services.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### PlayStation Plus Free Games
 
  Each month, PlayStation Plus subscribers get to add a few free games to their library. Since the PlayStation 5's launch, there have been three games per month. Generally, two of them are PS4 games, with at least one PS5 title that may also have a PS4 version.
@@ -70,56 +76,30 @@ Let's walk through the primary benefits of both services.
 
  If you previously subscribed to Xbox Live Gold, any Xbox 360 titles you claimed through Games With Gold are yours to keep. You can still access Xbox One titles as long as you stay subscribed to Game Pass Core (or Ultimate).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Digital Game Discounts
 
 ![PS Plus Discounts on Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/PS-Plus-Discounts-Store.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In addition to the free games, PlayStation Plus and Game Pass Core both offer a variety of discounts on their respective digital stores.
 
  Of course, there are differences in the frequency and volume of what’s available. It's hard to compare the services directly in this area, as the sales vary in frequency and value. You might find a Game Pass-exclusive sale on the Microsoft Store, or deeper discounts with PlayStation Plus than non-members get.
 
  These discounts extend to DLC and consumable items, so it's not just full titles. With PS Plus, you'll also sometimes get exclusive access to betas, plus some freebies like add-ons for various games or profile avatars.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Subscription Features
 
  We've covered the main features above, but PlayStation Plus and Game Pass Core both have a few other considerations to keep in mind.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cloud Save Storage
 
  PlayStation Plus gives you space to store your game saves in the cloud. Subscribers get 100GB for PS4 saves and another 100GB for PS5 saves. This space allows you to[back up your precious save data](https://www.makeuseof.com/tag/protect-your-game-saves/) , as well as easily transfer your saves to another console.
 
  However, both the Xbox One and Xbox Series X|S provide cloud storage without a subscription. Microsoft says "as your game library grows, so does your cloud storage," so the exact amount isn't known.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Party Chat and Share Play
 
  On both PS4 and PS5, even without PS Plus, you can create parties to chat with your friends no matter what game you're playing. Xbox consoles also allow you to do this; you don't need Xbox Game Pass to join a party and chat with friends.
@@ -128,28 +108,20 @@ Let's walk through the primary benefits of both services.
 
  You need PlayStation Plus to host a Share Play session. Both people need PS Plus to use the "play a game together" feature.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### PlayStation Game Help
 
  The PS5 has a feature called Game Help that lets you see tips and tricks for supported games. It works without leaving your current game, so you don't have to pull up a separate walkthrough in the browser.
 
  This isn't available on PS4, and requires a PS Plus subscription to use on PS5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Automatic Updates and Other Perks
 
  Finally, PS Plus enables some convenient features on PS4 and PS5, such as automatically downloading game updates in Rest mode. It also gives you priority shipping if you order physical goods from Sony's online store.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Cost of PS Plus and Game Pass Core
 
  For a long time, the retail price of Xbox Live Gold and PlayStation Plus Essential was the same: $60 per year. However, this has changed as of 2023.[PlayStation Plus's pricing](https://www.makeuseof.com/how-much-does-playstation-plus-cost/) has seen a major hike across all its tiers.
@@ -174,6 +146,10 @@ Let's walk through the primary benefits of both services.
 
  We've[compared Xbox Game Pass and PlayStation Plus](https://www.makeuseof.com/playstation-now-vs-xbox-game-pass/) for a deeper look at both, including how their streaming offerings differ.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Premium Gaming With PS Plus and Xbox Game Pass
 
  Now you know what PlayStation Plus and Game Pass Core each offer, and can decide whether they're worthwhile for you.
@@ -184,14 +160,11 @@ Let's walk through the primary benefits of both services.
 
  Whichever system you play on, you'll get a lot of value out of either service.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -200,4 +173,20 @@ Let's walk through the primary benefits of both services.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimizing-your-videography-journey-using-adobe-connects-tools/"><u>[Updated] In 2024, Optimizing Your Videography Journey Using Adobe Connect's Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-perfecting-your-hulu-capture-pc-macios-android-tips/"><u>[Updated] In 2024, Perfecting Your Hulu Capture PC, Mac/iOS, Android Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-fire-fb-videos-guide-premium-apps-to-fasten-your-content/"><u>[Updated] Rapid-Fire FB Videos Guide - Premium Apps to Fasten Your Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cat5-vs-cat6-network-cables-which-one-suits-your-needs-better/"><u>Cat5 Vs. Cat6 Network Cables - Which One Suits Your Needs Better?</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-world-exploration-digitally-downloading-your-next-adventure/"><u>Game World Exploration: Digitally Downloading Your Next Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/illuminating-the-hidden-gems-a-seekers-guide-to-shiny-pokemon-in-scarlet-and-violet-84/"><u>Illuminating the Hidden Gems: A Seeker's Guide to Shiny Pokémon in Scarlet & Violet (84)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-drivers-for-your-canon-mx490-printer-download-and-update-instructions-for-windows-users/"><u>Latest Compatible Drivers for Your Canon MX490 Printer: Download and Update Instructions for Windows Users</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/mejor-guia-completa-de-extractores-gratuitos-de-dvd-en-windows-10-2020-transforma-tus-peliculas-desde-mp4-avi-y-wmv/"><u>Mejor Guía Completa De Extractores Gratuitos De DVD en Windows 10 (2020): Transforma Tus Películas Desde MP4, AVI Y WMV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-ps5-experience-ideas-for-9-new-features/"><u>Transform Your PS5 Experience: Ideas for 9 New Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-potential-cpu-limitations-on-your-computers-speed/"><u>Unveiling Potential CPU Limitations on Your Computer's Speed</u></a></li>
+</ul></div>
 

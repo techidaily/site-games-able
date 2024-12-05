@@ -1,7 +1,7 @@
 ---
 title: Game Storytelling Enhanced by AI Technology
-date: 2024-11-17T20:01:19.347Z
-updated: 2024-11-25T03:42:47.899Z
+date: 2024-11-29T02:10:32.520Z
+updated: 2024-12-04T18:29:35.304Z
 tags:
   - games
 categories:
@@ -23,9 +23,17 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Simplify the Dialogue
 
 ![simplifying dialogue using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/simplifying-dialogue.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "\[Dialogue\] Simplify this dialogue and make it more conversational for a video game.”
 
@@ -33,17 +41,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  If you want to simplify dialogues in bulk, you can insert the whole dialogue tree into the prompt as well. If you run into the[ChatGPT character input limit, there are ways to bypass it](https://www.makeuseof.com/what-is-chatgpt-character-input-limit/) . Just be sure to put the dialogues in quotation marks, so the chatbot can easily recognize them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Give the NPCs Some Character
 
 ![chatgpt roleplaying as npc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-roleplay.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Role-play as a \[NPC character name and world setting\]. \[Provide some character history and background.\]"
 
@@ -51,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  You can then ask questions about the character, and the chatbot will role-play as the NPC to give you detailed answers. You can even[use ChatGPT for fictional worldbuilding](https://www.makeuseof.com/chatgpt-fictional-worldbuilding-how-to/) and create new characters from scratch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Convey Character by Adding Emotion
 
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
 
@@ -65,7 +65,15 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![kinds of emotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/type-of-emotion.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 > **Prompt inspiration** : "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Generate Codex Entries
 
@@ -87,17 +95,9 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  Or, you could request the chatbot to provide you with quest examples from other video games. You can then judge how well these types of quests worked for the game in question before incorporating them in your own script.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Write Barks
 
 ![chatgpt generating barks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-barks.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Give me a list of barks for a \[Insert character type\] commenting on the player's \[Insert situation for which you need the bark\]."
 
@@ -126,16 +126,16 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-hacks-averted-restore-your-facebook-account-safely/"><u>[Updated] Hacks Averted! Restore Your Facebook Account Safely</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] In 2024, Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
-<li><a href="https://games-able.techidaily.com/control-your-own-soccer-saga-old-championship-manager-on-pc-for-zero-dollars/"><u>Control Your Own Soccer Saga: Old Championship Manager on PC for ZERO Dollars</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-twitch-features-through-prime-membership/"><u>Discover Twitch Features Through Prime Membership</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/expert-level-bootstrap-pro-ui-framework-for-vue-developers-ultimate-admin-template-by-creative-tim/"><u>Expert-Level Bootstrap PRO UI Framework for Vue Developers - Ultimate Admin Template by Creative Tim</u></a></li>
-<li><a href="https://win-special.techidaily.com/guide-expert-pour-restaurer-des-photographies-supprimees-sur-les-modeles-fujifilm/"><u>Guide Expert Pour Restaurer Des Photographies Supprimées Sur Les Modèles Fujifilm</u></a></li>
-<li><a href="https://games-able.techidaily.com/hot-10-deals-playstations-midsummer-madness/"><u>Hot 10 Deals: PlayStation's Midsummer Madness</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-multitasking-media-expertise-in-using-picture-in-picture-for-2024/"><u>Navigating Multitasking Media Expertise in Using Picture-in-Picture for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-artificial-intelligence-in-dlss-update-35/"><u>Nvidia's Artificial Intelligence in DLSS Update 3.5</u></a></li>
-<li><a href="https://games-able.techidaily.com/ten-hilarious-word-puzzles-that-break-the-ice-in-chats/"><u>Ten Hilarious Word Puzzles That Break The Ice in Chats</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/to-embrace-or-not-the-sonoma-os-dilemma/"><u>To Embrace or Not: The Sonoma OS Dilemma</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-social-medias-shadowy-side-spotting-fake-likes/"><u>[Updated] Navigating Social Media's Shadowy Side Spotting Fake Likes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bing-explained-a-window-into-microsofts-web-search-solution/"><u>Bing Explained: A Window Into Microsoft's Web Search Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-flat-to-fierce-transformative-color-workflows/"><u>In 2024, From Flat to Fierce Transformative Color Workflows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unleash-your-inner-shutterbug-on-android/"><u>In 2024, Unleash Your Inner Shutterbug on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/proving-worth-key-elements-for-rpg-controllers/"><u>Proving Worth: Key Elements for RPG Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-xbox-controller-updates-on-series-xs/"><u>Resetting Xbox Controller Updates on Series X/S</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revisiting-the-eco-friendly-era-the-case-for-apples-return-to-plastic-notebook-design/"><u>Revisiting the Eco-Friendly Era: The Case for Apple's Return to Plastic Notebook Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-the-past-embrace-future-with-pi-in-game-development/"><u>Revive the Past, Embrace Future with Pi in Game Development</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-overcome-components-needed-error-on-windows-11-and-11/"><u>Steps to Overcome Components Needed Error on Windows 11 & 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-15-pre-loaded-ios-games-fun-without-connections/"><u>Top 15 Pre-Loaded iOS Games: Fun WITHOUT Connections!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-6-free-video-converters-for-windows-10-unveiling-their-superiority/"><u>Top 6 Free Video Converters for Windows 10: Unveiling Their Superiority</u></a></li>
 </ul></div>
 

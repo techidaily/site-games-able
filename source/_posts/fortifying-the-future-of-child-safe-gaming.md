@@ -1,7 +1,7 @@
 ---
 title: Fortifying the Future of Child-Safe Gaming
-date: 2024-11-18T19:58:16.178Z
-updated: 2024-11-25T13:58:12.281Z
+date: 2024-12-02T05:04:11.207Z
+updated: 2024-12-05T07:46:58.073Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Create and Add a Child Account
 
  First, you should create a child account for your minor and add that account to the PS5\. This account will set the default content restriction based on the age of the account user.
@@ -36,10 +40,6 @@ Here’s how to set up a child account:
 ![Add Family Member page on the PS5 with a QR Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-family-member-page-on-the-ps5-with-a-qr-code.JPG)
 3. After you’re logged in, scan the QR code to add a family member using your phone. Alternatively, you can visit the[PSN family management page](https://www.playstation.com/acct/family) on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Choose**Set Up Now** and select**Add a Child** .
 5. Enter the child’s birthday.  
 ![Add a Child sub-window on the PSN website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-on-the-psn-website.jpeg)
@@ -47,10 +47,6 @@ Here’s how to set up a child account:
 7. Enter an email address and password for the account.  
 ![Add a Child sub-window asking for an email address and password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-a-child-sub-window-asking-for-an-email-address-and-password.jpeg)
 8. Choose**Confirm** on each page till you finish.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You don’t need to worry about all the options you see while setting up the child account. You can always change it from the PSN Family panel or from the**Family and Parental Controls** section of the PS5’s settings.
 
@@ -65,10 +61,6 @@ Follow these steps:
 1. Go to**Settings > Family and Parental Controls** , choose your child’s account from the list, and select**Parental Controls** .  
 ![Family Management page for a child account on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/family-management-page-for-a-child-account-on-the-ps5.JPG)
 2. Select**Restriction level** and choose a preset from the list.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Parental Controls page with restriction level dropdown menu on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/parental-controls-page-with-restriction-level-dropdown-menu-on-the-ps5.JPG)
 3. **Optional** : Customize the preset by adjusting the restriction level for all the other options on the page.
@@ -87,7 +79,7 @@ You can set age restrictions for the following options:
  You’ll find the options to change the restriction levels for all of the above on that parental control page. You should adjust it based on your parenting preferences and the child’s age.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set Up Console Restrictions and User Passcodes
@@ -103,7 +95,7 @@ Here’s how to set up the console restrictions passcode:
 2. Enter the default passcode:**0000** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Console restriction passcode on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/console-restriction-passcode-on-the-ps5.JPG)
@@ -112,6 +104,10 @@ Here’s how to set up the console restrictions passcode:
 ![PS5 Console Restrictions page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ps5-console-restrictions-page.JPG)
 4. Enter the new password twice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the PS5 console restrictions page, apart from changing the console restrictions passcode, you have options to:
 
 * Allow or disallow users from creating new users and logging in as guests (**User Creation and Guest Login**). This is useful for stopping the child from creating new accounts to bypass your restrictions
@@ -119,6 +115,10 @@ Here’s how to set up the console restrictions passcode:
 * Disable console restrictions (**Temporarily Disable PS5 Console Restrictions**). You can use this to turn off console restrictions temporarily in case it’s too restrictive for you as an adult user.
 
  Don’t forget your console restriction passcode. As far as we know, there’s no way to recover it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set a Checkout Password and a Monthly Spending Limit
 
@@ -136,6 +136,10 @@ Here’s how to set up the console restrictions passcode:
 5. Select**Confirm** after you’re finished.
 
  We’re unsure why Sony made the spending limit a dropdown preset menu. But you can’t input a custom amount as a spending limit for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enforce Playtime Limits
 
@@ -158,10 +162,6 @@ Here’s how to do it:
 6. Choose**Save** on the right-hand side of the page when you’re done.
 
  Older children may not appreciate this setting much, so it’s probably a better idea to discuss their playtime rather than outright blocking them from using the console.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The PS5 Offers Extensive Safety Provisions for Children
 
@@ -186,24 +186,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-adopting-nature-positive-policies-in-urban-governance/"><u>[Updated] Adopting Nature-Positive Policies in Urban Governance</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-tips-for-easily-accessing-videos-on-facebook-for-2024/"><u>[Updated] Tips for Easily Accessing Videos on Facebook for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-canon-camera-experience-no-cost-but-pay-for-more-luts/"><u>2024 Approved Canon Camera Experience No Cost, But Pay for More LUTs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-grasping-the-full-potential-of-animoji-on-iphone-x/"><u>2024 Approved Grasping the Full Potential of Animoji on iPhone X</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-scripted-sign-offs-for-the-savvy-viewer/"><u>2024 Approved Scripted Sign-Offs for the Savvy Viewer</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-features-that-would-make-the-ps5-better/"><u>9 Features That Would Make the PS5 Better</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-in-the-hole-adding-windows-to-your-steam-deck/"><u>Ace in the Hole: Adding Windows to Your Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/amd-unveils-fsr-3-upgrade-or-obsolete-against-dlss-35/"><u>AMD Unveils FSR 3: Upgrade or Obsolete Against DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/asus-rog-ally-laptop-docks-the-ultimate-guide-to-2024/"><u>ASUS ROG Ally Laptop Docks: The Ultimate Guide to 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-hurdles-in-your-next-steam-decks-ssd-changeover/"><u>Avoiding Hurdles in Your Next Steam Deck's SSD Changeover</u></a></li>
-<li><a href="https://games-able.techidaily.com/baldurs-gate-3-download-path-unveiled/"><u>Baldur's Gate 3: Download Path Unveiled!</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-match-for-your-nintendo-switch/"><u>Best Match for Your Nintendo Switch</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-overwatch-not-working-voice-chat-issues-instantly/"><u>Expert Tips for Fixing 'Overwatch Not Working' Voice Chat Issues Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172453461-ready-for-a-game-check-out-chatgpts-best-six-games/"><u>Ready for a Game? Check Out ChatGPT's Best Six Games</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tcl-32-inch-smart-roku-led-tv-a-comprehensive-2019-model-review/"><u>TCL 32-Inch Smart Roku LED TV - A Comprehensive 2019 Model Review</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transferring-dvd-content-to-a-usb-stick-step-by-step-guide-for-windows-and-mac/"><u>Transferring DVD Content to a USB Stick - Step-by-Step Guide for Windows & Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-x-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone X Without Passcode Easily</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11 Pro 5G Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exploring-best-video-grabbers-for-win11-for-2024/"><u>[Updated] Exploring Best Video Grabbers for Win11 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-patience-into-speed-with-apps/"><u>[Updated] Transforming Patience Into Speed with Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-seamless-skype-group-communication-for-pcmac/"><u>2024 Approved Unlocking Seamless Skype Group Communication for PC/Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203377715-enhancing-your-windows-11-keyboards-performance-eliminate-latency-problems-now/"><u>Enhancing Your Windows 11 Keyboard's Performance: Eliminate Latency Problems Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/exiting-the-ps-plus-realm-game-destiny/"><u>Exiting the PS Plus Realm: Game Destiny</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-preventing-resident-evil-4-remastered-from-suddenly-shutting-down/"><u>Fixing the Issue: Preventing Resident Evil 4 Remastered From Suddenly Shutting Down</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-windowsmacos-controlling-the-game/"><u>From PlayStation to Windows/macOS: Controlling the Game</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-asmr-magic-quality-audio-on-a-budget/"><u>In 2024, Affordable ASMR Magic Quality Audio on a Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-the-mask-authenticity-battling-illusion-in-games/"><u>Inside the Mask: Authenticity Battling Illusion in Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstarting-retro-game-projects-with-the-might-of-pi/"><u>Jumpstarting Retro Game Projects with the Might of Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/short-lived-strategic-secrets-limited-playtime-power-ups/"><u>Short-Lived Strategic Secrets: Limited Playtime Power-Ups</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-acquire-google-play-games-pc-app/"><u>Steps to Acquire Google Play Games PC App</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-breakdown-of-ea-plays-monetary-requirements/"><u>The Breakdown of EA Play's Monetary Requirements</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-creative-expression-mastering-jump-cut-usage-for-2024/"><u>Unlock Creative Expression Mastering Jump Cut Usage for 2024</u></a></li>
 </ul></div>
 

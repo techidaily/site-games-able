@@ -1,7 +1,7 @@
 ---
 title: Why Portable Games May Not Always Win
-date: 2024-09-04T21:52:11.984Z
-updated: 2024-09-05T21:52:11.984Z
+date: 2024-11-27T17:10:36.837Z
+updated: 2024-12-05T03:48:23.122Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
  There's a lot of talk in the tech industry about how mobile gaming is the future. And yet, the games that make the top charts on app stores don't really help inspire much confidence in that future. At best, we get games that are good enough to play for a couple of minutes, but never to immerse ourselves deeply in the story or gameplay.
 
  But why is that? Why does mobile gaming still feel so underwhelming? Given all this bleeding-edge innovation in smartphone hardware and software, you'd expect mobile gaming to catch up, right? Well, the problem is unfortunately way more nuanced than that. Here are seven problems with mobile gaming we are yet to solve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Paid Mobile Games Don't Sell Well
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Low Consumer Expectations
 
  On some level, we the users are also responsible for mobile gaming having a bad image. Unless you've never been on Reddit, you know that people often criticize mobile gaming for not being "real gaming" due to reasons that are too obvious to ignore.
@@ -54,12 +62,6 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 ![person sitting at desk wearing headphones playing online games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/person_online_gaming.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Mobile gaming is seen as an expendable source of entertainment—something that you can trade away easily for something else. So naturally, users don't bother complaining when a mobile game is bad. In other words, there is no real feedback mechanism.
 
  Most people simply uninstall an app if they don't like it and install another one, hoping it won't be as much of a disappointment. This is not the case with PC or console gaming.
@@ -69,21 +71,17 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Poor Touchscreen Controls
 
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
  Given this limitation, those controls often end up being either painfully small or so big that they interrupt gameplay—leading to a poor gaming experience. To counter this, devs have to spend additional resources coming up with new ways to make the controls feel seamless.
@@ -98,12 +96,6 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
  Since there are fewer variants of iPhones in the world, they are more standardized and easier to develop apps for. That's why developers often release apps and updates on iOS first.
@@ -117,43 +109,26 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
 
  However, as a gamer, it really sucks to have to watch an ad every single time after completing a race, finishing a match, or opening a loot box. On top of that, these ads can sometimes be irrelevant and inappropriate, and there's no way to tweak them either.
 
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mobile Gaming Could Be So Much More
 
  Mobile gaming has so much potential, and yet, we're exploiting so little of it. Compared to all the other advancements in the tech world, it's surprising how far behind mobile gaming still is when put side-by-side with console gaming.
 
  Out of all companies, Apple has the most to gain if mobile gaming booms given its obvious advantage over Android. And yet, low-immersion games like Candy Crush and Temple Run dominate the app stores. Many still treat mobile gaming as merely a way to pass time, not as an acclaimed hobby or profession.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +137,26 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastering-lenovo-perfecting-screen-capture-techniques-for-2024/"><u>[New] Mastering Lenovo Perfecting Screen Capture Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-is-instagrams-self-validation-a-game-changer-for-2024/"><u>[Updated] Is Instagram’s Self-Validation a Game Changer for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pioneering-4k-adventures-q500-typhoon-reviewed/"><u>[Updated] Pioneering 4K Adventures - Q500 Typhoon Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-protective-phone-cases-with-screen-shields/"><u>[Updated] Protective Phone Cases with Screen Shields</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-and-comfortable-game-capture-tips-for-rainbow-six-siege-for-2024/"><u>[Updated] Quick & Comfortable Game Capture Tips for Rainbow Six Siege for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-the-archive-of-yesteryear-how-to-view-facebook-past-content-for-2024/"><u>[Updated] Unlocking the Archive of Yesteryear How To View Facebook Past Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/camera-enthusiasts-spotlight-5-leading-slow-motion-tech-for-2024/"><u>Camera Enthusiasts' Spotlight 5 Leading Slow Motion Tech for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cooperative-fun-two-player-minecraft-on-nintendo-switch/"><u>Cooperative Fun: Two-Player Minecraft on Nintendo Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-freeze-episodes-solutions-for-epics-launcher-problems/"><u>End Freeze Episodes: Solutions for Epic's Launcher Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-fun-best-mobile-games-without-data/"><u>Engage in Fun: Best Mobile Games WITHOUT Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-8-points-in-selecting-a-cpu-cooler/"><u>Essential 8 Points in Selecting a CPU Cooler</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keeping-the-play-alive-with-longer-controller-batteries/"><u>Keeping the Play Alive with Longer Controller Batteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-steam-various-easy-routes/"><u>Reviving Steam: Various Easy Routes</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-improbable-rise-of-gamefi-in-mainstream-gaming/"><u>The Improbable Rise of GameFi in Mainstream Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pinnacle-of-playtime-expert-tips-on-averting-the-top-10-game-mishaps/"><u>The Pinnacle of Playtime: Expert Tips on Averting the Top 10 Game Mishaps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-restoring-functionality-to-outlooks-missing-spellcheck-feature/"><u>Troubleshooting Tips: Restoring Functionality to Outlook's Missing Spellcheck Feature</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/virtual-worlds-on-screen-new-era-films-for-2024/"><u>Virtual Worlds on Screen New Era Films for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-ps5-isnt-right-for-everyone-4-points/"><u>Why PS5 Isn't Right For Everyone - 4 Points</u></a></li>
+</ul></div>
 

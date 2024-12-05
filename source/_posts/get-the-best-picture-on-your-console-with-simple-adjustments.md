@@ -1,7 +1,7 @@
 ---
 title: Get the Best Picture on Your Console with Simple Adjustments
-date: 2024-09-04T21:52:31.559Z
-updated: 2024-09-05T21:52:31.559Z
+date: 2024-12-03T06:42:56.432Z
+updated: 2024-12-05T06:51:19.081Z
 tags:
   - games
 categories:
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  The process, however, is a little complicated and requires digging around in the settings of both your Xbox Series X|S console and your TV. If you've been wanting to calibrate your TV for a while, but you were feeling a little intimidated by it, we have written a step-by-step guide to walk you through the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does Calibrating Your TV for Your Xbox Series X|S Do?
 
  Calibrating your TV for your Xbox Series X|S involves tweaking your TV's display settings to perfectly suit your Xbox. This includes changing things like your TV's dimensions, brightness, color, contrast, and sharpness so that they are able to work in tandem with your console to bring you the best picture possible.
 
 ![A photograph of a white Xbox Wireless Controller held in front of an out of focus monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stock-image.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  TVs come with a plethora of different settings, and it can be daunting trying to figure out what exactly they all do. Even if you're not 100% sure what a particular setting does, the TV Calibration tool provides you with suggestions of ideal settings to make the process as simple as possible.
 
@@ -36,12 +44,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  The first screen gives you a general overview of what to expect when using the tool and encourages you to leave your TV on for around five minutes before you begin the process so the display can warm up. Once you’ve waited five minutes and read through the instructions, tap**Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Recommended Settings
 
  At this point, you will be given several recommended settings for your TV display. To begin applying them, open up your TV settings and head to**Picture** . Start by changing your**Picture Mode** . Xbox recommends you change this to**Cinema** ,**Movie** , or**Standard** .
@@ -68,11 +70,9 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
  Once you have completed tweaking those settings, press**Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Aspect Ratio and Sharpness
 
  You will then move on to tweaking your aspect ratio and image sharpness. The key to this page is to have the**green lines** match up perfectly with the edges of your TV. If they don’t, open your**Picture** settings once again and select**Picture Size Settings** .
@@ -80,11 +80,9 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![TV Calibration Aspect Ratio and Sharpness](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-aspect-ratio-and-sharpness.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The setting you will require for most modern TVs is**16:9** . If you’re calibrating on a computer monitor, the settings you need may be different again. If you can’t see the green lines at all, calibrate your monitor using the**blue lines** instead.
 
  Open your TV's**Picture** settings and head to the**Advanced/Expert** section. Scroll down to the**Sharpness** setting, and turn it down as low as possible without blurring your image. Don’t be afraid to turn it all the way down to zero if you can.
@@ -97,12 +95,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
 ![TV Calibration Brightness Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-brightness-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To set your brightness, head to your**Advanced/Expert** picture settings once again and press**Brightness** . First, scroll all the way up so you can see the**closed eye** . Then, scroll back down again until the**closed eye** just barely disappears into the darkness.
 
  Once complete, you shouldn’t be able to see the closed eye at all, and you should be able to only just see the**open eye** . It’s a good idea to tweak this setting while you are sitting in your usual TV viewing spot, as you might be able to see the eyes differently at different angles.
@@ -110,11 +102,9 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![TV Settings HDMI Black Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-settings-hdmi-black-level.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you can't see the**closed eye** at all, go back to your TV's**General** settings and select**External Device Manager** . Open the**HDMI Black Level** setting and change it to**Auto** ,**Low** , or**Limited** . Then head back on your Xbox to reach your**General** settings and select**Video fidelity & overscan** .
 
  Change your**Color space** setting to**Standard** and return to the TV Calibration tool to skip to the**Brightness** page. You should be able to see the**closed eye** now. Press**Next** when you’ve reached your perfect brightness setting.
@@ -131,12 +121,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  The following page requires you to check your brightness again. Changing the contrast can affect the brightness setting, so recalibrate it if necessary and proceed to the next page.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tweaking Your Advanced Color Settings
 
  The last page is your advanced color settings. The idea on this page is to tweak your color settings so each of the blocks on the right is individual, and no colors are bleeding into the neighboring ones. The easiest way to do this is by turning your TV's blue filter on or changing your**RGB Only Mode** to**Blue** . This can be found in your**Advanced/Expert** settings.
@@ -144,14 +128,16 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![TV Calibration RGB Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-calibration-rgb-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once your TV display is blue, open the**Color** settings on your TV and adjust it so the blue and white columns on the top look the same. Then scroll to**Tint** or**Hue** and adjust it so the pink and cyan columns on the bottom match. Once all the colors are matching, change your**RGB filter** back to normal and press**Done** . Your TV will now be perfectly calibrated to your Xbox Series X|S.
 
  There are plenty more settings to explore on your Xbox Series X|S to make sure it is providing you with the best gaming experience possible.[Boosting the FPS on your Xbox Series](https://www.makeuseof.com/what-is-fps-boost-feature-xbox-series-x/) can give you an even better performance, and there are also a series of[sound settings to optimize on your Xbox Series X|S](https://www.makeuseof.com/xbox-series-xs-sound-settings/) so your sound quality can match that of your display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Allow Your Xbox Games to Look as Good as Possible
 
@@ -159,14 +145,11 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  If you’ve had your Xbox Series X|S for a long time and you’ve never calibrated your TV, there’s a good chance that you might not be making the most out of either your Xbox or TV display. And using the TV Calibration tool on your Xbox is certainly cheaper than buying a new TV to get better picture quality.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +158,21 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-efficient-strategies-for-posting-srt-files-to-social-media/"><u>[New] Efficient Strategies for Posting SRT Files to Social Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-youtubes-top-mp3-conversion-apps/"><u>[New] In 2024, Decoding YouTube's Top MP3 Conversion Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-insiders-guide-to-advanced-whatsapp-mastery-for-2024/"><u>[Updated] The Insider's Guide to Advanced WhatsApp Mastery for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/directx-11-vs-directx-12-what-are-the-differences-and-which-should-you-use/"><u>DirectX 11 Vs. DirectX 12: What Are the Differences and Which Should You Use?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-when-your-hyperx-cloud-mic-wont-work-properly/"><u>Effective Solutions for When Your HyperX Cloud Mic Won't Work Properly</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-failed-file-creation-error-30005-on-pcs/"><u>Fixing Failed File Creation: Error 30005 on PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-guide-to-incorporating-launchers-on-dev-consoles/"><u>Game On: A Guide to Incorporating Launchers on Dev Consoles</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-chuckle-campaign-7-ingenious-ideas-for-funny-youtube-videos/"><u>In 2024, Chuckle Campaign 7 Ingenious Ideas for Funny YouTube Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Phone without Any Data Loss</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-facebook-live-step-by-step-downloads-guide/"><u>In 2024, Mastering Facebook Live Step-by-Step Downloads Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-gaming-turning-your-psp-into-a-game-boy/"><u>Retro Gaming: Turning Your PSP Into a Game Boy</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-playstation-summer-sale-list/"><u>The Ultimate PlayStation Summer Sale List</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-with-these-7-terminal-gaming-hacks/"><u>Win with These 7 Terminal Gaming Hacks</u></a></li>
+</ul></div>
 

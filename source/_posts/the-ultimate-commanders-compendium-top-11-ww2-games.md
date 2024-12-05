@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2024-11-18T01:55:55.311Z
-updated: 2024-11-25T01:46:40.142Z
+date: 2024-11-30T23:02:48.407Z
+updated: 2024-12-05T03:15:53.265Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  One awesome thing about Steel Division 2 is that you can either fight in the fun real-time tactical combat, or you can automatically resolve them if you just want the pure strategic experience.
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3. Hearts of Iron IV
 
@@ -76,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7. War in the East
@@ -87,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -96,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9. Sudden Strike 4
@@ -107,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  No two play sessions are the same thanks to dynamic campaigns that branch out with your decisions, meaning you can alter the course of history. Despite that, there's still a keen attention to detail in the units that will please history buffs.
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11. Close Combat
 
@@ -152,24 +152,18 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-amazons-favorite-originals-twitter-top-picks-for-2024/"><u>[New] Amazon's Favorite Originals - Twitter Top Picks for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>[New] Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimal-online-sound-snatching/"><u>[Updated] 2024 Approved Optimal Online Sound Snatching</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-tips-capturing-screen-on-a-dell-notebook-pc-for-2024/"><u>[Updated] Quick Tips Capturing Screen on a Dell Notebook PC for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-asus-rog-phone-8-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Asus ROG Phone 8 Pattern Lock Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-steams-content-file-locked-error-in-windows/"><u>How to Fix Steam’s “Content File Locked” Error in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-counter-strike-2-on-your-mac/"><u>How to Play Counter-Strike 2 on Your Mac</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-g24-power-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola G24 Power Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-game-setup-to-captivate-a-broad-demographic/"><u>Ideal Game Setup to Captivate a Broad Demographic</u></a></li>
-<li><a href="https://games-able.techidaily.com/identifying-key-elements-in-a-wireless-mouse/"><u>Identifying Key Elements in a Wireless Mouse</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-techniques-for-capturing-and-recording-streamed-content/"><u>In 2024, Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 8 Plus?</u></a></li>
-<li><a href="https://games-able.techidaily.com/indie-discoveries-unveiling-selectively-chosen-games/"><u>Indie Discoveries: Unveiling Selectively Chosen Games</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-your-3d-printing-routine/"><u>Integrating ChatGPT Into Your 3D Printing Routine</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-editing-software-like-gopro-quik-for-windows-and-mac/"><u>New 2024 Approved Video Editing Software Like GoPro Quik for Windows and Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-game-multisession-access-enablement/"><u>PS5 Game Multisession Access Enablement</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-integration-of-prime-and-twitch/"><u>Seamless Integration of Prime and Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-changing-landscape-of-online-multiplay-games/"><u>The Changing Landscape of Online Multiplay Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-potential-navigating-switch-login/"><u>Unlocking Full Potential: Navigating Switch Login</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-15-free-audio-resources-for-youtube-clips-makers/"><u>[New] 2024 Approved Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[New] Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-visual-narratives-adding-memorable-story-emoji-images-for-2024/"><u>[Updated] Crafting Visual Narratives Adding Memorable Story Emoji Images for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-economical-growth-methodology-subscribe-now/"><u>[Updated] Economical Growth Methodology - Subscribe Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-university-savings-with-ease-your-comprehensive-dell-scholar-offer-breakdown/"><u>Achieve University Savings with Ease: Your Comprehensive Dell Scholar Offer Breakdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/budget-recording-tools-the-ultimate-guide-for-windows/"><u>Budget Recording Tools The Ultimate Guide for Windows</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/entfernen-sie-widerstandsfahige-dateien-8-tipps-um-daten-erfolgreich-zu-loschen-speicherstick-edition/"><u>Entfernen Sie Widerstandsfähige Dateien: 8 Tipps, Um Daten Erfolgreich Zu Löschen - Speicherstick Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-evolution-best-in-class-asus-rog-ally-docking-solutions/"><u>Explore the Evolution: Best-in-Class ASUS ROG Ally Docking Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/pencil-powered-play-graphics-tablets-edge/"><u>Pencil-Powered Play: Graphics Tablet's Edge?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-maximizing-your-joystick-juice/"><u>The Ultimate Guide to Maximizing Your Joystick Juice</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unplugged-and-entertained-ioss-hottest-game-titles/"><u>Unplugged & Entertained: IOS's Hottest Game Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-victory-mastering-initial-fps-configurations/"><u>Unveiling Victory: Mastering Initial FPS Configurations</u></a></li>
 </ul></div>
 

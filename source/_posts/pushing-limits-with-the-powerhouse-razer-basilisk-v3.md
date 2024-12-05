@@ -1,7 +1,7 @@
 ---
 title: Pushing Limits with the Powerhouse Razer Basilisk V3
-date: 2024-09-04T21:52:36.756Z
-updated: 2024-09-05T21:52:36.756Z
+date: 2024-12-03T06:41:46.429Z
+updated: 2024-12-05T06:04:17.590Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ---
 
 ## Pushing Limits with the Powerhouse Razer Basilisk V3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -87,6 +91,10 @@ Yes
 
 ![Razer Basilisk V3 - Gaming 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-gaming-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  Unlike its predecessor, the Basilisk V3 Pro features the newest Razer Optical Mouse Switches, which use infrared light to send signals without mechanical contact. This results in an instant actuation of 0.2ms, no unintended click registration, and the lowest latency of any other gaming mouse. Whether or not you'll be able to perceive this improvement is another story.
@@ -102,11 +110,9 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Official Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-official-colors.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  Both use a plastic chassis with a textured, matte finish for its top, glossy accents for its buttons, and rubberized side panels for grip where your thumb and ring finger typically lay. It also has a nice rounded thumb indent that makes the Basilisk V3 Pro easier to pick up, though that's not intended. The mouse feels well-shaped and suited to my medium-sized hands, though my partner with smaller hands finds it a bit too big. The plastic case seems high quality and effectively resists shine, smudges, and fingerprints.
@@ -114,17 +120,9 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Thumb Grip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-thumb-grip.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  For customization, we find 10+1 programmable buttons, with the +1 being a profile button underneath the mouse that lets you cycle through up to five saved profiles.
@@ -139,12 +137,6 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Snake Head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-snake-head.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  However, as we quickly found out, you will need to leave Razer Synapse running for your custom lighting effects to play. Even closing the window once your preferred settings are saved will cause the mouse to default to its basic pattern.
@@ -157,12 +149,6 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Underside Controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-underside-controls.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  There are left and right arrows to the side of the scroll wheel, indicating its use as two separate directional buttons in addition to the usual click-in you normally find. The scroll wheel itself has two modes: a tactile cycling mode, which takes advantage of its ridged rubber design for precision rolls, and a free-spin mode for high-speed scrolling.
@@ -171,18 +157,16 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Scroll Wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-scroll-wheel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  Understandably, one downside to having all of these features in a wireless mouse is the increased size and weight that comes with it. This is like the Cadillac Blackwing of gaming mice. It's big, but it's speedy. Compared to much of the competition, it's also larger, measuring 5.11 inches (130mm) long by 2.96 inches (75.4mm) wide, and 1.67 inches (42.5mm) tall.
 
 ![Razer Basilisk V3 - Compared to Cobra Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-compared-to-cobra-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  To maintain a 90-hour battery life, the Basilisk V3 Pro contains an internal battery that sits just above the sensor in an assembly that also includes a slot for the scroll wheel's housing. All of this together makes the device fairly front-heavy, with an overall weight of 112g, far heavier than the usual 70-80g max, which some enthusiasts try to stay under. While this isn't as noticeable as sliding the mouse, if you frequently lift your mouse, it will be.
@@ -190,17 +174,9 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Laying on its Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-laying-on-its-side.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Paul Antill / MUO
 
 ## Optional Accessories Needed to Unlock The Full Feature-Set
@@ -211,17 +187,15 @@ Paul Antill / MUO
 
  For gamers who are already firmly on Team Razer, the Basilisk V3 Pro could be a great upgrade to their peripherals. Taking advantage Razer's HyperSpeed multi-device support allows you to control their compatible Razer keyboard and mouse with a single dongle, freeing up connectivity space and optimizing stability for even lower latency.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Base Model Is More Than Enough
 
  The Razer Basilisk V3 Pro offers a beautiful design and excellent integration with its device ecosystem. For those contemplating an upgrade from the previous Basilisk V3 or deciding between the two, it essentially boils down to how much you value the Pro's wireless enhancements. Its excellent ergonomics, fast Bluetooth and 2.4GHz connections, along with a remarkable 90-hour battery life, certainly make it stand out.
 
 ![Razer Basilisk V3 - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-left-side.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -241,14 +215,11 @@ Paul Antill / MUO
 
 [$150 at Amazon](https://www.amazon.com/Razer-Basilisk-Customizable-Wireless-Gaming/dp/B0BHFDVLF8?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2030588&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Frazer-basilisk-v3-pro-review%2F&asc%5Fcampaign=Affiliate) [See at Razer](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030588&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro%2FRZ01-04620100-R3G1%23specs) [See at Walmart](https://www.walmart.com/ip/Razer-Basilisk-V3-Pro-Wireless-Gaming-Mouse-HyperScroll-Tilt-Wheel-2-4Ghz-Bluetooth-RGB-White/1609858144)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -257,4 +228,26 @@ Paul Antill / MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-intersecting-realities-metaverse-and-multiverse-differences/"><u>[New] Intersecting Realities Metaverse and Multiverse Differences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-saving-techniques-youtube-meets-igtv/"><u>[Updated] 2024 Approved Channel-Saving Techniques YouTube Meets IGTV</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/create-enchanting-image-presentations-with-melody-complimentary-downloads-for-customizable-music-slideshows/"><u>Create Enchanting Image Presentations With Melody: Complimentary Downloads for Customizable Music Slideshows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dive-into-multi-tasking-mastery-with-chromes-pip-feature-for-2024/"><u>Dive Into Multi-Tasking Mastery with Chrome's PIP Feature for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-strategies-to-enhance-switch-durability/"><u>Essential Strategies to Enhance Switch Durability</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-technology-the-best-gaming-devices-gamers/"><u>Game-Changing Technology: The Best Gaming Devices Gamers</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-s23-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel S23 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-sync-ps5-controller-to-pc-for-gaming-bliss/"><u>How to Sync PS5 Controller to PC for Gaming Bliss</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-epson-wf-3620-printer-software-free-installation-and-updates-for-windows-10-8-and-7/"><u>Latest Epson WF-3620 Printer Software: Free Installation and Updates for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-asus-rog-ally-docks-best-of-2024/"><u>Leading ASUS ROG Ally Docks - Best of 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-discover-top-9-podcast-microphone-models-designed-for-expert-level-use/"><u>New 2024 Approved Discover Top 9 Podcast Microphone Models Designed for Expert Level Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-comic-relief-conversations-to-cut-the-tension-anytime/"><u>Nine Comic-Relief Conversations to Cut the Tension Anytime</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-play-linking-xbox-one-to-a-controller/"><u>Precision and Play: Linking Xbox One to a Controller</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-pdf-conversion-tutorial-for-apowersoft-software-on-pc/"><u>Step-by-Step PDF Conversion Tutorial for Apowersoft Software on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-selections-the-finest-in-xbox-streaming-gear/"><u>Superior Selections: The Finest in Xbox Streaming Gear</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-crucial-elements-you-need-to-consider-in-portable-games-devices/"><u>The Crucial Elements You Need to Consider in Portable Games Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-door-to-seamless-zoom-sessions-for-2024/"><u>Unlocking the Door to Seamless Zoom Sessions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/victory-lanes-playbook-the-ultimate-list-of-iosandroid-sports-games/"><u>Victory Lane's Playbook: The Ultimate List of iOS/Android Sports Games</u></a></li>
+</ul></div>
 

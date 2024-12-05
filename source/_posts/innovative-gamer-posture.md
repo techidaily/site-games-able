@@ -1,7 +1,7 @@
 ---
 title: Innovative Gamer Posture
-date: 2024-11-18T03:30:47.580Z
-updated: 2024-11-24T19:34:38.950Z
+date: 2024-11-28T19:33:14.022Z
+updated: 2024-12-04T18:09:10.164Z
 tags:
   - games
 categories:
@@ -19,11 +19,19 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Office Chairs Are Often More Ergonomic and Comfortable](#office-chairs-are-often-more-ergonomic-and-comfortable)
 * [Gaming Chairs Are Cheaply Built and Overpriced](#gaming-chairs-are-cheaply-built-and-overpriced)
 * [An Office Chair Is Aesthetically Safer](#an-office-chair-is-aesthetically-safer)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
  There’s a popular myth that every gaming setup needs a gaming chair. On the surface, it makes sense; where else would you need a gaming chair? However, I’ve used both office chairs and gaming chairs long enough to establish reasons why an office chair is indeed better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Office Chairs Are Often More Ergonomic and Comfortable
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Race car Bucket Seat Design
 
@@ -62,16 +70,12 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  Oddly enough, larger people may still struggle with gaming chairs because the bucket seat design is restrictive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bad Lumbar Support
 
 ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Dreamchild Obari/MakeUseOf
 
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
  For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 ![Computer setup with a white office chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/computer-setup-with-a-white-office-chair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Dreamchild Obari/MakeUseOf
@@ -132,15 +132,16 @@ thumbnail: https://thmb.techidaily.com/4892cc1fafe3d31e97b196d4517b9323f9c488cf1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-360-degree-view-transformative-media-experience/"><u>[Updated] A 360-Degree View Transformative Media Experience</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-method-for-producing-captivating-video-thumbnails/"><u>[Updated] Step-by-Step Method for Producing Captivating Video Thumbnails</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elite-arsenal-choosing-the-top-7-fps/"><u>2024 Approved Elite Arsenal Choosing the Top 7 FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-bottom-line-thinking-envisioning-electricitys-role/"><u>Beyond Bottom-Line Thinking: Envisioning Electricity's Role</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-game-performance-with-smart-disk-management-in-steam/"><u>Boost Game Performance with Smart Disk Management in Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/break-controller-conundrum-quick-cure-for-ps4-gamepad-glitches/"><u>Break Controller Conundrum: Quick Cure for PS4 Gamepad Glitches</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/bulk-video-resizing-a-step-by-step-guide-to-adjusting-many-videos-simultaneously/"><u>Bulk Video Resizing: A Step-by-Step Guide to Adjusting Many Videos Simultaneously</u></a></li>
-<li><a href="https://games-able.techidaily.com/collectors-delight-vs-cashless-commitment/"><u>Collector's Delight Vs. Cashless Commitment</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-oppo-reno-8t-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Oppo Reno 8T 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978411968-download-epson-v700-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Epson V700 Printer Drivers Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-action-cam-reimagined-an-extensive-review-of-the-sj-cam-s6/"><u>[New] Action Cam Reimagined An Extensive Review of the SJ-CAM S6</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-explore-fb-moments-privately-for-2024/"><u>[New] Explore FB Moments Privately for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>[New] How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leading-audience-alteration-software-selection/"><u>2024 Approved Leading Audience Alteration Software Selection</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-new-best-free-game-video-editing-software/"><u>2024 Approved NEW Best Free Game Video Editing Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-unresponsive-steam-by-implementing-troubleshooting-tips/"><u>Conquer Unresponsive Steam by Implementing Troubleshooting Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/focusing-on-essentials-gamer-mice-design-features/"><u>Focusing on Essentials: Gamer Mice Design Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo S17 Pro Bootloader Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/miniaturize-your-arcade-archive-with-efficient-chdman-techniques/"><u>Miniaturize Your Arcade Archive with Efficient CHDMAN Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-quick-and-easy-conversion-of-m2ts-video-files/"><u>Ultimate Guide: Quick & Easy Conversion of M2TS Video Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/wheel-warfare-vs-digital-dashboard-dominance-in-racing-games/"><u>Wheel Warfare Vs. Digital Dashboard Dominance in Racing Games</u></a></li>
 </ul></div>
 

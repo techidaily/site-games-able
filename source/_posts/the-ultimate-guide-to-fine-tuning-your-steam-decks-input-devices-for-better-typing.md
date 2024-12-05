@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing
-date: 2024-11-17T19:40:37.853Z
-updated: 2024-11-25T09:18:04.551Z
+date: 2024-12-01T02:35:38.102Z
+updated: 2024-12-04T23:44:10.262Z
 tags:
   - games
 categories:
@@ -31,15 +31,15 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
  First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Bring Up the Steam Deck Keyboard in SteamOS
 
  If you’re beating your head against your desk and screaming aloud, “Why is the Steam Deck keyboard not appearing when I press the**Steam Button** and**X** in SteamOS,” let me save you the additional headache. The Steam Deck keyboard shortcut does not work in SteamOS so long as a text field is present on-screen (as of August 2023). Whether this is a bug or a feature yet to be implemented is unknown at this time.
 
  But you don’t need to use this button combo anyway. To bring up the Steam Deck keyboard in SteamOS, select the text field where you want to type. The Steam Deck keyboard automatically appears every time. See an example below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard in Steam Desktop
 
@@ -51,18 +51,22 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
  The Steam Deck keyboard will not appear in Desktop Mode if the Steam Client isn’t running.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Effortlessly Bring Up the Steam Deck’s Keyboard in SteamOS, Desktop Mode, or In-Game
 
  The Steam Deck’s on-screen keyboard may seem like it acts a bit funky once you first use the Steam Deck. But once you learn the ins and outs of the Deck, the keyboard is at your beck and call whenever you need it!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Do You Use the Escape Command on Your Steam Deck Keyboard?
@@ -70,16 +74,12 @@ Here’s how to bring up the Steam Deck in various scenarios.
  Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
 
  You can connect a keyboard and mouse to your Steam Deck via wired connections or Bluetooth. For a wired connection, plug your accessories into your Steam Deck through the USB-C or USB-A ports on your console. For Bluetooth, ensure**Bluetooth** is enabled, and hold down the**Create** button on your console while simultaneously pressing whatever represents the sync button on your accessories. This process is similar to[connecting a DualSense controller to your Steam Deck](https://www.makeuseof.com/how-to-connect-ps5-controller-to-steam-deck/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: How Do You Change the Keyboard Layout on Your Steam Deck?
 
@@ -100,20 +100,18 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-listening-experience-with-these-6-premier-android-apps/"><u>[New] 2024 Approved Elevate Your Listening Experience with These 6 Premier Android Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-windows-hd-color-find-out-how-to-watch-and-edit-hdr-videos-on-your-pc-for-2024/"><u>[New] Windows HD Color Find Out How to Watch and Edit HDR Videos on Your PC for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-direct-pathways-moving-iphone-content-to-pc-efficiently/"><u>[Updated] In 2024, Direct Pathways Moving iPhone Content to PC Efficiently</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-streamlining-multiple-youtube-videos-into-one/"><u>[Updated] Streamlining Multiple YouTube Videos Into One</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-streaming-can-geforce-now-improve-gaming/"><u>Beyond Streaming - Can GeForce Now Improve Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-generations-with-classic-xbox-games-and-xemu/"><u>Bridging Generations with Classic Xbox Games and Xemu</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-classic-gaming-to-life-select-ps3-emulators-for-pc-adventure/"><u>Bring Classic Gaming to Life: Select PS3 Emulators for PC Adventure</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-ps5-for-ps4-games/"><u>Can You Use PS5 for PS4 Games?</u></a></li>
-<li><a href="https://games-able.techidaily.com/charting-a-course-from-average-to-elite-discs/"><u>Charting a Course: From Average to Elite Discs</u></a></li>
-<li><a href="https://games-able.techidaily.com/compact-game-console-sonys-ps-vita/"><u>Compact Game Console: Sony's PS Vita</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparative-study-of-asus-tuf-proart-and-prime-devices/"><u>Comparative Study of Asus, Tuf, ProArt, & Prime Devices</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-revolutionize-your-marketing-campaigns-for-maximum-roi/"><u>Cookiebot: Revolutionize Your Marketing Campaigns for Maximum ROI</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 14 | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-xs-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone XS Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-symphony-of-shades-practical-color-utilization/"><u>[New] A Symphony of Shades Practical Color Utilization</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enhanced-visual-fidelity-with-srgb/"><u>[New] Enhanced Visual Fidelity with Srgb</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-transforming-gaming-logs-alternatives-to-fbx-recording/"><u>[Updated] Transforming Gaming Logs Alternatives to FBX Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-hdtvs-future-in-focus-new-samsung-ubd-k8500-insights/"><u>2024 Approved HDTV's Future in Focus - New Samsung UBD-K8500 Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/an-introduction-to-llama-2-and-its-real-world-benefits/"><u>An Introduction to Llama 2 & Its Real-World Benefits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/discord-and-gaming-audio-integration-solutions-explored/"><u>Discord & Gaming Audio Integration: Solutions Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-play-constrain-xbox-game-bar-on-windows-pcs/"><u>Enhance Your Play: Constrain Xbox Game Bar on Windows PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-saturation-perfection-tool/"><u>In 2024, Saturation Perfection Tool</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-a78-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo A78? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016336803-lucidsound-ls3t-mic-malfunction-heres-your-step-by-step-guide-to-fixing-it/"><u>LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It!</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-choosing-a-stream-deck/"><u>Mastering the Art of Choosing a Stream Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-cost-efficiency-of-sonys-psplus-membership-program/"><u>The Cost Efficiency of Sony's PS+ Membership Program</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-edges-game-enhancement-capabilities/"><u>Unpacking Edge's Game Enhancement Capabilities</u></a></li>
 </ul></div>
 

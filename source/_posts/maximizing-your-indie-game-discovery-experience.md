@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Indie Game Discovery Experience
-date: 2024-11-19T20:07:54.341Z
-updated: 2024-11-24T16:54:58.964Z
+date: 2024-12-03T06:27:16.803Z
+updated: 2024-12-04T17:17:55.493Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Use Tags and Filters
 
  On itch.io, you can use various tags and filters to find great indie games. I am a big fan of[roguelite video games](http://www.makeuseof.com/what-are-roguelike-and-roguelite-video-games/) , so I use the**Roguelite** tag to ensure I only see the relevant results.
@@ -50,22 +50,26 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
 ![Adding tags to a search on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/add-roguelite-tag-itch.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 Check Out Game Bundles
 
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Follow Developers
 
  If a particular indie developer has a game you like, you can follow them to stay updated on their latest releases. This allows you to see what games they have in their collections and those they have rated highly.
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
@@ -132,18 +132,19 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-key-steps-to-composing-engaging-youtube-video-plans/"><u>[New] 2024 Approved The Key Steps to Composing Engaging YouTube Video Plans</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-learning-leaders-list-discovering-the-top-10-teacher-tools/"><u>[New] Learning Leaders’ List Discovering the Top 10 Teacher Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-evolution-of-excellence-lg-bp550/"><u>[New] The Evolution of Excellence - LG BP550</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-channel-marketing-making-a-trailer-that-sells-more-for-2024/"><u>[Updated] Channel Marketing Making a Trailer that Sells More for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-blunders-to-steer-clear-of-when-choosing-your-next-monitor/"><u>10 Blunders to Steer Clear of when Choosing Your Next Monitor</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-sharper-screen-focus-zooming-tips-for-google-meet/"><u>2024 Approved Achieving Sharper Screen Focus Zooming Tips for Google Meet</u></a></li>
-<li><a href="https://games-able.techidaily.com/amplify-your-channels-impact-with-the-leading-7-twitch-bot-allies/"><u>Amplify Your Channel's Impact with the Leading 7 Twitch Bot Allies</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-the-value-of-playstation-plus-subscription/"><u>Assessing the Value of PlayStation Plus Subscription</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-the-heat-with-ps-summer-sale-winners/"><u>Beat the Heat with PS Summer Sale Winners</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-buys-elite-selection-of-xbox-streaming-equipment/"><u>Best Buys: Elite Selection of Xbox Streaming Equipment</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-14-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 14 Pro/iPad/iPod</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevalence-of-hacking-on-digital-spaces/"><u>Prevalence of Hacking on Digital Spaces</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/professionelles-verfahren-fur-backups-von-laptop-daten-zur-externen-speicherung/"><u>Professionelles Verfahren Für Backups Von Laptop-Daten Zur Externen Speicherung</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prevention-of-fetal-alcohol-syndrome-for-2024/"><u>[New] Prevention of Fetal Alcohol Syndrome for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blend-sounds-in-presentation-ppts/"><u>2024 Approved Blend Sounds in Presentation PPTs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95650601-9781623171919-awakening-through-the-nine-bodies/"><u>Awakening through the Nine Bodies | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-deception-in-digital-game-spotlights/"><u>Decoding Deception in Digital Game Spotlights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-photovideo-imports-in-windows-11-deep-dive/"><u>Decoding Photo/Video Imports in Windows 11 Deep Dive</u></a></li>
+<li><a href="https://games-able.techidaily.com/hall-effect-keys-for-elite-gaming-in-depth-look-at-mod007b/"><u>Hall Effect Keys for Elite Gaming - In-Depth Look at Mod007B</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-shield-your-child-from-dangers-in-social-chats/"><u>How to Shield Your Child From Dangers in Social Chats</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-digital-world-from-facebook-to-the-visionary-meta/"><u>Navigating the Digital World: From 'Facebook' To the Visionary Meta</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-x90s-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from X90S</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-240hz-gaming-screens-for-optimal-immersion/"><u>Pro 240Hz Gaming Screens for Optimal Immersion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steamui-dll-missing-resolved-overcoming-fatal-error-in-steam/"><u>SteamUI DLL Missing - Resolved: Overcoming 'Fatal Error' In Steam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-enabling-advanced-boot-mode-in-windows-11/"><u>Step-by-Step Tutorial: Enabling Advanced Boot Mode in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-visual-quest-configuring-your-xbox-series-x-for-unparalleled-clarity/"><u>The Ultimate Visual Quest – Configuring Your Xbox Series X for Unparalleled Clarity</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-powerhouse-raider-ge78s-desktop-dominance/"><u>Unmatched Powerhouse: Raider GE78's Desktop Dominance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Toggle Gaming Interface Elements on Discord
-date: 2024-09-09T09:34:02.367Z
-updated: 2024-09-10T09:34:02.367Z
+date: 2024-12-04T02:07:06.475Z
+updated: 2024-12-04T17:39:16.955Z
 tags:
   - games
 categories:
@@ -12,12 +12,6 @@ keywords: Toggle Gaming UI,Discord Gaming Element,Gamers' UI Switch,Interactive 
 thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b4a29cd4a3d817de3e2d744c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Toggle Gaming Interface Elements on Discord
 
  Discord's overlay allows users to keep track of Discord activity while playing a game, even in full-screen mode. Whether you want to monitor newly received messages or get notifications for incoming calls, the overlay lets you stay on top of Discord communications without closing the game.
@@ -25,11 +19,9 @@ thumbnail: https://thmb.techidaily.com/796380b2f6e477c41fdb5986a336623e799bf688b
  The overlay is equally helpful for anyone looking to minimize the chances of missing an important text or call while gaming. Below, we'll show you how to enable or disable Discord's in-game overlay.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Discord Overlay
 
  To use the Discord overlay in a game, you must enable the feature in Discord. The app must also recognize the game you want to use the overlay in.
@@ -47,12 +39,6 @@ To turn on the Discord overlay, follow these steps:
 
 ![Discord Detecting the Game Being Played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-detecting-the-game-being-played.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If Discord doesn't automatically detect the game, you must troubleshoot the problem. If you fail to[fix the game detection feature in Discord](https://www.makeuseof.com/windows-discord-game-detection-not-working/) , you can manually add the game.
 
 Here's how:
@@ -76,11 +62,9 @@ Here's how:
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Disable the Discord In-Game Overlay
 
  Though the Discord overlay helps you respond to texts and calls on time, it uses considerable system resources which can negatively impact your game performance. If that happens, you should permanently turn off the Discord overlay.
@@ -93,35 +77,32 @@ Follow these steps to disable the in-game overlay:
 ![Disable Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-in-game-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To permanently turn off the overlay only for a specific game, navigate to the**Registered Games** tab and click on the**monitor icon** next to it.
 
 ![disable overlay for specific game in discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-overlay-for-specific-game-in-discord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Track of Conversations Through Discord Overlay
 
  Overlays save gamers from the hassle of navigating through different apps during gameplay and make it easier for them to communicate. Discord's overlay helps you stay on top of your communication in-game. Hopefully, you now better understand how to enable the overlay in Discord, use it, and turn it off when needed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +111,23 @@ Follow these steps to disable the in-game overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-10-steps-to-perfectly-plated-food-vids/"><u>[New] 2024 Approved 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-instant-asus-monitor-driver-update-for-optimal-performance/"><u>Easy Instant ASUS Monitor Driver Update for Optimal Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-the-game-streamlining-and-personalizing-xbox-game-bar-settings-for-windows-users/"><u>Elevate the Game: Streamlining and Personalizing Xbox Game Bar Settings for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-genesis-to-revolution-the-mmo-game-change/"><u>From Genesis to Revolution: The MMO Game Change</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/fusion-of-video-and-melody-adding-music-to-vimeo-projects-for-2024/"><u>Fusion of Video & Melody Adding Music to Vimeo Projects for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-end-competitive-logitech-mouse/"><u>High-End Competitive Logitech Mouse</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-ps5-enhancements-for-every-user/"><u>Optimal PS5 Enhancements for Every User</u></a></li>
+<li><a href="https://games-able.techidaily.com/restricting-backdoor-features-of-game-bar-in-win-11/"><u>Restricting Backdoor Features of Game Bar in Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205671582-speeding-up-league-of-legends-setup-fixes-for-sluggish-downloads/"><u>Speeding Up League of Legends Setup – Fixes for Sluggish Downloads!</u></a></li>
+<li><a href="https://games-able.techidaily.com/sprint-to-summoners-secrets-speedier-starts/"><u>Sprint to Summoner's Secrets: Speedier Starts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-one-big-factor-that-outshines-a-hypothetical-series-10-tech-analysis/"><u>The One Big Factor That Outshines a Hypothetical Series 10 | Tech Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-five-things-to-think-about-before-buying-a-handheld-game-system/"><u>Top Five Things to Think About Before Buying a Handheld Game System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-windows-laptop-picks-for-2nndvier-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Windows Laptop Picks for 2Nndvier - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/tutorial-comment-realiser-une-synchronisation-de-fichiers-en-direct-sous-les-systemes-dexploitation-windows-1187/"><u>Tutorial : Comment Réaliser Une Synchronisation De Fichiers en Direct Sous Les Systèmes D'exploitation Windows 11/8/7 ?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-podcast-prominence-with-advanced-seo-techniques-for-2024/"><u>Unlock Podcast Prominence with Advanced SEO Techniques for 2024</u></a></li>
+</ul></div>
 
