@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Indie Game Discovery Experience
-date: 2024-12-03T06:27:16.803Z
-updated: 2024-12-04T17:17:55.493Z
+date: 2024-12-08T07:28:26.613Z
+updated: 2024-12-10T22:55:15.354Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 * [Look at User Reviews and Ratings](#look-at-user-reviews-and-ratings)
 * [Check Out Community Recommendations](#check-out-community-recommendations)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Find indie games on itch.io using tags that describe the genre of the game.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 * Keep an eye on game jams on itch.io to discover hidden gems for free, showcasing unique and innovative indie games from different genres.
 
  Many independent game developers display their fun, creative, and unique experiences on itch.io. However, the platform’s saturation can make it hard to find great titles. Try these methods I use to discover indie games worth playing on itch.io.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1 Use Tags and Filters
 
@@ -49,17 +49,9 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ![The itch.io homepage.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-io-home-page.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the**Find Tag** dropdown in the top-right corner and select the tag you want (e.g.,**2D** ,**Platformer** ,**Action** ,**Puzzle** ,**Horror** ,**Visual** **Novel** , and**Adventure**).
 
 ![Searching for the tags on itch.io.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/search-indie-tag-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can add more tags to refine your search further. To do that, click the**Select a Tag** dropdown and choose the tags you want (you can also search for them).
 
@@ -68,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  The games will be sorted by what's popular, but to find the great games, I usually look at the**Top Rated** and**Top Sellers** tabs. This has led me to discover fun roguelites like[Corebreaker](https://aquadiun.itch.io/corebreaker) and[Xenopunch](https://overboy.itch.io/xenopunch) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Check Out Game Bundles
@@ -89,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Since these are game jams, don't expect fully fleshed-out games with lots of content and complex features. Developers usually have time constraints and a limited scope to work with, as well as specific problems to solve. Many enter them to learn about game development and to tackle unique challenges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Follow Developers
 
  If a particular indie developer has a game you like, you can follow them to stay updated on their latest releases. This allows you to see what games they have in their collections and those they have rated highly.
@@ -96,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  Another way to discover developers to follow is by looking at your feed, which shows you recommendations based on your activity on itch.io. I usually switch to the**Featured Games Feed** or**Global Feed** tab to see what is trending based on my interests.
 
 ![The feed on itch.io showing featured games.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/itch-feed-featured-games.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Keep in mind that this feed doesn't only show games, but things like asset packs and comics as well.
 
@@ -109,7 +101,15 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ![A game's page on itch.io showing more information so the rating can be seen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/more-information-game-itch.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also scroll down to the comments to see the sentiments around the game. Also, it can be a fantastic way to interact with the developer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Check Out Community Recommendations
 
@@ -132,19 +132,15 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-prevention-of-fetal-alcohol-syndrome-for-2024/"><u>[New] Prevention of Fetal Alcohol Syndrome for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blend-sounds-in-presentation-ppts/"><u>2024 Approved Blend Sounds in Presentation PPTs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95650601-9781623171919-awakening-through-the-nine-bodies/"><u>Awakening through the Nine Bodies | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-deception-in-digital-game-spotlights/"><u>Decoding Deception in Digital Game Spotlights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-photovideo-imports-in-windows-11-deep-dive/"><u>Decoding Photo/Video Imports in Windows 11 Deep Dive</u></a></li>
-<li><a href="https://games-able.techidaily.com/hall-effect-keys-for-elite-gaming-in-depth-look-at-mod007b/"><u>Hall Effect Keys for Elite Gaming - In-Depth Look at Mod007B</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-shield-your-child-from-dangers-in-social-chats/"><u>How to Shield Your Child From Dangers in Social Chats</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-digital-world-from-facebook-to-the-visionary-meta/"><u>Navigating the Digital World: From 'Facebook' To the Visionary Meta</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-x90s-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from X90S</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-240hz-gaming-screens-for-optimal-immersion/"><u>Pro 240Hz Gaming Screens for Optimal Immersion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steamui-dll-missing-resolved-overcoming-fatal-error-in-steam/"><u>SteamUI DLL Missing - Resolved: Overcoming 'Fatal Error' In Steam</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-enabling-advanced-boot-mode-in-windows-11/"><u>Step-by-Step Tutorial: Enabling Advanced Boot Mode in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-visual-quest-configuring-your-xbox-series-x-for-unparalleled-clarity/"><u>The Ultimate Visual Quest – Configuring Your Xbox Series X for Unparalleled Clarity</u></a></li>
-<li><a href="https://games-able.techidaily.com/unmatched-powerhouse-raider-ge78s-desktop-dominance/"><u>Unmatched Powerhouse: Raider GE78's Desktop Dominance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-icy-images-a-detailed-look-at-monitoring-summer-snacks-for-2024/"><u>[New] Icy Images A Detailed Look at Monitoring Summer Snacks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-screen-saviors-ranked-top-8-for-ios-filmmaking-apps/"><u>[Updated] 2024 Approved Screen Saviors Ranked Top 8 for iOS Filmmaking Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-snappy-guide-image-to-youtube-thumbnail-conversion-made-easy/"><u>[Updated] Snappy Guide Image to YouTube Thumbnail Conversion Made Easy</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-performance-and-reliability-the-complete-guide-to-the-netgear-nighthawk-ax8-wifi-6-expander/"><u>Evaluating Performance and Reliability - The Complete Guide to the Netgear Nighthawk AX8 WiFi 6 Expander</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-xboxs-consequences-for-cheating/"><u>Insights Into Xbox's Consequences for Cheating</u></a></li>
+<li><a href="https://games-able.techidaily.com/mc-social-club-creating-fun-with-5-unique-strategies/"><u>MC Social Club: Creating Fun With 5 Unique Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/post-it-to-your-screen-8-sticky-note-apps-for-windows/"><u>Post-It to Your Screen: 8 Sticky Note Apps for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-collection-of-ps5-adornments/"><u>The Ultimate Collection of PS5 Adornments</u></a></li>
+<li><a href="https://games-able.techidaily.com/unearthing-the-best-of-whats-underground-indie-game-exploration/"><u>Unearthing the Best of What's Underground: Indie Game Exploration</u></a></li>
 </ul></div>
 

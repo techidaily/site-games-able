@@ -1,7 +1,7 @@
 ---
 title: Unleashing the Potential of ChatGPT as an Interactive Story Game
-date: 2024-12-01T17:44:14.517Z
-updated: 2024-12-05T02:46:19.575Z
+date: 2024-12-04T01:01:15.952Z
+updated: 2024-12-11T04:55:25.158Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -114,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
@@ -137,10 +141,14 @@ thumbnail: https://thmb.techidaily.com/d37722b399ead697bedbcc110ba522ecee9e46479
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -183,10 +191,6 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -194,10 +198,6 @@ And finally, don’t forget to actually start the game:
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -318,15 +318,18 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-effortless-fb-movie-access-top-8-tools-of-23/"><u>[New] In 2024, Effortless FB Movie Access Top #8 Tools of '23</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-troubleshoot-tweets-on-chrome-not-loading-for-2024/"><u>[Updated] Troubleshoot Tweets on Chrome Not Loading for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-financial-dynamics-of-youtube-shorts-for-2024/"><u>[Updated] Unveiling the Financial Dynamics of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-stellaris-an-in-depth-guide-to-interstellar-empires-and-alien-encounters/"><u>Exploring Stellaris: An In-Depth Guide to Interstellar Empires and Alien Encounters</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unlocking-full-hd-on-facebook-streams/"><u>In 2024, Unlocking Full HD on Facebook Streams</u></a></li>
-<li><a href="https://games-able.techidaily.com/leverage-glossi-for-accessible-xbox-game-pass-on-steam/"><u>Leverage GlosSI for Accessible Xbox Game Pass on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-additional-credits-for-game-purchases/"><u>Securing Additional Credits for Game Purchases</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-game-pass-showdown-psplus-vs-xbox/"><u>The Ultimate Game Pass Showdown: PS+ VS Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-server-disconnects-in-escape-from-tarkov-for-smoother-gameplay/"><u>Troubleshooting Server Disconnects in Escape From Tarkov for Smoother Gameplay</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-stream-assist-improving-online-play/"><u>Understanding Stream Assist - Improving Online Play</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-tranquil-escapes-top-12-pc-titles/"><u>[Updated] 2024 Approved Tranquil Escapes Top 12 PC Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>[Updated] Streamlining Your Figma Project Eliminate the Unwanted Background</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/dellssd/"><u>DellのSSDから完全なデータクリア方法を学ぶ！２つの専門的アプローチ</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/flawless-screen-recorders/"><u>Flawless Screen Recorders</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-11-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-microphone-modifications-for-vtubers-for-2024/"><u>Mastering Microphone Modifications for VTubers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-next-gen-switch-accessories-for-24/"><u>The Future in Your Pocket: Next-Gen Switch Accessories for '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-genesis-story-of-foddian-games/"><u>The Genesis Story of Foddian Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-additional-payments-for-games/"><u>The Ultimate Guide to Additional Payments for Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-10-memes-blending-hilarity-and-emotional-depth-on-insta-for-2024/"><u>Top 10 Memes Blending Hilarity and Emotional Depth on Insta for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-usb-wi-fi-adapters-on-the-market/"><u>Top Rated USB Wi-Fi Adapters on the Market</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-best-steam-deck-choices/"><u>Uncovering Best Steam Deck Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-and-pc-gaming-power-battle/"><u>Xbox and PC Gaming Power Battle</u></a></li>
 </ul></div>
 

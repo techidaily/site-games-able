@@ -1,7 +1,7 @@
 ---
 title: The 11 Best WW2 Strategy Games to Immerse Yourself in War
-date: 2024-09-04T21:49:19.089Z
-updated: 2024-09-05T21:49:19.089Z
+date: 2024-12-05T00:49:11.908Z
+updated: 2024-12-11T05:51:50.287Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  WW2 strategy games provide some of the best experiences in the genre. They require you to think tactically as you lead your troops into battle and hopefully toward victory. And they all help immerse you in World War II.
 
  From squad-based combat to continental-scale strategy, you can step into some of the most famous battles of all time to test your strategic mettle. Here are the best WW2 strategy games, both old and new, that are worth playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
 
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Order of Battle: World War II
 
  Order of Battle: World War II may seem like a free-to-play game, but you actually buy each campaign individually. It's very expensive if you buy them all, so instead it's better to pick and choose from those that interest you the most.
@@ -51,17 +59,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5. Panzer Corps 2
 
  Panzer Corps is a beloved WW2 strategy game, and this sequel takes what worked in the original and improves upon it.
@@ -70,18 +70,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6. Codename: Panzers
 
  Codename: Panzers was first released in 2004, but it has since been remastered to work with modern systems and support larger resolutions. Despite its age, this is a game that is still worth playing thanks to its timeless tactical fun.
@@ -90,12 +78,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7. War in the East
 
  War in the East is a different type of WW2 strategy game. It descends from a long line of tabletop war games, and it shows; it captures the look of cardboard pieces on paper maps.
@@ -105,11 +87,9 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -117,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  There's a realistic and gritty feel here that few games manage to capture—it's almost like starring in one of[the best World War II movies](https://www.makeuseof.com/tag/world-war-ii-movies-watch-netflix/) . The graphics are great and help immerse in the action. You face off against other armored units, engage in sniper battles, and pit groups of infantry against the enemy in massive engagements.
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9. Sudden Strike 4
 
@@ -126,18 +110,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -146,12 +118,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11. Close Combat
 
  The Close Combat series began in 1996 and still exists to this day as a mixture of remakes and originals. It's a top-down strategy series that puts the focus on realism. Your troops have changing mental and physical conditions, you need to scavenge for ammunition, and a troop's experience on the battlefield impacts how they react to a situation.
@@ -166,14 +132,11 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  If you don't fancy buying a game right now, or just want something to dip into wherever you are, consider exploring strategy games available free via your browser.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +145,26 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[New] 2024 Approved The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[New] 2024 Approved The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-upgrading-laptop-and-mobile-conferencing-with-background-changes-for-2024/"><u>[New] Upgrading Laptop & Mobile Conferencing With Background Changes for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-building-personalized-instagram-feed-outlines-for-2024/"><u>[Updated] Building Personalized Instagram Feed Outlines for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sharpen-your-footage-with-videoleaps-zoom/"><u>[Updated] Sharpen Your Footage with Videoleap's ZOOM</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-showcase-spaces-perfect-live-stream-flair/"><u>2024 Approved Showcase Spaces Perfect Live Stream Flair</u></a></li>
+<li><a href="https://win-latest.techidaily.com/defying-the-odds-successful-windows-11-installation-on-ineligible-pcs-real-life-examples-zdnet/"><u>Defying the Odds: Successful Windows 11 Installation on Ineligible PCs - Real-Life Examples | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insights-setting-up-your-steam-launchers-for-maximum-fun/"><u>Exclusive Insights: Setting Up Your Steam Launchers for Maximum Fun</u></a></li>
+<li><a href="https://games-able.techidaily.com/fiscal-fun-maximizing-value-with-xbox-s/"><u>Fiscal Fun: Maximizing Value with Xbox S</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-one-piece-to-two-disassembling-the-xbox-360-slim/"><u>From One Piece to Two: Disassembling the Xbox 360 Slim</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-shield-clandestine-steam-placement/"><u>Game Shield: Clandestine Steam Placement</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-game-continuity-between-ps3-and-ps4/"><u>Is There Game Continuity Between PS3 and PS4?</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-high-pixels-hdp-gaming-ergonomics/"><u>Premium High Pixels (HDP) Gaming Ergonomics</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-false-validation-of-debit-cards-on-playstation/"><u>Resolving False Validation of Debit Cards on PlayStation</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-ps4-gamepad-mastering-the-art-of-fixing-control-issues/"><u>Reviving Your Ps4 Gamepad: Mastering the Art of Fixing Control Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-unlock-your-secure-installation-disk-on-windows-10/"><u>Step-by-Step Guide to Unlock Your Secure Installation Disk on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-comprehensive-guide-to-editing-hauls-for-online-audiences-for-2024/"><u>The Comprehensive Guide to Editing Hauls for Online Audiences for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-your-gaming-best-steam-deck-accessory-options/"><u>Transforming Your Gaming: Best Steam Deck Accessory Options</u></a></li>
+<li><a href="https://techtrends.techidaily.com/uncover-the-8-must-watch-free-roku-channels/"><u>Uncover the 8 Must-Watch Free Roku Channels</u></a></li>
+</ul></div>
 

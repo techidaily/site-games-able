@@ -1,7 +1,7 @@
 ---
 title: "Six Ingenious Dialogue Duos: A Twist for Text Time"
-date: 2024-11-30T06:23:22.473Z
-updated: 2024-12-05T05:27:28.453Z
+date: 2024-12-09T03:31:59.590Z
+updated: 2024-12-11T07:59:10.079Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Story Builder
@@ -46,7 +46,7 @@ Close
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 20 Questions
@@ -58,10 +58,6 @@ Close
  One of you thinks of an object or a person, while the other fires questions at them via text or messages. Your "Yes/No" responses help the guesser narrow down the possibilities until they can make an educated guess as to exactly what it is you were thinking of.
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 I Spy
 
@@ -83,6 +79,10 @@ Close
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Abbreviations
 
 Close
@@ -92,10 +92,6 @@ Close
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6 List Builder
 
@@ -107,10 +103,6 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7 Where Am I?
 
 Close
@@ -120,6 +112,10 @@ Close
  With**Where Am I?** , each player takes it, in turn, to describe one feature of their surroundings, while the other tries to guess where they are. You can make this game as easy or as hard as you like by varying the level of detail you give to your opponent.
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
 
@@ -140,6 +136,10 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -168,21 +168,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-djis-minis-and-airs-no-cost-luts-for-mixing-pros/"><u>[Updated] 2024 Approved DJI's Minis & Airs No Cost LUTS for Mixing Pros</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-a-new-era-for-virtual-reality-best-pc-headsets-of-2023-for-2024/"><u>[Updated] A New Era for Virtual Reality Best PC Headsets of 2023 for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-inverted-lookups-on-instagram-posts-for-2024/"><u>[Updated] Mastering the Art of Inverted Lookups on Instagram Posts for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-push-youtube-boundaries-with-creative-studio-expertise-and-tactics/"><u>2024 Approved Push Youtube Boundaries with Creative Studio Expertise and Tactics</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138544997-9781401941109-archetypes/"><u>Archetypes | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-xboxs-anti-cheat-measures/"><u>Exploring Xbox's Anti-Cheat Measures</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-unveiling-best-score-boosting-websites/"><u>Game On - Unveiling Best Score-Boosting Websites</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-am08-pro-enhancing-real-magic-playtime/"><u>Is AM08 Pro Enhancing Real Magic Playtime?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-generative-ai-key-mistakes-and-how-to-prevent-them/"><u>Mastering Generative AI: Key Mistakes and How to Prevent Them</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-cambia-facilmente-file-mp4-in-mov-online-e-liberamente/"><u>Movavi: Cambia Facilmente File MP4 in MOV Online E Liberamente!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y100t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y100t to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-policy-update-ai-games-reimagined-for-players/"><u>Steam's Policy Update: AI Games Reimagined for Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-sneaky-approach-to-steam-use/"><u>The Sneaky Approach to Steam Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-vr-gear-for-ps-vr-2-enthusiasts/"><u>Top VR Gear for PS VR 2 Enthusiasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-bluetooth-mouse-in-windows/"><u>Troubleshooting Guide: Fixing a Non-Functional Bluetooth Mouse in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-cabinet-go-big-with-frames/"><u>Upgrade Your Cabinet - Go Big with Frames!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>[New] Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] 2024 Approved From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-achieving-clear-focus-blurring-videos-on-teams-for-2024/"><u>[Updated] Achieving Clear Focus Blurring Videos on Teams for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-beginners-guide-to-iphone-slow-movement-videography/"><u>2024 Approved The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-12r-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus 12R Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/customizing-fun-steam-modding-techniques-explained/"><u>Customizing Fun: Steam Modding Techniques Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-gaming-achievement-managers/"><u>Elite Gaming Achievement Managers</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-internet-journey-lowering-your-networks-delay-duration/"><u>Fast Internet Journey: Lowering Your Network's Delay Duration</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-highlights-from-this-week/"><u>Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-mastery-the-dynamic-world-of-tetris-playoffs/"><u>Mobile Mastery: The Dynamic World of Tetris Playoffs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/new-era-of-quick-fixes-acer-drivers-update-for-win10-users/"><u>New Era of Quick Fixes: Acer Drivers Update for Win10 Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/rapid-ramp-up-routine-to-revive-lol-receptions/"><u>Rapid Ramp-Up Routine to Revive LoL Receptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-edge-in-144hz-monitor-selection/"><u>Ultimate Edge in 144Hz Monitor Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/xboxs-video-enhancements-made-easy-for-gamers/"><u>Xbox's Video Enhancements Made Easy for Gamers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Frugal Gamer's Guide to Xbox Series X/S
-date: 2024-11-30T20:52:29.660Z
-updated: 2024-12-05T03:16:01.065Z
+date: 2024-12-07T03:31:06.076Z
+updated: 2024-12-11T07:48:02.245Z
 tags:
   - games
 categories:
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  But there are many games where these in-game purchases are purely cosmetic and completely optional, meaning you can play for as long as you want without reaching for your wallet at all. Games like Overwatch 2, Fortnite, or Apex Legends are just a few examples of fun and rewarding games that you can play completely free of charge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Subscribe to Xbox Game Pass
 
  If you’re a gamer on a budget, Xbox Game Pass will be your best friend. Xbox Game Pass is a subscription service that does cost money, but the number of games you get access to makes it incredibly good value.
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
  For just $10.99 per month, you can play however many of the hundreds of games on offer that your heart desires. The games are also switched up and added to consistently, so there is always something new for you to play.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Collect and Use Microsoft Reward Points
@@ -72,20 +76,20 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 ![Xbox Game Pass Perks Screen on Xbox Game Pass App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-screen-on-xbox-game-pass-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Xbox Game Pass Perks on Xbox Game Pass Mobile App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-game-pass-perks-on-xbox-game-pass-mobile-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close
 
  Xbox Game Pass Perks can include anything from loot boxes for certain games or even free monthly subscriptions to services like Crunchyroll or Discord Nitro. These offers are all available for a limited time and change often, so make sure you check them out regularly.
 
  You can check your Game Pass Perks from the Xbox website, your console itself, or on the Xbox Game Pass mobile app by opening it and heading to your profile. If you have Xbox Game Pass but don’t see any Perks there, keep in mind that they are only available to Xbox Game Pass Ultimate subscribers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Use Energy Saving Mode on Your Xbox
 
@@ -99,29 +103,25 @@ Close
 
  Putting your Xbox on shutdown (energy saving) mode is by far the most energy-efficient way to operate your system and uses 20% less power than sleep mode. 20% less power is a significant amount and is just one of the many ways you can reduce your power bill at the end of the month.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Support Your Gaming Habit for a Fraction of the Price
 
  Living certainly isn’t cheap, and unfortunately, part of being a functioning adult is putting things like rent and household bills ahead of buying the next brand-new video game at full price. But by using any or all of these money-saving tips, you could be gaming for years on end without digging into your life savings.
 
  Downloading and taking advantage of free games is by far the best way to start saving money on gaming, but an Xbox Game Pass subscription is the next best step when it comes to gaming efficiently. And make sure you don’t forget to check in regularly to see what kind of free bonuses you can get with your Microsoft Rewards Points and Xbox Game Pass Perks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Much Electricity Does Your Xbox Series X Use?
 
  The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always[adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: Why Is the Xbox Series S So Much Cheaper Than the Xbox Series X?
 
@@ -146,22 +146,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-optimal-free-cam-viewer-with-snatch-feature/"><u>[New] 2024 Approved Optimal Free Cam Viewer with Snatch Feature</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rafting-videos-youtube-tools-and-more-for-2024/"><u>[New] Crafting Videos YouTube Tools and More for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-counteracting-bot-influence-for-higher-traffic/"><u>[Updated] 2024 Approved Counteracting Bot Influence for Higher Traffic</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-proficient-techniques-securely-embedding-a-url-in-tiktok-profiles/"><u>[Updated] Proficient Techniques Securely Embedding a URL in TikTok Profiles</u></a></li>
-<li><a href="https://games-able.techidaily.com/dealing-with-windows-1011s-zero-x-0x887a0006-failure/"><u>Dealing with Windows 10/11'S Zero X: 0X887A0006 Failure</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-nvidia-g-sync-in-gaming/"><u>Decoding the Secrets of Nvidia G-Sync in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/find-the-ultimate-elgato-stream-deck-model/"><u>Find the Ultimate Elgato Stream Deck Model</u></a></li>
-<li><a href="https://article-posts.techidaily.com/high-performance-gpus-for-4k-vision/"><u>High-Performance GPUs for 4K Vision</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-video-grabbers-for-windows-10-pc/"><u>In 2024, Best Video Grabbers for Windows 10 PC</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload/"><u>In 2024, Flutter Free Video Conversion The Best Alternatives for YouTube Upload</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 Bootloader Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-integrating-interactive-features-for-enhanced-viewers-experience-on-youtube/"><u>In 2024, Integrating Interactive Features for Enhanced Viewers' Experience on Youtube</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-friends-across-platforms-bedrock-java-via-geysermc-server/"><u>Making Friends Across Platforms: Bedrock-Java via GeyserMC Server</u></a></li>
-<li><a href="https://games-able.techidaily.com/screen-and-sanctuary-packing-essentials-for-travel-gamers/"><u>Screen & Sanctuary: Packing Essentials for Travel Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-launching-games-via-emudeck-on-steam-deck/"><u>Step-by-Step: Launching Games via EmuDeck on Steam Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-16-best-couch-co-op-games-for-xbox-series-xs/"><u>The 16 Best Couch Co-Op Games for Xbox Series X/S</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-smart-buyers-steam-deck-guidebook/"><u>The Smart Buyer's Steam Deck Guidebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques-for-2024/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-premier-9-high-quality-online-mic-capture-solutions-23/"><u>[Updated] 2024 Approved Premier 9 High-Quality Online Mic Capture Solutions ('23)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-essential-guide-to-dslr-and-live-streaming-on-computers-for-2024/"><u>[Updated] Essential Guide to DSLR and Live Streaming on Computers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] From Virality to Value Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-future-gaming-top-5-psvr-releases-on-the-horizon/"><u>[Updated] Future Gaming Top 5 PSVR Releases on the Horizon</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-husqvarnas-skyward-leap-with-the-new-h501x4-drone-insights/"><u>[Updated] Husqvarna's Skyward Leap with the New H501X4 Drone Insights</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-10-useful-screen-recorder-for-teachers/"><u>2024 Approved 10 Useful Screen Recorder for Teachers</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-delight-classic-retro-games-for-your-ios-device/"><u>Gamers Delight: Classic Retro Games for Your iOS Device!</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-twitch-outage-real-or-are-you-experiencing-technical-difficulties/"><u>Is The Twitch Outage Real, Or Are You Experiencing Technical Difficulties?</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-removing-ps5-saves-safely/"><u>Master the Art of Removing PS5 Saves Safely</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-performance-of-amds-rx-7800xt-and-7700xt/"><u>Mastering the Performance of AMD's RX 7800XT & 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/mobile-games-analysis-perk-a-dunk-and-pitfall/"><u>Mobile Games Analysis: Perk-a-Dunk and Pitfall</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-finding-best-participant-friendly-discords/"><u>Strategies for Finding Best Participant-Friendly Discords</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-budget-friendly-white-gaming-systems/"><u>Ultimate Budget-Friendly White Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-champion-which-is-superior-batocera-or-retropie-for-pi/"><u>Unveiling the Champion: Which Is Superior, Batocera or RetroPie for Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-gpu-costs-climb-soon/"><u>Will GPU Costs Climb Soon?</u></a></li>
 </ul></div>
 

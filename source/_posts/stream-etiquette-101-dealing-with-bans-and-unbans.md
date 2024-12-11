@@ -1,7 +1,7 @@
 ---
 title: "Stream Etiquette 101: Dealing with Bans and Unbans"
-date: 2024-09-04T21:49:20.713Z
-updated: 2024-09-05T21:49:20.713Z
+date: 2024-12-04T17:38:12.906Z
+updated: 2024-12-10T18:07:41.108Z
 tags:
   - games
 categories:
@@ -30,6 +30,10 @@ Here's how to block or unblock someone on Twitch...
 
 ![Blocking someone on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-dots.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Twitch will quickly remind you what a blocked person can and cannot do. In short, once you block someone, they can't whisper you, host you, add you as a friend, or gift[Twitch subscriptions](https://www.makeuseof.com/tag/twitch-complete-guide-buying-subscriptions/) to your channel.
 
  If you're okay with this, click**Block** .
@@ -48,18 +52,6 @@ Here's how to block or unblock someone on Twitch...
 
  If you know what the user's exact name is, you can**type /unblock \[username\]** to bring them back. However, if you can't remember their name, you'll need to do some extra work.
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on Twitch Using Settings
 
  To unblock someone on Twitch on your PC, do the following. First, click on your profile at the top right, then click**Settings** .
@@ -70,31 +62,27 @@ Here's how to block or unblock someone on Twitch...
 
 ![twitch settings show blocked users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-show-blocked-users.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Show Blocked Users** . Twitch will then load a list of everyone you've blocked and the date that you blocked them.
 
 ![Viewing blocked users on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/blocked-users-twitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the**Unblock** button adjacent to the user you'd like to unblock.
 
  Twitch will save the changes immediately and remove the user from your block list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unblock People on the Twitch App
 
  If you're using an Android phone, you'll quickly discover that unblocking someone via the official Android app can be a huge pain. This is because, weirdly enough, the Android app is missing a feature that the iOS version has.
 
  Here are the best ways to unblock people on Twitch on iOS and Android...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Unblock People on iOS
 
@@ -107,11 +95,9 @@ Here's how to block or unblock someone on Twitch...
 ![Twitch Account view page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-twitch-profile-view-ios.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
 ![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
@@ -119,11 +105,9 @@ Here's how to block or unblock someone on Twitch...
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Unblock People on Android
 
  If you're on Android, you'll find that you can follow the above instructions word-for-word, right up until the point where a blocked user list is supposed to appear. Strangely, the blocked user list never made it over from iOS.
@@ -132,30 +116,15 @@ Close
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Managing People Better on Twitch
 
  If someone is getting on your nerves, you can quickly and easily block them on Twitch. If you decide to unblock them later on, it's easy and quick to do—as long as you're not on Android.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +133,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-inviolable-tactic-to-eliminate-youtube-shorts/"><u>[New] 2024 Approved Inviolable Tactic to Eliminate YouTube Shorts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-key-strategies-in-monitoring-and-logging-pc-and-microphone-outputs/"><u>[New] In 2024, Key Strategies in Monitoring & Logging PC and Microphone Outputs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-virtual-realities-made-tangible-6-metaverse-examples-reviewed/"><u>2024 Approved Virtual Realities Made Tangible 6 Metaverse Examples Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-screen-transcriber-for-chromeos-for-2024/"><u>Advanced Screen Transcriber for ChromeOS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/curbing-xbox-game-bar-activity-in-windows-11/"><u>Curbing Xbox Game Bar Activity in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/headphone-harmony-with-ps5-audio-accessories/"><u>Headphone Harmony with PS5 Audio Accessories</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-a2-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo A2 Is Unlocked</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-rapid-fire-guide-to-successful-double-exposures/"><u>In 2024, Rapid-Fire Guide to Successful Double Exposures</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-the-operation-of-fps-unlockers-on-roblox/"><u>In-Depth Look: The Operation of FPS Unlockers on Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-stories-at-your-screen/"><u>Journey Through Stories at Your Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/quick-guide-seamless-mov-to-wmv-file-transformation-techniques-and-tips/"><u>Quick Guide: Seamless MOV to WMV File Transformation Techniques and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/relicplay-compact-pocket-edition-of-yesteryears/"><u>RelicPlay Compact: Pocket Edition of Yesteryears</u></a></li>
+<li><a href="https://win-docs.techidaily.com/resolucion-al-problema-de-archivo-invisible-en-disco-duro-externo-seagate/"><u>Resolución Al Problema De Archivo Invisible en Disco Duro Externo Seagate</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-organized-best-nintendo-switch-cartridge-holder-choices-for-24/"><u>Stay Organized: Best Nintendo Switch Cartridge Holder Choices for '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-virtuafun-effective-gameplay-of-steam-titles-on-meta-quest/"><u>Streamline VirtuaFun: Effective Gameplay of Steam Titles on Meta Quest</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-servers-into-game-haven-chesspoker-edition/"><u>Transforming Servers Into Game Haven: Chess/Poker Edition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-iphones-hidden-photo-storage-solutions-for-items-missing-post-deletion/"><u>Understanding iPhone's Hidden Photo Storage: Solutions for Items Missing Post-Deletion</u></a></li>
+</ul></div>
 

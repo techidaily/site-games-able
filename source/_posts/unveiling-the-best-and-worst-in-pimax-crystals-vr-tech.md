@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Best & Worst in Pimax Crystal's VR Tech
-date: 2024-11-29T08:51:30.833Z
-updated: 2024-12-05T05:42:28.521Z
+date: 2024-12-08T22:42:48.701Z
+updated: 2024-12-11T01:06:12.560Z
 tags:
   - games
 categories:
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 ![pimax crystal product thumb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/pimax-crystal-product-thumb.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Pimax Crystal
 
@@ -102,6 +98,10 @@ SnapDragon XR2
 
 ![pimax crystal - box contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-box-contents.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
 Inside the large and densely packed box you'll find:
@@ -113,9 +113,17 @@ Inside the large and densely packed box you'll find:
 * USB power adaptor, and USB A to A cable to connect the hub to your computer.
 * Two USB-A to C cables for charging the controllers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Controllers: Functional but Nasty
 
 ![pimax crystal - controller buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-controller-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -151,10 +159,6 @@ Related
 
 ![pimax crystal - off ear headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-off-ear-headphones.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  James Bruce / MakeUseOf
 
  Bizarrely, the Pimax Crystal requires a battery even when used in PCVR tethered mode and connected to the powered hub. This is apparently due to the use of the XR2 chipset—the same used in the Meta Quest 3\. However, given that most people will be using this in a tethered mode and completely ignoring the standalone functionality, it’s a frustrating design choice, but perhaps one that will come to fruition later with expansion modules such as wireless transmission.
@@ -171,6 +175,10 @@ Related
 
 ![pimax crystal - motion sim chair side on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-motion-sim-chair-side-on.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  James Bruce / MakeUseOf
 
  After installing the required PiPlay software and putting on the headset, you'll be greeted by the same default barren Martian landscape that I remember from[my original Pimax 5K review five years ago](https://www.makeuseof.com/tag/pimax-5k-plus/) , but it's a higher resolution now. That’s even more pixels to view a bleak, unimpressive landscape that you can't interact with in any way or move around.
@@ -184,12 +192,16 @@ Related
  KayakVR has been my go-to experience for relaxation and really shows off the beauty of the Pimax Crystal's display. The vibrant colors and shimmering water are jaw-dropping, even if I can't whack up the resolution to full.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Image Quality Is Superb
 
 ![pimax crystal - lenses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-lenses.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -203,10 +215,6 @@ Related
 
  But let's be clear: from a hardware and imaging perspective, you cannot beat the Pimax Crystal right now for tethered PCVR.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dynamic Foveated Rendering Gives You a Performance Boost (in Theory)
 
  As alluded to earlier, inside the Pimax Crystal is a magical piece of eye-tracking tech from Tobii, which senses your eye movements and relays back to your computer where you’re looking within the scene.
@@ -219,15 +227,15 @@ Related
 
  If your system is teetering on the edge of 90fps but not quite able to make it (or even near 120, which the Pimax also supports), then Dynamic Foveated Rendering could be just the trick to push you up and over, out of the trap of interpolated frames.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Camera-Based Inside-Out Tracking Is as Good as Expected
 
  Four cameras on the front of the Pimax Crystal enable the headset to track in both standalone and tethered mode without the use of Basestations or external sensors. Like any camera-based system, it relies on your play space being well lit and with suitable markers around the room. An empty room with plain white walls and an unpatterned carpet will not track, nor will a dark room.
 
 ![pimax crystal - waving hands around in game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/12/pimax-crystal-waving-hands-around-in-game.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  James Bruce / MakeUseOf
 
@@ -236,7 +244,7 @@ Related
  That said, I experienced no unexpected issues with the camera-based tracking. Mostly, I play racing sims and slow-paced adventure games, but the classic litmus test is Beat Saber. It had no trouble keeping up with my movements there—just remember to keep your controllers roughly in front of you, not to the sides or behind.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Standalone Mode Is Best Forgotten About (for Now)
@@ -246,10 +254,6 @@ Related
  Watching movies would be a good use case for this standalone, but sadly the only option is Whirligig, which is my least favorite of media players, and currently sitting at a 2-star rating, with both reviews stating that it won't actually play movie files.
 
  Tracking in standalone mode seems to work just as well as tethered, though the processing power limits what’s graphically possible.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Should You Buy the Pimax Crystal?
 
@@ -279,10 +283,6 @@ Related
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Pimax Crystal
 
  8/ 10
@@ -306,22 +306,21 @@ Related
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-expertly-crafted-video-making-software-iphone-android-for-2024/"><u>[New] Expertly Crafted Video-Making Software (iPhone, Android) for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-5-reviews-of-zooms-powerful-affordable-transcription-software/"><u>[New] Top 5 Reviews of Zoom's Powerful, Affordable Transcription Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-stunning-colors-top-11-methods-for-professional-grading-and-correction/"><u>[Updated] Capture Stunning Colors Top 11 Methods for Professional Grading & Correction</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/a-practical-approach-to-scheduling-on-zoom-platforms-for-2024/"><u>A Practical Approach to Scheduling on Zoom Platforms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-fichiers-wma-en-formats-vob-en-ligne-utiliser-movavi/"><u>Conversion Gratuite De Fichiers WMA en Formats VOB en Ligne - Utiliser Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-media-experience-fullscreen-playnite-tv/"><u>Elevate Your Media Experience - Fullscreen Playnite TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/expand-your-adventure-pursue-fallout-game-variants/"><u>Expand Your Adventure: Pursue Fallout Game Variants</u></a></li>
-<li><a href="https://games-able.techidaily.com/hack-prone-the-shifting-landscape-of-gaming-security/"><u>Hack-Prone: The Shifting Landscape of Gaming Security</u></a></li>
-<li><a href="https://games-able.techidaily.com/hardware-harmony-choosing-between-directx-11-and-12/"><u>Hardware Harmony: Choosing Between DirectX 11 & 12</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-correct-required-hardware-missing-issue-on-windows-11-os/"><u>How to Correct Required Hardware Missing Issue on Windows 11 OS</u></a></li>
-<li><a href="https://facebook.techidaily.com/inside-look-the-workplace-dynamics-on-facebook-groups/"><u>Inside Look: The Workplace Dynamics on Facebook Groups</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/power-surge-review-the-beatit-bt-d11-portable-power-bank/"><u>Power Surge Review: The Beatit BT-D11 Portable Power Bank</u></a></li>
-<li><a href="https://games-able.techidaily.com/reprogramming-steam-language-default/"><u>Reprogramming Steam Language Default</u></a></li>
-<li><a href="https://games-able.techidaily.com/restart-your-ps5-controller-techniques-and-timings/"><u>Restart Your PS5 Controller: Techniques and Timings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/simply-saver-top-mobile-apps-for-downloading-youtube-series-and-songs-for-2024/"><u>Simply Saver Top Mobile Apps for Downloading YouTube Series & Songs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-playing-games-via-steam-storage-tool/"><u>Step-by-Step: Playing Games via Steam Storage Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-lenovo-thinkpad-x1-nano-in-detail-is-it-the-best-lightweight-laptop-on-the-market/"><u>The Lenovo ThinkPad X1 Nano in Detail – Is It the Best Lightweight Laptop on the Market?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[New] In 2024, The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premier-content-creators-colloquy/"><u>[New] Premier Content Creators Colloquy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>[Updated] Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ps5xbox-series-x-top-gaming-tvs-unveiled/"><u>[Updated] In 2024, PS5/Xbox Series X Top Gaming TVs Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-total-spend-on-a-single-youtubers-ads/"><u>[Updated] Total Spend on a Single Youtuber's Ads</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-oled-purchase-missteps/"><u>Correcting OLED Purchase Missteps</u></a></li>
+<li><a href="https://games-able.techidaily.com/creative-ps5-entertainment-five-controller-free-methods/"><u>Creative PS5 Entertainment: Five Controller-Free Methods</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/diagnosing-your-computer-step-by-step-guide-to-identifying-hardware-issues-yl-technology-solutions/"><u>Diagnosing Your Computer: Step-by-Step Guide to Identifying Hardware Issues - YL Technology Solutions</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/effektive-methoden-zum-ubertragen-von-daten-vom-iphone-auf-den-pc-eine-schritt-fur-schritt-anleitung/"><u>Effektive Methoden Zum Übertragen Von Daten Vom iPhone Auf Den PC - Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-linux-software-for-efficient-screen-capture/"><u>Essential Linux Software for Efficient Screen Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-value-in-games-without-fees-or-payments/"><u>Finding Value in Games Without Fees or Payments</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-mouse-accuracy-in-action-games/"><u>Mastering Mouse Accuracy in Action Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-performance-windows-installation-for-steam-decks/"><u>Pushing Performance: Windows Installation for Steam Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-7-best-sports-games-for-ios-and-android/"><u>The 7 Best Sports Games for iOS and Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-ios-gaming-boosters-pick-four-for-perfection/"><u>The Ultimate List of iOS Gaming Boosters: Pick Four for Perfection</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transforming-flv-files-into-mp4-format-a-step-by-step-guide-for-windows-10-and-11-users/"><u>Transforming FLV Files Into MP4 Format: A Step-by-Step Guide for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

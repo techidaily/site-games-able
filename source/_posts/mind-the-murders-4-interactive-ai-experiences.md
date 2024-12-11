@@ -1,7 +1,7 @@
 ---
 title: "Mind the Murders: 4 Interactive AI Experiences"
-date: 2024-11-30T19:36:13.342Z
-updated: 2024-12-04T19:46:22.227Z
+date: 2024-12-06T10:11:21.225Z
+updated: 2024-12-10T19:40:35.886Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1. Solve the Murders
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -59,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3. Mystery-o-Matic
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -75,13 +75,13 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4. Murdle
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -112,18 +112,16 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-online-seminar-title-crafter/"><u>[New] Ultimate Online Seminar Title Crafter</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[Updated] In 2024, Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-top-tools-for-saving-insta-photos-and-videos/"><u>[Updated] In 2024, Top Tools for Saving Insta Photos & Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-outdated-computers-with-atlasos/"><u>Elevate Outdated Computers with ATLASOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-performance-should-you-start-with-cpu-or-gpu/"><u>Elevating Performance: Should You Start with CPU or GPU?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-insights-from-toms-computer-review-hub/"><u>Expert Insights From Tom's Computer Review Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fortify-your-gaming-experience-with-ps5-password/"><u>How to Fortify Your Gaming Experience with PS5 Password</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-in-fun-why-paying-for-mobile-games-is-worthwhile/"><u>Invest in Fun: Why Paying for Mobile Games Is Worthwhile</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-precision-with-logitech-gaming-mice/"><u>Next-Level Precision with Logitech Gaming Mice</u></a></li>
-<li><a href="https://games-able.techidaily.com/take-on-novel-challenges-with-these-6-funky-chess-apps/"><u>Take on Novel Challenges with These 6 Funky Chess Apps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/taking-smart-home-to-new-heights-the-revolutionary-echo-4th-gen-unveiled/"><u>Taking Smart Home to New Heights: The Revolutionary Echo (4Th Gen) Unveiled</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-youtube-creator-summit-a-getaway-for-top-talent/"><u>The YouTube Creator Summit - A Getaway for Top Talent</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c32s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia C32s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-craft-compelling-snapchats-on-ios-and-android-top-6-apps-for-2024/"><u>[New] Craft Compelling Snapchats on iOS & Android - Top 6 Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-obs-clash-livestream-prodigies/"><u>2024 Approved OBS Clash - LiveStream Prodigies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-step-by-step-to-stardom-on-social-boost-your-instagram-fame-at-warp-speed-with-our-15-must-knows/"><u>2024 Approved Step-by-Step to Stardom on Social Boost Your Instagram Fame at Warp Speed with Our 15 Must-Knows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversion-gratuita-de-archivos-mp4-a-formato-aac-online-con-herramientas-profesionales-movavi/"><u>Conversión Gratuita De Archivos MP4 a Formato AAC Online Con Herramientas Profesionales - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-online-adventures-a-question-of-value/"><u>Fleeting Online Adventures: A Question of Value</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-crafting-splitscreen-youtube-videos-a-guide-to-creativity/"><u>In 2024, Crafting Splitscreen YouTube Videos A Guide to Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovation-in-ai-predicting-the-launch-of-gpt-5/"><u>Innovation in AI: Predicting the Launch of GPT-5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-compatibility-7-must-know-checks-for-pc-parts/"><u>Seamless Compatibility: 7 Must-Know Checks for PC Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/turbocharge-your-play-upgrade-windows-fps-rate/"><u>Turbocharge Your Play: Upgrade Window's FPS Rate</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-steam-insights-measuring-hours-and-achievement-progress/"><u>Unlocking Steam Insights: Measuring Hours and Achievement Progress</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-choosing-the-best-accessories-for-steam-deck-power/"><u>Your Guide to Choosing the Best Accessories for Steam Deck Power</u></a></li>
 </ul></div>
 

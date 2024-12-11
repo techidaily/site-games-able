@@ -1,7 +1,7 @@
 ---
 title: Top 6 Game Takeaways From Helldivers 2'S Journey
-date: 2024-12-01T00:57:17.691Z
-updated: 2024-12-04T21:01:12.208Z
+date: 2024-12-06T18:57:49.533Z
+updated: 2024-12-11T01:23:22.364Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Allow Cross-Platform Multiplayer Play](#allow-cross-platform-multiplayer-play)
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 * [Balance Gameplay Mechanics](#balance-gameplay-mechanics)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -60,19 +64,11 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  The game was faced with alienating a large portion of its player base, but its willingness to reverse its decision got it back on track.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3 Have A Strong Social Media Presence
 
  The Helldivers 2 social media pages post frequent game updates, challenges, and memes that earn impressive engagement. For instance, the[Helldivers 2 Instagram page](https://www.instagram.com/helldivers2game/?hl=en) boasts over 100,000 followers.
 
  Helldivers 2 also has a[Discord server](https://discord.com/invite/zbbZ5rNcuK) with almost 1 million members, where players receive updates from the game's developers. During the Sony PSN linking debacle, development leads updated the game's player base amid ongoing negotiations with Sony.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Offer Community Challenges
 
@@ -82,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  The game's developers put out new Major Orders every week to engage the community. The community is not guaranteed to pass each Major Order, making it a challenge for the entire player base. Each mission in Helldivers 2 that a player participates in adds to the progress of the Major Order, making the success of the mission entirely based on community progress.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Have a Free Progression System
 
  There are multiple forms of in-game currency in Helldivers 2 which players can find in missions for free. If a player is looking to fast-track unlocking items available in Warbonds (battle passes), weapons, and other cosmetics, there are paid options, as well. Importantly, a player does not have to pay to advance in the game.
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 ![Screenshot of Helldivers 2 Acquisition Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0415430.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Players can find Super Credits, which unlock new monthly Warbonds and cosmetics, across missions at random points on the map. Super Credits are also available for purchase in the game store. Medals can be obtained by completing Major Orders or finding stashes during missions. You can also earn medals by completing missions. The higher the difficulty level of the mission, the more medals players unlock upon completion.
@@ -102,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  There are plenty of other[live service games that are not pay-to-win](https://www.makeuseof.com/live-service-games-that-arent-pay-to-win/) , as well, including Fortnite and Smite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6 Balance Gameplay Mechanics
 
  With new weapons, armor, and emotes dropping monthly, game developers watch to see if these newer weapons are over- or under-powered based on gameplay and community feedback.
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
  For example, the SG-225 Breaker shotgun got "nerfed", meaning the game developers reduced its overall power by reducing its ammo capacity and increasing its recoil to balance the game and encourage using other weapons.
 
 ![Screenshot of Helldivers 2 SG-225 Breaker automatic shotgun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/share_20240524_0504130.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Balancing game mechanics helps keep the experience varied and allows people to use different combinations of guns and other strategies to succeed in the game.
 
@@ -133,16 +133,21 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlocking-facebook-financial-gains-a-step-by-step-guide/"><u>[New] 2024 Approved Unlocking Facebook Financial Gains A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/chieving-youtube-earnings-excellence-strategies-and-beyond-for-2024/"><u>[New] Achieving YouTube Earnings Excellence - Strategies and Beyond for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-from-novice-to-pro-an-extensive-guide-to-capturing-top-notch-audio-on-zoom/"><u>[Updated] 2024 Approved From Novice to Pro An Extensive Guide to Capturing Top-Notch Audio on Zoom</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-game-streams-with-ai-enhanced-portraits/"><u>In 2024, Mastering Game Streams with AI-Enhanced Portraits</u></a></li>
-<li><a href="https://games-able.techidaily.com/keep-your-gaming-experience-peak-performance-with-these-tips/"><u>Keep Your Gaming Experience Peak Performance with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-dollars-affordable-gamers-display-choice/"><u>Maximize Your Dollars - Affordable Gamer's Display Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/riddle-me-this-with-ridiculously-ruined-role-players/"><u>Riddle Me This with Ridiculously Ruined Role-Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-economical-240hz-gaming-displays/"><u>Top Economical 240Hz Gaming Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-your-friends-digital-whereabouts-on-xbox/"><u>Understanding Your Friends' Digital Whereabouts on Xbox</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unmuting-facebook-videos-a-step-by-step-guide-for-2024/"><u>Unmuting Facebook Videos A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96166196-9781547521760-shashhata-parajatapata-sa-vajata/"><u>शोषित पराजित...पीड़िता से विजेता | Free Book</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos/"><u>[New] In 2024, Streamline Your VFX Creation with Story Remix and Windows 10 Photos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs-for-2024/"><u>[New] Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleash-growth-potential-simple-strategies-for-video-success/"><u>[Updated] 2024 Approved Unleash Growth Potential Simple Strategies for Video Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-steam-level-matter-to-you/"><u>Does Steam Level Matter to You?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-playtime-for-families-valve-updates-steam-sharing-today/"><u>Enhanced Playtime for Families: Valve Updates Steam Sharing Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-impact-of-game-mode-in-apples-macos-sonoma-upgrade/"><u>Exploring the Impact of Game Mode in Apple’s macOS Sonoma Upgrade</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-advanced-tips-for-bordered-instagram-photography/"><u>In 2024, Advanced Tips for Bordered Instagram Photography</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-best-youtube-video-reverser-online-plushowtos/"><u>In 2024, Best YouTube Video Reverser Online [+Howtos]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>In 2024, Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-zero-budget-big-impact-the-best-free-online-video-editors-for-2024/"><u>New Zero Budget, Big Impact The Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-ea-play-price-hike-no-subscription-for-me/"><u>No More EA Play: Price Hike, No Subscription for Me</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728473692025-onedrive/"><u>OneDrive同步问题瞬间修复：四种高效解决手段</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-xbox-gamepad-glitches-and-drifts/"><u>Overcoming Xbox Gamepad Glitches and Drifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-strands-secrets-a-comprehensive-guide-to-nyts-word-game/"><u>The 'Strands' Secrets: A Comprehensive Guide to NYT’s Word Game</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-gps-running-watch-the-essential-guide-to/"><u>Top-Rated GPS Running Watch: The Essential Guide To</u></a></li>
+<li><a href="https://games-able.techidaily.com/transition-from-show-to-storyline-in-multiple-fallouts/"><u>Transition From Show to Storyline in Multiple Fallouts</u></a></li>
 </ul></div>
 

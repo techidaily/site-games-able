@@ -1,7 +1,7 @@
 ---
 title: Game On or Game Off? Weighing the Pros and Cons Digitally
-date: 2024-09-04T21:49:20.509Z
-updated: 2024-09-05T21:49:20.509Z
+date: 2024-12-09T09:44:38.370Z
+updated: 2024-12-10T23:31:37.277Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 ---
 
 ## Game On or Game Off? Weighing the Pros and Cons Digitally
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 
 ![the steam logo on a laptop](https://thmb.techidaily.com/36a0feb333642fafe6d899d77e13984485a54242ddf28da6d8e7c4998067f22e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Rokas Tenys/[Shutterstock](https://www.shutterstock.com/image-photo/vilnius-lithuania-2022-july-6-steam-2175437557)
 
  One of the major benefits of owning digital games is the convenience of obtaining them. There's no need to go to a physical store or wait for the delivery of an online order. Moreover, finding a physical copy of an older game can sometimes be challenging, but acquiring its digital version is as easy as completing the purchase and downloading it.
@@ -48,29 +56,15 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
  Unlike physical games, there’s no need to dig through drawers and swap discs. Your digital games are always readily available, and you can switch between them effortlessly.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. The Seamless Experience of Automatic Updates
 
  On most devices, digital games are updated automatically by default. This may not seem like a big deal, but it can save you from the frustration of encountering a large update prompt just as you're eager to play your favorite game.
 
  Automatic updates ensure that your favorite titles are ready to play when you want them, without having to wait for updates to download and install.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Digital-Only Consoles Are Less Expensive
 
 ![Sony PS5 Digital Edition with DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/ps5-features-we-like-1-2.jpg)
@@ -82,23 +76,15 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
  Also, with your games being digital, you don’t have to deal with issues like a[PS5 disc drive making way too much noise](https://www.makeuseof.com/ways-to-fix-noisy-ps5-disc-drive/) or getting stuck. This means you can enjoy uninterrupted gameplay without the annoyance of disc-related malfunctions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. You Can Opt for Value-for-Money Subscription Services
 
  With digital games, individual purchases aren't always necessary. Instead, you can opt for gaming subscriptions like PS Plus, Game Pass, or EA Play. Similar to how you subscribe to Netflix instead of purchasing individual movies, these gaming subscriptions offer a variety of benefits for a monthly fee, which is approximately the cost of a single game.
 
 ![A promotional image for Xbox Game Pass Core](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/xbox-game-pass-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Xbox](https://news.xbox.com/en-us/2023/07/17/xbox-game-pass-core/)
 
  This model enables you to explore various genres and discover new favorites without needing to make separate purchases. Additionally, many gaming subscriptions offer trial periods where you can play games for a few hours before deciding to make a purchase.
@@ -108,22 +94,18 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
  While buying digital copies of games may seem like a no-brainer at this point, there are some downsides to consider.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Digital Games Can Quickly Fill Up Your Console’s Storage Space
 
  While digital games eliminate the need to store them physically, they can quickly eat up the storage space on your console. With many modern games easily reaching 50GB or more in size, you will constantly find yourself looking for[ways to get more storage space on your PS5](https://www.makeuseof.com/ps5-storage-how-to-increase-manage/) or Xbox Series X|S.
 
  As a result, you may need to uninstall or move unplayed games to an external drive every now and then. While[adding extra storage to your PS5](https://www.makeuseof.com/how-to-add-m2-ssd-ps5-guide/) or Xbox is always an option, it does come with additional expenses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. They Are Difficult to Share or Sell
 
@@ -133,22 +115,10 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 
  But when it comes to selling your games once you've finished playing them; you won't be able to recoup some of the initial costs of purchasing the game by selling it on eBay or other platforms if you don't have a physical disc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. You Don't Actually Own Your Digital Games
 
 ![steam deck gaming handheld](https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f0f8b2cf5d7bebdde4893059.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Mr.Mikla/[Shutterstock](https://www.shutterstock.com/image-photo/ljubljana-slovenia-2022-june-6-new-2177777643)
 
  When you purchase a digital game, you're not technically buying the game itself, but rather a license to play it. Unlike physical copies, where ownership is usually more straightforward, digital licenses often come with restrictions and conditions.
@@ -165,14 +135,11 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
 
  That said, choosing digital games over their physical counterparts often comes down to personal preference, with factors like convenience, access, and pricing influencing individual decisions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +148,26 @@ thumbnail: https://thmb.techidaily.com/ade566529a7bc97aed23a78dd1be17314340f234a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-tangoing-turquoise-toucan/"><u>[New] Tangoing Turquoise Toucan</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-a-new-world-of-farming-the-best-7-mods-in-stardew/"><u>2024 Approved A New World of Farming - The Best 7 Mods in Stardew</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-video-privacy-measures-blurring-and-concealing-details/"><u>2024 Approved Video Privacy Measures Blurring and Concealing Details</u></a></li>
+<li><a href="https://games-able.techidaily.com/computing-power-boosts-start-with-cpu-or-gpu-upgrade/"><u>Computing Power Boosts: Start with CPU or GPU Upgrade</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-systems-vram-capacity-immedientiary/"><u>Discover System's VRAM Capacity Immedientiary</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-pass-a-steal-yet-not-perfect/"><u>Google Play Pass - A Steal, Yet Not Perfect</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy S24 Ultra?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-m34-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy M34 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/introducing-guarded-steam-exploration-for-families/"><u>Introducing Guarded Steam Exploration for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-stealth-minimize-your-digital-footprints/"><u>Mastering Stealth: Minimize Your Digital Footprints</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-process-of-starting-display-drivers-correctly-in-winoses/"><u>Mastering the Process of Starting Display Drivers Correctly in WinOSes</u></a></li>
+<li><a href="https://win-popular.techidaily.com/recover-lost-memories-retrieve-deleted-images-from-an-iphone-easily/"><u>Recover Lost Memories: Retrieve Deleted Images From an iPhone Easily!</u></a></li>
+<li><a href="https://games-able.techidaily.com/spotless-playstation-console-and-controller-tips/"><u>Spotless PlayStation Console and Controller Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamers-playlist-the-top-6-game-mix/"><u>Streamers' Playlist: The Top 6 Game Mix</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/take-control-with-alienwares-m1ebeastly-performance-and-300-labor-day-price-drop-insider-info/"><u>Take Control with Alienware's M1ebeastly Performance and $300 Labor Day Price Drop Insider Info</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-the-web-slinger-a-ps5-mars-spiderman-2-strategy/"><u>Unleashing The Web Slinger: A PS5 Mar's Spiderman 2 Strategy</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728493559266-windows-7usb/"><u>Windows 7システムの完全なバックアップと起動用USBメモリ生成ガイド</u></a></li>
+</ul></div>
 

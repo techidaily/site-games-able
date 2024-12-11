@@ -1,7 +1,7 @@
 ---
 title: What Is AMD RDNA 3.5 and When Will It Launch?
-date: 2024-11-18T09:12:50.830Z
-updated: 2024-11-25T10:14:53.907Z
+date: 2024-12-03T16:20:16.420Z
+updated: 2024-12-10T20:35:44.567Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * AMD is developing the RDNA 3.5 GPU architecture, which will be used as an integrated GPU solution for mobile APUs in handhelds and laptops.
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  AMD put its best foot forward with RDNA 3 introduced in its RX 7000 GPU lineup. However, considering just how big of a leap Nvidia made with Ada Lovelace on RTX 40-Series GPUs, AMD's upcoming RDNA 3.5 has some big shoes to fill.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is AMD RDNA 3.5?
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 ![AMD Radeon RX 7900 XTX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rx-7900-xtx.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[AMD](https://www.youtube.com/watch?v=XAGFS8d%5FqLw)
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  AMD often launches CPUs at CES (the Consumer Electronics Show held annually in January), so there's a chance RNDA 3.5 will be introduced to the world in January 2024\. Other than that, it's anybody's guess when AMD will announce the new architecture.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Performance Improvements Will RDNA 3.5 Bring Over RDNA 3?
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 ![HWiNFO screenshot showing Ryzen 8000 CPU specs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rdna3-5-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Performance Databases](https://performancedatabases.com/Content/Leak/Details/2023-09-01/Content.php)
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  It seems like RDNA 3.5 will be making its debut in AMD's mobile APU lineup. The decision makes sense considering what it has achieved in gaming handhelds with RDNA 2 and RDNA 3 (for example, with the Steam Deck, Asus ROG Ally, and the upcoming Lenovo Legion Go). The Zen 5-powered CPU, armed with its 16 RDNA 3.5 GPU compute cores, should theoretically provide a big GPU performance boost over its predecessors.
 
  That said, the processor is still in its engineering sample (ES) state, so it's hard to say whether this performance will translate to real-world usage. Additionally, the screenshot also claims only 512 MB of GDDR6 video memory, which is almost certainly due to unfinished drivers for the unsupported APU or any other errors on the software side.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## RDNA 3.5 Aims to Turn the Tide in AMD's Favor
 
@@ -100,18 +100,22 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhanced-b2c-strategies-via-brands-and-youtube-collaboration/"><u>2024 Approved Enhanced B2C Strategies via Brands & YouTube Collaboration</u></a></li>
-<li><a href="https://games-able.techidaily.com/cost-effective-virtual-reality-adventures/"><u>Cost-Effective Virtual Reality Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-common-ground-in-minecraft-bedrock-java-interoperability-via-geysermc/"><u>Finding Common Ground in Minecraft: Bedrock-Java Interoperability via GeyserMC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-mouse-dpi-for-competitive-first-person-shooters/"><u>Ideal Mouse DPI For Competitive First-Person Shooters</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/infuse-audiovisual-experience-in-ppt-for-2024/"><u>Infuse Audiovisual Experience in PPT for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211245865-9798869210012-le-symbole-de-la-vie/"><u>LE SYMBOLE DE LA VIE | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-virtualbox-v70-upgrades-for-windows-11-enthusiasts/"><u>Mastering VirtualBox v7.0 Upgrades for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-2023s-bargain-for-aspiring-drivers/"><u>MOZA R5: 2023'S Bargain for Aspiring Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-resource-protection-failed-errors-a-step-by-step-guide/"><u>Resolving 'Windows Resource Protection Failed' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-home-entertainment-at-ifa/"><u>The Future of Home Entertainment at IFA</u></a></li>
-<li><a href="https://games-able.techidaily.com/unravel-the-best-ranking-the-top-9-steam-deck-emulators/"><u>Unravel the Best: Ranking the Top 9 Steam Deck Emulators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[New] 2024 Approved Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ersonalized-music-collection-enhancement-from-spotify-to-youtube-music/"><u>[New] Personalized Music Collection Enhancement From Spotify to YouTube Music</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-metaverse-gags-and-their-creators/"><u>[Updated] 2024 Approved Innovative Metaverse Gags & Their Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-efficient-twitch-stream-recordings/"><u>[Updated] In 2024, Tips and Tricks for Efficient Twitch Stream Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-visualizing-perfection-our-1-10-camera-lens-picks-for-amazing-photography/"><u>[Updated] Visualizing Perfection Our #1-10 Camera Lens Picks for Amazing Photography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-instantly-with-iphone-timelapse-techniques/"><u>Capturing Instantly with iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-chatgpt-as-a-detailed-and-interactive-text-based-rpg/"><u>How to Use ChatGPT as a Detailed and Interactive Text-Based RPG</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-moto-g-5g-2023-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Moto G 5G (2023) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/inside-info-on-the-new-tesla-bot-teasers-estimated-pricing-and-release-specs-revealed/"><u>Inside Info on the New Tesla Bot: Teasers, Estimated Pricing, and Release Specs Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/instant-playstation-4-system-refresh-techniques/"><u>Instant PlayStation 4 System Refresh Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-setup-for-mobile-app-compatibility/"><u>Linux Setup for Mobile App Compatibility</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-youtube-view-duration-three-steps-52-chars-for-2024/"><u>Optimizing YouTube View Duration - Three Steps (52 Chars) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-your-game-order-preorder-for-spider-man-2-ps5/"><u>Prioritize Your Game - Order Preorder for Spider-Man 2 PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/success-in-games-unveiled-by-helldivers-2s-secrets/"><u>Success in Games Unveiled by Helldivers 2'S Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-2500-giant-raider-ge78s-desktop-clash/"><u>The $2500 Giant: Raider GE78's Desktop Clash</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-revolutionary-gamepad-repair-new-rog-x/"><u>The Revolutionary Gamepad Repair: New RoG X</u></a></li>
+<li><a href="https://games-able.techidaily.com/these-are-some-of-my-favorite-indie-games-and-how-i-found-them/"><u>These Are Some of My Favorite Indie Games, and How I Found Them</u></a></li>
 </ul></div>
 

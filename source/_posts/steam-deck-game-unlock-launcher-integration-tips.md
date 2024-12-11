@@ -1,7 +1,7 @@
 ---
 title: "Steam Deck Game Unlock: Launcher Integration Tips"
-date: 2024-12-02T00:19:51.664Z
-updated: 2024-12-05T08:26:54.534Z
+date: 2024-12-04T07:00:35.944Z
+updated: 2024-12-11T03:33:11.731Z
 tags:
   - games
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12
 
 ![screenshot of Lutris in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_lutris_in_discover_store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Because the Steam Deck natively runs on a Linux operating system, the availability of different game launchers can get a bit muddy.
 
  Linux has had a solution for running just about any Windows program you can imagine before the Steam Deck even released. Lutris is an open gaming platform that can be engineered to run just about any Windows app.
@@ -43,6 +39,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of heroic game launcher in the discover store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_in_discover_store.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Heroic Games Launcher is a frontend for three different game launchers, letting you gain access the Epic Games Launcher, GOG Galaxy, and Amazon Games App with one installation.
 
  Hop into Desktop Mode and open up the Discover store. This will be found in the**All Applications** menu if you haven't already used it.
@@ -51,10 +51,6 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 ![screenshot of the heroic games launcher login page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_login_page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the installation is finished, you can find the program in the All Applications menu, just like the Discover store.
 
  Once in the program, you'll want to log in before anything else. The**Log In** option is available on the left-hand side of the window. You'll have four options. Two login methods for the Epic Games Launcher, as well as options for GOG and Amazon Games.
@@ -62,7 +58,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of the epic library in heroic game launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_epic_library_in_heroic_launcher-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you're logged in to any of the services, you'll start seeing games appear under the**Library** tab. At this stage, games can be installed and will be automatically managed by the Heroic Games Launcher. Relevant Proton layers will be downloaded and applied to ensure compatibility.
@@ -74,7 +70,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ![screenshot of the heroic games launcher settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_heroic_settings_page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will add shortcuts to Gaming Mode, allowing you to launch these games without worrying about Desktop Mode.
@@ -82,6 +78,10 @@ Instead, we have solutions designed specifically for the Steam Deck.
 ## NonSteamLaunchers for Battle.net, EA App, and More
 
 ![screenshot of nonsteamlaunchers list of launchers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot_of_nonsteamlaunchers_list_of_launchers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  NonSteamLaunchers can be a little bit more difficult to install. This isn't available in the Discover Store, so you'll need to enter Desktop Mode and navigate to the[GitHub page for NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) .
 
@@ -100,7 +100,7 @@ Instead, we have solutions designed specifically for the Steam Deck.
  Just note that these installations require the user to select a specific Proton compatibility layer through Steam, unlike Heroic Games Launcher which manages this for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play Non-Steam Games on the Steam Deck
@@ -122,20 +122,17 @@ Instead, we have solutions designed specifically for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-curating-the-best-video-game-openers-on-yt-no-money-max-impact/"><u>[New] 2024 Approved Curating the Best Video Game Openers on YT No Money, Max Impact?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-precise-speech-to-text-the-google-standard/"><u>[New] 2024 Approved Precise Speech to Text The Google Standard</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhancing-images-top-11-in-depth-color-adjustment-guides/"><u>[Updated] In 2024, Enhancing Images Top 11 In-Depth Color Adjustment Guides</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>2024 Approved Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-10-mobile-relaxation-renders-idle-games/"><u>2024 Approved Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
-<li><a href="https://games-able.techidaily.com/excellent-deals-in-virtual-reality-tech/"><u>Excellent Deals in Virtual Reality Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-fix-and-prevent-fps-drops-in-destiny-2s-latest-expansion-beyond-light/"><u>How to Fix and Prevent FPS Drops in Destiny 2’S Latest Expansion: Beyond Light</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-elevating-listeners-a-comprehensive-guide-to-podcast-seo/"><u>In 2024, Elevating Listeners A Comprehensive Guide to Podcast SEO</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-11-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 11 Pro without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-playstation-5-membership-returns/"><u>Maximizing PlayStation 5 Membership Returns</u></a></li>
-<li><a href="https://games-able.techidaily.com/next-level-gaming-with-superior-xbox-blue-ray-support/"><u>Next-Level Gaming with Superior Xbox Blue-Ray Support</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/photoharmony-android-and-ios-instagram-collages-for-2024/"><u>PhotoHarmony Android & iOS Instagram Collages for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionary-gameplay-playing-xbox-one-untraditionally/"><u>Revolutionary Gameplay: Playing Xbox One Untraditionally</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-consequences-encouraging-gamers-to-develop-their-own-games/"><u>The Consequences: Encouraging Gamers to Develop Their Own Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleashing-potential-remote-firmware-sync-up-tactics/"><u>Unleashing Potential: Remote Firmware Sync-Up Tactics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlimited-view-of-youtube-cover-pics-no-payment-required/"><u>[New] Unlimited View of YouTube Cover Pics No Payment Required</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enhanced-productivity-learn-to-record-your-mac-screen-for-2024/"><u>[Updated] Enhanced Productivity Learn to Record Your Mac Screen for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-essential-guide-to-cost-free-cam-screen-recording-apps-for-2024/"><u>[Updated] The Essential Guide to Cost-Free Cam Screen Recording Apps for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-amd-graphics-the-power-of-rx-7800xt-and-7700xt-series/"><u>Decoding AMD Graphics: The Power of RX 7800XT & 7700XT Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-online-engagement-tips-for-minimal-delay-in-data-transmission/"><u>Enhancing Online Engagement: Tips for Minimal Delay in Data Transmission</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-takes-a-leap-forward-with-the-pdw4/"><u>Gaming Takes a Leap Forward with the PDW4</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/hush-the-controller-shakes-on-xbox-s/"><u>Hush the Controller Shakes on Xbox S</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-14-plus-how-to-unlock-a-disabled-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 14 Plus How to Unlock a Disabled Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-maximize-your-fcpx-experience-top-10-plugins-to-explore-for-2024/"><u>New Maximize Your FCPX Experience Top 10 Plugins to Explore for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-ps5-remote-for-androidios-use/"><u>Pairing PS5 Remote for Android/iOS Use</u></a></li>
 </ul></div>
 

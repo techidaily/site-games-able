@@ -1,7 +1,7 @@
 ---
 title: "Perfectly Tuned: Top Settings Every Switcher Should Know"
-date: 2024-11-21T01:13:41.017Z
-updated: 2024-11-25T06:31:27.337Z
+date: 2024-12-10T07:36:31.764Z
+updated: 2024-12-11T01:58:23.300Z
 tags:
   - games
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![Save Data Cloud Settings on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/save-data-cloud-settings-on-nintendo-switch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do so, head to the settings and make your way to**Data Management** . From there, click**Save Data Cloud** and choose your**user profile** . Scroll down to**Settings** at the bottom and turn on**Automatically Back Up Save Data** . Once you have activated this setting, you will be able to retrieve any data you lose. This feature is only available if you have a Nintendo Switch Online Membership.
 
 ## 2\. Use Flight Mode to Extend Your Switch’s Battery Life
@@ -41,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![Flight Mode Menu on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/flight-mode-menu-on-nintendo-switch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To put your phone on Flight Mode. Simply open your settings and scroll down to**Flight Mode** . It’s the second option on the menu and will only take a moment to activate, but could save you precious moments in your game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Quick Archive to Free Up Space on Your Nintendo Switch
 
@@ -53,15 +57,7 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![Quick Archive on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/quick-archive-on-nintendo-switch.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your options here are to buy a large SD card to give your Switch more storage space or juggle your games. If your Switch is full, but you want to download a new game, don’t worry. You don’t have to delete all of your games to make space, you can quickly archive them instead.[Archiving software on your Switch](https://www.makeuseof.com/nintendo-switch-how-to-archive-software/) still frees up storage space, but leaves an icon of the game on your home screen, so you can quickly and easily redownload it when you’re ready.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enable Bluetooth Audio
 
@@ -69,10 +65,14 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![Activate Bluetooth Audio on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/activate-bluetooth-audio-on-nintendo-switch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Not everyone keeps up to date with the ins and outs of every Nintendo Switch update that comes out. So, if you, like many others, were still unaware of the fact that you could connect Bluetooth headphones to your Switch, this may come as a welcome surprise to you. Connecting and[using Bluetooth headphones on your Switch](https://www.makeuseof.com/use-bluetooth-headphones-nintendo-switch/) is a simple and easy process that could change the way you listen to your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Tweak Your TV Resolution Settings to Get Better Graphics
@@ -81,10 +81,14 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![TV Resolution on Nintendo Switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tv-resolution-on-nintendo-switch.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your TV is capable of displaying a 1080p image, so is your Nintendo Switch. In handheld mode, the Switch is only capable of 720p, but this can be improved in docked mode. You do have to change your**TV Resolution** setting, however.[Improving your Nintendo Switch’s resolution in docked mode](https://www.makeuseof.com/improve-nintendo-switch-docked-graphics/) is as easy as heading to your settings, going to**TV Output** , and selecting**1080p** from your**TV Resolution** settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Calibrate Your Nintendo Switch Controllers
@@ -93,14 +97,10 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![How to calibrate controller on Nintendo Switch Calibrate Control Sticks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/how-to-calibrate-controller-on-nintendo-switch-calibrate-control-sticks.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This issue can cause some serious headaches in-game, but there is a way to fix it (if the case is mild enough.) That is by recalibrating your Joy-Cons or any other controller you may be having issues with. Simply head to your settings, select**Controllers and Sensors** , and press**Calibrate Control Sticks** . The Switch will guide you through the rest of the process, and you should finally experience some relief from drift for a little while, at least.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Alter the MTU Setting to Unlock Faster Download Speeds
@@ -154,21 +154,18 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-integrating-movie-capture-across-all-operating-systems/"><u>[New] Integrating Movie Capture Across All Operating Systems</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unlocking-the-worlds-best-imagery-with-no-monetary-investment/"><u>[New] Unlocking the World's Best Imagery with No Monetary Investment</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s23-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/desktop-dot-delights-winning-window-notes-apps-no-pen/"><u>Desktop Dot Delights: Winning Window Notes Apps (No Pen)</u></a></li>
-<li><a href="https://games-able.techidaily.com/engaging-viewers-live-xbox-streaming-on-discord/"><u>Engaging Viewers: Live Xbox Streaming on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-apple-devices-offline-game-roundup/"><u>Exclusive Apple Devices Offline Game Roundup</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-on-iphone-6-by-drfone-ios/"><u>How to Fix when Apple Account Locked On iPhone 6?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c210-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia C210 Phone Without Password?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-noise-reduction-in-xbox-audio/"><u>Navigating Noise Reduction in Xbox Audio</u></a></li>
-<li><a href="https://games-able.techidaily.com/origins-of-foddian-a-gaming-journey/"><u>Origins of Foddian: A Gaming Journey</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-edge-40-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Edge 40</u></a></li>
-<li><a href="https://fox-where.techidaily.com/restoring-accidentally-deleted-documents-from-the-recycle-bin-on-windows-11windows-7/"><u>Restoring Accidentally Deleted Documents From the Recycle Bin on Windows 11/Windows 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/rising-tide-of-cyber-dangers-for-digital-warriors/"><u>Rising Tide of Cyber Dangers for Digital Warriors</u></a></li>
-<li><a href="https://games-able.techidaily.com/typing-efficiency-and-the-hidden-factor-of-refresh-intervals/"><u>Typing Efficiency and the Hidden Factor of Refresh Intervals</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-gamers-should-opt-for-steam-the-ultimate-decision-maker-guide/"><u>Why Gamers Should Opt for Steam: The Ultimate Decision-Maker Guide</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1728488924846-windows-112/"><u>Windows 11対応ソフトウェアを確認するための必見ツール2点</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xplore-the-world-of-frames-5-free-youtube-tips-for-you/"><u>[New] Explore the World of Frames 5 Free YouTube Tips for You</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>[Updated] 2024 Approved Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>[Updated] Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/13-effective-methods-for-converting-video-object-module-files-to-mp4-on-windows-10-11-and-macos/"><u>13 Effective Methods for Converting Video Object Module Files to MP4 on Windows 10, 11 and macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fallacious-chrome-extension-steals-facebook-sign-in-info/"><u>Fallacious Chrome Extension: Steals FACEBOOK Sign-In Info</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-hidden-treasure-securely-download-igtv-videos-on-pcmacos/"><u>In 2024, Instagram's Hidden Treasure Securely Download IGTV Videos on PC/MacOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-the-editorial-maze-answers-for-filmora-users-for-2024/"><u>Navigating the Editorial Maze Answers for Filmora Users for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/rightful-tech-wisdom-oled-display-selection-guide/"><u>Rightful Tech Wisdom: OLED Display Selection Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-system-with-these-7-budget-friendly-password-tools/"><u>Secure Your System with These 7 Budget-Friendly Password Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-guide-collect-and-use-steam-currency-wisely/"><u>The Complete Guide: Collect & Use Steam Currency Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/trust-in-triviality-uncovering-hidden-biases-in-critiques/"><u>Trust in Triviality: Uncovering Hidden Biases in Critiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/uncovering-the-mechanics-behind-an-xbox-360-slims-design/"><u>Uncovering the Mechanics Behind an Xbox 360 Slim's Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/virtual-vanguard-the-top-11-pivotal-war-strategies/"><u>Virtual Vanguard: The Top 11 Pivotal War Strategies</u></a></li>
 </ul></div>
 

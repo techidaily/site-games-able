@@ -1,7 +1,7 @@
 ---
 title: "Navigating Netflix and Hulu Within Your Series X: S Setup"
-date: 2024-09-04T21:50:00.075Z
-updated: 2024-09-05T21:50:00.075Z
+date: 2024-12-08T16:26:52.522Z
+updated: 2024-12-10T16:40:01.368Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/xbox-game-pass)
 
  If you need to manage your subscriptions outside the available features of the**Subscriptions** settings, or if you want to join a new subscription, you may need to use an alternative way to manage subscriptions.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![A screenshot of the Profile and System option within the Guide menu on an Xbox Series X with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-guide-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Highlight the options for**Account** , and select**Subscriptions** .
 
 ![A screenshot of the Account settings for an Xbox Series X with Subscriptions highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2647-1.jpg)
@@ -55,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
 
 ![A screenshot of the available features for Subscriptions on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2651.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With a subscription selected, you can manage your Xbox subscription using any of the following settings and processes:
 
 * **Change plan** allows you to view and switch from one subscription tier to another, like going from Xbox Game Pass For Console to Xbox Game Pass Ultimate.
@@ -66,11 +78,9 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
  While these features cover the most common ways you can manage your Xbox subscriptions, some of the features require the Microsoft Edge app on your Xbox.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Microsoft Edge to Manage Subscriptions on Xbox
 
  Almost every feature that can manage subscriptions from your Xbox, can be altered from the**Subscriptions** page. However, if you want to**Change plan** or**Turn on recurring billing** , your Xbox will redirect you to the Microsoft Edge app and expect you to manage the subscription from there.
@@ -87,25 +97,20 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
  But with accessible ways of switching and activating subscriptions straight from your Xbox, you at least don't have to worry about hitting any roadblocks when managing subscriptions from your Series X|S.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove the Worry of Managing Subscriptions With Your Xbox Series X|S
 
  With an Xbox Series X|S, you can streamline managing your subscriptions by accessing and adjusting supported Xbox services from one device.
 
  And while you may still need to use other applications like Microsoft Edge, you shouldn't have to worry about juggling devices or contacting customer services to adjust your subscriptions as you see fit.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +119,23 @@ thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc80
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gratis-global-photo-perfection-suite/"><u>[New] Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-make-and-edit-multi-snapchat-videos-easily/"><u>[New] How to Make and Edit Multi Snapchat Videos Easily</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-naming-strategies-elevating-your-filmora-channels-identity/"><u>[New] Innovative Naming Strategies Elevating Your Filmora Channels' Identity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-strategies-for-effective-scheduling-of-digital-meetups-for-2024/"><u>[Updated] Strategies for Effective Scheduling of Digital Meetups for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-the-new-champion-why-pc-gamers-prefer-windows-11-over/"><u>2. The New Champion: Why PC Gamers Prefer Windows 11 Over</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-v27-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo V27 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginning-gaming-adventures-on-linux-with-steam-your-ultimate-guide/"><u>Beginning Gaming Adventures on Linux with Steam - Your Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descargar-e-convertir-archivos-de-video-mp4-y-mpg-a-formatos-compatibles-con-mkv-sin-costo-alguno-utilizando-el-servicio-online-de-moveavi/"><u>Descargar E Convertir Archivos De Video MP4 Y MPG a Formatos Compatibles Con MKV Sin Costo Alguno Utilizando El Servicio Online De MoveAVI</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-ultimate-gaming-rig-without-breaking-the-bank-the-hp-victus-15l-pc-slashed-to-a-steal-at-480-for-the-holiday-weekend-says-zdnet/"><u>Get the Ultimate Gaming Rig Without Breaking the Bank: The HP Victus 15L PC Slashed to a Steal at $480 for the Holiday Weekend, Says ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-system-performance-by-refreshing-driver-software-in-windows-10/"><u>Improve System Performance by Refreshing Driver Software in Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-method-for-screen-recording-across-platforms/"><u>In 2024, The Ultimate Method for Screen Recording Across Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-definitive-guide-to-the-new-nintendo-switch-oled-why-it-outshines-rivals-expert-review-by-zdnet/"><u>The Definitive Guide to the New Nintendo Switch OLED: Why It Outshines Rivals | Expert Review by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-cutting-edge-electronic-presents-featured-on-zdnet/"><u>Top 10 Cutting-Edge Electronic Presents - Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranking-glorious-aura-keycaps-explored-the-ultimate-guide-to-premium-pudding-caps-featured-on-zdnet/"><u>Top-Ranking Glorious Aura Keycaps Explored: The Ultimate Guide to Premium Pudding Caps - Featured on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deal-hp-victus-15l-laptop-now-at-only-480-this-labor-day-exclusive-insights-from-zdnet/"><u>Unbeatable Deal: HP Victus 15L Laptop Now at Only $480 This Labor Day - Exclusive Insights From ZDNet</u></a></li>
+</ul></div>
 

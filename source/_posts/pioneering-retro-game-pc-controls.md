@@ -1,7 +1,7 @@
 ---
 title: Pioneering Retro Game PC Controls
-date: 2024-11-28T03:40:55.198Z
-updated: 2024-12-04T16:48:29.421Z
+date: 2024-12-09T08:24:44.873Z
+updated: 2024-12-11T07:48:50.181Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Connect Your Classic Nintendo Controller to Steam
@@ -50,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 ![Connecting N64 Controller to PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connecting-n64-controller-to-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Left-click on the**controller name** to pair it. It's worth noting here that your PC won't remember the Classic Nintendo controller like it does other Bluetooth devices, and this process will have to be repeated every time you want to connect your controller to your PC.
 
  All that’s left to do after that is open Steam and start gaming. If your controller is connected to your PC, Steam will recognize and connect to it straight away. No more fiddling around is necessary.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure Your Classic Nintendo Controller to Work on Steam
 
@@ -64,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
  There is a Nintendo Button Layout option in your controller settings, but that only switches the A, B, X, and Y buttons which differ from other major controllers. If that’s enough for you, press the**Steam** button in the top left corner and open up the**Settings** . Press**Controller** , and toggle**Use Nintendo Button Layout** to the on position.
 
 ![Nintendo Button Layout Option Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/nintendo-button-layout-option-steam.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To fully customize your button layout, make your way to Steam’s Big Picture Mode by pressing**View** from the menu along the top and selecting**Big Picture Mode** .
 
@@ -79,18 +79,18 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 ![Edit Button Layout for Controllers on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-button-layout-for-controllers-on-steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Edit Layout** menu is very comprehensive and contains every button input you could possibly need. Press the button group you want to customize to be taken to the next screen where you can individually change each one.
 
 ![Changing Controller Button Layout on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/changing-controller-button-layout-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Pressing the left and right triggers will switch between keyboard, mouse, or controller inputs to help you decide on what button layout is best for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Sit Back, Relax, and Enjoy the Nostalgia
@@ -114,20 +114,21 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeting-tunes-converting-videos-into-melodic-gifs/"><u>[New] 2024 Approved Tweeting Tunes Converting Videos Into Melodic GIFs</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-best-vr-cycling-experiences-awaiting-you-for-2024/"><u>[New] Best VR Cycling Experiences Awaiting You for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-steps-for-capturing-hd-content-on-fb-for-2024/"><u>[New] Steps for Capturing HD Content on FB for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/fast-track-access-to-premium-photo-repair-solutions-shop-now/"><u>Fast-Track Access to Premium Photo Repair Solutions - Shop Now</u></a></li>
-<li><a href="https://win-help.techidaily.com/how-to-fix-windows-server-2012-backup-functionality-when-connecting-to-a-network-attached-storage-nas-device/"><u>How to Fix Windows Server 2012 Backup Functionality When Connecting to a Network Attached Storage (NAS) Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-use-social-media-scheduling-tools-on-twitter-effectively/"><u>How to Use Social Media Scheduling Tools on Twitter Effectively</u></a></li>
-<li><a href="https://games-able.techidaily.com/hrtf-elevating-sound-awareness-for-peak-performance-in-valorant/"><u>HRTF: Elevating Sound Awareness for Peak Performance in Valorant</u></a></li>
-<li><a href="https://games-able.techidaily.com/intel-or-amd-top-choice-for-console-gaming/"><u>Intel or AMD: Top Choice for Console Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/moza-r5-a-499-gateway-to-simulated-speed-and-precision/"><u>MOZA R5: A $499 Gateway to Simulated Speed and Precision</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-best-video-editing-apps-for-mac-simplify-your-video-creation-process/"><u>New The Best Video Editing Apps for Mac Simplify Your Video Creation Process</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/no-fuss-streaming-technique-for-podcasts/"><u>No-Fuss Streaming Technique for Podcasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-gathering-free-photo-display-videos/"><u>The Art of Gathering Free Photo Display Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-remote-gaming-with-steam/"><u>The Essential Guide to Remote Gaming with Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-spectacular-world-of-google-play-pass-and-a-minor-glitch/"><u>The Spectacular World of Google Play Pass and a Minor Glitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/uniting-players-selective-list-of-dual-platform-games/"><u>Uniting Players: Selective List of Dual-Platform Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-distilling-essential-versions-from-microsofts-movie-maker/"><u>[Updated] 2024 Approved Distilling Essential Versions From Microsoft's Movie Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-capture-the-best-on-fb-top-8-movie-downloaders/"><u>[Updated] In 2024, Capture the Best on FB Top 8 Movie Downloaders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-master-the-art-of-file-conversion-selecting-best-free-tools-for-instagram-videos-windowsosx/"><u>[Updated] In 2024, Master the Art of File Conversion Selecting Best Free Tools for Instagram Videos [Windows/OSX]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maintaining-mystery-techniques-for-smoothing-out-visuals-for-2024/"><u>[Updated] Maintaining Mystery Techniques for Smoothing Out Visuals for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-rejuvenation-sonys-controller-wirelessly-refreshed/"><u>Effortless Rejuvenation: Sony's Controller Wirelessly Refreshed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans/"><u>From Passive to Active Earnings Unlocking Youtube with 500+ Fans</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-to-free-game-choices/"><u>Gamers' Guide to Free Game Choices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-11x-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme 11X 5G</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pc-image-management-for-iphone-integration/"><u>In 2024, PC Image Management for iPhone Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-color-grading-utilizing-luts-in-ae/"><u>In 2024, The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-gamers-revel-in-fortnites-wonders-with-watchful-eyes/"><u>Mac Gamers: Revel in Fortnite's Wonders with Watchful Eyes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/maximize-your-consoles-potential-top-monitors-explored/"><u>Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-choices-for-peak-level-xbox-streaming/"><u>Premium Choices for Peak-Level Xbox Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-a-world-of-endless-play-best-10-ad-free-games/"><u>Step Into a World of Endless Play: Best 10 Ad-Free Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unanticipated-consequences-of-rtx-4090-ownership/"><u>The Unanticipated Consequences of RTX 4090 Ownership</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-power-of-playstation-5-controller-reboot/"><u>Unveiling the Power of PlayStation 5 Controller Reboot</u></a></li>
 </ul></div>
 

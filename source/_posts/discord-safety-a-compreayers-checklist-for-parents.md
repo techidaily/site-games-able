@@ -1,7 +1,7 @@
 ---
 title: "Discord Safety: A Compreayer's Checklist for Parents"
-date: 2024-12-01T17:04:56.780Z
-updated: 2024-12-05T07:17:04.453Z
+date: 2024-12-07T08:32:16.658Z
+updated: 2024-12-11T02:01:15.127Z
 tags:
   - games
 categories:
@@ -43,28 +43,24 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 [Common Sense Media](https://www.commonsensemedia.org/app-reviews/discord) , a non-profit focused on providing parents and teachers with information about online platforms, notes on its official website that Discord is primarily meant for adults, though it may be a good fit for teens if used responsibly. The organization also stresses that Discord has done a lot to become a more accommodating platform for everyone, but recommends that underaged individuals are supervised when using it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Keep Your Kid Safe on Discord: 5 Key Tips
 
  Parental controls are great, and definitely make ensuring your child's safety a lot easier. But there are other things parents can do to protect their children on Discord, without violating their privacy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Communicate Openly
 
  As a parent, you should communicate openly with your child about internet safety, and the dangers an underage person can encounter online. Whether you're concerned about cybersecurity or worry your kid might become a target of harassment, communication is key. As long as the youngster feels comfortable talking with you about whatever worries they might have, things should be fine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Educate Your Child
 
  It is true that children and teenagers nowadays are far more technologically adept than previous generations, but it's safe to assume most view cybersecurity as boring and unnecessary, or even feel overconfident about their skills. This is why it's[important to educate your child](https://www.makeuseof.com/technology-role-model-be-good-for-kids/) , and make them understand what can happen if they are not careful, or ignore basic online safety concepts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Set Time Limits
@@ -72,19 +68,23 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  Setting time limits is a must as well. Excessive Discord usage (and excessive screen time in general) can have a major impact on a child's mental and physical well-being, influencing their academic performance and social development negatively. It's important to encourage other interests and set boundaries early on, so that the child doesn't develop addiction-like behaviors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Remind Your Kid to Lead by Example
 
  Cyberbullying is a massive issue in this day and age. Thankfully, there are plenty of resources for victims, but abusers' motivations are often overlooked. That's a big problem, being that most[cyberbullying against kids and teens](https://www.makeuseof.com/cyberbullying-vs-cyberstalking-difference-between/) is carried out by their peers. This is why every parent should try and teach their kid to lead by example, and treat others with respect and kindness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Encourage Critical Thinking
 
  And lastly, none of the above will make a real difference if your child isn't encouraged to think critically. It's one thing to be digitally literate, but it's imperative for every kid and teenager to understand how technology actually works, what motivates bad behaviors, how to identify threats, and why taking responsibility is important.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Discord Is as Safe as You Make It
@@ -108,22 +108,17 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-leading-titles-in-rapid-online-content-expansion/"><u>[New] 2024 Approved The Leading Titles in Rapid Online Content Expansion</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-inside-intova-x-pushing-video-tech-boundaries-for-2024/"><u>[New] Inside Intova X Pushing Video Tech Boundaries for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-gimbals-for-smooth-filming-experience-for-2024/"><u>[New] Ultimate Gimbals for Smooth Filming Experience for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-comprehensive-connectivity-with-tango-textcallvideo-at-no-cost/"><u>Experience Comprehensive Connectivity with Tango - Text/Call/Video at No Cost</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-advice-on-linking-a-controller-to-an-android-compatible-gadget/"><u>Expert Advice on Linking a Controller to an Android Compatible Gadget</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-experience-elevated-a-close-look-at-keychrons-lemokey-l3/"><u>Gaming Experience Elevated: A Close Look at Keychron’s Lemokey L3</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-unsubscribe-and-undo-gaming-expenses/"><u>How to Unsubscribe and Undo Gaming Expenses</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-beat-bazaar-curation-of-superior-dj-video-samples-for-download/"><u>In 2024, Beat Bazaar Curation of Superior DJ Video Samples for Download</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-8-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 8 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-growth-hacking-for-new-videographers/"><u>In 2024, YouTube Growth Hacking for New Videographers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/introduction-to-kinetic-graphic-principles/"><u>Introduction to Kinetic Graphic Principles</u></a></li>
-<li><a href="https://games-able.techidaily.com/leading-8-android-simulators-ideal-for-desktop-gaming/"><u>Leading 8 Android Simulators, Ideal for Desktop Gaming</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-xr21-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia XR21 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/steering-clear-of-common-wi-fi-blunders-on-ps5/"><u>Steering Clear of Common Wi-Fi Blunders on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/typing-tales-unraveling-the-secrets-behind-refresh-times/"><u>Typing Tales: Unraveling The Secrets Behind Refresh Times</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-installing-google-play-games-the-pc-perspective/"><u>Understanding and Installing Google Play Games: The PC Perspective</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-rhythm-potential-with-graphics-pads/"><u>Unlocking Rhythm Potential with Graphics Pads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-comprehensive-checklist-for-perfecting-your-reddit-posts/"><u>[Updated] The Comprehensive Checklist for Perfecting Your Reddit Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>2024 Approved Behind the Curtain Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evaluating-the-security-of-chatgpt-extensions/"><u>Evaluating the Security of ChatGPT Extensions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-latest-gpu-drivers-for-pcs/"><u>Install Latest GPU Drivers for PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-ps5-pad-pc-integration-guide/"><u>Mastering PS5 Pad: PC Integration Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-pairings-for-the-ultimate-steam-deck-journey/"><u>Perfect Pairings for the Ultimate Steam Deck Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-display-driver-issues-in-windows-10-and-11/"><u>Resolving Display Driver Issues in Windows 10 & 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revealed-the-10-most-reliable-android-and-ios-countdown-clocks-for-marriage-bliss-for-2024/"><u>Revealed The 10 Most Reliable Android and iOS Countdown Clocks for Marriage Bliss for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalize-your-computer-a-guide-for-driver-updates-in-windows-10-via-revouninstaller/"><u>Revitalize Your Computer: A Guide for Driver Updates in Windows 10 via RevoUninstaller</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-irobot-automatic-cleaners-comprehensive-analysis-and-reviews-techradar/"><u>Top-Rated iRobot Automatic Cleaners : Comprehensive Analysis & Reviews - TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-steam-big-picture-mode-and-how-do-you-use-it/"><u>What Is Steam Big Picture Mode, and How Do You Use It?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xerox-workcentre-6515-driver-download-and-update/"><u>Xerox WorkCentre 6515 Driver Download & Update</u></a></li>
 </ul></div>
 

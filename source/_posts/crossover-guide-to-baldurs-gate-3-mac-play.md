@@ -1,7 +1,7 @@
 ---
 title: CrossOver Guide to Baldur's Gate 3 Mac Play
-date: 2024-09-04T21:49:20.008Z
-updated: 2024-09-05T21:49:20.008Z
+date: 2024-12-09T05:02:43.770Z
+updated: 2024-12-11T09:27:43.293Z
 tags:
   - games
 categories:
@@ -24,7 +24,15 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
 
 ![Baldur's Gate 3 in Steam cart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-in-steam-cart.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You don’t need a virtual machine for this step. Go to Steam. Search Baldur’s Gate 3, and pay $59.99 for the game. Once you have a receipt, you’re ready to move on to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Download, Install, and Set Up CrossOver and Steam
 
@@ -39,75 +47,42 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
  Once that’s done, log in to Steam with your details and install Baldur’s Gate 3 from your library. As soon as it’s done, you can attempt to run it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Run Baldur’s Gate 3 With CrossOver
 
 ![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Baldur’s Gate 3 should run the moment you click**Play** , but in some cases, it might not. What you should do is find Baldur’s Gate 3 on the left side menu and**Control** \-click (secondary-click) it to open the context menu. Go to**Manage > Browse Local Files** .
 
 ![Steam context menu for Baldur's Gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-context-menu-for-baldur-s-gate-3.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It will open up an old-looking Windows window with Baldur’s Gate 3’s files. Click the**Bin** folder and find**BG3\_DX11.exe** and run the game from there. It should boot.
 
 ![Baldur's Gate 3 in-game character creation screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-in-game-character-creation-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You might run into issues, lagging, or crashes if you’re using a MacBook Air. You can try lowering the settings to see if it helps on a struggling computer. We highly recommend you leave Baldur’s Gate 3 full version alone if you’re using a MacBook Air. Instead, you should play early access; it’s pretty good and well-optimized for your machine.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Join the Baldur’s Gate 3 Adventure Without Waiting
 
  Use CrossOver to beat the clock and access Baldur’s Gate 3 ahead of time. And thanks to Steam’s syncing saves, you can continue right where you stopped on CrossOver when the game is finally out for macOS.
 
  In case you didn’t know, Larian isn’t sure when exactly the game will be ready for macOS, even though it has stated September. So, it just might take longer than you expect. CrossOver might come in handy in the meantime.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +91,19 @@ thumbnail: https://thmb.techidaily.com/2b667f6d425e137d74634d5b5e43d01ba3b3015e3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/remium-screen-reporter-the-ultimate-youtubers-friend/"><u>[New] Premium Screen Reporter The Ultimate YouTuber's Friend</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-virtual-venues-redefining-entertainment-landscapes/"><u>[Updated] 2024 Approved Virtual Venues Redefining Entertainment Landscapes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/blueear-bluetooth-beanie-unveiled-stylish-headgear-with-high-sound-performance-reviewed/"><u>Blueear Bluetooth Beanie Unveiled: Stylish Headgear with High Sound Performance Reviewed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-selection-of-the-top-8-multi-number-applications-for-smartphones/"><u>Discover Our Selection of the Top 8 Multi-Number Applications for Smartphones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-13-mini-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 13 mini iOS? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improve-video-resolution-on-pc-and-mac-to-ultra-hd-or-4k-standards/"><u>Improve Video Resolution on PC and Mac to Ultra-HD or 4K Standards</u></a></li>
+<li><a href="https://games-able.techidaily.com/nurturing-childhood-resilience-against-cyber-threats/"><u>Nurturing Childhood Resilience Against Cyber Threats</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-the-steam-file-integration-problem/"><u>Rectifying the Steam File Integration Problem</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-game-files-location-on-mypics-for-w11/"><u>Retro Game Files Location on MyPics for W11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-honor-90-lite-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor 90 Lite ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-case-against-using-the-ps5s-microphone/"><u>The Case Against Using the PS5's Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-real-impact-of-your-current-steam-level/"><u>The Real Impact of Your Current Steam Level</u></a></li>
+</ul></div>
 

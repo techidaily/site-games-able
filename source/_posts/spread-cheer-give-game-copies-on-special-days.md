@@ -1,7 +1,7 @@
 ---
 title: Spread Cheer, Give Game Copies on Special Days
-date: 2024-09-04T21:49:17.460Z
-updated: 2024-09-05T21:49:17.460Z
+date: 2024-12-10T03:33:01.917Z
+updated: 2024-12-10T18:48:53.359Z
 tags:
   - games
 categories:
@@ -43,12 +43,11 @@ Once you have all of that ready, follow the steps below:
 4. Then click**Purchase as a gift** .  
 ![Plants vs Zombies in Cart on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-3-10-46-pm.png)
 5. The next page will contain a window to find a list of your friends. Select the friend you want to send the game to.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. You can schedule the gift’s delivery by clicking**Schedule delivery** . It’s great if you want someone to receive the gift on the first hour of their birthday or something similar.
 7. Select**Continue** to reach the personalization page. You can type in a message, but it’s not mandatory.  
 ![Leaving a note while gifting on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-2-59-29-pm.png)
@@ -60,12 +59,6 @@ Once you have all of that ready, follow the steps below:
 
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Gift Duplicate Games on Steam
 
  In this instance, a “duplicate game” is one that you already have in your library but that you also have an extra license for.
@@ -78,21 +71,22 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send Steam Keys Bought on Other Websites
 
@@ -114,18 +108,6 @@ We’ll show you how to do this on Humble Bundle:
 
  Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on[how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Send a Steam Gift Card
 
  If you’re not sure what game to buy for someone, you could just give them a gift card so that they can choose what they want themselves. Since you can’t gift DLCs on Steam, this is a good way to help the gift recipient get one anyway.
@@ -136,12 +118,11 @@ We’ll show you how to do this on Humble Bundle:
 2. Choose**Redeem a Steam Gift Card or Wallet Code** on the left side of the window.  
 ![Adding funds to wallet page on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-15-47-am.png)
 3. Scroll down and click**Purchase Digital Gift Cards** on the next page.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
@@ -152,14 +133,11 @@ We’ll show you how to do this on Humble Bundle:
 
  That sums up all the ways to gift games to friends on Steam. Be careful not to fall for scams and only send gifts to people that you actually know.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +146,20 @@ We’ll show you how to do this on Humble Bundle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-skycam-conflict-dji-phantom-vs-gopro-hero5-black/"><u>[New] SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-supercharge-your-yi-4k-videos-with-pro-gear/"><u>[New] Supercharge Your YI 4K Videos with Pro Gear</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-streamlining-your-iphones-album-organization-and-icloud-connection/"><u>[Updated] In 2024, Streamlining Your iPhone's Album Organization and iCloud Connection</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-initial-steps-towards-perfect-transitional-sound-levels/"><u>[Updated] Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
+<li><a href="https://windows11.techidaily.com/awaken-slumbering-screens-remedy-key-mouse-woes-on-windows/"><u>Awaken Slumbering Screens: Remedy Key, Mouse Woes on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-your-hands-on-the-latest-tech-hps-new-victus-15l-gaming-rig-reduced-to-an-unbeatable-price-of-just-480/"><u>Get Your Hands on the Latest Tech: HP's New Victus 15L Gaming Rig Reduced to an Unbeatable Price of Just $480!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-samsung-galaxy-m14-4g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Samsung Galaxy M14 4G Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-expert-picks-for-drone-pilots-vr-eyewear/"><u>In 2024, Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-examination-of-rode-x-xdm-100-the-ultimate-usb-mic-for-professionals-techspot-insights/"><u>In-Depth Examination of RODE X XDM-100: The Ultimate USB Mic for Professionals | TechSpot Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-sale-save-350-on-the-hp-victus-15-laptop-exclusive-deal-at-best-buy/"><u>Labor Day Sale: Save $350 on the HP Victus 15 Laptop - Exclusive Deal at Best Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-entertainment-with-a-steal-of-a-deal-get-an-extra-32-discount-plus-complimentary-xbox-game-pass-when-you-buy-the-fire-tv-stick-4k-bundle-insig98/"><u>Maximize Your Entertainment with a Steal of a Deal: Get an Extra 32% Discount + Complimentary Xbox Game Pass When You Buy the Fire TV Stick 4K Bundle | Insights From ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sage-select-best-general-knowledge-channels-for-2024/"><u>Sage Select Best General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/zero-price-techniques-for-online-educational-recordings/"><u>Zero Price Techniques for Online Educational Recordings</u></a></li>
+</ul></div>
 

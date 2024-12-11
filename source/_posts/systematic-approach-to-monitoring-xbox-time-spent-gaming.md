@@ -1,7 +1,7 @@
 ---
 title: Systematic Approach to Monitoring Xbox Time Spent Gaming
-date: 2024-09-04T21:49:18.859Z
-updated: 2024-09-05T21:49:18.859Z
+date: 2024-12-09T02:02:03.305Z
+updated: 2024-12-11T09:41:50.189Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
  Perfecting your favorite games can take up vast amounts of time and effort. And with some titles encouraging hundreds upon hundreds of hours of endless gameplay loops, your time spent playing can often drift past you completely unnoticed.
 
  But with some of the supported gaming stats available on Xbox Series X|S, you can check how long you've played your games for on the platform. The feature, however, is not without its faults. So, if you want to check in on how much time you've sunk into an Xbox game or if you're having trouble doing so, we can help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Need to Know About the Time Played Stat on Xbox
 
@@ -47,20 +51,26 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ![A screenshot of the Achievements screen for Xbox games on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/game-selection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Under**Progress** , highlight**Stats** .
 
 ![A screenshot of the gaming statistics screen for Mass Effect Legendary Edition on Xbox Series X|S](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stats.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the**Stats** screen, your**Time played** is displayed as the first metric. And, if you want to compare your**Time played** for the selected game against your friends, you can select**Time played** for a full comparison leaderboard.
 
  However, this method is not without fault, and sometimes the**Stats** menu for games is inaccurate or unsupported. Luckily, there are still some methods that can help to define how much you've played a game beyond**Stats** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Can Do if Your Xbox Doesn’t Show Your Time Played Stats
 
  If you have run into a problem with checking how long you've played a game on Xbox Series X|S, there are still a couple of ways you might be able to recover the stat outside of Xbox settings.
@@ -71,50 +81,27 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 ![A screenshot of the Load screen for Mass Effect Legendary Edition on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2893.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, the Xbox app for Windows and PC can help to reveal an accurate**Time played** stat for your Xbox games. By using the**Achievements** tab and selecting a game, you can access the**Time played** stat outside your Xbox Series X|S. You can install the Xbox app through the official[Xbox](https://www.xbox.com/en-US/apps/xbox-app-for-pc) site.
 
 ![A screenshot of the game statistics for Mass Effect Legendary Edition taken from the Xbox app for PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  But while using the Xbox app or in-game stats is a useful backup option, neither method completely fixes the**Time played** stat. Even[setting up parental settings on Xbox Series X|S](https://www.makeuseof.com/xbox-series-parental-controls-how-to/) to provide screen time statistics isn't comparable to**Time played** .
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Time Played on Xbox Series X|S Is a Useful Yet Inconsistent Feature
 
  On paper, being able to intuitively check how long you've spent on every game you've played with your Xbox account straight from your Series X|S is a great and convenient feature. Unfortunately, the inaccuracies and issues with the statistic, whether through tracking inconsistencies or incompatibility can ruin it.
 
  That said, even with some of the downsides of tracking how long you have played your Xbox games, other options can make the process easier, even if your Xbox Series X|S should've done that in the first place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +110,24 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unveiling-facetunes-new-features-review-and-walkthrough/"><u>[New] In 2024, Unveiling Facetune's New Features Review and Walkthrough</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-seamless-sharing-strategies-insta-tik-tok-integration/"><u>[Updated] Seamless Sharing Strategies Insta-Tik Tok Integration</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/clearframew11-easy-instant-screen-recording-for-windows-for-2024/"><u>ClearFrameW11 Easy, Instant Screen Recording for Windows for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/customize-screen-display-in-discord-gaming/"><u>Customize Screen Display in Discord Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-outlook-will-gaming-pcs-cost-more/"><u>Future Outlook: Will Gaming PCs Cost More?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-11-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 11 on MetroPCS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-troubleshooting-tips-for-a-stable-windows-11-photo-experience/"><u>In 2024, Troubleshooting Tips for a Stable Windows 11 Photo Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-the-fix-steps-to-take-when-computers-cant-initiate/"><u>Mastering The Fix: Steps to Take When Computers Can't Initiate</u></a></li>
+<li><a href="https://games-able.techidaily.com/mechanical-marvel-the-game-changing-blackwidow-v4/"><u>Mechanical Marvel: The Game Changing BlackWidow V4</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/predictive-models-must-account-for-long-term-environmental-degradation-mechanisms-that-affect-material-properties-and-structural-integrity/"><u>Predictive Models Must Account for Long-Term Environmental Degradation Mechanisms that Affect Material Properties and Structural Integrity.</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-headsets-for-switch-games/"><u>Premier Headsets for Switch Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-vs-xbox-s-next-gen-console-showdown/"><u>PS5 Vs. Xbox S - Next Gen Console Showdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-speed-control-the-editors-essential-handbook/"><u>Seamless Speed Control The Editor's Essential Handbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-profile-ps5-account-removal-guide/"><u>Streamline Your Profile: PS5 Account Removal Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/supernova-shaper-uncovering-exceptional-pc-models/"><u>Supernova Shaper: Uncovering Exceptional PC Models</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-top-6-video-downloader-software-on-facebook/"><u>The Ultimate Guide to Top 6 Video Downloader Software on Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-myths-the-unnecessary-complexity-of-ray-tracing/"><u>Top 7 Myths: The Unnecessary Complexity of Ray Tracing</u></a></li>
+</ul></div>
 

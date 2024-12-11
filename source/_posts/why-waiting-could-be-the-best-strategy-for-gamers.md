@@ -1,7 +1,7 @@
 ---
 title: Why Waiting Could Be the Best Strategy for Gamers
-date: 2024-09-04T21:49:37.679Z
-updated: 2024-09-05T21:49:37.679Z
+date: 2024-12-07T05:03:04.805Z
+updated: 2024-12-10T21:28:33.961Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
 ![Skeleton hunched over messy desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/skeleton-hunched-over-messy-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While some people work well under pressure, positive environments often produce the best results. When you actually look at[whether crunch culture creates better video games](https://www.makeuseof.com/does-crunch-culture-deliver-good-bad-games/) , in the end, the answer is far from a resounding yes. Great games have come from crunch culture, sure. But it's simply not worth subjecting workers to crunch culture when it is entirely possible to create brilliant games without it.
 
 ## Delaying Video Games Improves the Final Product
@@ -36,16 +40,18 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 
 ![A screenshot taken from CD Projekt Red of the key art for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cyberpunk-2077-key-art.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[CD Projekt Red](https://www.cdprojektred.com/en/our-games)
 
  Developers continued working on Cyberpunk 2077 well after its release date, and it's great now. But it is clear to see that the game would have met a much warmer reception if the developers had been given enough time to finish it before it was released.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Better Games Mean Better Sales
 
  The better a game is, the more people are going to buy it, love it, and tell their friends about it. Creating games costs a lot of money. So the more profit that a game makes, the more resources development teams will have to create even more amazing games in the future.
@@ -53,11 +59,9 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
  Delaying the release of games allows the final product to be better, which means better sales, which means creators have the resources required to make more titles for gamers to enjoy. That is the circle of life for video games, but that cycle stops if a game doesn’t sell well enough to recoup costs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Gamers Will Actually Get What They Paid For
 
  There’s nothing worse than spending your hard-earned cash on something and feeling ripped off for one reason or another. If you buy a game, boot it up, and experience so many bugs or glitches that it becomes unenjoyable, no one wins.
@@ -65,39 +69,22 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
 ![Man holding white piece over paper that reads balance over burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-white-piece-over-paper-that-reads-balance-over-burnout.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In situations like this, everyone loses. The consumer loses, the development team loses, and the publisher loses. All for something that could have possibly been avoided if the game’s release date was pushed back a bit and developers had enough time to create a more polished experience.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unfinished Games Don’t Benefit Anyone
 
  At the end of the day, you’re presented with two options when it comes to video game delays. Option number one is sticking to release dates, leading to poor working conditions and lower-quality games. Option number two is delaying the release for a little, so the end product is really worth the wait.
 
  Game delays can be disappointing, there's no denying that. But next time you find yourself frustrated about a delay, remind yourself that it means the game's going to be better, and the people creating it won't have to sacrifice their mental health while doing so.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +93,16 @@ thumbnail: https://thmb.techidaily.com/c8eb03733ef324f2e03346e87f6cada30d7b235c9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-price-efficiency-index-top-cloud-stores-of-the-year/"><u>[New] Price-Efficiency Index Top Cloud Stores of the Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/converting-stored-content-into-real-time-livestreams-on-social-media/"><u>Converting Stored Content Into Real-Time Livestreams on Social Media</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-gaming-greatness-alienware-m18-laptop-offers-epic-deal-at-30er-below-after-labor-day-zdnet/"><u>Experience Gaming Greatness: Alienware M18 Laptop Offers Epic Deal at $30Er Below After Labor Day | ZDNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-polaroid-cubeplus-review-live-action-in-a-new-light/"><u>In 2024, Polaroid Cube+ Review Live-Action in a New Light</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-and-easy-guide-upgrading-ps5-console-with-extra-storage-complete-within-10-minuteszdnet/"><u>Quick & Easy Guide: Upgrading PS5 Console with Extra Storage - Complete Within 10 Minutes![ZDNet]</u></a></li>
+<li><a href="https://games-able.techidaily.com/score-a-steal-on-the-new-nintendo-switch-oled-at-walmart-this-memorial-day-save-big-with-our-tips-from-zdnet/"><u>Score a Steal on the New Nintendo Switch OLED at Walmart This Memorial Day – Save Big with Our Tips From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pioneer-bdr-xs06-portability-without-compromise-on-performance-in-high-quality-dvd-burning/"><u>The Pioneer BDR-XS06 - Portability Without Compromise on Performance in High-Quality DVD Burning</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-budget-friendly-gaming-displays-a-comprehensive-guide-techradar/"><u>Top Budget-Friendly Gaming Displays : A Comprehensive Guide | TechRadar</u></a></li>
+</ul></div>
 

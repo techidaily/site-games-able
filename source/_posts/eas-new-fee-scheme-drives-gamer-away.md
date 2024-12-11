@@ -1,7 +1,7 @@
 ---
 title: EA's New Fee Scheme Drives Gamer Away
-date: 2024-09-04T21:49:17.703Z
-updated: 2024-09-05T21:49:17.703Z
+date: 2024-12-08T07:41:25.617Z
+updated: 2024-12-10T17:37:49.621Z
 tags:
   - games
 categories:
@@ -31,21 +31,13 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
  EA Play subscribers received an email from the company in April 2024 announcing a price increase for its subscription services. While I've been using the service since 2019, when it was still called EA Origin, this price increase is finally causing me to end my subscription.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## EA Play Prices Are Increasing Globally
 
 ![Ea Play new prices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/ea-play-new-prices.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  EA Play started at $4.99 monthly or $29.99 yearly for the standard subscription, while the premium EA Play Pro cost $14.99 a month or $99.99 yearly. However, the company's recent announcement drives the prices by $1 a month or $10 annually for the standard EA Play. If you're subscribed to Pro, the price goes up by $2 monthly or $20 yearly. This means the new prices are now $5.99 monthly or $39.99 annually for the base EA Play and $16.99 a month or $119.99 a year for EA Play Pro.
 
  An extra dollar or two per month seems small, and even the $10 or $20 annual increase might seem reasonable. However, these increases are large if you look at them relative to the original price.
@@ -60,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  Even though EA Play is still an affordable service, I'm finally quitting it after five years. So, these are the reasons why I'm canceling my EA Play subscription.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. I Don't Want to Pay Too Much for Just EA Titles
 
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The biggest reason I'm no longer signing up for EA Play is its limited library. The standard EA Play library only features 90 titles at the time of writing. While EA Play Pro gives you 60 more games, they're mostly niche titles that I don't really care for.
 
@@ -70,16 +70,14 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  While EA Play gives me early access to some of their new releases up to ten days before they launch, I don't see any new EA titles coming up. I also rarely use the 10% discount EA Play offers to subscribers like me, as I find the idea of paying for DLC while spending on a monthly subscription just too much.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. EA Isn't Adding New Perks and Features
 
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I understand EA's need to increase prices; after all, it's the company's first time hiking up EA Play's subscription costs. This is especially true as overall operational expenses have steadily increased globally due to inflation.
 
 [Statista records the average global inflation](https://www.statista.com/statistics/256598/global-inflation-rate-compared-to-previous-year/) from 2019 to 2023 at 5.41%. If we compound that rate over the years, the expected inflation should be around 30%—so anything worth $1 in 2019 now costs $1.30 today.
@@ -88,22 +86,10 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  Furthermore, EA's price hikes across the pond and in other parts of the world are way over the compounded rate. A 117% increase in one year is simply too much, even if the company had added features like VR gaming or free DLCs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Other Gaming Subscriptions Offer Better Value for Money
 
 ![Humble Bundle logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/humble-bundle-logo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Humble Bundle](https://support.humblebundle.com/hc/en-us/articles/202742060-Bundle-Logos)
 
  As I said earlier, EA Play is still the most affordable gaming subscription in 2024\. However, it doesn't mean it offers excellent value for your money. That's because while other gaming subscriptions are more expensive, they also have a more extensive library.
@@ -112,15 +98,13 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  You can also pick Humble Bundle's Humble Choice subscription. Although it's more expensive at $11.99 a month, you get a mix of titles every month that you get to keep forever; you don't have to rely on a library where your favorite games might come and go at a moment's notice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. I Can Get EA Play With Xbox Game Pass
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
@@ -130,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  Because of these reasons, I'm canceling my EA Play subscription and moving to Xbox Game Pass for PC. And unless you're a hardcore EA fan, I suggest you do, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +127,24 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>[New] 2024 Approved Gastronomy Gurus Essential Chefs to Subscribe To</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-farm-tastic-fun-and-games-top-friendly-farming-titles/"><u>[Updated] 2024 Approved Farm-Tastic Fun & Games Top Friendly Farming Titles</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-captivating-readers-with-the-top-5-engaging-book-trailers/"><u>2024 Approved Captivating Readers with the Top 5 Engaging Book Trailers</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-value-4k-and-hd-tv-screens-for-less-than-a-grand-featured-and-evaluated-by-professionals-zdnet/"><u>Best Value 4K and HD TV Screens for Less Than a Grand, Featured & Evaluated by Professionals | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/black-shark-5-pro-gaming-mouse-assessment-advanced-features-unveiled-techreview/"><u>Black Shark 5 Pro Gaming Mouse Assessment: Advanced Features Unveiled | TechReview</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-lightning-reflexes-with-the-corsair-k10-the-fastest-gaming-keyboard-zdnet-review/"><u>Experience Lightning Reflexes with the Corsair K10 the Fastest Gaming Keyboard | ZDNET Review!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/govee-unveils-enhanced-artificial-intelligence-sync-gadgets-for-gamers-featuring-dynamic-neon-rope-lighting-options/"><u>Govee Unveils Enhanced Artificial Intelligence Sync Gadgets for Gamers, Featuring Dynamic Neon Rope Lighting Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/grab-the-deal-premium-85-inch-tcl-television-at-an-unbeatable-price-of-only-900-over-labor-day-shopping-guide-by-zdnet/"><u>Grab the Deal: Premium 85 Inch TCL Television at an Unbeatable Price of Only $900 Over Labor Day - Shopping Guide by ZDNet.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-hyperx-alloy-origins-keyboard-analysis-superb-durability-meets-subpar-keycap-design-is-it-worth-the-purchase/"><u>In-Depth HyperX Alloy Origins Keyboard Analysis: Superb Durability Meets Subpar Keycap Design - Is It Worth the Purchase?</u></a></li>
+<li><a href="https://games-able.techidaily.com/labor-day-savings-alert-our-favorite-premium-samsung-tv-cuts-price-by-43-exclusive-zdnet-find/"><u>Labor Day Savings Alert: Our Favorite Premium Samsung TV Cuts Price by 43% – Exclusive ZDNET Find!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/lossless-mp4-compression-strategies-for-superior-video-quality/"><u>Lossless MP4 Compression Strategies for Superior Video Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-issue-origin-application-wont-start-on-windows-operating-systems/"><u>Resolving the Issue: Origin Application Won't Start on Windows Operating Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-apex-legends-anti-cheat-error-quickly-and-effectively/"><u>Troubleshooting Guide: Resolving Apex Legends' Anti-Cheat Error Quickly and Effectively</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-edit-like-a-pro-setting-up-your-computer-for-premiere-pro/"><u>Updated Edit Like a Pro Setting Up Your Computer for Premiere Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/wirelessly-hook-up-your-nintendo-switch-to-any-hdtv-detailed-tutorial/"><u>Wirelessly Hook Up Your Nintendo Switch to Any HDTV - Detailed Tutorial</u></a></li>
+</ul></div>
 

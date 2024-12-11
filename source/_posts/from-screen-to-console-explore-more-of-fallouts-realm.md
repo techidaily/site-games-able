@@ -1,7 +1,7 @@
 ---
 title: "From Screen to Console: Explore More of Fallout’s Realm"
-date: 2024-11-29T06:20:20.767Z
-updated: 2024-12-04T20:19:31.201Z
+date: 2024-12-06T23:23:59.260Z
+updated: 2024-12-10T16:01:43.836Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -109,22 +109,22 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-adding-unique-typography-fonts-in-ae/"><u>[New] Adding Unique Typography Fonts in AE</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-hardware-achieve-peak-via-obs-tuning-for-2024/"><u>[New] Affordable Hardware - Achieve Peak via OBS Tuning for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>[New] Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows-781011-linux-usb/"><u>如何在 Windows 7、8、10、11 與 Linux 中制作可引啟 USB 設備</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-honor-90-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Honor 90.</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-lifesaver-backing-up-steam-saved-games/"><u>Digital Lifesaver: Backing Up Steam Saved Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-pc-gaming-with-custom-xbox-game-bar-settings-and-tools/"><u>Enhance Your PC Gaming With Custom Xbox Game Bar Settings and Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-white-hardware-choices-on-a-limited-dollar/"><u>Essential White Hardware Choices on a Limited Dollar</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nokia-105-classic-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nokia 105 Classic FRP Locks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-in-windows-7-by-drivereasy-guide/"><u>How to use Device Manager to update drivers in Windows 7</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hp-pagewide-pro-47n-drivers-for-windows-users-download-now-win11108/"><u>HP PageWide Pro 47N Drivers for Windows Users - Download Now (Win11/10/8)</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-playgrounds-the-ultimate-fps-startup-guide/"><u>Precision Playgrounds: The Ultimate FPS Startup Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/properly-programmed-ideal-configurations-for-switchers/"><u>Properly Programmed: Ideal Configurations for Switchers</u></a></li>
-<li><a href="https://games-able.techidaily.com/reach-new-dimensions-engage-playnite-on-large-televisions/"><u>Reach New Dimensions: Engage Playnite on Large Televisions</u></a></li>
-<li><a href="https://games-able.techidaily.com/redefining-portable-computing-explore-pdw4s-capabilities/"><u>Redefining Portable Computing - Explore PDW4's Capabilities</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-8-parameters-to-weigh-when-upgrading-your-cpu-cooler/"><u>The 8 Parameters to Weigh when Upgrading Your CPU Cooler</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-favoritism-at-your-fingertips-the-top-8-app-list/"><u>[New] 2024 Approved Facebook Favoritism at Your Fingertips The Top 8 App List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-hands-free-guide-to-storing-google-voice-chats/"><u>[New] 2024 Approved Hands-Free Guide to Storing Google Voice Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>[New] In 2024, Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-complex-video-effects-and-transitions-in-gopro-studio/"><u>[Updated] Mastering Complex Video Effects and Transitions in GoPro Studio</u></a></li>
+<li><a href="https://games-able.techidaily.com/crack-strands-code-a-step-by-step-tutorial-for-the-nyt-word-game/"><u>Crack Strands Code: A Step-by-Step Tutorial for the NYT Word Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-variations-6-unique-online-chess-adventures/"><u>Explore Variations: 6 Unique Online Chess Adventures</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-successfully-streaming-hulu-on-your-lg-smart-television/"><u>Guide: Successfully Streaming Hulu on Your LG Smart Television</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>In 2024, Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-facebook-cover-videos-essential-insights/"><u>Mastering Facebook Cover Videos Essential Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-storage-to-enhance-your-gaming-experience/"><u>Mastering Storage to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-tips-for-an-enduring-xbox-controlling-experience/"><u>Power Tips for an Enduring Xbox Controlling Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/pulsar-performer-evaluating-next-gen-gaming-systems/"><u>Pulsar Performer: Evaluating Next Gen Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-ps5-gameplay-joining-console-and-computer/"><u>Streamlining PS5 Gameplay: Joining Console and Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-vr-world-with-ps-vr2-extras/"><u>Upgrade Your VR World with PS VR2 Extras</u></a></li>
+<li><a href="https://games-able.techidaily.com/valve-has-updated-steam-family-sharing-for-the-first-time-in-10-years-heres-whats-new/"><u>Valve Has Updated Steam Family Sharing for the First Time in 10 Years: Here's What's New</u></a></li>
 </ul></div>
 

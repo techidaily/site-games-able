@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA's Power Push: A Costly Gamble for Me"
-date: 2024-11-29T22:55:27.858Z
-updated: 2024-12-04T21:21:58.528Z
+date: 2024-12-04T22:28:58.609Z
+updated: 2024-12-10T19:13:32.072Z
 tags:
   - games
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [My GPU Usage Is Far From 100 Percent](#my-gpu-usage-is-far-from-100-percent)
 * [Power Consumption Is Very High](#power-consumption-is-very-high)
 * [Too Expensive for Diminishing Returns](#too-expensive-for-diminishing-returns)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 * Consider the RTX 4080 Super if you don't plan to play games at 4K resolution. It's far less power hungry with a 320W TDP.
 
  Despite launching in 2022, the RTX 4090 is still the world's fastest graphics card as of early 2024\. Although I enjoyed using it to play AAA games over the past year and a half, I still regret buying it for a few reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1 My GPU Usage Is Far From 100 Percent
 
@@ -52,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![RTSS OSD stats appearing in Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/rtss-osd-stats-appearing-in-valorant.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Even in graphically demanding AAA games, my GPU usage rarely exceeds 90 percent. And that's because my CPU can't keep up. I use a Ryzen 5900X, which is a generation older than the top-of-the-line AMD Ryzen processors available today, like[the Ryzen 7800X3D, 7900X3D, and 7950X3D](https://www.makeuseof.com/ryzen-9-7950x3d-vs-ryzen-9-7900x3d-vs-ryzen-7-7800x3d/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 Power Consumption Is Very High
@@ -72,16 +76,12 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 ![a triple-monitor PC gaming setup with Cyberpunk 2077 running on the main display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/04/a-triple-monitor-pc-gaming-setup-with-cyberpunk-2077-running-on-the-main-display.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hamlin Rozario/[MakeUseOf](https://www.makeuseof.com/author/hamlin-rozario/)
 
  That said, it's worth noting that power draw isn't a major issue when I'm playing less GPU-demanding games like Valorant or Fortnite because the GPU usage is typically low.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Too Expensive for Diminishing Returns
 
@@ -108,14 +108,22 @@ thumbnail: https://thmb.techidaily.com/a172e0efcea75add6ab8eef1d0430a010e6f31545
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-directing-attention-how-to-eradicate-background-from-your-virtual-conferences/"><u>[New] In 2024, Directing Attention How to Eradicate Background From Your Virtual Conferences</u></a></li>
-<li><a href="https://games-able.techidaily.com/correcting-failed-verification-of-steam-game-data/"><u>Correcting Failed Verification of Steam Game Data</u></a></li>
-<li><a href="https://win-premium.techidaily.com/high-quality-bmw-e90-hd-wallpaper-downloads-immersive-photo-collections-for-enthusiasts-provided-by-yl-computing/"><u>High-Quality BMW E90 HD Wallpaper Downloads: Immersive Photo Collections for Enthusiasts - Provided by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-s18-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo S18 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-game-inputs-must-haves/"><u>Navigating Through Game Inputs: Must Haves</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-shape-of-gaming-post-xbox-and-activisions-cooperation/"><u>The Future Shape of Gaming Post Xbox & Activision's Cooperation</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-11-world-war-ii-tactical-sims-for-deep-historical-plunge/"><u>Top 11 World War II Tactical Sims for Deep Historical Plunge</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-your-inner-artist-creating-spectacular-iphone-collages/"><u>Unleashing Your Inner Artist Creating Spectacular iPhone Collages</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-method-for-heic-to-jpeg-conversion/"><u>Windows Method for Heic to Jpeg Conversion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-creating-viral-hashtag-campaigns-on-twitter/"><u>[New] In 2024, Creating Viral Hashtag Campaigns on Twitter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>[New] In 2024, Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-storyboard-designers-den/"><u>[New] Ultimate Storyboard Designer's Den</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-enthralling-3d-experience-selecting-top-blu-ray-decks/"><u>[Updated] 2024 Approved Enthralling 3D Experience Selecting Top Blu-Ray Decks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effortless-obs-and-zoom-stream-merge-steps/"><u>2024 Approved Effortless OBS and Zoom Stream Merge Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-breakdown-for-ending-your-linkedin-presence/"><u>A Step-by-Step Breakdown for Ending Your LinkedIn Presence</u></a></li>
+<li><a href="https://games-able.techidaily.com/leaderboards-locations-conqueror-colonies/"><u>Leaderboards Locations: Conqueror Colonies</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-gamerscore-through-steams-achievement-system/"><u>Mastering Gamerscore Through Steam's Achievement System</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-error-steams-invalid-file-status/"><u>Mending Error: Steam’s Invalid File Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-into-the-pricey-pixels-why-is-vr-so-costly-4-essentials/"><u>Peering Into the Pricey Pixels: Why Is VR So Costly? 4 Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-steam-re-initiation-methods/"><u>Quick Steam Re-Initiation Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/razer-pushes-gaming-boundaries-with-mechanical-keyboard/"><u>Razer Pushes Gaming Boundaries with Mechanical Keyboard</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solve-your-systems-snafu-expert-tips-to-repair-frozen-chkdsk-on-modern-windows-systems/"><u>Solve Your System's Snafu: Expert Tips to Repair Frozen Chkdsk on Modern Windows Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/spectrum-surge-tools-for-sharper-web-videos/"><u>Spectrum Surge Tools for Sharper Web Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamers-financial-compliance-check/"><u>Streamer's Financial Compliance Check</u></a></li>
+<li><a href="https://games-able.techidaily.com/updating-your-name-and-slogan-in-the-arena-of-competitive-gaming/"><u>Updating Your Name and Slogan in the Arena of Competitive Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/windows-11-path-to-past-games-archive/"><u>Windows 11: Path to Past Games Archive</u></a></li>
 </ul></div>
 

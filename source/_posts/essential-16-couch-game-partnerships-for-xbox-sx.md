@@ -1,7 +1,7 @@
 ---
 title: Essential 16 Couch Game Partnerships for Xbox S/X
-date: 2024-09-04T21:50:06.601Z
-updated: 2024-09-05T21:50:06.601Z
+date: 2024-12-08T10:07:19.005Z
+updated: 2024-12-11T06:37:38.341Z
 tags:
   - games
 categories:
@@ -32,44 +32,18 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
  Unlike some games that tack local co-op as an afterthought, It Takes Two is exclusively designed for cooperative play. With incredibly charming visuals, It Takes Two sees you and a partner platform and solve puzzles through a variety of interesting locations. If you enjoy this, check out the developer's equally impressive game A Way Out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4. Cuphead
 
  Cuphead is a difficult yet rewarding platformer that lovingly recreates the style of old hand drawn cartoons. It's inventive and charming, with boss fights so tough that you'll be glad for support from your friend on the couch. Plus, if you enjoy the game, there's an equally[decent Netflix animated series](https://www.makeuseof.com/tag/animated-shows-adults-netflix/) that you can watch together.
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Overcooked! All You Can Eat
 
  In Overcooked, you and your friends are the cute chefs that must keep up with the demands of the customers, with an onslaught of funny obstacles and wacky scenarios to keep you on your toes. You'll need to work in perfect sync to ensure your kitchen doesn't go up in flames. Expect arguments.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6. Portal 2
 
  Portal 2 first released in 2011, but this incredible game stands the test of time. While there is a superb single-player story, the co-op experience is equally fantastic and fully fledged. You and your robot chum must use the portal gun to navigate complex physical puzzles and escape the rooms.
@@ -78,28 +52,14 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
 
  Stardew Valley is a simulation game that puts you in charge of building your own farm from the ground up, looking after crops and vegetables, and exploring the surrounding world and meeting a cast of charming characters. And you can do all of this in couch co-op, with up to four players. It's a completely relaxing experience, far different from the usual fast-paced shooters.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8. Unravel Two
 
  In Unravel Two, you and a friend take control of Yarnys—two creatures made from yarn, connected by a single thread. You work together to navigate through a series of treacherous landscapes. This is the perfect Xbox game to play locally with someone who doesn't usually play many video games.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9. Halo: The Master Chief Collection
 
  Whether you're a Halo novice or veteran, The Master Chief Collection is the ultimate Xbox experience. It bundles six Halo games into a single package. All of them are worth playing—not only to see how they shaped the first-person shooter genre, but just because they're downright fun, especially when played in couch co-op.
@@ -117,18 +77,24 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
  Whether you opt for Borderlands: The Handsome Collection (which includes Borderlands 2 and Borderlands: The Pre-Sequel) or Borderlands 3, you're in for some rollicking first-person fun as you shoot and loot with your friends through these hilarious games. Come for the action, stay for the witty characters.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 13. Rayman Legends
 
  Rayman is a certified gaming icon and the series has arguably never been better than in Rayman Legends, a 2D platformer that bursts at the seams with creativity and excitement. Not only is the colorful art a feast for the eyes, but the gameplay offers hours of perfectly finessed platforming fun.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 14. Crash Team Racing Nitro-Fueled
 
  You might know Crash Bandicoot best from his platformers, but Crash Team Racing Nitro-Fueled is a loving remake of the 1999 arcade kart racer. Expect mayhem as you race around wild tropical tracks, using silly items to throw your fellow racers off course. You can play Nitro-Fueled on your Xbox Series X/S with up to four others in local split-screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 15. The Quarry
 
@@ -139,23 +105,18 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
  Human Fall Flat is a puzzle platformer, tasking you and a friend to navigate through the themed environments. Sounds simple? It's anything but, with the slapstick physics meaning you'll be flailing through the levels. Though you can play this solo, you shouldn't—it's much funnier in couch co-op.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Choose Xbox for Endless Couch Co-Op Entertainment
 
  As you've seen, the Xbox Series X/S has a plethora of fabulous local co-op games to choose from, whether you're in the mood for a relaxing farming sim, frantic first-person shooter, or charming puzzle-platformer. Gaming doesn't have to be a solitary activity!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +125,24 @@ thumbnail: https://thmb.techidaily.com/276d97c36ad2008d7cfbd98152b79e1acd5c5f1c2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-how-to-generate-stellar-podcast-title-ideas/"><u>[Updated] How to Generate Stellar Podcast Title Ideas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-your-videography-with-adobe-connects-features-for-2024/"><u>[Updated] Streamlining Your Videography with Adobe Connect's Features for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-cinematic-edge-master-the-top-5-camera-skills-for-2024/"><u>[Updated] The Cinematic Edge Master the Top 5 Camera Skills for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-the-full-potential-of-video-enhancer-22-for-your-work/"><u>2024 Approved Harnessing the Full Potential of Video Enhancer 2.2 for Your Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-review-of-the-innocn-ultrawide-40-144-hz-gaming-screen-a-spacious-and-responsive-choice-cnet/"><u>Comprehensive Review of the Innocn Ultrawide 40” 144 Hz Gaming Screen – A Spacious and Responsive Choice | CNET</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crafting-professional-grade-steam-gameplay-videos/"><u>Crafting Professional-Grade Steam Gameplay Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-how-to-turn-your-samsung-projector-into-a-stealthy-game-console-enjoy-a-stellar-deal-at-200-off-for-the-holiday-weekend/"><u>Discover How to Turn Your Samsung Projector Into a Stealthy Game Console - Enjoy a Stellar Deal at $200 Off for the Holiday Weekend!</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-premier-43-inch-displays-expert-reviews-and-ratings/"><u>Discover the Premier 43 Inch Displays - Expert Reviews & Ratings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlocking-the-code-to-perfect-instagrams-every-time/"><u>In 2024, Unlocking the Code to Perfect Instagrams Every Time</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-13-pro-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 13 Pro 5G Phone Network-Ready</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovision-40-curved-gaming-monitor-with-144hz-ultra-wide-display-and-performance-analysis-techradar/"><u>InnoVision 40 Curved Gaming Monitor with 144Hz - Ultra-Wide Display & Performance Analysis | TechRadar</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-mobile-gaming-experience-with-android-12s-game-mode-tech-insights-on-zdnet/"><u>Maximize Your Mobile Gaming Experience with Android 12'S Game Mode | Tech Insights on ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/mid-tier-audio-mastery-steelseries-arctis-nova-7-wireless-earphones-in-depth-analysis-and-performance-breakdown-techsavvyreviews/"><u>Mid-Tier Audio Mastery: SteelSeries Arctis Nova 7 Wireless Earphones - In-Depth Analysis and Performance Breakdown | TechSavvyReviews</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/soluzione-rapida-per-attivare-la-funzione-backup-su-itunes-quando-esegui-backup-e-inattivo/"><u>Soluzione Rapida per Attivare La Funzione Backup Su iTunes Quando Esegui Backup È Inattivo</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-introduces-enhanced-family-features-and-superior-parent-control-options-valve-announces/"><u>Steam Introduces Enhanced Family Features & Superior Parent-Control Options, Valve Announces</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-pc-gaming-mice-a-comprehensive-review-by-zdnet/"><u>Top 5 PC Gaming Mice : A Comprehensive Review by ZDNet</u></a></li>
+</ul></div>
 

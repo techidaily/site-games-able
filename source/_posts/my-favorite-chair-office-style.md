@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Chair: Office Style"
-date: 2024-11-23T00:59:54.628Z
-updated: 2024-11-25T08:07:21.613Z
+date: 2024-12-03T20:38:32.947Z
+updated: 2024-12-11T04:45:21.669Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 * [An Office Chair Is Aesthetically Safer](#an-office-chair-is-aesthetically-safer)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
  There’s a popular myth that every gaming setup needs a gaming chair. On the surface, it makes sense; where else would you need a gaming chair? However, I’ve used both office chairs and gaming chairs long enough to establish reasons why an office chair is indeed better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Office Chairs Are Often More Ergonomic and Comfortable
 
  Because office chairs aren’t restricted to some “gaming” aesthetic, they are often designed more ergonomically than gaming chairs. Here are some gaming chair ergonomics pain points for me...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Race car Bucket Seat Design
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
  All the gaming chairs I’ve bought share a common feature: they’re designed like race-car bucket seats. For those who don’t know, bucket seats have side bolsters on the seat and back that taper and curve out, designed to keep the occupant in place during high-speed turns.
 
  While this design effectively resists G-forces, it becomes a hindrance when gaming at a desk. It could be useful if you’re building a motion-driving simulation rig, but most gamers are not. So, it essentially forces you to remain in one position. However, office chairs allow you to stretch and move about.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gaming Chairs Are Typically Too Big
 
@@ -73,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
 ![Man in an office chair at a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/man-in-an-office-chair-at-a-desk.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Dreamchild Obari/MakeUseOf
 
  Lumbar support is one of the key arguments for using ergonomic chairs. You may have heard it a lot as a buzzword in the ergonomic chair industry, but it boils down to supporting the natural curve of your spine.
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
  If you look at the profile of most low-end gaming chairs, they have a long, straight back with a pillow as lumbar support. Give it a couple of hours, and that lumbar support pillow will flatten and take away what little lumbar support it provides.
 
  For gamers reading this who have some kind of back pain from using gaming chairs, it might be time to consider switching to an[office desk chair designed to prevent back pain](https://www.makeuseof.com/tag/the-5-best-office-chairs-you-can-buy-right-now/) . I use a mesh office chair with a curve that matches my spine, and it has helped improve the pain I developed from my gaming chair days.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 Gaming Chairs Are Cheaply Built and Overpriced
 
@@ -132,24 +132,20 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-gamers-almanac-expert-tips-to-record-and-save-your-minecraft-sessions/"><u>[New] 2024 Approved Gamer's Almanac Expert Tips to Record and Save Your Minecraft Sessions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-epic-encounters-topping-10-royale-battles/"><u>[New] In 2024, Epic Encounters Topping 10 Royale Battles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-tutorial-mastering-the-art-of-video-editing-clip-trimming-techniques-in-adobe-after-effects/"><u>Comprehensive Tutorial: Mastering the Art of Video Editing - Clip Trimming Techniques in Adobe After Effects</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-game-dialogue-with-chatgpt-insights/"><u>Crafting Game Dialogue with ChatGPT Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-and-dispatching-low-memory-alerts-from-roblox-on-ios/"><u>Deciphering and Dispatching Low-Memory Alerts From Roblox on iOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-choosing-the-right-tools/"><u>Elevate Your Gameplay: Choosing the Right Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-ps5-experience-with-these-tips/"><u>Elevate Your PS5 Experience with These Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/home-console-warfare-sonys-ps5-challenges-frugal-pc/"><u>Home Console Warfare: Sony's PS5 Challenges Frugal PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-14-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 14 Factory Reset? | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-samsung-galaxy-a15-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-x5-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco X5 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/invest-in-stunning-gameplay-with-top-ultrawide-monitors/"><u>Invest in Stunning Gameplay with Top Ultrawide Monitors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-storage-solution-for-sony-a7c-cameras-for-2024/"><u>Optimal Storage Solution for Sony A7C Cameras for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-playthroughs-without-vibration-noise/"><u>Peaceful Playthroughs without Vibration Noise</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-speculations-unveiled-hands-on-anticipation/"><u>Switch Speculations Unveiled - Hands-On Anticipation</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-maplestory-keeps-crashing-on-your-windows-11-pc/"><u>Ultimate Fixes for When MapleStory Keeps Crashing on Your Windows 11 PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-hrtf-for-better-gameplay/"><u>Unlocking the Secrets of HRTF for Better Gameplay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-experts-selection-of-iphone-recording-aids/"><u>[New] Expert's Selection of iPhone Recording Aids</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-a-comprehensive-breakdown-of-live-streaming-and-downloading-tv/"><u>[Updated] 2024 Approved A Comprehensive Breakdown of Live Streaming and Downloading TV</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cut-to-perfection-editing-video-duration-on-youtube-for-2024/"><u>[Updated] Cut to Perfection Editing Video Duration on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-digital-workshop-title-maker/"><u>2024 Approved Top-Tier Digital Workshop Title Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-for-macos-sierra-patches-and-plug-ins-for-2024/"><u>Complete Guide for macOS Sierra Patches and Plug-Ins for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-where-to-find-steam-captured-artifacts/"><u>Deciphering Where to Find Steam Captured Artifacts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-disk-space-efficiency-with-auto-delete-on-windows-11/"><u>Enhance Disk Space Efficiency with Auto Delete on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-asus-rog-allys-finest-docks/"><u>Explore ASUS ROG Ally's Finest Docks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/flash-facts-how-videos-captivate-twitters-audience/"><u>Flash Facts How Videos Captivate Twitter's Audience</u></a></li>
+<li><a href="https://games-able.techidaily.com/increase-reaction-time-with-optimal-mouse-settings/"><u>Increase Reaction Time with Optimal Mouse Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/methods-for-resolving-windows-steam-server-error/"><u>Methods for Resolving Windows Steam Server Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-android-with-ease-button-mapping-essentials/"><u>Navigating Android with Ease: Button Mapping Essentials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-access-denied-on-nvidia-control-panel-in-win1110/"><u>Overcoming Access Denied on Nvidia Control Panel in Win11/10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-game-passs-features-and-benefits/"><u>Understanding Xbox Game Pass's Features & Benefits</u></a></li>
 </ul></div>
 

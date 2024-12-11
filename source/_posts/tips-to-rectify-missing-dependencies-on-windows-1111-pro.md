@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2024-12-03T21:50:08.425Z
-updated: 2024-12-05T08:09:56.748Z
+date: 2024-12-06T23:43:07.146Z
+updated: 2024-12-11T01:13:22.492Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
@@ -48,10 +48,14 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
@@ -95,21 +99,21 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
  Check out[how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Reinstalling games or any other software this error affects is worth a try since that will restore any missing files. You can uninstall some games via**Programs and Features** as covered in our guide to[uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . If you don’t see the game listed there, you’ll probably have to uninstall it via its client software, such as Epic Games.
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
@@ -148,18 +148,21 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-inexpensive-pc-display-recorder-apps/"><u>[Updated] 2024 Approved Inexpensive PC Display Recorder Apps</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-tips-for-recording-google-voice-dialogues-for-2024/"><u>[Updated] Advanced Tips for Recording Google Voice Dialogues for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unique-video-identity-designing-personalized-thumbnails-for-2024/"><u>[Updated] Unique Video Identity Designing Personalized Thumbnails for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-process-of-scheduling-google-meets/"><u>2024 Approved The Complete Process of Scheduling Google Meets</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-sonys-freemium-gaming-strategy-with-psplus/"><u>Deciphering Sony's Freemium Gaming Strategy with PS+</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-play-experience-understanding-android-fps/"><u>Elevate Your Play Experience: Understanding Android FPS</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-a-multi-os-future-with-steam-deck/"><u>Exploring a Multi-OS Future with Steam Deck</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-90-gt-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor 90 GT Phone Now with These Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lg-monitor-troubleshooting-fixing-driver-issues-on-windows-operating-systems/"><u>LG Monitor Troubleshooting: Fixing Driver Issues on Windows Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steam-deck-purchase/"><u>Mastering Steam Deck Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-charger-selections-for-sonys-ps5-dualsense/"><u>Premium Charger Selections for Sony's PS5 DualSense</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplified-guide-to-diagnosing-cpu-induced-performance-slowdowns/"><u>Simplified Guide to Diagnosing CPU-Induced Performance Slowdowns</u></a></li>
-<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-iphone-se-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your iPhone SE? How to Fix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-viral-victory-restoring-your-facebook-space/"><u>[New] In 2024, Viral Victory Restoring Your Facebook Space</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[Updated] 2024 Approved Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-dissecting-mr-beasts-fortune-portfolio/"><u>[Updated] Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-guidelines-to-create-impactful-youtube-banners/"><u>[Updated] In 2024, Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-clearing-background-artifacts-in-figma/"><u>2024 Approved Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
+<li><a href="https://games-able.techidaily.com/conquer-the-game-fortnite-ipad-with-geforce-now/"><u>Conquer the Game: Fortnite iPad with GeForce Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722954254656-get-your-free-nvidia-rtx-3060-ti-drivers-for-latest-windows-os-download-now/"><u>Get Your Free NVIDIA RTX 3060 Ti Drivers for Latest Windows OS - Download Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/home-computers-face-off-mini-versus-large-desktop-setups/"><u>Home Computers Face-Off: Mini Versus Large Desktop Setups</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mejores-aplicaciones-con-ai-publicas-y-libres-las-8-mas-efectivas-en-restaurar-fotografias-clasicas/"><u>Mejores Aplicaciones Con AI Públicas Y Libres: Las 8 Más Efectivas en Restaurar Fotografías Clásicas</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/promoting-intercultural-understanding-through-esl/"><u>Promoting Intercultural Understanding Through ESL</u></a></li>
+<li><a href="https://games-able.techidaily.com/selective-guide-to-top-6-diverse-video-titles/"><u>Selective Guide to Top 6 Diverse Video Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-8-reasons-edge-is-the-ultimate-gaming-browser-companion/"><u>Top 8 Reasons Edge Is the Ultimate Gaming Browser Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/tricks-for-faster-xbox-refund-service/"><u>Tricks for Faster Xbox Refund Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-quality-the-story-of-keychron-and-lemokey-l3/"><u>Unveiling Quality: The Story of Keychron & Lemokey L3</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/using-buttons-for-easy-output-handling-in-flipbook-creation-a-guide-to-flipbuilders-features/"><u>Using Buttons for Easy Output Handling in Flipbook Creation - A Guide to FlipBuilder's Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/which-gpu-model-is-best-founders-series-or-aib-edition/"><u>Which GPU Model Is Best? Founders Series or AIB Edition</u></a></li>
 </ul></div>
 

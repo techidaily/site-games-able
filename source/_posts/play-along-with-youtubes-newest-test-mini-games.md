@@ -1,7 +1,7 @@
 ---
 title: Play Along with YouTube's Newest Test Mini-Games
-date: 2024-12-01T01:18:12.860Z
-updated: 2024-12-05T01:15:40.594Z
+date: 2024-12-05T01:30:57.354Z
+updated: 2024-12-11T03:41:40.002Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/3e844b75dba05d50e037a8922f63f44130183016b
 * [Who Can Play Playables on YouTube?](#who-can-play-playables-on-youtube)
 * [How Can You Activate Playables?](#how-can-you-activate-playables)
 * [Testing YouTube Playables](#testing-youtube-playables)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -63,15 +59,15 @@ Here are all the games accessible in the YouTube Playables section:
 
  Many of these games have been developed by well-known game developers, such as FRVR, Nitro Games, Vodoo, Aim Lab, Famobi, and Arkadium. And since some of these developers are popular for their free HMTL5 games, you can actually play some of the games listed above outside YouTube Playables through the game developer’s official website or through third-party sites like[HTML5 Games](https://html5games.com/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Can Play Playables on YouTube?
 
  Playables is an experimental feature within YouTube. Since[only YouTube Premium members can test experimental features](https://www.makeuseof.com/youtube-premium-test-experimental-features/) , the mini-games are only available to YouTube Premium subscribers. This also means that those with YouTube Kids accounts cannot access this section despite the child-friendly nature of all the mini-games within the collection.
 
  If you are[deciding whether YouTube Premium is worth it](https://www.makeuseof.com/tag/youtube-red-worth-money-things-need-consider/) to access Playables and all the other premium features, we suggest that you skip the annual subscription and get the monthly subscription instead. This is because the Playables feature will only be available until March 28, 2024\. If it doesn’t become a feature after that date, it may get canceled entirely.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Can You Activate Playables?
 
@@ -80,6 +76,10 @@ Here are all the games accessible in the YouTube Playables section:
  To activate Playables, open the YouTube app and go to the**You** section at the bottom right of your screen. Then open the settings menu by hitting the**gear icon** and select**Try experimental new features.** You will be shown all the available experimental features. Look for**Play games on YouTube** and select**Try it out** .
 
 ![YouTube landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/1-youtube-landing-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
@@ -93,14 +93,10 @@ Close
 
 ![YouTube compass icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-compass-icon-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Mobile explore section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/2mobile-explore-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
@@ -110,6 +106,10 @@ Close
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Testing YouTube Playables
 
@@ -132,16 +132,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-creativity-on-a-tablet-leading-drawing-apps/"><u>[New] 2024 Approved Creativity on a Tablet Leading Drawing Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-finest-accessible-switch-replicas/"><u>[New] Finest Accessible Switch Replicas</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>[Updated] Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://games-able.techidaily.com/delight-in-games-on-xbox-anyhow-controllerless-style/"><u>Delight in Games on Xbox Anyhow, Controllerless Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/hit-fast-the-ultimate-list-of-quick-game-apps-for-your-device/"><u>Hit Fast: The Ultimate List of Quick Game Apps for Your Device</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-garner-over-a-thousand-viewers-swiftly/"><u>In 2024, Garner Over a Thousand Viewers Swiftly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-x8bfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor X8bFRP Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/streaming-etiquette-disconnect-and-reconcile-on-twitch/"><u>Streaming Etiquette: Disconnect & Reconcile on Twitch</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-foundation-of-high-fidelity-gaming-experience/"><u>The Foundation of High-Fidelity Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-your-games-full-potential-with-pdw4/"><u>Unleash Your Game's Full Potential with PDW4</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-amd-rx-570-driver-download-windows-os-performance-boost/"><u>Upgraded AMD RX 570 Driver Download: Windows OS Performance Boost</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-gratis-global-photo-perfection-suite/"><u>[New] Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-affordable-sturdy-backpacks-and-bags-for-gamers-on-the-move/"><u>[New] In 2024, Affordable, Sturdy Backpacks & Bags for Gamers on the Move</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-5-gif-to-video-converters-online-no-need-to-download-for-2024/"><u>Best 5 GIF to Video Converters Online [No Need to Download] for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-13-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi 13 Ultra Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://games-able.techidaily.com/membership-misconceptions-the-true-cost-of-games/"><u>Membership Misconceptions: The True Cost of Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-vision-booster-resolve-any-screen-size/"><u>Prime Vision Booster Resolve Any Screen Size</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-the-golden-age-top-30-ps3-games-on-pc-with-superior-emulators/"><u>Rediscover the Golden Age: Top 30 PS3 Games on PC with Superior Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/solve-and-survive-4-ai-powered-online-mysteries/"><u>Solve and Survive: 4 AI-Powered Online Mysteries</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-ultimate-guide-to-instant-online-fun/"><u>Your Ultimate Guide to Instant Online Fun</u></a></li>
 </ul></div>
 

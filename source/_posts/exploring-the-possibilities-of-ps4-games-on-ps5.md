@@ -1,7 +1,7 @@
 ---
 title: Exploring the Possibilities of PS4 Games on PS5
-date: 2024-12-01T06:27:01.486Z
-updated: 2024-12-04T20:06:57.638Z
+date: 2024-12-09T01:23:40.169Z
+updated: 2024-12-10T22:38:32.610Z
 tags:
   - games
 categories:
@@ -19,16 +19,16 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Can I Play PS4 Games on My PS5?](#can-i-play-ps4-games-on-my-ps5)
 * [How Do I Play PS4 Games on My PS5?](#how-do-i-play-ps4-games-on-my-ps5)
 * [What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?](#what-rsquo-s-the-difference-between-ps4-games-and-ps4-games-with-ps5-upgrades)
 * [Are the PS5 Upgrades Worth It?](#are-the-ps5-upgrades-worth-it)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
  There are a couple of ways to play PS4 games on your PS5\. The first is by inserting and installing PS4 game discs into your PS5, and the second is by re-downloading your previously purchased digital PS4 titles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Play PS4 Games on Your PS5 Using the Disc Drive
 
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
  Once you have enough space, the data will resume copying onto your PS5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Download PS4 Games Onto Your PS5
 
  If you prefer saving space on your bookshelf and opting for digital versions of games, you likely have a large library of digital PS4 titles from before you upgraded to the PS5\. These games can be downloaded and played on your new console.
@@ -92,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![Game Library Tab PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/game-library-tab-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Head to your**Games Library** by scrolling to the very right on your Home Screen and navigating to**Your Collection** . This is where you will find all the digital titles you have purchased through your PS Account.
 
  Go to the**Sort By icon** on the left, select**Platform** , and select**PS4** . That will allow you to isolate all the PS4 games in your collection. Scroll through the titles until you find your desired PS4 game and select it to re-download it onto your new console.
@@ -105,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
  If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
@@ -120,15 +116,19 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are the PS5 Upgrades Worth It?
 
@@ -157,18 +157,24 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-art-of-monitoring-youtube-discussions/"><u>[New] 2024 Approved The Art of Monitoring YouTube Discussions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>[New] In 2024, Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-tips-to-share-pre-recorded-videos-live-on-facebook/"><u>[New] In 2024, Tips to Share Pre-Recorded Videos Live on Facebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-maccam-essentials-tips-and-tricks-recording-for-2024/"><u>[New] MacCam Essentials Tips and Tricks Recording for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-superrich-streamers-of-the-world/"><u>[Updated] Superrich Streamers of the World</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-agni-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Agni 2 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/correcting-failed-video-delivery-on-mobile-platforms-social-network-apps-for-2024/"><u>Correcting Failed Video Delivery on Mobile Platform's Social Network Apps for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mapping-out-steams-screenshot-stashes/"><u>Mapping Out Steam's Screenshot Stashes</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-playstation-5s-wi-fi-network-issues/"><u>Mastering Your PlayStation 5’S Wi-Fi Network Issues</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategies-to-control-steam-web-helpers-memory-usage/"><u>Strategies to Control Steam Web Helper's Memory Usage</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-external-media-use-for-game-play-via-steam/"><u>Streamlining External Media Use for Game Play via Steam</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-new-gadgets-with-tom-a-journey-through-modern-technology/"><u>Unveiling New Gadgets with Tom - A Journey Through Modern Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cyberlink-the-pinnacle-of-digital-recording/"><u>[New] In 2024, Cyberlink The Pinnacle of Digital Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/80-less-on-the-new-apple-watch-se-post-prime-day-deals-revealed-insights-by-zdnet/"><u>$80 Less on the New Apple Watch SE: Post-Prime Day Deals Revealed – Insights by ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-guide-to-leveraging-3d-lut-filters-in-adobe-ps/"><u>2024 Approved Pro's Guide to Leveraging 3D LUT Filters in Adobe PS</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728486514379-google/"><u>完整解決方案：如何在Google雲端照片上永久銷毀和復原圖片</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1728475567723-adata-ssd/"><u>ADATA SSDの無条件完全クリア:スムーズで安全な手順ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dreaded-steamvr-error-code-308-a-comprehensive-guide/"><u>Fixing the Dreaded SteamVR Error Code 308: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-stakes-gaming-frame-rate-boost-techniques/"><u>High Stakes Gaming: Frame Rate Boost Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-thinning-down-tech-colorizing-connectivity-with-tecno/"><u>IFA Thinning Down Tech, Colorizing Connectivity with Tecno</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-quick-resume-a-worthwhile-feature-of-your-xbox-series-xs/"><u>Is Quick Resume a Worthwhile Feature of Your Xbox Series X|S?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-steams-data-evaluating-gaming-hours-and-credits/"><u>Navigate Steam's Data: Evaluating Gaming Hours & Credits</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discover-hilarious-audio-cues/"><u>New 2024 Approved Discover Hilarious Audio Cues</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-ever-wondered-about-the-similarity-you-bear-with-an-anime-character-if-you-have-not-yet-looked-into-this-exciting-aspect-of-motion-graphic-desig/"><u>New In 2024, Ever Wondered About the Similarity You Bear with an Anime Character? If You Have Not yet Looked Into This Exciting Aspect of Motion Graphic Design, You Can Very Well Break the Ice Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/peak-performance-not-safety-graphics-alert/"><u>Peak Performance, Not Safety: Graphics Alert</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-asus-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-user-experience-steps-to-handle-switch-accounts/"><u>Simplify User Experience: Steps to Handle Switch Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-the-update-changing-your-name-and-slogan-in-riot/"><u>Streamlining the Update: Changing Your Name & Slogan in Riot</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-clean-tech-gurus-ps5-revival-guide/"><u>The Clean Tech Guru's PS5 Revival Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-instagram-pros-tips-for-bulk-upload-of-images-and-video-for-2024/"><u>The Instagram Pro’s Tips for Bulk Upload of Images and Video for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-now-question-my-rtx-4090-spending/"><u>Why I Now Question My RTX 4090 Spending</u></a></li>
 </ul></div>
 

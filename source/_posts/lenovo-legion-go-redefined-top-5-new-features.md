@@ -1,7 +1,7 @@
 ---
 title: Lenovo Legion Go Redefined - Top 5 New Features
-date: 2024-09-04T21:49:18.555Z
-updated: 2024-09-05T21:49:18.555Z
+date: 2024-12-03T17:23:48.926Z
+updated: 2024-12-11T08:24:26.944Z
 tags:
   - games
 categories:
@@ -30,6 +30,10 @@ Watch out Steam, ASUS, and dare I say, even Nintendo?
 
 ![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Gavin Phillips/MakeUseOf
 
  The Lenovo Legion Go uses an all-AMD hardware configuration, using AMD's Ryzen Z1 Extreme CPU, with 8 cores/16 threads, clocked at up to 5.1GHz and a 16MB L3 cache. It also uses AMD's RDNA 3 graphics, featuring up to 12 cores, plus a substantial 16GB of LPDDR5x, rated at 7,500Mhz.
@@ -56,24 +60,20 @@ You can check out the Lenovo Legion Go's specs below.
  Image Credit: Gavin Phillips/MakeUseOf
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Lenovo Legion Go Features We Loved
 
  The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a[Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. The Lenovo Legion Go Has an Excellent Screen
 
 ![close up of lenovo legion go screen at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/close-up-of-lenovo-legion-go-screen-at-ifa-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -84,11 +84,9 @@ You can check out the Lenovo Legion Go's specs below.
  Although the brightness of the Legion Go and the ROG Ally are the same, at 500 nits, the Lenovo unit delivers much greater color range and depth by way of its 97% DCI-P3 color gamut support. In short, it displays a wider range of colors, which really shows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. FPS Mode
 
 ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
@@ -107,27 +105,19 @@ You can check out the Lenovo Legion Go's specs below.
 
  Lenovo opted for a 49.2Wh battery, which will theoretically give it the edge over the competition. Again, the battery life is something we'd have to test with more time, but the figures show a clear boost.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Excellent Hardware
 
 ![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit: Gavin Phillips/MakeUseOf
 
  The overall Lenovo Legion Go hardware package is brilliant, and it should fill anyone considering picking one of these up with joy. While we didn't get to play any massively taxing games during our hands-on experience (we were limited to Hot Wheels and Vampire Surviors), the buttery-smooth screen was evident, powered by AMD's Ryzen Z1, built specifically for handheld gaming devices.
 
  You should be able to really make the most of the 8.8-inch QHD screen, though we must concede that you'll be playing around with resolution and settings to prolong battery life. That's just a fact of life for any handheld gaming device, though.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Size and Weight
 
@@ -148,25 +138,20 @@ The carry case is also a nice touch!
  First revealed at IFA 2023, the Lenovo Legion Go is set to launch in October 2023\. The starting price is $700, but Lenovo hasn't revealed any configurations, and this is the information listed on its site. However, the price and additional configurations may well change before its October launch.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lenovo Legion Go vs. Steam Deck vs. Asus ROG Ally: Battle of the Gaming Handhelds
 
  When it comes down to it, the main comparisons will be drawn between the Lenovo Legion Go, the Steam Deck, and the Asus ROG Ally. They're similar devices with similar specs, catering to the same audience.
 
  The big question will be who comes out on top once the Legion Go launches.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +160,21 @@ The carry case is also a nice touch!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-digital-transit-how-to-route-files-to-your-computer/"><u>[New] In 2024, Digital Transit How to Route Files to Your Computer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-transparent-perspective-reviewing-recordcasts-strengths-for-2024/"><u>[New] Transparent Perspective Reviewing RecordCast's Strengths for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-formulating-impressive-online-media-introductions-for-2024/"><u>[Updated] Formulating Impressive Online Media Introductions for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-transforming-scripted-words-into-powerful-video-soundtracks-for-2024/"><u>[Updated] Transforming Scripted Words Into Powerful Video Soundtracks for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-heic-images-free-seamless-pdf-conversion-tools-and-tutorials/"><u>Convert HEIC Images Free: Seamless PDF Conversion Tools and Tutorials</u></a></li>
+<li><a href="https://win-studio.techidaily.com/effiziente-vmware-virtualisierungswiederherstellung-fur-optimale-notfallwiederaufbereitung-3-strategien/"><u>Effiziente VMWare-Virtualisierungswiederherstellung Für Optimale Notfallwiederaufbereitung: 3 Strategien</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-crossroads-console-joysticks-vs-arcade-sticks/"><u>Gamers' Crossroads: Console Joysticks Vs. Arcade Sticks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 6s Plus?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-the-power-within-boosting-ps4-performance/"><u>Ignite the Power Within: Boosting PS4 Performance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/journey-through-time-the-transformative-story-behind-electric-cars/"><u>Journey Through Time: The Transformative Story Behind Electric Cars</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-enhanced-reading-and-gaming-on-steam-deck-platforms/"><u>Strategies for Enhanced Reading and Gaming on Steam Deck Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-complaint-addressed-by-the-latest-rog-ally/"><u>Top Complaint Addressed by the Latest ROG Ally</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-dual-capable-gaming-screens/"><u>Understanding Dual-Capable Gaming Screens</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-successful-app-interactions/"><u>Unveiling the Secrets of Successful App Interactions</u></a></li>
+</ul></div>
 

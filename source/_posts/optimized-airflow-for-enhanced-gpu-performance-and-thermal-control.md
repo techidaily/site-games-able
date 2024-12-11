@@ -1,7 +1,7 @@
 ---
 title: Optimized Airflow for Enhanced GPU Performance & Thermal Control
-date: 2024-12-01T02:23:12.278Z
-updated: 2024-12-04T17:45:47.619Z
+date: 2024-12-06T10:16:35.815Z
+updated: 2024-12-11T02:16:48.146Z
 tags:
   - games
 categories:
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 ![1080 Ti fans](https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608c149e23de7fcb6df36e4813.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -65,13 +65,13 @@ Jhet Borja/MakeUseOf
 
  Setting a custom fan curve is incredibly easy and something you shouldn't be intimidated by. Below, you'll not only learn how to make a custom fan curve but also understand how to make a fan curve that's best for your hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1: Download MSI Afterburner, Unigine Heaven, and HWinfo
 
 ![Auto fan speed 0.963v test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/auto-fan-speed-0-963v-test.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll be using three programs to create and find the best fan curve for your graphics card.
 
@@ -79,14 +79,10 @@ Jhet Borja/MakeUseOf
 
 ![MSI Mystic Afterburner skin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/msi-mystic-afterburner-skin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In case MSI Afterburner looks different from the screenshots, head to**Settings** , pan right to the last tab, click on**User Interface** , and choose**MSI Mystic Afterburner by skin by Derex Design** . Having the same skin will make it easier for you to follow along.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Benchmark and Find Your Temperatures
@@ -102,17 +98,21 @@ Jhet Borja/MakeUseOf
 
 ![Manual fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/manual-fan-speed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To manually change the fan speed, click on the automatic fan speed**A icon** , adjust the slider to your desired maximum fan speed, and click the**circled check button** to the right of the floppy disk icon to apply it.
 
 ![Stable 70-71C at 90% fan speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/stable-70-71c-at-90-fan-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At 100% fan speed, it tops out at around 69.5-70 °C. We also found that we could keep the temperature at 70-71 °C while only using 90% fan speed.
 
  Now that we have the information, we can now put it to use in our custom GPU fan curve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Creating Your Custom GPU Fan Curve Using MSI Afterburner
 
@@ -123,7 +123,7 @@ Jhet Borja/MakeUseOf
 ![Full fan speed curve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/full-fan-speed-curve.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A 0% fan speed will allow your fans to rest when your GPU is not under load.
@@ -151,17 +151,14 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-new-windows-11-hacks-for-efficiency-experts/"><u>[New] In 2024, New Windows 11 Hacks for Efficiency Experts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultra-brief-on-achieving-clear-background-effects/"><u>[Updated] Ultra-Brief on Achieving Clear Background Effects</u></a></li>
-<li><a href="https://fox-place.techidaily.com/complete-guide-restoring-deleted-or-accidentally-altered-text-in-microsoft-word-files-docx-on-windows-11/"><u>Complete Guide: Restoring Deleted or Accidentally Altered Text in Microsoft Word Files (DOCX) on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-audiocasts-without-paying-tips-for-extracting-sound-from-social-media-clips/"><u>How to Download Audiocasts without Paying: Tips for Extracting Sound From Social Media Clips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-compreayers-guide-to-selecting-a-top-4k-lens/"><u>In 2024, A Compreayer's Guide to Selecting a Top 4K Lens</u></a></li>
-<li><a href="https://games-able.techidaily.com/ios-18-unleashed-at-apples-wwdc-event-the-hidden-delight-that-outshines-ai/"><u>IOS 18 Unleashed at Apple's WWDC Event – The Hidden Delight That Outshines AI!</u></a></li>
-<li><a href="https://games-able.techidaily.com/score-90-days-of-gaming-bliss-on-xbox-only-36-exclusive-offer-inside/"><u>Score 90 Days of Gaming Bliss on Xbox - Only $36 | Exclusive Offer Inside!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-when-iphones-lose-all-iconography-top-restoration-methods/"><u>Solutions When iPhones Lose All Iconography: Top Restoration Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-artificial-intelligence-tools-boosting-creative-writing/"><u>Top 5 Artificial Intelligence Tools Boosting Creative Writing</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-rated-usb-microphone-analysis-unboxing-the-rode-x-xdm-100-a-comprehensive-review/"><u>Top Rated USB Microphone Analysis: Unboxing the RODE X XDM-100 - A Comprehensive Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ranking-ps5-expansion-drives-in-2n-a-comprehensive-review-by-zdnet/"><u>Top-Ranking PS5 Expansion Drives in 2N: A Comprehensive Review by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-configuring-your-new-apple-watch-tips-and-tricks/"><u>Ultimate Guide to Configuring Your New Apple Watch - Tips & Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-advanced-screen-recording-methods-on-dell-laptops/"><u>[Updated] In 2024, Advanced Screen Recording Methods on Dell Laptops</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-barriers-fix-steam-remote-play-woes/"><u>Eliminating Barriers: Fix Steam Remote Play Woes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-use-the-telnet-client-in-windows/"><u>How to Use the Telnet Client in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-plus-or-xbox-game-pass-which-wins/"><u>PlayStation Plus or Xbox Game Pass? Which Wins?</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-gamepad-surfaces-explored/"><u>Premium Gamepad Surfaces Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategic-nutrition-planning-using-the-power-of-chatgpt/"><u>Strategic Nutrition Planning Using the Power of ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-capture-of-games-with-universal-gpu-support/"><u>The Seamless Capture of Games with Universal GPU Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-immersive-visuals-understanding-nvidias-g-sync-tech/"><u>Unlocking Immersive Visuals: Understanding Nvidia's G-Sync Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-metaverse-and-multimetase-distinctions-expert-explanation/"><u>Unraveling Metaverse and Multimetase Distinctions (Expert Explanation)</u></a></li>
 </ul></div>
 

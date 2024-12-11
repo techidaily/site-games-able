@@ -1,7 +1,7 @@
 ---
 title: Perfect Your Gaming - Master Assist Controller on PS5
-date: 2024-12-01T21:50:05.294Z
-updated: 2024-12-05T03:38:20.214Z
+date: 2024-12-05T05:25:19.365Z
+updated: 2024-12-10T22:12:34.929Z
 tags:
   - games
 categories:
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Person holding DualSense Controller with PS4 controller on a red background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/person-holding-dualsense-controller-with-ps4-controller-on-a-red-background.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This accessibility feature is particularly helpful for those with decreased mobility. One player can control the direction an avatar is moving or attacking, while the other can take control of the camera, for example.
 
  It’s also useful for young gamers who need a little extra assistance from a parent to beat a particularly formidable final boss. There are plenty of scenarios where an assist controller could be helpful. So if you want to learn how to use this feature on your PS5, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Set Up an Assist Controller on My PS5?
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Settings Gear Icon PS5 Home Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/settings-gear-icon-ps5-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Start by connecting a controller and logging into a user profile. From there, open the settings by pressing the**gear icon** in the top right corner.
 
 ![PS5 Settings Accessibility Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-accessibility-section.jpg)
@@ -66,12 +62,16 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![PS5 Settings Use Second Controller for Assistance](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-second-controller-for-assistance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tap**Use Second Controller for Assistance** , and make sure the**Use Assist Controller** switch is on.
 
 ![PS5 Settings with Use Assist Controller toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-settings-use-assist-controller-switch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Take your second controller, turn it on, and select the same**user profile** that the main controller is connected to. It's very important that both controllers are connected to the same user profile. If not, the process will not be successful. You can tell which profile the main controller is connected to by the**controller icon** underneath the profile picture.
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![PS5 Assist Controller Battery Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ps5-assist-controller-battery-icons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To stop using an assist controller, turn one of the controllers off to disconnect it, or head back to the settings and switch**Use Assist Controller** off.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
  You are unable to use DualSense features such as haptic feedback, adaptive triggers, or the controller's built-in microphone while using an assist controller, but this is a small price to pay to help someone play and enjoy the games they love.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## An Assist Controller Makes Gaming More Accessible
@@ -114,20 +114,17 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-organize-and-download-fb-links-optimized-tools-for-23-for-2024/"><u>[New] Organize and Download FB Links Optimized Tools for '23 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/assessing-auroraayers-image-processing-strengths/"><u>Assessing Aurora'ayer's Image Processing Strengths</u></a></li>
-<li><a href="https://games-able.techidaily.com/cyber-vulnerabilities-in-evolving-game-industry/"><u>Cyber Vulnerabilities in Evolving Game Industry</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevating-the-gaming-experience-four-upgrades-for-xbox-points/"><u>Elevating the Gaming Experience: Four Upgrades for Xbox Points</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/fast-hassle-free-mp4-conversion-of-your-videos-start-right-here/"><u>Fast, Hassle-Free MP4 Conversion of Your Videos - Start Right Here!</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-absence-of-rockalldll-in-windows-os/"><u>Fixes for Absence of Rockalldll in Windows OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/free-wmv-video-cutter-tools-top-picks/"><u>Free WMV Video Cutter Tools Top Picks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/vision-to-visual-impact-youtube-trailers-via-filmora-for-2024/"><u>From Vision to Visual Impact YouTube Trailers via Filmora for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-7-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-tecno-spark-20-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Tecno Spark 20 Pro?</u></a></li>
-<li><a href="https://games-able.techidaily.com/initiating-stronger-security-on-ps5-by-configuring-passcode/"><u>Initiating Stronger Security on PS5 by Configuring Passcode</u></a></li>
-<li><a href="https://games-able.techidaily.com/interactive-playground-awaits-in-youtubes-latest-minigames-tests/"><u>Interactive Playground Awaits in YouTube's Latest Minigames Tests</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-gaming-joy-3-steps-for-unlocking-xbox-bounty/"><u>Maximize Gaming Joy: 3 Steps for Unlocking Xbox Bounty</u></a></li>
-<li><a href="https://games-able.techidaily.com/patent-or-not-no-future-for-xbox-s-disk/"><u>Patent or Not, No Future for Xbox S Disk</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-key-to-maxing-out-your-gamerscore-on-steam/"><u>The Key to Maxing Out Your Gamerscore on Steam</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>[New] 2024 Approved Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[New] Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>[Updated] The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-capture-every-moment-to-perfection-with-sj7s-new-4k-star-camera-review/"><u>2024 Approved Capture Every Moment to Perfection with SJ7’s New 4K Star Camera Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hevchdh2-65-4k8k/"><u>高效能HEVC壓縮技術：免費HD影片H.2 65 解碼器提供4K/8K播放功能</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bouncing-back-on-windows-11-file-explorer-scroll-bar-issue-methods-to-fix-it-now/"><u>Bouncing Back on Windows 11 File Explorer Scroll Bar Issue: Methods to Fix It Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detailed-instructions-how-to-properly-remove-nvidia-drivers-from-your-windows-10-machine/"><u>Detailed Instructions: How to Properly Remove Nvidia Drivers From Your Windows 10 Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/fighting-formats-face-off-arcade-stick-vs-controllers/"><u>Fighting Formats Face-Off: Arcade Stick Vs. Controllers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-magic5-ultimate-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor Magic5 Ultimate Through Google Earth?</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-games-availability-via-steams-sync/"><u>Maximizing Games' Availability via Steam's Sync</u></a></li>
+<li><a href="https://games-able.techidaily.com/sifting-through-value-in-ea-play-service/"><u>Sifting Through Value in EA Play Service</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-a-spectacision-the-finest-budget-friendly-1440p-monitors/"><u>Unveiling a Spectacision: The Finest Budget-Friendly 1440P Monitors</u></a></li>
 </ul></div>
 

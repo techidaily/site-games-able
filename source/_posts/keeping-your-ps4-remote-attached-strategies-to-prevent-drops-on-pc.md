@@ -1,7 +1,7 @@
 ---
 title: "Keeping Your PS4 Remote Attached: Strategies to Prevent Drops on PC"
-date: 2024-09-04T21:49:18.572Z
-updated: 2024-09-05T21:49:18.572Z
+date: 2024-12-03T17:28:52.557Z
+updated: 2024-12-11T01:08:10.687Z
 tags:
   - games
 categories:
@@ -28,36 +28,22 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 ![Picture of Black Laptop’s USB Ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/endpoint-security-best-practices-regulate-usb-ports.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using your controller wired (for example, when using it with the Remote Play app), it could be that the port you're connecting it to has a fault. To rule that out, try plugging the gamepad into another port and see if you can play without it disconnecting. If it doesn't disconnect, you might want to have a hardware professional look at the port where you're experiencing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Rule Out Controller's Range Issues
 
  If you're using the controller wirelessly with the DS4Windows app, then make sure you're within Bluetooth range. We recommend being within 10 feet of your computer. If the controller keeps disconnecting, try moving closer, and if it continues when you're too close, then it's probably not a range issue.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Rule Out Issues on the OS Side
 
  When it comes to troubleshooting things on Windows, we recommend you first try[restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) . This will ensure that any temporary software issues disconnecting your PS4 are resolved. Next, try[manually updating your Windows PC](https://www.makeuseof.com/update-windows-manually/) to the latest version in case the type of issues your PC is experiencing can't be resolved with a simple restart.
 
 ![Restart option in Power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If that doesn't work, then it could be a Bluetooth issue causing your PS4 controller to constantly disconnect. To get to the bottom of this, we recommend[running the Bluetooth troubleshooter](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to find out what the problem is.
 
 ## 5\. Hard Reset Your Controller
@@ -66,13 +52,11 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 ![How to reset the PS4 DualShock 4 controller.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/how_to_reset_ps4_controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  That should hard reset your controller. Now, check to see if the controller still disconnects when you use it on your computer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update Your Controller's Drivers
 
@@ -80,46 +64,37 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
 
 ![the Wireless Controller in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/wireless-controller-in-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you update the driver, check if you can use the controller properly without it disconnecting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Ensure DS4Windows Is Properly Installed
 
  Many Windows users use the[DS4Windows](https://ds4-windows.com/) app to connect their controller to a computer. But if it has glitched out, you should try updating it and see if that resolves the issue. To do that, go to the folder where you installed DS4Windows and double-click on the**DS4Updater.exe** file.
 
 ![the DS4Update file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ds4update-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once it launches, follow the instructions to update DS4Windows. If the controller still disconnects after the update, then try downloading DS4Windows again and running the new installation. Hopefully, that will fix the issue once and for all
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Your PlayStation 4 Controller on Windows Without Interruption
 
  When your PS4 controller keeps disconnecting on Windows, it can ruin your gaming experience. Getting rid of the issue requires troubleshooting it from both the software and hardware side of things. And once you do, you will enjoy using the DS4 on your PC uninterrupted.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +103,26 @@ thumbnail: https://thmb.techidaily.com/2c97ca9c03a4b90ac808b47e7a1e56e2bf5202bf8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-firefoxs-pip-mode/"><u>[New] Unlocking the Secrets of Firefox's PIP Mode</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-common-issues-in-youtube-shorts/"><u>[Updated] Mastering Common Issues in YouTube Shorts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-rediscovering-archived-discussions-on-reddit-now/"><u>2024 Approved Rediscovering Archived Discussions on Reddit Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-fixes-to-get-your-stadia-headset-up-and-running-a-comprehensive-walkthrough/"><u>Easy Fixes to Get Your Stadia Headset Up & Running: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-retro-console-experience-for-todays-players/"><u>Elite Retro Console Experience for Today's Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-games-on-steam-through-the-workshop-feature/"><u>Enhancing Games on Steam Through The Workshop Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-seamless-play-with-a-self-fixing-xbox-d-pad/"><u>Enjoy Seamless Play with a Self-Fixing Xbox D-Pad</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-silver-status-to-core-benefits-xbox-live-golds-transformation/"><u>From Silver Status to Core Benefits: Xbox Live Gold’s Transformation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-cutting-edge-moves-simple-steps-to-edit-videos-in-windows-10/"><u>In 2024, Cutting-Edge Moves Simple Steps to Edit Videos in Windows 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x100-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-15-pro-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 15 Pro Apple ID and Apple Pay</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumping-platforms-in-minecraft-transition-from-bedrock-to-java-geysermc-style/"><u>Jumping Platforms in Minecraft: Transition From Bedrock to Java, GeyserMC Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/living-large-in-fortnite-for-mac-users-but-not-without-exceptions/"><u>Living Large in Fortnite - For Mac Users, But Not Without Exceptions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-your-system-5-tips-for-protecting-windows-computers/"><u>Secure Your System: 5 Tips for Protecting Windows Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-solutions-for-unlocking-frozen-games-in-steam/"><u>Swift Solutions for Unlocking Frozen Games in Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-bp-mode-freeze-in-steam-windows/"><u>Troubleshooting BP Mode Freeze in Steam Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-compact-power-solution-reviewed-affordable-apple-road-warrior-essentials-with-the-mophie-multi-charger/"><u>Ultimate Compact Power Solution Reviewed: Affordable Apple Road Warrior Essentials with the Mophie Multi-Charger</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-12-mini-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 mini screen lock without passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-line-up-of-economical-1440p-gaming-displays/"><u>Unveiling the Ultimate Line-Up of Economical 1440P Gaming Displays</u></a></li>
+</ul></div>
 

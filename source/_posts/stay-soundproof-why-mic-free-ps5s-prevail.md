@@ -1,7 +1,7 @@
 ---
 title: "Stay Soundproof: Why Mic-Free PS5s Prevail"
-date: 2024-12-03T06:01:32.459Z
-updated: 2024-12-04T23:21:33.791Z
+date: 2024-12-04T21:37:33.156Z
+updated: 2024-12-10T20:07:12.887Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Automatically Mute Your PS5's Microphone
 
  Because of this, if you often play multiplayer games alone and don't want to communicate with anyone, you could be weakening two of the PS5 controller's best features without realizing it.
@@ -60,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -68,10 +64,14 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
 
@@ -94,24 +94,22 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-roadmap-to-building-stellar-podcast-rss-feeds/"><u>[New] 2024 Approved The Roadmap to Building Stellar Podcast RSS Feeds</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-make-facebook-video-ads-in-an-creative-way/"><u>[New] In 2024, How to Make Facebook Video Ads in An Creative Way?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitsnap-secure-effortless-methods-for-downloading-tweets-videos/"><u>[New] In 2024, TwitSnap Secure Effortless Methods for Downloading Tweets' Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fortnite-thumbnail-blitz-a-30-second-guide/"><u>[Updated] In 2024, Fortnite Thumbnail Blitz A 30-Second Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-subscriber-glory-the-play-button-and-accolades-for-maker/"><u>[Updated] In 2024, Subscriber Glory The Play Button & Accolades for Maker</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>2024 Approved Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-finding-superior-hashtags-for-your-youtube-content/"><u>2024 Approved Finding Superior Hashtags for Your YouTube Content</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-and-disabling-content-file-locked-on-windows/"><u>Deciphering and Disabling Content File Locked on Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722140107884-determining-dominance-in-llm-technology-a-closer-look-at-google-bard-microsofts-chatgpt-and-offline-alpaca/"><u>Determining Dominance in LLM Technology: A Closer Look at Google Bard, Microsoft's ChatGPT and Offline Alpaca</u></a></li>
-<li><a href="https://games-able.techidaily.com/easing-back-into-savings-with-digital-games-reimbursement/"><u>Easing Back Into Savings with Digital Games Reimbursement</u></a></li>
-<li><a href="https://games-able.techidaily.com/end-of-gaming-loopholes-valve-responds-now/"><u>End of Gaming Loopholes: Valve Responds Now</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-90-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on 90</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-it-just-an-update-or-a-full-blown-software-revamp/"><u>Is It Just an Update or a Full-Blown Software Revamp?</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-mac-gaming-in-sonoma-through-apples-game-mode/"><u>Maximizing Mac Gaming in Sonoma Through Apple’s Game Mode</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-parts-synergy-avoid-compatibility-pitfalls/"><u>PC Parts Synergy - Avoid Compatibility Pitfalls</u></a></li>
-<li><a href="https://games-able.techidaily.com/re-link-your-world-7-tips-for-winmc-lan-issues/"><u>Re-Link Your World: 7 Tips for WinMC LAN Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-steam-reactivation-methods/"><u>Swift Steam Reactivation Methods</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-superior-audio-world-of-beyerdynamic-mmx-200/"><u>The Superior Audio World of Beyerdynamic MMX 200</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-15-split-screen-adventures-for-solo-duos-on-mobile/"><u>Top 15 Split-Screen Adventures for Solo Duos on Mobile</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>[New] Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>[New] In 2024, Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-latest-in-non-fbx-gameplay-tracking-for-2024/"><u>[New] Unveiling the Latest in Non-FBX Gameplay Tracking for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-updated-samsung-ubd-k8500-analysis-for-2024/"><u>[Updated] Updated Samsung UBD-K8500 Analysis for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/amplify-your-videos-enhancing-thumbnails-with-captivating-creative-bgs/"><u>Amplify Your Videos Enhancing Thumbnails with Captivating, Creative BGs</u></a></li>
+<li><a href="https://games-able.techidaily.com/enriching-joy-con-gameplay-with-additional-inputs-96-chars-adjusted-for-relevancy-and-fitting-within-limits/"><u>Enriching Joy-Con Gameplay with Additional Inputs (96 Chars) - Adjusted for Relevancy and Fitting Within Limits</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-price-tag-on-ea-play/"><u>Evaluating the Price Tag on EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-165hz-pc-gaming-displays/"><u>Exclusive 165Hz PC Gaming Displays</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-reinvented-steams-approach-to-ai-driven-experience/"><u>Games Reinvented: Steam’s Approach to AI-Driven Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>In 2024, Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/play-without-payment-top-10-free-online-roleplaying-games/"><u>Play Without Payment Top 10 Free Online Roleplaying Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-screen-slump-in-gaming-systems/"><u>Tackling Screen Slump in Gaming Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unsubscribed-response-to-eas-price-spike/"><u>The Unsubscribed Response to EA’s Price Spike</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ranked-logitech-gamers-choice/"><u>Top-Ranked Logitech Gamer's Choice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-ring-video-doorbell-2-analysis-top-of-the-line-security/"><u>Ultimate Ring Video Doorbell 2 Analysis: Top of the Line Security</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan</u></a></li>
 </ul></div>
 

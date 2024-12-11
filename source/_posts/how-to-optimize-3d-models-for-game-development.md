@@ -1,7 +1,7 @@
 ---
 title: How to Optimize 3D Models for Game Development
-date: 2024-12-01T19:54:03.817Z
-updated: 2024-12-05T05:31:30.582Z
+date: 2024-12-10T08:16:08.448Z
+updated: 2024-12-11T05:12:43.385Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3D Model Game Optimization: Development Practices
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use Static Lighting
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
  Engines like Unity and Unreal Engine feature an optimization tool called occlusion culling. This reduces resource usage by only rendering the 3D objects that the player can see in the scene. Outside of the player’s field of view, objects will not appear until they are looked at. This is an easy way to save resource usage in large scenes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Implement LOD (Level of Detail)
@@ -67,18 +67,18 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3D Model Game Optimization: Design Workflow
 
 ![3d designer working at PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3d-designer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Designing 3D models that are optimized for video game development is easier than you might expect. This process mostly involves stripping your model down to ensure that it only has the vertices, lines, and faces that it needs. There are several ways to achieve this.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Manual Geometry Optimization
@@ -122,20 +122,18 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-inverse-viewing-in-youtube-original-ideas-for-rewinders/"><u>[New] Inverse Viewing in YouTube Original Ideas for Rewinders</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725285898086-aiwinxvideo/"><u>采用AI技术的WinxVideo：优化屏幕和在线音视频捕捉体验</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apples-anticipated-product-launch-when-and-what-we-might-see/"><u>Apple's Anticipated Product Launch: When and What We Might See</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-founders-series-vs-asus-vega-graphics/"><u>Evaluating Founder's Series Vs. ASUS Vega Graphics</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-heart-of-palworld/"><u>Explore the Heart of PalWorld</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/filmora-hacks-streamline-your-reaction-video-creation-process-for-2024/"><u>Filmora Hacks Streamline Your Reaction Video Creation Process for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/freeloading-without-breaking-your-budget-on-aes-for-2024/"><u>Freeloading Without Breaking Your Budget on AEs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-groups-vs-gadgets-galore/"><u>Gaming Groups Vs. Gadgets Galore</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-end-games-and-the-debate-on-mt-integration/"><u>High-End Games and the Debate on MT Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-disable-and-restrict-xbox-game-bar-background-activity-in-windows-10-and-11/"><u>How to Disable and Restrict Xbox Game Bar Background Activity in Windows 10 and 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-google-pixel-8-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Google Pixel 8 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-y78plus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo Y78+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-efficient-methods-for-youtube-video-preservation/"><u>In 2024, Efficient Methods for YouTube Video Preservation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-moto-g23-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Motorola Moto G23 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamers-handbook-top-ranked-twitch-vod-retrievers/"><u>Streamer's Handbook: Top-Ranked Twitch VOD Retrievers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-minecraft-homestead-blueprint-6-10/"><u>[New] 2024 Approved Minecraft Homestead Blueprint #6-10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-select-4-websites-easy-skype-tone-downloads-for-2024/"><u>[New] Select 4 Websites Easy Skype Tone Downloads for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/build-a-fortified-mc-base-plan-6-10-for-2024/"><u>Build a Fortified MC Base Plan #6-10 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/exiting-game-buys-xboxs-refund-procedures-explained/"><u>Exiting Game Buys: Xbox's Refund Procedures Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reset-a-ps5-controller-and-when-you-should/"><u>How to Reset a PS5 Controller (and When You Should)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-itel-p55t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Itel P55T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-mp4twitterstreamer-sound-tweet-tool/"><u>In 2024, MP4TwitterStreamer Sound Tweet Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-reimagined-by-rogs-x-fixes/"><u>Next-Gen Gaming Reimagined by ROG's X Fixes</u></a></li>
+<li><a href="https://games-able.techidaily.com/style-meets-substance-in-game-accessories/"><u>Style Meets Substance in Game Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-for-identifying-missing-titles-on-steam-platform/"><u>Techniques for Identifying Missing Titles on Steam Platform</u></a></li>
+<li><a href="https://win-premium.techidaily.com/ultimate-guide-to-mastering-flip-image-techniques-on-mac-with-flipbuilder/"><u>Ultimate Guide to Mastering Flip Image Techniques on Mac with FlipBuilder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-does-generative-artificniental-mean-in-ai/"><u>What Does Generative Artificniental Mean in AI?</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-the-price-bump-means-no-more-gaming-with-ea/"><u>Why the Price Bump Means No More Gaming with EA</u></a></li>
 </ul></div>
 

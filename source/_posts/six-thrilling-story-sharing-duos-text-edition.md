@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2024-12-04T06:47:12.232Z
-updated: 2024-12-04T16:06:45.557Z
+date: 2024-12-04T08:50:50.302Z
+updated: 2024-12-11T05:23:12.048Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Play text-based games with friends using SMS text messaging or chat apps like WhatsApp or iMessage. There's no need to download another app!
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  While there are plenty of[free mobile games without ads or in-app purchases](https://www.makeuseof.com/tag/free-mobile-games-no-ads/) , you may want to play something even simpler. The uncomplicated games listed below can be played over text or chat without the need to download and install yet another app on your phone.
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1 Story Builder
 
@@ -65,10 +65,6 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Song Lyrics
 
 Close
@@ -80,7 +76,7 @@ Close
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Abbreviations
@@ -104,7 +100,7 @@ Close
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Where Am I?
@@ -117,6 +113,10 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -127,6 +127,10 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 What If...?
 
 Close
@@ -136,10 +140,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -168,22 +168,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-latest-evolution-2023s-samsung-bd-j5900-review/"><u>[New] In 2024, The Latest Evolution 2023'S Samsung BD-J5900 Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-metadata-the-power-of-accurate-video-tags/"><u>[Updated] 2024 Approved Mastering Metadata The Power of Accurate Video Tags</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-complete-blueprint-for-professional-edits-in-gopro-studio/"><u>[Updated] In 2024, The Complete Blueprint for Professional Edits in GoPro Studio</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-studio-vs-bandicam-a-comprehensive-performance-review-for-2024/"><u>[Updated] OBS Studio Vs. Bandicam A Comprehensive Performance Review for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/advanced-techniques-to-delete-secure-files-and-directories-in-modern-windows-os/"><u>Advanced Techniques to Delete Secure Files and Directories in Modern Windows OS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-splitcams-rated-or-not-for-2024/"><u>Cutting-Edge SplitCams Rated or Not for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/envisioning-a-better-future-the-quartet-of-upgrades-for-xbox-points/"><u>Envisioning a Better Future: The Quartet of Upgrades for Xbox Points</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-realms-to-replays-preserve-your-worlds/"><u>From Realms to Replays: Preserve Your Worlds</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722048455114-how-many-interactions-does-chatgpt-support-know-your-limits/"><u>How Many Interactions Does ChatGPT Support? - Know Your Limits!</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-cloud-sync-on-steam-gear/"><u>Mastering the Art of Cloud Sync on Steam Gear</u></a></li>
-<li><a href="https://games-able.techidaily.com/professional-desks-vs-high-performance-rigs-for-gamers/"><u>Professional Desks VS High-Performance Rigs for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps3-game-access-via-ps4-system/"><u>PS3 Game Access via PS4 System</u></a></li>
-<li><a href="https://games-able.techidaily.com/silence-unwanted-noise-guide-to-fixing-controller-and-headsets/"><u>Silence Unwanted Noise: Guide to Fixing Controller & Headsets</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/speeding-up-your-computer-with-essential-hardware-enhancements-a-guide-from-yl-software-experts/"><u>Speeding up Your Computer with Essential Hardware Enhancements: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-simple-secret-to-keeping-your-switch-running-longer/"><u>The Simple Secret to Keeping Your Switch Running Longer</u></a></li>
-<li><a href="https://games-able.techidaily.com/tie-the-gears-syncing-xbox-controller-seamlessly/"><u>Tie the Gears: Syncing Xbox Controller Seamlessly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations/"><u>[New] 2024 Approved Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-bypassing-edgenuity-a-guide-to-focused-self-study/"><u>[New] In 2024, Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island-for-2024/"><u>[New] Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-beat-breakers-crafting-compelling-video-music-scores/"><u>[Updated] In 2024, Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-laughs-lab-innovator/"><u>[Updated] Laughs Lab Innovator</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-finest-8-gaming-hubs-and-analysts/"><u>Discover the Finest: 8 Gaming Hubs & Analysts</u></a></li>
+<li><a href="https://games-able.techidaily.com/early-game-patches-risk-or-reward/"><u>Early Game Patches: Risk or Reward?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mr-beasts-financial-portrait/"><u>Mr. Beast’s Financial Portrait</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-playstation-5s-security-set-up-a-personalized-passcode/"><u>Streamlining Your PlayStation 5'S Security: Set Up a Personalized Passcode</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-does-your-ps5-say-about-older-ps4-game-compatibility/"><u>What Does Your PS5 Say About Older PS4 Game Compatibility?</u></a></li>
 </ul></div>
 

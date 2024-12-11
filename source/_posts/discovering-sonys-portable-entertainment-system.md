@@ -1,7 +1,7 @@
 ---
 title: Discovering Sony's Portable Entertainment System
-date: 2024-09-04T21:49:18.234Z
-updated: 2024-09-05T21:49:18.234Z
+date: 2024-12-07T20:36:21.073Z
+updated: 2024-12-11T05:00:40.730Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
 * [What Can You Do With the PS Portal?](#what-can-you-do-with-the-ps-portal)
 * [Should You Buy the PlayStation Portal?](#should-you-buy-the-playstation-portal)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The PlayStation Portal is a remote-play device that streams games installed locally on your PS5 via Wi-Fi.
@@ -29,27 +33,17 @@ thumbnail: https://thmb.techidaily.com/d20fb0a2bb9049e2210bb23aa9225c390244059ce
  Sony launched the PlayStation Portal in November 2023—a gaming device that looks like a DualSense controller bisected by an eight-inch screen. But what exactly is the Portal? Is it Sony’s competitor to the Nintendo Switch and SteamDeck? Or is it a cloud gaming device like the Logitech G Cloud?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the PlayStation Portal?
 
 ![Sony PlayStation Portal product image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sony-playstation-portal-product-image.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Sony](https://blog.playstation.com/2023/08/23/playstations-first-remote-play-dedicated-device-playstation-portal-remote-player-to-launch-later-this-year-at-199-99/)
 
  The PlayStation Portal features an eight-inch touchscreen with a 1080p resolution and 60Hz refresh rate. It also features DualSense-like controls on both sides, so it would feel familiar if you’re already a PS5 user.
@@ -65,25 +59,11 @@ Furthermore, you need a PlayStation Network account to use it.
 ![Close up of Sony Project Q](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/close-up-of-sony-project-q.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [PlayStation](https://blog.playstation.com/2023/05/24/playstation-showcase-recap-everything-announced-at-todays-show/)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Can You Do With the PS Portal?
 
  Since the PlayStation Portal is essentially a DualSense controller with a screen that streams games from your PlayStation 5\. It also has features like haptic feedback and adaptive triggers—provided the game you’re streaming is compatible with those features.
@@ -93,29 +73,15 @@ Furthermore, you need a PlayStation Network account to use it.
 ![PlayStation Portal with Pulse Explore and Pulse Elite wireless audio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/playstation-portal-with-pulse-explore-and-pulse-elite-wireless-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Sony](https://blog.playstation.com/2023/08/23/hands-on-report-playstation-portal-remote-player-pulse-explore-wireless-earbuds-and-pulse-elite-wireless-headset/)
 
  One downside with the Portal, though, is it doesn’t have Bluetooth connectivity. That means your AirPods and other Bluetooth accessories won’t work with the device. If you want personal audio, use one of[the best wired gaming headsets](https://www.makeuseof.com/tag/best-pc-gaming-headset/) or a PlayStation Link-compatible audio device, like the Pulse Elite, Explore, or 3D.
 
  It also doesn’t have streaming compatibility from outside servers, so even if you[have a PlayStation Plus Premium subscription](https://www.makeuseof.com/what-is-playstation-plus/) , you can’t stream titles directly to the PlayStation Portal. Instead, you must install any title you’re interested in on your PlayStation 5 and stream it to the handheld device.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should You Buy the PlayStation Portal?
 
  If you’re a big PlayStation fan and find yourself missing your games whenever you’re not home, the PlayStation Portal is for you. With this handheld device, you basically take your PlayStation 5 with you wherever you are, as long as you have a robust 5G data connection.
@@ -124,14 +90,11 @@ Furthermore, you need a PlayStation Network account to use it.
 
  If you don't want to just stream PS5 games, you might be better off getting a smartphone gaming controller like[the GameSir X2s Type-C Controller](https://www.makeuseof.com/gamesir-x2s-type-c-controller-review/) . That way, you can use it for non-PlayStation services, like Steam and Xbox Game Pass Ultimate, or even for playing AAA games straight from your phone. Plus, these controllers cost less than $50.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +103,24 @@ Furthermore, you need a PlayStation Network account to use it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-efficiently-obtain-youtube-srt-files-in-three-methods/"><u>[Updated] Efficiently Obtain YouTube SRT Files in Three Methods</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-for-eye-popping-fb-ad-videos-for-2024/"><u>[Updated] Strategies for Eye-Popping FB Ad Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s21-fe-5g-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S21 FE 5G (2023) by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deadite-design-dynamo/"><u>Deadite Design Dynamo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862731073-exploring-toms-hardware-top-tech-reviews-and-insights/"><u>Exploring Tom's Hardware: Top Tech Reviews and Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/forget-ray-tracing-heres-why-it-might-not-be-worth-your-time/"><u>Forget Ray Tracing? Here's Why It Might Not Be Worth Your Time</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-participate-in-a-collaborative-image-collection-on-ios-devices/"><u>How to Participate in a Collaborative Image Collection on iOS Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-capturing-motion-with-precision-how-to-choose-between-30-and-60fps/"><u>In 2024, Capturing Motion with Precision How to Choose Between 30 and 60Fps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-counter-strike-2-mac-edition-guide/"><u>Mastering Counter-Strike 2: Mac Edition Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendos-next-leap-assessing-online-package-value/"><u>Nintendo's Next Leap: Assessing Online Package Value</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-graphics-plus-high-responsiveness-in-gaming-mice/"><u>Superior Graphics + High Responsiveness in Gaming Mice</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-2-5-things-id-like-to-see-more-than-just-power/"><u>Switch 2: 5 Things I’d Like to See More Than Just Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-office-flooring-trends/"><u>Top Office Flooring Trends</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-worlds-say-farewell-to-exclusivity/"><u>Unlocking Worlds: Say Farewell to Exclusivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-bert-the-next-evolution-beyond-gpt-for-text-comprehension/"><u>Unveiling the Secrets of BERT: The Next Evolution Beyond GPT for Text Comprehension</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-make-videos-with-pictures-and-music-10-apps/"><u>Updated 2024 Approved Make Videos with Pictures and Music-10 Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-for-peace-of-mind-new-nvidia-drivers-available/"><u>Upgrade for Peace of Mind – New NVIDIA Drivers Available</u></a></li>
+</ul></div>
 

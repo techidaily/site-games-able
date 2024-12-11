@@ -1,7 +1,7 @@
 ---
 title: Top Inconveniences in Modern Portable Play
-date: 2024-12-01T18:59:38.810Z
-updated: 2024-12-05T03:47:36.679Z
+date: 2024-12-05T01:22:28.796Z
+updated: 2024-12-11T02:03:22.737Z
 tags:
   - games
 categories:
@@ -31,11 +31,19 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
 ![A screenshot of Google Play Store home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/Google-play-store-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  People just don't like to pay for mobile games, and the rare ones that actually do, pay mostly via in-app purchases and microtransactions. So, it forces game developers to either conform to that model or stick with console gaming.
 
  Now, we're not saying the freemium model isn't profitable. In fact, according to[Business Insider](https://www.businessinsider.in/tech/news/pubg-mobile-was-the-top-grossing-game-globally-in-november-2021/articleshow/88201430.cms) , PUBG Mobile earned nearly $254 million in player spending in November 2021 alone.
 
  But the problem with the freemium model is that it's not suitable for making big-budget console-level games. It's too risky for developers to invest so much time and money creating a high-end mobile game, in the vain hope that people might pay for it later... after playing it for free.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. App Store Algorithms Only Favor Top Charts
 
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
  When searching for an app, most people just pick one from the items at the top of the list. And because of this, winners keep winning and losers keep losing.
 
  There is no real incentive for app stores to support developers other than the ones who are earning them the most revenue. This discourages new developers from taking on the risk of creating better mobile games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Low Consumer Expectations
 
@@ -71,17 +75,9 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
  As cruel as some negative reviews can be, they are helpful for spotting errors. For mobile games, that level of passion and commitment simply doesn't exist.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Poor Touchscreen Controls
 
 ![video game console and mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/video-game.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unless you buy a dedicated gaming phone with shoulder buttons (such as the[Black Shark 4 we reviewed](https://www.makeuseof.com/black-shark-4-review/) ), regular smartphones simply can't compete with the likes of a console controller. All the controls of a mobile game have to be crammed inside the very limited screen estate of the device.
 
@@ -93,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
  However, because a higher storage space also means a higher price, the only phones that can take advantage of this are flagships. And since most smartphones sales aren't flagships but budget and mid-range phones, the advantage of higher storage space becomes redundant.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Lack of Standardized Platforms
 
 ![how to use share play on ps5 playstation 5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/how-to-use-share-play-on-ps5-playstation-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unlike standardized consoles such as PlayStation and Xbox, smartphones come in all shapes, sizes, and configurations. This is true even more so for Android phones than iPhones.
 
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
 ![a man frustrated using his mobile phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/upset-young-african-man-reading-message-his-mobile-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Aside from microtransactions, mobile game developers also rely on in-game ads to earn money. This allows them to keep the game running and introduce new features such as maps, weapons, outfits, and other similar in-game items.
 
  However, as a gamer, it really sucks to have to watch an ad every single time after completing a race, finishing a match, or opening a loot box. On top of that, these ads can sometimes be irrelevant and inappropriate, and there's no way to tweak them either.
@@ -120,7 +120,7 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
  Granted, watching in-game ads is a good way to[support mobile game developers without buying in-game items](https://www.makeuseof.com/support-game-developers-without-microtransactions/) , but their frequency matters a lot especially if you're planning to play that game for a long time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mobile Gaming Could Be So Much More
@@ -144,24 +144,24 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-2023-roadmap-for-dominant-desktop-tiktok-videos/"><u>[New] The 2023 Roadmap for Dominant Desktop TikTok Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] In 2024, Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-hue-and-saturation-techniques/"><u>2024 Approved Mastering Hue & Saturation Techniques</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-14-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 14 Plus Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-vr-streamlining-steam-gameplay-with-meta-quest-xperience/"><u>Dive Into VR: Streamlining Steam Gameplay with Meta Quest Xperience</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-acquire-and-apply-minecraft-worlds/"><u>Efficiently Acquire & Apply Minecraft Worlds</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-photo-slideshows-exclusive-mac-app-downloaded-in-seconds/"><u>Effortless Photo Slideshows: Exclusive Mac App Downloaded in SECONDS!</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-nyt-relationship-strategies/"><u>Exploring NYT Relationship Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-non-joy-con-link-failures-in-switch-console/"><u>How to Fix Non-Joy-Con Link Failures in Switch Console</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-unique-ringtone-from-social-media-music-tracks/"><u>In 2024, How To Create Unique Ringtone From Social Media Music Tracks</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-ps4-controls-into-your-computer-system/"><u>Integrating PS4 Controls Into Your Computer System</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-game-narratives-using-chatgpt/"><u>Mastering Game Narratives Using ChatGPT</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/permitted-practices-for-saving-youtube-videos-for-2024/"><u>Permitted Practices for Saving YouTube Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-picks-for-gamers-8-ultimate-reviews-and-news/"><u>Prime Picks for Gamers: #8 Ultimate Reviews & News</u></a></li>
-<li><a href="https://games-able.techidaily.com/revitalize-your-pc-with-the-newest-nvidia-driver-update/"><u>Revitalize Your PC with the Newest Nvidia Driver Update.</u></a></li>
-<li><a href="https://games-able.techidaily.com/seeking-forgiveness-refund-process-for-xbox-purchases/"><u>Seeking Forgiveness - Refund Process for Xbox Purchases</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solved-how-to-repair-a-broken-front-speaker-connector-on-your-device/"><u>Solved! How To Repair A Broken Front Speaker Connector On Your Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-role-of-output-impedance-in-audio-and-power-amplifiers-a-deep-dive/"><u>The Role of Output Impedance in Audio and Power Amplifiers: A Deep Dive</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-vivo-x100-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Vivo X100 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-total-gaze-coverage-camera-analysis/"><u>[New] In 2024, Total Gaze Coverage Camera Analysis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-leveraging-costless-methods-for-integrating-videos-into-writing-for-2024/"><u>[Updated] Leveraging Costless Methods for Integrating Videos Into Writing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-advanced-photography-skills-precision-cropping-in-digital-spaces/"><u>2024 Approved Advanced Photography Skills Precision Cropping in Digital Spaces</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-logitech-webcam-filming-tips-for-clear-visuals-and-smooth-sessions/"><u>2024 Approved Logitech Webcam Filming Tips for Clear Visuals and Smooth Sessions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alternative-methods-to-experience-the-roku-channel-for-non-roku-users/"><u>Alternative Methods to Experience the Roku Channel for Non-Roku Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/building-skills-through-effort-not-chatgpt-replies/"><u>Building Skills Through Effort, Not ChatGPT Replies</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-your-gaming-experience-with-the-best-9-emulators/"><u>Elevating Your Gaming Experience with the Best 9 Emulators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-7-virtual-playgrounds-the-ultimate-game-selection-for-kids/"><u>Explore These 7 Virtual Playgrounds: The Ultimate Game Selection for Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-handheld-to-hand-controllers-joining-phones/"><u>From Handheld to Hand: Controllers Joining Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-quickly-fix-the-non-starting-display-driver-issue-in-windows-11/"><u>How to Quickly Fix the Non-Starting Display Driver Issue in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-infinix-note-30-vip-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s24-ultra-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S24 Ultra to Outlook | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-in-depth-journey-through-independent-gaming-worlds/"><u>My In-Depth Journey Through Independent Gaming Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/peaceful-puzzles-idle-gaming-essence/"><u>Peaceful Puzzles: Idle Gaming Essence</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-settings-for-teen-and-kids-playstation-5/"><u>Secure Settings for Teen & Kid’s PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-7-modern-mobile-mmos-for-ultimate-adventure/"><u>Top 7 Modern Mobile MMOs for Ultimate Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-xbox-one-synching-controllers-seamlessly/"><u>Unlock Xbox One: Synching Controllers Seamlessly</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-shell-out-5-key-factors-supporting-premium-gaming-apps/"><u>Why Shell Out? 5 Key Factors Supporting Premium Gaming Apps</u></a></li>
 </ul></div>
 

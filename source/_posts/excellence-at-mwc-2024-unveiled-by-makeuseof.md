@@ -1,7 +1,7 @@
 ---
 title: Excellence at MWC 2024 Unveiled by MakeUseOf
-date: 2024-11-28T06:49:24.753Z
-updated: 2024-12-05T07:14:05.808Z
+date: 2024-12-04T18:02:41.068Z
+updated: 2024-12-11T03:14:05.146Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Tecno is one of the world's fastest-growing tech companies, and its range of Megabook laptops just received an enormous upgrade: AI processing.
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  The new 2024 Tecno Megabook T16 Pro ships with an AI-enabled Intel Core Ultra 7 (or Core Ultra 5), which enables on-device AI tools using Intel's new Neural Compute Engine, such as AI image generation and AI conference support, all accessed through the onboard PC Manager. Having given the onboard image generation a try, it's fast and responsive, using the latest version of Stable Diffusion to generate AI images.
 
 ![tecno megabook pro t16 ai image generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-pro-t16-ai-image-generator.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ## 2\. Honor Magic 6 Pro
 
 ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -81,10 +89,6 @@ Close
  One feature I really liked on the Honor Magic 6 Pro is the new drop and drag to search tools. Instead of having to long press, copy, paste, and so on, you drag and drop the information you need directly into the app you want. Someone sends you a location? Just drag it straight into Google Maps, and it loads immediately.
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Motorola Adaptive Display Concept
 
@@ -103,7 +107,7 @@ Close
 ![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -121,7 +125,7 @@ Close
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. ZTE Nubia Flip 5G
@@ -144,6 +148,10 @@ Close
 
 ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Gavin Phillips/MakeUseOf
 
  Pocket gaming devices have seen an enormous resurgence in the past few years, and the new Ayaneo Pocket S is one of the best I've seen.
@@ -160,10 +168,6 @@ Close
 
 ![xiaomi 14 ultra on stand mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/xiaomi-14-ultra-on-stand-mwc-2024.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Gavin Phillips/MakeUseOf
 
  Now, Xiaomi's Ultra devices often have a heavy focus on photography and video capture, and its new 14 Ultra continues that tradition.
@@ -175,6 +179,10 @@ Close
  Most importantly, it ships with the latest Snapdragon 8 Gen 3 and Xiaomi's AISP neural chip, which the company claims to be the first AI computational model focusing solely on photography. There are four AI models to work with: FusionLM, ToneLM, ColorLM, and PortraitLM, each of which fine-tunes images snapped on the device.
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Honor MagicBook Pro 16
 
@@ -192,13 +200,13 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tecno Phantom Ultimate Concept
 
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -209,7 +217,7 @@ Close
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. ZTE Nubia Pad 3D II
@@ -226,17 +234,9 @@ Close
 
  The 3D glasses-free tech is great on its own, but what's better is that the Nubia Pad 3D II will convert images, video, and games from 2D into 3D, giving you incredible depth across an 86-degree viewing angle. It also runs at 2560x1600, giving great resolution, and the 3D effect is evident from a wide range of viewing points.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Samsung Galaxy Ring
 
 ![samsung galaxy smart ring on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/samsung-galaxy-smart-ring-on-stand-at-mwc-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -277,20 +277,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-get-to-know-vrecorder-the-perfect-installation-process/"><u>[Updated] 2024 Approved Get to Know VRecorder The Perfect Installation Process</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-globes-biggest-video-content-mogul/"><u>[Updated] 2024 Approved Globe’s Biggest Video Content Mogul</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-enhancing-speed-and-stability-more-ram-for-minecraft/"><u>[Updated] Enhancing Speed & Stability More RAM For Minecraft</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-13-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi 13 Ultra?</u></a></li>
-<li><a href="https://games-able.techidaily.com/converting-iphone-from-phone-to-gaming-powerhouse/"><u>Converting iPhone: From Phone to Gaming Powerhouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-g-sync-nvidias-innovation-in-gameplay-fluidity/"><u>Demystifying G-Sync: Nvidia's Innovation in Gameplay Fluidity</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-channel-the-top-6-game-variety/"><u>Elevate Your Channel: The Top 6 Game Variety</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-salvage-your-soggy-smartphone-repair-techniques-for-damaged-iphonesipods/"><u>How to Salvage Your Soggy Smartphone: Repair Techniques for Damaged iPhones/iPods</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsofts-all-in-one-platform-integration-of-teamwork-personal-interaction-and-learning-now-live-at-zdnet/"><u>Microsoft's All-in-One Platform Integration of Teamwork, Personal Interaction, and Learning – Now Live at ZDNET</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-your-xbox-extras-a-sx-users-roadmap/"><u>Navigating Your Xbox Extras: A S/X User's Roadmap</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shift-photo-realism-to-a-more-distinctive-outer-glow-psx/"><u>Shift Photo Realism to a More Distinctive Outer Glow PSX</u></a></li>
-<li><a href="https://games-able.techidaily.com/silent-stealth-mode-quell-xbox-shakes/"><u>Silent Stealth Mode: Quell Xbox Shakes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-imperative-aspects-for-buying-handheld-videogame-units/"><u>The Imperative Aspects for Buying Handheld Videogame Units</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-essential-nintendo-switch-customizations/"><u>Unveiling Essential Nintendo Switch Customizations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-application-space-consumption-guide/"><u>Windows Application Space Consumption Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-the-course-to-youtube-livestream-mastery/"><u>[New] In 2024, Charting the Course to YouTube Livestream Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-whole-viewpoint-vs-multiplanar-imaging-techniques/"><u>[Updated] In 2024, Whole Viewpoint vs Multiplanar Imaging Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-nailing-the-technique-for-snapchat-screen-time-lapses/"><u>2024 Approved Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-switches-are-mechanical-keys-superior-for-gamers/"><u>Comparing Switches: Are Mechanical Keys Superior for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/daily-techniques-outshining-new-york-times-elite/"><u>Daily Techniques: Outshining New York Times Elite</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-engagement-idle-game-series/"><u>Effortless Engagement: Idle Game Series</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-take-your-videos-to-the-next-level-12-best-online-animation-platforms/"><u>In 2024, Take Your Videos to the Next Level 12 Best Online Animation Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-the-revolutionary-self-design-feature-customizing-your-own-moto-x-smartphone/"><u>Introducing the Revolutionary Self-Design Feature: Customizing Your Own Moto X Smartphone!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/loop-engineers-assembly-for-2024/"><u>Loop Engineer's Assembly for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/patent-claims-vs-reality-for-xbox-s-design/"><u>Patent Claims Vs. Reality for Xbox S Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-gaming-keyboards-of-2024/"><u>The Best Gaming Keyboards of 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-beauty-influencers-dominating-2024-youtube-trends/"><u>Top 10 Beauty Influencers Dominating 2024 YouTube Trends</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208088497-why-is-my-chrome-not-responding-expert-tricks-to-launch-fresh-and-fast/"><u>Why Is My Chrome Not Responding? Expert Tricks To Launch Fresh and Fast</u></a></li>
 </ul></div>
 

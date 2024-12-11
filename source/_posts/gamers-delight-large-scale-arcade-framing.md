@@ -1,7 +1,7 @@
 ---
 title: Gamer's Delight - Large-Scale Arcade Framing!
-date: 2024-11-19T09:13:17.983Z
-updated: 2024-11-25T06:46:58.839Z
+date: 2024-12-05T16:40:17.354Z
+updated: 2024-12-11T06:41:51.697Z
 tags:
   - games
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Big Box Automatically Imports Metadata
 
  Whether you’ve tackled big projects, like[building a portable retro gaming console using a Raspberry Pi](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) , or added a few classic arcade games to your work desktop, you know how painful it is to organize your collection. You are forced to add in every bit of metadata manually in most cases, including hunting down individual bits of media for each game, like a bezel, screenshot, video, and so on.
@@ -47,12 +43,16 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This saves days’ worth of work alone, and means[LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Big Box Adds Context to Your Library
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
@@ -84,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
@@ -124,18 +124,19 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-cost-free-online-collaboration-tools/"><u>[New] 2024 Approved The Ultimate Guide to Cost-Free Online Collaboration Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>[New] Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-ways-to-reshuffle-youtube-tracks-on-pcphonetv/"><u>2024 Approved Quick Ways to Reshuffle YouTube Tracks on PC/Phone/TV</u></a></li>
-<li><a href="https://games-able.techidaily.com/complete-guide-eradicating-your-ps5-digital-footprint/"><u>Complete Guide: Eradicating Your PS5 Digital Footprint</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-nintendo-switch-headphones/"><u>Elite Nintendo Switch Headphones</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/favored-foreign-languages-for-academic-study/"><u>Favored Foreign Languages for Academic Study</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tips-and-tricks-exchanging-images-and-videos-on-apple-devices/"><u>In 2024, Tips & Tricks Exchanging Images & Videos on Apple Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/psp-console-steam-controller-adaptation/"><u>PSP Console: Steam Controller Adaptation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-for-customizing-and-downloading-spiritual-audio/"><u>Step by Step for Customizing and Downloading Spiritual Audio</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-compre-marketplace-navigating-add-ons-on-series-xs/"><u>The Compre Marketplace: Navigating Add-Ons on Series X|S</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps-vr2-extras/"><u>The Ultimate Guide to PS VR2 Extras</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-for-ensuring-no-trace-of-past-gpt-interactions/"><u>Tips for Ensuring No Trace of Past GPT Interactions</u></a></li>
-<li><a href="https://games-able.techidaily.com/win-11-unlocking-classic-game-files-in-photos/"><u>Win 11: Unlocking Classic Game Files in Photos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-learn-how-to-rewind-video-ordering-on-android/"><u>[New] In 2024, Learn How to Rewind Video Ordering on Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-topping-bargain-software-for-screen-capture-on-chromebook-for-2024/"><u>[Updated] Topping Bargain Software for Screen Capture on Chromebook for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/adolescent-advice-alert-reconsidering-constant-instagram-engagement/"><u>Adolescent Advice Alert: Reconsidering Constant Instagram Engagement?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/consider-the-advantages-of-upgrading-to-xbox-game-pass-ultimate/"><u>Consider the Advantages of Upgrading to Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-2024-issues-in-phasmophobia-game-crashes-tips-and-solutions/"><u>Fixing 2024 Issues in Phasmophobia Game Crashes - Tips and Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/fun-for-friends-or-foes-15-best-split-screen-titles-on-phone/"><u>Fun for Friends or Foes: 15 Best Split-Screen Titles on Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-a-mechanical-keyboard-crucial-for-games/"><u>Is a Mechanical Keyboard Crucial for Games?</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-xbox-game-pass-benefits/"><u>Navigating Through Xbox Game Pass Benefits</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-witty-wordplay-wins-friends-favorite-chat-games/"><u>Six Witty Wordplay Wins: Friends' Favorite Chat Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-your-twitch-content-access-top-5-tools/"><u>Streamlining Your Twitch Content Access: Top 5 Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-mystery-uncovered-deciphering-the-secrets-of-virtual-conversations/"><u>The Mystery Uncovered: Deciphering the Secrets of Virtual Conversations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782180-9781594776830-the-return-of-the-dead/"><u>The Return of the Dead | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-s23-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy S23 Tactical Edition without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

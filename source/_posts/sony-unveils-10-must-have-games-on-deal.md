@@ -1,7 +1,7 @@
 ---
 title: Sony Unveils 10 Must-Have Games on Deal
-date: 2024-12-01T06:03:37.357Z
-updated: 2024-12-05T02:52:51.730Z
+date: 2024-12-09T02:37:55.717Z
+updated: 2024-12-11T01:43:47.656Z
 tags:
   - games
 categories:
@@ -29,25 +29,21 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Deathloop
 
  Deathloop is 75% off, which is a massive saving for a Game of the Year nominee. If you like first-person shooters and the movie Groundhog Day, you will most likely love Deathloop. You may be thinking that that’s a strange combination of things, and you wouldn’t be wrong. But Deathloop is an action-packed adventure that is puzzling, hilarious, and well worth $14.99.
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Little Nightmares 1 & 2
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Unravel Two
@@ -83,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
 
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
@@ -100,7 +100,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
@@ -122,20 +122,14 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-audiovisual-updates-integrating-sounds-with-statuses/"><u>[New] 2024 Approved Audiovisual Updates Integrating Sounds with Statuses</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-firefoxvidrecorder-plugins-for-2024/"><u>[New] FirefoxVidRecorder Plugins for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-ai-software-effortless-professional-email-creation-with-chatgpt-integration-and-inbox-summarization/"><u>Discover the Best AI Software: Effortless Professional Email Creation with ChatGPT Integration & Inbox Summarization</u></a></li>
-<li><a href="https://games-able.techidaily.com/googling-vs-steaming-games-the-distinct-paths-explored/"><u>Googling vs Steaming Games: The Distinct Paths Explored</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-spark-10-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Spark 10 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/journey-through-digital-realms-with-these-games/"><u>Journey Through Digital Realms with These Games</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-master-your-setlist-top-dj-audio-repositories/"><u>New 2024 Approved Master Your Setlist Top DJ Audio Repositories</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-arduino-uno-driver-challenges-under-windows-environment/"><u>Overcoming Arduino Uno Driver Challenges Under Windows Environment</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-handheld-accessories-guide-the-nintendo-switch-select/"><u>Premium Handheld Accessories Guide – The Nintendo Switch Select</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-select-of-6-diverse-video-games/"><u>Prime Select of 6 Diverse Video Games</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sealing-the-gap-fixing-steam-play-on-windows-pcs/"><u>Sealing the Gap: Fixing Steam Play on Windows PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/silent-play-the-guide-to-noiseless-xbox/"><u>Silent Play: The Guide to Noiseless Xbox</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-consider-mend-or-substitute-an-ailing-console/"><u>Steps to Consider: Mend or Substitute an Ailing Console</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-comparison-of-best-vob-to-avi-convertors-on-windows-latest-update-included/"><u>Ultimate Comparison of Best VOB to AVI Convertors on Windows, Latest Update Included</u></a></li>
-<li><a href="https://games-able.techidaily.com/your-step-by-step-journey-into-twitchs-mobile-world/"><u>Your Step-by-Step Journey Into Twitch's Mobile World</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-techniques-for-simplifying-screen-capture-in-os-x/"><u>[New] 2024 Approved Advanced Techniques for Simplifying Screen Capture in OS X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shutter-excellence-roundup-top-6-incredible-4k-dslrs/"><u>[Updated] Shutter Excellence Roundup Top 6 Incredible 4K DSLRs</u></a></li>
+<li><a href="https://games-able.techidaily.com/constraining-background-checks-by-game-bar-in-windows/"><u>Constraining Background Checks by Game Bar in Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/highpoint-masterpiece-suite/"><u>Highpoint Masterpiece Suite</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-migrate-android-to-linux-platforms/"><u>How to Migrate Android to Linux Platforms</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-sabrents-1tb-rocket-nano-ssd-m2-2242-setting-the-benchmark-in-miniaturized-memory-drives/"><u>In-Depth Analysis: Sabrent's 1TB Rocket Nano SSD (M.2 2242) - Setting the Benchmark in Miniaturized Memory Drives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovation-at-play-the-best-professional-360-degree-cameras-2023-update/"><u>Innovation at Play The Best Professional 360-Degree Cameras - 2023 Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstating-playstation-plus-membership/"><u>Reinstating PlayStation Plus Membership</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-is-my-ping-so-high-how-to-get-the-best-ping-rate/"><u>Why Is My Ping So High? How to Get the Best Ping Rate</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Sharing Live Gaming Sessions From Xbox to Discord
-date: 2024-11-28T02:56:00.918Z
-updated: 2024-12-04T22:00:11.422Z
+date: 2024-12-04T20:42:41.023Z
+updated: 2024-12-10T16:10:20.806Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Need to Know About Discord on Xbox
 
@@ -47,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 ![A screenshot of the Account settings available on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linked-social-accounts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * From here, find the**Discord** tab and select**Link** .
 
 ![A screenshot of the Linked Social Accounts settings on Xbox Series X with Discord highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/link-discord.jpg)
@@ -57,16 +65,12 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 ![A screenshot of the Microsoft Edge application on Xbox Series X highlighting Discord authorisation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/authorize.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With permission given for your Discord and Xbox accounts to share information, you can access all the supported Discord features available on Xbox Series X|S.
 
  However, while the features for Discord on Xbox are plentiful, it's best to support your experience of Discord on Xbox with the official Discord app. If you want to[find and join some of the best Discord Servers](https://www.makeuseof.com/tag/how-to-find-best-discord-servers/) or even manage your servers and accounts, you're best doing so on the Discord app: it is not supported on Xbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Stream Games Using Discord on Xbox
 
@@ -83,29 +87,25 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 ![A screenshot of the available Discord Voice Channels for an Xbox account on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/discord-voice-channels.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * From here, select**Stream your game** .
 
 ![A screenshot of the Guide menu options for a Discord Voice Channel on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/start-streaming-initial.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Choose your streaming preferences by altering**Stream settings** .
 * Finally, select**Start streaming** .
 
 ![A screenshot of the Stream Settings for Discord on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stream-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with**Start streaming** selected, Discord will stream any game you play directly to the Discord Voice Channel of your choice. You can even alter your**Stream settings** throughout the stream by re-entering the**Discord** menu on the**Parties & chats** screen.
 
  However, some aspects of your**Stream settings** are locked behind Discord's Nitro paid service, so if you want to stream in a higher resolution than 720p, you'll have to pay for the privilege. But even with this hindrance, streaming to Discord from your Xbox takes mere minutes and feels completely intuitive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Streaming Gameplay Easy With Discord and Xbox
@@ -129,21 +129,22 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-capture-perfection-freemacrecorder/"><u>[New] Capture Perfection FreeMacRecorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-top-10-high-quality-no-cost-recording-tools-for-2024/"><u>[New] Ultimate Guide Top 10 High-Quality, No-Cost Recording Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-master-your-mp3-ultimate-guide-to-youtube-converters/"><u>[Updated] Master Your MP3 Ultimate Guide to YouTube Converters</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-xs-how-to-unlock-a-disabled-apple-iphone-xs-drfone-by-drfone-ios/"><u>Disabled Apple iPhone XS How to Unlock a Disabled Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/disconnecting-from-realms-a-world-recovery-plan/"><u>Disconnecting From Realms: A World Recovery Plan</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-deal-exceptional-magsafe-compatible-wallet-thats-not-from-apple-or-anker-exclusive-zdnet-insight/"><u>Discover the Ultimate Deal: Exceptional MagSafe Compatible Wallet That's Not From Apple or Anker | Exclusive ZDNET Insight</u></a></li>
-<li><a href="https://games-able.techidaily.com/dispatching-fixed-status-on-roblox-error-262/"><u>Dispatching Fixed Status on Roblox Error 262</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/te-your-channels-popularity-with-12-key-growth-techniques-for-2024/"><u>Elevate Your Channel's Popularity with 12 Key Growth Techniques for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/marvels-spider-man-2-mastering-preorder-strategies/"><u>Marvel's Spider-Man 2: Mastering Preorder Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-playnite-viewing-switching-to-tv-fullscreen/"><u>Maximizing Playnite Viewing: Switching to TV Fullscreen</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/reinstatement-complete-code-cleared/"><u>Reinstatement Complete - Code Cleared</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-your-pcs-potential-with-atlasos/"><u>Revive Your PC's Potential with AtlasOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-rectify-incomplete-game-shows-on-egl/"><u>Steps to Rectify Incomplete Game Shows on EGL</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-web-surfing-experience-reducing-networks-delay/"><u>Streamlining Web Surfing Experience: Reducing Network's Delay</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-6-essential-video-dubbing-tools-for-pc-users-free-and-paid/"><u>Updated In 2024, 6 Essential Video Dubbing Tools for PC Users - Free and Paid</u></a></li>
+<li><a href="https://driver-error.techidaily.com/irql-solved-win11-blue-screen-of-death/"><u>[Irql] Solved: Win11 Blue Screen of Death</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-from-zero-to-profit-beginners-guide-on-periscope-earning/"><u>[New] In 2024, From Zero to Profit Beginner’s Guide on Periscope Earning</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-world-of-youtube-editing-using-finalcut-pro/"><u>[Updated] Navigating the World of YouTube Editing Using FinalCut Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-top-non-nvidia-gpus-for-gaming/"><u>Exploring Top Non-NVIDIA GPUs for Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/fleeting-funfare-limited-time-cheat-codes/"><u>Fleeting Funfare: Limited-Time Cheat Codes</u></a></li>
+<li><a href="https://games-able.techidaily.com/freedom-to-play-essential-switch-ftp-games/"><u>Freedom to Play: Essential Switch FTP Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/handling-game-pass-premium-hike-quick-and-easy-ways/"><u>Handling Game Pass Premium Hike - Quick & Easy Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-apply-a-fan-translation-patch-to-a-rom/"><u>How to Apply a Fan Translation Patch to a ROM</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-8-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 8?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78t-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78t to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-poco-m6-pro-4g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Poco M6 Pro 4G Phone Network-Ready</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/peak-performances-in-oly-x-cross-2022/"><u>Peak Performances in Oly X-Cross 2022</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-self-care-how-amazon-halo-redefines-personal-health-monitoring/"><u>Revolutionizing Self-Care: How Amazon Halo Redefines Personal Health Monitoring</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-shopping-affordable-vr-headsets-rated/"><u>Smart Shopping: Affordable VR Headsets Rated</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-dominance-versus-gogs-niche-marketplace-role/"><u>Steam's Dominance Versus GOG's Niche Marketplace Role</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-subscribers-guide-psplus-or-xbgplus/"><u>The Ultimate Subscriber's Guide: PS+ or XbG+?</u></a></li>
 </ul></div>
 

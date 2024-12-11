@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming: Steam's New Guidelines on AI"
-date: 2024-11-30T17:09:41.969Z
-updated: 2024-12-04T18:55:03.755Z
+date: 2024-12-10T04:24:54.713Z
+updated: 2024-12-11T00:32:59.961Z
 tags:
   - games
 categories:
@@ -20,13 +20,17 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [Steam Takes a Softer Stance on Games Using AI](#steam-takes-a-softer-stance-on-games-using-ai)
 * [How Steam's AI Games Policy Could Affect Gamers](#how-steam-39-s-ai-games-policy-could-affect-gamers)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 * It will be up to players to report illegal AI content in games using a feature in the in-game overlay.
 
  While Steam initially took a cautious approach to publishing games using generative AI, it has now announced guidelines that will see the company "release the vast majority of games that use it". But what do these new rules on AI games mean for gamers?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Steam Takes a Softer Stance on Games Using AI
 
@@ -57,16 +65,12 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 ![artificial intelligence tag on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/artificial-intelligence-tag-on-steam.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While many games use AI systems to make non-playable characters (NPCs) and enemies responsive, generative AI is a newer form of AI that involves generating text, images, video, audio, and even code. To learn more, read[our guide to generative AI](https://www.makeuseof.com/what-is-generative-ai/) .
 
  Steam already has[an "Artificial Intelligence" tag](https://store.steampowered.com/tags/en/Artificial+Intelligence?flavor=contenthub%5Fall) for games, but many of these existing titles use AI in the more traditional sense. So what do Steam's new guidelines mean for the average gamer?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Gamers Will Have More Games to Choose From on Steam
 
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
  But with the wide array of capabilities of generative AI, gamers will likely see an increase in the variety of titles on offer. Especially from smaller studios that would be unable to publish games due to their small team size.
 
  We will also likely see developers using generative AI in creative ways, but this is not guaranteed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Gamers May See a Rise in Low-Quality AI Games
 
@@ -90,13 +90,13 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
  Luckily, you_can_ [request a refund on Steam](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) . But you will need to do this within 14 days from purchase, and you can't have played the game for more than two hours.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Gamers Will Need to Report Illegal AI Content
 
 ![steam window on a pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/shutterstock_357785195.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Image Credit: g0d4ather/[Shutterstock](https://www.shutterstock.com/image-photo/saransk-russia-january-03-2016-steam-357785195)
 
@@ -131,21 +131,18 @@ thumbnail: https://thmb.techidaily.com/170a02146718886a24f76eaa0c0aba6ab58e23ece
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-choreographing-spellbinding-short-films/"><u>[Updated] In 2024, Choreographing Spellbinding Short Films</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gourmet-gems-7-tips-to-transform-your-kitchen-cinematography/"><u>2024 Approved Gourmet Gems 7 Tips to Transform Your Kitchen Cinematography</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/alderon-studios-exposes-complete-system-failures-inferior-quality-from-intels-13th-and-14th-generation-processors/"><u>Alderon Studios Exposes Complete System Failures: Inferior Quality From Intel's 13Th & 14Th Generation Processors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-these-9-off-path-ways-of-using-chatgpt-a-stepping-stone-to-financial-success/"><u>Are These 9 Off-Path Ways of Using ChatGPT a Stepping Stone to Financial Success?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cryptocurrency-essentials-beginners-handbook-unveiling-the-digital-asset-world/"><u>Cryptocurrency Essentials: Beginner's Handbook - Unveiling the Digital Asset World</u></a></li>
-<li><a href="https://os-tips.techidaily.com/fixing-stuck-screen-orientation-on-ios-devices-quick-guide/"><u>Fixing Stuck Screen Orientation on iOS Devices - Quick Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975715327-get-the-newest-amd-radeon-rx-amoledo-470-graphics-card-driver-software-for-your-pc-quick-and-easy/"><u>Get the Newest AMD Radeon RX Amoledo 470 Graphics Card Driver Software for Your PC, Quick & Easy!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-vivo-y17s-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Vivo Y17s</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-connect-a-ps5-controller-to-your-phone/"><u>How to Connect a PS5 Controller to Your Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/managing-twitch-participants-shut-down-and-welcome-back/"><u>Managing Twitch Participants: Shut Down & Welcome Back</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-latest-app-a-game-changer-in-gaming-realm/"><u>Nvidia's Latest App: A Game Changer in Gaming Realm</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-your-content-time-stamping-in-online-vids-for-2024/"><u>Perfecting Your Content Time Stamping in Online Vids for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-to-fix-steam-big-picture-errors/"><u>Solutions to Fix Steam Big Picture Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-tech-how-to-connect-your-xbox-one/"><u>Streamline Tech: How to Connect Your Xbox One</u></a></li>
-<li><a href="https://games-able.techidaily.com/tall-titans-top-seating-choices-for-games/"><u>Tall Titans' Top Seating Choices for Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-5-decisions-why-invest-in-old-school-portables/"><u>Ultimate 5 Decisions: Why Invest in Old-School Portables</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-google-meetings-archive/"><u>[New] 2024 Approved Google Meetings Archive</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-jokejigsaw-crafting-comedy-graphics-for-2024/"><u>[New] JokeJigsaw Crafting Comedy Graphics for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-boosting-yi-4k-action-recording-accessory-musts/"><u>[Updated] Boosting YI 4K Action Recording Accessory Musts</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1-professional-multicam-capture-app-manycam-leading-live-streaming-and-remote-webcams/"><u>1. Professional Multicam Capture App - ManyCam: Leading Live Streaming and Remote Webcams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-boost-your-fb-ads-strategy-get-free-video-making-kit/"><u>2024 Approved Boost Your FB Ads Strategy Get Free Video-Making Kit</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/boost-your-pcs-speed-on-windows-11-by-turning-off-non-essential-boot-programs/"><u>Boost Your PC's Speed on Windows 11 by Turning Off Non-Essential Boot Programs</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/how-can-you-resolve-issues-of-unpredictable-reboots-and-memory-glitches-expert-advice-from-yl-computing/"><u>How Can You Resolve Issues of Unpredictable Reboots & Memory Glitches? Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-revolutionary-rendition-of-recording-link/"><u>In 2024, Revolutionary Rendition of Recording Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/momentous-matchups-temporary-gaming-grants/"><u>Momentous Matchups: Temporary Gaming Grants</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-144hz-monitors-enhanced-gameplay-experience/"><u>Prime 144Hz Monitors - Enhanced Gameplay Experience</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-13-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 13 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/tranquil-interludes-unlock-idle-games/"><u>Tranquil Interludes: Unlock Idle Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-creativity-in-chess-with-these-6-new-apps/"><u>Unleash Creativity in Chess with These 6 New Apps</u></a></li>
 </ul></div>
 

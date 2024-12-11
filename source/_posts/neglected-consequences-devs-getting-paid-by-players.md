@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-11-28T23:23:29.268Z
-updated: 2024-12-04T16:13:48.174Z
+date: 2024-12-07T00:14:33.203Z
+updated: 2024-12-11T02:42:47.938Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Who’s Suggesting We Tip Game Developers?
 
  In April 2024, Mike Ybarra—former President of Blizzard Entertainment—posted the following on X (formerly Twitter):
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  He implied that an in-game option might encourage players to reward the developer on completion of a game, when they’re most engaged with it.
 
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Crowdfunding is also a popular revenue source, at the opposite end of a game’s lifecycle. Hollow Knight raised around $40,000 from just over 2,000 backers via Kickstarter. Given the game’s success, this seems like quite a small amount, but a fundraising campaign can prove an idea is good and provide just enough capital to get started.
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Negative Effects of Tipping Culture
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,19 +124,24 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>[New] 2024 Approved Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-empowering-cinematic-experiences/"><u>[Updated] The Ultimate List Empowering Cinematic Experiences</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-toontown-full-analysis-and-tutorial-24-edition-for-2024/"><u>[Updated] ToonTown Full Analysis & Tutorial '24 Edition for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-whip-up-funny-images-in-adobe-design-for-2024/"><u>[Updated] Whip Up Funny Images in Adobe Design for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-decipher-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>2024 Approved Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469204230-effortlessly-reappear-your-missing-alerts-on-iphone-with-these-7-quick-fixes/"><u>Effortlessly Reappear Your Missing Alerts on iPhone with These 7 Quick Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/hive-sites-of-gaming-milestone-makers/"><u>Hive Sites of Gaming Milestone Makers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-curve-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Blaze Curve 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-honor-magic-6-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Honor Magic 6 Location | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/key-5-selling-points-retro-portable-game-houses/"><u>Key 5 Selling Points: Retro Portable Game Houses</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-make-fortnite-thumbnail-with-motion-blur/"><u>New 2024 Approved How to Make Fortnite Thumbnail with Motion Blur?</u></a></li>
-<li><a href="https://games-able.techidaily.com/preventing-crashes-repair-epic-games-launcher-windows/"><u>Preventing Crashes: Repair Epic Games Launcher Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-streamlining-dualsense-updates/"><u>The Ultimate Guide to Streamlining DualSense Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/x-ally-innovates-remedies-major-handheld-problem/"><u>X Ally Innovates, Remedies Major Handheld Problem</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-dive-deep-comprehensive-tutorial-for-launching-a-product-vlog-channel-for-2024/"><u>[New] Dive Deep Comprehensive Tutorial for Launching a Product Vlog Channel for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-utilizing-snap-camera-for-interactive-online-gatherings/"><u>[New] In 2024, Utilizing Snap Camera for Interactive Online Gatherings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-srt-from-a-securely-packed-zip-file/"><u>[Updated] Unlocking SRT From a Securely Packed Zip File</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-on-java-server-from-bedrock-using-geysermc/"><u>Connecting on Java Server From Bedrock Using GeyserMC</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-on-steam-these-9-reasons-make-a-difference/"><u>Elevate Your Gameplay on Steam: These 9 Reasons Make a Difference</u></a></li>
+<li><a href="https://games-able.techidaily.com/energy-efficiency-for-gaming-consoles/"><u>Energy Efficiency for Gaming Consoles</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fc2gyaoand/"><u>FC2、ニコニコ動画、Gyaoビデオダウンロード&エディットマスター: アップグレード版の方法を紹介します。</u></a></li>
+<li><a href="https://games-able.techidaily.com/fresh-interpretations-of-classic-video-games/"><u>Fresh Interpretations of Classic Video Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>In 2024, Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-g24-power-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola G24 Power won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://games-able.techidaily.com/racing-realism-at-499-moza-r5-bundle-awaits/"><u>Racing Realism at $499 - MOZA R5 Bundle Awaits</u></a></li>
+<li><a href="https://games-able.techidaily.com/resume-speed-on-xbox-sx-necessary-or-not/"><u>Résumé Speed on Xbox S/X - Necessary or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-facts-that-question-mobile-game-superiority/"><u>Seven Facts That Question Mobile Game Superiority</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free/"><u>Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-setting-up-auto-gpt-on-your-ubuntu-system/"><u>Step-by-Step Tutorial for Setting up Auto-GPT on Your Ubuntu System</u></a></li>
+<li><a href="https://games-able.techidaily.com/supply-and-demand-the-new-ps5-price-predictions/"><u>Supply and Demand: The New PS5 Price Predictions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-finest-virtual-experiences-7-mobile-mmos/"><u>The Finest Virtual Experiences: 7 Mobile MMOs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-pioneer-bdr-xs06-portability-without-compromise-on-performance-in-high-quality-dvd-burning/"><u>The Pioneer BDR-XS06 - Portability Without Compromise on Performance in High-Quality DVD Burning</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
 

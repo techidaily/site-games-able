@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Fine-Tuning Your Steam Deck's Input Devices for Better Typing
-date: 2024-12-01T02:35:38.102Z
-updated: 2024-12-04T23:44:10.262Z
+date: 2024-12-03T20:46:44.499Z
+updated: 2024-12-10T19:42:44.407Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ Here’s how to bring up the Steam Deck in various scenarios.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Bring Up the Steam Deck Keyboard In-Game
 
  If you need to type in a text field while in-game, selecting the field will usually bring up the Steam Deck's keyboard. Such is the case when renaming a colonist in “RimWorld”.
@@ -32,7 +36,7 @@ Here’s how to bring up the Steam Deck in various scenarios.
  First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard in SteamOS
@@ -40,6 +44,10 @@ Here’s how to bring up the Steam Deck in various scenarios.
  If you’re beating your head against your desk and screaming aloud, “Why is the Steam Deck keyboard not appearing when I press the**Steam Button** and**X** in SteamOS,” let me save you the additional headache. The Steam Deck keyboard shortcut does not work in SteamOS so long as a text field is present on-screen (as of August 2023). Whether this is a bug or a feature yet to be implemented is unknown at this time.
 
  But you don’t need to use this button combo anyway. To bring up the Steam Deck keyboard in SteamOS, select the text field where you want to type. The Steam Deck keyboard automatically appears every time. See an example below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Bring Up the Steam Deck Keyboard in Steam Desktop
 
@@ -51,31 +59,23 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
  The Steam Deck keyboard will not appear in Desktop Mode if the Steam Client isn’t running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Effortlessly Bring Up the Steam Deck’s Keyboard in SteamOS, Desktop Mode, or In-Game
 
  The Steam Deck’s on-screen keyboard may seem like it acts a bit funky once you first use the Steam Deck. But once you learn the ins and outs of the Deck, the keyboard is at your beck and call whenever you need it!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Do You Use the Escape Command on Your Steam Deck Keyboard?
 
  Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
 
@@ -100,18 +100,18 @@ Here’s how to bring up the Steam Deck in various scenarios.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-symphony-of-shades-practical-color-utilization/"><u>[New] A Symphony of Shades Practical Color Utilization</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-enhanced-visual-fidelity-with-srgb/"><u>[New] Enhanced Visual Fidelity with Srgb</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-transforming-gaming-logs-alternatives-to-fbx-recording/"><u>[Updated] Transforming Gaming Logs Alternatives to FBX Recording</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-hdtvs-future-in-focus-new-samsung-ubd-k8500-insights/"><u>2024 Approved HDTV's Future in Focus - New Samsung UBD-K8500 Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/an-introduction-to-llama-2-and-its-real-world-benefits/"><u>An Introduction to Llama 2 & Its Real-World Benefits</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/discord-and-gaming-audio-integration-solutions-explored/"><u>Discord & Gaming Audio Integration: Solutions Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-your-play-constrain-xbox-game-bar-on-windows-pcs/"><u>Enhance Your Play: Constrain Xbox Game Bar on Windows PCs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-saturation-perfection-tool/"><u>In 2024, Saturation Perfection Tool</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-a78-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo A78? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016336803-lucidsound-ls3t-mic-malfunction-heres-your-step-by-step-guide-to-fixing-it/"><u>LucidSound LS3t Mic Malfunction? Here's Your Step-by-Step Guide to Fixing It!</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-choosing-a-stream-deck/"><u>Mastering the Art of Choosing a Stream Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-cost-efficiency-of-sonys-psplus-membership-program/"><u>The Cost Efficiency of Sony's PS+ Membership Program</u></a></li>
-<li><a href="https://games-able.techidaily.com/unpacking-edges-game-enhancement-capabilities/"><u>Unpacking Edge's Game Enhancement Capabilities</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-color-changes-11-essential-tips/"><u>[New] Mastering Color Changes 11 Essential Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-ifunny-meme-app-usage/"><u>[Updated] 2024 Approved Unveiling the Secrets of iFunny Meme App Usage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-insights-into-crafting-dynamic-youtube-shorts-templates/"><u>[Updated] Expert Insights Into Crafting Dynamic YouTube Shorts Templates</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-gimp-tutorial-mastering-filters-and-layers/"><u>2024 Approved GIMP Tutorial Mastering Filters & Layers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-meme-genius-with-kinemaster-skills-for-2024/"><u>Become a Meme Genius with KineMaster Skills for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-gaming-on-xbox-without-the-d-pad/"><u>Effortless Gaming on Xbox Without the D-Pad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software-for-2024/"><u>How to Record TV Shows on Windows PC with Free Video Recording Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-verbal-virtuoso-showdowns-for-chat-champions/"><u>Seven Verbal Virtuoso Showdowns for Chat Champions</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-system-jump-on-nvidias-new-rtx-trend/"><u>Should Your System Jump on Nvidia's New RTX Trend?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-repairing-your-webex-microphone-2024-edition/"><u>The Ultimate Guide to Repairing Your Webex Microphone - 2024 Edition</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-infinix-smart-7-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Infinix Smart 7 FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-7-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 7 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Festive Fun Folded: Sending Steam Games as Presents"
-date: 2024-09-04T21:49:18.980Z
-updated: 2024-09-05T21:49:18.980Z
+date: 2024-12-07T08:09:21.960Z
+updated: 2024-12-11T02:27:53.549Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 ---
 
 ## Festive Fun Folded: Sending Steam Games as Presents
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,18 +47,11 @@ Once you have all of that ready, follow the steps below:
 4. Then click**Purchase as a gift** .  
 ![Plants vs Zombies in Cart on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-3-10-46-pm.png)
 5. The next page will contain a window to find a list of your friends. Select the friend you want to send the game to.
+
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. You can schedule the gift’s delivery by clicking**Schedule delivery** . It’s great if you want someone to receive the gift on the first hour of their birthday or something similar.
 7. Select**Continue** to reach the personalization page. You can type in a message, but it’s not mandatory.  
 ![Leaving a note while gifting on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-01-24-at-2-59-29-pm.png)
@@ -66,12 +63,6 @@ Once you have all of that ready, follow the steps below:
 
  On the same Inventory page, there’s a menu in the top right, next to the large**Trade Offers** button under an ellipsis (**...**). Click it and select**View Gift History** to see all the gifts you’ve ever sent out.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Gift Duplicate Games on Steam
 
  In this instance, a “duplicate game” is one that you already have in your library but that you also have an extra license for.
@@ -84,28 +75,15 @@ Follow these instructions to gift a duplicate game on Steam:
 2. Choose one of the duplicate games from the resulting grid and click**Send Gift** on the right.  
 ![Duplicate games in Steam Inventory grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/duplicate-games-in-steam-inventory-grid.jpg)
 3. The next screen is for choosing how to send the gift. Select**Email my gift** option if the recipient isn’t a friend on Steam or select**Send my gift directly through Steam** to search through your friend list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Delivery method for duplicate games on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/delivery-method-for-duplicate-games-on-steam.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From then on, it’s almost the same as the regular steps. Except, of course, there’s no payment involved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Send Steam Keys Bought on Other Websites
 
  If a sale happens on another website outside of Steam, you can buy the game on that website and then send the Steam key to your gift recipient.
@@ -119,18 +97,21 @@ We’ll show you how to do this on Humble Bundle:
 1. Visit[humblebundle.com](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2031630/https://www.humblebundle.com/) and search for the game you want. Alternatively, you can select a pay-what-you-want game bundle by clicking**Bundles** or**Store** \>**On Sale** to find deals.  
 ![Humble Bundle displaying games on sale](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/humble-bundle-displaying-games-on-sale.png)
 2. Select a game and add it to your cart. When you’re done shopping, click the cart icon in the top-right corner of the website.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. When the checkout window appears, you can select if the purchase is a gift. Tick the box and enter the recipient’s email in the relevant field.
 4. Make your payments and checkout.
 
  These instructions are more or less the same across all websites that offer a similar service to Humble Bundle.
 
  Alternatively, you could just copy the Steam activation key and send it to someone you would like to gift it to. They’ll then have to follow the instructions outlined in our guide on[how to redeem a game key on Steam](https://www.makeuseof.com/how-to-redeem-game-key-on-steam/) before they can play the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send a Steam Gift Card
 
@@ -145,12 +126,6 @@ We’ll show you how to do this on Humble Bundle:
 4. Choose which gift card you’d like to send and choose a friend you want to send it to.  
 ![List of Steam gift cards on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-2024-02-06-at-11-21-08-am.png)
 5. Follow the on-screen steps to finish the payment.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This method only works for friends you’ve had on your friends list for at least three days. The recipient must have a Steam account; you can’t send Steam gift cards via email or through any other methods.
 
@@ -158,14 +133,11 @@ We’ll show you how to do this on Humble Bundle:
 
  That sums up all the ways to gift games to friends on Steam. Be careful not to fall for scams and only send gifts to people that you actually know.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +146,20 @@ We’ll show you how to do this on Humble Bundle:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-game-with-these-5-youtube-thumbnail-builders-for-2024/"><u>[New] Elevate Your Video Game with These 5 YouTube Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-comprehensive-guide-to-sound-in-powerpoint-presentations-for-2024/"><u>[Updated] Comprehensive Guide to Sound in PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-initiating-seamless-zoom-gatherings-for-2024/"><u>[Updated] Initiating Seamless Zoom Gatherings for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeos-video-segments-the-chapter-creation-handbook/"><u>[Updated] Vimeo's Video Segments The Chapter Creation Handbook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battle-of-timepieces-how-the-new-pixel-watch-compares-to-samsungs-galaxy-watch-5-pro-engadget/"><u>Battle of Timepieces: How the New Pixel Watch Compares to Samsung's Galaxy Watch 5 Pro | Engadget</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-appraisal-does-inshot-rule-in-video-edits-for-2024/"><u>In-Depth Appraisal Does InShot Rule in Video Edits for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/non-paid-competitive-gaming-the-six-best/"><u>Non-Paid, Competitive Gaming: The SIX Best</u></a></li>
+<li><a href="https://games-able.techidaily.com/permanently-erase-your-ps5-user-data/"><u>Permanently Erase Your PS5 User Data</u></a></li>
+<li><a href="https://games-able.techidaily.com/recharge-the-joy-of-gaming-with-a-fixed-xbox-pad/"><u>Recharge the Joy of Gaming with a Fixed Xbox Pad</u></a></li>
+<li><a href="https://games-able.techidaily.com/time-travelling-to-90s-with-pokemon-mobile-apps/"><u>Time Travelling to 90S with Pokémon Mobile Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-how-chatbots-engage-in-humanlike-interactions-the-technology-explained/"><u>Unveiling How Chatbots Engage in Humanlike Interactions: The Technology Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-in-gaming-top-economical-motherboards-listed/"><u>Value in Gaming: Top Economical Motherboards Listed</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-budget-friendly-journey-through-the-world-of-1440p-monitors/"><u>Your Budget-Friendly Journey Through the World of 1440P Monitors</u></a></li>
+</ul></div>
 

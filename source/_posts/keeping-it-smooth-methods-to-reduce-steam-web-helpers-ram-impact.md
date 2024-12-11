@@ -1,7 +1,7 @@
 ---
 title: "Keeping It Smooth: Methods to Reduce Steam Web Helper's RAM Impact"
-date: 2024-12-03T21:03:42.574Z
-updated: 2024-12-04T22:29:12.007Z
+date: 2024-12-10T07:27:42.585Z
+updated: 2024-12-10T22:24:58.395Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Steam's multiple components, including the Steam Client WebHelper, can consume a lot of memory and impact CPU performance.
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Steam does a lot, aside from just storing your games. Sometimes, it does too many things, making your system slow down. So, have you noticed this happening to your computer? Or are you getting errors saying you're running out of memory when using Steam?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does Steam Use So Much Memory?
@@ -43,16 +39,12 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  On top of consuming plenty of memory in the long run, too many of these instances can even impact your CPU performance. Thankfully, ta few solutions exist for too many WebHelper instances running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Offline Mode
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
@@ -62,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -97,12 +93,16 @@ steam://open/minigameslist
 
  This alone will cut down on several instances of the Steam Client WebHelper. To return to the default Steam look, select any option under the**View** menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Create a Custom Batch File for Minimal Steam
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
@@ -139,22 +139,21 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-amplify-engagement-essential-tips-for-tiktok-unbox-videos/"><u>[New] In 2024, Amplify Engagement Essential Tips for TikTok Unbox Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-step-into-the-future-samsungs-new-k850-ultrablade-unveiled-for-2024/"><u>[New] Step Into the Future - Samsung's New K850 UltraBlade Unveiled for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-from-novice-to-expert-a-comprehensible-guide-to-final-cut-pro/"><u>[Updated] In 2024, From Novice to Expert A Comprehensible Guide to Final Cut Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-incorporating-speech-recognition-into-slides/"><u>[Updated] In 2024, Incorporating Speech Recognition Into Slides</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-downloads-for-mac-easy-steps-included/"><u>[Updated] Snapchat Downloads for Mac - Easy Steps Included</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-superior-storytellers-sanctuary/"><u>[Updated] Superior Storyteller's Sanctuary</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-every-game-mastering-button-mappings-on-android/"><u>Conquer Every Game: Mastering Button Mappings on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/download-and-liberate-minecraft-realm-worlds/"><u>Download and Liberate Minecraft Realm Worlds</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-ps5-gear-for-maximum-performance/"><u>Essential PS5 Gear for Maximum Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-pi-compare-batocera-and-retropie-in-gaming-wars/"><u>Game on, Pi! Compare Batocera and RetroPie in Gaming Wars</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-v30-lite-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo V30 Lite 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://games-able.techidaily.com/pro-level-cpu-cooling-master-these-8-factors-before-purchase/"><u>Pro-Level CPU Cooling: Master These 8 Factors Before Purchase</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscover-playstation-expert-selection-of-30-ps3-emulators-for-pc/"><u>Rediscover PlayStation: Expert Selection of 30 PS3 Emulators for PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-your-steams-non-responsive-remote-gameplay/"><u>Reviving Your Steam's Non-Responsive Remote Gameplay</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-workstations-asus-rog-allys-cutting-edge-laptop-docks-24/"><u>The Future of Workstations - ASUS ROG Ally's Cutting-Edge Laptop Docks, '24</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/top-5-popular-white-backdrop-fashion-apps-your-ultimate-guide/"><u>Top 5 Popular White Backdrop Fashion Apps : Your Ultimate Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-your-videos-with-youtube-studios-editing-mastery/"><u>[New] 2024 Approved Elevate Your Videos with YouTube Studio's Editing Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-proving-ground-discovering-the-top-10-reel-making-apps/"><u>[New] 2024 Approved Proving Ground Discovering the Top 10 Reel-Making Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-organizing-virtual-gatherings-syncing-slack-with-filmoras-features-for-2024/"><u>[New] Organizing Virtual Gatherings Syncing Slack with Filmora's Features for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-continuous-media-gatherers/"><u>[Updated] 2024 Approved Continuous Media Gatherers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-look-at-the-updated-demons-souls-stunning-art-meets-timeless-gameplay/"><u>A Look at the Updated Demon's Souls: Stunning Art Meets Timeless Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-text-based-to-rich-immersive-online-realms/"><u>From Text-Based to Rich, Immersive Online Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-functionality-on-macos-sonoma-by-apple/"><u>Game Mode Functionality on macOS Sonoma by Apple</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-beginning-a-successful-item-evaluation-video-series/"><u>In 2024, Beginning a Successful Item Evaluation Video Series</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-learning-luminaries-leading-ed-tutorials-online/"><u>In 2024, Learning Luminaries Leading Ed Tutorials Online</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/macrium-reflect-free-affidabilita-e-proposte-innovative/"><u>Macrium Reflect Free - Affidabilità E Proposte Innovative</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>New Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
+<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-cheap-240hz-panels/"><u>Savvy Shoppers' Guide to Cheap 240Hz Panels</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-at-a-steep-price-i-opt-out-of-ea/"><u>Subscribing at a Steep Price: I Opt-Out of EA</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscription-substance-vs-collectors-contentment/"><u>Subscription Substance Vs. Collector's Contentment</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-iphone-and-ipad-game-treasures-with-arcade-subscription/"><u>Unveiling iPhone and iPad Game Treasures with Arcade Subscription</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-process-of-renaming-in-riot-games/"><u>Unveiling the Process of Renaming in Riot Games</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Premium Games: Can MTs Be Justified?"
-date: 2024-11-24T04:13:57.953Z
-updated: 2024-11-24T16:39:42.124Z
+date: 2024-12-06T06:48:07.172Z
+updated: 2024-12-11T02:56:19.736Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Why Do Microtransactions Exist in Video Games At All?](#why-do-microtransactions-exist-in-video-games-at-all)
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 * Microtransactions can lead to a bloated gaming experience and may hinder the overall enjoyment of a premium game, making them unnecessary.
 
  Microtransactions (also known as MTX) have been popularized mainly by freemium games. They are optional payments that help game developers and publishers make money from games they otherwise might not have. However, microtransactions have increasingly snuck into premium, paid games. Is this trend, perhaps, justifiable?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Do Microtransactions Exist in Video Games At All?
 
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
  Now, they have become a core monetization component of freemium games. Some free games have based their business model on dynamic seasonal content called battle passes, which works on a subscription-type model. Fortnite and Call of Duty: Warzone are the most famous examples. For these free games, it might be the only way to keep the games free.
 
 But what about premium games? Should they have microtransactions?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Microtransactions Are Appearing in Premium Games
 
@@ -74,7 +70,7 @@ But what about premium games? Should they have microtransactions?
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are Microtransactions Good for the Gaming Industry?
@@ -84,6 +80,10 @@ But what about premium games? Should they have microtransactions?
  Also, without microtransactions, free games would not exist or would have little to no support. In that sense, microtransactions can be positive since they give gamers an opportunity to support the industry. But if we’re being honest, putting them in a game you’ve already paid for in full doesn’t help anybody but the company.
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Paying More to Experience Less
 
@@ -98,7 +98,7 @@ But what about premium games? Should they have microtransactions?
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
@@ -111,10 +111,6 @@ But what about premium games? Should they have microtransactions?
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
@@ -122,6 +118,10 @@ But what about premium games? Should they have microtransactions?
  It’s downright dishonest to create a core game mechanic and exclude it as an option in the base game. Because you’ve spent $40 already, you might as well spend $10 more to enjoy the game.
 
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
 
@@ -146,19 +146,21 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>[New] 2024 Approved Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-approach-to-professional-video-sharing-for-2024/"><u>[Updated] A Step-by-Step Approach to Professional Video Sharing for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-assemble-ppt-narratives-into-video-for-2024/"><u>[Updated] Assemble PPT Narratives Into Video for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-twitter-management-software-expert-recommendations/"><u>Essential Twitter Management Software – Expert Recommendations</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-lava-yuva-3-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Lava Yuva 3</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-narzo-n55-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme Narzo N55</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-have-too-many-tiktok-drafts-learn-how-to-edit-them/"><u>In 2024, Have Too Many TikTok Drafts? Learn How to Edit Them</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-gaming-data-insights-into-steam-stats-and-achievements/"><u>Mastering Your Gaming Data: Insights Into Steam Stats and Achievements</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-storage-devices-for-ps5/"><u>Optimal Storage Devices for PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playgrounds-phones-or-larger-devices/"><u>Portable Playgrounds: Phones or Larger Devices?</u></a></li>
-<li><a href="https://games-able.techidaily.com/rising-above-vr-expenses-the-story-of-four-financial-challenges/"><u>Rising Above VR Expenses: The Story of Four Financial Challenges</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-dual-booting-steam-deck/"><u>Unveiling the Secrets of Dual Booting Steam Deck</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-make-your-own-cartoons-top-10-mobile-video-editors/"><u>Updated 2024 Approved Make Your Own Cartoons Top 10 Mobile Video Editors</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-deciphering-youtubes-shorts-funding-mechanism/"><u>[New] 2024 Approved Deciphering YouTube's Shorts Funding Mechanism</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/enerate-interest-making-your-own-youtube-intros-for-2024/"><u>[New] Generate Interest Making Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-facing-the-falls-top-action-cameras-2023/"><u>[Updated] 2024 Approved Facing the Falls Top Action Cameras 2023</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-guide-to-free-online-video-tools-for-all/"><u>[Updated] 2024 Approved The Ultimate Guide to Free Online Video Tools for All</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-apex-level-clarity-convert-high-res-videos-for-2024/"><u>[Updated] Apex-Level Clarity Convert High-Res Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-visualize-images-mastering-photo-editing-tools/"><u>[Updated] In 2024, Visualize Images Mastering Photo Editing Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-fixes-for-elusive-steam-application-accessibility/"><u>Easy Fixes for Elusive Steam Application Accessibility</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y77t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y77t to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-showcase-spotlight-lenovo-legion-gos-edge/"><u>IFA Showcase Spotlight: Lenovo Legion Go's Edge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-groupwatcher-pro-hd-downloader/"><u>In 2024, GroupWatcher Pro HD Downloader</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-10-must-have-accessories-for-sj4000/"><u>In 2024, Top 10 Must Have Accessories for SJ4000</u></a></li>
+<li><a href="https://games-able.techidaily.com/infinite-options-universal-game-availability/"><u>Infinite Options: Universal Game Availability</u></a></li>
+<li><a href="https://games-able.techidaily.com/superior-165hz-monitor-selection/"><u>Superior 165Hz Monitor Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-feet-sweat-play-the-7-top-sports-games-iosandroid/"><u>Swift Feet, Sweat, Play: The 7 Top Sports Games (iOS/Android)</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gameplay-with-ea-plays-multitude-of-features-on-ps5-console/"><u>Transform Your Gameplay with EA Play's Multitude of Features on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwanted-virtual-goods-refunding-your-fortnite-costs/"><u>Unwanted Virtual Goods? Refunding Your Fortnite Costs</u></a></li>
 </ul></div>
 

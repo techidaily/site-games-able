@@ -1,7 +1,7 @@
 ---
 title: "Ignite the Passion: Expand on The Fallout Series"
-date: 2024-11-18T03:47:29.046Z
-updated: 2024-11-25T13:21:31.096Z
+date: 2024-12-10T05:55:17.282Z
+updated: 2024-12-11T02:13:37.739Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -109,18 +109,18 @@ thumbnail: https://thmb.techidaily.com/3d0c7b28b7640277a83e56148652cb264b53fd3e0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-exclusive-selection-of-top-hd-stream-cameras/"><u>[New] 2024 Approved Exclusive Selection of Top HD Stream Cameras</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-efficient-methods-for-compiling-songs-on-youtube/"><u>[New] In 2024, Discover Efficient Methods for Compiling Songs on YouTube</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube/"><u>[New] In-Depth Breakdown Stream Yourself Successfully via Zoom and YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-the-price-tag-on-sonys-playstation-plus/"><u>Dissecting the Price Tag on Sony’s PlayStation Plus</u></a></li>
-<li><a href="https://games-able.techidaily.com/engage-and-conquer-a-list-of-top-10-free-online-shooters-for-browsers/"><u>Engage and Conquer: A List of Top 10 Free Online Shooters for Browsers</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fix-guide-ralink-bluetooth-driver-compatibility-challenges-in-windows-11-systems/"><u>Fix Guide: Ralink Bluetooth Driver Compatibility Challenges in Windows 11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Hot 40 Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/keeping-secrets-in-xbox-series-xs-games/"><u>Keeping Secrets in Xbox Series X|S Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/manage-your-gaming-screenshots-like-a-pro/"><u>Manage Your Gaming Screenshots Like a Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-the-art-of-reviving-stuck-up-steam-software/"><u>Master the Art of Reviving Stuck-Up Steam Software</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11s-update-failure-code-0x80246007/"><u>Overcoming Windows 11'S Update Failure: Code 0X80246007</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-pads-for-extensive-gaming-sessions/"><u>Top Pads for Extensive Gaming Sessions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>[New] In 2024, Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elite-psd-blend-modes-showcase-for-2024/"><u>[Updated] Elite PSD Blend Modes Showcase for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mobile-editing-hacks-select-top-10-short-form-apps/"><u>[Updated] Mobile Editing Hacks Select Top 10 Short Form Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-smiles-and-laughs-app-download-for-2024/"><u>[Updated] Smiles & Laughs App Download for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>2024 Approved Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/best-compatible-video-editing-apps-for-tiktok-on-windows-for-2024/"><u>Best Compatible Video Editing Apps for TikTok on Windows for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/connecting-snes-and-n64-to-steam/"><u>Connecting SNES & N64 to Steam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-vidme-video-downloads-discovering-the-best-three-strategies-to-save-your-favorites/"><u>Effortless Vidme Video Downloads: Discovering the Best Three Strategies to Save Your Favorites!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tutorial-on-utilizing-googles-automatic-speech-transcription-for-2024/"><u>Expert Tutorial on Utilizing Google's Automatic Speech Transcription for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722900899672-how-students-can-snag-significant-savings-on-dell-products-your-step-by-step-blueprint/"><u>How Students Can Snag Significant Savings on Dell Products - Your Step-by-Step Blueprint</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-bring-up-the-keyboard-on-your-steam-deck/"><u>How to Bring Up the Keyboard on Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/instantaneous-storage-solutions-via-steam-device-cloning/"><u>Instantaneous Storage Solutions via Steam Device Cloning</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwrapping-windows-rust-steam-login-glitches/"><u>Unwrapping Windows-Rust Steam Login Glitches</u></a></li>
 </ul></div>
 

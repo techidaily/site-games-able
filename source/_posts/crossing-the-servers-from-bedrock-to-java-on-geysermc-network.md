@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Servers: From Bedrock to Java on GeyserMC Network"
-date: 2024-12-02T06:08:09.303Z
-updated: 2024-12-04T19:23:53.539Z
+date: 2024-12-04T09:29:31.759Z
+updated: 2024-12-10T16:00:56.200Z
 tags:
   - games
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?](#why-can-39-t-minecraft-bedrock-players-join-minecraft-java-servers-normally)
 * [How Minecraft Bedrock Edition Players Can Join Java Edition Servers](#how-minecraft-bedrock-edition-players-can-join-java-edition-servers)
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
@@ -78,34 +78,34 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
 ![Installing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-geyser-plugin-on-aternos.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, click on the small download icon to the very right of the most recent or compatible version.
 
  For your locally run server, head to[PaperMC.io](https://hangar.papermc.io/GeyserMC/Geyser) and download GeyserMC from there. In case you need to learn how to install the GeyserMC plugin, check out how to install plugins through[Bukkit](https://bukkit.fandom.com/wiki/Installing%5FPlugins) . If your existing server has a lot of mods already, you'll have to check for compatibility and the limitations of crossplaying between Java and Bedrock Edition
 
  Once that’s all done, you can now turn on and connect to your server in the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Join the Minecraft Java Server on Bedrock Edition
 
@@ -119,11 +119,11 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Limitations of the GeyserMC Mod
 
@@ -150,24 +150,21 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-framefusion-instagram-photo-fusion-across-oses/"><u>[Updated] 2024 Approved FrameFusion Instagram Photo Fusion Across OSes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[Updated] 2024 Approved The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-the-power-of-photoshops-3d-lut-filters/"><u>[Updated] Harnessing the Power of Photoshop's 3D LUT Filters</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unboxing-titans-of-youtube-the-most-popular/"><u>[Updated] Unboxing Titans of YouTube - The Most Popular</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/audiovisual-debut-breakdown-for-2024/"><u>Audiovisual Debut Breakdown for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-intels-advantage-in-the-battle-for-quality-gaming/"><u>Exploring Intel's Advantage in the Battle for Quality Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-twosome-style-top-15-companionable-phonesports/"><u>Game On, Twosome Style: Top 15 Companionable Phonesports</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-xr-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone XR</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-set-up-and-use-an-assist-controller-on-the-ps5/"><u>How to Set Up and Use an Assist Controller on the PS5</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-encore-list-top-pick-for-digital-music-tones/"><u>In 2024, The Encore List Top Pick for Digital Music Tones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-reno-8t-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Reno 8T 5G Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps-store-funding-and-purchasing-games/"><u>Mastering PS Store: Funding & Purchasing Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-m1m2-gaming-play-full-version-of-bg3-through-crossover/"><u>Maximize M1/M2 Gaming: Play Full Version of BG3 Through CrossOver</u></a></li>
-<li><a href="https://games-able.techidaily.com/pc-harmony-avoiding-wasted-money-on-incompatible-parts/"><u>PC Harmony: Avoiding Wasted Money on Incompatible Parts</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinnacle-hdmi-enhanced-gamers-mice-range/"><u>Pinnacle HDMI Enhanced Gamer's Mice Range</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-boards-recommended-for-next-gen-gaming-systems/"><u>Power Boards Recommended for Next Gen Gaming Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-f04-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy F04 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-oculus-app-crash-on-windows/"><u>Troubleshooting Oculus App Crash on Windows</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-8-platforms-for-linux-video-buffs/"><u>[New] In 2024, Top 8 Platforms for Linux Video Buffs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-isnapmaker-ios-and-macos-media-synthesis-tool-for-2024/"><u>[Updated] ISnapMaker IOS & macOS Media Synthesis Tool for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963328511-comprehensive-startech-usb-to-vga-solution-free-driver-downloads/"><u>Comprehensive StarTech USB-to-VGA Solution - FREE Driver Downloads!</u></a></li>
+<li><a href="https://games-able.techidaily.com/cut-through-the-chaff-identifying-authentic-gaming-ads/"><u>Cut Through the Chaff: Identifying Authentic Gaming Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discerning-genuine-from-fabricated-online-friendship-overtures/"><u>Discerning Genuine From Fabricated Online Friendship Overtures</u></a></li>
+<li><a href="https://games-able.techidaily.com/enablingdisabling-discords-in-game-modality/"><u>Enabling/Disabling Discord's In-Game Modality</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-gaining-extended-opera-use-and-nitro-access/"><u>Exclusive Guide to Gaining Extended Opera Use & Nitro Access</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo X100 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-honor-play-7t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor Play 7T Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-single-platform-gaming-in-apex-legends/"><u>In 2024, The Ultimate Guide to Single-Platform Gaming in Apex Legends</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-space-a-kids-guide-to-ps5-security-settings/"><u>Safe Space: A Kid’s Guide to PS5 Security Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/safeguarding-teens-on-discord-effective-parenting-tips/"><u>Safeguarding Teens on Discord: Effective Parenting Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharing-happiness-with-personalized-steam-gifts/"><u>Sharing Happiness with Personalized Steam Gifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-fiscal-gamut-exploring-premium-no-cost-steam-games/"><u>The Fiscal Gamut: Exploring Premium, No-Cost Steam Games</u></a></li>
 </ul></div>
 

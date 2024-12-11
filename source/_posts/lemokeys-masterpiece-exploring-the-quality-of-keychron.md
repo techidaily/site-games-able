@@ -1,7 +1,7 @@
 ---
 title: "Lemokey's Masterpiece: Exploring the Quality of Keychron"
-date: 2024-11-27T21:35:06.445Z
-updated: 2024-12-05T08:49:39.719Z
+date: 2024-12-03T18:23:19.237Z
+updated: 2024-12-10T16:17:24.808Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ![lemokey l3 keyboard in via customization software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/lemokey-l3-keyboard-in-via-customization-software.jpg)  
@@ -39,15 +35,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -140,6 +128,10 @@ No
 
 ![keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keycaps-removed-from-the-customizable-buttons-on-the-keychron-lemokey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  As I've said with other Keychron mechanical keyboard reviews, the extra 20 bucks is well worth it if you don't have a vast array of switches and keycaps you want to use. There's a choice of three Gateron Jupiter switches: Red (linear), Brown (tactile), and Banana (also tactile, but with more operating force and shorter travel).
@@ -172,17 +164,21 @@ No
 
  Inside the Lemokey L3 are multiple layers of sound-absorbing foam, which, along with the double-gasket mounted design, contribute to the smooth typing experience and warming typing sound.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery Life and Connectivity
 
  Battery life is another plus point for the Lemokey L3—though, given its weight, I strongly doubt you'll ever roam too far from a USB-C port or an outlet. The Lemokey L3 is rated for up to 200 hours while using 2.4GHz wireless, rising to a whopping 300 hours while using Bluetooth. I didn't track this precisely, but I never ran out of battery using either wireless mode.
 
 ![red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/red-light-on-one-of-the-touch-sensitive-buttons-of-the-keychron-lemokey-l3.jpg)
 
- Hannah Stryker / MakeUseOf
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Hannah Stryker / MakeUseOf
 
 ## Lemokey L3 Typing Experience
 
@@ -196,6 +192,10 @@ No
 
 ![back-of-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/back-of-the-keychron-lemokey-l3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hannah Stryker / MakeUseOf
 
  Even for someone who doesn't game competitively online, the L3's inputs are noticeably fast and accurate, and if you do frequent games like CS2 (formerly CS:GO), CoD Warzone or Modern Warfare, Overwatch, or any of the myriad first-person shooters, having your inputs registered rapidly is vital.
@@ -203,7 +203,7 @@ No
  The Lemokey L3 has a five-degree typing angle, which is comfortable for me but might not suit everyone. However, as the L3 doesn't have any integrated adjustment feet, you're stuck with it. You could grab the Lemokey L3 wrist rest from the Keychron site, but it was out of stock at the time of writing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customization With VIA
@@ -216,13 +216,13 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Hannah Stryker / MakeUseOf
 
  Still, the range of customization is always impressive. You can remap any key, including the media control knob, and VIA also gives you control of the Lemokey's south-facing RGB lighting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the Lemokey L3 a Good Gaming Keyboard?
 
@@ -236,11 +236,11 @@ No
 
 ![person-removing-a-keycap-from-the-keychron-lemokey-l3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/person-removing-a-keycap-from-the-keychron-lemokey-l3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/muo-recommended-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Lemokey L3
 
@@ -265,24 +265,22 @@ No
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-chronicles-of-triumph-ranking-the-ultimate-game-odysseys/"><u>[New] Chronicles of Triumph Ranking the Ultimate Game Odysseys</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[New] In 2024, Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-tips-for-perfected-framing-implementing-letterboxing-on-social-media/"><u>[New] Tips for Perfected Framing Implementing Letterboxing on Social Media</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-gain-popularity-power-secrets-to-staff-picked-videos-on-vimeo/"><u>[Updated] 2024 Approved Gain Popularity Power Secrets to Staff-Picked Videos on Vimeo</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>[Updated] Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[Updated] In 2024, Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
-<li><a href="https://games-able.techidaily.com/compatibility-switch-oled-and-vintage-docks/"><u>Compatibility: Switch OLED & Vintage Docks?</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-steams-playtime-analysis-a-deep-dive-into-data/"><u>Exploring Steam's Playtime Analysis: A Deep Dive Into Data</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-giants-growth-competitive-forces-at-play-industry-symposium-recap/"><u>Game Giants' Growth: Competitive Forces at Play! [Industry Symposium Recap]</u></a></li>
-<li><a href="https://techtrends.techidaily.com/new-to-streaming-here-are-the-most-puzzling-twitch-chat-trends-explained/"><u>New to Streaming? Here Are the Most Puzzling Twitch Chat Trends Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switch-online-price-analysis-required/"><u>Nintendo Switch Online Price Analysis Required</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/paramount-top-rated-vr-movies/"><u>Paramount Top-Rated VR Movies</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fix-for-degraded-gameplay-nintendo-switchs-joystick-changeout/"><u>Quick Fix for Degraded Gameplay: Nintendo Switch's Joystick Changeout</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-devices-in-harmony-clearing-cloud-connectivity/"><u>Steam Devices in Harmony: Clearing Cloud Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/taming-titles-load-time-woes-on-pc/"><u>Taming Title's Load Time Woes on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-of-ea-play-a-ps5-adventure/"><u>The Best of EA Play – A PS5 Adventure</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/the-insidious-discord-virus-comprehensive-removal-tactics-revealed-by-experttechie/"><u>The Insidious Discord Virus: Comprehensive Removal Tactics Revealed by ExpertTechie</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-for-undetected-games-on-steam-service/"><u>Troubleshooting for Undetected Games on Steam Service</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/yl-softwares-guide-to-preventing-cryptocurrency-deceptions-and-frauds/"><u>YL Software's Guide to Preventing Cryptocurrency Deceptions & Frauds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pros-choice-top-laptop-recording-tools-reviewed/"><u>[New] Pro's Choice Top Laptop Recording Tools Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-peeking-beyond-one-camera-limitations/"><u>[Updated] 2024 Approved Peeking Beyond One-Camera Limitations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-zoom-screen-casts/"><u>[Updated] 2024 Approved The Comprehensive Guide to Zoom Screen Casts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/aol-not-working-on-ios-overcome-the-hurdle-with-our-top-6-repair-tactics/"><u>AOL Not Working on iOS? Overcome the Hurdle With Our Top 6 Repair Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/gametime-gimmicks-ephemeral-power-boost-event/"><u>GameTime Gimmicks: Ephemeral Power Boost Event</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-on-macos-using-quick-actions-features-in-finder-insights-for-advanced-users/"><u>Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights for Advanced Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-have-hardware-for-ultimate-pc-games/"><u>Must-Have Hardware for Ultimate PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-enhance-gameplay-with-input-devices-86-chars/"><u>Nintendo Switch: Enhance Gameplay with Input Devices (86 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pairing-bluetooth-audio-with-ps5-console/"><u>Pairing Bluetooth Audio with PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/potential-hike-in-graphic-processing-unit-expenses/"><u>Potential Hike in Graphic Processing Unit Expenses?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-upgrade-how-to-get-the-newest-nvidia-drivers-for-your-geforce-rtx-1080-on-windows-10/"><u>Seamless Upgrade: How to Get the Newest NVIDIA Drivers for Your GeForce RTX 1080 on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-running-nes-on-linux-terminal/"><u>Step-by-Step: Running NES on Linux Terminal</u></a></li>
+<li><a href="https://games-able.techidaily.com/surprise-your-loved-ones-with-digital-games-via-steam/"><u>Surprise Your Loved Ones with Digital Games via Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-to-quickly-identify-your-steam-user-identifier/"><u>Tips to Quickly Identify Your Steam User Identifier</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-alienware-command-center/"><u>Troubleshooting Guide: Fixes for Non-Responsive Alienware Command Center</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-100-by-drfone-android/"><u>Universal Unlock Pattern for Honor 100</u></a></li>
 </ul></div>
 

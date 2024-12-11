@@ -1,7 +1,7 @@
 ---
 title: "Computex 2024: The Dawn of Advanced AI Tech"
-date: 2024-12-02T19:02:53.881Z
-updated: 2024-12-05T01:03:31.316Z
+date: 2024-12-05T17:27:10.400Z
+updated: 2024-12-10T20:42:28.010Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 * [Intel Lunar Lake](#intel-lunar-lake)
 * [Nvidia GeForce RTX AI Laptops](#nvidia-geforce-rtx-ai-laptops)
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 
 So, these are the best bits of AI hardware launched at Computex 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
@@ -50,7 +50,7 @@ So, these are the best bits of AI hardware launched at Computex 2024.
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Intel
@@ -60,6 +60,10 @@ Intel
 [Intel claims](https://www.intel.com/content/www/us/en/newsroom/news/intels-lunar-lake-processors-arriving-q3-2024.html#gs.93h4cy) Lunar Lake will deliver 1.4 times faster processing than a Snapdragon X Elite chip in Stable Diffusion 1.5, while its NPU will deliver more than 40 TOPS (tera operations per second), which is substantially more than the 10 TOPS offered by its Meteor Lake chips.
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Intel
 
@@ -76,7 +80,7 @@ Intel
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AMD Ryzen AI 300
@@ -84,10 +88,6 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 AMD
 
@@ -110,20 +110,16 @@ AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-iphone-video-tips-trim-to-size-with-precision-cutting/"><u>[New] IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-speedy-execution-tactics-for-fb-video-success/"><u>[New] Speedy Execution Tactics for FB Video Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-compre-written-explanation-easy-hdr-understanding/"><u>[Updated] In 2024, Compre Written Explanation Easy HDR Understanding</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-portable-battery-packs-to-keep-recording-longer/"><u>2024 Approved Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-unforeseen-security-issues-in-win10win11/"><u>Counteracting Unforeseen Security Issues in Win10/Win11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202930208-get-help-with-file-explorer-in-windows-11-easily/"><u>Get Help with File Explorer in Windows 11, Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow!</u></a></li>
-<li><a href="https://games-able.techidaily.com/opera-gx-and-edge-showdown-top-picks-for-game-browsers-ranked/"><u>Opera GX & Edge Showdown: Top Picks for Game Browsers Ranked</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-play-essential-tech-for-gamers/"><u>Optimizing Play: Essential Tech for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-integration-subscribing-and-maximizing-ps5s-ea-play/"><u>Seamless Integration: Subscribing & Maximizing PS5's EA Play</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210568175-9781493044900-spooky-north-carolina-2nd-ed/"><u>Spooky North Carolina (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/strategic-co-op-thriving-as-a-duo-in-switchs-minecraft/"><u>Strategic Co-Op: Thriving as a Duo in Switch’s Minecraft</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-gpu-heat-impact-in-gaming/"><u>Understanding GPU Heat Impact in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-peak-performance-in-online-gaming-intels-role/"><u>Unlocking Peak Performance in Online Gaming - Intel's Role</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boost-your-youtube-earnings-with-effective-adsense-use/"><u>[New] Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-supercharge-your-pc-with-these-win-10-tricks/"><u>[New] Supercharge Your PC with These Win 10 Tricks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-a-comprehensive-guide-standing-out-in-reddit-discussions/"><u>[Updated] A Comprehensive Guide Standing Out in Reddit Discussions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seeking-outno-cost-clip-art-deposits/"><u>[Updated] Seeking Outno-Cost Clip Art Deposits</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1-flipbuildercom-universal-language-support-and-customizable-templates-for-enhanced-readability/"><u>1) FlipBuilder.com: Universal Language Support & Customizable Templates for Enhanced Readability</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-dxvk-revolutionizing-gameplay-on-windows/"><u>Dive Into DXVK: Revolutionizing Gameplay on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Plus Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/leading-mobile-worlds-top-7-mmo-picks/"><u>Leading Mobile Worlds: Top 7 MMO Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/peeling-back-layers-meta-and-its-role-in-gaming/"><u>Peeling Back Layers: Meta and Its Role in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-an-impressive-xbox-series-x-future/"><u>Secure an Impressive Xbox Series X Future</u></a></li>
+<li><a href="https://games-able.techidaily.com/steadfast-linkage-keep-your-ps4-remote-attached-to-windows-system/"><u>Steadfast Linkage: Keep Your PS4 Remote Attached to Windows System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tips to Limit Steam's Memory Usage: 5 Strategies"
-date: 2024-12-03T02:50:44.336Z
-updated: 2024-12-05T04:07:56.763Z
+date: 2024-12-06T07:36:40.040Z
+updated: 2024-12-11T06:39:44.881Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Steam's multiple components, including the Steam Client WebHelper, can consume a lot of memory and impact CPU performance.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ![Steam processes running in task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_processes_running_in_task_manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam is made up of several components. Its most popular components are its download manager and games list, but it has several other features, and all of these other features run off the Steam Client WebHelper. This is essentially an internet browser that Steam manages. Every store page, friends list, and chat window creates a new Steam Client WebHelper instance.
@@ -43,21 +47,17 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
 ![Steam selecting the go offline option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_go_offline.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One way to prevent internet-connected browsers from launching is to[run Steam offline](https://www.makeuseof.com/how-to-use-steam-offline-mode/) . You can do this by hitting**Steam** from the main screen and pressing**Go Offline...** from the drop-down menu.
 
  Do note that this has limitations, such as downloading new updates or connecting online to certain games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Disable Hardware-Accelerated Rendering
 
 ![Steam interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_interface_settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Modern Steam uses a Chrome-based browser, but[Chrome is known to be fairly demanding on your memory](https://www.makeuseof.com/tag/chrome-using-much-ram-fix-right-now/) . Many of the problems presented by Google Chrome can affect Steam when it connects to the web.
 
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 
  This will ease the burden that Steam's web pages have on your available memory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Enable Low-Performance Mode
 
 ![Steam library settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot_of_steam_library_settings.jpg)
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/700877a9102ebfac6b027a9da8135a8597355f7b4
 ## 4\. Launch the Steam Mini Games List
 
 ![Steam mini games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_steam_minigames_list.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you launch Steam, it connects to the internet at several points. The app's most memory-intensive processes occur when it connects to the latest news and developer blogs.
 
@@ -101,10 +101,6 @@ steam://open/minigameslist
 
 ![Minimal Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_minimal_steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While the previous solutions can help regain a little memory, you might need something more substantial if you're struggling to run Steam on your system.
 
  Thankfully, there exists a combination of commands to completely strip Steam of its ability to create Steam Client WebHelper instances. There are too many commands to easily enter at once, so instead, we'll[make a batch file for it](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) .
@@ -119,6 +115,10 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
  Ensure that Steam is closed, and then open this .bat file. Steam should launch, looking very similar to the Steam Mini Games List from earlier. This version of Steam is extremely bare-bones. You will be unable to view friends, visit the store, organize screenshots, or check out the news, but you'll be able to run Steam on essentially anything this way.
 
  Steam may crash in certain circumstances using this configuration. If this is a problem, remove the command**\-cef-disable-breakpad** from the batch file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Go Bare Bones With Steam
 
@@ -139,18 +139,14 @@ start steam.exe -dev -console -nofriendsui -no-dwrite -nointro -nobigpicture -no
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-dialogue-and-appraise/"><u>[Updated] 2024 Approved Capture Dialogue & Appraise</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-big-sur-readiness-system-and-hardware-guide/"><u>[Updated] In 2024, Big Sur Readiness System & Hardware Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/fixing-issues-with-mkv-file-imports-into-davinci-resolve-expert-tips-and-tricks/"><u>Fixing Issues with MKV File Imports Into DaVinci Resolve – Expert Tips and Tricks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138575293-9781450238311-how-should-we-then-live/"><u>How Should We Then Live? | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-14-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi 14 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/movavipngjpg/"><u>Movavi介紹：PNG到JPG的高效轉換方法與教學指南</u></a></li>
-<li><a href="https://games-able.techidaily.com/reclaim-fortnite-funds-a-refund-manual/"><u>Reclaim Fortnite Funds: A Refund Manual</u></a></li>
-<li><a href="https://games-able.techidaily.com/revel-in-pimax-crystal-vr-brilliant-yet-imperfect-performance/"><u>Revel in Pimax Crystal VR: Brilliant, Yet Imperfect Performance</u></a></li>
-<li><a href="https://games-able.techidaily.com/riding-the-wave-of-mmo-innovations-tide/"><u>Riding the Wave of MMO Innovation's Tide</u></a></li>
-<li><a href="https://games-able.techidaily.com/selecting-your-ideal-gpu-founders-original-vs-asus-brand/"><u>Selecting Your Ideal GPU: Founders Original Vs. ASUS Brand</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-role-and-advantage-of-dual-mode-displays-in-gaming/"><u>The Role and Advantage of Dual-Mode Displays in Gaming</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-y200-by-fonelab-android-recover-music/"><u>Undelete lost music from Y200</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-new-yorks-elite-8-daily-strategies-for-elevation/"><u>Unlocking New York's Elite: 8 Daily Strategies for Elevation</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-xbox-one-through-voice-commands/"><u>Control Xbox One Through Voice Commands</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-100-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor 100 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-tech-in-action-examining-the-razer-blackwidow-v4/"><u>Hot Swap Tech in Action - Examining the Razer BlackWidow V4</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-chronicles-reviewing-the-best-screencasters/"><u>In 2024, Capture Chronicles Reviewing the Best Screencasters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-streamer-gear-essential-livestream-tools-unveiled/"><u>In 2024, Prime Streamer Gear Essential Livestream Tools Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-dialogue-for-film-selection/"><u>Leveraging AI Dialogue for Film Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/razers-breakthrough-the-hot-swappable-gaming-keyboard/"><u>Razer's Breakthrough: The Hot-Swappable Gaming Keyboard</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-guide-to-seamless-sd-installation-in-steam-deck/"><u>Your Guide to Seamless SD Installation in Steam Deck</u></a></li>
 </ul></div>
 
