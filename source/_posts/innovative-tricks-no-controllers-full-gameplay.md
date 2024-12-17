@@ -1,7 +1,7 @@
 ---
 title: "Innovative Tricks: No Controllers, Full Gameplay"
-date: 2024-12-05T17:16:07.470Z
-updated: 2024-12-11T06:59:37.653Z
+date: 2024-12-15T22:22:44.782Z
+updated: 2024-12-17T10:18:32.474Z
 tags:
   - games
 categories:
@@ -47,11 +47,19 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
 ![Turn on remote features popup on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-on-remote-features-popup-on-xbox-app.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close
 
  On your Xbox One console, you’ll be asked to**Set up remote features** . From there, select**Enable** .
 
 ![A screenshot of the Remote Features prompt that appears when connecting your Xbox to a mobile device on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/xbox-series-x-remote-features-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ​​​​​​​Finally,**Test remote play** on your Xbox to test your internet connection for remote play.
 
@@ -61,23 +69,23 @@ Close
 
 ![Living room Xbox on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/living-room-xbox-on-xbox-app.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Xbox remote control on Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-remote-control-on-xbox-app.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
  However, it’s worth noting that you may not be able to play most of the games using the remote control on the Xbox app. The virtual remote control within the app is primarily designed for basic tasks and navigation within the Xbox console interface rather than fully-fledged gaming experiences.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Connect a Keyboard and Mouse to Your Xbox
 
 ![Mouse keyboard iphone and xbox controller on wooden desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mouse-keyboard-and-xbox-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For those seeking greater accessibility and precision, connecting a keyboard and mouse to your Xbox One is an excellent option. By doing so, you can perform all the functions typically carried out with a regular Xbox controller but with added convenience. While not all games support keyboard and mouse inputs, many do, especially those with cross-platform compatibility.
 
@@ -86,7 +94,7 @@ Close
  However, note that although you can use a keyboard on Home and while navigating the Xbox interface, the use of a mouse is not supported for this purpose. You can only use a mouse in games that allow mouse input. Therefore, it’s best to check individual games for mouse compatibility before connecting a mouse to your Xbox One console.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Digital Assistants to Control Your Xbox One
@@ -98,7 +106,7 @@ Close
 ![xbox digital assistants menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/xbox-enable-digital-assistants.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you haven’t already got it, download and open the respective digital assistant app on your smartphone and add your Xbox console to the app. You can check out our dedicated guides on[how to set up and use Alexa on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-alexa/) and[how to set up and use Google Assistant on your Xbox](https://www.makeuseof.com/xbox-series-x-s-how-to-set-up-and-use-google-assistant/) for detailed step-by-step instructions on how to achieve this.
@@ -111,15 +119,7 @@ Close
 
 ![Google Home devices tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-devices-tab.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Google Home voice assistant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-voice-assistant.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Google Home Xbox remote control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-home-xbox-remote-control.jpeg)
 
@@ -146,19 +146,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-terrain-trove-top-maps-for-treasure-seeking/"><u>[New] Terrain Trove Top Maps for Treasure Seeking</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-recording-revelry-capturing-the-thrill-of-sports-games/"><u>[Updated] Recording Revelry Capturing the Thrill of Sports Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-full-potential-of-googles-podcast-tools/"><u>[Updated] Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/el-your-inner-videographer-to-produce-top-tier-edu-videos-for-2024/"><u>Channel Your Inner Videographer to Produce Top-Tier Edu-Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-limitless-possibilities-of-multi-os-gaming/"><u>Explore the Limitless Possibilities of Multi-OS Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/future-proof-gaming-tech-keyboard-selection-guide-2024/"><u>Future-Proof Gaming Tech: Keyboard Selection Guide 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/graphics-titans-4070-super-vs-titan-x-and-rtx-4080-super/"><u>Graphics Titans: 4070 Super Vs. Titan X and RTX 4080 Super</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>In 2024, Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-with-purpose-top-15-gaming-titles-for-ios-devices-without-wi-fi/"><u>Playing with Purpose: Top 15 Gaming Titles for iOS Devices Without Wi-Fi</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/precision-in-sound-10-tips-for-professional-audio-quality-for-2024/"><u>Precision in Sound 10 Tips for Professional Audio Quality for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-unlocks-new-features-for-families-today/"><u>Steam Unlocks New Features for Families Today</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-secret-to-every-steam-award-unlock/"><u>The Secret to Every Steam Award Unlock</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-broadcasts-with-manycams-virtual-webcam-solutions-top-live-video-editing-app/"><u>Transform Your Broadcasts with ManyCam's Virtual Webcam Solutions – Top Live Video Editing App</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ocating-your-own-melodic-treasure-trove-in-youtubes-vault/"><u>[New] Locating Your Own Melodic Treasure Trove in YouTube's Vault</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-best-of-games-on-idevices-via-apple-arcade/"><u>Exploring the Best of Games on iDevices via Apple Arcade</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210845561-9781088143278-manifesting-your-dream-life/"><u>MANIFESTING YOUR DREAM LIFE | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-subscription-surge-on-xbox-gold-membership/"><u>Navigate the Subscription Surge on Xbox Gold Membership</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-joy-of-new-controls-upgrading-switchs-joystick/"><u>The Joy of New Controls: Upgrading Switch's Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-road-ahead-haptic-grip-or-digital-direct-control/"><u>The Road Ahead: Haptic Grip or Digital Direct Control</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unleash-your-devices-full-potential-capture-and-store-youtube-streams-flawlessly/"><u>Unleash Your Device's Full Potential Capture and Store YouTube Streams Flawlessly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions-for-2024/"><u>Unlocking the Full Potential of YouTube Video Interactions for 2024</u></a></li>
 </ul></div>
 

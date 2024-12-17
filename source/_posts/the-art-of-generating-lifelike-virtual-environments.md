@@ -1,7 +1,7 @@
 ---
 title: The Art of Generating Lifelike Virtual Environments
-date: 2024-10-18T05:49:00.875Z
-updated: 2024-10-24T22:34:15.064Z
+date: 2024-12-11T06:44:52.640Z
+updated: 2024-12-17T05:54:03.787Z
 tags:
   - games
 categories:
@@ -43,18 +43,15 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Games Use Procedural Generation?
 
  Many titles use procedural generation for their titles. In fact, this method of creating game worlds has been around since 1978, with its introduction in Beneath Apple Manor and Rogue in 1980.
 
  So, here are a few modern titles which use this method when creating a game session.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### No Man's Sky
 
@@ -67,10 +64,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
  Because of this technique, each planet has its own unique ecosystem—including plants, animals, climates, and even alien species you may engage in trade or combat. Despite this massive game world, the game is only 15GB.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Civilization VI
@@ -78,16 +72,7 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 ![Civilization VI trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/civilization-vi-trailer-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Sid Meier's Civilization/[YouTube](https://www.youtube.com/watch?v=5KdE0p2joJw&ab%5Fchannel=SidMeier%27sCivilization)
@@ -96,20 +81,21 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
  This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rust
 
 ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
  Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 
@@ -130,19 +116,21 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-accelerate-your-youtube-journey-achieve-the-essential-10k-vistas/"><u>[Updated] 2024 Approved Accelerate Your YouTube Journey - Achieve the Essential 10K Vistas</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-art-of-video-to-audio-conversion-on-insta/"><u>[Updated] Mastering the Art of Video-to-Audio Conversion on Insta</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/advanced-techniques-for-upgrading-to-a-high-performance-graphics-chip/"><u>Advanced Techniques for Upgrading to a High-Performance Graphics Chip</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-fog-of-ray-tracing-seeing-through-its-allure/"><u>Beyond the Fog of Ray Tracing: Seeing Through Its Allure</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-docked-steam-deck-efficiency-step-by-step-tips/"><u>Boosting Docked Steam Deck Efficiency: Step-by-Step Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-macbook-pros-redefine-gaming-experience/"><u>Can MacBook Pros Redefine Gaming Experience?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-use-the-newest-controller-with-an-older-system/"><u>Can You Use the Newest Controller with an Older System?</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-the-past-the-ps4-reset-journey/"><u>Clearing the Past: The PS4 Reset Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-up-display-lag-error-code-0x887a0006-in-windows/"><u>Clearing Up Display Lag (Error Code 0X887A0006) in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996227452-elden-ring-co-op-problems-heres-how-to-solve-them/"><u>Elden Ring Co-Op Problems? Here's How to Solve Them!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-meizu-21-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Meizu 21 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/infusing-new-life-into-old-images-with-instagram-magic-for-2024/"><u>Infusing New Life Into Old Images with Instagram Magic for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/spotting-deceptive-patterns-generated-by-machine-learning-models/"><u>Spotting Deceptive Patterns Generated by Machine Learning Models</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor 70 Lite 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-brain-teasers-galore-choose-your-top-escapes/"><u>[New] 2024 Approved Brain Teasers Galore Choose Your Top Escapes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-obs-integration-on-your-mac-a-detailed-walkthrough/"><u>[New] 2024 Approved Seamless OBS Integration on Your Mac A Detailed Walkthrough</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>[New] In 2024, How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-effortlessly-record-movies-on-win10-for-2024/"><u>[Updated] How to Effortlessly Record Movies on Win10 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-download-youtubes-best-moments-without-full-streaming/"><u>[Updated] In 2024, Download YouTube's Best Moments Without Full Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-lgs-monitor-marvel-an-exhaustive-look-at-ultra-clear-technology/"><u>[Updated] LG's Monitor Marvel An Exhaustive Look at Ultra-Clear Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-with-meta-quest-3/"><u>A New Era of Gaming With Meta Quest 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/battle-of-the-titans-series-x-vs-customized-pc/"><u>Battle of the Titans: Series X Vs. Customized PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-companion-accessories-for-steam-deck-24/"><u>Best Companion Accessories for Steam Deck '24</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-motherboards-for-ddr5-2024/"><u>Best Motherboards for DDR5, 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169060145-classic-console-play-on-your-modern-device/"><u>Classic Console Play on Your Modern Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-top-rated-all-in-one-heat-sinks-and-liquid-coolers-for-enhanced-gaming-rigs-2024-edition/"><u>Discover the Top-Rated All-in-One Heat Sinks and Liquid Coolers for Enhanced Gaming Rigs, 2024 Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-guide-to-selecting-top-displays-for-your-xbox-series-x-games/"><u>Essential Guide to Selecting Top Displays for Your Xbox Series X Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172780797-hot-10-gaming-picks-sonys-summertime-savings/"><u>Hot 10 Gaming Picks: Sony's Summertime Savings</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719159394369-step-beyond-conventional-embrace-size-in-gaming-frames/"><u>Step Beyond Conventional: Embrace Size in Gaming Frames</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-visual-communication-video-creation-techniques-in-windows-10-for-2024/"><u>The Art of Visual Communication Video Creation Techniques in Windows 10 for 2024</u></a></li>
 </ul></div>
 

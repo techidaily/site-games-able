@@ -1,7 +1,7 @@
 ---
 title: Exploring the Possibilities of PS4 Games on PS5
-date: 2024-12-09T01:23:40.169Z
-updated: 2024-12-10T22:38:32.610Z
+date: 2024-12-09T21:55:54.237Z
+updated: 2024-12-16T19:27:11.017Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Can I Play PS4 Games on My PS5?](#can-i-play-ps4-games-on-my-ps5)
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 * [Are the PS5 Upgrades Worth It?](#are-the-ps5-upgrades-worth-it)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 ![playstation 4 game disc boxes](https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  charnsitr/[Shutterstock](https://www.shutterstock.com/image-photo/bangkok-thailand-october-19-2016-pile-520391851)
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
  Select**View Details** to bring up a list of all the games on your console and select the ones you are prepared to delete. Press**Delete** on the right to remove those games and make space for your PS4 title.
 
  Once you have enough space, the data will resume copying onto your PS5.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Download PS4 Games Onto Your PS5
 
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
  If you would rather save your console's internal storage for PS5 games, you can also store and[play PS4 games on your PS5 from an external hard drive](https://www.makeuseof.com/how-to-play-ps4-games-on-ps5-external-hard-drive/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s the Difference Between PS4 Games and PS4 Games With PS5 Upgrades?
 
  Some PS4 games come with free or discounted PS5 upgrades. This allows you to play the PS5 version of the game even though you technically only own the PS4 version. There are a couple of ways to check if a PS5 upgrade is available for your game.
@@ -116,18 +112,18 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 ![PS5 Upgrade via Game Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-via-game-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If there is an upgrade available, you will see an option labeled**Select Version** . Press that to bring up all versions of the game and select the**PS5 version** to start downloading it.
 
 ![PS5 Upgrade Choose Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps5-upgrade-choose-version.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  These upgrades can cost money, so utilizing them is completely optional. You are more than welcome to simply play the PS4 version if you would prefer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are the PS5 Upgrades Worth It?
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
  If you are tempted by a PS5 upgrade but you're not sure if it's worth it, let's go over the benefits. Upgrading your PS4 game to the PS5 version not only gives the graphics a significant boost but also improves overall performance, allowing you to experience the game at a higher frame rate.
 
 ![PS4 and PS5 version of Marvel Spider Man Remastered](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ps4-and-ps5-version-of-marvel-spider-man-remastered.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Although the graphics and lighting effects in the PS5 version of Marvel's Spider-Man Remastered are dramatically improved, the PS4 version already looks great.
 
@@ -157,24 +157,18 @@ thumbnail: https://thmb.techidaily.com/31e82f83edcdc65ad4f95de4a88750a749956ca58
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cyberlink-the-pinnacle-of-digital-recording/"><u>[New] In 2024, Cyberlink The Pinnacle of Digital Recording</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/80-less-on-the-new-apple-watch-se-post-prime-day-deals-revealed-insights-by-zdnet/"><u>$80 Less on the New Apple Watch SE: Post-Prime Day Deals Revealed – Insights by ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pros-guide-to-leveraging-3d-lut-filters-in-adobe-ps/"><u>2024 Approved Pro's Guide to Leveraging 3D LUT Filters in Adobe PS</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1728486514379-google/"><u>完整解決方案：如何在Google雲端照片上永久銷毀和復原圖片</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1728475567723-adata-ssd/"><u>ADATA SSDの無条件完全クリア:スムーズで安全な手順ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-dreaded-steamvr-error-code-308-a-comprehensive-guide/"><u>Fixing the Dreaded SteamVR Error Code 308: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-stakes-gaming-frame-rate-boost-techniques/"><u>High Stakes Gaming: Frame Rate Boost Techniques</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-thinning-down-tech-colorizing-connectivity-with-tecno/"><u>IFA Thinning Down Tech, Colorizing Connectivity with Tecno</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-quick-resume-a-worthwhile-feature-of-your-xbox-series-xs/"><u>Is Quick Resume a Worthwhile Feature of Your Xbox Series X|S?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-steams-data-evaluating-gaming-hours-and-credits/"><u>Navigate Steam's Data: Evaluating Gaming Hours & Credits</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-discover-hilarious-audio-cues/"><u>New 2024 Approved Discover Hilarious Audio Cues</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-ever-wondered-about-the-similarity-you-bear-with-an-anime-character-if-you-have-not-yet-looked-into-this-exciting-aspect-of-motion-graphic-desig/"><u>New In 2024, Ever Wondered About the Similarity You Bear with an Anime Character? If You Have Not yet Looked Into This Exciting Aspect of Motion Graphic Design, You Can Very Well Break the Ice Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/peak-performance-not-safety-graphics-alert/"><u>Peak Performance, Not Safety: Graphics Alert</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-asus-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-user-experience-steps-to-handle-switch-accounts/"><u>Simplify User Experience: Steps to Handle Switch Accounts</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-the-update-changing-your-name-and-slogan-in-riot/"><u>Streamlining the Update: Changing Your Name & Slogan in Riot</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-clean-tech-gurus-ps5-revival-guide/"><u>The Clean Tech Guru's PS5 Revival Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-instagram-pros-tips-for-bulk-upload-of-images-and-video-for-2024/"><u>The Instagram Pro’s Tips for Bulk Upload of Images and Video for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-i-now-question-my-rtx-4090-spending/"><u>Why I Now Question My RTX 4090 Spending</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capture-webpages-entirety-on-screen/"><u>[Updated] 2024 Approved Capture Webpage's Entirety on Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-gamers-edition-obs-studio-streaming/"><u>[Updated] 2024 Approved Gamers' Edition OBS Studio Streaming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-list-of-highest-subscribed-video-makers-globally/"><u>[Updated] In 2024, The Ultimate List of Highest-Subscribed Video Makers Globally</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubers-playbook-advanced-techniques-for-engaging-editing/"><u>[Updated] In 2024, Youtuber's Playbook Advanced Techniques for Engaging Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-login-issues-on-rust-platforms-windows/"><u>Bypassing Steam Login Issues on Rust Platforms Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-quality-over-quantity-the-best-reasons-to-purchase-gaming-apps/"><u>Choosing Quality Over Quantity: The Best Reasons to Purchase Gaming Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-solve-steam-errors-on-windows-11-system/"><u>Efficiently Solve Steam Errors on Windows 11 System</u></a></li>
+<li><a href="https://games-able.techidaily.com/experience-the-next-level-of-video-games-with-stream-assist/"><u>Experience the Next Level of Video Games with Stream Assist</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-giants-and-the-threat-to-competition-online-forum/"><u>Gaming Giants and the Threat to Competition [Online Forum]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-profile-picture-dimensions/"><u>In 2024, FB Profile Picture Dimensions</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-gpu-thermals-for-maximum-gaming/"><u>Navigating GPU Thermals for Maximum Gaming</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/online-video-promotion-experts-for-2024/"><u>Online Video Promotion Experts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-harnessing-the-power-of-openais-exclusive-gpt-platform-today/"><u>Step-by-Step Instructions: Harnessing the Power of OpenAI's Exclusive GPT Platform Today</u></a></li>
 </ul></div>
 

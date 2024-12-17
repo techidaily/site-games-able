@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2024-12-09T00:10:56.295Z
-updated: 2024-12-11T01:01:08.838Z
+date: 2024-12-10T20:01:39.629Z
+updated: 2024-12-16T18:31:09.484Z
 tags:
   - games
 categories:
@@ -33,7 +33,15 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of an Xbox Wireless Controller Profile on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-profile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Controller Vibration on Xbox Series X|S
 
@@ -45,20 +53,20 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Select**Vibration settings** .
 
 ![A screenshot of the Accessibility settings for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/vibration-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Ensure that**Turn on vibration** is deselected.
 
@@ -69,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  If you ever switch your controller**Profile** or reset a**Profile** to default settings, your vibration preferences would be overwritten. In this case, you would need to[configure your Xbox Series X|S controller](https://www.makeuseof.com/configure-xbox-series-s-x-controller/) again to ensure vibration is disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Your Xbox Wireless Controller to Suit You
@@ -80,17 +88,9 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Q: Why Is Your Xbox Series X|S Constantly Vibrating?
 
  If your Xbox Series X|S controller is constantly vibrating or carries on vibrating even after disabling the feature, there may be a fault with your controller. To fix controller vibration, you need to[take apart your Xbox Wireless Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) and replace the vibration motors. Failing this, you will need to replace your Xbox controller.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
@@ -115,17 +115,21 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-calculating-youtube-profits-instantly/"><u>[New] In 2024, Calculating YouTube Profits Instantly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-acoustic-architects-building-with-mac-studios/"><u>[Updated] In 2024, Acoustic Architects Building with Mac Studios</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-search-issues-on-windows-11-os/"><u>Eliminating Search Issues on Windows 11 OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gameplay-experience-on-switch-via-efficient-controllers-using-ryujinx/"><u>Enhance Gameplay Experience on Switch via Efficient Controllers Using Ryujinx</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-hardware-info-to-run-bg3-successfully/"><u>Essential Hardware Info to Run BG3 Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-y02t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo Y02T Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 15/iPad | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/metodo-simple-para-convertir-archivos-flv-en-mp3-online-sin-gasto-recomendado-por-movavi/"><u>Método Simple Para Convertir Archivos FLV en MP3 Online Sin Gasto: Recomendado Por Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps4-joystick-jumble-quick-guide-to-common-fault-resolutions/"><u>Ps4 Joystick Jumble - Quick Guide to Common Fault Resolutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-twitch-interruptions-platform-downtime-vs-individual-connectivity/"><u>Understanding Twitch Interruptions: Platform Downtime vs Individual Connectivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlinking-from-ps5-a-comprehensible-approach/"><u>Unlinking From PS5: A Comprehensible Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-potential-of-nintendo-switch-and-sony-remotes/"><u>Unlocking Full Potential of Nintendo Switch and Sony Remotes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] 2024 Approved Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-extraordinary-assessment-and-alternative-choices/"><u>[New] Extraordinary Assessment & Alternative Choices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-craft-your-first-short-film-with-windows-8-movie-maker/"><u>[New] In 2024, Craft Your First Short Film with Windows 8 Movie Maker</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-illuminate-your-graphics-instinct-for-adobe-motion-blur/"><u>[Updated] In 2024, Illuminate Your Graphics Instinct for Adobe Motion Blur</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-revamping-your-mobile-melodies-an-expert-iphone-ringtone-guide-for-2024/"><u>[Updated] Revamping Your Mobile Melodies An Expert iPhone Ringtone Guide for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speaking-and-listening-to-create-better-decks/"><u>[Updated] Speaking and Listening to Create Better Decks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>2024 Approved Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-your-options-for-fixingexchanging-a-switch/"><u>Deciphering Your Options for Fixing/Exchanging a Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-playstation-5s-safety-with-an-unique-access-code/"><u>Elevate PlayStation 5'S Safety with an Unique Access Code</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-8-lite-android-simulators-for-pc-and-mac-gamers/"><u>Essential 8 Lite Android Simulators for PC and Mac Gamers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-8t-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 8T 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-integration-for-android-software/"><u>Linux Integration for Android Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-games-before-launch-exploration-or-caution/"><u>Premium Games Before Launch - Exploration or Caution?</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-locations-gamers-success-spots/"><u>Prime Locations: Gamers' Success Spots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-21-complimentary-alternatives-to-putlocker-a-users-guide/"><u>Top 21 Complimentary Alternatives to Putlocker: A User's Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-lag-peak-gameplay-the-new-era-with-razers-basilisk-v3/"><u>Zero Lag, Peak Gameplay: The New Era with Razer's Basilisk V3</u></a></li>
 </ul></div>
 

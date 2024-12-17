@@ -1,7 +1,7 @@
 ---
 title: Customize In-Game Overlay Display on Discord
-date: 2024-12-07T03:10:13.677Z
-updated: 2024-12-11T03:18:52.814Z
+date: 2024-12-12T00:44:14.672Z
+updated: 2024-12-17T00:26:42.161Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b38051c9d12a2b8d1315fdc2f1d84dde69fd749e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable the Discord Overlay
 
  To use the Discord overlay in a game, you must enable the feature in Discord. The app must also recognize the game you want to use the overlay in.
@@ -34,15 +38,15 @@ To turn on the Discord overlay, follow these steps:
 3. Turn on the toggle next to**Enable in-game overlay** .  
 ![Enabling Discord Overlay in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-turn-on-the-toggle-next-to-enable-in-game-overlay-option-in-discord-s-game-overlay-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right next to the toggle, you'll find a keyboard shortcut for turning the overlay on or off. If you want to change it, click on it and press the shortcut keys on your keyboard.
 
  After that, run the game you want to enable overlay for and minimize it. Then, navigate to the**Registered Games** tab in Discord settings and check whether the game is detected as being played. If it's there, click the monitor icon next to it to turn the overlay on.
 
 ![Discord Detecting the Game Being Played](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/discord-detecting-the-game-being-played.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Discord doesn't automatically detect the game, you must troubleshoot the problem. If you fail to[fix the game detection feature in Discord](https://www.makeuseof.com/windows-discord-game-detection-not-working/) , you can manually add the game.
 
@@ -56,13 +60,13 @@ Here's how:
 5. Select the game you want to add from the list and hit**Add Game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Manually Add Roblox in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/manually-add-roblox-in-discord.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the Discord Overlay During Gaming
@@ -74,7 +78,7 @@ Here's how:
 ![Using Discord Overlay When Running VRChat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-discord-overlay-when-running-vrchat.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, the Discord overlay does not work during gameplay. Do not worry if you encounter the same;[fixing the unresponsive Discord overlay on Windows](https://www.makeuseof.com/fix-discord-overlay-not-working-windows/) is easy and straightforward. It's just as easy to fix it on other devices as well.
@@ -96,10 +100,6 @@ Follow these steps to disable the in-game overlay:
 
  If you want to temporarily turn off the overlay in a game, press the overlay shortcut on your keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Keep Track of Conversations Through Discord Overlay
 
  Overlays save gamers from the hassle of navigating through different apps during gameplay and make it easier for them to communicate. Discord's overlay helps you stay on top of your communication in-game. Hopefully, you now better understand how to enable the overlay in Discord, use it, and turn it off when needed.
@@ -119,24 +119,18 @@ Follow these steps to disable the in-game overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-cutting-edge-marketing-anticipating-fbs-trends-of-the-new-decade-for-2024/"><u>[New] Cutting-Edge Marketing Anticipating FB's Trends of the New Decade for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-optimize-your-videos-with-these-top-rated-editor-suites/"><u>[Updated] 2024 Approved Optimize Your Videos with These Top-Rated Editor Suites</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-downloading-with-confidence-your-vrecorder-guide/"><u>[Updated] In 2024, Downloading with Confidence Your VRecorder Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-frequencies-the-gentle-way-with-garageband/"><u>2024 Approved Fading Frequencies The Gentle Way with Garageband</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-hero-session-vs-hero-session-duel/"><u>2024 Approved Hero Session Vs Hero Session Duel</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-a54-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy A54 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-the-perfect-gaming-palette-with-4k-settings-on-xbox-sx/"><u>Crafting the Perfect Gaming Palette with 4K Settings on Xbox SX</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gaming-with-these-hot-hats-for-decks/"><u>Elevate Your Gaming with These Hot Hats for Decks</u></a></li>
-<li><a href="https://games-able.techidaily.com/establishing-a-team-in-xboxs-next-gen-console/"><u>Establishing a Team in Xbox's Next-Gen Console</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-6-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 6</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-high-speed-film-gatherer-for-timelapse-top5/"><u>In 2024, High-Speed Film Gatherer for Timelapse #Top5</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-minecrafts-error-5-effective-problem-solving-strategies/"><u>Overcoming Minecraft's Error 5 – Effective Problem-Solving Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-non-functional-xbox-controller-woes-on-windows/"><u>Overcoming Non-Functional Xbox Controller Woes on Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/potential-collaboration-effect-on-game-industry/"><u>Potential Collaboration Effect on Game Industry?</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-picks-incredible-options-for-xbox-recorders/"><u>Prime Picks: Incredible Options for Xbox Recorders</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-guide-to-overcome-steam-install-issues/"><u>Quick Guide to Overcome Steam Install Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/testing-compatibility-oled-nintendo-switch-and-ancient-docks/"><u>Testing Compatibility: OLED Nintendo Switch & Ancient Docks</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-new-lenovo-legion-go-5-must-have-features/"><u>The New Lenovo Legion Go - 5 Must-Have Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-unveiled-the-backup-and-sync-technological-advancements/"><u>Windows 11 Unveiled: The Backup & Sync Technological Advancements</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-real-time-tracking-for-insta-unfollower-score/"><u>[New] Real-Time Tracking for Insta Unfollower Score</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>[Updated] In 2024, Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-2023-8-most-viewed-videos-on-facebook/"><u>2024 Approved 2023 | 8 Most Viewed Videos on Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-ways-to-redeem-digital-codes-for-your-xbox/"><u>3 Ways to Redeem Digital Codes for Your Xbox</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/aomei-backupper-fehlerbehandlung-fur-fehlende-seiten-http-404/"><u>AOMEI Backupper: Fehlerbehandlung Für Fehlende Seiten (HTTP 404)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/gratuito-online-converter-mp4-para-mp3-com-o-movavi-facil-e-eficiente/"><u>Gratuito Online: Converter MP4 Para MP3 Com O Movavi - Fácil E Eficiente</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-adjust-the-brightness-of-your-xbox-controller-and-console-light/"><u>How to Adjust the Brightness of Your Xbox Controller and Console Light</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-google-chromes-running-fb-game-troubleshooting-guide/"><u>Keep Google Chromes Running: FB Game Troubleshooting Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-safe-communication-a-step-by-step-guide-on-protected-email-dispatch-in-gmail-and-outlook/"><u>Mastering Safe Communication: A Step-by-Step Guide on Protected Email Dispatch in Gmail and Outlook</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviews-in-retrospect-the-untrustworthy-truth/"><u>Reviews in Retrospect: The Untrustworthy Truth</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/streamlined-approach-to-add-linktree-in-tiktok-about-section-for-2024/"><u>Streamlined Approach to Add Linktree in TikTok About Section for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-ranked-gaming-chairs-for-heavyset-heroes/"><u>The Top-Ranked Gaming Chairs for Heavyset Heroes</u></a></li>
 </ul></div>
 

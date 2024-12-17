@@ -1,7 +1,7 @@
 ---
 title: Determining Your Device's VRAM Capacity
-date: 2024-10-18T07:44:27.210Z
-updated: 2024-10-24T20:55:30.236Z
+date: 2024-12-14T02:53:07.560Z
+updated: 2024-12-17T05:44:13.710Z
 tags:
   - games
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Since just about every gamer and a number of content creators prefer using Windows, there are several tools that can give you varying amounts of information on how much VRAM your computer has.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Windows Settings
 
  The simplest way of finding out how much VRAM you have is to go through your Windows Settings.
@@ -44,17 +37,22 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 3. Finally, click**Display adapter properties for Display 1** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Screenshot showing VRAM in Windows settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you've got more than one GPU in your system (one discrete and one integrated) or multiple displays, you might want to check the others as well to make sure you're seeing the right type of VRAM.
 
  Also, remember that while this is one of the simplest methods of looking up your VRAM, it doesn't give you a lot of information, and if you're using a laptop, it will only show the integrated GPU's VRAM here. If you'd like to know more about your computer's VRAM without downloading an external tool, the DirectX Diagnostic Tool is a better option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using the DirectX Diagnostic Tool
 
@@ -69,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using Third-Party Tools
@@ -83,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 
  Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check VRAM on Linux
 
  If you're on Linux, there are a bunch of command-line tools you can use to quickly look up what GPU and how much VRAM your computer has. A quick way of doing this is by using the`lshw` command as follows.
@@ -92,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/380105e59c8959c0073d444abec887193c4b497ad
 `
 
 ![Linux lshw tool showing GPU information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linux-vram-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can also use the`nvtop` or`radeontop` tools for Nvidia and AMD GPUs, respectively, if you'd like more information. These also include graphs of how your GPU is being used in real time. You can install these tools by using the following commands:
 
@@ -128,13 +120,6 @@ sudo apt-get install radeontop`
 
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
  There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
@@ -158,16 +143,22 @@ sudo apt-get install radeontop`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-360-degree-panoramic-stands/"><u>[Updated] In 2024, 360-Degree Panoramic Stands</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bilingual-brains-cognitive-perks/"><u>Bilingual Brains: Cognitive Perks</u></a></li>
-<li><a href="https://games-able.techidaily.com/directx-enhancement-11-vs-12-comparison-guide/"><u>DirectX Enhancement: 11 Vs. 12 Comparison Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-top-6-innovative-chess-mobile-games/"><u>Elevate Your Gameplay: Top 6 Innovative Chess Mobile Games</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-mac-video-capturing-software-post-bandicam-revolution/"><u>In 2024, Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Fixing Foneazy MockGo Not Working On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-sidestep-social-media-sponsored-videos/"><u>In 2024, Sidestep Social Media Sponsored Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/master-facebook-seo-essential-techniques-to-skyrocket-engagement-for-2024/"><u>Master Facebook SEO Essential Techniques to Skyrocket Engagement for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-fix-create-file-failed-windows-error-30005/"><u>Steps to Fix Create File Failed - Windows Error 30005</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unboxing-apples-new-studio-display-the-ultimate-27-5k-monitor-for-creatives-on-mac-balancing-elegance-and-cost-gadgetpundit/"><u>Unboxing Apple's New Studio Display: The Ultimate $27 5K Monitor for Creatives on Mac, Balancing Elegance and Cost | GadgetPundit</u></a></li>
-<li><a href="https://games-able.techidaily.com/valves-move-to-curtail-misused-return-options/"><u>Valve's Move to Curtail Misused Return Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-starting-off-understanding-av1-compression/"><u>[New] Starting Off Understanding AV1 Compression</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-mastering-personal-branding-on-tiktok-a-detailed-guide/"><u>[Updated] 2024 Approved Mastering Personal Branding on TikTok A Detailed Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>2024 Approved Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-important-settings-to-customize-before-starting-a-new-fps-game/"><u>7 Important Settings to Customize Before Starting a New FPS Game</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-playing-past-ps4-titles-on-new-sony-console/"><u>A Closer Look at Playing Past PS4 Titles on New Sony Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-the-unintended-effects-of-gaming-industry-funding-shifts/"><u>A Closer Look at the Unintended Effects of Gaming Industry Funding Shifts</u></a></li>
+<li><a href="https://games-able.techidaily.com/advantages-disadvantages-in-portable-games/"><u>Advantages, Disadvantages in Portable Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-the-architect-of-fantasy-building-interactive-adventures-via-chatgpt/"><u>Become the Architect of Fantasy: Building Interactive Adventures via ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-8-compact-android-virtual-machines-for-windowsmac/"><u>Best 8 Compact Android Virtual Machines for Windows/Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168808574-busting-the-big-game-pass-bill-hike-temporary-solutions/"><u>Busting the Big Game Pass Bill Hike – Temporary Solutions!</u></a></li>
+<li><a href="https://windows11.techidaily.com/cooling-down-your-windows-11-computer/"><u>Cooling Down Your Windows 11 Computer</u></a></li>
+<li><a href="https://facebook.techidaily.com/cutting-edge-chatting-integrating-facebooks-sounds-in-messages/"><u>Cutting-Edge Chatting: Integrating Facebook’s Sounds in Messages</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165321460-discover-the-best-idevice-gaming-without-internet-or-wi-fi/"><u>Discover the Best iDevice Gaming without Internet or Wi-Fi!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-effortless-google-photo-mosaics-your-accelerated-guide/"><u>In 2024, Effortless Google Photo Mosaics - Your Accelerated Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-transform-fb-video-tunes-to-mp3/"><u>In 2024, Transform Fb Video Tunes to MP3</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Refresh Intervals - A Deeper Look at Input Systems
-date: 2024-08-31T19:21:53.069Z
-updated: 2024-09-01T19:21:53.069Z
+date: 2024-12-12T12:47:23.677Z
+updated: 2024-12-16T21:58:37.128Z
 tags:
   - games
 categories:
@@ -26,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  But why does the keyboard polling rate matter to regular folks, and is a higher polling rate more important to gamers?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Keyboard Polling Rate?
 
  Keyboard polling rate determines how frequently your computer checks for key presses. Like many measurements with computers, polling rate is measured in Hertz (Hz), which tells us how many requests are made per second. As such, a higher figure means your computer and keyboard communicate more frequently, and key presses are detected and registered rapidly.
 
 ![keychron q1 pro top down with arm rest to side feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/keychron-q1-pro-top-down-with-arm-rest-to-side-feature.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -55,8 +63,9 @@ For example:
 ![steelseries apex pro mini hand typing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/steelseries-apex-pro-mini-hand-typing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As mentioned above, a higher polling rate reduces input lag. ESport professionals will use much higher polling rates than regular folks, with some keyboards offering up to 4,000Hz (0.25ms) and some even ramping up to 8,000Hz (0.125ms).
 
  Still, most regular folks can compete just fine with a 1,000Hz polling rate. A 1,000Hz polling rate means your key presses are registered every 1ms, which is still incredibly fast. Furthermore, a 1,000Hz polling rate could provide a competitive edge over a keyboard polling at 500Hz, 250Hz, or 125Hz.
@@ -66,8 +75,9 @@ But nothing can replace actual in-game skills!
  It's also worth noting that higher polling rates typically place more strain on the system CPU. An 8,000Hz polling rate requires extremely fast communication at a near-constant rate, which can lead to some CPU overhead.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Do Wired Keyboards Have Better Polling Rates Than Wireless Keyboards?
 
  You do not necessarily need a wired keyboard to achieve a high polling rate. Many modern wireless gaming keyboards can also have high polling rates of 500Hz or 1,000Hz.
@@ -90,8 +100,9 @@ But nothing can replace actual in-game skills!
  If you're gaming competitively, a wired keyboard is always the best option (that goes for your mouse, too).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Your Keyboard Polling Rate
 
  Now, it's all very well and good knowing you need a higher keyboard polling rate, but how do you check the keyboard polling rate to begin with?
@@ -103,17 +114,10 @@ But nothing can replace actual in-game skills!
 * **Third-Party Software** : Numerous third-party apps are designed to track and test keyboard polling rates. For example, free and open-source[Keyboard Inspector](https://github.com/mat1jaczyyy/Keyboard-Inspector) can detect your keyboard polling rate in seconds using its test mode, and it's incredibly simple to use.  
 ![keyboard inspector analyzing keyboard polling rate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/keyboard-inspector-analyzing-keyboard-polling-rate.jpg)  
  Note that the above tool is for Windows and Linux. This[handy Reddit post](https://www.reddit.com/r/linux%5Fgaming/comments/15ii0um/how%5Fdo%5Fi%5Ffind%5Fmy%5Flaptop%5Fkeyboard%5Fpolling%5Frate/) explains how to check the keyboard polling rate on Linux using the command line.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 * **Manual Calculation** : If you don't have any of the above tools to hand and can't get hold of them or use them, a manual keyboard polling rate check might suffice. However, it's not particularly accurate. To measure the keyboard polling rate manually, open a text editor, then set a ten-second timer. Hit go on the timer and press a key as many times as possible. Divide the number of keypresses by the time, and you'll get a very, very rough estimate of your polling rate.
 
  The manual option exists, but you're much better off using one of the other methods to track your keyboard polling rate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Which Keyboards Have the Highest Polling Rates?
 
 Currently, there are a few keyboards with an 8,000Hz polling rate:
@@ -126,23 +130,17 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
 
  Note that this is just a handful of options, and other keyboards offer an 8,000Hz polling rate. It's also worth remembering that 8,000Hz is the highest polling rate offered by these keyboards, but it's not the only rate. You can set each of these keyboards to a regular polling rate like 1,000Hz using on-board controls or desktop software.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1,000Hz Is More Than Enough
 
  The idea of an ultra-fast polling rate sounds good, but in reality, it's overkill for most folks. Even when accounting for key press times and switch bounce back, a 1,000Hz keyboard polling rate should be more than enough to register key presses with accuracy.
 
  With that said, the 8,000Hz keyboard options above give you options at the very peak of polling rates, should you need them.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +149,20 @@ Currently, there are a few keyboards with an 8,000Hz polling rate:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[New] GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-skies-complete-review-of-dji-phantom-4/"><u>[New] Mastering the Skies Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/360-aerial-panoramas-with-yuneec-breeze-drone-review/"><u>360 Aerial Panoramas with Yuneec Breeze Drone Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster-for-2024/"><u>Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/detailed-examination-of-djis-latest-uav-inspire-1/"><u>Detailed Examination of DJI's Latest UAV, Inspire 1</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-ps5-upgrades-from-past-to-present/"><u>Exploring PS5 Upgrades From Past to Present</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-hunters-manual-locating-premium-costless-steam-titles/"><u>Game Hunter's Manual: Locating Premium, Costless Steam Titles</u></a></li>
+<li><a href="https://media-tips.techidaily.com/latest-updates-irritating-commercials-on-google-tv/"><u>Latest Updates: Irritating Commercials on Google TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-might-top-11-war-history-strategy-titles/"><u>Mastering Might: Top 11 War History Strategy Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-again-4-solutions-for-flash-game-enthusiasts/"><u>Play Again: 4 Solutions for Flash Game Enthusiasts</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/simple-and-effective-techniques-for-transforming-mp4-files-into-dvds-complete-video-tutorial-included/"><u>Simple & Effective Techniques for Transforming MP4 Files Into DVDs - Complete Video Tutorial Included!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/tolkien-unveiled-how-to-watch-the-lord-of-the-rings-movies-chronologically/"><u>Tolkien Unveiled: How To Watch 'The Lord of the Rings' Movies Chronologically</u></a></li>
+<li><a href="https://some-skills.techidaily.com/uncover-5-windows-11-tools-for-professional-audio-recording-for-2024/"><u>Uncover 5 Windows 11 Tools for Professional Audio Recording for 2024</u></a></li>
+</ul></div>
 

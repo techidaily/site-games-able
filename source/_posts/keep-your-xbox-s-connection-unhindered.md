@@ -1,7 +1,7 @@
 ---
 title: Keep Your Xbox S Connection Unhindered
-date: 2024-12-04T08:45:47.177Z
-updated: 2024-12-11T00:17:01.485Z
+date: 2024-12-10T08:34:19.488Z
+updated: 2024-12-16T23:56:38.701Z
 tags:
   - games
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  You may be one of the Xbox Series X owners whose joypads are falling foul of a controller disconnection error. If so, here are several ways you may be able to solve the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Xbox Series X Controller Issue?
 
  Not long after the release of the Xbox Series X and S, several Xbox owners were experiencing connectivity issues with the Series X controller. Since then,[Microsoft has reportedly fixed the bug](https://www.makeuseof.com/microsoft-fixes-xbox-controller-disconnection-bug/) with a software update. However, you may still experience issues with your Xbox Series X controller disconnecting.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  So, what can you do to fix Xbox Series X controller issues? Give these solutions a try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update Your Xbox Series X Controller
@@ -47,13 +51,13 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  If not, just select the controller and update it. Once your Xbox carries out this update, you'll no longer have issues where your Xbox controller keeps disconnecting. That's because Microsoft pushes out firmware updates regularly to fix minor bugs that crop up—like this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update Your Xbox Series X Console
 
 ![Xbox Series X Update Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/Xbox-Series-X-Update-Menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Besides checking if your controllers have the latest firmware installed, you should also make sure your console is running the latest version of its software. This can help resolve any problems with your Xbox Series X or S controller disconnecting all the time.
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
 ![series x joypad power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/series-x-joypad-power-button.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One potential workaround for the connectivity issue is resetting your Xbox Series X controller. You can achieve this without being connected to the console, so if your gamepad and console have lost connection, this is a way to re-sync the two.
 
  To turn off your Series X controller, you simply need to press and hold the**Xbox** button in the center for 5-6 seconds. You will see that the button is no longer illuminated when this operation has been successful.
@@ -75,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
 ![xbox series x controller usb c port](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-controller-usb-c-port.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  At the top of the Xbox Series X controller, you will notice it has a USB-C port, which is typically used for charging. However, you can use it to try to solve any disconnection problems.
 
  The process couldn't be easier; just use the USB-C cable that came with your Xbox and use it to connect the two together.
@@ -87,13 +91,13 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  Physically connecting your controller and console will immediately overcome the wireless connectivity issue. Once the two devices talk to each other again, you can remove the wired connection and check whether your controller works wirelessly. If it doesn't, you could always stay wired if it's convenient enough.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Hard Restart Your Xbox Series X
 
 ![xbox series x power button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/xbox-series-x-power-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If all else fails, you can always exercise the IT expert's golden rule... try turning it off and on again. This is an operation you'd only want to carry out as a last resort, especially if you are in the middle of a game and haven't saved recently. Try all the other steps here first, or you risk losing your game progress.
 
@@ -104,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
  Once you have switched the console off, just press the power button again to start it up. If you have performed the action correctly, the console should initialize with the logo screen before loading up your Xbox dashboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Replace Your Controller's Batteries
@@ -129,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
  If it's a firmware-related bug like the one Microsoft addressed, you can use your old controller while waiting for an update. Don't forget that the[Xbox One controller has its fair share of issues](https://www.makeuseof.com/tag/how-to-fix-xbox-one-controller-not-working/) that prevent it from working, so you might still have the same disconnection problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Game Without Your Xbox Series X Controller Disconnecting
 
  Hopefully, you managed to stop your Xbox Series X controller from disconnecting by following these troubleshooting methods.
@@ -154,20 +154,22 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-boost-your-movie-magic-free-text-animation-basics/"><u>[Updated] 2024 Approved Boost Your Movie Magic Free Text Animation Basics</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-secrets-of-successful-youtube-live-games/"><u>[Updated] 2024 Approved Unveiling the Secrets of Successful YouTube Live Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-acid-pro-alternatives-a-comprehensive-guide-for-2024/"><u>[Updated] ACID Pro Alternatives A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-optimizing-viewers-engagement-through-youtube-music-use-in-videos-for-2024/"><u>[Updated] Optimizing Viewers' Engagement Through YouTube Music Use in Videos for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-transforming-smartphone-videos-into-earnings-a-2024-guide-to-monetization/"><u>[Updated] Transforming Smartphone Videos Into Earnings A 2024 Guide to Monetization</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/"><u>2024 Approved Top 6 Minecraft House Ideas for Beginners</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/personalizing-the-visual-fidelity-of-your-xbox-series-xs-via-vrr-configuration/"><u>Personalizing the Visual Fidelity of Your Xbox Series X|S via VRR Configuration</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-games-at-no-cost-on-series-xs/"><u>Revive Games at No Cost on Series X|S</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-on-incorporating-individuals-into-images/"><u>Step-by-Step Guide on Incorporating Individuals Into Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-roms-internationally-using-translation-patches/"><u>Transform Your ROMs Internationally Using Translation Patches</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncovering-the-story-behind-foddian-game-names/"><u>Uncovering the Story Behind Foddian Game Names</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-gaming-chaos-top-10-reasons-and-fixes-for-smooth-play/"><u>Unraveling Gaming Chaos: Top 10 Reasons & Fixes for Smooth Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/unraveling-steam-error-mechanisms-on-windows-11-pc/"><u>Unraveling Steam Error Mechanisms on Windows 11 PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-pros-and-cons-of-the-google-pixelbook-go-high-quality-meets-steep-cost/"><u>Unveiling the Pros and Cons of the Google Pixelbook Go - High Quality Meets Steep Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-the-social-sea-identifying-unfollowers-on-instagram/"><u>[New] In 2024, Navigating the Social Sea Identifying Unfollowers on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-elite-list-top-9-drone-video-editors-by-competence/"><u>[New] In 2024, The Elite List Top 9 Drone Video Editors by Competence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfect-frame-rate-selection-a-guide-to-best-slow-motion-filmmaking-techniques/"><u>[Updated] In 2024, Perfect Frame Rate Selection A Guide to Best Slow Motion Filmmaking Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/action-plan-when-to-fix-when-to-trade-in-your-switch/"><u>Action Plan: When to Fix, When to Trade-In Your Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/bridge-the-gap-between-xbox-and-steam-via-glossi/"><u>Bridge the Gap Between Xbox and Steam via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/disabling-steam-at-system-start/"><u>Disabling Steam at System Start</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-change-xbox-live-gold-merges-with-game-pass/"><u>Embracing Change: Xbox Live Gold Merges with Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-casual-gaming-to-serious-playtime-switch-to-windows/"><u>From Casual Gaming to Serious Playtime - Switch to Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-latest-amd-radeon-professional-w5700-drivers-for-windows-versions-update-now/"><u>Get Your Latest AMD Radeon Professional W5700 Drivers for Windows Versions - Update Now!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-highlights-tech-streamlining-with-tecnos-new-releases/"><u>IFA 2023 Highlights Tech Streamlining with Tecno's New Releases</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-chuckle-cheat-sheet-perfectly-timed-memes/"><u>In 2024, Chuckle Cheat Sheet Perfectly Timed Memes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y200e 5G? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210182339-9781948287234-moon-people/"><u>Moon People | Free Book</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/skydrive-pro-ultimate-ios-media-converter-and-ripping-software-for-apple-devices-and-synchronizing-with-itunes/"><u>SkyDrive Pro - Ultimate iOS Media Converter and Ripping Software for Apple Devices & Synchronizing with iTunes</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-a-world-of-entertainment-with-netflixs-games/"><u>Unlock a World of Entertainment with Netflix's Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-rewarding-game-making-could-hurt-the-industry/"><u>Why Rewarding Game Making Could Hurt the Industry</u></a></li>
 </ul></div>
 

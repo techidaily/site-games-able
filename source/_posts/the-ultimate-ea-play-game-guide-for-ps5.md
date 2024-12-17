@@ -1,7 +1,7 @@
 ---
 title: The Ultimate EA Play Game Guide for PS5
-date: 2024-12-09T08:10:59.810Z
-updated: 2024-12-10T19:41:28.514Z
+date: 2024-12-10T09:10:40.839Z
+updated: 2024-12-17T09:11:42.019Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. It Takes Two
 
  It Takes Two is an award-winning thrilling local cooperative platformer game by Hazelight Studios. The story follows Cody and May, a husband and wife at the cusp of a divorce, who both get transformed into dolls by a sentient relationship book called Dr. Hakim.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  Two players must get the tiny characters from the garden shed to their house. They must avoid, maneuver, and overcome obstacles together as they journey to save their marriage. Many reviewers have described this game as genre-bending, and it’s one of the most refreshing games of its decade.
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. FIFA 23
 
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  Don’t forget that The Sims 4 has a lot of additional DLCs you can add to make the game a little more exciting. They do cost a bit of money, but it could be worth it if it drastically improves your game experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Need for Speed Heat
 
  You’ll find almost all the contemporary Need for Speed games available on EA Play membership, but if we had to choose only one, we’d pick Need for Speed Heat. It combines the cars and racing system of Payback and the police chases of Most Wanted ‘05 to create a unique experience.
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Plants vs Zombies Garden Warfare 2
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
@@ -82,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  This is definitely one of the more exciting adventure games on EA Play. In fact, we think this is the best single-player action-adventure game available on EA Play’s Play List for the PS5\. You should get it if you want an immersive single-player game with a challenging combat system, a well-written storyline, and a beautiful setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. UFC 3
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  UFC 3 also takes the game out of the ring, and it’s the first UFC game to introduce G.O.A.T career mode, where you make decisions for your character outside of fighting. You can gain more fans, secure juicier contracts, and even antagonize rivals through the social media app in the game.
 
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## EA Play Is $5 Per Month of Unlimited Fun
 
@@ -118,19 +118,22 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie/"><u>[New] 2024 Approved Cut, Trim & Enhance YouTube Editing Tips for the Rookie</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-civi-3-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-error-components-not-found-windows/"><u>Eliminating Error: Components Not Found Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-indie-treasures-my-top-10-picks/"><u>Exploring Indie Treasures: My Top 10 Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/gamers-guide-buying-v-bucks-via-playstation-console/"><u>Gamers' Guide: Buying V-Bucks via PlayStation Console</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Max Without a Passcode</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/"><u>In 2024, Mastering Desktop & Mobile The Best Ways to Download FB Story</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-roblox-error-code-262/"><u>Navigating Through Roblox: Error Code 262</u></a></li>
-<li><a href="https://games-able.techidaily.com/rectifying-false-non-acceptable-card-alert-on-playstation/"><u>Rectifying False Non-Acceptable Card Alert on PlayStation</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/synchronize-and-watch-connecting-disneyplus-library-to-chromecast-for-ultimate-convenience/"><u>Synchronize and Watch: Connecting Disney+ Library to Chromecast for Ultimate Convenience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-ankers-resilient-outdoor-flashlight-durability-meets-illumination/"><u>The Ultimate Guide to Anker's Resilient Outdoor Flashlight: Durability Meets Illumination</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-psp-capabilities-for-dual-analog-mimicking/"><u>Unlocking PSP Capabilities for Dual Analog Mimicking</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-platform-predicament-choosing-the-right-space/"><u>[Updated] Platform Predicament Choosing the Right Space</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-jumpstart-to-understanding-av1-codecs/"><u>2024 Approved Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://games-able.techidaily.com/audio-devices-the-game-changer-for-gamers/"><u>Audio Devices: The Game-Changer for Gamers?</u></a></li>
+<li><a href="https://games-able.techidaily.com/chatgpt-mastery-for-roleplay-six-effective-techniques-unveiled/"><u>ChatGPT Mastery for Roleplay: Six Effective Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-enter-epic-environments-eliminate-lock-ups/"><u>Effortlessly Enter Epic Environments: Eliminate Lock-Ups</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-gionee-f3-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Gionee F3 Pro FRP Without Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-steam-deck-potential-with-top-9-emulators/"><u>Maximizing Your Steam Deck Potential with Top 9 Emulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/melody-maestros-top-audio-games-to-test-your-knowledge/"><u>Melody Maestros: Top Audio Games to Test Your Knowledge</u></a></li>
+<li><a href="https://games-able.techidaily.com/say-no-to-free-to-play-discover-the-benefits-of-premium-games/"><u>Say No to 'Free-to-Play': Discover the Benefits of Premium Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-lava-storm-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Lava Storm 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-social-media-interactions-twitch-banunban-guide/"><u>Streamlining Social Media Interactions: Twitch Ban/Unban Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211420283-9798892281874-the-spirituality-vol-1/"><u>The Spirituality Vol 1 | Free Book</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-magic-6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-video-potential-with-expert-chroma-techniques-for-2024/"><u>Unlock Video Potential with Expert Chroma Techniques for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/vehicle-vanguard-the-battle-between-physical-and-virtual-inputs/"><u>Vehicle Vanguard: The Battle Between Physical and Virtual Inputs</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 13? | Dr.fone</u></a></li>
 </ul></div>
 

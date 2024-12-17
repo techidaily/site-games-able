@@ -1,7 +1,7 @@
 ---
 title: Uncover Graphics Card Memory Limits
-date: 2024-08-31T19:25:27.886Z
-updated: 2024-09-01T19:25:27.886Z
+date: 2024-12-09T20:31:22.295Z
+updated: 2024-12-16T22:02:43.468Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
  Since just about every gamer and a number of content creators prefer using Windows, there are several tools that can give you varying amounts of information on how much VRAM your computer has.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using Windows Settings
 
  The simplest way of finding out how much VRAM you have is to go through your Windows Settings.
@@ -36,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
  Also, remember that while this is one of the simplest methods of looking up your VRAM, it doesn't give you a lot of information, and if you're using a laptop, it will only show the integrated GPU's VRAM here. If you'd like to know more about your computer's VRAM without downloading an external tool, the DirectX Diagnostic Tool is a better option.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Using the DirectX Diagnostic Tool
 
  As the name suggests, the DirectX Diagnostic Tool gives you information about your system and the GPUs installed in more detail so you can try and figure out what's wrong with your computer.
@@ -49,18 +50,21 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 2. Head over to the**Display** tab, and you'll see your GPU's name, the amount of VRAM, and other basic information.  
 ![Screenshot of the dxdiag tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dxdiag-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Third-Party Tools
 
  Last but not least, if the in-built Windows tools don't give you enough information or don't work for whatever reason, you can always default to third-party tools that are readily available, safe to use, and will give you a host of information on just about every component of your computer, including GPU and VRAM.
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
@@ -74,9 +78,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![Linux lshw tool showing GPU information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linux-vram-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  Alternatively, you can also use the`nvtop` or`radeontop` tools for Nvidia and AMD GPUs, respectively, if you'd like more information. These also include graphs of how your GPU is being used in real time. You can install these tools by using the following commands:
 
 `## For installing nvtop  
@@ -89,8 +90,9 @@ sudo apt-get install radeontop`
  Once the installation is complete, you can run the tools by typing`sudo nvtop` or`sudo radeontop` depending on which one you installed.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check VRAM on macOS
 
  Just like the two aforementioned operating systems, macOS also has tools that you can use to find out how much VRAM your computer has. Just follow these steps.
@@ -100,9 +102,6 @@ sudo apt-get install radeontop`
 
  Do keep in mind that this method only works on Intel-based Macs. If your Mac is powered by an M1 or M2 chip, it's not possible to see how much VRAM you have, as both the CPU and GPU are baked onto one chip.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is Knowing Your VRAM Important?
 
  As mentioned before, if you're a gamer or content creator, having enough VRAM on hand is very important. Without enough VRAM, you might struggle to run games at anything above the minimum quality settings, and in the case of some modern games, you might not be able to run them at all.
@@ -112,8 +111,9 @@ sudo apt-get install radeontop`
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
  There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
@@ -122,14 +122,11 @@ sudo apt-get install radeontop`
 
  Knowing your PC specs can help you save massively when buying a new computer or upgrading your existing one. If you know your specs, you can make informed decisions based on how you plan to use your computer, which means you'll be able to allocate more of your budget to the components that matter instead of spending all your money on the parts with the most RGB lighting.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +135,18 @@ sudo apt-get install radeontop`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-social-media-game-3-techniques-to-enhance-video-captions-on-ig/"><u>[New] 2024 Approved Elevate Your Social Media Game 3 Techniques to Enhance Video Captions on IG</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-financial-key-to-boosting-your-videos-reach-for-2024/"><u>[New] The Financial Key to Boosting Your Video's Reach for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/isualizing-the-most-influential-23-social-trends-for-2024/"><u>[New] Visualizing the Most Influential '23 Social Trends for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-capture-your-brilliance-in-insta-cinematic-footage-for-2024/"><u>[Updated] Capture Your Brilliance in Insta Cinematic Footage for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-discover-the-best-11-waterproof-cams-ideal-for-young-vloggers/"><u>[Updated] In 2024, Discover The Best 11 Waterproof Cams Ideal for Young Vloggers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-redmi-note-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Redmi Note 12 5G?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-ditch-recurring-games-on-steam/"><u>How to Ditch Recurring Games on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-efficiently-earning-all-steam-awards/"><u>Strategies for Efficiently Earning All Steam Awards</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transform-your-images-basic-tips-with-lunapic/"><u>Transform Your Images Basic Tips with LunaPic</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-playgrounds-for-gamers-glory/"><u>Ultimate Playgrounds for Gamers' Glory</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-leads-in-gaming-opera-gx-or-microsoft-edge-contest/"><u>Who Leads in Gaming? Opera GX or Microsoft Edge Contest</u></a></li>
+</ul></div>
 

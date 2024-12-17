@@ -1,7 +1,7 @@
 ---
 title: Your Guide to Claiming Unwanted Xbox Digital Titles
-date: 2024-10-20T06:56:24.693Z
-updated: 2024-10-25T02:29:48.987Z
+date: 2024-12-16T12:54:07.108Z
+updated: 2024-12-16T18:59:20.542Z
 tags:
   - games
 categories:
@@ -38,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
  The definition of what exactly a ‘significant amount of time’ is isn’t explained on[Microsoft’s website](https://support.xbox.com/en-us/help/subscriptions-billing/buy-games-apps/refund-orders) , but it likely depends on the game. For example, if you’re returning a five-hour-long game and you’ve played it for two hours, that’s almost 50% of the game that you’ve experienced. But if the game in question is 50 hours long and you’ve played it for two hours, you’ve only experienced a fraction of it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Request a Refund for a Digital Game on the Xbox Series X|S
@@ -64,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 ![Request a Refund Form Page Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/request-a-refund-form-page-microsoft.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6\. Enter the email address of the Microsoft account you used to make the purchase.
 
  7\. Press**Next** .
@@ -75,10 +76,7 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
  Your refund request will then be sent away for review, and you should expect an answer within 72 hours.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Happens if the Game I Want to Refund Isn’t Listed?
@@ -87,26 +85,20 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
  In most cases, if the game in question doesn’t show up on the returns page, it is non-refundable for one reason or another. In that case, it might pay to go back and review the details of your purchase and make sure you are eligible for a refund.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Happens Once My Refund Request Is Accepted?
 
  If your refund request is successful, you can expect to see an email from Microsoft confirming this, and you will be able to see your refund being processed in your Microsoft account. You will also have your access to the game revoked, so it will no longer be playable.
 
 ![Microsoft account order history page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-account-order-history-page-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To check your Microsoft account and see if your refund is being processed, head back to the Microsoft website and click your**user icon** in the top right corner. Select**My Microsoft account** , and head down to your**Order history** . If your refund was successful, you will see**Refunded** next to the game title.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Sure You Request Your Refunds Before It’s Too Late
@@ -130,20 +122,21 @@ thumbnail: https://thmb.techidaily.com/9bd169ce317850079833c4c232eaa6d389f824b0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-10-best-asmr-recorders-for-exceptional-audio-quality-for-2024/"><u>[New] 10 Best ASMR Recorders for Exceptional Audio Quality for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlocking-the-secrets-of-zoom-communication-practical-advice-for-successful-meetings/"><u>[New] 2024 Approved Unlocking the Secrets of Zoom Communication Practical Advice for Successful Meetings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-an-in-depth-guide-to-every-element-of-srt/"><u>[New] An In-Depth Guide to Every Element of SRT</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-steam-playback-perfection-in-video-games/"><u>[Updated] 2024 Approved Steam Playback Perfection in Video Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-iconic-logos-for-podcasts-standout-strategies/"><u>2024 Approved Iconic Logos for Podcasts Standout Strategies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-mobile-gaming-what-to-look-out-for/"><u>Decoding Mobile Gaming: What to Look Out For</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-vintage-psp-games-via-iphone/"><u>Embrace Vintage PSP Games via iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-graphics-performance-in-windows-gaming/"><u>Enhancing Graphics Performance in Windows Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-anywhere-phone-or-tablet-which/"><u>Game On Anywhere? Phone or Tablet, Which?</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-pace-165hz-game-screens/"><u>High-Pace 165Hz Game Screens</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-the-world-of-palworld/"><u>Inside the World of PalWorld</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-claiming-a-game-refund-on-steam/"><u>Mastering the Art of Claiming a Game Refund on Steam</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-handbrake-conversion-glitches-effortlessly-switch-from-mkv-to-mp4-and-avi/"><u>Solving HandBrake Conversion Glitches: Effortlessly Switch From MKV to MP4 & AVI</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/sql-sos-damians-roadmap-to-database-recovery/"><u>SQL SOS: Damian's Roadmap to Database Recovery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-peak-performance-pfv-settings-for-easy-movement/"><u>[New] In 2024, Peak Performance PFV Settings for Easy Movement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-entry-level-gaming-edit-suite-reviews/"><u>[New] In 2024, Top Entry-Level Gaming Edit Suite Reviews</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-visual-testimonial-advantage/"><u>[New] The Visual Testimonial Advantage</u></a></li>
+<li><a href="https://games-able.techidaily.com/2-year-tale-why-i-prefer-an-oled-monitor/"><u>2-Year Tale: Why I Prefer an OLED Monitor</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>2024 Approved Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-steps-to-prevent-incompatibility-in-your-new-computer-buy/"><u>7 Steps to Prevent Incompatibility in Your New Computer Buy</u></a></li>
+<li><a href="https://games-able.techidaily.com/adapt-overcome-playing-fortnite-on-your-mac-wisely/"><u>Adapt, Overcome: Playing Fortnite on Your Mac Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-settings-for-superior-steam-deck-typing/"><u>Adjusting Settings for Superior Steam Deck Typing</u></a></li>
+<li><a href="https://games-able.techidaily.com/become-a-word-game-virtuoso-mastering-strands-new-york-times-edition/"><u>Become a Word Game Virtuoso: Mastering Strands, New York Times Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/first-steps-to-fame-8-free-courses-for-youtube-novices-for-2024/"><u>First Steps to Fame 8 Free Courses for YouTube Novices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172752956-game-boy-advance-excellence-with-ioss-leading-emulators/"><u>Game Boy Advance Excellence with iOS's Leading Emulators!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mjolnirs-legacy-new-era-dawned/"><u>Mjolnir's Legacy New Era Dawned</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/redragon-mic-malfunction-on-pc-heres-how-to-repair-and-resolve-for-optimal-audio-performance/"><u>Redragon Mic Malfunction on PC? Here's How to Repair and Resolve for Optimal Audio Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168257558-step-into-the-fun-zone-engage-with-these-6-chatgpt-games/"><u>Step Into the Fun Zone: Engage With These 6 ChatGPT Games</u></a></li>
+<li><a href="https://win-community.techidaily.com/stunning-one-piece-hd-visuals-for-your-screen-premium-wallpapers-and-background-graphics-by-yl-computing-solutions/"><u>Stunning One Piece HD Visuals for Your Screen: Premium Wallpapers and Background Graphics by YL Computing Solutions</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/yl-software-solutions-troubleshooting-and-repairing-printer-issues-easily/"><u>YL Software Solutions: Troubleshooting and Repairing Printer Issues Easily</u></a></li>
 </ul></div>
 

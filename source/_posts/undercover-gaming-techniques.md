@@ -1,7 +1,7 @@
 ---
 title: Undercover Gaming Techniques
-date: 2024-08-31T19:20:51.898Z
-updated: 2024-09-01T19:20:51.898Z
+date: 2024-12-16T13:38:13.841Z
+updated: 2024-12-17T04:02:32.552Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  In this article, we’ll take a look at how you can stop your friends from checking your gameplay activity, how you can hide games from your library, or how to make your profile private. And if you don't want your friends to see that you've been up all night playing, there's an easy trick to replace your recent activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide Played Steam Games
 
  When someone visits your profile, they can see which games you’ve played and for how many hours. Now, if you don’t want your gamer friends to discover your guilty pleasures, you can hide your played games from your profile.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
 ![Hide Steam played games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-played-games-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Hide Steam Games From Your Library
 
  If you’re sharing the computer with anyone else, it might make sense to hide certain games from your Steam library. Maybe they’re younger than you and the in-game content is not appropriate for their age.
@@ -38,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
 ![Hide Steam game from library](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-steam-game-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to play the game that you’ve hidden, go to**View > Hidden games** . To bring back the game to your library, access its settings and click**Manage > Remove from hidden** .
 
 ![Unhide Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/unhide-game-steam-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hiding a game is an easy trick, but it might not be enough to prevent other people from finding it. In this case, you can[uninstall a Steam game and reinstall it later](https://www.makeuseof.com/how-to-uninstall-steam-games-reinstall/) .
 
@@ -54,17 +70,10 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
 ![Set status to Invisible on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-invisible-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The**Offline** option will log you out of the Steam chat, so you’ll not receive any messages from your friends. On the other hand, if you still want to communicate with your friends, it’s better to select**Invisible** . Also, you will not receive any invitations on Steam while you’ve set your status as**Offline** or**Invisible** .
 
  Besides hiding your Steam gameplay activity, you can[customize the in-game activity status on Steam](https://www.makeuseof.com/how-to-customize-in-game-activity-status-steam/) to confuse your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Hide Steam Gameplay Activity for Specific Friends
 
  You can hide your Steam gameplay activity for individual friends if hiding it for all of your friends feels like overdoing it.
@@ -73,13 +82,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Block friends on Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-friends-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you block all communication, your friends will see you as offline. Also, if they visit your profile, Steam will show your profile as a private one.
 
  So, if you don’t want to raise suspicions, you should unblock them after a while. Go through the above steps again and select**Unblock All Communication** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Replace Recent Activity
 
  If you didn’t remember to set your status as**Invisible** or**Offline** before going on a gaming marathon, and you don’t want your friends to see your Recent Activity, there’s a quick trick you can try.
@@ -97,9 +107,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Go through the above steps two or three more times, but play different episodes. Steam will try to replace your recent activities, but because it couldn’t properly play the episodes, it will simply remove the previous Recent Activity version.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Make Your Steam Profile Private
 
  If you don’t want to manage multiple settings on your Steam account, you can choose the nuclear option and set your profile to**Private** . This will block any form of communication with your friends and will influence multiple categories such as Game details, Friends List, and Inventory.
@@ -113,26 +120,17 @@ Follow these steps to set your profile to Private:
 
 ![Set Steam profile to Private](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-private-profile-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Keep Steam Private
 
  Playing games should always be about having fun and a little privacy might help. With the above tips, you can keep prying eyes away so no one can spoil your gaming sessions. If you want to keep everything to yourself, you should set your profile as**Private** . But if you still want to share game inventory with your friends, you can set your status as**Offline** or**Invisible** before playing.
 
  If you notice you can't unlock any achievements on your Steam account, it has nothing to do with your efforts to hide your Steam activity. Instead, try to disable Steam offline mode or take a quick look at the achievement guide. Also, make sure it's a Steam game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +139,21 @@ Follow these steps to set your profile to Private:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide-for-2024/"><u>[New] Accelerate Your Facebook Video Journey In-Depth App & Extension Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-20-best-anime-opening-songs-of-all-time/"><u>[New] In 2024, 20 Best Anime Opening Songs of All Time</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-quick-guide-eliminating-photo-viewer-crashes-on-windows-10/"><u>[Updated] Quick Guide Eliminating Photo Viewer Crashes on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bash-basics-initiating-conversations-with-chatgpt-via-shellgpt/"><u>Bash Basics: Initiating Conversations with ChatGPT via ShellGPT</u></a></li>
+<li><a href="https://win-web.techidaily.com/fichier-explorer-windows-11-bug-fix-top-7-remedies/"><u>Fichier Explorer Windows 11 Bug Fix: Top 7 Remedies</u></a></li>
+<li><a href="https://games-able.techidaily.com/first-impressions-of-keychron-lemokey-l3-analysis/"><u>First Impressions of Keychron: Lemokey L3 Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-unreachable-steam-servers-on-windows-pc/"><u>Fixing Unreachable Steam Servers on Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-past-to-present-playing-flash-games-without-adobe/"><u>From Past to Present: Playing Flash Games Without Adobe</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-essentials-skip-the-high-end-monitors-save-your-money/"><u>Gaming Essentials - Skip the High-End Monitors, Save Your Money</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-swap-mechanics-explored-in-razers-blackwidow-v4/"><u>Hot Swap Mechanics Explored in Razer’s BlackWidow V4</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-mycam-changes-video-recording-at-home-an-in-depth-review/"><u>How MyCam Changes Video Recording at Home – An In-Depth Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-backwards-play-iphones-unique-reverse-feature/"><u>In 2024, Backwards Play IPhone's Unique Reverse Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplifying-the-content-file-locked-fiasco-in-steam/"><u>Simplifying the Content File Locked Fiasco in Steam</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-big-reason-to-choose-apples-iphone-16-pro-instead-of-the-max-model-this-year-exclusive-findings/"><u>The Big Reason to Choose Apple's iPhone 16 Pro Instead of the Max Model This Year - Exclusive Findings</u></a></li>
+</ul></div>
 

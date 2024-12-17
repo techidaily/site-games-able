@@ -1,7 +1,7 @@
 ---
 title: "Cross-Play: Using PS5's Controllers on PS4?"
-date: 2024-08-31T19:19:56.306Z
-updated: 2024-09-01T19:19:56.306Z
+date: 2024-12-10T09:14:06.403Z
+updated: 2024-12-16T17:45:28.044Z
 tags:
   - games
 categories:
@@ -38,13 +38,15 @@ Here’s how to do that:
 4. After you sign in, click the**PS4 icon** on the right. This will make the app attempt to connect to the PS4 console.  
 ![choosing which console to connect to on the ps remote play app for pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/connect-ps4-remote-play-pc.jpg)
 5. Once the Remote Play app and PS4 connect, plug the DualSense controller into your computer using a USB-C cable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Enjoy your game.
 
  The PS5 controller will now work on your PS4, but if you unplug it from your computer, it will lose the connection. Keep it plugged in at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How Do PS5 Controllers Work on PS4 Using Remote Play on Mobile?
 
  If you don't have a computer, you can also download the Remote Play app on the[App Store](https://apps.apple.com/us/app/ps-remote-play/id1436192460) or on[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2012734/https://play.google.com/store/apps/details?id=com.playstation.remoteplay&cjevent=b7556139646111ee834a011c0a18b8f6) and use that instead. First, you need to[put the PS5 controller in pairing mode](https://www.makeuseof.com/how-to-ps5-dualsense-controller-pairing-mode/) and pair it with your mobile device through Bluetooth. You'll know you've paired the controller with your mobile device when its light remains lit after selecting the controller in the Bluetooth settings.
@@ -55,21 +57,25 @@ Here’s how to do that:
 2. Tap**PS4** for the app to search for your console and connect to it.  
 ![the sign in button on PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-sign-in-button-on-ps-remote-play-mobile-app.jpg)  
 ![choosing a console to connect to on the PlayStation Remote Play mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/choosing-a-console-to-connect-to-on-the-ps-remote-play-mobile-app.jpg)  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Once the Remote Play app and PS4 connect, you can start using your DualSense Controller.
 
  What's great about this method, compared to using Remote Play on PC, is that you can use the PS5 controller wirelessly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do PS5 Controllers Work on PS4 Using the Titan Two Adapter?
 
  Remote Play works just fine if you have a device that supports it, but if you don't have one or don't want to deal with possible input lag from streaming, there's one more middleman you can try: Titan Two by[ConsoleTuner](https://www.consoletuner.com/products/titan-two/) .
@@ -79,22 +85,20 @@ Close
  Now you'll be able to use the DualSense controller on your PlayStation 4 without needing Remote Play.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use the DualSense Controller on PS4 the Hard Way
 
  Unfortunately, the answer to "Can you use a PS5 controller on a PS4?" is "not directly." It's not as easy as plugging the DualSense into your PlayStation 4, and you're good to go. To get the DualSense to Work on PS4, you need a device that supports PS Remote Play or use the Titan Two adapter as a bridge to connect the two.
 
  These methods might not be the easiest way to get around it, and you may have to deal with some input lag when it comes to Remote Play, but they work.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -103,4 +107,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-revolutionizing-video-praise-with-innovative-approaches/"><u>[New] 2024 Approved Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leveraging-tech-for-efficient-facebook-to-whatsapp-video-sharing/"><u>[New] Leveraging Tech for Efficient Facebook to WhatsApp Video Sharing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-excellence-in-hd-recording-leading-screen-recorder-options/"><u>[Updated] Excellence in HD Recording Leading Screen Recorder Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/artificial-wisdom-deciphers-virtual-murders/"><u>Artificial Wisdom Deciphers Virtual Murders</u></a></li>
+<li><a href="https://games-able.techidaily.com/benefits-of-postponed-gaming-releases/"><u>Benefits of Postponed Gaming Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-creators-quest-searching-for-new-tech-wonders/"><u>Cosmic Creator's Quest: Searching for New Tech Wonders</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-fun-experiences-on-discord-with-board-games/"><u>Crafting Fun Experiences on Discord with Board Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/dandd-dynamics-boosted-six-chatgpt-methods-to-become-your-mentor/"><u>D&D Dynamics Boosted: Six ChatGPT Methods to Become Your Mentor</u></a></li>
+<li><a href="https://driver-error.techidaily.com/download-and-update-lenovo-y900-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update Lenovo Y900 Drivers for Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-method-for-windows-11-dialer-activation/"><u>Fast-Track Method for Windows 11 Dialer Activation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-showdown-projection-systems-versus-tv-in-4k-world-for-2024/"><u>High-Definition Showdown Projection Systems versus TV in 4K World for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974627677-hp-deskjet-ink-advantage-printer-find-the-official-3520-drivers-here/"><u>HP Deskjet Ink Advantage Printer - Find the Official 3520 Drivers Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-uninterrupted-adventures-top-10-best-offline-ios-titles/"><u>In 2024, Uninterrupted Adventures Top 10 Best Offline iOS Titles</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/puzzling-over-why-your-facebook-feed-lacks-recommended-movies/"><u>Puzzling Over Why Your Facebook Feed Lacks Recommended Movies</u></a></li>
+<li><a href="https://games-able.techidaily.com/safe-operating-zones-navigating-gpu-temps/"><u>Safe Operating Zones: Navigating GPU Temps</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-handle-xbox-gold-on-series-xs/"><u>Strategies to Handle Xbox Gold on Series X/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-game-console-emulations-that-enhance-your-macgaming/"><u>Top 5 Game Console Emulations That Enhance Your macGaming</u></a></li>
+</ul></div>
 

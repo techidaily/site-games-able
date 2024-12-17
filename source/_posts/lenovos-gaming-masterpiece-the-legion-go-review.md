@@ -1,7 +1,7 @@
 ---
 title: "Lenovo's Gaming Masterpiece: The Legion Go Review"
-date: 2024-12-05T03:41:18.034Z
-updated: 2024-12-10T21:05:01.617Z
+date: 2024-12-10T06:21:06.457Z
+updated: 2024-12-17T09:07:53.748Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/6a18129a35160648e7ff206817c86c3e7a35764f1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,6 +38,10 @@ Watch out Steam, ASUS, and dare I say, even Nintendo?
 ## Lenovo Legion Go Hardware Specs
 
 ![man holding lenovo legion go at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-holding-lenovo-legion-go-at-ifa-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -64,10 +68,6 @@ You can check out the Lenovo Legion Go's specs below.
 
  Image Credit: Gavin Phillips/MakeUseOf
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Lenovo Legion Go Features We Loved
 
  The Lenovo Legion Go is shaping up to be a cracking gaming handheld, so much so, we gave it a[Best Tech in Show award for IFA 2023](https://www.makeuseof.com/makeuseof-best-of-ifa-2023-awards/) . These are the features we loved during our hands-on test.
@@ -84,9 +84,17 @@ You can check out the Lenovo Legion Go's specs below.
 
  Although the brightness of the Legion Go and the ROG Ally are the same, at 500 nits, the Lenovo unit delivers much greater color range and depth by way of its 97% DCI-P3 color gamut support. In short, it displays a wider range of colors, which really shows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. FPS Mode
 
 ![man using lenovo legion go fps mode at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/man-using-lenovo-legion-go-fps-mode-at-ifa-2023.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
 
@@ -97,7 +105,7 @@ You can check out the Lenovo Legion Go's specs below.
  You can also use the right controller as a mouse, which can make it easier to navigate menus and otherwise on the Legion Go. The experience is very similar to a regular mouse, which will make it accessible to most folks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Bigger Battery
@@ -111,7 +119,7 @@ You can check out the Lenovo Legion Go's specs below.
 ![lenovo legion go on table at ifa 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/lenovo-legion-go-on-table-at-ifa-2023.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Gavin Phillips/MakeUseOf
@@ -119,10 +127,6 @@ You can check out the Lenovo Legion Go's specs below.
  The overall Lenovo Legion Go hardware package is brilliant, and it should fill anyone considering picking one of these up with joy. While we didn't get to play any massively taxing games during our hands-on experience (we were limited to Hot Wheels and Vampire Surviors), the buttery-smooth screen was evident, powered by AMD's Ryzen Z1, built specifically for handheld gaming devices.
 
  You should be able to really make the most of the 8.8-inch QHD screen, though we must concede that you'll be playing around with resolution and settings to prolong battery life. That's just a fact of life for any handheld gaming device, though.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Size and Weight
 
@@ -137,10 +141,6 @@ You can check out the Lenovo Legion Go's specs below.
  But even with its larger frame, the Legion Go still feels nicely balanced. You can hold it for a period without getting tired, and while most people are likely to rest the unit on their lap or use the integrated kickstand, the 1.88 lbs doesn't feel overly cumbersome.
 
 The carry case is also a nice touch!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Lenovo Legion Go Launch Date and Price
 
@@ -167,18 +167,22 @@ The carry case is also a nice touch!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023-insights-into-snipping-those-facebook-live-moments/"><u>[New] In 2024, 2023 Insights Into Snipping Those Facebook Live Moments</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-investigating-the-effectiveness-of-vsdcs-screen-capture-tech/"><u>[Updated] 2024 Approved Investigating the Effectiveness of VSDC's Screen Capture Tech</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-propel-your-productivity-mastering-marketing-in-the-telegram-world/"><u>[Updated] Propel Your Productivity Mastering Marketing in the Telegram World</u></a></li>
-<li><a href="https://win-hot.techidaily.com/error-the-content-youre-looking-for-doesnt-exist-here/"><u>Error: The Content You're Looking For Doesn't Exist Here</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guia-paso-a-paso-para-restaurar-recordatorios-en-tu-iphone/"><u>Guía Paso a Paso Para Restaurar Recordatorios en Tu iPhone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-portable-charging-units-for-ps5/"><u>Ideal Portable Charging Units for PS5</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/indie-game-highlights-exploring-my-favorite-picks/"><u>Indie Game Highlights: Exploring My Favorite Picks</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-world-of-warcraft-performance-top-tips-to-counteract-low-fps/"><u>Mastering World of Warcraft Performance: Top Tips to Counteract LOW FPS !</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-audio-accessories-for-switch/"><u>Optimal Audio Accessories for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-up-offline-the-ultimate-selection-of-gaming-apps/"><u>Power Up Offline: The Ultimate Selection of Gaming Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/snes-and-nes-controls-stream-style/"><u>SNES & NES Controls, Stream Style</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-guide-to-discover-friends-in-steam/"><u>The Essential Guide to Discover Friends in Steam</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-free-extension-software-leaders-in-chromebook-video-recording/"><u>[New] In 2024, Free Extension Software Leaders in Chromebook Video Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-masterful-traffic-puller-genius-for-2024/"><u>[Updated] Masterful Traffic Puller Genius for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-capturing-made-easy-best-apps-for-windows-10-for-2024/"><u>[Updated] Screen Capturing Made Easy Best Apps for Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-entering-the-fullscreen-realm-choosing-a-cms/"><u>2024 Approved Entering the Fullscreen Realm Choosing a CMS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-guide-to-theta-s-features/"><u>2024 Approved The Ultimate Guide to Theta S Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortless-method-to-set-up-discord-for-mac-users/"><u>Effortless Method to Set Up Discord for Mac Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-storage-solutions-for-classic-gaming-with-chdmans-wisdom/"><u>Enhanced Storage Solutions for Classic Gaming with CHDMAN's Wisdom</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-optimizing-windows-media-players-audio-operations-from-cds/"><u>In 2024, The Art of Optimizing Windows Media Player's Audio Operations From Cds</u></a></li>
+<li><a href="https://games-able.techidaily.com/ingenious-methods-to-stay-undetected/"><u>Ingenious Methods to Stay Undetected</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/leveraging-the-power-of-nvenc-in-handbrake-a-step-by-step-guide-to-faster-video-encode-settings/"><u>Leveraging the Power of NVENC in HandBrake: A Step-by-Step Guide to Faster Video Encode Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/love-the-fallout-show-explore-the-game-series-with-these-titles/"><u>Love the Fallout Show? Explore the Game Series With These Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-high-speed-seas-handheld-grip-or-finger-tap/"><u>Navigating High-Speed Seas: Handheld Grip or Finger Tap?</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-machines-vs-gaming-computing-units/"><u>Productivity Machines Vs. Gaming Computing Units</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-g54-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on G54 5G</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-iphones-roblox-ram-alert/"><u>Tackling iPhone's Roblox RAM Alert</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-driverpowerstatefailure-malfunctions/"><u>Troubleshooting Tips: How to Resolve DRIVER_POWER_STATE_FAILURE Malfunctions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unite-for-success-strategies-for-2p-gameplay-in-switchs-minecraft/"><u>Unite for Success: Strategies for 2P Gameplay in Switch’s Minecraft</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Evaluating Mechanical Keyboards' Role in Gaming
-date: 2024-12-06T18:57:35.316Z
-updated: 2024-12-10T18:53:15.312Z
+date: 2024-12-11T07:23:46.565Z
+updated: 2024-12-17T12:41:43.568Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 * [Do You Need a Mechanical Keyboard for Gaming?](#do-you-need-a-mechanical-keyboard-for-gaming)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  Mechanical keyboards are easily one of the most popular things recommended for gaming PC setups. However, mechanical keyboards may not be as essential to your gaming experience as you think, despite their benefits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Benefits of Mechanical Keyboards for Gaming
 
  Since we’re talking about gaming, we’re mainly going to focus on gaming mechanical keyboards since they offer many features that normal mechanical keyboards don’t offer. Of course, we’ll also state the benefits of using any mechanical keyboard for gaming.
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 ![Pushing down stem of mechanical switch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pushing-down-stem-of-mechanical-switch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -70,6 +66,10 @@ Jhet Borja/MakeUseOf
  I’m currently writing this on my mechanical keyboard that uses linear switches and I use this for both gaming and work. Even if there is no tactile bump on the actuation point, the bottom-out feedback is solid, letting me know that I don’t need to press any harder.
 
  When you’re gaming intensely, this tactile feedback is precious. It lets you know that you’ve done the action without second-guessing yourself. If you’re not constantly worried about whether you’ve successfully pressed a key on your keyboard or not, you’re left with more mental capacity to worry about what you need to do in the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gaming Mechanical Keyboards Have Many Functions and Features
 
@@ -96,20 +96,20 @@ Jhet Borja/MakeUseOf
  You can choose between[clicky, tactile, or linear switches](https://www.makeuseof.com/linear-vs-tactile-vs-clicky-switches-whats-the-difference/) , or even switches with different actuation points. There are so many different directions that you can go with a mechanical keyboard that you might want to check out our[ultimate beginner’s guide to mechanical keyboards](https://www.makeuseof.com/beginner-custom-mechanical-keyboard-guide/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Drawbacks of Mechanical Keyboards for Gaming
 
  There aren’t many drawbacks to mechanical keyboards since they do everything regular keyboards do but better. However, that doesn’t mean there aren’t any. If you’re using a non-mechanical keyboard right now, you should take these into consideration and see whether it’s worth switching to a mechanical keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mechanical Keyboards Are Heavier
 
 ![Keychon Q1 side profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/05/keychon-q1-side-profile.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -122,6 +122,10 @@ Jhet Borja/MakeUseOf
 ### Mechanical Keyboards Cost More
 
 ![gateron yellow switches beside keyboard and wrist rest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gateron-yellow-switches-beside-keyboard-and-wrist-rest-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -136,10 +140,6 @@ Jhet Borja/MakeUseOf
  There are different switch types with different sound profiles, but most of these are louder than non-mechanical keyboards. You can use O-rings to soften the bottom-out sound, but that usually ruins the feel of the mechanical keyboard and doesn’t account for the rebound sound after letting go of the switch.
 
  To get a pretty quiet mechanical keyboard, you’ll have to go to pretty great lengths to achieve it, which might not make it worth it for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do You Need a Mechanical Keyboard for Gaming?
 
@@ -164,22 +164,24 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-method-for-removing-downloaded-youtube-videos/"><u>[Updated] 2024 Approved Method for Removing Downloaded YouTube Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30i-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/activating-windows-defender-a-step-by-step-guide-protect-your-pc-with-ease/"><u>Activating Windows Defender: A Step-by-Step Guide - Protect Your PC with Ease</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/beyond-reality-expert-tips-for-documenting-vr-gaming-sessions-for-2024/"><u>Beyond Reality Expert Tips for Documenting VR Gaming Sessions for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-trainer-strategies-using-chatgpt/"><u>Enhancing Trainer Strategies Using ChatGPT</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-earning-potential-on-youtubers-for-2024/"><u>Ensuring Earning Potential on YouTubers for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-innovators-reveal-upcoming-hardware-at-ifa-2023/"><u>Game Innovators Reveal Upcoming Hardware at IFA 2023</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-3755-all-in-one-driver-software-for-your-pc-windows-10-8-and-7/"><u>Get the Newest HP DeskJet 3755 All-in-One Driver Software for Your PC (Windows 10, 8 & 7)</u></a></li>
-<li><a href="https://games-able.techidaily.com/internet-woes-reviving-your-nintendo-switch/"><u>Internet Woes: Reviving Your Nintendo Switch</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/meet-the-innovative-challenger-to-apples-dynamic-island-the-pioneering-android-powered-alternative-now-available/"><u>Meet the Innovative Challenger to Apple's Dynamic Island – The Pioneering Android-Powered Alternative Now Available</u></a></li>
-<li><a href="https://games-able.techidaily.com/monthly-gaming-access-battle-psplus-xbgplus/"><u>Monthly Gaming Access Battle: PS+ XBG+</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-your-networks-speed-techniques-for-lowering-high-response-times/"><u>Optimizing Your Network's Speed: Techniques for Lowering High Response Times</u></a></li>
-<li><a href="https://games-able.techidaily.com/pre-purchase-pc-analysis-for-seamless-integration/"><u>Pre-Purchase PC Analysis for Seamless Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/retro-game-files-and-images-access-path-guide/"><u>Retro Game Files & Images - Access Path Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1424543-9781780283432-the-rise-and-fall-of-atlantis/"><u>The Rise and Fall of Atlantis | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-switch-mac-gaming-manual/"><u>The Ultimate Switch-Mac Gaming Manual</u></a></li>
-<li><a href="https://games-able.techidaily.com/unparalleled-couch-co-op-gaming-16-best-for-series-consoles/"><u>Unparalleled Couch Co-Op Gaming: 16 Best for Series Consoles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-steps-for-resizing-videos-in-igtv/"><u>[New] In 2024, Essential Steps for Resizing Videos in IGTV</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-entering-filmmaking-with-smart-camera-choices-23-update/"><u>[Updated] 2024 Approved Entering Filmmaking with Smart Camera Choices '23 Update</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discovering-your-youtube-comments-on-various-devices/"><u>[Updated] Discovering Your YouTube Comments on Various Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-diving-into-the-world-of-youtube-search-engine-rankings/"><u>[Updated] Diving Into the World of YouTube Search Engine Rankings</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-larger-game-companies-stifling-the-markets-health-market-analysis-special-episode/"><u>Are Larger Game Companies Stifling the Market's Health? [Market Analysis Special Episode]</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-iphones-iphone-16-versus-iphone-15-essential-points-for-choosing-apples-latest-smartphone-cnet/"><u>Comparing iPhones: IPhone 16 Versus iPhone 15 – Essential Points for Choosing Apple's Latest Smartphone | CNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-vs-computer-gaming-face-off/"><u>Console Vs. Computer: Gaming Face-Off</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-the-next-wave-of-mmo-innovations/"><u>Decoding the Next Wave of MMO Innovations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209845682-9781936470471-forgiveness/"><u>Forgiveness | Free Book</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-s24plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy S24+ Phones with/without a PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hydroclear-evaluation-underwater-clarity-mastery/"><u>HydroClear Evaluation: Underwater Clarity Mastery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-discovering-the-top-10-video-calls-for-mobile-users-worldwide/"><u>In 2024, Discovering the Top 10 Video Calls for Mobile Users Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/java-game-selection-what-made-us-choose-them/"><u>Java Game Selection: What Made Us Choose Them</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-xbox-series-xs-controller-dismantling-guide/"><u>Step-by-Step Xbox Series X/S Controller Dismantling Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-simulate-steam-disconnection/"><u>Strategies to Simulate Steam Disconnection</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dirt-free-diary-weekly-console-care-routines/"><u>The Dirt-Free Diary: Weekly Console Care Routines</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-value-proposition-of-early-game-access/"><u>The Value Proposition of Early Game Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-gaming-hubs-champions-collectives/"><u>Top 9 Gaming Hubs: Champions' Collectives</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210827957-9781640285316-voices-bumps-thumps-and-jumps/"><u>Voices, Bumps, Thumps, and Jumps | Free Book</u></a></li>
 </ul></div>
 

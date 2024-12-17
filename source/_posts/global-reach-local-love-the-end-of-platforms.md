@@ -1,7 +1,7 @@
 ---
 title: "Global Reach, Local Love: The End of Platforms"
-date: 2024-10-22T07:25:31.573Z
-updated: 2024-10-25T00:32:56.035Z
+date: 2024-12-12T01:20:56.999Z
+updated: 2024-12-16T20:06:38.083Z
 tags:
   - games
 categories:
@@ -19,19 +19,16 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [A Brief History of Platform Exclusivity](#a-brief-history-of-platform-exclusivity)
 * [How Platform Exclusives Are Coming to an End](#how-platform-exclusives-are-coming-to-an-end)
 * [Why Platform Exclusives Are Going Away](#why-platform-exclusives-are-going-away)
 * [Why I'm Glad Platform Exclusives Are No More](#why-i-39-m-glad-platform-exclusives-are-no-more)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 
  The end of platform-exclusive games is nigh, and we're here for it. While some key IPs are likely to be kept on one console (and/or PC), many will be available to play on whatever platform you choose. And that has to be a good thing. Here's why...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Brief History of Platform Exclusivity
 
  For decades, platform exclusives have played a big part in the story of video games. And they have had a hand in deciding which console won each generation.
@@ -49,18 +50,15 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 
 ![Joysticks on an old arcade cabinet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_1089499448.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Giuseppe Cammino/[Shutterstock](https://www.shutterstock.com/image-photo/joystick-vintage-arcade-videogame-coinop-1089499448)
 
  In the late 80s and early 90s, this platform exclusivity formed around two now-iconic characters: Sonic and Mario. Nintendo and Mario were well-established, but then Sega and Sonic entered the scene. And if you wanted to play the Sonic games, you needed to own a Sega system. And millions duly bought Sega's consoles as a result.
 
  Once we entered the PlayStation/Xbox era, platform exclusivity became an even bigger part of the story. Both Sony and Microsoft created original IP designed to shift units, as well as paying third-party developers and publishers large amounts of money to secure timed exclusives. And that battle of the exclusives (of all kinds) has persisted ever since.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Platform Exclusives Are Coming to an End
 
@@ -78,22 +76,13 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 
  The same is true for Nintendo, which has released games featuring some of its biggest characters (Mario, Pokemon) on smartphones. The company hasn't yet released a Mario game on a rival console, but that doesn't mean it never will.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Platform Exclusives Are Going Away
 
 ![horizon forbidden west page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/horizon-forbidden-west-page-on-steam.png)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  So, why are platform exclusives coming to an end? The obvious answer is that they're no longer the best option available to the companies responsible. The benefits of opening titles up to everyone, regardless of platform, massively outweigh the benefits of keeping titles exclusive to one console. As outlined above, Phil Spencer, someone who should know, said as much.
 
@@ -108,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
  This is especially true for Microsoft, as Game Pass Ultimate includes[Xbox Cloud Gaming](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) . While currently in beta, this lets subscribers play Xbox games on a range of devices beyond Xbox consoles. This includes phones, tablets, PCs, smart TVs, and VR headsets.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why I'm Glad Platform Exclusives Are No More
@@ -141,24 +127,15 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>[New] 2024 Approved The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-behind-the-scenes-of-virtual-reality-films-for-2024/"><u>[New] Behind the Scenes of Virtual Reality Films for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-critical-methods-to-record-lol-skirmishes-for-2024/"><u>[Updated] Critical Methods to Record LOL Skirmishes for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-craft-cinematic-magic-learn-green-screen-wonders-with-youtube/"><u>2024 Approved Craft Cinematic Magic Learn Green Screen Wonders with YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photographys-best-haven-seamlessly-merge-free-and-charged-digital-space/"><u>2024 Approved Photography's Best Haven Seamlessly Merge Free and Charged Digital Space</u></a></li>
-<li><a href="https://games-able.techidaily.com/boosting-xbox-experience-through-dual-display-setup/"><u>Boosting Xbox Experience Through Dual Display Setup</u></a></li>
-<li><a href="https://games-able.techidaily.com/breathing-life-back-into-your-gps-reclaiming-signal-in-pokemon-go-adventures/"><u>Breathing Life Back Into Your GPS: Reclaiming Signal in Pokémon Go Adventures</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-back-those-good-old-days-why-your-game-needs-pi/"><u>Bring Back Those Good Old Days: Why Your Game Needs Pi</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-back-your-ps4-joystick-immediate-fix-tips-and-tricks/"><u>Bring Back Your PS4 Joystick: Immediate Fix Tips and Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-you-reuse-your-older-games-drives-with-the-ps5/"><u>Can You Reuse Your Older Games' Drives with the PS5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-circuits-victory-vistas/"><u>Champion Circuits: Victory Vistas</u></a></li>
-<li><a href="https://games-able.techidaily.com/choose-game-pass-ultimate-for-endless-gaming-joy/"><u>Choose Game Pass Ultimate for Endless Gaming Joy</u></a></li>
-<li><a href="https://games-able.techidaily.com/circumventing-steam-login-failures-windows-and-rust-approach/"><u>Circumventing Steam Login Failures: Windows & Rust Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/classic-charms-iphone-apps-for-old-school-games/"><u>Classic Charms: IPhone Apps for Old-School Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-iphone-13-mini-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On iPhone 13 mini Smoothly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-landscape-of-fb-med-ad-optimization-for-2024/"><u>Navigating the Landscape of FB Med Ad Optimization for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essence-of-whatsapp-call-conversations/"><u>The Essence of WhatsApp Call Conversations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-notes-and-alerts-implementation/"><u>[Updated] Mastering YouTube Notes & Alerts Implementation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-snapping-on-a-mac-explained-for-2024/"><u>[Updated] Screen Snapping on a Mac Explained for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-pros-and-cons-of-buying-digital-games/"><u>9 Pros (and Cons) of Buying Digital Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-remedies-troubleshoot-steams-unwritable-library/"><u>9 Remedies: Troubleshoot Steam's Unwritable Library</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-closer-look-at-mobilitys-flaws-in-playing/"><u>A Closer Look at Mobility's Flaws in Playing</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-ps5-game-deletion/"><u>A Step-by-Step Guide to PS5 Game Deletion</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-windows-cannot-boot-hardware-device-code-n-for-optical-drives-in-microsofts-latest-operating-system/"><u>Diagnosing and Fixing Windows Cannot Boot Hardware Device (Code N) for Optical Drives in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-crystal-clear-quality-with-our-picks-of-the-best-7-4k-video-players-on-the-market/"><u>Experience Crystal Clear Quality with Our Picks of the Best 7 4K Video Players on the Market</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-kinemaster-for-mac-download-guide-for-you-for-2024/"><u>New KineMaster for Mac Download Guide for You for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-1020-driver-functionality-in-windows/"><u>Streamlining HP 1020 Driver Functionality in Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Neglected Consequences: Devs Getting Paid by Players"
-date: 2024-12-07T00:14:33.203Z
-updated: 2024-12-11T02:42:47.938Z
+date: 2024-12-13T20:58:31.553Z
+updated: 2024-12-17T01:05:25.069Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Tipping game developers could be an option, but other methods like crowdfunding and Patreon already exist.
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 * Tipping culture in gaming may lead to low pay and poor conditions; a sustainable gaming economy is crucial for the future of the industry.
 
  A controversial issue arose in gaming circles recently: the idea of tipping game developers. While it’s an interesting concept, I don’t think it’s the way forward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who’s Suggesting We Tip Game Developers?
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Needless to say, this post generated a lot of discussion, reheating various[debates about the price of video games](https://www.makeuseof.com/video-games-should-be-more-expensive-reasons-why/) and developer salaries.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Much Do Game Developers Already Earn?
@@ -52,16 +52,12 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
  Game devs working on their own, meanwhile, will struggle unless they strike gold. Perhaps the best example is Eric Barone, the creator of the smash-hit farming sim Stardew Valley. Barone worked on his own for over four years, but his game’s success has repaid him significantly; the developer now has a net worth estimated at $45m.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Alternatives Are Already Available
 
 ![A screenshot showing the Hollow Knight kickstarter campaign.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/hollow-knight-kickstarter.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Tipping is an interesting idea, but do we really need one more payment method?
 
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Buying a second copy—or “double-dipping”—is another tactic fans can use to reward game creators. This is more common in the indie scene, where physical collector's editions are abundant, and make a tangible companion to the digital copy of a game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Negative Effects of Tipping Culture
 
  My big fear for developers is that a tipping culture in gaming might duplicate the same problems that others in the service industry face: low pay, poor conditions, and a lack of respect. Game development suffered huge job losses in 2023, and[the rising cost of game production](https://www.makeuseof.com/ways-the-rising-costs-of-games-affect-the-industry/) has led to crunch conditions in many studios.
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
  Encouraging a focus on tipping may just be papering over cracks in the model, and could serve to distract from the issue of a sustainable gaming economy that’s future-proofed against[AI and other threats](https://www.makeuseof.com/types-of-jobs-risk-ai/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Tips Might Work
 
 ![A screenshot of Super Cable Boy’s page on itch.io showing a minimum price with an option to pay extra.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/super-cable-boy-itch.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Seeking some positivity, I reached out to two indie game developers for their take on the story.
 
@@ -124,24 +124,24 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-dive-deep-comprehensive-tutorial-for-launching-a-product-vlog-channel-for-2024/"><u>[New] Dive Deep Comprehensive Tutorial for Launching a Product Vlog Channel for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-utilizing-snap-camera-for-interactive-online-gatherings/"><u>[New] In 2024, Utilizing Snap Camera for Interactive Online Gatherings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-srt-from-a-securely-packed-zip-file/"><u>[Updated] Unlocking SRT From a Securely Packed Zip File</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-on-java-server-from-bedrock-using-geysermc/"><u>Connecting on Java Server From Bedrock Using GeyserMC</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-on-steam-these-9-reasons-make-a-difference/"><u>Elevate Your Gameplay on Steam: These 9 Reasons Make a Difference</u></a></li>
-<li><a href="https://games-able.techidaily.com/energy-efficiency-for-gaming-consoles/"><u>Energy Efficiency for Gaming Consoles</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/fc2gyaoand/"><u>FC2、ニコニコ動画、Gyaoビデオダウンロード&エディットマスター: アップグレード版の方法を紹介します。</u></a></li>
-<li><a href="https://games-able.techidaily.com/fresh-interpretations-of-classic-video-games/"><u>Fresh Interpretations of Classic Video Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-outro-crafting-made-easy-the-best-free-guide-top-6/"><u>In 2024, Outro Crafting Made Easy - The Best Free Guide (Top 6)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/motorola-g24-power-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola G24 Power won’t play HEVC H.265 media, how to fix?</u></a></li>
-<li><a href="https://games-able.techidaily.com/racing-realism-at-499-moza-r5-bundle-awaits/"><u>Racing Realism at $499 - MOZA R5 Bundle Awaits</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-speed-on-xbox-sx-necessary-or-not/"><u>Résumé Speed on Xbox S/X - Necessary or Not?</u></a></li>
-<li><a href="https://games-able.techidaily.com/seven-facts-that-question-mobile-game-superiority/"><u>Seven Facts That Question Mobile Game Superiority</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/simplified-pathway-facebook-vids-to-mp4-720p-and-1080p-hd-free/"><u>Simplified Pathway Facebook Vids to MP4, 720P & 1080P HD Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-setting-up-auto-gpt-on-your-ubuntu-system/"><u>Step-by-Step Tutorial for Setting up Auto-GPT on Your Ubuntu System</u></a></li>
-<li><a href="https://games-able.techidaily.com/supply-and-demand-the-new-ps5-price-predictions/"><u>Supply and Demand: The New PS5 Price Predictions</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-finest-virtual-experiences-7-mobile-mmos/"><u>The Finest Virtual Experiences: 7 Mobile MMOs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-pioneer-bdr-xs06-portability-without-compromise-on-performance-in-high-quality-dvd-burning/"><u>The Pioneer BDR-XS06 - Portability Without Compromise on Performance in High-Quality DVD Burning</u></a></li>
-<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-closer-than-ever-mastering-video-focus-on-videoleap/"><u>[New] Closer Than Ever Mastering Video Focus on Videoleap</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-virtualblender-for-all-operating-systems/"><u>[New] In 2024, VirtualBlender for All Operating Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-zoom-enhancement-online/"><u>[Updated] Mastering the Art of Zoom Enhancement Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-a15-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy A15 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/55qg5qey44gu5asn5asj44gq44gu5yqp5yqb44gr5bplusd44gl44kj5osf6kydic0g44gk5oml5pww44ks44gk44gl44gr44gx44gm55sz44gx6kiz44gu44gw44ge44gplus44gb44kt/"><u>皆様の大変なご助力に心から感謝 - お手数をおかけして申し訳ございません</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-gpu-prices-set-to-rise/"><u>Are GPU Prices Set to Rise ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-pc-boot-issues-with-resident-evil-5-expert-troubleshooting-steps-inside/"><u>Banish PC Boot Issues with Resident Evil 5 - Expert Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehending-xbox-protective-sheets/"><u>Comprehending Xbox Protective Sheets</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-high-res-pixel-myths-in-consoles/"><u>Debunking High-Res Pixel Myths in Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/gearsport-gains-8-frames-up-techniques-unveiled/"><u>Gearsport Gains: 8 Frames Up Techniques Unveiled</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/loophole-busted-no-more-unjust-refunds/"><u>Loophole Busted: No More Unjust Refunds</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for .docx </u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steam-library-not-writable-on-pc-windows-11/"><u>Overcoming Steam Library Not Writable on PC Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/play-without-pay-our-top-six-picks/"><u>Play Without Pay: Our Top Six Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/select-top-6-slide-show-apps-for-latest-iphone-models-for-2024/"><u>Select Top 6 Slide Show Apps for Latest iPhone Models for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-3-best-gpu-alternatives-to-nvidias-geforce-rtx-4060-ti-16gb/"><u>The 3 Best GPU Alternatives to Nvidia's GeForce RTX 4060 Ti 16GB</u></a></li>
+<li><a href="https://games-able.techidaily.com/timeless-console-revamps-for-the-present-era/"><u>Timeless Console Revamps for the Present Era</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-no-sound-problems-in-black-ops-cold-war-game-pc-version/"><u>Troubleshooting No Sound Problems in Black Ops: Cold War Game (PC Version)</u></a></li>
 </ul></div>
 

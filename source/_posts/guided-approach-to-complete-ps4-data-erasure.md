@@ -1,7 +1,7 @@
 ---
 title: Guided Approach to Complete PS4 Data Erasure
-date: 2024-09-04T21:49:21.687Z
-updated: 2024-09-05T21:49:21.687Z
+date: 2024-12-11T08:53:20.991Z
+updated: 2024-12-16T20:49:14.722Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ---
 
 ## Guided Approach to Complete PS4 Data Erasure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,12 +44,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
  On the flip side, if you’ve got a used PS4 and the previous owner hasn’t factory reset it, you can reset it to remove any traces of their data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Factory Reset Your PS4
 
  If you don't have a boot issue with your PS4 and your console turns on just fine, you can reset your console using one of the options in the settings. However, you should deactivate your account on your PS4 before resetting it to avoid any complications when signing in later.
@@ -68,17 +66,9 @@ Here's how to deactivate your account on your PS4:
  The**Activate** button will be grayed out because your account is already active on this PS4.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. How to Factory Reset Your PlayStation 4
 
  Now that you have deactivated your account, it's time to erase and reset your console to the factory defaults.
@@ -89,18 +79,6 @@ Here's how to deactivate your account on your PS4:
 
 ![initialize ps4 setting to factory reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/factory-reset-ps4.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you're certain that a factory reset is the way to go, follow the steps below to reset your console to the factory settings:
 
 1. Open the**Settings** menu on your console.
@@ -112,18 +90,6 @@ Here's how to deactivate your account on your PS4:
 
  Once the reset is complete, your PS4 will boot to display the first-time setup guide. You have now successfully wiped all the data from your PS4.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Factory Reset Your PS4 in Safe Mode
 
  If your PS4 is having trouble booting up, and you can't access the settings menu, there's still a way to reset your console.
@@ -131,6 +97,10 @@ Here's how to deactivate your account on your PS4:
  In safe mode, the PS4 boots up with only essential system software and drivers, bypassing any potentially problematic settings or applications that may be causing issues.
 
 ![initializing the ps4 in safe mode to create factory reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/reset-ps4-safe-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Mahesh Makvana/MUO
 
@@ -144,6 +114,10 @@ To factory reset your PS4 in safe mode, follow the steps below:
 6. Choose**Full** to initialize your console completely.
 
 Your PS4 will now perform a factory reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reinstall the PS4's Software
 
@@ -170,23 +144,15 @@ Your PS4 will now perform a factory reset.
 ![PS4 software reinstall file on a USB drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ps4-software-reinstall-file-on-a-usb-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Reinstalling the Firmware on Your PS4
 
  After you've got the USB drive ready, it's time to connect it to your PS4 and reinstall the software. Follow these steps:
 
 ![Reinstall software on the PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/reinstall-software-ps4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Mahesh Makvana/MUO
 
 1. Connect your flash drive to your PS4 console.
@@ -199,14 +165,11 @@ Mahesh Makvana/MUO
 
  Although PlayStation 4 issues are rare, if you ever come across one, resetting your PS4 should help fix the issue in most cases. You might also want to reset your PS4 when you're giving away your console. That way, you're sure that the next owner of your PS4 won't have access to your personal information.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,4 +178,24 @@ Mahesh Makvana/MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>[New] In 2024, ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-online-marketplaces-for-partnering-with-youtube-content-makers/"><u>[New] Online Marketplaces for Partnering With YouTube Content Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-pairing-finding-top-beats-for-unwrapping-videos-for-2024/"><u>[New] Perfect Pairing Finding Top Beats for Unwrapping Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-video-formats-which-is-more-effective-av1-or-vp9/"><u>[New] Understanding Video Formats Which Is More Effective, AV1 or VP9?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-channels-standing-with-these-tactics-for-2024/"><u>[Updated] Elevate Your Channel's Standing with These Tactics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-turning-heads-with-efficient-video-rotation-in-vlc/"><u>2024 Approved Turning Heads with Efficient Video Rotation in VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/empowering-your-gaming-experience-with-easy-controller-tips/"><u>Empowering Your Gaming Experience with Easy Controller Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-motorola-g24-power-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Motorola G24 Power Phone?</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-beyond-the-ordinary-unlocking-xbox-secrets/"><u>Journey Beyond the Ordinary: Unlocking Xbox Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-gpu-efficiency-temperature-insights/"><u>Maintaining GPU Efficiency: Temperature Insights</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/mastery-of-efficiency-innovative-strategies-for-optimizing-windows-10-with-yl-computings-software-insights/"><u>Mastery of Efficiency: Innovative Strategies for Optimizing Windows 10 with YL Computing's Software Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-steam-deck-input-a-guide-to-the-keyboard/"><u>Perfecting Steam Deck Input: A Guide to the Keyboard</u></a></li>
+<li><a href="https://games-able.techidaily.com/pushing-boundaries-exclusive-steam-deck-upgrades-revealed/"><u>Pushing Boundaries: Exclusive Steam Deck Upgrades Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-game-visuals-with-models-in-mind/"><u>Redefining Game Visuals with Models in Mind</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-dxgierrordevicehung-0x887a0006-on-win-1011/"><u>Resolving DXGI_ERROR_DEVICE_HUNG (0X887A0006) on Win 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-achieving-verification-status-on-instagram/"><u>Ultimate Guide: Achieving Verification Status on Instagram</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-roadmap-to-earn-all-badges-on-steam-gaming/"><u>Your Roadmap to Earn All Badges on Steam Gaming</u></a></li>
+</ul></div>
 

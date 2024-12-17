@@ -1,7 +1,7 @@
 ---
 title: "Lost the Bandwidth: Restoring WinMC LAN Connectivity"
-date: 2024-10-23T02:45:40.609Z
-updated: 2024-10-25T06:30:57.532Z
+date: 2024-12-11T10:13:14.262Z
+updated: 2024-12-17T02:25:38.074Z
 tags:
   - games
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Connect Both Devices to the Same Network
 
@@ -58,10 +62,7 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Network Discovery in the Control Panel
@@ -74,21 +75,11 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 ![Open the Advanced Sharing Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-advanced-sharing-settings-on-windows.jpg)
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Also, check the box beside**Set up network connected devices automatically** .  
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Perform Some General Fixes
@@ -112,21 +103,11 @@ To directly join a Minecraft server, follow these steps:
 ![Open the Direct Connection in Minecraft Multiplayer Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-direct-connection-in-minecraft-multiplayer-mode.jpg)
 2. Paste the**IPv4 address** into the**Server Address** box, add a colon, and enter the**LAN port** provided by the host.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Then, click on**Join Server** .  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Join a Minecraft LAN World Seamlessly on Windows
@@ -135,9 +116,17 @@ To directly join a Minecraft server, follow these steps:
 
 ## FAQ
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can[join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: What Is the IP for a LAN Minecraft Server?
 
@@ -158,17 +147,16 @@ To directly join a Minecraft server, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/iscover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash-for-2024/"><u>[New] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-laughter-league-twitters-best-jokes/"><u>[New] Laughter League Twitter's Best Jokes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-10-best-webcam-covers-and-stickers/"><u>[New] Top 10 Best Webcam Covers & Stickers</u></a></li>
-<li><a href="https://games-able.techidaily.com/dualshock-2-emulation-tips/"><u>DualShock 2 Emulation Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-20-proplus-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 20 Pro+ Phones</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-from-idea-to-screen-a-simplified-movie-making-process/"><u>New In 2024, From Idea to Screen A Simplified Movie Making Process</u></a></li>
-<li><a href="https://games-able.techidaily.com/proximity-chargers-enhanced-for-ps5-accessories/"><u>Proximity Chargers: Enhanced for PS5 Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-laptop-into-a-powerful-game-screen/"><u>Transform Your Laptop Into a Powerful Game Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/uncomplicating-your-steam-decks-cloud-functionality/"><u>Uncomplicating Your Steam Deck's Cloud Functionality</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/wave-goodbye-to-frustration-top-techniques-for-resolving-window-11s-stalling-issues/"><u>Wave Goodbye to Frustration: Top Techniques for Resolving Window 11'S Stalling Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-a-dual-mode-gaming-monitor-and-do-you-need-one/"><u>What Is a “Dual-Mode” Gaming Monitor, and Do You Need One?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-cost-breakdown-for-youtube-ads/"><u>[New] Cost Breakdown for YouTube Ads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-hd-action-cameras-under-100-for-2024/"><u>[New] Essential HD Action Cameras Under $100 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevating-your-cinematic-expedition-through-border-techniques/"><u>[Updated] Elevating Your Cinematic Expedition Through Border Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-playtime-exciting-20-fast-playing-games-for-phones/"><u>Amp Up Playtime: Exciting 20 Fast-Playing Games for Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-gateway-to-enhanced-experiences-nvidias-new-app/"><u>Gamer's Gateway to Enhanced Experiences – Nvidia's New App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instant-blackout-elegance/"><u>Instant Blackout Elegance</u></a></li>
+<li><a href="https://facebook.techidaily.com/networking-nightmare-all-social-media-downed/"><u>Networking Nightmare: All Social Media Downed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revolutionize-mobile-sharing-discover-how-abbyys-bcr-app-enhances-business-card-exchange-on-ios-10-insights-from-the-abbyy-blog/"><u>Revolutionize Mobile Sharing: Discover How ABBYY's BCR App Enhances Business Card Exchange on iOS 10 - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-gpu-face-off-supers-ti-and-rtx-4080-compared/"><u>The Ultimate GPU Face-Off: Supers, Ti & RTX 4080 Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-is-xboxs-enforcement-strike-system/"><u>What Is Xbox’s Enforcement Strike System?</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-no-planned-discs-despite-patent/"><u>Xbox S: No Planned Discs Despite Patent?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Words Into Worlds: The Essential Guide to Using ChatGPT in RPGs"
-date: 2024-12-05T18:34:03.247Z
-updated: 2024-12-10T16:41:27.921Z
+date: 2024-12-12T14:33:26.482Z
+updated: 2024-12-16T19:09:40.736Z
 tags:
   - games
 categories:
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 > 10\. Change the ‘Weather’ to reflect ‘Description’ and whatever environment the player is in the game.
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
 
@@ -122,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
@@ -146,10 +134,14 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -177,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -198,6 +194,10 @@ And finally, don’t forget to actually start the game:
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -318,22 +318,17 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-be-a-part-of-the-buzz-top-10-tiktok-tests/"><u>[Updated] In 2024, Be a Part of the Buzz Top 10 TikTok Tests</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streamline-your-soundtrack-exchanging-playlists-seamlessly-for-2024/"><u>[Updated] Streamline Your Soundtrack Exchanging Playlists Seamlessly for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-fundamentals-of-crafting-high-quality-videos-for-instagram-audiences-for-2024/"><u>[Updated] The Fundamentals of Crafting High-Quality Videos for Instagram Audiences for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-glamour-guild-comprehensive-style-compendium/"><u>[Updated] Youtube's Glamour Guild Comprehensive Style Compendium</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-discovering-the-finest-mac-screen-capture-software/"><u>2024 Approved Discovering the Finest Mac Screen Capture Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-precision-and-performance-gamers-equipment-showcase/"><u>2024 Approved Precision & Performance Gamer's Equipment Showcase</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-gaming-with-intel-stream-assist-an-overview/"><u>Effortless Gaming with Intel Stream Assist - An Overview</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-mobile-entertainment-emulating-dreamcatcher-games-on-android/"><u>Enhance Mobile Entertainment: Emulating Dreamcatcher Games on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/guard-against-xbox-s-controller-dissolutions/"><u>Guard Against Xbox S Controller Dissolutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13 Ultra to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/interpretation-of-offline-tag-in-the-virtual-communication-arena-discord/"><u>Interpretation of 'Offline' Tag in the Virtual Communication Arena (Discord)</u></a></li>
-<li><a href="https://games-able.techidaily.com/joypad-to-controller-nintendo-on-steam/"><u>Joypad to Controller: Nintendo on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-mental-mayhem-with-five-most-maddening-games/"><u>Master Mental Mayhem With Five Most Maddening Games</u></a></li>
-<li><a href="https://win-forum.techidaily.com/optimizing-your-pc-fixing-excessive-hard-drive-load-in-windows-11/"><u>Optimizing Your PC: Fixing Excessive Hard Drive Load in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/pokemon-revival-guide-android-game-emulation/"><u>Pokémon Revival Guide: Android Game Emulation</u></a></li>
-<li><a href="https://games-able.techidaily.com/tapping-into-steam-credits-ecosystem/"><u>Tapping Into Steam Credits Ecosystem</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/top-list-best-livestream-shopping-apps-of/"><u>Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-choosing-between-bandicam-and-camtasia/"><u>[Updated] 2024 Approved Choosing Between Bandicam & Camtasia</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchats-visual-language-mastering-the-art-of-gifting-with-gifs/"><u>[Updated] In 2024, Snapchat's Visual Language Mastering the Art of Gifting with Gifs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nubia-red-magic-9-proplus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nubia Red Magic 9 Pro+? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-leading-7-twitch-streamer-assistants/"><u>Discover the Leading 7 Twitch Streamer Assistants</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/efficient-file-transfer-techniques-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Efficient File Transfer Techniques on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/instant-guide-how-to-effortlessly-upgrade-your-mp4-files-to-crystal-clear-720p/"><u>Instant Guide: How to Effortlessly Upgrade Your MP4 Files to Crystal Clear 720P</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-virality-on-instagram-essential-tricks-and-insights-you-need-to-know/"><u>Mastering the Art of Virality on Instagram: Essential Tricks and Insights You Need to Know</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-faster-edit-smarter-top-20-adobe-premiere-shortcuts/"><u>New In 2024, Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts</u></a></li>
+<li><a href="https://games-able.techidaily.com/premier-ps5-flash-drive-choices/"><u>Premier PS5 Flash Drive Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-windows-11-steam-service-disruptions/"><u>Resolving Windows 11: Steam Service Disruptions</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165156100-step-up-your-arcade-game-with-massive-fronts/"><u>Step Up Your Arcade Game with Massive Fronts!</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-to-locking-down-your-playstation-5-games/"><u>Step-by-Step Guide to Locking Down Your PlayStation 5 Games</u></a></li>
 </ul></div>
 

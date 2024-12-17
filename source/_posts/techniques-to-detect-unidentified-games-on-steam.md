@@ -1,7 +1,7 @@
 ---
 title: Techniques to Detect Unidentified Games on Steam
-date: 2024-08-31T19:26:38.212Z
-updated: 2024-09-01T19:26:38.212Z
+date: 2024-12-11T19:41:37.736Z
+updated: 2024-12-16T19:12:21.722Z
 tags:
   - games
 categories:
@@ -42,6 +42,11 @@ C:\Program Files (x86)\Steam\steamapps\common
 3. If yes, Launch the Steam desktop app and log in if the session has expired.  
 ![exit family view steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-family-view-steam.jpg)
 4. Next, make sure you are not in**Family View** . To do this, click the**Family View** icon in the top right corner of the screen and enter your**PIN** to exit Family View.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, open the**Library** tab in the top left corner. It lists all the games that you own and installed on your PC.
 6. Click on the affected game and then click the**Install** button.  
 ![install new game steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/install-new-game-steam.jpg)
@@ -59,28 +64,26 @@ C:\Program Files (x86)\Steam\steamapps\common
 3. In the**Settings** window, open the**Storage** tab in the left pane.  
 ![steam settings storage tab Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-storage-tab-windows.jpg)
 4. Click the drop-down under**Storage** . By default, it shows you the current game storage drive and location.
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Select**Add Drive** from the drop-down options.  
 ![steam settings add new drive Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-drive-windows.jpg)
 6. Click the drop-down in**Add a New Steam Library Folder** dialog, and select the**Let me choose another location** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![steam settings add new steam library folder Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-settings-add-new-steam-library-folder-windows.jpg)
 7. Next, click the**Add** button.
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Browse through your storage drives and select the Steam game folder you want to add.
 9. Click the**Select Folder** button to add the folder.
 
  Steam will look for the game files in the newly added folder. If found, it'll show them in your Steam library. If the game doesn’t appear immediately, relaunch the app and check your library again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Manage the .acf Files for the Steam Games
 
  The .acf files in Steam are used to store data and configuration cache. Basically, each .acf file has a unique appid (App ID) and stores game information such as install and DLC download states, buildid (Build ID), and other user preference information.
@@ -93,7 +96,16 @@ C:\Program Files (x86)\Steam\steamapps\common
 4. Click the**Install** button, select the installation directory and click**Finish** .  
 ![steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/steam-install-counter-strike.jpg)
 5. Next, hover your cursor over the**Library** tab and select**Download** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![pause steam install counter strike](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/pause-steam-install-counter-strike.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Click the**Pause** button to pause the download for the affected game.  
 ![exit steam jpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/exit-steam-jpg.jpg)
@@ -105,9 +117,9 @@ C:\Program Files (x86)\Steam\steamapps\
 ![move appmanifest_730 acf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/move-appmanifest_730-acf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 1. Locate the**appmanifest\_appid.acf** file for your game inside the**steamapps** folder and move it to a different folder or your desktop. Don’t delete the file, as you will need to move it back again.
 2. Next, launch the**Steam** app and open the**Library** tab. It will show the affected game as uninstalled.
 3. Exit the**Steam** client.
@@ -115,23 +127,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Steam install counter strike after moving acf file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/Steam-install-counter-strike-after-moving-acf-file.jpg)
 5. Launch the Steam app and resume the**Update/Download** . Steam will find the existing game files and show your game in the Steam library.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Make Steam Recognize Installed Games
 
  Installed Steam games often become unavailable or show uninstalled after a Steam reinstallation. You can fix this issue by pointing Steam to the proper alternate installation directory or initiating a reinstallation to force Steam to recognize the games.
 
  If the problem is because of a corrupted .acf configuration file, you can restore the missing file with a bit of tweaking in the Steam library and the installation directory.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +146,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-funimates-complexities-with-ease/"><u>[New] Navigate Funimate's Complexities with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-perfecting-zoom-screen-sharpness-users-handbook/"><u>[Updated] Perfecting Zoom Screen Sharpness User's Handbook</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/orf-png-movavi/"><u>「手軽に無料で高品位ORF PNG変換 - Movavi」</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-10-high-flying-moba-games-for-android-users/"><u>2024 Approved Top 10 High-Flying MOBA Games for Android Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-robloxs-frame-rate-upscaler-risks/"><u>Decoding Roblox's Frame Rate Upscaler Risks</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-teardown-decoding-your-xbox-360-slim/"><u>Expert Teardown: Decoding Your Xbox 360 Slim</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-add-funds-and-buy-games-on-the-playstation-store/"><u>How to Add Funds and Buy Games on the PlayStation Store</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-14-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi 14 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>In 2024, What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-chatgpt-android-widget-tutorial/"><u>Mastering ChatGPT: Android Widget Tutorial</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crafting-the-ultimate-strum-a-comprehensive-look-at-the-top-7-daws-designed-for-guitar-recordings/"><u>New Crafting the Ultimate Strum A Comprehensive Look at the Top 7 DAWs Designed for Guitar Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/powerpick-playtime-eventual-advantageous-actions/"><u>PowerPick Playtime: Eventual Advantageous Actions</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-list-for-best-led-strips/"><u>The Essential List for Best LED Strips</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-family-friendly-secure-steam-playbook/"><u>The Family-Friendly, Secure Steam Playbook</u></a></li>
+</ul></div>
 

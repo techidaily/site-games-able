@@ -1,7 +1,7 @@
 ---
 title: Gamer's Delight - Large-Scale Arcade Framing!
-date: 2024-12-05T16:40:17.354Z
-updated: 2024-12-11T06:41:51.697Z
+date: 2024-12-16T14:03:57.022Z
+updated: 2024-12-17T00:43:08.942Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Frontend Software for Arcade Cabinets?
 
  Think about the components needed to operate an arcade cabinet. You at least need a joystick with a set of buttons, speakers, a monitor, a cabinet, and a device to run the whole thing, like a desktop. But how do you navigate the system once it’s set up? That’s where frontend software comes in.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  A frontend also adds order to the chaos that is your ROM collection. You want to know what you’re going to be playing before you select it. So you need to add key metadata for each game, like the title, platform, thumbnail art, etc., to make everything look nice and tidy.
 
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Big Box Automatically Imports Metadata
 
@@ -43,25 +51,13 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 ![Linking EmuMovies and Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/configure-emumovies-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once linked, everything from bezels and marquees to videos, screenshots, and even descriptions about each game will populate each game’s entry. So when you’re searching through your library in Big Box, you get a vibrant, informative listing about each game so you know what you’re about to play.
 
 ![Importing metadata into Launchbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/import-flyers-bezels-etc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This saves days’ worth of work alone, and means[LaunchBox Premium is worth the cost of admission](https://www.makeuseof.com/launchbox-premium-worth-buying/) highly recommend getting a lifetime subscription to both LaunchBox and EmuMovies. You’re looking at $135 for both licenses as of July 2023.
 
  But in terms of ease-of-use and the time saved alone, it’s going to be money well spent. Especially if you want your arcade cabinet to grow with you as you keep adding games via Steam or another source.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Big Box Adds Context to Your Library
 
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
 
  If you’re building your arcade cabinet for the first time, you’re probably wondering how the heck you’re going to be able to exit a game or adjust the volume. You may think you need dedicated buttons, and while that’s one route, Big Box solves this problem by allowing you to hotkey certain tasks.
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  For example, when I want to exit a game, I tap my**Player 1 Start button** and**A button** simultaneously twice to activate the**Close the Active Window** value, which exits my game. I can also do a different button combination for the volume control, among other functions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Big Box Adds Second Screen Support for Digital Marquees
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
  Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use Big Box In-Place of Your Windows Shell
@@ -124,19 +124,20 @@ thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-learn-how-to-rewind-video-ordering-on-android/"><u>[New] In 2024, Learn How to Rewind Video Ordering on Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-topping-bargain-software-for-screen-capture-on-chromebook-for-2024/"><u>[Updated] Topping Bargain Software for Screen Capture on Chromebook for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/adolescent-advice-alert-reconsidering-constant-instagram-engagement/"><u>Adolescent Advice Alert: Reconsidering Constant Instagram Engagement?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/consider-the-advantages-of-upgrading-to-xbox-game-pass-ultimate/"><u>Consider the Advantages of Upgrading to Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-2024-issues-in-phasmophobia-game-crashes-tips-and-solutions/"><u>Fixing 2024 Issues in Phasmophobia Game Crashes - Tips and Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/fun-for-friends-or-foes-15-best-split-screen-titles-on-phone/"><u>Fun for Friends or Foes: 15 Best Split-Screen Titles on Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-a-mechanical-keyboard-crucial-for-games/"><u>Is a Mechanical Keyboard Crucial for Games?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-through-xbox-game-pass-benefits/"><u>Navigating Through Xbox Game Pass Benefits</u></a></li>
-<li><a href="https://games-able.techidaily.com/six-witty-wordplay-wins-friends-favorite-chat-games/"><u>Six Witty Wordplay Wins: Friends' Favorite Chat Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-your-twitch-content-access-top-5-tools/"><u>Streamlining Your Twitch Content Access: Top 5 Tools</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mystery-uncovered-deciphering-the-secrets-of-virtual-conversations/"><u>The Mystery Uncovered: Deciphering the Secrets of Virtual Conversations</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782180-9781594776830-the-return-of-the-dead/"><u>The Return of the Dead | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-s23-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy S23 Tactical Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aving-the-way-to-youtube-stardom-through-effective-seo-keywords-for-2024/"><u>[New] Paving the Way to YouTube Stardom Through Effective SEO Keywords for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevating-your-workflow-optimizing-googles-podcast-submission-system/"><u>[Updated] Elevating Your Workflow Optimizing Google's Podcast Submission System</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/44cm6ycz5qij5ouv5pwr5asw5o6l6kit5ykz55qe56gs56kf5yig5ymy5y2aic0g6kmz55uh5pwz56il44cn/"><u>「這樣拯救外接設備的硬碟分割區 - 詳盡教程」</u></a></li>
+<li><a href="https://win-web3.techidaily.com/iumsiowvueacjewkoeapkosplusmpluswvhjrmlbdmja7kuk3lv4pnoazku7blpifku73op6plhrpmlrnmoygi/"><u>针对服务提供商:数据中心硬件备份解决方案</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-1440p-monitors-the-ultimate-gaming-companion/"><u>Affordable 1440P Monitors: The Ultimate Gaming Companion</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-game-experiene-the-top-9-reasons-to-use-steam-first/"><u>Elevating Game Experiene: The Top 9 Reasons to Use Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/geforce-now-pass-what-real-world-benefits-exist/"><u>GeForce Now Pass: What Real-World Benefits Exist?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-14-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 14?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/nintendo-switch-best-3-live-stream-apps-and-games/"><u>Nintendo Switch - Best 3 Live-Stream Apps & Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-latency-for-real-time-obs-viewing/"><u>Optimizing Latency for Real-Time OBS Viewing</u></a></li>
+<li><a href="https://games-able.techidaily.com/right-oled-monitor-decision-guide/"><u>Right OLED Monitor Decision Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-leading-free-image-editors-10-essential-androidios-tools/"><u>The Leading Free Image Editors - 10 Essential Android/iOS Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-vision-boosting-screen-protectors/"><u>Ultimate Vision-Boosting Screen Protectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-finest-ea-play-games-for-sony-console/"><u>Unveiling the Finest EA Play Games for Sony Console</u></a></li>
 </ul></div>
 

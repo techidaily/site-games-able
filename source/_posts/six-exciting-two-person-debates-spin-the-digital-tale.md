@@ -1,7 +1,7 @@
 ---
 title: "Six Exciting Two-Person Debates: Spin the Digital Tale"
-date: 2024-12-06T19:47:01.021Z
-updated: 2024-12-11T02:18:56.391Z
+date: 2024-12-10T10:31:42.339Z
+updated: 2024-12-17T01:58:47.486Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Play text-based games with friends using SMS text messaging or chat apps like WhatsApp or iMessage. There's no need to download another app!
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 Story Builder
 
 Close
@@ -40,10 +48,6 @@ Close
  With**Story Builder** , one of you begins the story by messaging an opening sentence to the other person. The other person then messages the second sentence in the story back to the first person. Slowly but surely, the two of you build a story over the course of several texts or a messaging thread.
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2 20 Questions
 
@@ -66,7 +70,7 @@ Close
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Song Lyrics
@@ -90,7 +94,7 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -104,7 +108,7 @@ Close
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 Where Am I?
@@ -126,10 +130,6 @@ Close
  One person names three people, be they celebrities or individuals you both know, and asks, "Kiss, Marry, Kill?" The other person then has to determine which of the three they would kiss, which they would marry, and which they would kill. All in jest, you understand. None of the three are actually going to happen.
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9 What If...?
 
@@ -168,17 +168,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-peculiar-playground-a-curated-list-of-tiktok-games/"><u>[New] 2024 Approved Peculiar Playground A Curated List of TikTok Games</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ynamic-decibels-the-best-background-sounds-for-yt-shorts/"><u>[New] Dynamic Decibels The Best Background Sounds for YT Shorts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-essential-techniques-for-fast-forwarding-in-spotify-for-2024/"><u>[New] The Essential Techniques for Fast-Forwarding in Spotify for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-what-does-the-blue-marker-on-fb-chat-reveal/"><u>[Updated] In 2024, What Does the Blue Marker on FB Chat Reveal?</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-5-efficaces-astuces-pour-restaurer-des-donnees-csv-detruites/"><u>1. 5 Efficaces Astuces Pour Restaurer Des Données CSV Détruites</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/choosing-your-videos-ultimate-shape-for-2024/"><u>Choosing Your Video's Ultimate Shape for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-to-understand-what-is-palworld/"><u>Easy to Understand: What Is PalWorld?</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-screen-shopping-10-common-blunders/"><u>Navigating Screen Shopping: 10 Common Blunders</u></a></li>
-<li><a href="https://games-able.techidaily.com/pdw4-game-powerhouse-on-your-wrist/"><u>PDW4: Game Powerhouse on Your Wrist</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/thrifty-topmate-c3n-pad-assessment-proven-heat-dissipation-at-unbeatable-prices/"><u>Thrifty TopMate C3n Pad Assessment - Proven Heat Dissipation at Unbeatable Prices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-10-ai-image-generators-best-tools-for-creating-stunning-graphics/"><u>Top 10 AI Image Generators: Best Tools for Creating Stunning Graphics</u></a></li>
-<li><a href="https://games-able.techidaily.com/turn-off-noise-secure-silent-gaming-tips/"><u>Turn Off Noise: Secure Silent Gaming Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-video-presentation-with-these-7-free-makers/"><u>[New] 2024 Approved Elevate Your Video Presentation with These 7 Free Makers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-spotlight-strategies-brightening-your-visual-narrative/"><u>[Updated] In 2024, Spotlight Strategies Brightening Your Visual Narrative</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/become-a-tiktok-phenomenon-with-self-cloning-insights/"><u>Become a TikTok Phenomenon with Self-Cloning Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-c50-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco C50 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixelate-photo-visages-a-selection-of-powerful-utilities/"><u>Pixelate Photo Visages A Selection of Powerful Utilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/sequence-of-system-improvement-prioritize-cpu-or-gpu/"><u>Sequence of System Improvement: Prioritize CPU or GPU?</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-guide-streaming-xbox-games-to-steam-via-glossi/"><u>Step-by-Step Guide: Streaming Xbox Games to Steam via GlosSI</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-criteria-for-investing-in-your-next-handhayered-gaming-device/"><u>The Essential Criteria for Investing in Your Next Handhayered Gaming Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-wait-is-worth-it-top-4-ps5-postponement-tips/"><u>The Wait Is Worth It: Top 4 Ps5 Postponement Tips</u></a></li>
 </ul></div>
 

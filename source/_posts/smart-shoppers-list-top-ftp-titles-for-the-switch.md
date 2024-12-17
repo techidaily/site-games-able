@@ -1,7 +1,7 @@
 ---
 title: "Smart Shopper’s List: Top FTP Titles for the Switch"
-date: 2024-08-31T19:26:39.674Z
-updated: 2024-09-01T19:26:39.674Z
+date: 2024-12-10T03:02:27.341Z
+updated: 2024-12-16T16:06:56.935Z
 tags:
   - games
 categories:
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  Granted, this game might not be for you if you’re more of a competitive player. But if you want a different Pokémon experience and want a nice relaxing time, you should try it. After all, the game is free to download on your Nintendo Switch, and you can play on your smartphone, too.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 3. Yu-Gi-Oh! Master Duel
 
  You’ve probably heard of Yu-Gi-Oh! before, but did you know there’s a game you can play for free on your console? Master Duel brings everything that makes Yu-Gi-Oh! fun and competitive to the Nintendo Switch.
@@ -53,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  So, while the game is free, microtransactions might ruin your experience. The good news is that when you’re starting, the game will give you a good amount of gems, so you should be able to build a very good deck without spending a dime.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4. Tetris 99
 
  Whoever said that Tetris and[Battle Royale games](https://www.makeuseof.com/what-are-battle-royale-games/) don’t mix well together? Tetris 99 is an online version of the classic game Tetris. In it, you’ll compete against up to 98 other players.
@@ -65,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  It’s worth noting that while Tetris 99 is technically free, you will need a[Nintendo Switch Online subscription](https://www.makeuseof.com/tag/nintendo-switch-online-everything-need-know/) to play it. If you’re already subscribed, then this game is worth checking out.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Fortnite
 
  Fortnite is a game that needs no introduction. This game has become so popular that it’s partnered with other popular names in the entertainment industry, like Ariana Grande, Marvel, and Dragon Ball.
@@ -75,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  Fortnite is one of the biggest online multiplayer and Battle Royale games available and one of the reasons is that the game is completely free to play.
 
  You can buy anything from skins to emotes and battle passes using its in-game currency, V-Bucks—which you can get by playing or with real-life money—but you don’t need any of that to play the game and have some fun.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6. Fallout Shelter
 
@@ -86,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  Fallout Shelter isn’t an action-packed game, but if you’re into management simulators and want to explore the wasteland, keep dwellers alive, and expand your vault into a fully-operational facility, this game is fun and will keep you playing on your Nintendo Switch or smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7. Pokémon Unite
 
  If you don’t want to run a café for Pokémon, you can always try to make them fight in an arena. Pokémon Unite is an interesting multiplayer game in which you control a Pokémon and battle against other players online.
@@ -100,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  Pokémon Unite is one of the[best MOBA games you can play today](https://www.makeuseof.com/best-moba-games-to-play/) . You'll have a great time if you’re a fan of the Pokémon franchise.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8. Super Kirby Clash
 
  Whether you love Kirby or want something to play with your friends, Super Kirby Clash is a perfect game for your Nintendo Switch.
@@ -115,26 +111,28 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ##
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9. Rocket League
 
  Do you love soccer and fast cars? Why not put them together and play some Rocket League? This free-to-play game has been one of the[most popular multiplayer titles](http://www.makeuseof.com/tag/10-awesome-cross-platform-mobile-multiplayer-games/) since 2020 and for a good reason.
 
  The rules are simple. You enter a soccer field with your favorite car, and your job is to score as many goals as you can. Playing soccer with a car makes the game both fun and difficult, but it is much more rewarding when you score.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Have Fun Without Spending Money
 
  In this day and age, it’s pretty easy to play really cool video games without spending a dime, and the Nintendo Switch is no exception. You can try any of these games and see which ones you enjoy. Of course, you should always be careful with microtransactions since that’s how free-to-play games make money.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +141,21 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elevate-your-virtual-engagement-with-snap-capabilities-in-meet/"><u>[Updated] Elevate Your Virtual Engagement with Snap Capabilities in Meet</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-djis-sky-high-gameplay-showdown-mavic-air-clashes-with-spark/"><u>[Updated] In 2024, DJI’s Sky-High Gameplay Showdown Mavic Air Clashes with Spark</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-music-selections-for-movie-making/"><u>2024 Approved Premier Music Selections for Movie Making</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-correcting-faulty-windows-programs/"><u>Deciphering and Correcting Faulty Windows Programs</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-mechanics-of-dlss-35-by-nvidia/"><u>Discovering the Mechanics of DLSS 3.5 by Nvidia</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-superior-face-masks-to-combat-covid-spread-insights-from-zdnet/"><u>Expert Picks for Superior Face Masks to Combat COVID Spread: Insights From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/hackers-rise-amidst-virtual-warfare/"><u>Hackers' Rise Amidst Virtual Warfare</u></a></li>
+<li><a href="https://win-forum.techidaily.com/harnessing-the-power-of-major-social-channels-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Harnessing the Power of Major Social Channels: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://games-able.techidaily.com/mypics-access-adding-old-timey-games-on-win-11/"><u>MyPics Access: Adding Old-Timey Games on Win 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-unleash-your-creativity-canon-video-editing-software-and-tutorials/"><u>New Unleash Your Creativity Canon Video Editing Software and Tutorials</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-missing-intel-or-amd-coprocessor-drivers-on-your-windows-1/"><u>Resolving Missing Intel or AMD Coprocessor Drivers on Your Windows 1</u></a></li>
+<li><a href="https://games-able.techidaily.com/risks-unveiled-excess-gpu-frequencies-fail/"><u>Risks Unveiled: Excess GPU Frequencies Fail</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-excellence-10-reasons-for-pc-over-console/"><u>Unboxing Excellence: 10 Reasons for PC over Console</u></a></li>
+</ul></div>
 

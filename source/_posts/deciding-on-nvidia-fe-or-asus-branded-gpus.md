@@ -1,7 +1,7 @@
 ---
 title: Deciding on Nvidia FE or Asus-Branded GPUs
-date: 2024-08-31T19:25:46.407Z
-updated: 2024-09-01T19:25:46.407Z
+date: 2024-12-15T02:05:55.998Z
+updated: 2024-12-17T12:44:26.335Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  To ascertain whether a reference design graphics card or an AIB variant is the right choice, here's a complete breakdown of all the major differences between these two models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. GPU Branding
 
  In an attempt to compete directly with AIB partner cards based on the same graphics architecture, both Nvidia and Intel use separate designations for their reference design GPUs. Ever since the launch of Nvidia's GeForce GTX 10-Series GPUs, the company has stuck with its "Founders Edition" branding to maintain the exclusivity of its proprietary chip and cooler design.
@@ -35,17 +39,15 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  As for custom graphics cards, AIB partners tend to differentiate their GPU branding across various pricing structures. For instance, MSI's "SUPRIM" or "GAMING X" designations are only applicable to its factory overclocked models with a premium price tag, whereas the "VENTUS" branding is suggestive of a cheaper, non-OC variant.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Build Quality and Form Factor
 
  Reference design graphics cards developed by the original manufacturers are usually made with high-quality materials and undergo rigorous testing to meet industry standards. Since AIB partners can modify the reference PCB layout based on their preferences, they often use premium materials (like metal backplates for added structural strength) to improve overall GPU durability in the long run.
 
  Regarding form factor, reference cards are intended to be dual-slot variants to ensure compatibility with most standard PC cases (ATX and Micro-ATX). On the other hand, custom AIB models may vary in form factor and design, ranging from tiny, single-slot GPUs for ITX/Mini-ITX builds to mammoth triple-slot variants that can only fit in an EATX case.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Cooling Options (Air/Liquid)
 
  When it comes to thermal performance, AIB partners tend to provide superior cooling solutions compared to reference design cards. These GPUs take advantage of larger, more efficient coolers with thicker heatsinks, higher copper density, and a maximum of three axial fans.
@@ -55,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  As for liquid cooling options, reference cards, the first models to launch in a particular GPU family, often have better aftermarket support. Although some AIB variants arrive with pre-installed water blocks or closed-loop cooling solutions, finding compatible water blocks for reference cards becomes much easier.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Overclocking Headroom
 
  For enthusiasts and power users, custom AIB cards offer greater overclocking potential. These GPUs ship with enhanced power delivery systems, additional PCB layers, and dedicated cooling solutions for VRMs and memory chips.
@@ -73,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Unlike reference design cards, custom GPUs also incorporate dual-BIOS switches, allowing enthusiasts to switch between different performance profiles and easily recover from overclocking failures. While this level of customization and overclocking potential comes at a higher price point, these models cater to those who seek the utmost performance out of their GPUs.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Pricing and Availability
 
  Due to their standard specifications and limited feature set, reference design graphics cards are often considered more budget-friendly than custom GPUs. Since AIB partner cards are often available across different price points, it is possible to get your hands on a base variant that retails for the same price as a reference GPU, or you could grab one of the premium OC models that can cost 20-30% higher than the intended MSRP.
@@ -82,23 +77,20 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  For instance, Nvidia's RTX 4090 FE, although expensive, can be obtained at its base MSRP of $1599\. In contrast, any higher-end custom variants like Gigabyte's AORUS GeForce RTX 4090 MASTER 24G could set you back an extra $300\. Regardless, AIB partner cards' availability is generally broader than Founders Edition or reference models, as multiple AIB partners are in charge of production and distribution.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reference Design vs. Custom AIB: Which GPU Model Should You Consider?
 
  Founders Edition or reference design graphics cards are suitable for early adopters of a specific GPU architecture, individuals with space constraints, or those seeking optimum compatibility and accessibility for water-cooling setups. On the flip side, custom AIB cards offer enhanced cooling solutions, improved thermal performance, and a boatload of customization features, making them an ideal choice for hardcore gamers and overclocking enthusiasts who prefer customization.
 
  Ultimately, it's crucial to consider specific needs, preferences, and budgets when choosing between these options, as it'll help dictate the right GPU model for your gaming and creative endeavors.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +99,20 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-dance-dictates-selecting-perfect-audio-visuals/"><u>[New] 2024 Approved Dance Dictates Selecting Perfect Audio-Visuals</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-livestream-on-facebook-from-android-and-ios-in-2024/"><u>[Updated] How to Livestream on Facebook From Android and iOS, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-pivot-to-personal-how-to-directly-send-tweets-videos-on-whatsapp/"><u>[Updated] In 2024, Pivot to Personal How to Directly Send Tweets' Videos on WhatsApp</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-turn-mess-into-mastery-efficient-edits-on-bulky-tiktok-drafts/"><u>2024 Approved Turn Mess Into Mastery Efficient Edits on Bulky TikTok Drafts</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-iphones-capabilities-with-games-galore/"><u>Elevate Your iPhone's Capabilities with Games Galore</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-xbox-play-top-tips-for-blu-ray/"><u>Elevate Your Xbox Play: Top Tips for Blu-Ray</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-asus-dominance-over-tuf-proart-and-prime-brands/"><u>Examining Asus' Dominance Over TUF, ProArt & Prime Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/expressive-art-for-immersive-rhythm-games/"><u>Expressive Art for Immersive Rhythm Games</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-spark-10-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Spark 10 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>In 2024, The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-unveils-geforce-now-but-what-are-the-real-benefits/"><u>Nvidia Unveils GeForce Now, But What Are the Real Benefits?</u></a></li>
+<li><a href="https://games-able.techidaily.com/teaching-digital-literacy-for-your-childrens-safe-use-of-discorcrd/"><u>Teaching Digital Literacy for Your Children’s Safe Use of DiscoRcrd</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-your-amd-driver-in-microsofts-latest-operating-systems/"><u>Updating Your AMD Driver in Microsoft's Latest Operating Systems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Six Ingenious Dialogue Duos: A Twist for Text Time"
-date: 2024-12-09T03:31:59.590Z
-updated: 2024-12-11T07:59:10.079Z
+date: 2024-12-13T17:59:35.849Z
+updated: 2024-12-17T09:14:26.153Z
 tags:
   - games
 categories:
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 Story Builder
 
 Close
@@ -46,7 +42,7 @@ Close
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 20 Questions
@@ -58,6 +54,10 @@ Close
  One of you thinks of an object or a person, while the other fires questions at them via text or messages. Your "Yes/No" responses help the guesser narrow down the possibilities until they can make an educated guess as to exactly what it is you were thinking of.
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 I Spy
 
@@ -80,7 +80,7 @@ Close
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5 Abbreviations
@@ -92,6 +92,10 @@ Close
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 List Builder
 
@@ -113,10 +117,6 @@ Close
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -127,6 +127,10 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 What If...?
 
 Close
@@ -136,10 +140,6 @@ Close
  One of you messages the other a What If? scenario and asks what they would do in that situation. There are no correct or incorrect answers here. It's not only fun to see the responses given, it can also give you an insight into your friend or family member's outlook on life.
 
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10 Simple Quiz
 
@@ -168,21 +168,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>[New] Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-concept-to-creation-youtube-trailer-production-via-filmora/"><u>[Updated] 2024 Approved From Concept to Creation YouTube Trailer Production via Filmora</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-achieving-clear-focus-blurring-videos-on-teams-for-2024/"><u>[Updated] Achieving Clear Focus Blurring Videos on Teams for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-get-free-green-screen-effects-from-4-youtube-channels/"><u>[Updated] Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-beginners-guide-to-iphone-slow-movement-videography/"><u>2024 Approved The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-12r-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus 12R Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/customizing-fun-steam-modding-techniques-explained/"><u>Customizing Fun: Steam Modding Techniques Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-gaming-achievement-managers/"><u>Elite Gaming Achievement Managers</u></a></li>
-<li><a href="https://games-able.techidaily.com/fast-internet-journey-lowering-your-networks-delay-duration/"><u>Fast Internet Journey: Lowering Your Network's Delay Duration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-highlights-from-this-week/"><u>Microsoft's Latest Innovations Revealed at the Annual Surface and AI Showcase: Highlights From This Week</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-mastery-the-dynamic-world-of-tetris-playoffs/"><u>Mobile Mastery: The Dynamic World of Tetris Playoffs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/new-era-of-quick-fixes-acer-drivers-update-for-win10-users/"><u>New Era of Quick Fixes: Acer Drivers Update for Win10 Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/rapid-ramp-up-routine-to-revive-lol-receptions/"><u>Rapid Ramp-Up Routine to Revive LoL Receptions</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-edge-in-144hz-monitor-selection/"><u>Ultimate Edge in 144Hz Monitor Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/xboxs-video-enhancements-made-easy-for-gamers/"><u>Xbox's Video Enhancements Made Easy for Gamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-flashback-screen-recorder-review-in-depth-for-2024/"><u>[New] FlashBack Screen Recorder Review in Depth for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elite-professionals-drone-choices-top-5/"><u>[Updated] 2024 Approved Elite Professionals' Drone Choices (Top 5)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-mastering-the-art-of-text-insertion-in-digital-pictures-for-2024/"><u>[Updated] Mastering the Art of Text Insertion in Digital Pictures for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-youtubes-operations-following-uploads-for-2024/"><u>Decoding YouTube’s Operations Following Uploads for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-15-two-person-quests-in-mobile-worlds/"><u>Discover the Best 15 Two-Person Quests in Mobile Worlds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/iphone-slow-motion-camera-video/"><u>IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://win11.techidaily.com/masked-mastery-invisible-input-on-modern-windows/"><u>Masked Mastery: Invisible Input on Modern Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-best-gaming-channels-with-prime/"><u>Navigate the Best Gaming Channels with Prime</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-best-10-chinese-video-to-english-translator/"><u>New 2024 Approved Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://games-able.techidaily.com/nine-sentence-shuffling-games-the-texting-tangle-twist/"><u>Nine Sentence Shuffling Games: The Texting Tangle Twist</u></a></li>
+<li><a href="https://games-able.techidaily.com/pros-and-cons-of-iems-in-esports-setups/"><u>Pros and Cons of IEMs in Esports Setups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/realitys-new-horizons-analyzing-metaverse-and-omniverse-worlds/"><u>Reality's New Horizons Analyzing Metaverse and Omniverse Worlds</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-essential-aspects-you-cant-miss-in-gaming/"><u>Six Essential Aspects You Can't Miss in Gaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/smart-tagging-amplifying-your-youtube-presence-for-2024/"><u>Smart Tagging Amplifying Your YouTube Presence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-playstation-5-triumphs-over-microsofts-xbox-sx/"><u>Sony's PlayStation 5 Triumphs Over Microsoft's Xbox SX?</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-pick-top-3d-lights-for-gamers-sanctuaries/"><u>The Ultimate Pick: Top 3D Lights for Gamers' Sanctuaries</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlocking-clearer-listening-the-complete-process-of-audio-level-standardization-in-vlc/"><u>Unlocking Clearer Listening The Complete Process of Audio Level Standardization in VLC</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-best-led-lighting-advances/"><u>Unveiling the Best LED Lighting Advances</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166254671-why-gamers-need-to-upgrade-oleds-superiority-claim/"><u>Why Gamers Need to Upgrade - OLED's Superiority Claim</u></a></li>
 </ul></div>
 

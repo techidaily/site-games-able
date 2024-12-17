@@ -1,7 +1,7 @@
 ---
 title: Handheld Optimization Unveiled, X-Ally Leads Way
-date: 2024-08-31T19:20:54.101Z
-updated: 2024-09-01T19:20:54.101Z
+date: 2024-12-13T22:18:33.721Z
+updated: 2024-12-16T23:50:57.524Z
 tags:
   - games
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 
  Asus has announced the ROG Ally X, the successor to 2023's ROG Ally. It boasts several improvements, but arguably one of the best changes is its increased battery capacity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The ROG Ally X Doubles The Original's Battery Capacity
 
  Announced at Computex 2024, the ROG Ally X improves the original handheld's formula in many ways. One of the biggest differences is its battery capacity, which has been doubled. Rather than the 40Wh battery[featured on the ROG Ally](http://www.makeuseof.com/what-is-asus-rog-ally/) , the ROG Ally X includes an 80Wh battery.
@@ -24,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 
  Since portability is a major selling point for handhelds and one of the[key considerations when buying a handheld console](https://www.makeuseof.com/gaming-handheld-things-to-consider-before-buying/) , the improved battery life will give owners of the device more freedom of movement, for longer. After all, if you're constantly tethered to a power outlet, you're missing out on one of the biggest advantages of the handheld format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other ROG Ally X Improvements
 
 ![the asus rog ally x on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/the-asus-rog-ally-x-on-a-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Asus
 
@@ -40,14 +52,11 @@ Asus
 
  While the improvements may not necessarily make you switch from a ROG Ally to a ROG Ally X, the new features and hardware definitely make it an appealing option in a competitive handheld market.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,8 +65,16 @@ Asus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/digital-monarchs-when-size-impedes-innovation-audio-exchange/"><u>Digital Monarchs: When Size Impedes Innovation? [Audio Exchange]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mafia-ultimate-collection-release-delayed-resolution-inside/"><u>Mafia: Ultimate Collection Release Delayed - Resolution Inside</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-unstoppable-methods-to-turn-off-ms-defender/"><u>Mastering Unstoppable Methods to Turn Off MS Defender</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-vn-video-editor-pro-review-does-it-live-up-to-the-hype-for-2024/"><u>New VN Video Editor Pro Review Does It Live Up to the Hype for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-lite-a-closer-look-at-sonys-device/"><u>PlayStation Lite: A Closer Look at Sony’s Device</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssional-strategies-for-embedding-timestamps-on-your-channel/"><u>Professional Strategies for Embedding Timestamps on Your Channel</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/rsync-windows-202/"><u>Rsyncの良い代わりに: Windowsユーザーが選ぶ最強ツール (202</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-modern-parents-toolkit-for-securing-online-kids/"><u>The Modern Parent’s Toolkit for Securing Online Kids</u></a></li>
+<li><a href="https://games-able.techidaily.com/thinking-about-ps5-consider-these-flaws/"><u>Thinking About PS5? Consider These Flaws</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->

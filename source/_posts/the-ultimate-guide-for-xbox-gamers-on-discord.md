@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide for Xbox Gamers on Discord
-date: 2024-10-21T20:38:41.241Z
-updated: 2024-10-24T18:05:09.669Z
+date: 2024-12-14T03:03:36.996Z
+updated: 2024-12-17T07:44:07.436Z
 tags:
   - games
 categories:
@@ -33,16 +33,13 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![A promotional image for the advertisement of Xbox Game Pass and Xbox All Access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xbox-game-pass-stock-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Xbox](https://www.xbox.com/en-us/xbox-game-pass)
 
  If you already[use Discord voice chat on your Xbox console](https://www.makeuseof.com/use-discord-voice-chat-xbox-console/) , your accounts should be linked and ready to go. However, if you're new to using Discord on Xbox, the process to link your accounts is simple as long as you have a pre-existing Discord account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Discord on Your Xbox
 
@@ -54,16 +51,13 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![A screenshot of the Account settings available on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/linked-social-accounts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * From here, find the**Discord** tab and select**Link** .
 
 ![A screenshot of the Linked Social Accounts settings on Xbox Series X with Discord highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/link-discord.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Select**Continue on console** to be taken to the Microsoft Edge application.
 * When prompted, sign into your Discord account and select**Authorize** .
@@ -85,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 ![A screenshot of the Parties and Chats menu on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/parties-and-chats.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Choose the**Server** you want to stream from, followed by the specific**Voice channel** .
 
 ![A screenshot of the available Discord Voice Channels for an Xbox account on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/discord-voice-channels.jpg)
@@ -99,10 +97,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 ![A screenshot of the Stream Settings for Discord on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stream-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And with**Start streaming** selected, Discord will stream any game you play directly to the Discord Voice Channel of your choice. You can even alter your**Stream settings** throughout the stream by re-entering the**Discord** menu on the**Parties & chats** screen.
@@ -110,10 +105,7 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
  However, some aspects of your**Stream settings** are locked behind Discord's Nitro paid service, so if you want to stream in a higher resolution than 720p, you'll have to pay for the privilege. But even with this hindrance, streaming to Discord from your Xbox takes mere minutes and feels completely intuitive.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Streaming Gameplay Easy With Discord and Xbox
@@ -137,20 +129,18 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-premium-free-fb-imagemotion-graphics-builder/"><u>[New] In 2024, Premium Free FB Image/Motion Graphics Builder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-snapedit-story-complete-video-editor-features/"><u>[New] SnapEdit Story – Complete Video Editor Features</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagrabs-top-15-videophoto-downloading-tools/"><u>[Updated] InstaGrabs Top 15 Video/Photo Downloading Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-dawn-of-a-new-era-key-fb-ad-trends-arriving/"><u>[Updated] The Dawn of a New Era Key FB Ad Trends Arriving</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-delays-in-steams-e-commerce/"><u>Eliminating Delays in Steam's E-Commerce</u></a></li>
-<li><a href="https://games-able.techidaily.com/expanding-the-library-additional-funds-and-purchases/"><u>Expanding the Library: Additional Funds & Purchases</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-reno-10-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo Reno 10 5G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Poco M6 Pro 5G?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722959604227-instant-access-get-brother-hl-3170cdw-driver-downloads-here/"><u>Instant Access - Get Brother HL-3170CDW Driver Downloads Here!</u></a></li>
-<li><a href="https://games-able.techidaily.com/reigning-supreme-in-valorant-overcoming-low-fps-and-performance-setbacks/"><u>Reigning Supreme in Valorant: Overcoming Low FPS and Performance Setbacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-pace-of-change-in-todays-mmo-experience/"><u>The Pace of Change in Today’s MMO Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-tips-for-prolonging-nintendo-switchs-life/"><u>Top 5 Tips for Prolonging Nintendo Switch's Life</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-selection-of-top-xbox-recorders/"><u>Ultimate Selection of Top Xbox Recorders</u></a></li>
-<li><a href="https://games-able.techidaily.com/zero-price-endless-fun-switchs-finest-ftp-games/"><u>Zero Price, Endless Fun: Switch's Finest FTP Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-jump-into-the-moment-with-these-8-trendy-videos-on-fb/"><u>[New] 2024 Approved Jump Into the Moment with These 8 Trendy Videos on FB</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-playlist-conversion-5-preferred-tools-for-youtube-streams/"><u>[New] 2024 Approved Mastering Playlist Conversion 5 Preferred Tools for YouTube Streams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outubes-rivalry-the-leading-3-video-streaming-sites-for-2024/"><u>[New] YouTube's Rivalry The Leading 3 Video Streaming Sites for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-re-watch-lost-youtube-scenes-online-simple-steps/"><u>[Updated] 2024 Approved How to Re-Watch Lost YouTube Scenes Online Simple Steps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-captivating-creativity-designing-a-distinctive-podcast-image/"><u>[Updated] Captivating Creativity Designing a Distinctive Podcast Image</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-common-pitfalls-on-the-journey-to-starfield/"><u>Avoiding Common Pitfalls on the Journey to Starfield</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-controls-explained-buttons-for-android-devices/"><u>Gaming Controls Explained: Buttons for Android Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/iphone-techniques-for-seamless-image-to-pdf-conversion/"><u>IPhone Techniques for Seamless Image-to-PDF Conversion</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-infinix-smart-8-hd-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Infinix Smart 8 HD Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-fixes-to-address-your-icue-device-detection-errors/"><u>Step-by-Step Fixes to Address Your ICUE Device Detection Errors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selection-best-8-websites-with-striking-3d-and-glamourous-text-for-2024/"><u>Ultimate Selection Best 8 Websites with Striking 3D & Glamourous Text for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-gaming-excellence-with-google-play-games-beta-pc/"><u>Unlocking Gaming Excellence with Google Play Games Beta (PC)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-cozy-gamings-charm/"><u>Unraveling Cozy Gaming's Charm</u></a></li>
 </ul></div>
 

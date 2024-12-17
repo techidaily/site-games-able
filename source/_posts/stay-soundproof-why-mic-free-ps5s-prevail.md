@@ -1,7 +1,7 @@
 ---
 title: "Stay Soundproof: Why Mic-Free PS5s Prevail"
-date: 2024-12-04T21:37:33.156Z
-updated: 2024-12-10T20:07:12.887Z
+date: 2024-12-11T02:24:43.021Z
+updated: 2024-12-17T09:56:19.183Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 ![PS5 Controller Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is presumably to cut down on the microphone picking up the unnecessary background noise. Since the mic is inside the controller, other players would be able to hear some of the sounds from the vibrations and other mechanical feedback inside your controller. As a courtesy to others, it's thus lowered.
 
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Automatically Mute Your PS5's Microphone
 
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
@@ -94,22 +94,22 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>[New] Excellence in Audio on Windows Best 8 Podcast Apps Compiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mastery-over-mobile-and-desktop-recording-team-discussions/"><u>[New] In 2024, Mastery Over Mobile & Desktop Recording Team Discussions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-latest-in-non-fbx-gameplay-tracking-for-2024/"><u>[New] Unveiling the Latest in Non-FBX Gameplay Tracking for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-updated-samsung-ubd-k8500-analysis-for-2024/"><u>[Updated] Updated Samsung UBD-K8500 Analysis for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/ai-chatbot-bias-revealed-by-stanford-research-the-overlooked-issue-of-language-limitation/"><u>AI Chatbot Bias Revealed by Stanford Research: The Overlooked Issue of Language Limitation</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/amplify-your-videos-enhancing-thumbnails-with-captivating-creative-bgs/"><u>Amplify Your Videos Enhancing Thumbnails with Captivating, Creative BGs</u></a></li>
-<li><a href="https://games-able.techidaily.com/enriching-joy-con-gameplay-with-additional-inputs-96-chars-adjusted-for-relevancy-and-fitting-within-limits/"><u>Enriching Joy-Con Gameplay with Additional Inputs (96 Chars) - Adjusted for Relevancy and Fitting Within Limits</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-the-price-tag-on-ea-play/"><u>Evaluating the Price Tag on EA Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-165hz-pc-gaming-displays/"><u>Exclusive 165Hz PC Gaming Displays</u></a></li>
-<li><a href="https://games-able.techidaily.com/games-reinvented-steams-approach-to-ai-driven-experience/"><u>Games Reinvented: Steam’s Approach to AI-Driven Experience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-secrets-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>In 2024, Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/play-without-payment-top-10-free-online-roleplaying-games/"><u>Play Without Payment Top 10 Free Online Roleplaying Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-screen-slump-in-gaming-systems/"><u>Tackling Screen Slump in Gaming Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unsubscribed-response-to-eas-price-spike/"><u>The Unsubscribed Response to EA’s Price Spike</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-ranked-logitech-gamers-choice/"><u>Top-Ranked Logitech Gamer's Choice</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-ring-video-doorbell-2-analysis-top-of-the-line-security/"><u>Ultimate Ring Video Doorbell 2 Analysis: Top of the Line Security</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-more-gaming-on-xbox-with-ultimate-plan/"><u>Unlock More Gaming on Xbox with Ultimate Plan</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-showdown-bandicams-prowess-against-camtasia-for-2024/"><u>[Updated] The Ultimate Showdown Bandicam's Prowess Against Camtasia for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>2024 Approved A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-to-future-radeon-rebooted/"><u>2024 Approved Retro to Future Radeon Rebooted</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-and-understanding-windows-component-services-interface/"><u>Accessing & Understanding Windows Component Services Interface</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-pixelsplayzone-monitor-27m2v/"><u>Affordable PixelsPlayzone Monitor, 27M2V</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-platform-play-android-gaming-on-linux/"><u>Cross-Platform Play: Android Gaming on Linux</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-gaming-fallout-counterparts-await/"><u>Dive Into Gaming: Fallout Counterparts Await!</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-windows-1011-writable-device-stall-0x887a0006/"><u>Eliminating Windows 10/11' Writable Device Stall (0X887A0006)</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-minecraft-launcher-error-0x803f8001-on-windows-devices/"><u>Fixing Minecraft Launcher Error 0X803F8001 on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/gain-smooth-play-solving-windows-based-epic-games-crashes/"><u>Gain Smooth Play: Solving Windows-Based Epic Games Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-connect-ps5-wireless-controllers-on-phone/"><u>Guide: Connect PS5 Wireless Controllers on Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c51-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C51 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-v30-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme V30 Android SIM Unlock APK</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-when-is-the-best-time-to-post-on-instagram-the-ultimate-guide/"><u>In 2024, When Is The Best Time to Post on Instagram - The Ultimate Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-for-gamers-8-leading-outlets-and-reviews/"><u>Top Picks for Gamers: #8 Leading Outlets & Reviews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/win-and-mac-top-8-excellent-subtitles-converters-to-srt-for-2024/"><u>Win & Mac Top 8 Excellent Subtitles Converters to SRT for 2024</u></a></li>
 </ul></div>
 

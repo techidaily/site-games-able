@@ -1,7 +1,7 @@
 ---
 title: "Empower Yourself: DIY Xbox Controller Maintenance Guide"
-date: 2024-10-23T00:24:48.561Z
-updated: 2024-10-25T02:40:37.005Z
+date: 2024-12-16T00:59:10.741Z
+updated: 2024-12-16T21:03:26.439Z
 tags:
   - games
 categories:
@@ -31,19 +31,14 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ![A disassembled Xbox Series X|S controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/xbox-x-controller-disassembly-4-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is mainly helpful to gamers with older controllers that are out of warranty. If your controller is still under warranty, sending it back for a free repair or replacement would be cheaper and easier. But if you do feel like you want to have a go yourself, Xbox has announced that opening up your controller to fix it will not void the warranty as long as no damage is done during the process.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get Started Fixing Your Own Xbox Controller
@@ -57,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  If Xbox's tutorials aren't doing the trick for you, you can also learn a variety of repair techniques like[how to fix your drifting Xbox controller](https://www.makeuseof.com/xbox-controller-drift/) or[how to open your Xbox Series X|S Controller](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) from our very own experts.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Should Fix Your Own Xbox Controller
@@ -74,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 ![Close up of Xbox Wireless Controller Remix Edition on a Leafy Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-up-of-xbox-wireless-controller-remix-edition-on-a-leafy-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://www.xbox.com/en-us/accessories/controllers/remix-special-edition#regrind)
@@ -85,10 +74,7 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
  Inspiring gamers to recycle and reuse their old controllers instead of throwing them out to buy new ones is yet another eco-friendly step in the right direction for Xbox.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Reuse, Recycle, Replay
@@ -112,22 +98,21 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-precision-cutting-for-impressive-youtube-videos/"><u>[Updated] In 2024, Precision Cutting for Impressive YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pugilism-power-play-against-viewership-virtue/"><u>[Updated] Pugilism Power Play Against Viewership Virtue</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/actionable-steps-for-recording-a-google-hangout-session-a-complete-visual-walkthrough/"><u>Actionable Steps for Recording a Google Hangout Session: A Complete Visual Walkthrough</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-14-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi 14 Ultra?</u></a></li>
-<li><a href="https://games-able.techidaily.com/ensuring-personalized-sound-exclusive-headset-use/"><u>Ensuring Personalized Sound: Exclusive Headset Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-for-playing-steam-on-iphones-and-tablets/"><u>Essential Tips for Playing Steam on iPhones and Tablets</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-a58-4g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo A58 4G.</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-a70-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel A70 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oneplus-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 OnePlus Android SIM Unlock APK</u></a></li>
-<li><a href="https://games-able.techidaily.com/intrigue-and-investigation-with-smart-ai-games/"><u>Intrigue & Investigation with Smart AI Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-remedy-for-dxgierrordevicehunk-on-windows-1011/"><u>Quick Remedy for DXGI_ERROR_DEVICE_HUNK on Windows 10/11</u></a></li>
-<li><a href="https://games-able.techidaily.com/simple-guide-overcoming-the-failed-to-install-discord-hurdle-successfully/"><u>Simple Guide: Overcoming the 'Failed to Install Discord' Hurdle Successfully</u></a></li>
-<li><a href="https://games-able.techidaily.com/simplify-game-boy-step-by-step-emulation-on-psp-device/"><u>Simplify Game Boy: Step-by-Step Emulation on PSP Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/stand-up-for-justice-documentation-of-misconduct-in-series-sx/"><u>Stand Up for Justice: Documentation of Misconduct in Series S/X</u></a></li>
-<li><a href="https://fox-where.techidaily.com/top-four-or-top-4-and-reference-alternative-options-to-lynda-they-also-include-relevant-keywords-for-search-engine-optimization-like-best-substitutes-qualit1/"><u>Top Four or Top 4, and Reference Alternative Options to Lynda. They Also Include Relevant Keywords for Search Engine Optimization Like Best Substitutes, Quality Skills Training, and Learning Platforms.</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-ai-game-evolution-with-steams-regulations/"><u>Understanding AI Game Evolution with Steam's Regulations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-machine-learning-clarity-with-shap-e/"><u>Unveiling Machine Learning Clarity with SHAP E</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-timing-the-perfect-capture-and-labeling/"><u>[New] In 2024, Timing the Perfect Capture and Labeling</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uick-guide-youtube-videos-for-your-instagram-story-for-2024/"><u>[New] Quick Guide YouTube Videos for Your Instagram Story for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-from-light-to-shadow-premiere-pro-transitions/"><u>[Updated] 2024 Approved From Light to Shadow Premiere Pro Transitions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-build-your-affordable-virtual-reality-headgear-using-google-cards/"><u>[Updated] Build Your Affordable Virtual Reality Headgear Using Google Cards</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-captivating-terminal-games-for-linux-enthusiasts/"><u>7 Captivating Terminal Games for Linux Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-missing-titles-in-steam-inventory/"><u>Addressing Missing Titles in Steam Inventory</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171067592-amplify-your-game-space-go-for-giant-arcade-panels/"><u>Amplify Your Game Space - Go for Giant Arcade Panels</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/authoritative-hardware-insights-powered-by-tomntech-critics/"><u>Authoritative Hardware Insights Powered by Tom'nTech Critics</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-16-console-gaming-companions-on-xbox-sx/"><u>Best 16 Console Gaming Companions on Xbox S/X</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170608233-engage-your-mind-with-the-latest-nyt-brain-teaser-strands/"><u>Engage Your Mind with the Latest NYT Brain Teaser - Strands</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experiencing-difficulty-accessing-your-aol-mail/"><u>Experiencing Difficulty Accessing Your AOL Mail?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mirth-makers-zombie-fashionistas/"><u>In 2024, Mirth Makers Zombie Fashionistas</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165881041-ios-gba-mastery-discover-the-top-4-emulators/"><u>IOS GBA Mastery: Discover the Top 4 Emulators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/l-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-elite-in-sports-video-games-an-in-depth-look-at-fifa-nineteenth-editions-triumph/"><u>The Elite in Sports Video Games - An In-Depth Look at FIFA Nineteenth Edition's Triumph</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171456866-upgrade-to-efficiency-embrace-the-newest-nvidia-drivers-now/"><u>Upgrade to Efficiency: Embrace the Newest Nvidia Drivers Now!</u></a></li>
 </ul></div>
 

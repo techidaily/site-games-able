@@ -1,7 +1,7 @@
 ---
 title: Gauging How Much Video Memory Is Present
-date: 2024-10-23T17:09:04.770Z
-updated: 2024-10-25T02:25:15.786Z
+date: 2024-12-11T04:38:35.195Z
+updated: 2024-12-17T00:33:04.719Z
 tags:
   - games
 categories:
@@ -38,10 +38,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 ![Screenshot showing VRAM in Windows settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you've got more than one GPU in your system (one discrete and one integrated) or multiple displays, you might want to check the others as well to make sure you're seeing the right type of VRAM.
@@ -61,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using Third-Party Tools
@@ -73,21 +67,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check VRAM on Linux
 
@@ -119,6 +99,10 @@ sudo apt-get install radeontop`
 
  Do keep in mind that this method only works on Intel-based Macs. If your Mac is powered by an M1 or M2 chip, it's not possible to see how much VRAM you have, as both the CPU and GPU are baked onto one chip.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Knowing Your VRAM Important?
 
  As mentioned before, if you're a gamer or content creator, having enough VRAM on hand is very important. Without enough VRAM, you might struggle to run games at anything above the minimum quality settings, and in the case of some modern games, you might not be able to run them at all.
@@ -127,15 +111,16 @@ sudo apt-get install radeontop`
 
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
  There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Knowing Your PC Specs Is Important
@@ -157,21 +142,22 @@ sudo apt-get install radeontop`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-ensure-your-virtual-meetings-are-documented/"><u>[Updated] 2024 Approved How to Ensure Your Virtual Meetings Are Documented</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-ensuring-visual-presentation-youtube-shorts-thumbnails-fix/"><u>2024 Approved Ensuring Visual Presentation YouTube Shorts Thumbnails Fix</u></a></li>
-<li><a href="https://games-able.techidaily.com/dreamcatcher-delights-playing-classic-games-on-android/"><u>Dreamcatcher Delights: Playing Classic Games on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminate-clutter-delete-and-redownload-ps5-games/"><u>Eliminate Clutter: Delete & Redownload PS5 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-tips-to-pick-an-elgato-stream-deck/"><u>Essential Tips to Pick an Elgato Stream Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-financing-and-buying-ps-games-securely/"><u>Expert Tips: Financing and Buying PS Games Securely</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-telegram-platform-an-in-depth-look-at-messaging/"><u>Exploring the Telegram Platform: An In-Depth Look at Messaging</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-interactive-cosmos-explored-metaverse-versus-omniverse-discussed/"><u>In 2024, Interactive Cosmos Explored Metaverse Versus Omniverse Discussed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-spectrum-in-hands-on-recognition-technology/"><u>In 2024, Navigating the Spectrum in Hands-On Recognition Technology</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ize-youtube-income-insights-and-techniques-for-2024/"><u>Maximize Youtube Income Insights and Techniques for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-asus-touchpad-drivers-for-windows-11/"><u>Quick and Simple Guide: ASUS Touchpad Drivers for Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/removing-your-playstation-5-login-information/"><u>Removing Your PlayStation 5 Login Information</u></a></li>
-<li><a href="https://games-able.techidaily.com/shift-seasons-not-timezones-update-xbox-system/"><u>Shift Seasons, Not Timezones: Update Xbox System</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/venture-into-virtuality-critical-reviews-of-tech/"><u>Venture Into Virtuality - Critical Reviews of Tech</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-is-gpu-sag-and-how-do-you-fix-it/"><u>What Is GPU Sag and How Do You Fix It?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-iphone-guide-inverting-your-media-files/"><u>[New] In 2024, IPhone Guide Inverting Your Media Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-seamless-macos-sierra-integration-techniques/"><u>[Updated] 2024 Approved Seamless MacOS Sierra Integration Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-total-motion-analysis-2023/"><u>[Updated] In 2024, Total Motion Analysis 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-snap-confirmation-essentials-unveiled/"><u>[Updated] Insta Snap Confirmation Essentials Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-enlightening-your-iphone-images-through-effective-hdr-methods/"><u>2024 Approved Enlightening Your iPhone Images Through Effective HDR Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-brilliant-blend-of-tradition-and-innovation-why-pi/"><u>A Brilliant Blend of Tradition and Innovation: Why Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-step-by-step-guide-to-complain-against-an-xbox-player/"><u>A Step by Step Guide to Complain Against an Xbox Player</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-missing-items-in-steam-orders/"><u>Addressing Missing Items in Steam Orders</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-c51-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-arcade-vibes-with-enlarged-frontend-frames/"><u>Amp Up Arcade Vibes with Enlarged Frontend Frames!</u></a></li>
+<li><a href="https://games-able.techidaily.com/amp-up-the-atmosphere-big-box-for-arcade-fronts/"><u>Amp up the Atmosphere: Big Box for Arcade Fronts</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-the-impact-of-quick-resume-on-console-xands-gaming-experience/"><u>Assessing the Impact of Quick Resume on Console X&S Gaming Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/asuss-finest-ally-dock-innovation-for-enhanced-laptop-productivity/"><u>ASUS's Finest Ally Dock Innovation for Enhanced Laptop Productivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/banishing-display-lag-zeroing-out-error-code-0x887a0006/"><u>Banishing Display Lag: Zeroing Out Error Code 0X887A0006</u></a></li>
+<li><a href="https://solve-news.techidaily.com/free-online-converter-convert-bmp-to-jpg-using-movavis-effortless-tool/"><u>Free Online Converter: Convert BMP to JPG Using Movavi's Effortless Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-note-30-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Note 30 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-google-drive-file-downloads-top-14-solutions/"><u>Resolving 'Google Drive File Downloads' - Top 14 Solutions</u></a></li>
 </ul></div>
 

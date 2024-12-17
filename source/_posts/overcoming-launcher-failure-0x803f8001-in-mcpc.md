@@ -1,7 +1,7 @@
 ---
 title: Overcoming Launcher Failure 0X803F8001 in MCPC
-date: 2024-12-04T08:34:07.230Z
-updated: 2024-12-11T03:47:02.714Z
+date: 2024-12-15T04:02:10.959Z
+updated: 2024-12-17T13:13:40.645Z
 tags:
   - games
 categories:
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/b7ec02702d51d57959e5bd1248adaf8d9c4e1536b
 4. If you are signed in with a different account, click**Sign out** to sign out of the Microsoft account. Then, sign in with the right account.  
 ![Click on Sign Out to Sign Out of the Microsoft Store Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/click-on-sign-out-to-sign-out-of-the-microsoft-store-account.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're already logged into the Microsoft Store with the correct account, sign out once and sign back in again. This will feasibly resolve any account synchronization issues and glitches.
 
 ## 2\. Run the Windows Store Apps Troubleshooter
@@ -53,10 +49,14 @@ Here is how to launch the troubleshooter:
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-windows-store-apps-run-button.jpg)
 4. The troubleshooter will open and scan for app issues. Apply any potential resolutions it suggests.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/windows-store-apps-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ensure the Windows Time and Date Is Correct
@@ -81,12 +81,16 @@ You can reset your apps in Windows 11 like this:
 5. Select**Advanced options** to bring up the**Reset** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the**Reset** option. Select**Reset** again on the confirmation prompt.  
 ![The Repair and Reset buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-repair-and-reset-buttons.jpg)
 7. Note that you can also select a**Repair** option that’s just above the**Reset** button. If resetting doesn’t do the trick, try selecting the**Repair** option for Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Repeat the above steps for the Microsoft Launcher app.
 
@@ -101,7 +105,7 @@ You can reset your apps in Windows 11 like this:
 4. Click**OK** to reset Microsoft Store’s cache.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Re-Register the Microsoft Store via an Elevated PowerShell
@@ -113,16 +117,20 @@ You can reset your apps in Windows 11 like this:
 ![The Run as Administrator option for Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/run-as-administrator-option-for-powershell.jpg)
 3. [Copy and paste](https://www.makeuseof.com/windows-11-copy-paste-methods/) this command into PowerShell and hit**Enter** to execute:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"} Get-AppXPackage -AllUsers -Name Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml" -Verbose}`
 4. Then input this second command in the PowerShell window:  
 `Get-AppXPackage -AllUsers -Name Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml" -Verbose}`
 5. Press the**Enter** keyboard key to run the command.
 
 ![A reregister app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/a-reregister-app-package-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Microsoft Store
 
@@ -137,10 +145,6 @@ You can reset your apps in Windows 11 like this:
 5. Press the**Enter** keyboard key to reinstall Microsoft Store.
 
 ![The reinstall app package PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/reinistall-app-package-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Reinstall the Minecraft Launcher App
 
@@ -157,19 +161,11 @@ You can reset your apps in Windows 11 like this:
 7. Press the**Get** button for the app.
 8. Then click Minecraft Launcher’s**Play** option in Microsoft Store.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Install the Minecraft Launcher From the Microsoft Store
 
  Do you use the Minecraft Launcher you downloaded from the Minecraft website? If you do, uninstall the launcher using one of the[ways to uninstall apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then, install it from the Microsoft Store.
 
  Several users have reported in a thread within the[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/when-i-try-to-launch-minecraft-launcher-i-get/dbb2b0aa-f68a-411c-8a9a-662499c8472f) that they have been able to fix the issue by doing this. Therefore, give it a shot and see if it fixes the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Repair Any Corrupted System Files
 
@@ -178,6 +174,10 @@ You can reset your apps in Windows 11 like this:
  Before running the SFC scan, it's a good idea to run a DISM scan beforehand. The DISM scan will fix any errors related to the SFC tool, so it's good to double-check that the SFC tool is operating properly before performing a scan.
 
  Check out[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for further instructions on how to perform both scans.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Update Windows
 
@@ -202,17 +202,21 @@ You can reset your apps in Windows 11 like this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tips-for-restarting-disrupted-fb-live-videos/"><u>[Updated] In 2024, Tips for Restarting Disrupted FB Live Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>2024 Approved Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211447420-9798330379460-66-hmeres-gia-na-alla3ete-th-zwh-sas/"><u>66 ημέρες για να αλλάξετε τη ζωή σας | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/dynamic-cooling-curve-design-elevates-system-stability/"><u>Dynamic Cooling Curve Design Elevates System Stability</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-obtaining-your-samsung-smartphones-usb-communication-tools-online/"><u>Easy Guide: Obtaining Your Samsung Smartphone's USB Communication Tools Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-sony-portable-playback-to-dual-analog-simulation/"><u>From Sony Portable Playback to Dual Analog Simulation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a38-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A38 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-the-leading-free-srt-translators-online/"><u>In 2024, Ranking the Leading Free SRT Translators Online</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-console-experience-with-exceptional-panels/"><u>Transform Your Console Experience with Exceptional Panels</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-non-joy-con-link-problems-for-switch-users/"><u>Troubleshooting Non-Joy-Con Link Problems for Switch Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/unique-curve-design-balancing-thermal-management-and-performance/"><u>Unique Curve Design: Balancing Thermal Management and Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-legalities-in-sharing-instagram-melodies/"><u>[Updated] 2024 Approved Legalities in Sharing Instagram Melodies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-uniting-zooms-power-with-facebook-live-streaming/"><u>[Updated] In 2024, Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-live-video-glitches-on-facebook-how-to-remove-mutes-completinasly/"><u>[Updated] Live Video Glitches on Facebook - How to Remove Mutes Completinasly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-e-story-creation-techniques/"><u>[Updated] The Essence of E-Story Creation Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-inspire-audiences-with-these-high-quality-free-sound-files/"><u>2024 Approved Inspire Audiences with These High-Quality, Free Sound Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/behind-the-screen-watch-movies-on-ps5/"><u>Behind the Screen: Watch Movies on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-guide-tackling-the-top-4-gpu-challenges/"><u>Comprehensive Guide: Tackling the Top 4 GPU Challenges</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-can-i-uninstall-preinstalled-apple-apps-on-my-iphone-device/"><u>How Can I Uninstall Preinstalled Apple Apps on My iPhone Device?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-cheapest-android-calls-top-free-apps-rated/"><u>In 2024, Cheapest Android Calls Top Free Apps Rated</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-c02-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia C02 Phone?</u></a></li>
+<li><a href="https://games-able.techidaily.com/old-school-gaming-resurrected-xemus-role-in-pc/"><u>Old-School Gaming Resurrected: Xemu's Role in PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/revealing-system-vram-quantity/"><u>Revealing System VRAM Quantity</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharpening-gaming-experience-via-smart-models/"><u>Sharpening Gaming Experience via Smart Models</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshoot-stuck-xbox-disc-with-manual-tips/"><u>Troubleshoot Stuck Xbox Disc with Manual Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-imac-innovations-reign-in-gaming-markets/"><u>Will iMac Innovations Reign in Gaming Markets?</u></a></li>
 </ul></div>
 

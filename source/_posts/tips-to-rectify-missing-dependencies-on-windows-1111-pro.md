@@ -1,7 +1,7 @@
 ---
 title: Tips to Rectify Missing Dependencies on Windows 11/11 Pro
-date: 2024-12-06T23:43:07.146Z
-updated: 2024-12-11T01:13:22.492Z
+date: 2024-12-11T04:36:43.920Z
+updated: 2024-12-17T04:55:11.905Z
 tags:
   - games
 categories:
@@ -23,12 +23,16 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
@@ -47,15 +51,7 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/modify-option.jpg)
 4. Select the**Repair** option in the Visual C++ window that opens.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
@@ -68,11 +64,15 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The x64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-x64-link.jpg)
 3. Click**I agree** \>**Install** in the Microsoft Visual C++ 2015-2022 window.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
@@ -91,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 ![The Install the Bing Bar checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-bing-bar-option.jpg)
 6. Select**Next** to install the required DirectX components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
@@ -103,17 +107,9 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 ![The Verify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-verify-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A few users say verifying games’ files works for fixing the “following components are required” error. You can only perform this step if you bought and downloaded the game using one of the big game launcher apps, such as Steam, Epic Games, EA Desktop, and Origin.
 
  If you're unsure how to do this, check out[how to repair game files on different launchers](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Affected Game or Software
 
@@ -126,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
 
@@ -148,21 +148,22 @@ thumbnail: https://thmb.techidaily.com/aad91a6ecd7769da95953b80a90f8da974d1c7ad6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-viral-victory-restoring-your-facebook-space/"><u>[New] In 2024, Viral Victory Restoring Your Facebook Space</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[Updated] 2024 Approved Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-dissecting-mr-beasts-fortune-portfolio/"><u>[Updated] Dissecting Mr. Beast's Fortune Portfolio</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-guidelines-to-create-impactful-youtube-banners/"><u>[Updated] In 2024, Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-clearing-background-artifacts-in-figma/"><u>2024 Approved Step-by-Step Clearing Background Artifacts in Figma</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-the-game-fortnite-ipad-with-geforce-now/"><u>Conquer the Game: Fortnite iPad with GeForce Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722954254656-get-your-free-nvidia-rtx-3060-ti-drivers-for-latest-windows-os-download-now/"><u>Get Your Free NVIDIA RTX 3060 Ti Drivers for Latest Windows OS - Download Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/home-computers-face-off-mini-versus-large-desktop-setups/"><u>Home Computers Face-Off: Mini Versus Large Desktop Setups</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mejores-aplicaciones-con-ai-publicas-y-libres-las-8-mas-efectivas-en-restaurar-fotografias-clasicas/"><u>Mejores Aplicaciones Con AI Públicas Y Libres: Las 8 Más Efectivas en Restaurar Fotografías Clásicas</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/promoting-intercultural-understanding-through-esl/"><u>Promoting Intercultural Understanding Through ESL</u></a></li>
-<li><a href="https://games-able.techidaily.com/selective-guide-to-top-6-diverse-video-titles/"><u>Selective Guide to Top 6 Diverse Video Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-8-reasons-edge-is-the-ultimate-gaming-browser-companion/"><u>Top 8 Reasons Edge Is the Ultimate Gaming Browser Companion</u></a></li>
-<li><a href="https://games-able.techidaily.com/tricks-for-faster-xbox-refund-service/"><u>Tricks for Faster Xbox Refund Service</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-quality-the-story-of-keychron-and-lemokey-l3/"><u>Unveiling Quality: The Story of Keychron & Lemokey L3</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/using-buttons-for-easy-output-handling-in-flipbook-creation-a-guide-to-flipbuilders-features/"><u>Using Buttons for Easy Output Handling in Flipbook Creation - A Guide to FlipBuilder's Features</u></a></li>
-<li><a href="https://games-able.techidaily.com/which-gpu-model-is-best-founders-series-or-aib-edition/"><u>Which GPU Model Is Best? Founders Series or AIB Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-use-of-vlc-for-media-creation-for-2024/"><u>[New] Efficient Use of VLC for Media Creation for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-clear-choice-for-cost-free-screen-capture-technology/"><u>[New] In 2024, The Clear Choice for Cost-Free Screen Capture Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-complete-scoop-on-vitas-video-editor-app-detailed-review-2024/"><u>[New] The Complete Scoop on Vita’s Video Editor App, Detailed Review 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>[Updated] 2024 Approved No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-backward-glimpse-reverse-video-tips/"><u>[Updated] Instagram's Backward Glimpse Reverse Video Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-adopting-nature-positive-policies-in-urban-governance/"><u>2024 Approved Adopting Nature-Positive Policies in Urban Governance</u></a></li>
+<li><a href="https://games-able.techidaily.com/beating-the-big-picture-breakdown-in-steam/"><u>Beating The Big Picture Breakdown in Steam</u></a></li>
+<li><a href="https://win-studio.techidaily.com/comment-localiser-un-fichier-perdu-sous-windows-11-avec-des-astuces-faciles-a-succes/"><u>Comment Localiser Un Fichier Perdu Sous Windows 11 Avec Des Astuces Faciles À Succès</u></a></li>
+<li><a href="https://games-able.techidaily.com/historical-heartbeat-discovering-the-best-11-ww2-simulators/"><u>Historical Heartbeat: Discovering the Best 11 WW2 Simulators</u></a></li>
+<li><a href="https://games-able.techidaily.com/n2o-switch-speculations-handheld-future-in-focus/"><u>N2O Switch Speculations - Handheld Future in Focus</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-cheat-code-risks-and-mechanics-insight/"><u>Roblox Cheat Code: Risks and Mechanics Insight</u></a></li>
+<li><a href="https://games-able.techidaily.com/scrutinizing-discords-assumption-behind-idle-status/"><u>Scrutinizing Discord’s Assumption Behind Idle Status</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-unsuited-audio-device-stopped-in-windows-errors/"><u>Solutions for 'Unsuited Audio Device Stopped' In Windows Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-tightens-grip-on-irregular-refund-practices/"><u>Steam Tightens Grip on Irregular Refund Practices</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-steam-deck-cases-of-2024/"><u>The Best Steam Deck Cases of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-effective-solutions-to-no-sound-problem-for-cod-black-ops-cold-war-gamers/"><u>Turn Up the Volume: Effective Solutions to 'No Sound' Problem for COD: Black Ops Cold War Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-case-purpose-and-usage/"><u>Xbox Case: Purpose & Usage</u></a></li>
 </ul></div>
 

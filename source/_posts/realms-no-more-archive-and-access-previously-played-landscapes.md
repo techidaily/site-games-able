@@ -1,7 +1,7 @@
 ---
 title: "Realms No More: Archive and Access Previously Played Landscapes"
-date: 2024-08-31T19:23:57.829Z
-updated: 2024-09-01T19:23:57.829Z
+date: 2024-12-16T08:57:15.357Z
+updated: 2024-12-16T23:21:08.022Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 ![Xbox Account main page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/xbox-account-main-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To get to your Microsoft account, you can open it from the Xbox app on PC. Click on your profile name on the upper left, then click**Settings > Account > View order history** . This will open up your[Microsoft order history](https://account.microsoft.com/billing/orders/) .
 
 ![View order history on Xbox Game Pass](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/view-order-history-on-xbox-game-pass.jpg)
@@ -38,21 +42,12 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 ![Manage services on Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/manage-services-on-microsoft-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From there, click on the Minecraft Realms subscription**Manage** button on the right side.
 
 ![Minecraft Java Realms Cancel Subscription button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-realms-cancel-subscription-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  This will open up a new page where you can find the**Cancel subscription** button.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## What Happens After Unsubscribing from Minecraft Realms?
 
 ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
@@ -63,13 +58,18 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  You won’t lose your Realms world immediately, and the backups will still exist. However, the Realms servers will only keep them for 18 months. We’ll be covering how to download your Minecraft Realms backups for offline play or on[free Minecraft server hosting services](https://www.makeuseof.com/how-to-set-up-minecraft-server-free/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download Your Minecraft Realms Worlds After Unsubscribing
 
  If you don’t want to lose your backups, you should download them locally. Here’s how to download your backups and find the files so you can use them elsewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Downloading Your World on Minecraft Java Edition
 
 ![Configure button Minecraft Realms Java Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/configure-button-minecraft-realms-java-edition.jpg)
@@ -78,19 +78,17 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 ![Minecraft Realms Java Edition World backups button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-world-backups-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Next, select the world in the Realm you want to back up and click on**World Backups** .
 
 ![Minecraft Realms Java Edition Backups section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-realms-java-edition-backups-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  Finally, you can click on**Download latest** or choose the specific backup you want to save.
 
 ![Minecraft Java Edition world saves file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/minecraft-java-edition-world-saves-file-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once it’s saved, it’ll show up in your single-player worlds with your username. In this case it’s Majikoeda. The file location can be found in**AppData/Roaming/.minecraft/saves** in case you want to move it to a different device, upload it to a server hosting service, or save it on Google Drive. That file location can also be used to[add downloadable Minecraft maps](https://www.makeuseof.com/how-to-download-install-minecraft-maps/) .
 
@@ -98,11 +96,19 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 ![Pencil button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pencil-button-on-minecraft-realms-bedrock-edition.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To back up a Realm world on the Bedrock Edition, click Play. Then, on the Realms section, click the**pencil icon** on the Realm you want to back up.
 
  In the edit Realm section, click on the world you want to back up and click on**Edit World** .
 
 ![Download backup button on Minecraft Realms Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/download-backup-button-on-minecraft-realms-bedrock-edition.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on**Backups,** then click on the**download** **icon** beside the backup of your choosing. In our case, we just have one backup for this test server.
 
@@ -111,25 +117,20 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![Play on Realms and Export World Button Minecraft Bedrock edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/play-on-realms-and-export-world-button-minecraft-bedrock-edition.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Clicking on the**pencil icon** beside the single-player downloaded backup will allow you to click**Play on Realm** in the future if you re-subscribe. Instead of finding the file on your device, you can also scroll down to the very bottom and click on**Export World** . This is much quicker as the Bedrock Edition’s world files are harder to find.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Don't Lose Your Minecraft Realm While Being Unsubscribed
 
  There are probably plenty of large worlds we used to play with our friends in and wish we had saved them before they all disappeared. You never know when you’ll come back to Minecraft, but there’s always a chance that you and your friends will. Revisiting a world you haven’t seen in months or years is a unique feeling and we hope this guide will help you preserve your Minecraft Realms worlds for future use.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +139,22 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-visionaries-inventing-new-marvel-worlds/"><u>[New] In 2024, Visionaries Inventing New Marvel Worlds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/"><u>[New] The Comprehensible Guide to Capturing Instagram Media via Computer Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pioneering-tools-for-modern-gameplay-recording/"><u>[Updated] 2024 Approved Pioneering Tools for Modern Gameplay Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-a-personalized-gaming-experience-xbox-game-bar-tweaks-for-pc-users/"><u>Crafting a Personalized Gaming Experience: Xbox Game Bar Tweaks for PC Users</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>Dive Into Digital Clarity The Guide for Full HD on Tweet</u></a></li>
+<li><a href="https://games-able.techidaily.com/erabinder-compact-8-bit-console-on-the-go/"><u>EraBinder Compact: 8-Bit Console on the Go</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/friendship-powered-pokehunting-collaborative-strategies-for-increased-xp-gains-in-pokemon-go/"><u>Friendship-Powered PokéHunting: Collaborative Strategies for Increased XP Gains in ‘Pokémon Go'</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-appear-offline-on-steam-even-when-youre-online/"><u>How to Appear Offline on Steam (Even When You’re Online)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mental-gymnastics-at-the-best-puzzle-halls-for-2024/"><u>Mental Gymnastics at the Best Puzzle Halls for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reaper-remixing-rituals-volume-control-chronicles-for-2024/"><u>Reaper Remixing Rituals Volume Control Chronicles for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-commanders-compendium-top-11-ww2-games/"><u>The Ultimate Commander’s Compendium: Top 11 WW2 Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-excellent-240hz-gaming-tvs/"><u>The Ultimate Guide to Excellent 240Hz Gaming Tvs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/outube-fonts-for-striking-shareable-thumbnails-for-2024/"><u>Top YouTube Fonts for Striking, Shareable Thumbnails for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unraveling-pokemons-mystery-scvs-shiny-secrets-80/"><u>Unraveling Pokémon's Mystery: SCV’s Shiny Secrets (80)</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-ignoring-ray-tracing-could-boost-your-gaming-experience/"><u>Why Ignoring Ray Tracing Could Boost Your Gaming Experience</u></a></li>
+</ul></div>
 

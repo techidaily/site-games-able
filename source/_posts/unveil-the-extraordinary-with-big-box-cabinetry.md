@@ -1,7 +1,7 @@
 ---
 title: Unveil the Extraordinary with Big Box Cabinetry
-date: 2024-12-06T03:37:51.947Z
-updated: 2024-12-11T05:46:37.057Z
+date: 2024-12-14T14:00:52.715Z
+updated: 2024-12-17T03:47:46.902Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Frontend Software for Arcade Cabinets?
 
  Think about the components needed to operate an arcade cabinet. You at least need a joystick with a set of buttons, speakers, a monitor, a cabinet, and a device to run the whole thing, like a desktop. But how do you navigate the system once it’s set up? That’s where frontend software comes in.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
  This can take days of work alone. But not with Big Box. Let’s dig a bit deeper and learn why a premium subscription to LaunchBox is worth the cost of admission alone for Big Box if you’re setting up your own arcade cabinet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Big Box Automatically Imports Metadata
@@ -63,14 +67,10 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 
 ![Game page in EmuMovies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/emu-movies-front-page.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re already familiar with[LaunchBox and how it works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) , you already know that you can add custom filters for your games, like the number of players per game or by genre. The filters you create in LaunchBox also appear in Big Box, making it easy to find the right game for the occasion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Big Box Gives You Hotkeys and Customizable Menu Controls
@@ -87,11 +87,11 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 
 ![Example of a second screen marquee in BigBox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/second-screen-marquee-big-box.jpg)
 
- Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Image Credit: Unbroken Software LLC/[YouTube](https://www.youtube.com/watch?v=q1gBLJ2IZJI)
 
 ## 5\. Use Big Box In-Place of Your Windows Shell
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
  Next, start Big Box from LaunchBox. Then, go to **System > Options > General > Enable Using Big Box as the Windows Shell > Yes.** The next time you reboot your device, Big Box will replace the Windows shell. If you need to get into Windows, you can still close Big Box via the Task Manager to gain access to Windows again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Big Box Takes the Headache Out of Arcade Frontends
@@ -124,20 +124,24 @@ thumbnail: https://thmb.techidaily.com/8437f38447ce38f499b6100252361ad0a548e9cd2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-become-a-travel-vlogger-guide-of-travel-vlogging-for-2024/"><u>[New] How To Become A Travel Vlogger | Guide of Travel Vlogging for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-strategies-to-shoot-a-flawless-green-screen-scene/"><u>2024 Approved Top Strategies to Shoot a Flawless Green Screen Scene</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-nubia-red-magic-9-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Nubia Red Magic 9 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-v30t-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme V30T to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accelerate-fluency-top-tips-for-learning-finnish-at-home/"><u>Accelerate Fluency: Top Tips for Learning Finnish at Home</u></a></li>
-<li><a href="https://games-able.techidaily.com/constraining-game-bars-surveillinaship-in-win-11-interface/"><u>Constraining Game Bar's Surveillinaship in Win 11 Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-xboxs-punitive-action-plan/"><u>Delving Into Xbox's Punitive Action Plan</u></a></li>
-<li><a href="https://games-able.techidaily.com/finding-value-in-graphic-performance/"><u>Finding Value in Graphic Performance</u></a></li>
-<li><a href="https://discover-able.techidaily.com/installing-windows-cd-rom-windows-10/"><u>Installing Windows 지금 새 디스크에서 직접 및 CD-ROM 없이 Windows 10 설치 방법 두 - 구현</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-gaming-5-strategies-for-mac-users/"><u>Optimize Your Gaming: 5 Strategies for Mac Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-the-joy-of-gameplay-after-exhaustion/"><u>Reviving the Joy of Gameplay After Exhaustion</u></a></li>
-<li><a href="https://games-able.techidaily.com/should-gameplay-be-enhanced-by-switching-to-a-mech-keyboard/"><u>Should Gameplay Be Enhanced by Switching to a Mech Keyboard?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stabilize-your-stronghold-expert-advice-on-resolving-state-of-decay-2s-frequent-crashes-this-year/"><u>Stabilize Your Stronghold: Expert Advice on Resolving State of Decay 2'S Frequent Crashes This Year</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-silence-controlling-sound-on-xbox-series/"><u>The Art of Silence: Controlling Sound on Xbox Series</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-boomboxes-the-ultimate-list/"><u>Top Rated Boomboxes : The Ultimate List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-segment-screen-showdown-recorders-leader-status/"><u>[Updated] In 2024, Segment Screen Showdown Recorder's Leader Status</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-13t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi 13T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-noise-the-case-against-ps5s-microphone/"><u>Avoiding Noise: The Case Against PS5's Microphone</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-online-gameplay-strategy-based-activities-on-discord/"><u>Elevating Online Gameplay: Strategy-Based Activities on Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-opera-experience-with-a-trial-of-free-nitro-membership/"><u>Enhance Your Opera Experience with a Trial of Free Nitro Membership</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-elite-8-sites-for-gamers-and-critics/"><u>Exclusive List: Elite 8 Sites for Gamers and Critics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-capturing-to-sharing-mastery-of-aiseesoft-recorder-features-for-2024/"><u>From Capturing to Sharing Mastery of Aiseesoft Recorder Features for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-audio-enhancement-the-role-of-specialized-headsets/"><u>Game Audio Enhancement: The Role of Specialized Headsets</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-3d-animation-tools-free-and-premium-options-compared/"><u>New Top 3D Animation Tools Free and Premium Options Compared</u></a></li>
+<li><a href="https://games-able.techidaily.com/nostalgia-unleashed-psp-games-on-iphone/"><u>Nostalgia Unleashed: PSP Games on iPhone!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-driver-update-geforce-gtx-1060-drivers-download-and-update/"><u>Nvidia Driver Update | GeForce GTX 1060 Drivers Download and Update</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-5-tips-to-ignite-your-gaming-passion/"><u>PlayStation 5: Tips to Ignite Your Gaming Passion</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-your-devices-sound-output-getting-rid-of-moisture-trapped-in-speakers/"><u>Rescue Your Device's Sound Output: Getting Rid of Moisture Trapped in Speakers</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-social-play-the-top-15-dual-platform-games/"><u>Seamless Social Play: The Top 15 Dual-Platform Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-list-of-12-websites-offering-free-movie-viewing/"><u>The Essential List of 12 Websites Offering Free Movie Viewing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-stop-dayzones-from-freezing-and-crashing/"><u>Troubleshooting Tips: Stop DayZones From Freezing & Crashing</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-se-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone SE without itunes or icloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/win-more-points-top-achievement-hunt-websites-for-gamerscore/"><u>Win More Points: Top Achievement Hunt Websites for Gamerscore</u></a></li>
 </ul></div>
 

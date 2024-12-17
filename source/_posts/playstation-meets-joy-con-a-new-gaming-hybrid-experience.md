@@ -1,7 +1,7 @@
 ---
 title: "PlayStation Meets Joy-Con: A New Gaming Hybrid Experience"
-date: 2024-12-05T07:26:00.652Z
-updated: 2024-12-11T07:11:13.553Z
+date: 2024-12-11T04:03:59.463Z
+updated: 2024-12-17T12:44:10.961Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Connecting Your DualShock 4 or DualSense Controller
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Connect a PS4 or PS5 Controller to Your Switch
@@ -49,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
 ![pro controller wired connections nintendo Switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-004-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By pressing the pairing button on the USB adapter, you should see a rapidly flashing light. This means that the adapter is ready to pair.
 
@@ -65,14 +65,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
@@ -84,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
  Also, be aware that the USB Wireless Adapter will keep your connected controller powered on, with the sleep function no longer working, so make sure to turn it off, or you risk your controller dying quickly. On the plus side, the PlayStation touchpad works as a screenshot button, and the gyro will still function.
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
@@ -110,22 +110,19 @@ thumbnail: https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-your-ultimate-cheat-sheet-for-nba-livestreams-top-15-tips/"><u>[Updated] 2024 Approved Your Ultimate Cheat Sheet for NBA Livestreams (Top 15 Tips)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-can-photoshops-image-smoothing-revolutionize-editing/"><u>[Updated] Can Photoshop’s Image Smoothing Revolutionize Editing?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2023s-premier-storytelling-channels-on-youtube-for-2024/"><u>2023'S Premier Storytelling Channels on YouTube for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-conqueror-vs-economy-warrior-ps5-meets-budget-pc/"><u>Console Conqueror vs Economy Warrior: PS5 Meets Budget PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-the-secrets-of-valuable-steam-credits/"><u>Decoding the Secrets of Valuable Steam Credits</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dimmed-beginning-display/"><u>Dimmed Beginning Display</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-bluetooth-connectivity-download-microsofts-drivers-for-win-10-11-8-and-7/"><u>Ensure Seamless Bluetooth Connectivity: Download Microsoft's Drivers for Win 10, 11, 8 & 7</u></a></li>
-<li><a href="https://games-able.techidaily.com/gpu-showdown-spectacle-exploring-supers-power-dynamics/"><u>GPU Showdown Spectacle: Exploring Supers' Power Dynamics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-learning-chatgpt-can-boost-your-professional-skills-a-guide-for-job-hunters/"><u>How Learning ChatGPT Can Boost Your Professional Skills: A Guide for Job Hunters</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Lava Blaze 2</u></a></li>
-<li><a href="https://article-posts.techidaily.com/iphone-macro-and-close-up-photography-tips-for-2024/"><u>IPhone Macro and Close-Up Photography Tips for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-my-games-with-an-oled-screen/"><u>Revolutionizing My Games with an OLED Screen</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-valuation-timeline-for-gaming-titles/"><u>Steam Valuation Timeline for Gaming Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-connecting-a-ps5-controller-to-your-pc/"><u>Step-by-Step: Connecting a PS5 Controller to Your PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-budget-budgets-the-best-white-boards-of-2023/"><u>Top Budget Budgets: The Best White Boards of 2023</u></a></li>
-<li><a href="https://win-community.techidaily.com/understanding-the-concept-of-a-sector-by-sector-copy-a-comprehensive-guide/"><u>Understanding the Concept of a 'Sector by Sector' Copy: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-captivating-costless-visual-collaboration-games/"><u>[New] Captivating Costless Visual Collaboration Games</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge-for-2024/"><u>[New] Unlocking the Potential of Multi-Stream Video on Microsoft Edge for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/10-reasons-to-switch-from-console-to-pc-gaming/"><u>10 Reasons to Switch From Console to PC Gaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-blending-tracks-using-audacity-crossfade-tools/"><u>2024 Approved Expertly Blending Tracks Using Audacity Crossfade Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-your-audience-with-perfect-fps-settings/"><u>Ace Your Audience with Perfect FPS Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-backgrounds-for-live-streaming-2023/"><u>Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-on-the-anker-tactical-flashlight-a-beacon-for-durability-in-natures-arena/"><u>Expert Analysis on the Anker Tactical Flashlight: A Beacon for Durability in Nature's Arena</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-fixes-ensuring-peak-gaming-experience-without-delays/"><u>Forza Horizon 5 Lag Fixes: Ensuring Peak Gaming Experience Without Delays</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-assist-controller-on-ps5/"><u>Mastering the Assist Controller on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/organizing-and-managing-games-using-steams-storage-tool/"><u>Organizing and Managing Games Using Steam’s Storage Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/rectifying-lost-components-message-in-win-1011/"><u>Rectifying Lost Components Message in Win 10/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-action-youtube-rolls-out-interactive-and-testing-minigames/"><u>Step Into Action: YouTube Rolls Out Interactive and Testing Minigames</u></a></li>
 </ul></div>
 

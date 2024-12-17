@@ -1,7 +1,7 @@
 ---
 title: "Device Harmony Through Secure Sharing: A Guide to Linking Desktop & Steam Deck With Barriers"
-date: 2024-08-31T19:25:23.851Z
-updated: 2024-09-01T19:25:23.851Z
+date: 2024-12-15T11:14:31.035Z
+updated: 2024-12-16T17:57:19.067Z
 tags:
   - games
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
 ![Barrier GitHub Releases Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-github-releases-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Download and install Barrier on your PC, and when done,**run** the app. Set its mode to**Server** , select that you want to**Configure** (it)**interactively** , and click on**Configure Server** .
 
 ![Barrier Configure Server Interactively](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-configure-server-interactively.jpg)
@@ -40,26 +44,28 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  After you double-click on a spot on the grid, you'll have to enter a name for your Steam Deck in the field next to**Screen name** .You can leave the rest of the options as they are. When returning to Barrier's initial window, note the first of the**IP addresses** , for you'll have to input it on your Steam Deck in the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Up Barrier on Steam Deck
 
  To be able to follow along, make sure to switch your Steam Deck to its**Desktop mode** . For more on that, read our guide on[how to use the Steam Deck as a desktop replacement](https://www.makeuseof.com/how-to-use-steam-deck-as-a-desktop-replacement/) .To install Barrier, start by running KDE's**Discover** (Software Center).
 
 ![Steam Deck Discover Software Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-discover-software-center.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Use the search field (on the top left) to seek "barrier" and install it. When done, close the Discovery app, and search for "barrier" on the main menu (with the**Steam Deck logo** , on the left, where you'd expect to find Start on Windows). Alternatively, you'll find it in the**Utilities** section.
 
 ![Steam Deck Menu Running Barrier](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-menu-running-barrier.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Set this instance of Barrier to**Client** , and enter your host PC's IP address in the field next to**Server IP** .
 
 ![Steam Deck Barrier Client Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/steam-deck-barrier-client-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click on the**Start** button on the bottom right of the Barrier client on your Steam Deck, and do the same for the Barrier server on your host PC.
 
 ![Barrier Server Running](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/barrier-server-running.jpg)
@@ -71,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
  You can return to your PC's desktop the same way by "jumping over" the same barrier between the two device's screens.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Help Your Steam Deck and PC Connect With Each Other
 
  If Barrier on one of your devices can't see the other, don't fret: the following are the usual causes for such issues, and they're easy to solve.
@@ -82,43 +89,30 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
  Activate Barrier's window on your host PC, and select**Barrier > Change Settings** or press**F4** on your keyboard. Make sure both**Enable SSL** and**Require client certificate** are disabled (no checkmark).Also, note the**Port** used, and ensure it's the same on the client (on the Steam Deck).
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disable Any Firewalls
 
  On the Windows side, ensure your firewall grants access to Barrier. Check our guide on[how to allow apps through Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for more information on that.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Check Your Router
 
  In rare cases, you might need to manually configure your router to "open" Barrier's port. Check our guide on[what are default open ports and should you change them](https://www.makeuseof.com/tag/technology-explained-open-router-ports-their-security-implications/) , where we also cover how to open ports on a router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## One For All
 
  Thanks to Barrier, you can easily use your Steam Deck's desktop with your main PC's keyboard and mouse.Even better, by setting up your devices' "screens" with the same layout as on your desk, the whole experience can feel as seamless as working on a single desktop.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +121,24 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-immediate-silence-sudden-deletion-fears/"><u>[New] Immediate Silence Sudden Deletion Fears</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-enhancements-a-comprehensive-study-11-parts-for-2024/"><u>Chromatic Enhancements A Comprehensive Study (11 Parts) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-compelling-game-reviews-on-the-steam-platform/"><u>Creating Compelling Game Reviews on the Steam Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/eas-steep-increase-i-choose-not-to-subscribe-again/"><u>EA’s Steep Increase, I Choose Not to Subscribe Again</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-fps-experience-with-optimal-mouse-settings/"><u>Enhancing FPS Experience with Optimal Mouse Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-ea-play-hits-for-sony-console/"><u>Exclusive EA Play Hits for Sony Console</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-formatting-your-exterior-hdd-for-xbox-one-via-windows-os/"><u>Guide: Formatting Your Exterior HDD for Xbox One via Windows OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-authentic-is-the-gaming-with-am08-pro/"><u>How Authentic Is the Gaming with AM08 Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-realme-note-50-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Realme Note 50 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/inside-the-innovative-world-of-intova-x-for-2024/"><u>Inside the Innovative World of Intova X for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/insight-into-googles-mobile-game-service-for-windows/"><u>Insight Into Google's Mobile Game Service for Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-directions-on-ios-unveiling-our-choice-of-top-5-gps-apps/"><u>Mastering Directions on iOS: Unveiling Our Choice of Top 5 GPS Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-invalid-credit-card-notifications-in-ps5/"><u>Resolving Invalid Credit Card Notifications in PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/seeking-peak-performance-best-processor-or-gpu/"><u>Seeking Peak Performance: Best Processor or GPU?</u></a></li>
+<li><a href="https://win-able.techidaily.com/stability-recipe-keep-your-outriders-game-running-smoothly/"><u>Stability Recipe: Keep Your Outriders Game Running Smoothly</u></a></li>
+</ul></div>
 

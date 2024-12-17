@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Indulgences: EA Play on PS5"
-date: 2024-12-05T10:32:51.861Z
-updated: 2024-12-10T21:13:06.993Z
+date: 2024-12-11T03:53:15.727Z
+updated: 2024-12-16T18:06:20.829Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. It Takes Two
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  You can get it with an EA Play membership on the PS5 or upgrade an existing copy to the PS5 version. Of course, It Takes Two also gets the 10% EA Play discount if you wish to buy the full game and own it forever.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. FIFA 23
 
  Save money by buying the last FIFA game released and get it on EA Play. If you love soccer games and you’re tired of buying the same game every year with a different number on it, then go get FIFA through EA Play.
@@ -44,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  One of FIFA’s greatest appeals is its easy couch co-op system. It’s one of those games you should just have on your PS5 so you and your pals can have fun together. We placed it on this list as a good solution for multiplayer action for all soccer lovers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. The Sims 4
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
  While it’s a PS4 game, playing it on the PS5’s SSD makes the game a lot smoother and load way faster. Need for Speed Unbound is the only native PS5 Need for Speed game on EA Play, but we still recommend Heat over it because it’s just more fun.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Plants vs Zombies Garden Warfare 2
 
  The last thing people expected PopCap to pull off was an FPS game derived from the award-winning strategy game Plants vs Zombies. The original Garden Warfare was an unexpected hit FPS game when it came out. But the sequel builds on the original and improves the game with more characters, more content, and even a single-player mode.
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  While level progression in the game might be tedious, and you would need a[PlayStation Plus subscription](https://www.makeuseof.com/what-is-playstation-plus/) to access multiplayer, Garden Warfare 2 is fun enough to rank on our list. An EA Play sub will give you full access to the game and a generous discount if you decide to buy it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Star Wars Jedi: Fallen Order
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  As long as you stay away from the micro-transactions (AKA Ultimate Team) part of this game, you will enjoy it if you love combat sports. This version also gets commentary from Snoop Dogg in addition to the usual Joe Rogan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EA Play Is $5 Per Month of Unlimited Fun
@@ -118,17 +118,24 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-exploring-youtubes-payment-mechanisms-for-content-makers/"><u>[New] 2024 Approved Exploring YouTube's Payment Mechanisms for Content Makers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-dual-screen-playback-recording/"><u>[New] Dual-Screen Playback Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-efficient-laptop-recording-with-top-screenrec-tools-for-2024/"><u>[New] Efficient Laptop Recording with Top ScreenRec Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touchpad-scroll-issues-in-windows-10/"><u>Fixing Unresponsive Touchpad Scroll Issues in Windows 10</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/fundamentals-of-digital-tale-construction-for-2024/"><u>Fundamentals of Digital Tale Construction for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/lost-in-minecraft-restoring-window-pc-network-links/"><u>Lost in Minecraft: Restoring Window PC Network Links</u></a></li>
-<li><a href="https://games-able.techidaily.com/old-ps5-vs-modern-marvel-key-distinctions/"><u>Old PS5 Vs. Modern Marvel: Key Distinctions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/organizing-chaos-a-guide-to-youtube-list-shuffling-for-2024/"><u>Organizing Chaos A Guide to YouTube List Shuffling for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ess-video-production-youtube-studios-cutting-edge-editing/"><u>Seamless Video Production YouTube Studio's Cutting-Edge Editing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-tier-non-brand-name-alternative-discovering-exceptional-portable-speaker-performance-beyond-bose-and-sony/"><u>Top-Tier Non-Brand Name Alternative: Discovering Exceptional Portable Speaker Performance Beyond Bose and Sony</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-full-screen-gameplay-in-steam/"><u>Unlocking Full-Screen Gameplay in Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-driven-visual-display-options/"><u>Value-Driven Visual Display Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-comparing-cameras-obs-vs-twitch-studio-edition/"><u>[New] Comparing Cameras OBS vs Twitch Studio Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screenscapes-the-new-tech-frontier-for-2024/"><u>[New] Screenscapes The New Tech Frontier for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-10-cost-free-video-chat-apps-on-ios-and-android/"><u>[Updated] 2024 Approved Top 10 Cost-Free Video Chat Apps on iOS & Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-playlist-conversion-5-preferred-tools-for-youtube-streams/"><u>[Updated] Mastering Playlist Conversion 5 Preferred Tools for YouTube Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/advice-on-preserving-power-in-your-xbox-joystick/"><u>Advice on Preserving Power in Your Xbox Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/catching-all-audiences-top-6-varied-titles/"><u>Catching All Audiences: Top 6 Varied Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-saving-strategies-for-gamers/"><u>Cost-Saving Strategies for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-hidden-game-savings-in-promos/"><u>Discover Hidden Game Savings in Promos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-12-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi 12 5G has native HEVC support?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-plays-ps5-game-hall-of-fame-selection/"><u>EA Play’s PS5 Game Hall of Fame Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-aesthetics-with-a-purpose/"><u>Gaming Aesthetics with a Purpose</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-becoming-one-in-the-tiktok-living-room-your-steps/"><u>In 2024, Becoming One in the TikTok Living Room Your Steps</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g34-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G34 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-night-vision-unlock-these-12-secrets-to-restore-your-flashlight/"><u>Mastering iPhone Night Vision: Unlock These 12 Secrets to Restore Your Flashlight</u></a></li>
+<li><a href="https://article-files.techidaily.com/mobile-filming-tools-for-tourists-for-2024/"><u>Mobile Filming Tools for Tourists for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-kids-safety-on-digital-playgrounds-like-discord/"><u>Navigating Kids' Safety on Digital Playgrounds Like Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/power-up-retro-gaming-introducing-raspberry-pi/"><u>Power Up Retro Gaming - Introducing Raspberry Pi</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-nintendo-switch-online-accessibility/"><u>Revive Nintendo Switch Online Accessibility</u></a></li>
+<li><a href="https://win11.techidaily.com/the-subtle-art-of-hidden-storage-in-windows-1110/"><u>The Subtle Art of Hidden Storage in Windows 11/10</u></a></li>
 </ul></div>
 

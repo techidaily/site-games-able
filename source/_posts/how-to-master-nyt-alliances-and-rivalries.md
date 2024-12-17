@@ -1,7 +1,7 @@
 ---
 title: How to Master NYT Alliances & Rivalries
-date: 2024-08-31T19:24:16.540Z
-updated: 2024-09-01T19:24:16.540Z
+date: 2024-12-15T02:28:45.905Z
+updated: 2024-12-17T03:01:15.142Z
 tags:
   - games
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 * [How to Share Your Connections Results With Others](#how-to-share-your-connections-results-with-others)
 * [Things You Need to Know About Connections Before You Play](#things-you-need-to-know-about-connections-before-you-play)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Connections is a daily logic puzzle from The New York Times. It's beautifully simple to play but frustratingly tricky to master.
@@ -29,24 +33,20 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 
  The New York Times' Connections game is, like Wordle before it, an online game that a lot of people play every day. But what is Connections? How do you play Connections? And what do you need to know about Connections before you dive in?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## What Is the New York Times' Connections Game?
 
  Connections is a daily logic puzzle created and curated by the New York Times. It's available to play online for free by visiting[the Connections website](https://www.nytimes.com/games/connections) on desktop or mobile. Or you can play it on[the New York Times Games app](https://www.nytimes.com/crosswords/apps) , which is home to all the publication's various games.
 
 ![The NYT Connections homepage inviting you to play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-click-play-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The New York Times has offered a crossword since 1942\. But in more recent years, the NYT has introduced a broader range of games. These include Spelling Bee, Letter Boxed, Tiles, Vertex, and Wordle. The latter being a phenomenon that spawned[countless Wordle alternatives and spin-offs](https://www.makeuseof.com/best-wordle-alternatives/) .
 
  In 2023,[the New York Times launched Connections](https://www.nytimes.com/2023/06/26/crosswords/new-game-connections.html) . The game has since grown in popularity due to being simple to play but difficult to master. The basic rules are simple enough for anyone to understand, but actually succeeding at the game day-in, day-out can be a tough ask.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## How to Play the NYT's Connections Game
 
  To play Connections, first visit the Connections website or open the New York Times Games app if you have it installed.
@@ -57,21 +57,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![NYT's Connections game as it appears before you make your first guess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-starting-position.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  The idea of the game is to place these 16 words into groups of four based on a connection they share with each other. I say "a" connection, because some words share multiple similarities. You need to find the correct one in each case.
 
 ![Guessing the first group on NYT Connections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-first-group-guess.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Look for the similarities and differences between the words—and try to find the first group of four. Once you are confident you have identified it, select each one on the screen, and hit**Submit** . If you change your mind after selecting four, you can click it again to deselect it or click the**Deselect all** button underneath the puzzle to wipe the slate clean.
 
 ![A correct first guess on NYT's Connections game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-first-group-green.png)
@@ -81,11 +70,16 @@ The powerful video editing program for your Windows PC</a>
 ![Two groups completed on NYT's Connections game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-second-group-done.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you get a grouping wrong at any point, the words will be automatically deselected and you'll lose one of your four lives. The NYT refers to these as mistakes and you can see how many mistakes you have remaining underneath the puzzle.
 
 ![All 16 words grouped correctly in the NYT's Connections game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-all-four-groups.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Continue guessing the groupings until you either fill out the whole board and complete the Connections puzzle for that day or you run out of lives. Either way, you then have to wait until midnight in your local timezone before the next puzzle goes live.
 
@@ -96,8 +90,9 @@ The powerful video editing program for your Windows PC</a>
 ![NYT's Connections results page where you can share your results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-cnnections-sharing-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On desktop, this copies your results to the clipboard. You can then paste them into an email or on your favorite social media site. On mobile, this also copies your results to the clipboard for pasting. However, you'll also be given a number of ways to share it directly depending on what apps you have installed on your device.
 
  Your Connections results for that day are shared as colored squares. This ensures that you're not spoiling the game for anyone else by revealing the words or groups that they need to end up in.
@@ -120,14 +115,11 @@ The powerful video editing program for your Windows PC</a>
 
  Connections has become one of several games I play daily. Alongside Wordle and The Mini crossword, it offers both a fun diversion and some friendly competition with my partner. Unfortunately, she generally beats me at all of the above.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +128,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-virtual-road-racers-guide/"><u>[New] Essential Virtual Road Racers Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-efficient-zoom-functionality-for-chromebooks/"><u>[New] In 2024, Efficient Zoom Functionality for ChromeBooks</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728473528927-windows-1011/"><u>「Windows 10/11」における回復ツールの設定と利用ガイド</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-hoard-and-handhold-jolly-rogers-of-java/"><u>How to Hoard & Handhold Jolly Rogers of Java</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-the-futures-past-digital-conversion-for-timeless-images/"><u>In 2024, Crafting the Future's Past Digital Conversion for Timeless Images</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>In 2024, LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-there-merit-to-in-game-purchases-in-premiums/"><u>Is There Merit to In-Game Purchases in Premiums?</u></a></li>
+<li><a href="https://games-able.techidaily.com/outstanding-pick-elite-xbox-game-capture-systems/"><u>Outstanding Pick: Elite Xbox Game Capture Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/stalled-games-not-good-days-manually-extracting-from-sx/"><u>Stalled Games, Not Good Days: Manually Extracting From SX</u></a></li>
+<li><a href="https://solve-help.techidaily.com/troubleshooting-incompatible-drivers-on-your-pc-with-guidance-from-yl-software-experts/"><u>Troubleshooting Incompatible Drivers on Your PC with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-shell-protectors/"><u>Understanding Xbox Shell Protectors</u></a></li>
+<li><a href="https://games-able.techidaily.com/unravel-the-mysteries-of-strands-a-compreranary-guide-for-nyt-players/"><u>Unravel the Mysteries of 'Strands': A Compreranary Guide for NYT Players</u></a></li>
+</ul></div>
 

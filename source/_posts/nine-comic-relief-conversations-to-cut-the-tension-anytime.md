@@ -1,7 +1,7 @@
 ---
 title: Nine Comic-Relief Conversations to Cut the Tension Anytime
-date: 2024-08-31T19:25:57.983Z
-updated: 2024-09-01T19:25:57.983Z
+date: 2024-12-14T22:25:55.126Z
+updated: 2024-12-17T05:13:31.610Z
 tags:
   - games
 categories:
@@ -37,17 +37,9 @@ Close
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 20 Questions
 
 Close
@@ -58,9 +50,6 @@ Close
 
  Variations include limiting the object being thought of to a particular genre. Or, you can increase/decrease the number of questions the guesser can ask. Feel free to experiment, and take the game in new and interesting ways.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 I Spy
 
 Close
@@ -82,8 +71,9 @@ Close
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Abbreviations
 
 Close
@@ -93,6 +83,10 @@ Close
  To play**Abbreviations** , one of you abbreviates the activity you're currently engaged in. For example: "In a coffee shop in town" becomes "IACSIT", and the other person sets about trying to un-abbreviate your short sentence back to its original form. Be prepared for some rude replies and some long message threads.
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 List Builder
 
@@ -115,8 +109,9 @@ Close
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 Kiss, Marry, Kill
 
 Close
@@ -127,9 +122,6 @@ Close
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9 What If...?
 
 Close
@@ -141,9 +133,9 @@ Close
  Variations include leaving the question open-ended with any answer possible, or giving multiple-choice answers and forcing the other person to choose from one of those.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 Simple Quiz
 
 Close
@@ -156,14 +148,11 @@ Close
 
  These games range from the simple to the more complex. But they're all supremely playable between any two (or more) people with mobile phones to hand. And remember that while most people will use a messaging app such as Messenger or Telegram, they're even playable using old-school SMS text messages.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +161,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/approved-enhancing-narrative-flow-integrating-chapters-into-your-youtube-content/"><u>2024 Approved Enhancing Narrative Flow Integrating Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-guide-to-whatsapp-audio-communication/"><u>2024 Approved The Complete Guide to WhatsApp Audio Communication</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/deletion-methods-for-youtubes-backlogged-video-collection/"><u>Deletion Methods for YouTube's Backlogged Video Collection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficiently-archive-your-gaming-adventures-on-windows-10-for-2024/"><u>Efficiently Archive Your Gaming Adventures on Windows 10 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-xbox-s-xs-bluetooth-stability/"><u>Enhance Xbox S X's Bluetooth Stability</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/essential-tweets-de-following-aids-the-ultimate-list/"><u>Essential Tweets De-Following Aids The Ultimate List</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-p55-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel P55 5G Phones with/without a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-extensive-circular-camera-assessment/"><u>In 2024, Extensive Circular Camera Assessment</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-selecting-apple-arcade-games/"><u>Mastering the Art of Selecting Apple Arcade Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izing-visibility-key-elements-in-youtube-thumbnail-design/"><u>Maximizing Visibility Key Elements in YouTube Thumbnail Design</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/navigating-through-control-panel-preferences-understanding-options-for-region-and-language-selection-in-yl-software/"><u>Navigating Through Control Panel Preferences: Understanding Options for Region and Language Selection in YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/playbrief-mini-quick-quaint-classic-games/"><u>PlayBrief Mini: Quick, Quaint Classic Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/regulating-xbox-game-bar-feedback-on-windows-11-pc/"><u>Regulating Xbox Game Bar Feedback on Windows 11 PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-playtime-across-zones-sx-series-x-time-change/"><u>Shift Playtime Across Zones: SX Series X Time Change</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-windows-error-code-0x887a0006-for-dxgi-devices/"><u>Tackling Windows Error: Code 0X887A0006 for DXGI Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/techniques-for-secure-speaking-in-xbox-games/"><u>Techniques for Secure Speaking in Xbox Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-more-games-add-an-sd-card-to-your-steam-deck/"><u>Unlock More Games: Add an SD Card to Your Steam Deck</u></a></li>
+</ul></div>
 

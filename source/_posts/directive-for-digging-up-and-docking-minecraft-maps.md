@@ -1,7 +1,7 @@
 ---
 title: Directive for Digging Up & Docking Minecraft Maps
-date: 2024-08-31T19:21:34.855Z
-updated: 2024-09-01T19:21:34.855Z
+date: 2024-12-15T10:24:41.458Z
+updated: 2024-12-16T19:00:52.240Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
  Once players create a new Minecraft map, they can share their creations with the community. You can then download and install these awesome maps to explore them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download Minecraft Maps
 
  Before downloading and installing Minecraft maps, you need to determine which version of Minecraft you have. Keep in mind that Bedrock maps aren't compatible with Java versions of Minecraft.
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
 ![New mods make Minecraft amazing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-gaming-minecraft-mountain.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use your new map file, you'll need to place it in the correct directory. Here's how you can do that for Minecraft Java on Windows:
 
 1. Extract the .zip file you've downloaded.
@@ -49,15 +50,18 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 3. On your keyboard, press**Win + R** to open the Windows**Run** app.  
 ![Using Run to open the appdata directory.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-run-appdata-1.jpg)
 4. In the text box, type**%appdata%** and press**Enter** to open the**C:\\Users\\yourusername\\AppData\\Roaming** directory.
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. In the**Roaming** directory, find the folder labeled**.minecraft** . Inside, you'll find a folder labeled**saves** . This is where Minecraft stores its maps.
 6. Open the**saves** folder and paste the map folder inside. That's it!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Alternate Method
 
  If you want to avoid using the Run app, you can also access the Minecraft saves folder through the Minecraft Launcher. Here's how:
@@ -76,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 ![Minecraft Bedrock on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-bedrock-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can easily install custom maps on all Bedrock editions of Minecraft with .mcworld files. Simply double-click the .mcworld file to open Minecraft with the new map loaded. That's it!
 
  For older files that use the .zip extension, you'll have to extract them and manually move the contents to the minecraftWorlds folder.
@@ -93,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/e8d273b848143c340000d0079f7c83e7faa1151d7
 
 You're all set!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## How to Install Minecraft Maps on Mac
 
 ![Installed maps in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-worlds-screen.jpg)
@@ -115,6 +117,10 @@ You're all set!
 ## How to Install Minecraft Maps on Android (Bedrock)
 
 ![A Minecraft map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-map-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Installing Minecraft maps on Android is also simple, thanks to the new .mcworld extension. All you need to do is open the map file, and it should automatically launch in Minecraft.
 
@@ -137,9 +143,6 @@ Here's how you can install older Minecraft maps on Android:
 
 ![Person playing Minecraft on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/minecraft-ios-map.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Like other Bedrock editions, if your downloaded map uses the .mcworld extension, all you have to do is run it, and Minecraft will load the new map.
 
  If you have an older map in a .zip format, you'll need to convert it to a .mcworld file. This consists of[extracting the zip file on your iPhone](https://www.makeuseof.com/tag/open-zips-compressed-archives-iphone-ipad/) and compressing its content as a .mcworld file.
@@ -161,14 +164,11 @@ Here's how you can install older Minecraft maps on Android:
 
  And if you build your own masterpiece, consider sharing it with the community so that others can enjoy your custom creation too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +177,23 @@ Here's how you can install older Minecraft maps on Android:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools/"><u>[New] 2024 Approved Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elite-selection-30plus-ultimate-free-templates-guide/"><u>[Updated] Elite Selection 30+ Ultimate Free Templates Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-skillful-strategies-for-sustaining-design-success-for-2024/"><u>[Updated] Skillful Strategies for Sustaining Design Success for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-steam-disconnection-issue-on-pc/"><u>Addressing Steam Disconnection Issue on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-crafter-navigating-novel-pc-choices/"><u>Cosmic Crafter: Navigating Novel PC Choices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-nord-ce-3-lite-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Nord CE 3 Lite 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-complete-game-displays-in-epics-library/"><u>Ensuring Complete Game Displays in Epic's Library</u></a></li>
+<li><a href="https://fox-that.techidaily.com/four-proven-fixes-for-disabled-icloud-services-on-your-apple-devices/"><u>Four Proven Fixes for Disabled iCloud Services on Your Apple Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insights-on-propella-7s-40-compact-swift-cost-effective-choice/"><u>Insights on Propella 7S 4.0: Compact, Swift, Cost-Effective Choice</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-your-videos-epic-how-to-add-slow-motion-in-windows-live-movie-maker-for-2024/"><u>Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-wsus-the-ultimate-resource-for-essential-information-and-tips/"><u>Mastering WSUS: The Ultimate Resource for Essential Information and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfecting-precision-mastering-cs2-on-a-mac-laptop/"><u>Perfecting Precision: Mastering CS2 on a Mac Laptop</u></a></li>
+<li><a href="https://games-able.techidaily.com/should-your-pc-get-an-original-founders-gpu-or-asus-branded-vega/"><u>Should Your PC Get an Original Founder's GPU or Asus-Branded Vega?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168126928-space-saving-systems-vs-traditional-workstations-make-your-choice/"><u>Space-Saving Systems Vs. Traditional Workstations: Make Your Choice!</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-playstation-5-with-best-add-ons/"><u>Transform Your PlayStation 5 With Best Add-Ons</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft Should Prioritize Refinement in Its Xbox Point System
-date: 2024-08-31T19:25:08.198Z
-updated: 2024-09-01T19:25:08.198Z
+date: 2024-12-15T03:54:47.564Z
+updated: 2024-12-17T06:43:16.414Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
  Microsoft Reward Points are supposed to be an added bonus if you decide to buy an Xbox console. And while the reward system is free, you might encounter a few frustrations when attempting to use the service on Xbox Series X|S.
 
  And as time has passed, Microsoft Reward Points have worsened. However, if Microsoft was to address these issues, it could be a viable facet of your Xbox experience. But what issues with Microsoft Reward Points need addressing? Let's take a look.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Earning Microsoft Reward Points Is Painstakingly Slow on Xbox
 
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
  And with the slashing of points, existing issues are only exacerbated. Together with the sluggish rate you gather points, the unfortunate changes only give you further cause to ignore the feature altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Point Values Are Worth Less When Spending Points on Xbox
 
  Aside from how Microsoft Reward Points have adapted over time, some core features of the service represent glaring ways it could be fairer to gamers.
@@ -55,16 +60,14 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 ![A screenshot of Xbox messages detailing earned Reward Points for purchases made on the Xbox Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/point-messages.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To put it in plainer terms, if you go off Microsoft's one-point-per-dollar system, 7000 points for a free month of Xbox Live Gold represents $7000 dollars worth of store purchases. And while this is slightly contrary, it would be ridiculous if points given were equivalent to store purchases, the system seems highly unfair.
 
  If the ratio of earned points to store purchases were more substantial, the method would seem like a legitimate way for you to attain free rewards on Xbox. But as it is, the system seems almost frugal.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. The Best Ways to Earn Points Involve Purchasing Xbox Games
 
  Even if you look outside the traditional ways you earn Microsoft Reward Points, other methods involving specific titles can act as Xbox Game Pass advertisements or represent a game you may need to purchase.
@@ -74,29 +77,28 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 ![A screenshot of a punch card within the Microsoft Rewards on Xbox application highlighting the rewards and requirements screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/punch-card-rewards.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This method of incentivizing playing games can be great if you already own the game or can access the title through Xbox Game Pass. But if the required game isn't available, or you don't have Game Pass, you have to purchase the game to earn points.
 
  In terms of offering a useful way to earn points, game-specific activities are great on paper but quickly turn into a way for Microsoft Rewards Points to advertise store purchases or Xbox Game Pass. You could even see it as a method of incentivizing the spending of your money.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Microsoft Reward Points Need to Adapt to Remain Functional on Xbox
 
  While Microsoft Reward Points are a free bonus added to the Xbox platform, the more you look into how the service works, the more it starts to resemble more of an issue than a bonus.
 
  And with the service slowly becoming more restrictive and less rewarding, Microsoft Reward Points will likely become a less essential aspect of the Xbox Series X|S unless some of its issues are addressed.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +107,19 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-premier-free-tools-for-easy-jpggif-transformation-for-2024/"><u>[New] Premier Free Tools for Easy JPG/GIF Transformation for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-fastest-rising-youtube-influencers-you-cant-miss/"><u>[New] The Fastest Rising YouTube Influencers You Can't Miss</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversor-de-audiografo-converta-archivos-m4a-e-flv-online-gratuito-com-o-movavi/"><u>Conversor De Audiógrafo: Converta Archivos M4A E FLV Online Gratuito Com O Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciding-when-its-time-to-leave-a-digital-gathering-place/"><u>Deciding When It’s Time to Leave a Digital Gathering Place</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-a-comprehensive-guide/"><u>Fixing Laptop Speaker Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnite-and-mac-the-hidden-limitations-to-avoid/"><u>Fortnite & Mac: The Hidden Limitations to Avoid</u></a></li>
+<li><a href="https://games-able.techidaily.com/iphone-gamer-ready-for-classic-psp-adventures/"><u>IPhone Gamer, Ready for Classic PSP Adventures?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211938862-keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-ideapad-14-review/"><u>Lenovo Ideapad 14 Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-gaming-comfort-mastering-xbox-control-panel-brightness/"><u>Maximize Gaming Comfort: Mastering Xbox Control Panel Brightness</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steams-tools-to-play-on-external-media/"><u>Navigating Steam's Tools to Play on External Media</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/whos-leading-in-screen-capture-tech-obs-studios-vs-bandicam/"><u>Who's Leading in Screen Capture Tech OBS Studios Vs. Bandicam</u></a></li>
+</ul></div>
 

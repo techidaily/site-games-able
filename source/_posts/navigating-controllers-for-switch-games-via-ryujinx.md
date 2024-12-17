@@ -1,7 +1,7 @@
 ---
 title: Navigating Controllers for Switch Games via Ryujinx
-date: 2024-12-06T08:12:01.154Z
-updated: 2024-12-11T07:30:59.834Z
+date: 2024-12-11T19:56:06.302Z
+updated: 2024-12-16T20:44:43.104Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Know About Ryujinx Before Using a Controller
 
  Instead of diving straight ahead to connecting and mapping your controller, you need to know a few key features of Ryujinx and its controller mapping beforehand. These features can be defined by the following:
@@ -33,10 +37,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
@@ -54,24 +62,16 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
  Once you are done, select**Add** in the top-right of the**Configure** screen. You will then be prompted to name your controller configuration. Confirm your changes by selecting**Ok** followed by**Save** .
 
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
@@ -113,18 +113,22 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hilarity-highway-the-funniest-youtube-videos-on-twitter/"><u>[New] 2024 Approved Hilarity Highway The Funniest YouTube Videos on Twitter</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-professionals-way-of-removing-backgrounds/"><u>[New] 2024 Approved The Professional's Way of Removing Backgrounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-airdrop-not-working-quickly-and-easily/"><u>[SOLVED] AirDrop Not Working | Quickly & Easily</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-discover-the-a-list-of-excellent-ios-video-apps/"><u>[Updated] In 2024, Discover the A-List of Excellent iOS Video Apps</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1728489485606-aomei-windows/"><u>确保数据安全的AOMEI Windows 备份灾难恢复专家方案</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-game-to-play-streamlining-your-steam-deck-launchers/"><u>From Game to Play: Streamlining Your Steam Deck Launchers</u></a></li>
-<li><a href="https://games-able.techidaily.com/heres-how-i-find-great-free-games-on-steam/"><u>Here's How I Find Great Free Games on Steam</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-screen-capture-tips-for-mi-11-users/"><u>In 2024, Essential Screen Capture Tips for Mi 11 Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y100i-power-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y100i Power 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-disruption-fixes-for-noisy-xbox-controller/"><u>Overcoming Disruption: Fixes for Noisy Xbox Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/reality-or-review-diving-into-gaming-score-skepticism/"><u>Reality or Review? Diving Into Gaming Score Skepticism</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unlocking-the-secrets-of-effective-youtube-thumbnails-for-2024/"><u>Unlocking the Secrets of Effective YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-filmora-coupon-code-resource-7-ways-to-save-for-2024/"><u>Updated The Ultimate Filmora Coupon Code Resource 7 Ways to Save for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pioneers-designing-the-online-avengers-landscape/"><u>[Updated] Pioneers Designing the Online Avengers Landscape</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-macos-sonoma-unveiling-game-mode/"><u>Apple's MacOS Sonoma: Unveiling Game Mode</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-ipad-launch-hit-a-snag-with-major-oversight-corrective-measures-explained-analysis-by-zdnet/"><u>Apple's Recent iPad Launch Hit a Snag with Major Oversight; Corrective Measures Explained | Analysis by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/bending-no-more-tackling-gpu-display-deformity/"><u>Bending No More: Tackling GPU Display Deformity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-heimvision-a80s-alarm-clock-with-sunrise-simulation-in-depth-review/"><u>Comprehensive HeimVision A80S Alarm Clock with Sunrise Simulation - In-Depth Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-intrusive-elements-of-game-bar-in-windows-11/"><u>Curtailing Intrusive Elements of Game Bar in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhance-digital-communication-on-chrome-review-of-the-best-web-based-tts-tools/"><u>Enhance Digital Communication on Chrome Review of the Best Web-Based TTS Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-cosmetic-to-critical-the-gamers-advantage/"><u>From Cosmetic to Critical: The Gamer's Advantage</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-energy-efficiency-unlocked-mastering-the-art-of-battery-calibration-in-six-moves/"><u>IPhone Energy Efficiency Unlocked: Mastering the Art of Battery Calibration in Six Moves</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-ps5-smarter-innovate-with-these-9-essentials/"><u>Making PS5 Smarter: Innovate with These 9 Essentials</u></a></li>
+<li><a href="https://games-able.techidaily.com/nano-systems-and-mighty-machines-which-to-choose/"><u>Nano Systems & Mighty Machines: Which to Choose?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-performing-a-clean-slate-restart-on-your-pc-with-windows-11/"><u>Step-by-Step Guide: Performing a Clean Slate Restart on Your PC with Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-taskbar-issues-in-windows-11/"><u>Troubleshooting Taskbar Issues in Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unite-sony-gaming-with-the-switch-system/"><u>Unite Sony Gaming with the Switch System</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-framerate-in-consoles-defies-expectations/"><u>Why Framerate in Consoles Defies Expectations</u></a></li>
 </ul></div>
 

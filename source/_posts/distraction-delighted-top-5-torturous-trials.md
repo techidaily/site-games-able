@@ -1,7 +1,7 @@
 ---
 title: "Distraction Delighted: Top 5 Torturous Trials"
-date: 2024-08-31T19:23:30.975Z
-updated: 2024-09-01T19:23:30.975Z
+date: 2024-12-14T18:55:34.389Z
+updated: 2024-12-17T08:50:27.446Z
 tags:
   - games
 categories:
@@ -44,6 +44,10 @@ Let’s explore some of the names leading the scene.
 
 ![A guy in a pot holding a sledgehammer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/a-guy-in-a-pot-holding-a-sledgehammer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Getting Over It with Bennet Foddy, often called “Getting Over It,” is often considered the first game to fall under the Foddian game genre, even though it isn’t the first by release date. The game allows you to maneuver Diogenes, the pot-sitting, sledgehammer-wielding character, to help him break the surly bonds of earth and touch the sky.
 
  Players control Diogenes’ sledgehammer with their mouse and nothing else. It can be rotated around a limited pivot but holds enough power to move the pot-dweller. As such, you’re meant to ascend steep hills and navigate tricky terrain with the sledgehammer alone.
@@ -57,15 +61,13 @@ Let’s explore some of the names leading the scene.
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
  You can move the caveman around as a player and jump on the pogo stick. The pogo stick has an interesting recovery mechanic that launches the caveman higher when they fall from a greater height. One can also rotate the caveman and launch them at an angle for a greater jump distance.
@@ -74,13 +76,14 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
  Besides the two-player nature, one major difference between this game and other Foddian titles is the movement options. Both players can move the penguins left or right, jump, grab surfaces, swing using the tether binding them together, and anchor themselves by crouching. The map is designed around these mechanics—as certain areas are only accessible using the right movement options.
@@ -91,16 +94,14 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Bread & Fred on[Steam](https://store.steampowered.com/app/1607680/Bread%5F%5FFred/) and[Epic Games](https://store.epicgames.com/en-US/p/bread-and-fred-1db362) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Only Up
 
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
 
  Only Up! was developed in Unreal Engine 5, one of the most powerful 3D graphics engines on the market, and it shows in the game quality. Many of the game’s assets come from the Unreal Marketplace, but the developer found a way to organize the chaos. The result is a unique climbing experience as you traverse from one cultural biome to another.
@@ -112,22 +113,20 @@ Let’s explore some of the names leading the scene.
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## It’s About the Journey
 
  Foddian games are all, at their core, a passion project. The growth of this genre’s fanbase shows how much the creator’s passion has reached players around the world.
 
  And hopefully, after checking out some of the Foddian games on this list, you’ll be one of those players.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +135,26 @@ Let’s explore some of the names leading the scene.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-fostering-fandoms-top-three-storytelling-techniques/"><u>[New] 2024 Approved Fostering Fandoms Top Three Storytelling Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leveraging-likes-and-shares-top-30-facebook-marketing-steps/"><u>[New] 2024 Approved Leveraging Likes and Shares Top 30 Facebook Marketing Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-untamed-video-preservation-units/"><u>[New] Untamed Video Preservation Units</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-permission-to-browse-friends-media-content-on-smschat-services-for-2024/"><u>[Updated] Permission to Browse Friends' Media Content on SMS/Chat Services for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/curbing-device-freeze-error-0x887a0006-in-windows-xp11/"><u>Curbing Device Freeze (Error 0X887A0006) in Windows XP/11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-uninterrupted-network-access-on-ps5-console/"><u>Ensuring Uninterrupted Network Access on PS5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-and-performance-series-x-vs-pc-build/"><u>Graphics & Performance: Series X Vs. PC Build</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-razr-40-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Razr 40 Lock Screen Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-v-purse-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor V Purse Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-for-success-metaverse-sales-strategies/"><u>In 2024, Innovating for Success Metaverse Sales Strategies</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-trending-on-twitter-unpacking-top-10-tiktok-videos/"><u>In 2024, Trending on Twitter Unpacking Top 10 TikTok Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-launcher-failure-0x803f8001-in-mcpc/"><u>Overcoming Launcher Failure 0X803F8001 in MCPC</u></a></li>
+<li><a href="https://games-able.techidaily.com/six-alternative-strategies-to-turn-on-ps5/"><u>Six Alternative Strategies to Turn On PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/stay-soundproof-why-mic-free-ps5s-prevail/"><u>Stay Soundproof: Why Mic-Free PS5s Prevail</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tangoing-turquoise-toucan-for-2024/"><u>Tangoing Turquoise Toucan for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-6-game-takeaways-from-helldivers-2s-journey/"><u>Top 6 Game Takeaways From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/unearthing-indie-wonders-my-top-game-selections/"><u>Unearthing Indie Wonders: My Top Game Selections</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unravel-the-mystery-behind-counter-strike-global-offensive-start-failures-a-comprehensive-guide/"><u>Unravel the Mystery Behind Counter-Strike Global Offensive Start Failures - A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/wheel-controlled-games-versus-screen-based-racing/"><u>Wheel-Controlled Games Versus Screen-Based Racing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Console Link: Fixing the Controller (Windows)"
-date: 2024-08-31T19:25:38.783Z
-updated: 2024-09-01T19:25:38.783Z
+date: 2024-12-11T09:39:16.434Z
+updated: 2024-12-17T04:57:45.779Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check if Windows Recognizes Your Controller
 
  The first thing you need to do is check if Windows recognizes your controller. For that, you will need to[open the Game Controller Settings on Windows](https://www.makeuseof.com/how-to-launch-game-controllers-settings-windows-11/) . Here's how to do that.
@@ -27,13 +31,25 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 3. In the Game Controllers window, read the status of your controller.  
 ![Controller Status on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-status-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your controller does not show up in the Game Controllers window or the status does not say**OK** , you may be experiencing a connection problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect the Controller
 
  When you encounter[issues with an external device on Windows](https://www.makeuseof.com/tag/external-drive-not-recognized-this-is-how-to-fix-it-in-windows/) such as a controller, it’s a good idea to disconnect it and connect it again. This may seem like a simple solution, but it is often effective.
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Scan for Hardware Changes
 
@@ -45,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
  Following that, your controller should appear in the Device Manager window and work as expected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Relevant Window Troubleshooters
 
  If your gaming controller is recognized by Windows but refuses to work, you can run the Hardware and Devices troubleshooter. This tool will try to fix any common problems and get your gaming controller to work on Windows.
@@ -60,9 +73,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 4. Tick the checkbox that reads**Apply repairs automatically** and click**Next** .  
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -72,9 +82,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 3. Click the**Run** button next to**Bluetooth** .  
 ![Bluetooth Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bluetooth-troubleshooter-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After running the above troubleshooter, try using your controller again.
 
 ## 5\. Update or Reinstall the Controller's Driver
@@ -87,9 +94,6 @@ To run the Hardware and Devices troubleshooter, use these steps:
 4. Select the**Search for updated drivers on Windows Update** option.  
 ![Update Controller Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-controller-driver-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait for Windows to check for any pending updates for the driver and install them.
 
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to[uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/) . Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
@@ -99,27 +103,22 @@ To run the Hardware and Devices troubleshooter, use these steps:
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Controller Issues on Windows Made Easy
 
  Unless your controller is faulty or damaged, one of the above tips should get it to work again. That said, if you find that your controller's performance is lacking precision or responsiveness, it might be a good idea to utilize the built-in Windows tool for calibration.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,23 @@ To run the Hardware and Devices troubleshooter, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-a-guide-to-winning-at-game-capturing-with-win10/"><u>[Updated] In 2024, A Guide to Winning at Game Capturing with Win10</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-gt-5-240w-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme GT 5 (240W) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/end-to-end-process-graphics-drivers-from-zero/"><u>End-to-End Process: Graphics Drivers From Zero</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-dueling-devices-wheel-vs-modern-touch-interface/"><u>High-Speed Dueling Devices: Wheel Vs. Modern Touch Interface</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-new-amd-radeon-drivers-on-windows-devices/"><u>How to Install New AMD Radeon Drivers on Windows Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-it-worth-the-upgrade-a-comprehensive-guide-to-samsung-galaxy-s24-ultra-and-s23-ultra/"><u>Is It Worth the Upgrade? A Comprehensive Guide to Samsung Galaxy S24 Ultra and S23 Ultra</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimize-your-switch-with-these-3-networks/"><u>Optimize Your Switch with These 3 Networks</u></a></li>
+<li><a href="https://games-able.techidaily.com/pair-up-and-win-best-two-player-phonesports-apps-top-15-selection/"><u>Pair Up and Win: Best Two-Player Phonesports Apps (Top 15 Selection)</u></a></li>
+<li><a href="https://games-able.techidaily.com/pokemon-gameplay-tips-for-iphoneipad-users/"><u>Pokémon Gameplay Tips for iPhone/iPad Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/precision-and-playfulness-perfect-fps-settings-guide/"><u>Precision and Playfulness: Perfect FPS Settings Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-changing-riot-game-tags-and-names/"><u>The Ultimate Guide to Changing Riot Game Tags & Names</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-digital-marketing-triumphs/"><u>The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-mp3-players-expert-picks/"><u>Top Rated MP3 Players : Expert Picks</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-to-power-on-a-gamers-guide-to-console-care/"><u>Turn Off to Power On: A Gamer's Guide to Console Care</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-mastering-the-ken-burns-effect-a-step-by-step-guide-for-2024/"><u>Updated Mastering the Ken Burns Effect A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728507939165-windows-11/"><u>Windows 11 ユーザープロファイルの復元：失われたデータを救える方法</u></a></li>
+</ul></div>
 

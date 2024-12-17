@@ -1,7 +1,7 @@
 ---
 title: "Mind-Twisters: The Most Maddening Mini-Games"
-date: 2024-12-04T08:46:14.594Z
-updated: 2024-12-10T21:09:11.262Z
+date: 2024-12-13T01:48:04.239Z
+updated: 2024-12-17T09:27:03.153Z
 tags:
   - games
 categories:
@@ -25,16 +25,12 @@ Let’s explore some of the names leading the scene.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Jump King
 
 ![The top of the tower in base Jump King](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/jump-king.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you just discovered[what Foddian games are](https://www.makeuseof.com/what-are-foddian-games/) , chances are you’ve heard of Jump King. It’s a massive title in the community, the completion of which holds a lot of sway. Jump King is one of the easiest Foddian games to grasp because of its simple mechanics.
@@ -69,13 +65,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Getting Over It with Bennet Foddy on[Steam](https://store.steampowered.com/app/240720/Getting%5FOver%5FIt%5Fwith%5FBennett%5FFoddy/) ,[Google Play](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029855/https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit&hl=en&gl=US) , or the[Apple Store](https://apps.apple.com/us/app/getting-over-it/id1319618742) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Pogostuck
 
 ![About to cross the finish line in Pogostuck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/about-to-cross-the-finish-line-in-pogostuck.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The experience of attempting to beat Pogostuck is summarized in the official title, Pogostuck: Rage With Your Friends. You play as a caveman on a pogo stick, attempting to scale large hills, garden-themed locations, and more to get to the top—like other Foddian games.
 
@@ -85,13 +81,13 @@ Let’s explore some of the names leading the scene.
 
 **Download** : Pogostuck on[Steam](https://store.steampowered.com/app/688130/Pogostuck%5FRage%5FWith%5FYour%5FFriends/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Bread & Fred
 
 ![Bread and Fred sitting on a platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bread-and-fred-sitting-on-a-platform.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bread & Fred builds on the existing Foddian formula but adds unique elements that completely alter the gameplay flow. It’s a two-player game that follows the journey of Bread & Fred, two adorable penguins who want to reach the snow-capped summit. Both players must work together to get the penguins to the very top.
 
@@ -108,7 +104,7 @@ Let’s explore some of the names leading the scene.
 ![Gazing down at the world limit on spine in Only Up!](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gazing-down-at-the-world-limit-on-spine-in-only-up.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Only Up! has helped redefine the Foddian genre, challenging what it means to be a Foddian game. It is the only 3D title on this list, but it still contains the key traits of a good Foddian game. The goal is to help a teenage boy, Jackie, escape his life while learning about the word as he ascends to the top.
@@ -120,6 +116,10 @@ Let’s explore some of the names leading the scene.
  Only Up! was at the top of the livestreaming world for almost a month, but the hype has since died. What the game lacks in replayability, it more than makes up for in difficulty. All the same, reaching the top and triggering the final cutscene feels incredibly rewarding.
 
  Sadly, as of September 2023, Only Up! has been pulled from the Steam store, as reported by[PCGamesN](https://www.pcgamesn.com/only-up/steam-removed) , because the game kept the developer "under a lot of stress" and they want to move on and "put the game behind \[them\]". And while many fans look forward to a return of this Foddian hit, there's no concrete evidence pointing that way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## It’s About the Journey
 
@@ -142,21 +142,22 @@ Let’s explore some of the names leading the scene.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-step-by-step-guide-to-rearranging-youtube-playlists/"><u>[New] In 2024, Step-by-Step Guide to Rearranging YouTube Playlists</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leading-the-video-conversion-game-with-ipv-strategies/"><u>[Updated] In 2024, Leading the Video Conversion Game with IPV Strategies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/africas-multilingual-heritage-explored/"><u>Africa's Multilingual Heritage Explored</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-display-winners-oled-amoled-vs-ips-lcd/"><u>Decoding Display Winners: OLED, AMOLED Vs. IPS LCD</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dispel-vanishing-graphics-failure/"><u>Dispel Vanishing Graphics Failure</u></a></li>
-<li><a href="https://games-able.techidaily.com/dont-fall-for-linkedins-new-gaming-attraction-heres-why/"><u>Don’t Fall for LinkedIn's New Gaming Attraction - Here’s Why</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embracing-new-ways-modern-linguistic-mastery-in-the-21st-century/"><u>Embracing New Ways: Modern Linguistic Mastery in the 21St Century</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-with-ai-top-6-games-to-engage-with-chatgpt/"><u>Gaming With AI: Top 6 Games to Engage with ChatGPT</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-oneplus-nord-3-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your OnePlus Nord 3 5G Lock Screen Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-it-time-for-you-to-join-the-game-pass-ultimate-family/"><u>Is It Time for You to Join the Game Pass Ultimate Family?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-challenges-of-biomutant-on-your-pc-expert-solutions-and-tips-freshly-updated-in-202n4/"><u>Mastering the Challenges of Biomutant on Your PC - Expert Solutions & Tips (Freshly Updated in 202N4)</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-wi-fi-nintendo-switch-edition/"><u>Mastering Wi-Fi: Nintendo Switch Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/peek-at-gpus-graphic-memory-levels/"><u>Peek at GPU's Graphic Memory Levels</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/realme-gt-5-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Realme GT 5 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-premier-ps5-accessory-guide/"><u>The Premier PS5 Accessory Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-bandicam-reconnaissance-a-comprehensive-review-of-its-features/"><u>[New] 2024 Approved Bandicam Reconnaissance A Comprehensive Review of Its Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-optimal-zoom-features-in-google-meet-webinars/"><u>[New] Unlocking Optimal Zoom Features in Google Meet Webinars</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleash-creativity-on-instagram-mastering-bulk-image-and-video-additions/"><u>[Updated] In 2024, Unleash Creativity on Instagram Mastering Bulk Image & Video Additions</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-savings-on-xbox-series-games-and-more/"><u>Easy Savings on Xbox Series Games & More</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-like-a-pro-with-these-8-edge-edits/"><u>Gaming Like a Pro with These 8 Edge Edits</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-ace-2-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Ace 2 to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y28-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y28 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-tv-and-monitor-releases-ifa-2023-highlights/"><u>Innovative TV & Monitor Releases IFA 2023 Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-steam-decks-for-gaming-enthusiasts/"><u>Navigating Steam Decks for Gaming Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-issues-solved-resuming-streaming-on-xbox-one-systems/"><u>Netflix Issues Solved: Resuming Streaming on Xbox One Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/outshining-nvidia-with-comparable-graphics-cards/"><u>Outshining Nvidia with Comparable Graphics Cards</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210429009-9780958723053-pathways-to-higher-consciousness/"><u>Pathways to Higher Consciousness | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/say-goodbye-to-echoes-a-2024-guide-for-clearing-up-discord-audio-glitches-on-your-pc/"><u>Say Goodbye to Echoes: A 2024 Guide for Clearing Up Discord Audio Glitches on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-setup-add-discord-to-your-mac-experience/"><u>Seamless Setup: Add Discord to Your Mac Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-engaging-with-new-york-times-power/"><u>Strategies for Engaging with New York Times Power</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-how-to-review-playtime-in-xbox-games/"><u>Unveiling How to Review Playtime in Xbox Games</u></a></li>
 </ul></div>
 

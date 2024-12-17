@@ -1,7 +1,7 @@
 ---
 title: Discovering the Future's AI at Taipei Expo
-date: 2024-10-21T17:27:07.498Z
-updated: 2024-10-25T02:31:48.739Z
+date: 2024-12-10T06:05:06.625Z
+updated: 2024-12-16T23:22:49.345Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Intel Lunar Lake](#intel-lunar-lake)
@@ -26,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,24 +43,15 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 
 So, these are the best bits of AI hardware launched at Computex 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
 
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Intel
 
@@ -69,15 +61,16 @@ Intel
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nvidia GeForce RTX AI Laptops
@@ -95,19 +88,6 @@ Intel
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
 
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 AMD
 
@@ -130,21 +110,18 @@ AMD
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-expert-android-guide-to-top-gba-emulators-for-2024/"><u>[New] Expert Android Guide to Top GBA Emulators for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ncome-levels-of-mr-beast/"><u>[New] Income Levels of Mr. Beast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>[Updated] In 2024, Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-hype-will-nvidias-new-passage-make-gaming-better/"><u>Beyond Hype, Will Nvidia's New Passage Make Gaming Better?</u></a></li>
-<li><a href="https://games-able.techidaily.com/breaking-down-intel-stream-assist-a-game-enhancing-tool/"><u>Breaking Down Intel Stream Assist - A Game-Enhancing Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-the-gap-in-minecraft-solving-pc-connection-issues/"><u>Bridging the Gap in Minecraft: Solving PC Connection Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-smart-high-fidelity-gaming-monitors-selection/"><u>Budget-Smart, High Fidelity Gaming Monitors Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-queue-how-to-skip-the-regular-access-lineup/"><u>Bypassing Queue: How to Skip the Regular Access Lineup</u></a></li>
-<li><a href="https://games-able.techidaily.com/captivating-content-in-minutes-netflixs-gaming-delight/"><u>Captivating Content in Minutes: Netflix’s Gaming Delight</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-screen-startup-failures-a-win10-and-11-guide/"><u>Clearing Screen Startup Failures: A Win10 & 11 Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-comprehensive-review-of-lg-bp350-display-technology-and-capabilities/"><u>In 2024, Comprehensive Review of LG BP350 Display Technology and Capabilities</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-g310-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia G310 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-entrepreneurs-must-haves-essential-items-for-kickstarting-success/"><u>The Entrepreneur's Must-Haves Essential Items for Kickstarting Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/your-guide-to-flawless-solo-livestreaming-operations-for-2024/"><u>Your Guide to Flawless, Solo Livestreaming Operations for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-sharing-tweeting-videos-across-fb/"><u>[Updated] Cross-Platform Sharing Tweeting Videos Across FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-art-of-high-quality-video-production-in-obs-for-2024/"><u>[Updated] Mastering the Art of High-Quality Video Production in OBS for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-critical-considerations-against-incorporating-ray-tracing/"><u>7 Critical Considerations Against Incorporating Ray Tracing</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-persistent-ps5-network-links/"><u>Achieving Persistent PS5 Network Links</u></a></li>
+<li><a href="https://games-able.techidaily.com/beatbox-battle-which-tool-takes-the-trophy/"><u>Beatbox Battle: Which Tool Takes the Trophy</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/compatible-third-party-utilities-enhancing-windows-defender-find-out-more-at-yl-computing/"><u>Compatible Third-Party Utilities Enhancing Windows Defender - Find Out More at YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719162140368-enter-the-world-of-fun-with-chatgpts-6-best-games/"><u>Enter the World of Fun with ChatGPT's 6 Best Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168976644-gaming-revolution-embracing-the-power-of-oled-monitors/"><u>Gaming Revolution: Embracing the Power of OLED Monitors.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30i-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-power-in-your-macbook-pro-through-ssd-transformation/"><u>Unleashing Power in Your MacBook Pro Through SSD Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171836864-unlock-every-steam-badge-in-minutes/"><u>Unlock Every Steam Badge in Minutes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-secrets-of-making-big-bucks-top-8-side-gigs-using-chatgpt/"><u>Unlocking the Secrets of Making Big Bucks: Top 8 Side Gigs Using ChatGPT</u></a></li>
 </ul></div>
 

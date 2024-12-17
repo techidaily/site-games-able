@@ -1,7 +1,7 @@
 ---
 title: "Digesting Steam Data: Time Spent Gaming and Points Earned"
-date: 2024-10-19T23:01:49.457Z
-updated: 2024-10-25T01:20:44.617Z
+date: 2024-12-10T03:55:54.492Z
+updated: 2024-12-16T16:15:53.025Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Steam's Year in Review Is Now Available](#steam-39-s-year-in-review-is-now-available)
@@ -26,16 +30,7 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 * [What You'll Find in Your 2023 Steam Year in Review](#what-you-39-ll-find-in-your-2023-steam-year-in-review)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -55,15 +50,16 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  Once you've seen your report, you can share it on social media and other platforms. You can also[check out your Steam Replay 2022](https://www.makeuseof.com/how-to-see-steam-replay-2022/) and compare how your gaming habits changed over the year.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to See Your Steam Stats for 2023
 
 ![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you had opened the Steam app between December 19 and 21, 2023, you would have seen the Year in Review banner at the top of the store page. However, if you missed that, you can still see the banner if you scroll down a bit during December 2023.
 
@@ -71,27 +67,17 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just look for the email with the subject "**Your Steam Year In Review 2023 is Here!"** from**<noreply@steampowered.com>** . When you open it, press**See Your Year in Review** to see your report in your browser.
 
  If you didn't receive an email from Steam or can't find it, you can still see your Steam Year in Review 2023 by going to View Notifications (the bell icon beside your username) on the Steam app or Steam website and pressing**View All** .
 
 ![View Steam Year in Review in Steam Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/view-steam-year-in-review-in-steam-notifications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What You'll Find in Your 2023 Steam Year in Review
 
@@ -126,22 +112,17 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-harmonic-heralds-discovering-the-finest-music-for-podcast-beginnings/"><u>[New] Harmonic Heralds Discovering the Finest Music for Podcast Beginnings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-prestige-pcs-and-laptops-technologys-elite/"><u>[New] Prestige PCs & Laptops - Technology's Elite</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamline-screen-recording-for-gaming-joy-for-2024/"><u>[New] Streamline Screen Recording for Gaming Joy for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-finding-the-ultimate-video-solution-vlc-and-mx-showdown/"><u>2024 Approved Finding the Ultimate Video Solution VLC and MX Showdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-grid-curated-list-of-uproarious-ringtone-sites/"><u>2024 Approved Giggle Grid Curated List of Uproarious Ringtone Sites</u></a></li>
-<li><a href="https://games-able.techidaily.com/bg3-hardware-requirements-at-a-glance/"><u>BG3 Hardware Requirements at a Glance</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-ancient-pcs-using-atlasos-technology/"><u>Boost Ancient PCs Using AtlasOS Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-steam-deck-with-essential-launcher-tools/"><u>Boost Your Steam Deck with Essential Launcher Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-sony-and-nintendo-joy-cons-connection/"><u>Bridging Sony and Nintendo Joy-Cons Connection</u></a></li>
-<li><a href="https://games-able.techidaily.com/bridging-wi-fi-gaps-for-switch-users/"><u>Bridging Wi-Fi Gaps for Switch Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/bringing-old-school-gaming-into-your-linux-space/"><u>Bringing Old-School Gaming Into Your Linux Space</u></a></li>
-<li><a href="https://games-able.techidaily.com/cellphone-playtime-whats-in-it-for-us/"><u>Cellphone Playtime: What's in It for Us?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-accessories-for-the-nintendo-switch-2024-selection/"><u>Champion Accessories for the Nintendo Switch (2024 Selection)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-secure-your-samsung-phone-with-the-latest-adb-driver-software/"><u>How To: Secure Your Samsung Phone with the Latest ADB Driver Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-to-correct-msidll-not-found-errors/"><u>Troubleshooting Steps to Correct 'msi.dll Not Found' Errors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-xp-scrolling-techniques-unveiled/"><u>Win XP Scrolling Techniques Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-comprehensive-list-of-things-to-evaluate-before-buying-your-next-handheld-videogame-console/"><u>A Comprehensive List of Things to Evaluate Before Buying Your Next Handheld Videogame Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/achdman-strategies-preserving-and-accessing-your-vintage-games/"><u>ACHDMAN Strategies: Preserving and Accessing Your Vintage Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-seamless-gaming-experience-on-steam-by-clearing-titles/"><u>Achieve Seamless Gaming Experience on Steam by Clearing Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-gathering-titles-top-16-seated-players-games-on-xbox/"><u>Best Gathering Titles: Top 16 Seated Players' Games on Xbox</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/uch-does-youtube-pay-for-1-million-views-in-2024/"><u>How Much Does YouTube Pay for 1 Million Views, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-designing-dramatic-podcast-clips/"><u>In 2024, Designing Dramatic Podcast Clips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-terraria-crashing-problems-effective-fixes-for-players/"><u>Overcome Terraria Crashing Problems: Effective Fixes for Players</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spin-the-dial-zoom-in-on-vr-samsung-and-lg-compare/"><u>Spin the Dial, Zoom in on VR Samsung & LG Compare</u></a></li>
+<li><a href="https://driver-download.techidaily.com/take-your-pc-gaming-to-new-heights-with-an-updated-asus-tuf-gaming-geforce-gtx-970-graphics-card/"><u>Take Your PC Gaming to New Heights with an Updated ASUS TUF Gaming Geforce GTX 970 Graphics Card</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transform-videos-to-tweets-best-converters-revealed/"><u>Transform Videos to Tweets Best Converters Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172148302-unlock-excitement-dive-into-netflix-gaming-world/"><u>Unlock Excitement - Dive Into Netflix Gaming World!</u></a></li>
 </ul></div>
 

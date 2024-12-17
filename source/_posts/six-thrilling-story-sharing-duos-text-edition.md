@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2024-12-04T08:50:50.302Z
-updated: 2024-12-11T05:23:12.048Z
+date: 2024-12-14T14:34:49.642Z
+updated: 2024-12-16T16:32:53.472Z
 tags:
   - games
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Story Builder
@@ -44,6 +44,10 @@ Close
  With**Story Builder** , one of you begins the story by messaging an opening sentence to the other person. The other person then messages the second sentence in the story back to the first person. Slowly but surely, the two of you build a story over the course of several texts or a messaging thread.
 
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 20 Questions
 
@@ -65,6 +69,10 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Song Lyrics
 
 Close
@@ -74,10 +82,6 @@ Close
  The**Song Lyrics** game plays on that by having one person quote lines from a song to the other via text or in a messaging thread. The other person then has to guess the song the lyrics are from. It helps if this is played with someone you're close to or with whom you share similar music tastes. Because if you choose a metal song, your classical music-loving mother is unlikely to ever guess correctly.
 
  Variations include quoting classic lines from movies or plots from games instead of lyrics from songs. Failure to guess correctly could mean having to phone up and sing the chorus of the song to your opponent. A fate all but the biggest reality TV wannabe would surely want to avoid.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Abbreviations
 
@@ -89,6 +93,10 @@ Close
 
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 List Builder
 
 Close
@@ -98,10 +106,6 @@ Close
 **List Builder** is a competitive game in which each player takes a turn to name something belonging to a particular genre. This could include capital cities, actors from a certain series of movies, or anything else your mind can conjure up. The winner is the last person to successfully add an item to the list. Once someone taps out because they can't think of anything, the game ends.
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7 Where Am I?
 
@@ -114,7 +118,7 @@ Close
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
@@ -126,10 +130,6 @@ Close
  One person names three people, be they celebrities or individuals you both know, and asks, "Kiss, Marry, Kill?" The other person then has to determine which of the three they would kiss, which they would marry, and which they would kill. All in jest, you understand. None of the three are actually going to happen.
 
  Variations include dropping certain names into the mix you know will upset your friend. Or changing the question entirely. As long as there are three choices and three names in the mix, the sky's the limit with this one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9 What If...?
 
@@ -168,16 +168,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enhance-your-fb-ads-reach-embrace-the-no-cost-kit-innovations/"><u>[New] 2024 Approved Enhance Your FB Ads Reach Embrace the No-Cost Kit Innovations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-bypassing-edgenuity-a-guide-to-focused-self-study/"><u>[New] In 2024, Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-step-by-step-strategies-for-thriving-on-stardews-exotic-hidden-gem-ginger-island-for-2024/"><u>[New] Step-by-Step Strategies for Thriving on Stardew’s Exotic, Hidden Gem – Ginger Island for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-beat-breakers-crafting-compelling-video-music-scores/"><u>[Updated] In 2024, Beat Breakers Crafting Compelling Video Music Scores</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-laughs-lab-innovator/"><u>[Updated] Laughs Lab Innovator</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-finest-8-gaming-hubs-and-analysts/"><u>Discover the Finest: 8 Gaming Hubs & Analysts</u></a></li>
-<li><a href="https://games-able.techidaily.com/early-game-patches-risk-or-reward/"><u>Early Game Patches: Risk or Reward?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mr-beasts-financial-portrait/"><u>Mr. Beast’s Financial Portrait</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-your-playstation-5s-security-set-up-a-personalized-passcode/"><u>Streamlining Your PlayStation 5'S Security: Set Up a Personalized Passcode</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-does-your-ps5-say-about-older-ps4-game-compatibility/"><u>What Does Your PS5 Say About Older PS4 Game Compatibility?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-inexpensive-pc-playback-devices/"><u>[Updated] In 2024, Inexpensive PC Playback Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unlocking-vrecorders-potential-quick-download-and-install/"><u>[Updated] In 2024, Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-speedy-spread-of-youtube-playlists-techniques-for-2024/"><u>[Updated] Speedy Spread of Youtube Playlists Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>2024 Approved Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/backwards-compatibility-for-sonys-gaming-generation-shift/"><u>Backwards Compatibility for Sony's Gaming Generation Shift</u></a></li>
+<li><a href="https://games-able.techidaily.com/combatting-high-memory-usage-of-roblox-app-on-mobile-phones/"><u>Combatting High Memory Usage of Roblox App on Mobile Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-androidios-steam-link-for-gaming-enthusiasts/"><u>Explore Android/iOS: Steam Link for Gaming Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-vintage-to-virtual-using-emudeck-for-game-emulation/"><u>From Vintage to Virtual: Using EmuDeck for Game Emulation</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-fast-and-reliable-web-browsing-fixes-for-latency-issues/"><u>Mastering Fast and Reliable Web Browsing - Fixes for Latency Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-sluggish-battlenet-speeds-essential-fixes-and-hacks/"><u>Overcoming Sluggish Battle.net Speeds : Essential Fixes and Hacks</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-top-steam-deck-accessories/"><u>Revolutionize Your Gaming Setup with Top Steam Deck Accessories</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-xbox-s-controller-links-at-all-times/"><u>Secure Xbox S Controller Links at All Times</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienwares-m18-exclusive-post-labor-day-discounts-await-on-this-incredible-gaming-machine/"><u>Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-optimizing-for-performance-matters-more-than-apples-brand-in-gaming/"><u>Why Optimizing for Performance Matters More than Apple's Brand in Gaming</u></a></li>
 </ul></div>
 

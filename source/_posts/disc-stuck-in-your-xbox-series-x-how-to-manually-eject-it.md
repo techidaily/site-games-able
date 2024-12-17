@@ -1,7 +1,7 @@
 ---
 title: Disc Stuck in Your Xbox Series X? How to Manually Eject It
-date: 2024-09-04T21:49:22.417Z
-updated: 2024-09-05T21:49:22.417Z
+date: 2024-12-11T14:02:48.530Z
+updated: 2024-12-16T19:51:55.254Z
 tags:
   - games
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  If your Xbox Series X won't eject a disc, you may see cause to panic. However, even if you can't eject a disc using the software of your Xbox or by pressing the button on your console, you can still manually retrieve your stuck disc. Let's take a look.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Manually Eject Your Xbox Disc Using the Hidden Eject Hole
 
  Having to force a disc out of your gaming console is never ideal, and manually removing a disc from your Xbox Series X is seen as a last resort by Xbox. However, doing so on Xbox Series X is relatively simple and relies on locating a hidden hole at the base of your console.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ![A photograph of an Xbox Series X resting on its side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/img20231106101548.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Adjacent to the disc drive and along the stand at the console's base, you should be able to see a small**Eject hole** .
 * To manually eject a stuck disc from your Xbox Series X, insert the long end of the paper clip into the**Eject hole** .
 
@@ -38,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
  After a few seconds of inserting the paper clip, the mechanism holding the disc inside your Xbox Series X should manually release, freeing your stuck disc. Even with the ability to[play old Xbox games on your Xbox Series X](https://www.makeuseof.com/how-to-play-old-xbox-games-on-xbox-series-x/) , triggering the**Eject hole** will eject any disc you insert into your console.
 
  However, while utilizing the**Eject hole** is a quick and easy solution, there are some key points surrounding manually ejecting a disc that may prevent you from relying on the**Eject hole** as a permanent solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Things Need to Know About Manually Ejecting an Xbox Disc
 
@@ -50,36 +62,29 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ![A screenshot of the Home screen option to Eject a disc from an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3183.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you[send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
 
  But even with these pointers from Xbox regarding how to avoid relying on the**Eject hole** , you can always rely on the manual method to retrieve any disc that may be stuck inside your Series X.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Ensure You Can Always Retrieve Discs From Your Xbox Series X
 
  With a consistent and reliable method of manually retrieving stuck Xbox discs inside your Series X, you can rest easy and should always be able to retrieve discs from your console.
 
  And with further advice from Xbox, you may even be able to rectify the overall issue affecting your Xbox Series X in the first place.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -88,4 +93,26 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leading-5-hd-cameras-to-enhance-your-twitch-experience/"><u>[New] 2024 Approved Leading 5 HD Cameras to Enhance Your Twitch Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-expertise-in-iphones-macro-photography-secrets-revealed-for-2024/"><u>[New] Expertise in iPhone's Macro Photography Secrets Revealed for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-gearing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-compreh/"><u>[Updated] In 2024, Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>[Updated] Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-upgrade-leading-android-video-tuners/"><u>2024 Approved Speedy Upgrade Leading Android Video Tuners</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-the-perfect-gaming-environment-with-top-lights/"><u>Crafting the Perfect Gaming Environment with Top Lights</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-a-safe-environment-for-teens-on-social-platforms-like-discord/"><u>Creating a Safe Environment for Teens on Social Platforms Like Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/cutting-edge-desk-surface-accessories-2024/"><u>Cutting-Edge Desk Surface Accessories 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/dissecting-the-advances-of-ai-in-nvidias-graphics-suite-dlss-35/"><u>Dissecting the Advances of AI in Nvidia's Graphics Suite: DLSS 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-continuous-ps4-connections-tips-for-windows-users/"><u>Ensuring Continuous PS4 Connections: Tips for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-6s-plus-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 6s Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-magic-5-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor Magic 5?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immerse-in-vocal-customization-for-playstation-devices/"><u>In 2024, Immerse in Vocal Customization for PlayStation Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/locking-down-gaming-how-to-setup-a-screen-password-on-switch/"><u>Locking Down Gaming: How to Setup a Screen Password on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-popularity-of-intimate-gaming-styles/"><u>Navigating the Popularity of Intimate Gaming Styles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ranked-the-best-5-iphones-for-effortless-podcast-access/"><u>Ranked The Best 5 iPhones for Effortless Podcast Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/social-sandbox-crafting-friendly-multiplayer-strategies-for-mc/"><u>Social Sandbox: Crafting Friendly Multiplayer Strategies for MC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-straightforward-pathway-for-tiktok-to-facebook/"><u>The Straightforward Pathway for TikTok to Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-ps5-potentials-with-an-assist-controller/"><u>Unlock Your PS5 Potentials with an Assist Controller</u></a></li>
+</ul></div>
 

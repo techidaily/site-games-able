@@ -1,7 +1,7 @@
 ---
 title: "From Screen to Console: Explore More of Fallout’s Realm"
-date: 2024-12-06T23:23:59.260Z
-updated: 2024-12-10T16:01:43.836Z
+date: 2024-12-12T19:09:44.119Z
+updated: 2024-12-16T20:47:12.828Z
 tags:
   - games
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The big question is, where do you start? What are the best Fallout games to play if you've just watched the show?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout: New Vegas
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  The city of New Vegas also specifically appears in the show's finale, so that's a nice link back into the game and likely an indicator of where the second series of Fallout will focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 3
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  Although Fallout: NV is the better game, Fallout 3 holds a special place in the hearts of many gamers as the first 3D game in the series. For many folks, it was their introduction to Fallout.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout 4
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
  There are enormous battle sequences, an incredible amount of NPCs and quests to check out, and a whole world for you to start rebuilding. Don't forget to keep an eye out for the Red Rocket, which you'll have spotted in the Fallout TV show.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fallout
@@ -109,22 +109,24 @@ thumbnail: https://thmb.techidaily.com/2d4ed2db997a07df0abbc5f08371a080eeac35624
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-favoritism-at-your-fingertips-the-top-8-app-list/"><u>[New] 2024 Approved Facebook Favoritism at Your Fingertips The Top 8 App List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-hands-free-guide-to-storing-google-voice-chats/"><u>[New] 2024 Approved Hands-Free Guide to Storing Google Voice Chats</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-gratis-video-call-tools-for-virtual-gatherings/"><u>[New] In 2024, Top 10 Gratis Video Call Tools for Virtual Gatherings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-complex-video-effects-and-transitions-in-gopro-studio/"><u>[Updated] Mastering Complex Video Effects and Transitions in GoPro Studio</u></a></li>
-<li><a href="https://games-able.techidaily.com/crack-strands-code-a-step-by-step-tutorial-for-the-nyt-word-game/"><u>Crack Strands Code: A Step-by-Step Tutorial for the NYT Word Game</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-variations-6-unique-online-chess-adventures/"><u>Explore Variations: 6 Unique Online Chess Adventures</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-successfully-streaming-hulu-on-your-lg-smart-television/"><u>Guide: Successfully Streaming Hulu on Your LG Smart Television</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>In 2024, Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia 150 (2023)? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-facebook-cover-videos-essential-insights/"><u>Mastering Facebook Cover Videos Essential Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-storage-to-enhance-your-gaming-experience/"><u>Mastering Storage to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/power-tips-for-an-enduring-xbox-controlling-experience/"><u>Power Tips for an Enduring Xbox Controlling Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/pulsar-performer-evaluating-next-gen-gaming-systems/"><u>Pulsar Performer: Evaluating Next Gen Gaming Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamlining-ps5-gameplay-joining-console-and-computer/"><u>Streamlining PS5 Gameplay: Joining Console and Computer</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrade-your-vr-world-with-ps-vr2-extras/"><u>Upgrade Your VR World with PS VR2 Extras</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-has-updated-steam-family-sharing-for-the-first-time-in-10-years-heres-whats-new/"><u>Valve Has Updated Steam Family Sharing for the First Time in 10 Years: Here's What's New</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-streaming-success-easily-convert-srt-formats/"><u>[New] Streaming Success Easily Convert SRT Formats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-right-to-appeal-steps-following-abrupt-video-content-suspension/"><u>2024 Approved The Right to Appeal Steps Following Abrupt Video Content Suspension</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-offline-gaming-guide-for-your-iphoneipad/"><u>Exclusive Offline Gaming Guide for Your iPhone/iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-13-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 13 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-vidgrabmaster-mobilepc-app-downloads/"><u>In 2024, VidGrabMaster Mobile/PC App Downloads</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-compatibility-guide-for-classic-games/"><u>Joy-Con Compatibility Guide for Classic Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-windows-11-experience-with-microsofts-new-copilot-feature/"><u>Navigating the Windows 11 Experience with Microsoft's New Copilot Feature</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-tools-for-post-production-of-dji-videos/"><u>Premier Tools for Post-Production of DJi Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/resolving-steams-missing-game-detections/"><u>Resolving Steam's Missing Game Detections</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionize-gaming-the-essential-guide-for-steam-deck-windows-installation/"><u>Revolutionize Gaming: The Essential Guide for Steam Deck Windows Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-windows-gaming-on-apple-m1-via-crossover-command-center/"><u>Seamless Windows Gaming on Apple M1 via Crossover Command Center</u></a></li>
+<li><a href="https://games-able.techidaily.com/solving-steam-file-synchronization-issues-on-windows/"><u>Solving Steam File Synchronization Issues on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-cs-go-not-opening-innovative-techniques-and-insights-for-gamers/"><u>Solving the Mystery of CS: GO Not Opening – Innovative Techniques & Insights for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-adding-subtitles-to-your-insta-stories/"><u>Step-by-Step Guide: Adding Subtitles to Your Insta Stories</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-cycling-experience-with-photochromic-smartglasses-hud-a-review/"><u>Transforming Cycling Experience with Photochromic Smartglasses HUD - A Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-ios-172-update-solutions-for-enhancing-iphone-wi-fi-speed-and-stability-issues-anticipate-release-timeline/"><u>Upcoming iOS 17.2 Update: Solutions for Enhancing iPhone Wi-Fi Speed & Stability Issues - Anticipate Release Timeline!</u></a></li>
+<li><a href="https://games-able.techidaily.com/valves-latest-features-expand-steam-sharing-for-families/"><u>Valve’s Latest Features Expand Steam Sharing for Families</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-waiting-outperforms-immediate-releases/"><u>Why Waiting Outperforms Immediate Releases</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-exclusive-guide-to-top-8-gaming-websites/"><u>Your Exclusive Guide to Top 8 Gaming Websites</u></a></li>
 </ul></div>
 

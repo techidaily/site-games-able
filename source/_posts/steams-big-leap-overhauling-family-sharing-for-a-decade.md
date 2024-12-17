@@ -1,7 +1,7 @@
 ---
 title: "Steam's Big Leap: Overhauling Family Sharing for a Decade"
-date: 2024-12-03T18:32:49.617Z
-updated: 2024-12-11T04:55:11.197Z
+date: 2024-12-11T17:24:16.419Z
+updated: 2024-12-17T00:20:42.605Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Steam Families: What Has Changed? How Does It Work?](#steam-families-what-has-changed-how-does-it-work)
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
  Between Family Sharing and Family View on Steam, the game sharing features of the platform have historically been a bit difficult to manage. However, an update makes family sharing more streamlined and easier to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steam Families: What Has Changed? How Does It Work?
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 ![Steam Family Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-management-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Steam Family Sharing wasn’t a family-centric feature. It was just a way to share games with other accounts that didn’t necessarily have to be your family. However, Valve released the[Steam Families Beta](https://store.steampowered.com/news/app/593110/view/4149575031735702628) on March 18, 2024, and the update changes that.
@@ -61,29 +65,25 @@ thumbnail: https://thmb.techidaily.com/ad35e613eb8093bc386d3ad0e03dab2452cb6287c
 
  These changes allow you to truly have a parental system for Steam, much like a[kid's account for Netflix](https://www.makeuseof.com/how-to-create-netflix-kids-profile/) or YouTube.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enter the Steam Families Beta
 
 ![How to enter Steam Families Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/how-to-enter-steam-families-beta.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you want to try out the new hub for yourself, you need to enter the Steam Families beta. To do this, open Steam and head to**Settings > Interface > Client Beta Participation** , then choose**Steam Families Beta** in the dropdown menu.
 
 ![Steam Family section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/steam-family-section-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It will prompt you to accept, then the client will restart and update Steam. Once it has updated, you can access your family controls by going to**Settings > Family** **\> Manage your Steam Family** . This view is where you can see all the Steam Family features and parental controls once you've made your family and invited your children.
 
  If you need to make space for new games, make sure to[use Steam's Storage Manager](https://www.makeuseof.com/how-to-use-steam-storage-manager/) to conveniently manage your installs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Pros and Cons of Steam Families
 
@@ -122,22 +122,19 @@ Some of the drawbacks of the feature include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-behind-the-scenes-the-genesis-of-a-mukbang-video/"><u>[New] 2024 Approved Behind the Scenes The Genesis of a Mukbang Video</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-precise-control-with-xbox-zoom/"><u>[Updated] Expert Tips for Precise Control with Xbox Zoom</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-right-approach-for-accurate-google-speech-to-text/"><u>[Updated] In 2024, The Right Approach for Accurate Google Speech-to-Text</u></a></li>
-<li><a href="https://driver-download.techidaily.com/a-comprehensive-walkthrough-for-downloading-and-installing-the-epson-xp-830-drivers/"><u>A Comprehensive Walkthrough for Downloading and Installing the Epson XP-830 Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-headsets-to-ps5-via-airwaves/"><u>Connecting Headsets to PS5 via Airwaves</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/decoding-pc-hardware-identifiers-in-windows-systems/"><u>Decoding PC Hardware Identifiers in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-integration-assembling-your-digital-toolkit-in-win-11/"><u>Effortless Integration: Assembling Your Digital Toolkit in Win 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-mind-games-with-nyts-strands-beginner-to-pro-steps/"><u>Elevate Your Mind Games with NYT's ‘Strands’ - Beginner to Pro Steps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-explore-the-best-ios-options-to-simulate-your-favorite-psp-classics/"><u>In 2024, Explore the Best iOS Options to Simulate Your Favorite PSP Classics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-sharing-of-oversized-content-from-iphone-to-macos/"><u>In 2024, Seamless Sharing of Oversized Content From iPhone to macOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ps5-connectivity-a-step-by-step-approach/"><u>Mastering PS5 Connectivity: A Step-by-Step Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-ssd-options-for-ps5-users/"><u>Premium SSD Options for PS5 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/resume-your-mc-adventure-troubleshooting-disconnects-in-pc-lan/"><u>Resume Your MC Adventure: Troubleshooting Disconnects in PC LAN</u></a></li>
-<li><a href="https://games-able.techidaily.com/stronger-gameplay-starts-here-fixing-low-valorant-fps-windows-edition/"><u>Stronger Gameplay Starts Here: Fixing Low Valorant FPS Windows Edition</u></a></li>
-<li><a href="https://games-able.techidaily.com/terminate-recurring-purchases-on-steam-securely/"><u>Terminate Recurring Purchases on Steam Securely</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-mobile-computer-for-gamers-pdw4/"><u>The Ultimate Mobile Computer for Gamers: PDW4</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-enhance-video-quality-for-free-top-10-online-tools/"><u>Updated 2024 Approved Enhance Video Quality for Free Top 10 Online Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-connoisseurs-guide-to-the-very-best-10-vectors-pix-for-2024/"><u>[New] A Connoisseur's Guide to the Very Best 10 Vectors Pix for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-much-cash-can-you-score-for-watching-a-million-videos/"><u>[Updated] How Much Cash Can You Score for Watching A Million Videos?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-videos-stop-buffering-and-glitches-on-devices/"><u>[Updated] In 2024, Facebook Videos Stop Buffering & Glitches on Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/does-the-acemagic-am08-pro-deliver-a-genuine-gaming-experience/"><u>Does the AceMagic AM08 Pro Deliver a Genuine Gaming Experience?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-minimize-resource-usage-by-roblox-app-on-ios-devices/"><u>How to Minimize Resource Usage by Roblox App on iOS Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-8-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 8 without the Previous Owner?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95564747-9781786780720-instant-presence/"><u>Instant Presence | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-latency-maximum-gameplay-razer-basilisk-v3/"><u>Low Latency, Maximum Gameplay - Razer Basilisk V3</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/paww-audio-enlightenment-the-budget-friendly-review-of-series-3/"><u>Paww Audio Enlightenment - The Budget-Friendly Review of Series 3</u></a></li>
+<li><a href="https://games-able.techidaily.com/securely-tear-down-previous-game-saves-on-playstation-5/"><u>Securely Tear Down Previous Game Saves on PlayStation 5</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-victory-resolving-valorants-frames-per-second-challenges-on-pc/"><u>Securing Victory: Resolving Valorant's Frames Per Second Challenges on PC</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/simplified-steps-for-file-synchronization-in-a-hyper-v-environment/"><u>Simplified Steps for File Synchronization in a Hyper-V Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-5-best-console-emulators-for-your-mac/"><u>The 5 Best Console Emulators for Your Mac</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-ai-advancements-sam-altman-talks-post-build-plans-with-microsoft-latest-news-on-zdnet/"><u>Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Playnite's Fullscreen Mode on Your TV
-date: 2024-10-23T03:42:31.786Z
-updated: 2024-10-24T23:01:48.698Z
+date: 2024-12-11T23:19:48.141Z
+updated: 2024-12-17T02:32:35.593Z
 tags:
   - games
 categories:
@@ -32,16 +32,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
  If you haven't installed and configured Playnite to access your gaming libraries yet, check our guide on[how to unify and make sense of your game collections with Playnite on Windows](https://www.makeuseof.com/windows-playnite-guide/) .
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Fullscreen Themes
@@ -53,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
 ![Playnite Switch to Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-switch-to-fullscreen-mode.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternative themes change the app's aesthetics and offer better integration for some of Playnite's many add-ons. For example, they might display data more prominently from the[HowLongToBeat](https://howlongtobeat.com/) and[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home) sites next to a game's description.
 
 To install third-party themes to Playnite:
@@ -73,27 +51,12 @@ To install third-party themes to Playnite:
 1. Click on its icon on the top left of Playnite's window to access the app's main menu, and select**Add-ons** , or hit**F9** .  
 ![Playnite Menu Add Ons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-menu-add-ons.jpg)
 2. Expand the "**Browse** " section on the left of the**Add-ons** window, and visit the**Themes Fullscreen** page. There, check the list of available themes. Select any to read its description and see some preview thumbnails. Click the**Install** button on the right to bring it on board.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Playnite Add Ons Browse Themes Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-add-ons-browse-themes-fullscreen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Customize Fullscreen Mode
 
@@ -101,30 +64,25 @@ To install third-party themes to Playnite:
 
 ![Playnite Fullscreen Mode Menu Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-selected.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In most themes you can move the selector to the top of the screen, then to the right, to find and access the app's menu. Select**Settings** .
 
 ![Playnite Fullscreen Mode Menu Settings Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-menu-settings-entry.jpg)
 
 Here are some of the spots you might want to visit:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### General
 
  Among other options, if you have more than one monitor connected to your PC, from here, you can choose which one will be used for Playnite's Fullscreen Mode.
 
 ![Playnite Fullscreen Mode Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-general.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also select if you want to see the**Clock** ,**Battery Status** (useful if using a laptop), and if you prefer the app's**Image rendering scaler** to prioritize speed or quality.
 
@@ -142,10 +100,7 @@ Here are some of the spots you might want to visit:
  That's also where you can change the active**Theme** .
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Layout
@@ -155,6 +110,10 @@ Here are some of the spots you might want to visit:
 ![Playnite Fullscreen Mode Settings Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-fullscreen-mode-settings-layout.jpg)
 
  You might want to avoid playing with the**Horizontal Scrolling** and**Smooth scrolling** checkboxes, but keep their location in mind: some themes will send you back here to change those options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Input
 
@@ -174,16 +133,13 @@ Here are some of the spots you might want to visit:
 
 ![Playnite Desktop Menu Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-desktop-menu-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ensure you're on the**General** page from the list on the left, and place a checkmark on**Launch in Fullscreen Mode** and**Launch Playnite when you start your computer** .
 
 ![Playnite Desktop Menu Settings Autolaunch in Fullscreen Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/playnite-desktop-menu-settings-autolaunch-in-fullscreen-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This way, Playnite will practically "console-i-fy" your PC since the app will launch automatically in its Fullscreen Mode whenever Windows loads. This will enable you to jump straight into your games collection instead of fighting with Windows' desktop from your couch.
 
@@ -210,20 +166,16 @@ Here are some of the spots you might want to visit:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-ios-companions-best-ps2-game-simulators/"><u>[New] In 2024, Ideal iOS Companions Best PS2 Game Simulators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-expert-tips-to-enhance-your-vlc-playback-in-macos/"><u>[Updated] 2024 Approved Expert Tips to Enhance Your VLC Playback in macOS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-path-to-longer-instagram-vids-a-comprehensible-approach/"><u>2024 Approved The Path to Longer Instagram Vids A Comprehensible Approach</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-tinkering-101-breaking-down-the-xbox-s-controller/"><u>Controller Tinkering 101: Breaking Down the Xbox S Controller</u></a></li>
-<li><a href="https://games-able.techidaily.com/custom-fan-profiles-reduce-overheating-increase-power/"><u>Custom Fan Profiles: Reduce Overheating, Increase Power</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-realme-c67-4g-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Realme C67 4G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-camon-20-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Camon 20 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-motorola-moto-g-stylus-2023-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Motorola Moto G Stylus (2023) Phone Pattern Lock</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-ps-remotes-into-switch-gameplay-successfully/"><u>Integrating PS Remotes Into Switch Gameplay Successfully</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-stable-server-connections-tips-and-solutions/"><u>League of Legends Stable Server Connections - Tips and Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximize-your-gaming-experience-with-assist-controller-on-ps5/"><u>Maximize Your Gaming Experience with Assist Controller on PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-fsr-3-from-amd-game-changer-for-graphics-supremacy/"><u>New FSR 3 From AMD: Game Changer for Graphics Supremacy?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-to-skirt-gan-faux-pas-effectively/"><u>Strategies to Skirt GAN Faux Pas Effectively</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ate-list-best-asmr-on-smartphones-for-2024/"><u>Ultimate List Best ASMR on Smartphones for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-one-month-free-disco-on-gx-the-opera-guide/"><u>Unlock One-Month Free Disco on GX: The Opera Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-channels-to-zero-cost-image-frames/"><u>[New] In 2024, Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-beginners-guide-to-transforming-gaming-via-twitch-mobile/"><u>A Beginner's Guide to Transforming Gaming via Twitch (Mobile)</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-close-look-at-why-we-adore-cozy-video-adventures/"><u>A Close Look at Why We Adore Cozy Video Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/activating-meta-quest-3s-advanced-ai-features-before-the-apple-vision-pro-a-comprehensive-guide-tech-insights/"><u>Activating Meta Quest 3’S Advanced AI Features Before the Apple Vision Pro: A Comprehensive Guide | Tech Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/affordable-efficient-budget-friendly-boards-of-2023/"><u>Affordable, Efficient Budget-Friendly Boards of 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/ai-assisted-investigations-4-virtual-heist-games/"><u>AI-Assisted Investigations: 4 Virtual Heist Games</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/character-depth-and-complexity-through-11-ingenious-chatgpt-prompts/"><u>Character Depth and Complexity Through 11 Ingenious ChatGPT Prompts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-g42-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia G42 5G PC | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-podcasts-15-tips-for-multitasking-and-growth/"><u>In 2024, Unlock the Power of Podcasts 15 Tips for Multitasking and Growth</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/prevention-tips-ensuring-your-cpus-longepressity-guided-by-yl-software/"><u>Prevention Tips: Ensuring Your CPU's Longepressity - Guided by YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173255951-upgrade-your-cabinet-go-big-with-frames/"><u>Upgrade Your Cabinet - Go Big with Frames</u></a></li>
 </ul></div>
 

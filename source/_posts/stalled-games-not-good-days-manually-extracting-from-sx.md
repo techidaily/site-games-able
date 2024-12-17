@@ -1,7 +1,7 @@
 ---
 title: "Stalled Games, Not Good Days: Manually Extracting From SX"
-date: 2024-12-04T04:10:26.123Z
-updated: 2024-12-11T03:43:28.446Z
+date: 2024-12-10T12:55:39.589Z
+updated: 2024-12-17T04:57:36.046Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manually Eject Your Xbox Disc Using the Hidden Eject Hole
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![A photograph of an Xbox Series X resting on its side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/img20231106101548.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Adjacent to the disc drive and along the stand at the console's base, you should be able to see a small**Eject hole** .
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![An official image of the location of the Eject Hole on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cdbf6aa7-a452-4087-862e-41da990d5801.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://support.xbox.com/en-us/help/hardware-network/console/manually-eject-disc)
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  After a few seconds of inserting the paper clip, the mechanism holding the disc inside your Xbox Series X should manually release, freeing your stuck disc. Even with the ability to[play old Xbox games on your Xbox Series X](https://www.makeuseof.com/how-to-play-old-xbox-games-on-xbox-series-x/) , triggering the**Eject hole** will eject any disc you insert into your console.
 
  However, while utilizing the**Eject hole** is a quick and easy solution, there are some key points surrounding manually ejecting a disc that may prevent you from relying on the**Eject hole** as a permanent solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Things Need to Know About Manually Ejecting an Xbox Disc
 
@@ -68,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![A screenshot of the Home screen option to Eject a disc from an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3183.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you[send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
 
  But even with these pointers from Xbox regarding how to avoid relying on the**Eject hole** , you can always rely on the manual method to retrieve any disc that may be stuck inside your Series X.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ensure You Can Always Retrieve Discs From Your Xbox Series X
 
@@ -100,21 +100,22 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-stardews-successors-top-10-farming-sim-picks/"><u>[Updated] 2024 Approved Stardew's Successors Top 10 Farming Sim Picks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>2024 Approved The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
-<li><a href="https://driver-error.techidaily.com/celebrating-connectivity-wacoms-win/"><u>Celebrating Connectivity: Wacom's Win</u></a></li>
-<li><a href="https://games-able.techidaily.com/eleven-hilarious-chat-games-to-spruce-up-your-texts/"><u>Eleven Hilarious Chat Games to Spruce Up Your Texts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exploring-the-key-purpose-of-mao-zedongs-1958-initiative-the-great-leap-forward-analysis-from-yl-software/"><u>Exploring the Key Purpose of Mao Zedong's 1958 Initiative, The Great Leap Forward - Analysis From YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/five-keys-to-a-child-oriented-ps5-security/"><u>Five Keys to a Child-Oriented PS5 Security</u></a></li>
-<li><a href="https://games-able.techidaily.com/fostering-safe-steam-experiences-in-homes/"><u>Fostering Safe Steam Experiences in Homes</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-reactivate-disconnected-joy-cons-a-complete-guide-for-switch/"><u>How To Reactivate Disconnected Joy-Cons - A Complete Guide for Switch</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-godslayer-chronicles-ragnarok-dawn/"><u>In 2024, Godslayer Chronicles Ragnarok Dawn</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-audio-excellence-in-ios-settings/"><u>In 2024, Unlocking Audio Excellence in iOS Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-steam-rule-no-more-unauthorized-reimbursements/"><u>New Steam Rule: No More Unauthorized Reimbursements</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionizing-gaming-on-the-go-top-nintendo-switch-docks/"><u>Revolutionizing Gaming on the Go: Top Nintendo Switch Docks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-transforming-swf-files-into-mov-format/"><u>Step-by-Step Guide: Transforming SWF Files Into MOV Format</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essential-studio-handbook-xvideo-studio-guide-for-2024/"><u>The Essential Studio Handbook XVideo Studio Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-regain-access-to-mb-services-on-win11-systems/"><u>Tips to Regain Access to MB Services on Win11 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-tech-tecnos-new-color-changing-features/"><u>Transforming Tech: Tecno's New Color-Changing Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-a-video-between-twitter-and-tumblr-in-2024/"><u>[New] How to Post a Video Between Twitter and Tumblr, In 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-learning-legends-esteemed-ed-streams-online/"><u>[Updated] Learning Legends Esteemed Ed Streams Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-perfected-frames-select-software-and-websites-of-the-year-2023-for-2024/"><u>[Updated] Perfected Frames Select Software & Websites of the Year, 2023 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/choosing-your-stream-mvp-analyzing-xsplit-and-obs-features-for-2024/"><u>Choosing Your Stream MVP Analyzing XSplit and OBS Features for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-ai-powered-gaming-discover-chatgpts-best-6/"><u>Explore AI-Powered Gaming: Discover ChatGPT's Best 6</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-enable-pathway-to-files-in-windows-errors/"><u>Guide to Enable Pathway to Files in Windows Errors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leveraging-youtube-content-for-igtv-prominence-for-2024/"><u>Leveraging YouTube Content for IGTV Prominence for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-screenshot-taking-on-steam/"><u>Mastering Screenshot Taking on Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-your-access-to-ps5-multimedia-services/"><u>Restoring Your Access to PS5 Multimedia Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-ps5-game-access-with-an-unique-passcode/"><u>Securing PS5 Game Access with an Unique Passcode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/surligner-les-restrictions-disney-des-astuces-pour-sauvegarder-et-transformer-vos-films-disney-sur-dvd/"><u>Surligner Les Restrictions Disney : Des Astuces Pour Sauvegarder Et Transformer Vos Films Disney Sur DVD</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-hue-adjustment-in-post-production/"><u>The Art of Hue Adjustment in Post-Production</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-dark-art-of-night-photography-best-practices-revealed-for-2024/"><u>The Dark Art of Night Photography Best Practices Revealed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/vanquishing-vexed-virtual-vector-load/"><u>Vanquishing Vexed Virtual Vector Load</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-offers-maximize-your-gaming-budget/"><u>Xbox Offers: Maximize Your Gaming Budget</u></a></li>
 </ul></div>
 

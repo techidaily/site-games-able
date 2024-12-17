@@ -1,7 +1,7 @@
 ---
 title: Navigating Your Way Through EA Play on PS5
-date: 2024-12-08T06:03:25.209Z
-updated: 2024-12-11T06:53:05.015Z
+date: 2024-12-13T21:42:15.725Z
+updated: 2024-12-17T06:07:01.208Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  By the way, EA Play is one of the[ways you can get The Sim 4 for free](https://www.makeuseof.com/how-to-download-and-play-the-sims-4-for-free/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Subscribe to EA Play on the PS5
 
  Trying to navigate your PS5 to pay for EA Play could be a little tricky. Before you begin, you must[add a card as a payment method on your PS5](https://www.makeuseof.com/add-psn-wallet-funds-and-buy-games-on-ps5/) (EA Play insists you have a card even though it will charge your wallet). So, we’ve detailed all the steps you should follow to successfully subscribe to it:
@@ -46,10 +46,6 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 3. Scroll down till you see EA Play’s banner and choose**Learn More** .  
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
@@ -64,15 +60,23 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -81,14 +85,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## EA Play Saves You Money
 
@@ -111,21 +111,22 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tips-to-make-your-instagram-video-goes-viral/"><u>[New] 2024 Approved Tips to Make Your Instagram Video Goes Viral</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-excellent-screen-capture-software-for-windows-11-users-for-2024/"><u>[Updated] Excellent Screen Capture Software for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-highlights-download-methods-and-creating-tips-for-2024/"><u>[Updated] Instagram Highlights Download Methods and Creating Tips for 2024</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728501682523-acronis/"><u>最善の無料 Acronis クローニングアプリケーション - 選択肢を比較してみましょう</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-reno-11f-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo Reno 11F 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-the-ideal-gaming-setup-controller-plus-android-connection/"><u>Crafting the Ideal Gaming Setup: Controller + Android Connection</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-these-lightning-fast-online-gaming-experiences/"><u>Discover These Lightning-Fast Online Gaming Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/earn-learn-and-score-top-4-online-gaming-resource-hubs/"><u>Earn, Learn & Score: Top 4 Online Gaming Resource Hubs</u></a></li>
-<li><a href="https://win-premium.techidaily.com/factory-reset-protocols-for-ssd-drives-a-comprehensive-and-safe-approach/"><u>Factory Reset Protocols for SSD Drives: A Comprehensive and Safe Approach</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-miniaturized-universal-car-charger-charges-your-laptop-tablet-and-phone-effortlessly/"><u>Introducing The Miniaturized Universal Car Charger - Charges Your Laptop, Tablet and Phone Effortlessly</u></a></li>
-<li><a href="https://games-able.techidaily.com/reimagine-gaming-potential-with-a-personalized-xbox-game-bar-in-windows/"><u>Reimagine Gaming Potential with a Personalized Xbox Game Bar in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-shield-top-steam-deck-covers-of-24/"><u>The Ultimate Shield: Top Steam Deck Covers of '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/unravel-connection-an-easy-guide-for-xbox-one-controllers/"><u>Unravel Connection: An Easy Guide for Xbox One Controllers</u></a></li>
-<li><a href="https://games-able.techidaily.com/where-fiction-meets-reality-meta-quest-3/"><u>Where Fiction Meets Reality - Meta Quest 3</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-visuals-saving-and-downloading-on-smartphones/"><u>[New] In 2024, Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-sonic-aligner-android-version/"><u>2024 Approved Superior Sonic Aligner, Android Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/breakthroughs-in-assessing-neuroinflammation-through-endocannabinoid-levels/"><u>Breakthroughs in Assessing Neuroinflammation Through Endocannabinoid Levels</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-aac-to-m4a-converter-web-service-by-movavi-quick-and-easy-file-transformation/"><u>Free AAC to M4A Converter Web Service by Movavi - Quick and Easy File Transformation</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-screenshots-to-screens-iphone-meets-psp-gaming/"><u>From Screenshots to Screens: IPhone Meets PSP Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-a-trifecta-of-techniques-for-codes-success/"><u>Game On: A Trifecta of Techniques for Codes Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-prowess-the-directx-evolution-story/"><u>Graphics Prowess: The DirectX Evolution Story</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-convert-wav-files-to-mp3-format-free-tools-and-apps-for-mac-and-windows-11/"><u>How to Convert WAV Files to MP3 Format: Free Tools and Apps for Mac & Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-innovative-videography-for-sims-playtime/"><u>In 2024, Innovative Videography for Sims Playtime</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolutionizing-video-snippet-harvesting-with-gpus/"><u>Revolutionizing Video Snippet Harvesting with GPUs</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-subscription-service-assessing-its-monthly-cost/"><u>Sony's Subscription Service: Assessing Its Monthly Cost</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-unlinking-from-ps5-accounts/"><u>Step-by-Step: Unlinking From PS5 Accounts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/mline-your-youtube-experience-creating-custom-subscription-bar-with-filmora-for-2024/"><u>Streamline Your YouTube Experience Creating Custom Subscription Bar with Filmora for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-big-time-savings-with-these-top-11-discounted-games-websites/"><u>Unlock Big-Time Savings with These Top 11 Discounted Games Websites</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-of-both-worlds-video-makers-with-music-for-android-and-iphone-for-2024/"><u>Updated The Best of Both Worlds Video Makers with Music for Android and iPhone for 2024</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-itel-a60s-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Itel A60s</u></a></li>
 </ul></div>
 

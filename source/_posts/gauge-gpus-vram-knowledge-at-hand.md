@@ -1,7 +1,7 @@
 ---
 title: "Gauge GPU's VRAM: Knowledge at Hand"
-date: 2024-08-31T19:22:50.983Z
-updated: 2024-09-01T19:22:50.983Z
+date: 2024-12-16T02:56:03.315Z
+updated: 2024-12-16T16:23:23.392Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  If you're a gamer or content creator, having the right amount of VRAM will make a huge difference to your experience. Thankfully, regardless of your operating system, there are plenty of options to find out how much VRAM you have.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check VRAM on Windows
 
  Since just about every gamer and a number of content creators prefer using Windows, there are several tools that can give you varying amounts of information on how much VRAM your computer has.
@@ -30,6 +34,11 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 2. Click**Advanced Display** under**Related settings** .  
 ![Windows Settings screenshot showing advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-1.jpg)
 3. Finally, click**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot showing VRAM in Windows settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-settings-check-vram-2.jpg)
 
  If you've got more than one GPU in your system (one discrete and one integrated) or multiple displays, you might want to check the others as well to make sure you're seeing the right type of VRAM.
@@ -47,27 +56,23 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 ![Screenshot of the dxdiag tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/dxdiag-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once again, remember that if you have multiple GPUs or displays, you'll see multiple Display tabs here. This is especially true in the case of laptops, where you might see an additional**Render** tab that will show you the VRAM and other information of your dedicated GPU.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Using Third-Party Tools
 
  Last but not least, if the in-built Windows tools don't give you enough information or don't work for whatever reason, you can always default to third-party tools that are readily available, safe to use, and will give you a host of information on just about every component of your computer, including GPU and VRAM.
 
 ![Screenshot showing OpenHardwareMonitor tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openhardwaremonitor-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Tools like[GPU-Z](https://www.techpowerup.com/gpuz/) ,[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) , and[OpenHardwareMonitor](https://openhardwaremonitor.org/downloads/) are your best friends here. These are lightweight utilities that won't stress your system when running in the background while also providing a lot of information on how specific components function.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check VRAM on Linux
 
  If you're on Linux, there are a bunch of command-line tools you can use to quickly look up what GPU and how much VRAM your computer has. A quick way of doing this is by using the`lshw` command as follows.
@@ -90,8 +95,9 @@ sudo apt-get install radeontop`
  Once the installation is complete, you can run the tools by typing`sudo nvtop` or`sudo radeontop` depending on which one you installed.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check VRAM on macOS
 
  Just like the two aforementioned operating systems, macOS also has tools that you can use to find out how much VRAM your computer has. Just follow these steps.
@@ -109,9 +115,6 @@ sudo apt-get install radeontop`
 
 ![asus graphics card on granite surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpu-card-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  As a general rule of thumb, you should have at least 4GB of VRAM for gaming and 8GB of VRAM for video editing. This requirement can vary based on what games you're playing or the resolution of the video you're editing, but the more, the better. We've already covered[how much VRAM you need for modern games](https://www.makeuseof.com/how-much-vram-do-you-need-modern-games/) in case you need some help.
 
  There are, of course, other factors that affect these requirements as well. The architecture and generation of your GPU, the type of VRAM, GPU, CPU clock speeds, and even the rest of your computer's hardware can all affect how much VRAM you actually need. If you're building a PC, knowing the[difference between RAM and VRAM](https://www.makeuseof.com/ram-vs-vram-differences/) is also important.
@@ -120,14 +123,11 @@ sudo apt-get install radeontop`
 
  Knowing your PC specs can help you save massively when buying a new computer or upgrading your existing one. If you know your specs, you can make informed decisions based on how you plan to use your computer, which means you'll be able to allocate more of your budget to the components that matter instead of spending all your money on the parts with the most RGB lighting.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +136,23 @@ sudo apt-get install radeontop`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-advice-for-quick-and-effortless-mac-screen-recording-via-keyboard-shortcuts/"><u>[New] In 2024, Expert Advice for Quick and Effortless Mac Screen Recording via Keyboard Shortcuts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-av1-compression-a-beginners-overview/"><u>[Updated] In 2024, AV1 Compression A Beginner's Overview</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-sifting-through-the-advantages-and-disadvantages-of-vr-for-2024/"><u>[Updated] Sifting Through the Advantages and Disadvantages of VR for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smiles-on-signal-best-humorous-tones-online/"><u>[Updated] Smiles on Signal Best Humorous Tones Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-unveiling-secrets-with-enhanced-scopes-in-roblox-games-for-2024/"><u>[Updated] Unveiling Secrets with Enhanced Scopes in Roblox Games for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/apples-game-selection-mastery-the-arcade-advantage/"><u>Apple's Game Selection Mastery – The Arcade Advantage</u></a></li>
+<li><a href="https://games-able.techidaily.com/evolving-tales-explore-additional-fallout-games-and-stories/"><u>Evolving Tales: Explore Additional Fallout Games and Stories</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-guide-to-payment-free-gameplay/"><u>Exclusive Guide to Payment-Free Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-on-correcting-the-palworld-session-search-malfunction/"><u>Expert Tips on Correcting the Palworld Session Search Malfunction</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-saving-teams-discussions-tech-for-pcmobile-users/"><u>In 2024, Saving Teams' Discussions Tech for PC/Mobile Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/outdoor-fun-in-ar-discover-these-8-titles/"><u>Outdoor Fun in AR: Discover These 8 Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/sneaking-nintendo-into-the-steam-ecosystem/"><u>Sneaking Nintendo Into the Steam Ecosystem</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-device-connectivity-steam-deck-and-pc-via-barrier-method/"><u>Streamline Device Connectivity: Steam Deck & PC via Barrier Method</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stutters-and-fps-drop-in-dying-light-2-for-pc-players/"><u>Troubleshooting Stutters & FPS Drop in Dying Light 2 for PC Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-your-steam-library-a-quick-guide-for-pc-users/"><u>Unlocking Your Steam Library: A Quick Guide for PC Users</u></a></li>
+</ul></div>
 

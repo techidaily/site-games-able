@@ -1,7 +1,7 @@
 ---
 title: Native Linux Execution for Android Apps
-date: 2024-12-07T10:19:44.129Z
-updated: 2024-12-10T22:59:58.991Z
+date: 2024-12-11T19:26:07.133Z
+updated: 2024-12-16T22:08:32.187Z
 tags:
   - games
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ![checking system display server type in terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/checking-system-display-server-type-in-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your system runs the Xorg display server, you’ll need to switch from Xorg to Wayland before you can install Waydroid.
 
  On Ubuntu, you can switch to Wayland by logging out of your user account and clicking the**Gear** icon on the login screen. When the drop-down list of display options appears, click**Ubuntu** to switch out of the Ubuntu on Xorg configuration.
@@ -80,6 +80,10 @@ waydroid show-full-ui`
  Wait for the app to install. Once the installation process is complete, you can run the Android app by selecting it through the Waydroid GUI, launching it through your desktop application menu, or launching it from the terminal with:
 
 `waydroid app launch appname`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Create an Android Virtual Machine
 
@@ -110,10 +114,6 @@ waydroid show-full-ui`
 
 ![configuring graphics settings in virtualbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configuring-graphics-settings-in-virtualbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Last but not least, you’ll need to install the Android x86 image. Navigate to the**Storage** tab and select**Empty** from the list of storage devices. Next, click on the**blue disc** icon to the right of the**Optical Drive** setting and select**Choose a disk file** from the dropdown menu. Select your Android x86 ISO from the Files interface that appears. Finally, close the settings menu and click**Start** to boot your Android VM.
 
  As prompts appear on the new virtual machine, click**Advanced Options** , select**Auto\_Installation** from the advanced options list, and then click**Yes** to confirm the auto installation.
@@ -121,16 +121,12 @@ waydroid show-full-ui`
  Once the installation process is complete, you can configure and install apps on your new Android virtual machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Android Studio for Seamless Gaming
 
  While Android Studio is primarily geared towards developers, it can be an excellent option for emulation if you aren’t interested in using Waydroid or an Android x86 virtual machine. After[installing Android Studio](https://www.makeuseof.com/install-android-studio-ubuntu/) , you’ll need to create an Android Virtual Device (AVD) using the official[Android](https://developer.android.com/studio/run/emulator#avd) Developer’s guide and then install your chosen APK on the[Android](https://developer.android.com/studio/run/emulator-install-add-files) Emulator.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Android Apps on Linux With Genymotion
 
@@ -141,7 +137,7 @@ waydroid show-full-ui`
 ![comparing the plans offered by genymotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/comparing-the-plans-offered-by-genymotion.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To start, you’ll need to purchase the right Genymotion plan. Genymotion offers a free plan for personal use, but any technical support requests beyond issues with installation and first run will be rejected—and you won’t be able to use features like Android 13, camera and media widget features, and quick boot.
@@ -149,6 +145,10 @@ waydroid show-full-ui`
  If you’re a current student or teacher, you can use your school ID to purchase full-featured Genymotion for $49 per year.
 
  Once you’ve downloaded the Genymotion BIN file, you can install it with QEMU or VirtualBox using[Genymotion’s](https://docs.genymotion.com/desktop/Get%5Fstarted/013%5FLinux%5Finstall/) official installation guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy Using Android Apps and Games on Your Linux System
 
@@ -171,18 +171,19 @@ waydroid show-full-ui`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-scholarly-streams-10-best-ed-tutorials-yt/"><u>[Updated] In 2024, Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-incorporating-backgrounds-a-filmmakers-guide-for-2024/"><u>[Updated] Incorporating Backgrounds A Filmmaker's Guide for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-windows-10-know-how-reference/"><u>2024 Approved The Complete WINDOWS 10 Know-How Reference</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/audio-drivers-for-windows-a-comprehensive-update-guide/"><u>Audio Drivers for Windows: A Comprehensive Update Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/game-on-compile-your-collection-of-the-top-12-pc-clickers-for-2024/"><u>Game On Compile Your Collection of the Top 12 PC Clickers for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-hot-40-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Hot 40 Pro Phone Screen?</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-ea-play-ps5-subscription-and-utilization-guide/"><u>Mastering EA Play: PS5 Subscription & Utilization Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-fpv-drones-picking-perfect-propellers/"><u>Mastering FPV Drones Picking Perfect Propellers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://games-able.techidaily.com/scv-expertise-on-unlocking-rare-pokemon-81/"><u>SCV Expertise on Unlocking Rare Pokémon (81)</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-win-11-old-games-new-image-storage/"><u>Step-by-Step Win 11 - Old Games, New Image Storage</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essence-of-sonys-go-anywhere-game-system/"><u>The Essence of Sony’s Go-Anywhere Game System</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/vanishing-act-taskview-on-taskbar-hiding/"><u>Vanishing Act: TaskView on Taskbar Hiding</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-craft-your-channel-studio-or-beta-innovation-comparison-for-2024/"><u>[Updated] Craft Your Channel Studio or Beta Innovation Comparison for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlimited-picture-pools-the-best-10-resources/"><u>2024 Approved Unlimited Picture Pools The Best 10 Resources</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-every-milestone-the-complete-guide-to-steam-awards/"><u>Achieve Every Milestone: The Complete Guide to Steam Awards</u></a></li>
+<li><a href="https://games-able.techidaily.com/ascertaining-maximum-vram-for-your-device/"><u>Ascertaining Maximum VRAM for Your Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-countdown-who-wins-in-the-ps5-vs-xbox-series-x/"><u>Console Countdown: Who Wins in the PS5 Vs. Xbox Series X?</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-typing-experience-on-steam-deck/"><u>Enhancing Typing Experience on Steam Deck</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-zte-nubia-z60-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked ZTE Nubia Z60 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-quick-guide-macbook-pro-screen-recording-basics/"><u>In 2024, Quick Guide MacBook Pro Screen Recording Basics</u></a></li>
+<li><a href="https://games-able.techidaily.com/joint-adventures-await-uniting-your-epic-and-steam-life/"><u>Joint Adventures Await: Uniting Your Epic and Steam Life</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-your-consoles-capabilities-using-a-laptop-as-monitor/"><u>Maximize Your Console's Capabilities Using a Laptop as Monitor</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/photoshop-cs8-installation-tutorial-for-windows-users-start-editing/"><u>Photoshop CS8 Installation Tutorial for Windows Users - Start Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-anleitung-zum-konvertieren-von-mp4-in-dvd-professionelle-tipps-und-tricks/"><u>Schritt-Für-Schritt-Anleitung Zum Konvertieren Von MP4 in DVD: Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/start-conversing-like-a-pro-your-language-lesson-at-5-off/"><u>Start Conversing Like a Pro – Your Language Lesson at 5% Off!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/survival-tips-from-ai-can-chatgpt-help-you-escape-the-wild/"><u>Survival Tips From AI: Can ChatGPT Help You Escape the Wild?</u></a></li>
 </ul></div>
 

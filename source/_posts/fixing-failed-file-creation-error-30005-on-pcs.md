@@ -1,7 +1,7 @@
 ---
 title: "Fixing Failed File Creation: Error 30005 on PCs"
-date: 2024-08-31T19:26:33.297Z
-updated: 2024-09-01T19:26:33.297Z
+date: 2024-12-16T12:41:41.531Z
+updated: 2024-12-17T07:24:17.256Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9639571683ee2faea594be2c39567620326555f8b
  If you have encountered this error, you're probably trying to run a game protected by this service, but there is some issue with the service itself or game files, which is preventing the game from launching.
 
 So, what causes this error, and how do you fix it?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the Error 30005: CreateFile Failed With 32 on Windows?
 
@@ -44,6 +48,10 @@ So, what causes this error, and how do you fix it?
 
  You can begin applying the remaining fixes if none of the above checks help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Delete the EasyAntiCheat.Sys File
 
  The EasyAntiCheat.sys file contains the launch information for the game. Every time you launch the game, and the Easy Anti-Cheat service confirms that the game files have not been modified, it gets created automatically.
@@ -58,16 +66,10 @@ To do this, follow these steps:
 4. To delete the file, right-click on it and select**Delete** .  
 ![Deleting the EasyAntiCheat.Sys File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-deleting-the-easyanticheat-sys-file-in-windows-file-explorer.jpg)
 5. Grant administrator permission if it is requested in the UAC window.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 6. Relaunch the game.
 
 If you encounter the same error again, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Can't Uninstall the EasyAntiCheat.Sys File?
 
  Some users have reported encountering an error when deleting the EasyAntiCheat.sys file that says that the file cannot be deleted since the app is running. This message indicates that Easy Anti-Cheat is running in the background, so you must turn off the program before uninstalling it. Here's how you can do it:
@@ -77,10 +79,6 @@ If you encounter the same error again, proceed to the next step.
 3. Right-click the process and select**End task** .  
 ![Disable EasyAntiCheat Software in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-easyanticheat-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 3\. Repair Any Corrupted Game Files
 
  If your game files get corrupted, Easy Anti-Cheat will consider it unauthorized tampering. Therefore, repairing them is essential. Some game clients allow you to repair corrupt files from within the client; therefore, if the game you're running offers this functionality, go ahead and repair the corrupt files.
@@ -99,9 +97,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you aren't familiar with the process to whitelist apps, check out our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Kernel-Mode Hardware-Enforced Stack Protection
 
  Activating Kernel-mode Hardware-enforced Stack Protection, a security feature on Windows, interferes with Easy Anti-Cheat software, as reported by a user in a[Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/kernel-mode-hardware-enforced-stack-protection/e6a47f27-fd08-4ce1-bc64-ecc4306182d3) . This feature prevents malicious software from interfering with the operating system but can sometimes conflict with safe programs, such as Easy Anti-Cheat.
@@ -117,6 +112,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If the Kernel-mode Hardware-enforced Stack Protection feature isn't available in the Device Security settings, then your processor doesn't support it. If that is the case, you can skip this fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Ensure the Easy Anti-Cheat Service Is Running
 
  Easy Anti-Cheat launches a service also named Easy Anti-Cheat when you install the program on your device. If this service isn't running, Easy Anti-Cheat will throw an error. To do so, follow these steps:
@@ -126,9 +125,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. If it is already running, you don't need to do anything. If it isn't running already, right-click on it and click**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair the Easy Anti-Cheat Program
 
  If none of the fixes work or the Easy Anti-Cheat software isn't working correctly, you should repair the program. Follow these steps to repair the client:
@@ -136,27 +135,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Go to the installation folder of your game. If you have installed the game through Steam, open the Steam client, right-click on the game, and select**Properties** . Choose**Local Files** from the left sidebar and click**Browse** on the right.  
 ![Clicking on the Browse Button in Local Files Tab in the Properties Window of a Game in Steam Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-clicking-on-the-browse-button-in-local-files-tab-in-the-properties-window-of-a-game-in-steam-client.jpg)
 2. Close the Steam client and keep the installation folder open.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Go to the**Easy Anti-Cheat** folder.
 4. Run the Easy Anti-Cheat setup file.  
 ![Running the Easy Anti-Cheat Setup File From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-easy-anti-cheat-setup-file-from-windows-file-explorer.jpg)
 5. In the UAC window, click**Yes** .
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click on**Repair Service** .  
 ![Repairing the Easy Anti-Cheat Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/easy-anticheat-software.jpg)
 7. After that, click**Finish** and run the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall Easy Anti-Cheat
 
  If you encounter the same error when you run the game again, it indicates that the issue has not been resolved. So, reinstall the Easy Anti-Cheat program as a last resort.
@@ -171,14 +166,11 @@ No advertising on the website.
 
  When Easy Anti-Cheat blocks hackers from entering multiplayer games and ruining your gaming experience, it's great; when we get errors due to it, we find it annoying. Hopefully, the fixes covered in this article will help you resolve the "error 30005: CreateFile failed with 32" problem. If none of these solutions work, you should reinstall the game or the game client as a last resort.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,4 +179,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-compreenas-a-step-by-step-process-to-apply-luts-in-photoshop-cc/"><u>[Updated] Compreenas a Step-by-Step Process to Apply LUTs in Photoshop CC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-exploring-youtubes-regular-pay-structure/"><u>[Updated] In 2024, Exploring YouTube’s Regular Pay Structure</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-pioneering-platform-potential-the-10-most-effective-igtv-strategies-for-brands-for-2024/"><u>[Updated] Pioneering Platform Potential The 10 Most Effective IGTV Strategies for Brands for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensive-ps4-factory-settings-revert/"><u>Comprehensive PS4 Factory Settings Revert</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-accessories-roundup-best-shells-and-covers-2024/"><u>Essential Accessories Roundup: Best Shells & Covers, 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-fun-gaming-hits-pick-the-best-for-phone-adventure/"><u>Fast & Fun Gaming Hits: Pick the Best for Phone Adventure</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-undo-a-regrettable-fortnite-transaction-swiftly/"><u>How to Undo a Regrettable Fortnite Transaction Swiftly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-player-experience-lessons-from-helldivers-2s-journey/"><u>Mastering Player Experience: Lessons From Helldivers 2'S Journey</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-video-data-in-high-capacity-drives-64128gb/"><u>Navigating Video Data in High-Capacity Drives (64/128GB)</u></a></li>
+<li><a href="https://facebook.techidaily.com/no-new-oculus-quest-model-in-current-calendar/"><u>No New Oculus Quest Model in Current Calendar</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gaming-edge-asus-rog-vs-tuf-vs-proart-vs-prime/"><u>The Gaming Edge: Asus ROG Vs. TUF Vs. ProArt Vs. Prime</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-90-lite-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor 90 Lite IMEI without Root A Comprehensive Guide</u></a></li>
+</ul></div>
 

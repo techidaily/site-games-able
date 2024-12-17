@@ -1,7 +1,7 @@
 ---
 title: Patience Pays Off in Video Games
-date: 2024-12-07T17:35:19.738Z
-updated: 2024-12-10T20:54:53.284Z
+date: 2024-12-11T18:57:05.192Z
+updated: 2024-12-17T00:25:01.049Z
 tags:
   - games
 categories:
@@ -31,11 +31,11 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 ![Skeleton hunched over messy desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/skeleton-hunched-over-messy-desk.jpg)
 
- While some people work well under pressure, positive environments often produce the best results. When you actually look at[whether crunch culture creates better video games](https://www.makeuseof.com/does-crunch-culture-deliver-good-bad-games/) , in the end, the answer is far from a resounding yes. Great games have come from crunch culture, sure. But it's simply not worth subjecting workers to crunch culture when it is entirely possible to create brilliant games without it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ While some people work well under pressure, positive environments often produce the best results. When you actually look at[whether crunch culture creates better video games](https://www.makeuseof.com/does-crunch-culture-deliver-good-bad-games/) , in the end, the answer is far from a resounding yes. Great games have come from crunch culture, sure. But it's simply not worth subjecting workers to crunch culture when it is entirely possible to create brilliant games without it.
 
 ## Delaying Video Games Improves the Final Product
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 ![A screenshot taken from CD Projekt Red of the key art for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cyberpunk-2077-key-art.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[CD Projekt Red](https://www.cdprojektred.com/en/our-games)
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
  Developers continued working on Cyberpunk 2077 well after its release date, and it's great now. But it is clear to see that the game would have met a much warmer reception if the developers had been given enough time to finish it before it was released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Better Games Mean Better Sales
@@ -70,13 +70,13 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 ![Man holding white piece over paper that reads balance over burnout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-white-piece-over-paper-that-reads-balance-over-burnout.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In situations like this, everyone loses. The consumer loses, the development team loses, and the publisher loses. All for something that could have possibly been avoided if the game’s release date was pushed back a bit and developers had enough time to create a more polished experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Unfinished Games Don’t Benefit Anyone
@@ -100,24 +100,20 @@ thumbnail: https://thmb.techidaily.com/1fc6ba74c900007ae783d7c5d15561029afe7a276
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-discover-8-essential-sites-for-pristine-green-screen-images/"><u>[New] 2024 Approved Discover 8 Essential Sites for Pristine Green Screen Images</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-essential-information-for-successful-tiktok-use-on-macos/"><u>[New] 2024 Approved Essential Information for Successful TikTok Use on macOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>[New] The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-achieve-more-money-from-your-short-videos-on-youtube-for-2024/"><u>[Updated] Achieve More Money From Your Short Videos on YouTube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715860155322-2024-approved-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>2024 Approved A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>2024 Approved Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/calm-tales-on-screen-analyzing-parent-child-bedtime-videos-for-2024/"><u>Calm Tales on Screen Analyzing Parent-Child Bedtime Videos for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-updating-your-sony-vaios-windows-drivers/"><u>Comprehensive Tutorial: Updating Your Sony Vaio's Windows Drivers</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gameplay-with-essential-pc-hardware/"><u>Elevate Gameplay with Essential PC Hardware</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-2024s-computex-next-gen-ai-chips-unveiled/"><u>Exploring 2024'S Computex: Next-Gen AI Chips Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-on-a-budget-discover-amds-affordable-graphics-rx-7800xt-7700xt/"><u>Gaming on a Budget? Discover AMD's Affordable Graphics: RX 7800XT, 7700XT</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-the-pending-purchase-issue-on-steam/"><u>How to Fix the Pending Purchase Issue on Steam</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-pro-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/immersive-horizons-with-meta-quest-3/"><u>Immersive Horizons with Meta Quest 3</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lenovo-chromebook-duet-assessment-affordable-hybrid-tablet-and-laptop-combination/"><u>Lenovo Chromebook Duet Assessment: Affordable Hybrid Tablet & Laptop Combination</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steams-ultimate-view-experience/"><u>Mastering Steam's Ultimate View Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-disk-rotation-using-chdman-to-enhance-gaming-archives/"><u>Reverse Disk Rotation: Using CHDMAN to Enhance Gaming Archives</u></a></li>
-<li><a href="https://games-able.techidaily.com/smooth-startup-eradicating-freezing-issues-in-epics-launcher/"><u>Smooth Startup: Eradicating Freezing Issues in Epic's Launcher</u></a></li>
-<li><a href="https://games-able.techidaily.com/tailoring-display-settings-to-your-preferences-on-xbox/"><u>Tailoring Display Settings to Your Preferences on Xbox</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-choice-collection-high-quality-virtual-reality-titles-for-cardboard/"><u>[New] 2024 Approved Choice Collection High-Quality Virtual Reality Titles for Cardboard</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-achieving-authenticity-altering-voices-on-instagram-profiles/"><u>[Updated] Achieving Authenticity Altering Voices on Instagram Profiles</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/achieving-geometric-brilliance-making-mc-circles-and-spheres-for-2024/"><u>Achieving Geometric Brilliance Making MC Circles & Spheres for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-app-for-gamers-milestone-maps/"><u>Best App for Gamers' Milestone Maps</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-and-resolving-gpu-distortion/"><u>Decoding and Resolving GPU Distortion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-samsung-galaxy-f04-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Samsung Galaxy F04 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/roblox-framespeed-modifications-and-safety-analysis/"><u>Roblox Framespeed Modifications and Safety Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplified-guide-removing-previous-save-data-on-ps5/"><u>Simplified Guide: Removing Previous Save Data on PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-mechanics-how-to-deconstruct-your-xbox-360s/"><u>Step Into the Mechanics: How to Deconstruct Your Xbox 360/S</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-convergence-experience-meta-quest-3-explored/"><u>The Convergence Experience: Meta Quest 3 Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-fixes-reactivating-windows-batch-file-operations/"><u>Unveiling Fixes: Reactivating Windows Batch File Operations</u></a></li>
 </ul></div>
 

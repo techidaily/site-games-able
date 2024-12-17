@@ -1,7 +1,7 @@
 ---
 title: "Xbox Series S/X: Friendship Forged Online"
-date: 2024-10-22T02:42:08.940Z
-updated: 2024-10-24T17:17:18.710Z
+date: 2024-12-14T23:07:24.594Z
+updated: 2024-12-17T00:22:27.195Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is a Club on the Xbox Series X|S?
 
  Clubs on the Xbox Series X|S are digital meeting places where you can go to socialize with your friends or even make new ones.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  Not everyone loves gaming as much as you might. It isn’t uncommon for gamers to not have any friends in real life who play video games, but that doesn’t mean you can never play COD with a solid crew of like-minded people. It just means you might have to look a little harder to find them.
 
  If you want to[find online players for your Xbox Series X|S](https://www.makeuseof.com/how-to-find-online-players-on-xbox-series-xs/) , Clubs are a great place to look.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Make a Club on My Xbox Series X|S?
 
@@ -43,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![Clubs on Xbox Button in Community Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/clubs-on-xbox-button-in-community-menu.jpg)
 5. Select whether you want to make a**Public** ,**Private** , or**Hidden** group. Public means anyone can find, play, and see your club's content, but only members can chat. Private means anyone can see your club, but only members can engage with it, and hidden means that only members can see or engage with the club.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Club Types on Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-types-on-xbox.jpg)
 6. Now comes the hardest part—thinking of a name for your club. If you’re creating the club to find players to play a certain game, giving it a name that resonates with that game is a good start.
 7. Select**Create club** once you’ve made your choices.
@@ -57,15 +58,16 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ![Club Customization Screen Xbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/club-customization-screen-xbox.jpg)
 9. Press**Done** to complete your club.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And just like that, you have created your Club. You just have to sit back and wait for the tags to do their work before you can start playing the[best co-op games on the Xbox Series X|S](https://www.makeuseof.com/best-couch-co-op-games-for-xbox-series-x-s/) with your new friends.
 
  Provided it’s not hidden, of course. If it is, you will have to press**Invite someone** on the Club home page and send your invites out to your lucky recipients manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Delete a Club on the Xbox Series X|S
@@ -81,20 +83,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 6. Make your way to the**Ownership** section, and press**Delete club** .
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Your Club will now be deleted.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Share Your Love of Gaming With Others
 
@@ -117,24 +109,20 @@ Your Club will now be deleted.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-youtubes-premier-guide-to-top-notch-gear/"><u>[New] 2024 Approved YouTube’s Premier Guide to Top-Notch Gear</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixed-shorts-no-more-hidden-content/"><u>[New] In 2024, Fixed Shorts - No More Hidden Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-ae-integrating-custom-typefaces/"><u>[New] Mastering AE Integrating Custom Typefaces</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-best-of-the-best-top-facebook-memes-to-find-for-2024/"><u>[Updated] The Best of the Best – Top Facebook Memes to Find for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-crafting-engaging-asmr-content-for-2024/"><u>[Updated] The Ultimate Guide to Crafting Engaging ASMR Content for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-air-glide-cdw-duo-instructions/"><u>Brother Air Glide CDW Duo Instructions</u></a></li>
-<li><a href="https://games-able.techidaily.com/build-a-game-masterpiece-with-these-crucial-parts/"><u>Build a Game Masterpiece with These Crucial Parts</u></a></li>
-<li><a href="https://games-able.techidaily.com/bypassing-steam-timeouts-tips-for-rust-users/"><u>Bypassing Steam Timeouts: Tips for Rust Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-am08-pro-assert-its-authenticity-in-magic-gaming/"><u>Can AM08 Pro Assert Its Authenticity in Magic Gaming?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-amds-fsr-3-render-better-than-nvidias-dlss-35/"><u>Can AMD’s FSR 3 Render Better Than NVIDIA's DLSS 3.5?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-the-classic-dock-adapt-to-switchs-oled-display/"><u>Can the Classic Dock Adapt to Switch's OLED Display?</u></a></li>
-<li><a href="https://games-able.techidaily.com/can-the-price-of-playstation-5-go-down-after-supply-catches-up/"><u>Can the Price of PlayStation 5 Go Down After Supply Catches Up?</u></a></li>
-<li><a href="https://games-able.techidaily.com/champion-8-virtual-environments-playing-android-on-pcmac/"><u>Champion 8 Virtual Environments: Playing Android on PC/Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/clearing-old-ps5-saves-made-easy/"><u>Clearing Old PS5 Saves Made Easy</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-launcher-crash-with-error-code-0x803f8001-in-mcpc/"><u>Combatting Launcher Crash with Error Code 0X803F8001 in MCPC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-vivo-x-fold-2-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Vivo X Fold 2.</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fps-titans-ranking-gamings-elite-shooters-for-2024/"><u>FPS Titans Ranking Gaming's Elite Shooters for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/zoom-optimization-for-effective-virtual-meetings-for-2024/"><u>Zoom Optimization for Effective Virtual Meetings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-diverse-opinions-one-easeus-evaluation/"><u>[New] 2024 Approved Diverse Opinions, One EaseUS Evaluation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience-for-2024/"><u>[New] Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-visual-verve-new-era-of-radeon/"><u>[New] Visual Verve New Era of Radeon</u></a></li>
+<li><a href="https://games-able.techidaily.com/450plus-high-speed-budget-friendly-screen/"><u>$450+ High-Speed, Budget-Friendly Screen</u></a></li>
+<li><a href="https://games-able.techidaily.com/22-quick-web-games-to-play-online-when-youre-bored/"><u>22 Quick Web Games to Play Online When You're Bored</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-look-at-the-most-outstanding-leds/"><u>A Look at the Most Outstanding LEDs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-compelling-channel-names-simplified/"><u>Creating Compelling Channel Names Simplified</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163121690-delve-into-digital-dramas-game-edition/"><u>Delve Into Digital Dramas: Game Edition!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-poco-c51-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Poco C51 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719165125636-nostalgia-unleashed-psp-games-on-iphone/"><u>Nostalgia Unleashed: PSP Games on iPhone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/rapid-solutions-why-your-iphone-isnt-detected-by-windows-1110/"><u>Rapid Solutions: Why Your iPhone Isn't Detected by Windows 11/10</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169788582-the-powerful-advantages-of-using-an-oled-screen-for-2-years/"><u>The Powerful Advantages of Using an OLED Screen for 2 Years!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-roadmap-to-expanding-your-follower-count-on-twitter-tips-and-techniques-inside/"><u>The Ultimate Roadmap to Expanding Your Follower Count on Twitter - Tips & Techniques Inside!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-8-platforms-for-linux-video-buffs-for-2024/"><u>Top 8 Platforms for Linux Video Buffs for 2024</u></a></li>
 </ul></div>
 

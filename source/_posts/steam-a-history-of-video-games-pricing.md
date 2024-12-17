@@ -1,7 +1,7 @@
 ---
 title: "Steam: A History of Video Games Pricing"
-date: 2024-08-31T19:19:34.762Z
-updated: 2024-09-01T19:19:34.762Z
+date: 2024-12-13T20:57:47.941Z
+updated: 2024-12-17T11:05:54.429Z
 tags:
   - games
 categories:
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
 ## Steam: A History of Video Games Pricing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Check a Steam Game's Price History on SteamDB](#how-to-check-a-steam-game-39-s-price-history-on-steamdb)
 * [Why a Game Might Not Have a Price History on Steam](#why-a-game-might-not-have-a-price-history-on-steam)
 * [Other Ways to Check Whether a Game Deal Is Worth It](#other-ways-to-check-whether-a-game-deal-is-worth-it)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,14 +36,6 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 
  Steam doesn't have a built-in way to see a game's price history, but luckily SteamDB offers a way to track this metric. Here's how to use the website so you can figure out if a deal is worth it.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check a Steam Game's Price History on SteamDB
 
 [SteamDB](https://steamdb.info/) is a database website that keeps track of various Steam metrics such as the most played games, trending games, and Steam sales. However, one of its most useful features is the ability to track a game's price history.
@@ -53,8 +53,9 @@ Here's how you can access the price history of a Steam game:
 ![price history for baldurs gate 3 on steamdb](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-for-baldurs-gate-3-on-steamdb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the right side of the page, you can set the currency you want to use. You should also note that the price history does not include the price of a game's DLC. You will have to search for the DLC separately to track its price history.
 
  The chart will also show you the price changes for the game in other currencies, along with the lowest recorded price for the game. In the case of Baldur's Gate 3, the current price is listed as $59.99 and its lowest recorded price was $53.99 (a 10% discount).
@@ -63,14 +64,12 @@ Here's how you can access the price history of a Steam game:
 
 ![price history chart timeline for bg3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/price-history-chart-timeline-for-bg3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Players will also be able to check if a price has increased since launch. You'll see this most often with games that were in Early Access or that had a launch sale, but is also helps you avoid price gouging.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why a Game Might Not Have a Price History on Steam
 
  Occasionally, you may come across a game that has no price history. This usually applies to free-to-play games like Dota 2.
@@ -78,13 +77,9 @@ Here's how you can access the price history of a Steam game:
  For games like PUBG: Battlegrounds, the current price is listed as N/A. This is because while the game was previously paid for, it has since moved to free-to-play.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Check Whether a Game Deal Is Worth It
 
  There are other websites that focus on tracking the price history of Steam games. For example,[GG.Deals](https://gg.deals/) focuses on highlighting games with historical lows on Steam as well as other storefronts.
@@ -97,14 +92,11 @@ Here's how you can access the price history of a Steam game:
 
  Now you have all the tools you need to check whether a sale is offering an actual discount and not simply providing discounts on price-gouged games. Hopefully this will help you find the best discount possible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +105,20 @@ Here's how you can access the price history of a Steam game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-pointing-devices-a-step-by-step-tutorial-for-the-control-panel-tech-by-yl-software/"><u>Adjusting Your Pointing Devices: A Step-by-Step Tutorial for the Control Panel - Tech by YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/are-earnings-linked-to-assessing-merchandise-in-2024/"><u>Are Earnings Linked to Assessing Merchandise, In 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensively-overcoming-disconnected-joy-cons-in-switch/"><u>Comprehensively Overcoming Disconnected Joy-Cons in Switch</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/download-and-store-linkedin-videos-the-ultimate-list-of-6-essential-apps/"><u>Download & Store LinkedIn Videos The Ultimate List of 6 Essential Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-laserjet-m506-printer-drivers-latest-version-and-downloads/"><u>Free HP LaserJet M506 Printer Drivers: Latest Version and Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-s23-lock-screen-password-by-drfone-android/"><u>How To Change Itel S23 Lock Screen Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-15-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 15 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-compre-written-explanation-easy-hdr-understanding/"><u>In 2024, Compre Written Explanation Easy HDR Understanding</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-efficiency-how-to-document-your-google-collaborations/"><u>In 2024, Unlocking Efficiency How to Document Your GooGle Collaborations</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-content-file-lock-error-from-windows-steam-account/"><u>Removing Content File Lock Error From Windows Steam Account</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-blueprint-mastering-the-art-of-finding-cheap-games-online/"><u>The Gamer's Blueprint: Mastering the Art of Finding Cheap Games Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pros-and-cons-of-mobile-gaming/"><u>The Pros and Cons of Mobile Gaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/vibrant-discourse-evaluation-ver-8/"><u>Vibrant Discourse Evaluation - Ver. 8</u></a></li>
+</ul></div>
 

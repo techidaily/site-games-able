@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate WW2 Command Center: 11 Game Reviews"
-date: 2024-08-31T19:24:48.773Z
-updated: 2024-09-01T19:24:48.773Z
+date: 2024-12-10T02:07:02.503Z
+updated: 2024-12-17T09:38:24.981Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
  WW2 strategy games provide some of the best experiences in the genre. They require you to think tactically as you lead your troops into battle and hopefully toward victory. And they all help immerse you in World War II.
 
  From squad-based combat to continental-scale strategy, you can step into some of the most famous battles of all time to test your strategic mettle. Here are the best WW2 strategy games, both old and new, that are worth playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3. Hearts of Iron IV
 
  Instead of controlling individual units, Hearts of Iron IV puts you in command of the highest-level strategy in the war. You develop technology, build and outfit armies, control forces on land, sea, and air, and launch invasions that will change the tide of the war.
@@ -43,9 +51,9 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4. Order of Battle: World War II
 
  Order of Battle: World War II may seem like a free-to-play game, but you actually buy each campaign individually. It's very expensive if you buy them all, so instead it's better to pick and choose from those that interest you the most.
@@ -54,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5. Panzer Corps 2
 
  Panzer Corps is a beloved WW2 strategy game, and this sequel takes what worked in the original and improves upon it.
@@ -64,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
  According to the developers, no other game has as many authentic World War II vehicles. There are over 1,000 unique units, each modeled with incredible detail and realistic animations. You can take charge of them in the single-player campaign or online.
 
  Once you're done with the game's main content, you can use the powerful scenario editor to build your own campaigns and maps with ease. Panzer Corps 2 is so deep that you may never need to buy another WW2 game again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6. Codename: Panzers
 
@@ -73,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7. War in the East
 
  War in the East is a different type of WW2 strategy game. It descends from a long line of tabletop war games, and it shows; it captures the look of cardboard pieces on paper maps.
@@ -81,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  Beyond combat, you also manage production, supply lines, weather, and fog of war effects. This is a complicated, challenging strategy game that you can sink hundreds of hours into.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 8. Men of War: Assault Squad 2
 
  If you're looking for a WW2 strategy game that has a lot to offer, you can't go wrong with Assault Squad 2\. It's a top-down real-time strategy game that lets you control every unit in your squad. 200 soldiers with unique loadouts, 250 vehicles, and five different factions make for a huge amount of variety.
@@ -92,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 9. Sudden Strike 4
 
  There's one thing that sets Sudden Strike 4 apart from many of its contemporaries: it's one of the few WW2 strategy games available on PS4 and Xbox One, as well as on PC.
@@ -111,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 11. Close Combat
 
  The Close Combat series began in 1996 and still exists to this day as a mixture of remakes and originals. It's a top-down strategy series that puts the focus on realism. Your troops have changing mental and physical conditions, you need to scavenge for ammunition, and a troop's experience on the battlefield impacts how they react to a situation.
@@ -123,23 +126,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Don't let the old-school graphics put you off; it's the gameplay that matters. This is an immersive strategy game series that will suck you in for hours.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You Can Also Play Strategy Games in Your Browser
 
  These aren't the only World War II strategy games out there, but they are some of the best. Whether you're looking for tactical, operational, or grand scale battles, you'll find what you're looking for in the WW2 strategy games above.
 
  If you don't fancy buying a game right now, or just want something to dip into wherever you are, consider exploring strategy games available free via your browser.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +145,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-viewing-habits-the-ultimate-guide-to-youtube-save-and-playlists/"><u>[New] 2024 Approved Optimizing Viewing Habits The Ultimate Guide to YouTube Save and Playlists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[New] Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-your-system-resources-5-ways-to-curb-steams-ram-usage/"><u>Control Your System Resources - 5 Ways to Curb Steam's RAM Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-nyt-political-ties/"><u>Demystifying NYT Political Ties</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-zlibdll-not-detected-issue-on-your-computer-step-by-step/"><u>Fixing the zlib.dll Not Detected Issue on Your Computer Step-by-Step</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-one-arm-wonders-keeping-photos-steady/"><u>In 2024, One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-quickcapture-pro-efficient-win11-video-recorder/"><u>In 2024, QuickCapture Pro - Efficient Win11 Video Recorder</u></a></li>
+<li><a href="https://games-able.techidaily.com/seven-spectacular-mobile-mmo-adventures-await/"><u>Seven Spectacular Mobile MMO Adventures Await</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplify-multitasking-with-picture-in-picture-feature-ios-for-2024/"><u>Simplify Multitasking with Picture in Picture Feature (iOS) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-gamepad-inputs-from-console-to-pc-156-chars/"><u>Streamlining Gamepad Inputs From Console to PC (156 Chars)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-y100-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo Y100 Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-ultrawide-tech-for-next-level-graphics-performance/"><u>Top Ultrawide Tech for Next-Level Graphics Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/total-kinetic-analysis-exploration/"><u>Total Kinetic Analysis Exploration</u></a></li>
+<li><a href="https://games-able.techidaily.com/translate-your-rom-with-ease-fan-patch-guide/"><u>Translate Your ROM with Ease - Fan Patch Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unexpected-gems-20plus-attractive-games-perfect-for-low-end-diy-potato-computers/"><u>Unexpected Gems: 20+ Attractive Games Perfect for Low-End, DIY Potato Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-your-gameplay-screams-for-an-oled-display/"><u>Why Your Gameplay Screams for an OLED Display</u></a></li>
+</ul></div>
 

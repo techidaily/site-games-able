@@ -1,7 +1,7 @@
 ---
 title: "Early Access: Pay Upfront or Wait for Launch?"
-date: 2024-08-31T19:21:02.883Z
-updated: 2024-09-01T19:21:02.883Z
+date: 2024-12-15T18:27:58.422Z
+updated: 2024-12-17T10:37:24.949Z
 tags:
   - games
 categories:
@@ -34,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 
  Early access games are abundant in the industry. While many are fun and absolutely worth your money, they come with some drawbacks that could prevent you from enjoying your time completely.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is Early Access?
 
 ![Early Access section on Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/early-access-section-on-steam-game.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -62,8 +63,9 @@ Jhet Borja/MakeUseOf
  Dinkum has grown to be an awesome game and it is partially thanks to early access. It not only gained funding, but also real player testing and feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Con: The Game Might Be in Early Access Limbo
 
  Some games take forever to reach their official release stage. BeamNG.drive is one example that's been in early access since 2015\. Of course, the game has transformed so much since its early days that it's starting to be recognized as one of the best rally simulators, but the game itself is still very reliant on community-created mods, maps, cars, and plugins.
@@ -76,16 +78,14 @@ Jhet Borja/MakeUseOf
 
 ![valheim store page on steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/valheim-store-page-on-steam.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Valheim was released in a pretty early state. While you were able to complete the game, there were many features that the developers still wanted to implement. The building mechanics were frustrating and limiting, and the spider biome was still completely empty. My friends and I also faced frequent crashes and connection issues despite having no connection issues on any of our computers.
 
  Despite those issues, it was still a wonderfully fun game that we put 90 hours into within just a week and we only looked forward to how the game would improve over time.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pro: Early Access Games Are Usually Cheaper
 
  While it’s not always the case, there have been many times where early access prices are lower than the release price.
@@ -96,22 +96,20 @@ Jhet Borja/MakeUseOf
 
  Thankfully[Steam refunds are pretty easy to do](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) ; so long as your playtime is less than 2 hours or you’ve owned the game for less than 14 days, you can refund it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Con: Incomplete Story/World/Mechanics
 
 ![Wide view of Palworld world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/wide-view-of-palworld-world.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  If the game was ready to go, it wouldn’t be in early access now would it? You’re very likely to experience many features missing, from plots, places, or even whole mechanics.
 
  Palworld is a great example of that. It was released and became a massive success, but only had the bare essentials. There were just a few small islands to roam around, repetitive elements, missing bosses, and a lot of in-progress features.
 
  You’re often left waiting until the updates roll out to get more of what you were promised. This is usually why games like Palworld have a very steep drop in player count after a few weeks. Without many of the features that would’ve kept players busy and having fun, it’s easy to feel like there’s nothing more to the game except waiting for future updates.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Pro: Experiencing the Game’s Transformation
 
  While you should know that you’re paying for something that’s incomplete, it should still be worth it if you enjoy it.
@@ -119,6 +117,10 @@ Jhet Borja/MakeUseOf
  It’s always very exciting to hear about a huge update coming to the games you enjoy, adding whole new ways to play the game, story progression, or even whole new worlds. It’s almost as if you’re getting a new game without needing to pay anymore. It’s also partially thanks to your purchase and contribution that the game is able to progress.
 
  Rust, Valheim, BeamNG.drive, Baldur’s Gate 3, and other games have transformed so much since their first early access release. Of course, games can still drastically change over time even after official release, but when it comes to early access, you get to see that on a faster time scale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Con: The Game May Become Unrecognizable
 
@@ -136,14 +138,11 @@ Jhet Borja/MakeUseOf
 
  With more and more games opting to go early access, you should always keep in mind if it’s worth its price or not. Ask yourself if you would pay the amount they’re asking for despite the game not being in its best state, whether it’s worth waiting for those updates, or if you can afford to lose what you spent. What matters the most is that you enjoy what you paid for.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +151,19 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-dashboard-directions-entering-google-meet-pcmobile/"><u>[New] 2024 Approved Dashboard Directions Entering Google Meet (PC/Mobile)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unearthing-the-best-storytelling-channels-yearly-roundup/"><u>[Updated] Unearthing the Best Storytelling Channels Yearly Roundup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/electric-car-versatility-can-you-use-any-level-1-or-2-charger-for-your-model/"><u>Electric Car Versatility: Can You Use Any Level 1 or 2 Charger for Your Model?</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-ready-to-play-chatgpt-introduces-its-6-intense-games/"><u>Get Ready To Play: ChatGPT Introduces Its 6 Intense Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-a79-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo A79 5G? Try These Fixes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-stock-photos-without-watermarks-a-guide/"><u>In 2024, Stock Photos Without Watermarks – A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-users-guide-to-unlimited-discord-time/"><u>Opera Users' Guide to Unlimited Discord Time</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-stock-stabilized-expecting-pricing-changes/"><u>PS5 Stock Stabilized: Expecting Pricing Changes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pushing-videography-to-new-heights-with-the-1j5-camera-for-2024/"><u>Pushing Videography to New Heights with the 1J5 Camera for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/quicken-gameplay-quality-fixing-low-windows-fps/"><u>Quicken Gameplay Quality: Fixing Low Window's FPS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/radiance-and-refine-essential-editing-secrets-revealed/"><u>Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-xbox-case-purpose/"><u>Unveiling The Xbox Case Purpose</u></a></li>
+</ul></div>
 

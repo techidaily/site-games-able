@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Companion for Steam Decks: Our Choice of 9 Emulators"
-date: 2024-12-09T00:08:17.633Z
-updated: 2024-12-11T04:55:44.864Z
+date: 2024-12-10T18:01:34.727Z
+updated: 2024-12-16T17:33:58.951Z
 tags:
   - games
 categories:
@@ -27,37 +27,25 @@ Let's have a look at the nine best emulators for the Steam Deck.
 
 ![screenshot of the dolphin emulator in the steam deck ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_dolphin_emulator_steamdeck_ui.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Emulation of the sixth and seventh console generations is a treat on the Steam Deck, with its power easily being able to comfortably run any game you can think of from this time. So, Dolphin, the Wii and GameCube emulator, is a must-have.
 
  With minimal setup, GameCube games can be run at higher resolutions and higher frame rates. With a little elbow grease, the motion-dependent library of the Wii can be accessed with a combination of trackpad controls and gyro use. Dolphin should be one of the first stops you make with a new Steam Deck.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2. Cemu
 
 ![screenshot of cemu emulator in the steam deck ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_cemu_emulator_steamdeck_ui.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The next stop is another Nintendo console. Cemu is your answer to running Wii U games on your Steam Deck. This is also the best emulator solution to run Breath of the Wild, a popular emulation choice for the Steam Deck.
 
  Rather than trying to emulate the much more challenging Switch, consider that some of the Switch's biggest titles were originally on the Wii U, which makes Cemu an extremely attractive offering for performance-mindful players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3. PCSX2
 
 ![screenshot of pcsx2 emulator running on steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_pcsx2_emulator_steamdeck.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Breaking away from the Nintendo consoles, PCSX2 is a tried and true PlayStation 2 emulator. In terms of performance, the Steam Deck has no problem meeting the demands of PS2-era games.
 
@@ -78,7 +66,7 @@ Let's have a look at the nine best emulators for the Steam Deck.
 ![screenshot of melonds steam deck ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_melonds_emulator_steamdeck.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Why not add in another classic handheld while we're at it? MelonDS aims to bring fast and accurate emulation for the original DS.
@@ -97,13 +85,25 @@ Let's have a look at the nine best emulators for the Steam Deck.
 
  This is another console with a broad library, so picking it up is a must.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7. mGBA
 
 ![screenshot of the mgba emulator in the steam deck ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_mgba_emulator_steamdeck_ui.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  mGBA will be your answer to emulating anything from the Game Boy library. Not just the original Game Boy, but every Game Boy game up to the Game Boy Advance.
 
  These games will look a little chunky being blown up on the Steam Deck screen, but you'll have access to customization options to tweak to your liking. mGBA is a great addition to any growing emulation library, and feels right at home on the Steam Deck.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8. Ryujinx
 
@@ -117,10 +117,6 @@ Let's have a look at the nine best emulators for the Steam Deck.
 
  Between the two of these emulators, you'll likely be able to run a huge chunk of the Switch library. Just adjust your expectations, and get acquainted with[common Steam Deck optimization methods](https://www.makeuseof.com/how-to-optimize-steam-deck/) that will improve performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9. MAME
 
 ![screenshot of the MAME emulator running on steam deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_mame_emulator_steamdeck.jpg)
@@ -131,13 +127,13 @@ Let's have a look at the nine best emulators for the Steam Deck.
 
  Control configuration is going to be one of the biggest issues with MAME on the Deck. Thankfully, the Deck boasts an impressive amount of configurable buttons and touchpads. If there's a will, there will be a way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get EmuDeck
 
 ![screenshot of emulators listed in steam deck ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot_of_emulators_listed_in_steamdeck_ui.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With all of the above emulators in mind, we have access to a decent chunk of gaming history. Keep in mind that you'll want to get the Linux versions of these emulators, unless you've installed Windows onto your Steam Deck.
 
@@ -148,6 +144,10 @@ Let's have a look at the nine best emulators for the Steam Deck.
  It's highly recommended you consider EmuDeck if you're looking to easily set these emulators up. For users who aren't very familiar with Desktop Mode, it's almost a must.
 
  Another reason EmuDeck is important is its ability to convert ROMs directly into gaming mode-compatible shortcuts. You'll want to do this to avoid switching into Desktop Mode whenever you'd like to play.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Steam Deck Is for More Than Just PC Games
 
@@ -170,21 +170,17 @@ Let's have a look at the nine best emulators for the Steam Deck.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-tips-for-producing-compelling-podcast-introductions/"><u>[New] 2024 Approved Tips for Producing Compelling Podcast Introductions</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-fresh-take-on-frigidity-crafting-inviting-backdrops/"><u>[New] A Fresh Take on Frigidity Crafting Inviting Backdrops</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-real-time-capture-from-obs-to-instagram/"><u>[New] Real-Time Capture From OBS to Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-list-of-10-invisible-stories-watchers-for-2024/"><u>[Updated] List of 10 Invisible Stories Watchers for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1-protegez-votre-ssd-sans-cout-logiciel-de-sauvegarde-innovant-et-eprouve-pour-2024/"><u>1. Protégez Votre SSD Sans Coût : Logiciel De Sauvegarde Innovant Et Éprouvé Pour 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-high-speed-top-8-screenshots-compilation/"><u>2024 Approved High-Speed Top 8 Screenshots Compilation</u></a></li>
-<li><a href="https://win11.techidaily.com/ceasing-others-use-of-your-camera-windows-error-code-0xa00f4243/"><u>Ceasing Others' Use of Your Camera: Windows Error Code 0xA00F4243</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-deeper-into-gaming-with-xbox-game-pass-ultimate/"><u>Dive Deeper Into Gaming With Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-use-of-obs-studio-for-android-devices-for-2024/"><u>Efficient Use of OBS Studio for Android Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/illuminating-the-future-top-leds/"><u>Illuminating the Future: Top LEDs</u></a></li>
-<li><a href="https://games-able.techidaily.com/learn-from-errors-choose-the-ideal-oled-screen/"><u>Learn From Errors, Choose the Ideal OLED Screen</u></a></li>
-<li><a href="https://discover-data.techidaily.com/live-file-syncing-across-windows-versions-how-to-achieve-real-time-data-convergence/"><u>Live File Syncing Across Windows Versions – How to Achieve Real-Time Data Convergence</u></a></li>
-<li><a href="https://games-able.techidaily.com/precision-tracking-top-logitech-mouse/"><u>Precision Tracking: Top Logitech Mouse</u></a></li>
-<li><a href="https://games-able.techidaily.com/reinstate-vanished-wordle-streak-with-ease/"><u>Reinstate Vanished Wordle Streak with Ease</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-storage-management-for-offsite-playback/"><u>Steam Storage Management for Offsite Playback</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackle-game-pass-increase-efficient-temporary-fixes/"><u>Tackle Game Pass Increase – Efficient, Temporary Fixes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch/"><u>[New] Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/1728466054143-ziprar5/"><u>「ZipまたはRAR形式の破損、消失、削除されたデータを回復する方法5つ」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-guidelines-for-ai-integration-in-writing-and-curation/"><u>7 Guidelines for AI Integration in Writing and Curation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/accelerated-learning-for-chromakey-artistry/"><u>Accelerated Learning for Chromakey Artistry</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/engaging-users-with-instagrams-interactive-survey-feature/"><u>Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-lost-location-pokemon-go-fix-guide/"><u>Finding Lost Location: Pokémon GO Fix Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-digital-signature-for-pdf-v14-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free digital signature for PDF v1.4 document</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnect-your-controller-windows-xpxbox-failsafe/"><u>Reconnect Your Controller: Windows XPXbox Failsafe</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-storage-shift-clone-your-deck-with-precision/"><u>Seamless Storage Shift: Clone Your Deck with Precision</u></a></li>
+<li><a href="https://games-able.techidaily.com/will-amds-new-fsr-3-overtake-nvidias-advanced-dlss-tech/"><u>Will AMD's New FSR 3 Overtake NVIDIA’s Advanced DLSS Tech?</u></a></li>
 </ul></div>
 

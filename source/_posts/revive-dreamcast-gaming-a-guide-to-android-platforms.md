@@ -1,7 +1,7 @@
 ---
 title: "Revive Dreamcast Gaming: A Guide to Android Platforms"
-date: 2024-10-20T00:45:58.308Z
-updated: 2024-10-25T05:13:00.737Z
+date: 2024-12-11T22:57:03.514Z
+updated: 2024-12-17T05:55:43.206Z
 tags:
   - games
 categories:
@@ -50,6 +50,10 @@ To create a folder for your Dreamcast games and the BIOS file:
 
  ROM files in a .CHD, .ISO, or in a folder with a few .bin files and one .cue file are also compatible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 2: Move the ROM Files and dc\_boot.bin to the ROM Folder
 
  Next, get the dc\_boot.bin file and the ROM files (the games) onto your device. You have several choices to do this. You can download the files directly to your phone from your mobile browser, download them to your computer and[move the files from your laptop to your phone](https://www.makeuseof.com/tag/5-ways-to-get-data-from-your-desktop-to-your-android/) , or upload them to a cloud service to transfer to your Android device.
@@ -62,6 +66,10 @@ Once you've downloaded the files, move them to your ROMs folder.
 
  If you copy the files from a laptop via USB, you can move them directly into your ROMs folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 3: Unzip the ROM Files
 
  If your ROM files are zipped, you'll need to unzip and extract them into your ROMs folder. To do that, first, install the app[RAR](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.rarlab.rar) to your device. Open it and be sure to select**Allow access to manage all files** when prompted.
@@ -70,25 +78,23 @@ Once you've downloaded the files, move them to your ROMs folder.
 
 ![Browsing for folder in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/browse-for-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Extracting a .7zip file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extraction-rar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Unzipped the Shenmue ROM file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-shenmue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Deal With Duplicate File Names
 
@@ -102,13 +108,6 @@ Close
 
  By Flycast, we are referring to "Flycast Libretro" (an upstream of the discontinued Flycast Sega Dreamcast emulator).
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Redream on Android
 
 [Redream](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=io.recompiled.redream) is the easiest emulator to set up—for starters, you can download it directly from Google Play. Install and open the app, then select**CONTINUE IN LITE MODE** unless you want to upgrade to premium. To play Sega Dreamcast games on your Android device, you can play for free.
@@ -116,13 +115,6 @@ Close
  To add your games, select **Go to Library > Add Directory > ROMs > Sega Dreamcast > Use this folder > Allow > Games** . Now you will see your library. Tap the image of the game you want to play.
 
 ![Library in Redream](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/redream-library-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hang tight while the game loads (it'll only take a few seconds). As long as none of the files in the ROM file are corrupted, the game will automatically load. Redream makes it super easy to change the button layout via the settings to something that works better for you.
 
@@ -137,13 +129,6 @@ Close
  Go to[Flycast's recent builds page](https://flyinghead.github.io/flycast-builds/) on your Android device. You'll see bunches of different downloads for various platforms. You're only interested in the Android column under**Master** as these are the most stable Android releases yet available. The downloads are categorized from the newest builds to the oldest: download the newest.
 
 ![Highlighted Android builds of Flycast Libretro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/flycast-builds-android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you've downloaded the Flycast APK file open Files by Google and navigate to**Downloads > flycast-release.apk > Install** to install it. To set up the app:
 
@@ -166,24 +151,15 @@ Finally, set the Home directory. To do that:
 
  Flycast allows you to go deep into the settings. You can emulate virtually every peripheral to be released for the Dreamcast. From light guns and maracas to even the Ethernet Broadband Adapter only released in Japan.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Optional: Use a Bluetooth Controller to Play Sega Dreamcast Games
 
  You can[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) , but you have to set it to the mode appropriate for your platform and connect it using that mode's specific combination.
 
 ![Different controller modes on 8Bitdo Pro2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/8bitdopro2-modes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the 8BitDo Pro2, above, notice the lettering in panel three: S, A, X, and D. The**X** and**D** are for connecting via XInput and DirectInput (DInput), respectively, while the**S** is for the Switch. You're only interested in the**A** : which stands for Android.
 
@@ -208,20 +184,18 @@ Finally, set the Home directory. To do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-essential-iospc-video-changers-the-ultimate-list-for-2024/"><u>[New] Essential iOS/PC Video Changers The Ultimate List for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-delving-into-youtubes-complex-calculation-of-viewer-stats/"><u>[Updated] Delving Into YouTube's Complex Calculation of Viewer Stats</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perfecting-obs-output-common-fixes-explored/"><u>[Updated] In 2024, Perfecting OBS Output Common Fixes Explored</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-seamless-online-video-capture-hub-for-2024/"><u>[Updated] Seamless Online Video Capture Hub for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/conquer-cognitive-chaos-with-these-5-challenging-charters/"><u>Conquer Cognitive Chaos with These 5 Challenging Charters</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/discover-the-best-no-cost-substitute-for-realdownloader-on-macos-and-windows-systems/"><u>Discover the Best No-Cost Substitute for RealDownloader on macOS & Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-gaming-monitors-with-peak-refresh-rates/"><u>Economical Gaming Monitors With Peak Refresh Rates</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
-<li><a href="https://games-able.techidaily.com/leveraging-graphics-cards-for-dynamic-playback-savings/"><u>Leveraging Graphics Cards for Dynamic Playback Savings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-life-enhancement-through-ai-leveraging-chatgpt-for-optimal-living/"><u>Mastering Life Enhancement Through AI: Leveraging ChatGPT for Optimal Living</u></a></li>
-<li><a href="https://games-able.techidaily.com/protecting-your-games-top-cartridge-holders-for-switch-in-24/"><u>Protecting Your Games: Top Cartridge Holders for Switch in '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/regain-lost-wordle-streaks-on-mobile-apps/"><u>Regain Lost Wordle Streaks on Mobile Apps</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-relationships-post-gaming-overload/"><u>Reviving Relationships Post-Gaming Overload</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/trouble-with-tablet-to-printer-connection-how-to-fix-when-your-ipad-wont-connect/"><u>Trouble with Tablet-to-Printer Connection: How to Fix When Your iPad Won't Connect</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-peak-performance-in-valorant-with-effective-fps-solutions-windows-edition/"><u>Unlock Peak Performance in Valorant with Effective FPS Solutions, Windows Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-pushing-the-envelope-on-instagram-larger-videos-explained/"><u>[New] Pushing the Envelope on Instagram Larger Videos Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719163821039-10-hidden-gem-free-mobile-games-pure-fun/"><u>10 Hidden Gem Free Mobile Games - Pure Fun</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-joy-journeys-a-curated-list-of-the-best-humor-vids-online/"><u>2024 Approved Joy Journeys A Curated List of the Best Humor Vids Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-at-searching-spotting-individuals-in-steam/"><u>Ace at Searching: Spotting Individuals in Steam</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/edit-like-a-pro-on-macos-or-linux-using-free-darktable-your-ultimate-raw-photo-conversion-toolkit-online/"><u>Edit Like a Pro on macOS or Linux Using Free Darktable: Your Ultimate Raw Photo Conversion Toolkit Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-ultrahd-pixel-rich-gaming-mouse-collection/"><u>Elite UltraHD, Pixel Rich Gaming Mouse Collection</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-showdown-which-one-crushes-it-on-raspberry-pi/"><u>Emulator Showdown: Which One Crushes It on Raspberry Pi?</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-and-furious-games-boost-your-windows-fps/"><u>Fast and Furious Games: Boost Your Windows FPS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 11F 5G FRP Bypass</u></a></li>
+<li><a href="https://games-able.techidaily.com/prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/streamline-windows-11-high-res-settings/"><u>Streamline Windows 11 High-Res Settings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/windows-mouse-configuration-made-easy-expert-advice-and-customization-techniques-by-yl-computing/"><u>Windows Mouse Configuration Made Easy: Expert Advice & Customization Techniques by YL Computing</u></a></li>
 </ul></div>
 

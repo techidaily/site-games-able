@@ -1,7 +1,7 @@
 ---
 title: "Older Titles: Can They Run on New Sony Console?"
-date: 2024-08-31T19:21:57.712Z
-updated: 2024-09-01T19:21:57.712Z
+date: 2024-12-16T07:00:23.475Z
+updated: 2024-12-17T09:37:07.735Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
 
  Thus, you might wonder if you can play PS3 games on the PS4\. Let's answer this question and examine your options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can the PS4 Play PS3 Games?
 
  The short answer is **no, the PlayStation 4 is not backward-compatible with PlayStation 3 games** . Inserting a PS3 disc into the PS4 will not work. And you cannot download digital versions of PS3 games from the PlayStation Store onto your PlayStation 4\. This is the case with all editions of the PS4, including the slim PS4 and PS4 Pro.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
  This leaves the PS4 only able to play PS4 games. So you know, the PS4 can't play PS2 or original PlayStation discs, either.
 
  Thankfully, there are other ways to play PS3 titles on your PS4, even without native backward compatibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stream PS3 Titles on PS4 via PlayStation Plus Premium
 
@@ -41,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/747b49f807ccf9f14c19b340ff456a78dd6771bea
  See our[overview of PlayStation Plus](https://www.makeuseof.com/what-is-playstation-plus/) for more information. Be aware that in regions where game streaming is not available (including Australia, Brazil, India, Mexico, and many other countries) PS Plus Premium is instead called PlayStation Plus Deluxe. If you live in one of these countries, you can't access PS3 games on the service.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Remasters and Remakes of PS3 Games
 
  Due to the huge number of[video game remasters and remakes](https://www.makeuseof.com/video-game-ports-remakes-remasters-reboots/) that launch these days, you can often enjoy games that were made for older systems with a fresh coat of paint on a current console. Sometimes, these appear in compilations, so you get multiple games from a series in one package.
@@ -56,8 +65,9 @@ Below are a few examples of PS3 games you can play remastered on PS4:
  While you're technically playing a PS4 game and not a PS3 title, these are effectively the same games with some small enhancements. If you missed out on the best of the PS3 generation but have a PS4, give these a try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Cross-Buy and Cross-Gen Offers
 
  The only other way to play PS3 titles on your PS4 is through cross-buy promotions. These give you access to a game on multiple systems when you buy it on one. For example, if you bought Doki-Doki Universe on PS3, you automatically have access to the PS4 version at no extra cost.
@@ -67,22 +77,20 @@ Below are a few examples of PS3 games you can play remastered on PS4:
  Check your game library on PS4 to see if you have access to any of these. Any codes have probably expired by now, but digital offers could still be valid.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Workarounds to Play Your Favorite PS3 Games on PS4
 
  While PS3 games don't work on PS4 directly, we've seen how to enjoy PS3 titles on your PS4 through other methods. Whether you subscribe to PS Plus Premium or check out the many remasters available, you'll find a way to play many of the PS3's top games on your PS4.
 
  Thankfully, the PS5 is backward-compatible with almost all PS4 games. However, it still can't play PS3 titles natively.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -91,4 +99,20 @@ Below are a few examples of PS3 games you can play remastered on PS4:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-amplifying-audio-on-social-media-video-tweets/"><u>[New] Amplifying Audio on Social Media Video Tweets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-analyzing-why-youtube-features-specific-comments/"><u>[New] In 2024, Analyzing Why YouTube Features Specific Comments</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-eliminating-errors-utilizing-photoshops-eraser-feature/"><u>[Updated] Eliminating Errors Utilizing Photoshop's Eraser Feature</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-detect-if-someone-has-muted-or-blocked-you-on-snapchat/"><u>[Updated] In 2024, How to Detect If Someone Has Muted or Blocked You on Snapchat</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-instant-video-visionary-for-2024/"><u>[Updated] Instant Video Visionary for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-frame-rate-165hz-monitors/"><u>Elite Frame Rate 165Hz Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-merger-xbox-live-gold-and-game-pass/"><u>Navigating the Merger: Xbox Live Gold and Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5-controlling-ps4-possible-or-not/"><u>PS5 Controlling PS4: Possible or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivating-purchased-games-on-ps5-console/"><u>Reactivating Purchased Games on PS5 Console</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317459-9781401951368-the-power-of-love/"><u>The Power of Love | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-unwanted-game-follow-this-guide-for-xbox-returns/"><u>The Unwanted Game? Follow This Guide for Xbox Returns</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-itel-p55-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Itel P55 5G FRP</u></a></li>
+<li><a href="https://games-able.techidaily.com/visual-beats-integrating-tablets-into-games/"><u>Visual Beats: Integrating Tablets Into Games</u></a></li>
+</ul></div>
 

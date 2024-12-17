@@ -1,7 +1,7 @@
 ---
 title: "Premium Games: Can MTs Be Justified?"
-date: 2024-12-06T06:48:07.172Z
-updated: 2024-12-11T02:56:19.736Z
+date: 2024-12-12T04:09:30.668Z
+updated: 2024-12-17T07:25:56.630Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/d9925e82a959f50569bbd42483d903b11385c17bd
 But what about premium games? Should they have microtransactions?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Microtransactions Are Appearing in Premium Games
@@ -69,10 +73,6 @@ But what about premium games? Should they have microtransactions?
 
  Many other publicly traded game developers have followed suit, releasing full-fledged premium games with $60 or more price tags, trying to make extra money from their releases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are Microtransactions Good for the Gaming Industry?
 
  On the surface, more money in an industry is always a good thing. It allows companies to have bigger budgets to research and develop better games, and it allows better marketing to introduce the products to diverse audiences.
@@ -80,10 +80,6 @@ But what about premium games? Should they have microtransactions?
  Also, without microtransactions, free games would not exist or would have little to no support. In that sense, microtransactions can be positive since they give gamers an opportunity to support the industry. But if we’re being honest, putting them in a game you’ve already paid for in full doesn’t help anybody but the company.
 
  Some might argue that it’s not doing any harm, and microtransactions in premium games aren’t compulsory; they offer only cosmetic changes. The problem, though, is that when you give a profit-driven company that kind of access, it’s almost always exploited to the consumer’s detriment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Paying More to Experience Less
 
@@ -93,13 +89,13 @@ But what about premium games? Should they have microtransactions?
 
  Apart from the inherent gambling nature of loot boxes, as a creator and an artist, doesn’t it feel fundamentally wrong to offer people a way to pay to experience less of your creation? It gives people the idea that your game is a chore, which shouldn’t be the case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bloat and Battle Passes
 
 ![Assassin's Creed Origins Season Pass for sale on Ubisoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/assassin-s-creed-origins-season-pass-for-sale-on-ubisoft-website.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Another way you can tell microtransactions don’t have a place in premium games is that they only worm their way into established franchises. Ubisoft is a good example of this, seeing as it has added seasonal passes to many titles in their (mostly) offline single-player adventure series, Assassin’s Creed.
 
@@ -111,6 +107,10 @@ But what about premium games? Should they have microtransactions?
 
  Additionally, these games end up being bloated, as content you’ve bought, downloaded, and installed is locked behind an additional paywall. This will cost the paying player more internet bills for content they will likely never get to experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A Dishonest Means of Collecting More Money
 
  If a role-playing game was listed for only $40 and you bought it, only to play it and discover that the hero class you would have loved to play is locked behind an additional $10 paywall—how would you feel? Cheated? That’s because you were.
@@ -120,7 +120,7 @@ But what about premium games? Should they have microtransactions?
 ![Diablo III selling necromancer class as extra content](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/diablo-iii-selling-necromancer-class-as-extra-content.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once again, Blizzard makes an appearance. Diablo III costs $19.99, and the Necromancer expansion costs $14.99\. It’s unfair that a separate expansion pack that pretty much adds only a class is worth almost as much as the base game. That means Blizzard is fairly confident that the necromancer class is the sole reason some people want to play the game. Yet, it’s not included as part of the standard offer.
@@ -146,21 +146,22 @@ But what about premium games? Should they have microtransactions?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-deciphering-youtubes-shorts-funding-mechanism/"><u>[New] 2024 Approved Deciphering YouTube's Shorts Funding Mechanism</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/enerate-interest-making-your-own-youtube-intros-for-2024/"><u>[New] Generate Interest Making Your Own YouTube Intros for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-facing-the-falls-top-action-cameras-2023/"><u>[Updated] 2024 Approved Facing the Falls Top Action Cameras 2023</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-ultimate-guide-to-free-online-video-tools-for-all/"><u>[Updated] 2024 Approved The Ultimate Guide to Free Online Video Tools for All</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-apex-level-clarity-convert-high-res-videos-for-2024/"><u>[Updated] Apex-Level Clarity Convert High-Res Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-visualize-images-mastering-photo-editing-tools/"><u>[Updated] In 2024, Visualize Images Mastering Photo Editing Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/easy-fixes-for-elusive-steam-application-accessibility/"><u>Easy Fixes for Elusive Steam Application Accessibility</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y77t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo Y77t to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/ifa-showcase-spotlight-lenovo-legion-gos-edge/"><u>IFA Showcase Spotlight: Lenovo Legion Go's Edge</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-groupwatcher-pro-hd-downloader/"><u>In 2024, GroupWatcher Pro HD Downloader</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-top-10-must-have-accessories-for-sj4000/"><u>In 2024, Top 10 Must Have Accessories for SJ4000</u></a></li>
-<li><a href="https://games-able.techidaily.com/infinite-options-universal-game-availability/"><u>Infinite Options: Universal Game Availability</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-165hz-monitor-selection/"><u>Superior 165Hz Monitor Selection</u></a></li>
-<li><a href="https://games-able.techidaily.com/swift-feet-sweat-play-the-7-top-sports-games-iosandroid/"><u>Swift Feet, Sweat, Play: The 7 Top Sports Games (iOS/Android)</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-gameplay-with-ea-plays-multitude-of-features-on-ps5-console/"><u>Transform Your Gameplay with EA Play's Multitude of Features on PS5 Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwanted-virtual-goods-refunding-your-fortnite-costs/"><u>Unwanted Virtual Goods? Refunding Your Fortnite Costs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-transcribe-live-broadcasts-into-digital-format-for-2024/"><u>[New] How to Transcribe Live Broadcasts Into Digital Format for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-best-flying-toys-for-kids-and-family-fun/"><u>[Updated] 2024 Approved Best Flying Toys for Kids & Family Fun</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-video-discoverability-through-youtube-images/"><u>[Updated] 2024 Approved Enhancing Video Discoverability Through Youtube Images</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-start-join-or-schedule-a-zoom-meeting-android/"><u>[Updated] 2024 Approved How to Start, Join, or Schedule a Zoom Meeting Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vintage-visionary-old-iphone-xx-portraiture-for-2024/"><u>[Updated] Vintage Visionary Old iPhone Xx Portraiture for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-6-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 6 Plus/iPad/iPod</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-twitch-platform-features-and-usage-tips/"><u>Decoding Twitch: Platform Features and Usage Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-playtime-finding-elite-free-steam-games/"><u>Elevate Your Playtime: Finding Elite Free Steam Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-your-switch-sees-the-world-online/"><u>Ensuring Your Switch Sees The World Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/error-403-in-roblox-resolution-guide-for-pc/"><u>Error 403 in Roblox: Resolution Guide for PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-2023s-finest-top-ps3-game-simulations-for-pc-users/"><u>In 2024, 2023'S Finest - Top PS3 Game Simulations for PC Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>In 2024, Extracting YouTube Music Three Secure Ways Without Financial Burden</u></a></li>
+<li><a href="https://games-able.techidaily.com/reconnecting-windows-11-steam-with-online-friends/"><u>Reconnecting Windows 11 Steam with Online Friends</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-to-immersive-viewing-tv-and-playnite-fullscreen-mode/"><u>Switch to Immersive Viewing - TV & Playnite Fullscreen Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/tips-for-streamlining-gaming-setup-steams-external-options/"><u>Tips for Streamlining Gaming Setup: Steam's External Options</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-your-gaming-potential-controlling-with-xbox-on-pc-137-chars/"><u>Unlock Your Gaming Potential: Controlling with Xbox on PC (137 Chars)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-free-32-bit-windows-video-editing-tools/"><u>Updated In 2024, Unleash Your Creativity Free 32-Bit Windows Video Editing Tools</u></a></li>
 </ul></div>
 

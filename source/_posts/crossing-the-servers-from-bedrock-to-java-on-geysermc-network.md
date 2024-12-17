@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Servers: From Bedrock to Java on GeyserMC Network"
-date: 2024-12-04T09:29:31.759Z
-updated: 2024-12-10T16:00:56.200Z
+date: 2024-12-16T06:17:22.151Z
+updated: 2024-12-17T02:06:06.546Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 * [The Limitations of the GeyserMC Mod](#the-limitations-of-the-geysermc-mod)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  Want to enable Minecraft Java crossplay for Bedrock players? Here's what you need to know about letting Bedrock players join Java servers while using the GeyserMC mod!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't Minecraft Bedrock Players Join Minecraft Java Servers Normally?
 
 ![Minecraft Main menu on tablet connected to Steam Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/minecraft-main-menu-on-tablet-connected-to-steam-link-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Jhet Borja/MUO
 
@@ -77,28 +81,24 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Choosing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-minecraft-software-on-aternos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now that you’ve made your server, don’t turn it on yet. First, head to**Software** , then choose**Paper/Bukkit** on the software selection screen.
 
 ![Installing Minecraft Software on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-minecraft-software-on-aternos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the**Install** button to add PaperMC to your server.
 
 ![Choosing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/choosing-geyser-plugin-on-aternos.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, head to**Plugins** . Search for**GeyserMC** and choose**GeyserMC** .
 
 ![Installing Geyser plugin on Aternos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/installing-geyser-plugin-on-aternos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, click on the small download icon to the very right of the most recent or compatible version.
@@ -111,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![MUO Aternos server start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/muo-aternos-server-start-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the main server screen, click**Start** to turn on the server. You can find the server connection details by clicking on**Connect** just below the server name. Copy the IP and port for the next step.
 
 ![Joining Minecraft Java server from Bedrock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/joining-minecraft-java-server-from-bedrock.jpg)
@@ -120,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ![Pasting server IP details on Bedrock Edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/pasting-server-ip-details-on-bedrock-edition.jpg)
 
  Add the server IP and port into the appropriate text boxes and name the server. Click on either**Save** or**Play** . Doing either will add the server to your list of servers in Minecraft Bedrock Edition.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Limitations of the GeyserMC Mod
 
@@ -150,21 +150,14 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-8-platforms-for-linux-video-buffs/"><u>[New] In 2024, Top 8 Platforms for Linux Video Buffs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-fresh-face-finds-budget-friendly-platforms-to-purchase/"><u>[Updated] 2024 Approved Fresh Face Finds Budget-Friendly Platforms to Purchase</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-isnapmaker-ios-and-macos-media-synthesis-tool-for-2024/"><u>[Updated] ISnapMaker IOS & macOS Media Synthesis Tool for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722963328511-comprehensive-startech-usb-to-vga-solution-free-driver-downloads/"><u>Comprehensive StarTech USB-to-VGA Solution - FREE Driver Downloads!</u></a></li>
-<li><a href="https://games-able.techidaily.com/cut-through-the-chaff-identifying-authentic-gaming-ads/"><u>Cut Through the Chaff: Identifying Authentic Gaming Ads</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discerning-genuine-from-fabricated-online-friendship-overtures/"><u>Discerning Genuine From Fabricated Online Friendship Overtures</u></a></li>
-<li><a href="https://games-able.techidaily.com/enablingdisabling-discords-in-game-modality/"><u>Enabling/Disabling Discord's In-Game Modality</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-guide-to-gaining-extended-opera-use-and-nitro-access/"><u>Exclusive Guide to Gaining Extended Opera Use & Nitro Access</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo X100 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-honor-play-7t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor Play 7T Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-single-platform-gaming-in-apex-legends/"><u>In 2024, The Ultimate Guide to Single-Platform Gaming in Apex Legends</u></a></li>
-<li><a href="https://games-able.techidaily.com/safe-space-a-kids-guide-to-ps5-security-settings/"><u>Safe Space: A Kid’s Guide to PS5 Security Settings</u></a></li>
-<li><a href="https://games-able.techidaily.com/safeguarding-teens-on-discord-effective-parenting-tips/"><u>Safeguarding Teens on Discord: Effective Parenting Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/sharing-happiness-with-personalized-steam-gifts/"><u>Sharing Happiness with Personalized Steam Gifts</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-fiscal-gamut-exploring-premium-no-cost-steam-games/"><u>The Fiscal Gamut: Exploring Premium, No-Cost Steam Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-20-best-video-editors-compatible-with-dji-videos/"><u>[Updated] 2024 Approved 20 Best Video Editors Compatible with DJi Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/11-fun-mobile-games-to-play-when-you-have-no-internet-or-data/"><u>11 Fun Mobile Games to Play When You Have No Internet or Data</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/banishing-your-digital-conversations/"><u>Banishing Your Digital Conversations</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967807388-get-your-newest-hp-laserjet-p1606dn-windows-compatible-printing-software-installed-today/"><u>Get Your Newest HP LaserJet P1606dn Windows-Compatible Printing Software Installed Today</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-play-8t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor Play 8T to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/joystick-journey-console-to-pc-conversion-made-easy-137-chars/"><u>Joystick Journey: Console-to-PC Conversion Made Easy (137 Chars)</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-list-of-16-shared-screening-experiences-on-xbox/"><u>Optimal List of 16 Shared Screening Experiences on XBox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revamping-minecraft-performance-how-to-tweak-high-end-pc-settings-for-ultimate-fps-gains/"><u>Revamping Minecraft Performance : How To Tweak High-End PC Settings for Ultimate FPS Gains</u></a></li>
+<li><a href="https://games-able.techidaily.com/victory-lane-awaits-your-guide-to-top-mobile-sports-games/"><u>Victory Lane Awaits: Your Guide to Top Mobile Sports Games</u></a></li>
 </ul></div>
 

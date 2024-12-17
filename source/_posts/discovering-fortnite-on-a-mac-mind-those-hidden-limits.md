@@ -1,7 +1,7 @@
 ---
 title: Discovering Fortnite on a Mac - Mind Those Hidden Limits
-date: 2024-09-04T21:49:22.060Z
-updated: 2024-09-05T21:49:22.060Z
+date: 2024-12-14T21:16:15.742Z
+updated: 2024-12-17T03:15:53.673Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
 ---
 
 ## Discovering Fortnite on a Mac - Mind Those Hidden Limits
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,11 +33,9 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
  While you can use the Epic Games Launcher to play Fortnite on your Mac natively, it has its fair share of downsides. We'll discuss all about it and teach you how to play the latest version of Fortnite on your Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get Fortnite on Your Mac
 
  The only way to install Fortnite on your Mac is via the Epic Games Launcher for macOS. However, you should first check[Epic Games' website](https://www.epicgames.com/help/en-US/fortnite-c5719335176219/technical-support-c5719372265755/what-are-the-system-requirements-for-fortnite-on-pc-and-mac-a5720377103003) to see if your Mac meets the minimum requirements.
@@ -50,17 +52,13 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
 
  While Fortnite will likely boot and run smoothly on most recent Macs,[the Epic Games vs. Apple lawsuit](https://www.makeuseof.com/epic-games-apple-lawsuit-explained/) has marred the Fortnite experience on macOS because the developer has refused to update its game.
@@ -70,21 +68,13 @@ Follow these steps to get Fortnite on your Mac:
 ![Almost empty outfit section in Fortnite Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/almost-empty-outfit-section-in-fortnite-locker.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Epic Games has also blocked access to V-Bucks and the Item Shop. So, you can't buy new skins, emotes, gifts, back blings, or any other cosmetic items. And if you bought any on another device running a more recent version of Fortnite, you won't see it in your inventory.
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Play the Latest Version of Fortnite on Your Mac
 
  Thanks to[the Xbox Cloud Gaming service](https://www.makeuseof.com/what-is-xbox-cloud-gaming-how-does-it-work/) , you can still play the latest version of Fortnite on a Mac via your browser. It's typically a paid service that costs $16.99 per month, but you can access some free games like Fortnite without a subscription.
@@ -97,26 +87,8 @@ Follow these steps to get Fortnite on your Mac:
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
 
  Alternatively, you can[play Fortnite using Nvidia GeForce Now](https://www.makeuseof.com/how-to-play-fortnite-on-iphone/) on an iPhone or Mac, but the same points and limitations apply regardless of the cloud gaming service you choose.
@@ -125,14 +97,11 @@ Follow these steps to get Fortnite on your Mac:
 
  This is mostly a bummer for gamers who just want to have some good old battle royale action without having to purchase a Windows PC. Since it's unlikely Apple will change its App Store policies, we hope Epic Games makes a compromise soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +110,26 @@ Follow these steps to get Fortnite on your Mac:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-kickstart-profits-earnings-blueprint-for-periscope-novices-for-2024/"><u>[New] Kickstart Profits Earnings Blueprint for Periscope Novices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-guide-ultimate-tips-for-maximizing-mobizens-screen-capture/"><u>[Updated] Master Guide Ultimate Tips for Maximizing Mobizen's Screen Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-magic-vs-2-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor Magic Vs 2 Face Lock?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevating-your-listening-palette-with-youtube-music/"><u>In 2024, Elevating Your Listening Palette with YouTube Music</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-pros-picks-elevating-gaming-broadcast-with-top-5-cam-tech/"><u>In 2024, Pro's Picks Elevating Gaming Broadcast with Top 5 Cam Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/master-your-search-securing-cool-images-at-pexels/"><u>Master Your Search Securing Cool Images at Pexels</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-youtube-comment-formatting-tips-for-cross-out-bolding-and-italicizing-text/"><u>Mastering YouTube Comment Formatting: Tips for Cross-Out, Bolding, and Italicizing Text</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-performance-top-240hz-pc-monitors/"><u>Optimal Performance: Top 240Hz PC Monitors</u></a></li>
+<li><a href="https://games-able.techidaily.com/safer-gaming-a-kids-guide-to-ps5-protection/"><u>Safer Gaming: A Kid's Guide to PS5 Protection</u></a></li>
+<li><a href="https://games-able.techidaily.com/slimmed-down-ps5-whats-new/"><u>Slimmed-Down PS5: What's New?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-missing-helperdll-file-errors-on-your-pc/"><u>Solutions for Resolving 'Missing Helper.dll' File Errors on Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-complete-guide-for-epic-and-gog-installation-steam-deck-style/"><u>The Complete Guide for Epic & GOG Installation, Steam Deck Style</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essence-of-hrtf-and-its-use-in-valorant/"><u>The Essence of HRTF and Its Use in Valorant</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-strategies-for-successful-play-in-cs2-mac/"><u>Top Strategies for Successful Play in CS2, Mac</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-ps5-storage-solutions/"><u>Ultimate PS5 Storage Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-mechanics-of-apples-game-mode-in-macos-sonoma-upgrade/"><u>Unveiling the Mechanics of Apple's Game Mode in macOS Sonoma Upgrade</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-controller-assembly-disassembled/"><u>Xbox Series X Controller Assembly Disassembled</u></a></li>
+</ul></div>
 

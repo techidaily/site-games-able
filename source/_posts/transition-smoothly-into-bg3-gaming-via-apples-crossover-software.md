@@ -1,7 +1,7 @@
 ---
 title: Transition Smoothly Into BG3 Gaming via Apple's Crossover Software
-date: 2024-12-05T03:50:41.415Z
-updated: 2024-12-11T05:32:45.632Z
+date: 2024-12-12T05:42:15.766Z
+updated: 2024-12-17T06:43:24.728Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Baldur’s Gate 3 on Steam
 
  Baldur’s Gate is available on GOG, GeForce Now, and Steam, but you should shun all except Steam. That’s because CrossOver supports Steam the best, and you’ll get a better experience from it than other platforms.
@@ -30,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![Baldur's Gate 3 in Steam cart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-in-steam-cart.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You don’t need a virtual machine for this step. Go to Steam. Search Baldur’s Gate 3, and pay $59.99 for the game. Once you have a receipt, you’re ready to move on to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download, Install, and Set Up CrossOver and Steam
@@ -52,28 +56,24 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
  Once that’s done, log in to Steam with your details and install Baldur’s Gate 3 from your library. As soon as it’s done, you can attempt to run it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Run Baldur’s Gate 3 With CrossOver
 
 ![Baldur's Gate 3 page in the Steam library on CrossOver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-page-in-the-steam-library-on-crossover.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Baldur’s Gate 3 should run the moment you click**Play** , but in some cases, it might not. What you should do is find Baldur’s Gate 3 on the left side menu and**Control** \-click (secondary-click) it to open the context menu. Go to**Manage > Browse Local Files** .
 
 ![Steam context menu for Baldur's Gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/steam-context-menu-for-baldur-s-gate-3.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It will open up an old-looking Windows window with Baldur’s Gate 3’s files. Click the**Bin** folder and find**BG3\_DX11.exe** and run the game from there. It should boot.
 
 ![Baldur's Gate 3 in-game character creation screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/baldur-s-gate-3-in-game-character-creation-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You might run into issues, lagging, or crashes if you’re using a MacBook Air. You can try lowering the settings to see if it helps on a struggling computer. We highly recommend you leave Baldur’s Gate 3 full version alone if you’re using a MacBook Air. Instead, you should play early access; it’s pretty good and well-optimized for your machine.
 
@@ -98,20 +98,22 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-iphone-video-editing-shorten-crop-and-resize-basics/"><u>[New] In 2024, IPhone Video Editing Shorten, Crop & Resize Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-switch-to-shine-with-premium-capture-cards/"><u>[New] In 2024, Switch to Shine with Premium Capture Cards</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-reducing-sound-levels-gradually-with-easy-steps-in-lumafusion/"><u>[Updated] 2024 Approved Reducing Sound Levels Gradually with Easy Steps in Lumafusion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-crafting-conversational-slides-with-powerpoints-speech-features/"><u>[Updated] Crafting Conversational Slides with PowerPoint's Speech Features</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cinemas-best-bites-for-video-editors/"><u>Cinema's Best Bites for Video Editors</u></a></li>
-<li><a href="https://games-able.techidaily.com/economical-gaming-cards-for-gamers/"><u>Economical Gaming Cards for Gamers</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/step-by-step-guide-downloading-content-from-videojug/"><u>Step-by-Step Guide: Downloading Content From Videojug</u></a></li>
-<li><a href="https://games-able.techidaily.com/superior-ps5-extras-to-elevate-play/"><u>Superior PS5 Extras to Elevate Play</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-chiefs-guide-to-superior-cloud-vaults-for-2024/"><u>The Chief's Guide to Superior Cloud Vaults for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317732-9781401928681-the-little-book-of-big-promises/"><u>The Little Book of Big Promises | Free Book</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-16-sync-play-comfort-chairs-on-xbox-series-xs/"><u>Top 16 Sync-Play Comfort Chairs on Xbox Series X/S</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>Updated How To Translate Video From Japanese to English Online for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/value-for-money-the-ultimate-vr-list/"><u>Value for Money: The Ultimate VR List</u></a></li>
-<li><a href="https://games-able.techidaily.com/visual-fx-showdown-directx-11-versus-directx-12/"><u>Visual FX Showdown: DirectX 11 Versus DirectX 12</u></a></li>
-<li><a href="https://games-able.techidaily.com/what-does-the-microsoft-blizzard-merger-mean-for-gamers/"><u>What Does the Microsoft-Blizzard Merger Mean for Gamers?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft-for-2024/"><u>[New] Hone Your Sight The Top 5 Ways to Zoom in Minecraft for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-advanced-tactics-to-modify-playback-speed-in-spotify/"><u>2024 Approved Advanced Tactics to Modify Playback Speed in Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-quick-text-conversion-from-srt/"><u>2024 Approved The Future of Quick Text Conversion From SRT</u></a></li>
+<li><a href="https://games-able.techidaily.com/commanding-chaos-essential-tunings-for-first-person-shooters/"><u>Commanding Chaos: Essential Tunings for First-Person Shooters</u></a></li>
+<li><a href="https://games-able.techidaily.com/decreasing-digital-communication-time-techniques-for-lowering-response-times/"><u>Decreasing Digital Communication Time: Techniques for Lowering Response Times</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminate-automatic-subscriptions-from-steam/"><u>Eliminate Automatic Subscriptions From Steam</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gaming-precision-with-core-parts/"><u>Enhancing Gaming Precision with Core Parts</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-insights-choosing-the-right-joystick/"><u>Expert Insights: Choosing the Right Joystick</u></a></li>
+<li><a href="https://games-able.techidaily.com/foremost-gaming-with-device-controllers/"><u>Foremost Gaming with Device Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-vanish-quickly-is-it-a-concern/"><u>Games Vanish Quickly: Is It a Concern?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-realme-c53-phone-by-drfone-android/"><u>How to Unlock a Network Locked Realme C53 Phone?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor online without jailbreak</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/karaoke-pass-monthly-plan-beat-the-crowd-with-newest-songs-every-week/"><u>Karaoke Pass Monthly Plan - Beat the Crowd with Newest Songs Every Week!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-macs-most-powerful-video-editor-for-pros-adobe-premiere-pro/"><u>New Macs Most Powerful Video Editor for Pros Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-loop-glitch-resolved-for-riot-games-lol-in-recent-fix/"><u>Reconnect Loop Glitch Resolved for Riot Games' LoL in Recent Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-joy-con-revamp-joystick-changeover/"><u>Switch Joy-Con Revamp: Joystick Changeover</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-frozen-icloud-controls-tips-for-apple-device-owners/"><u>Unlocking Frozen iCloud Controls: Tips for Apple Device Owners</u></a></li>
 </ul></div>
 

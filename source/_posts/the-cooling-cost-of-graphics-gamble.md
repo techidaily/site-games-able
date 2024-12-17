@@ -1,7 +1,7 @@
 ---
 title: The Cooling Cost of Graphics Gamble
-date: 2024-12-05T17:40:55.493Z
-updated: 2024-12-11T06:25:43.958Z
+date: 2024-12-11T19:08:06.924Z
+updated: 2024-12-16T21:56:55.878Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Increased Power Draw](#increased-power-draw)
@@ -28,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
  Overclocking lets you squeeze every last drop of performance that your graphics card has to offer. But is it worth all the effort and potential downsides? Well, not in my experience with my GeForce RTX 4090\. Let's discuss why.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Increased Power Draw
 
 ![MSI Afterburner and RTSS showing performance stats for Cyberpunk 2077](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-and-rtss-showing-performance-stats-for-cyberpunk-2077.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Increased power draw is an inevitable side effect of overclocking, no matter how safely you[overclock your graphics card](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) . That's because to get more performance out of your graphics card, you need to provide it with more voltage in most cases.
@@ -52,15 +52,15 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 ![MSI Afterburner running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/msi-afterburner-running-on-windows-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another downside of raising the voltage while overclocking is increased heat dissipation. Simply put, the more voltage you supply, the more heat your graphics card generates. And nobody wants their graphics card to run too hot.
 
  This isn't a major issue if you have a triple-fan GPU with massive heatsinks or if it's liquid-cooled. My RTX 4090 is a liquid-cooled AIO unit with a 360mm radiator. So, for me personally, this is the least of my problems.
 
  However, if your graphics card runs hot most of the time, expect a negative impact on its lifespan. Therefore, if you plan to keep your graphics card for several years, I highly recommend against overclocking it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Screen Flickering
 
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
  While there are several[ways to fix screen flickering on Windows](https://www.makeuseof.com/tag/fix-windows-10-screen-flashing-problem/) , the only way to resolve it after an overclock is by either raising your GPU voltage or reverting the clocks to their default values.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Occasional Crashes While Gaming
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 ![Cyberpunk 2077 crash message on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyberpunk-2077-crash-message-on-windows.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Besides screen flickering, your favorite games may occasionally crash after you overclock your GPU. This issue is predominant in games that are GPU-intensive. Once again, this is a good sign that your overclock isn't stable.
@@ -105,20 +105,15 @@ thumbnail: https://thmb.techidaily.com/91e1e91200cd3de99122d544eeafac52343ef1e6b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-google-pixel-7a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Google Pixel 7a Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-new-era-for-domestic-automation-ai-and-chatgpts-alliance/"><u>A New Era for Domestic Automation: AI and ChatGPT's Alliance</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/analysis-of-fb-video-proportions/"><u>Analysis of FB Video Proportions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/combine-movie-tracks-in-youtube-repertoire-for-2024/"><u>Combine Movie Tracks in YouTube Repertoire for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-the-ultimate-game-machine-must-have-parts/"><u>Crafting the Ultimate Game Machine - Must-Have Parts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-dying-light-audio-problem-quick-solutions/"><u>Fixing the Dying Light Audio Problem - Quick Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-facebook-games-not-loading-in-google-chrome/"><u>How to Fix Facebook Games Not Loading in Google Chrome</u></a></li>
-<li><a href="https://games-able.techidaily.com/master-controller-replacement-on-nintendo-switch-swapping-the-joystick/"><u>Master Controller Replacement on Nintendo Switch: Swapping the Joystick</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-close-ups-quick-minecraft-enhancements/"><u>Mastering Close-Ups Quick Minecraft Enhancements</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-performance-integrating-game-launchers-with-steam-decks/"><u>Optimal Performance: Integrating Game Launchers with Steam Decks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-picks-of-handheld-stabilizers-ensuring-perfect-videos-for-2024/"><u>Pro's Picks of Handheld Stabilizers Ensuring Perfect Videos for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/pursue-peak-performance-essential-components-list/"><u>Pursue Peak Performance: Essential Components List</u></a></li>
-<li><a href="https://games-able.techidaily.com/steams-holiday-spirit-gifting-video-delights/"><u>Steam's Holiday Spirit: Gifting Video Delights</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-gameplay-5-approaches-to-enhance-favourite-games-on-macos/"><u>Transform Your Gameplay: 5 Approaches to Enhance Favourite Games on macOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-of-elon-musks-self-driving-taxis-cost-predictions-and-release-schedule-revealed/"><u>Unraveling the Mystery of Elon Musk's Self-Driving Taxis: Cost Predictions and Release Schedule Revealed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-engaging-subjects-for-consistent-vlogging/"><u>[New] Engaging Subjects for Consistent Vlogging</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>[Updated] 2024 Approved Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-dual-mode-displays-value-in-pc-gaming/"><u>Assessing Dual-Mode Display's Value in PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/be-first-in-line-preorder-marvels-spidey-for-ps5/"><u>Be First in Line - Preorder Marvel's Spidey for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-of-the-best-logitech-gaming-mice/"><u>Best of the Best: Logitech Gaming Mice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cutting-edge-content-alert-obtain-latest-copy-protected-dvds-plus-free-sports-movievideo-torrent-download-options-for-windows-and-mac-enthusiasts/"><u>Cutting-Edge Content Alert! Obtain Latest Copy Protected DVDs + Free Sports Movie/Video Torrent Download Options for Windows & Mac Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-professionals-playbook-to-profitable-youtube-ventures/"><u>In 2024, A Professional's Playbook to Profitable YouTube Ventures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/skyrocketing-your-computers-gaming-pace-fps-fixes/"><u>Skyrocketing Your Computer’s Gaming Pace: FPS Fixes</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding and Correcting Roblox's Error Code 403 on a PC
-date: 2024-12-07T01:12:42.844Z
-updated: 2024-12-11T09:38:53.915Z
+date: 2024-12-11T11:54:15.962Z
+updated: 2024-12-17T00:36:52.200Z
 tags:
   - games
 categories:
@@ -38,21 +38,17 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 
  Now, let's check out all the working fixes to eliminate the error code and get into gaming again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the Roblox Server Status
 
 ![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The first port of call is to visit the[Roblox server status page](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d) . Roblox is a multiplayer game; therefore, it's very common for its servers to undergo maintenance now and then.
 
  Whenever Roblox servers are under maintenance or facing downtime, you'll encounter various issues, including the one in the discussion. The best thing you can do in this situation is to wait until the servers become operational again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Clear the Roblox Cache Folder
 
@@ -70,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb9
 5. Select everything inside by pressing the**Ctrl + A** hotkeys and then pressing**Shift + Delete** to delete the selected content permanently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That's it. Now restart your computer and check for the issue.
@@ -107,6 +103,10 @@ Dism.exe /online /cleanup-image /restorehealth`
 
 After the scan is complete, check for the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Allow Roblox to Run Through Firewall
 
  Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on[how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
@@ -128,17 +128,9 @@ After the scan is complete, check for the issue.
 ![Switching to the Google Public DNS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Google-Public-DNS.jpg)
 7. Click**OK** to save the settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Highlight the**Internet Protocol Version 6 (TCP/IPv6)** and select**Properties.**
 9. Type**2001:4860:4860::8888** in the**Preferred DNS server** box and**2001:4860:4860::8844** in the**Alternate DNS server** box.
 10. Click**OK** to save the IPv6 DNS settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Make the Registry Edit
 
@@ -151,9 +143,17 @@ After the scan is complete, check for the issue.
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-option.jpg)
 3. Check the**Full Control** box and then click**Apply** \>**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
 
  Similary, give full control to**HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Roblox Without Any Issues
 
@@ -174,20 +174,17 @@ After the scan is complete, check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-prime-fb-video-converters-secure-mp4-downloads-for-2024/"><u>[New] Prime FB Video Converters Secure MP4 Downloads for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>2024 Approved Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-capturing-on-iphoneipad-updated-strategies/"><u>2024 Approved Screen Capturing on iPhone/iPad Updated Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unparalleled-tech-for-capturing-live-screens-and-videos/"><u>2024 Approved Unparalleled Tech for Capturing Live Screens & Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/battling-twofold-decline-in-frames-per-second-fps-on-personal-computers/"><u>Battling Twofold Decline in Frames Per Second (FPS) on Personal Computers</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-ps5-slims-innovations-and-features/"><u>Decoding PS5 Slim's Innovations & Features</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-find-x6-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Find X6 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-e-stores-for-securely-downloading-youtube-ringtones/"><u>In 2024, Leading E-Stores for Securely Downloading YouTube Ringtones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leveraging-advanced-techniques-in-360-video-on-fb-live/"><u>In 2024, Leveraging Advanced Techniques in 360 Video on FB Live</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-your-game-top-benefits-of-pc-over-console-play/"><u>Optimize Your Game: Top Benefits of PC Over Console Play</u></a></li>
-<li><a href="https://games-able.techidaily.com/proficient-techniques-for-finding-steam-users/"><u>Proficient Techniques for Finding Steam Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/subscription-showdown-which-service-takes-the-crown/"><u>Subscription Showdown: Which Service Takes the Crown?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-mechanics-of-swift-content-on-facebook/"><u>The Mechanics of Swift Content on Facebook</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-smart-shoppers-checklist-monitor-buying-faux-pas-to-avoid/"><u>The Smart Shopper's Checklist: Monitor Buying Faux Pas to Avoid</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-holidays-into-epic-game-battles/"><u>Transform Holidays Into Epic Game Battles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-audience-excitement-with-top-ideas-for-2024/"><u>[Updated] Elevating Audience Excitement with Top Ideas for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>[Updated] In 2024, Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-command-expertise-select-online-mastery-series/"><u>AI Command Expertise: Select Online Mastery Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/audiovisual-immersion-enhancing-your-sxx-experience/"><u>Audiovisual Immersion: Enhancing Your SXX Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/fix-computer-issues-embrace-new-nvidia-drivers-today/"><u>Fix Computer Issues: Embrace New Nvidia Drivers Today.</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-ultimate-upnpdlna-ready-media-streamers-for-windows-optimized-for-versions-11-8-and-7/"><u>Free Ultimate UPnP/DLNA-Ready Media Streamers for Windows: Optimized for Versions 11, 8, and 7</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-performance-usb-extenders-for-playstation-5/"><u>High-Performance USB Extenders for PlayStation 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-relink-issues-and-crashes-in-granblue-fantasy-on-your-computer/"><u>How to Prevent Relink Issues and Crashes in Granblue Fantasy on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-note-30-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Note 30 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-unleashed-a-deep-dive-into-release-information-and-groundbreaking-features/"><u>MacOS 15 (Sequoia) Unleashed: A Deep Dive Into Release Information & Groundbreaking Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/procuring-your-favorite-twitch-footage-with-5-tools/"><u>Procuring Your Favorite Twitch Footage with #5 Tools</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/transferring-your-sql-data-detailed-steps-for-rebuilding-from-backup-using-3-approaches/"><u>Transferring Your SQL Data: Detailed Steps for Rebuilding From Backup Using 3 Approaches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Making the Most of Fortnite on Your Mac, But Carefully
-date: 2024-10-21T03:34:07.380Z
-updated: 2024-10-24T18:01:47.709Z
+date: 2024-12-16T12:19:01.667Z
+updated: 2024-12-17T05:41:29.634Z
 tags:
   - games
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc95
 * [How to Get Fortnite on Your Mac](#how-to-get-fortnite-on-your-mac)
 * [Why Installing Fortnite on Your Mac Is a Bad Idea](#why-installing-fortnite-on-your-mac-is-a-bad-idea)
 * [How to Play the Latest Version of Fortnite on Your Mac](#how-to-play-the-latest-version-of-fortnite-on-your-mac)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,17 +53,7 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Epic Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fortnite-s-epic-store-page.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Installing Fortnite on Your Mac Is a Bad Idea
@@ -71,15 +65,16 @@ Follow these steps to get Fortnite on your Mac:
 ![Almost empty outfit section in Fortnite Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/almost-empty-outfit-section-in-fortnite-locker.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Epic Games has also blocked access to V-Bucks and the Item Shop. So, you can't buy new skins, emotes, gifts, back blings, or any other cosmetic items. And if you bought any on another device running a more recent version of Fortnite, you won't see it in your inventory.
 
  This, combined with its overly bloated size, makes the Fortnite experience on macOS very disappointing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Play the Latest Version of Fortnite on Your Mac
 
@@ -91,16 +86,14 @@ Follow these steps to get Fortnite on your Mac:
 ![Fortnite's Xbox Cloud Gaming page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-32-25-pm.png)
 2. Click**Sign In** and enter your Microsoft account credentials.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. After signing in, click**Play** ​​​​​​. You'll need a controller to play Fortnite.  
 ![Fortnite Xbox Cloud Gaming page with Play button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-35-35-pm.png)
 4. Link your Epic Games and Microsoft accounts by following the instructions in Fortnite.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Fortnite on browser asking to link accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/screenshot-2024-01-22-at-1-39-07-pm.png)
 
  Once you're done with that, you should be ready to play Fortnite over the cloud. But ensure you have a fast and stable internet connection. Using a slow network means you'll have to log in again frequently.
@@ -126,24 +119,20 @@ Follow these steps to get Fortnite on your Mac:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-direct-from-device-to-digital-world-recording-your-apple-gadgets/"><u>[New] 2024 Approved Direct From Device to Digital World Recording Your Apple Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-perfect-pairing-best-6-video-capture-tools-for-macos-for-2024/"><u>[New] Perfect Pairing Best 6 Video Capture Tools for MacOS for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-captioning-techniques-for-professional-youtube-content/"><u>[Updated] In 2024, Captioning Techniques for Professional YouTube Content</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-visual-victory-amd-radeon-evolution-for-2024/"><u>[Updated] Visual Victory AMD Radeon Evolution for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/12-benefits-to-giving-your-social-life-a-break/"><u>12 Benefits to Giving Your Social Life a Break</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-straightforward-approach-screen-record-on-macbook-air/"><u>2024 Approved A Straightforward Approach Screen Record on Macbook Air</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-basic-scan-capture-program-windows-10/"><u>2024 Approved Basic Scan-Capture Program - Windows 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/beginners-guide-to-video-making-mastering-10-straightforward-youtube-concepts-for-2024/"><u>Beginner's Guide to Video Making Mastering 10 Straightforward YouTube Concepts for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/crossover-for-applesilicon-gamers-a-step-by-step-guide-to-playing-windows-games/"><u>CrossOver for AppleSilicon Gamers: A Step-by-Step Guide to Playing Windows Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-endless-entertainment-without-spending/"><u>Discover Endless Entertainment Without Spending</u></a></li>
-<li><a href="https://games-able.techidaily.com/expanding-language-reach-in-roms-with-easy-applications/"><u>Expanding Language Reach in ROMs with Easy Applications</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-use-classic-nintendo-controllers-on-steam/"><u>How to Use Classic Nintendo Controllers on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/immersive-experience-with-top-tier-dell-screen-anc-earpiece-and-crystal-clear-video-webcam/"><u>Immersive Experience with Top-Tier Dell Screen, ANC Earpiece, and Crystal-Clear Video Webcam</u></a></li>
-<li><a href="https://games-able.techidaily.com/innovative-cooling-accessories-for-your-deck/"><u>Innovative Cooling Accessories for Your Deck</u></a></li>
-<li><a href="https://games-able.techidaily.com/invisible-steam-collection/"><u>Invisible Steam Collection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-se-2022-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone SE (2022)? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-animations-in-the-classroom-top-picks/"><u>New Animations in the Classroom Top Picks</u></a></li>
-<li><a href="https://games-able.techidaily.com/tackling-oculus-app-failure-in-windows-os/"><u>Tackling Oculus App Failure in Windows OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/transform-your-tech-life-by-upgrading-to-corsairs-icue-link-benefits/"><u>Transform Your Tech Life by Upgrading to Corsair's iCUE Link Benefits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tiktok-and-youtube-shorts-comparison-for-individual-social-media-users/"><u>[New] 2024 Approved TikTok & YouTube Shorts Comparison for Individual Social Media Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-best-nine-essential-live-gaming-services/"><u>[New] In 2024, Best Nine Essential Live Gaming Services</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visualvertexzoomerx7-enhance-and-expand-with-ease-for-2024/"><u>[New] VisualVertexZoomerX7 Enhance & Expand with Ease for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-broadcasters-dilemma-opt-for-wirecast-or-obs/"><u>2024 Approved Broadcaster's Dilemma Opt for Wirecast or OBS?</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-powerful-money-management-tips-for-xbox-players/"><u>3 Powerful Money Management Tips for Xbox Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/access-google-play-games-your-pc-edition-journey/"><u>Access Google Play Games: Your PC Edition Journey</u></a></li>
+<li><a href="https://games-able.techidaily.com/banish-the-blue-screen-fixing-crashes-in-epics-launcher/"><u>Banish the Blue Screen: Fixing Crashes in Epic's Launcher</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-buys-for-superior-xbox-video-capturing/"><u>Best Buys for Superior Xbox Video Capturing</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-platform-unveiled-for-professional-podcasters/"><u>In 2024, Google's Platform Unveiled for Professional Podcasters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-itel-p40plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Itel P40+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719166993933-pinnacle-game-boy-advance-simulation-apps-for-iphone/"><u>Pinnacle Game Boy Advance Simulation Apps for iPhone!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-common-challenges-in-ios-photo-management-and-processing/"><u>Solving Common Challenges in iOS Photo Management & Processing</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164560814-top-4-gba-simulation-apps-for-apple-fans-and-gamers/"><u>Top 4 GBA Simulation Apps for Apple Fans and Gamers!</u></a></li>
 </ul></div>
 

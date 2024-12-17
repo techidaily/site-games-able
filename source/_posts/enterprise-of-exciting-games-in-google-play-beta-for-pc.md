@@ -1,7 +1,7 @@
 ---
 title: Enterprise of Exciting Games in Google Play Beta for PC
-date: 2024-08-31T19:21:14.775Z
-updated: 2024-09-01T19:21:14.775Z
+date: 2024-12-11T10:27:35.741Z
+updated: 2024-12-17T11:32:10.173Z
 tags:
   - games
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9c
  The Google Play Games beta is set to shake up the Android game emulator scene. It offers an alternative to the likes of BlueStacks and NoxPlayer, with the promise of optimized versions of mobile games.
 
  Not all mobile games translate well to PC, though, regardless of the emulator you choose. If you're keen on trying the Google Play Games beta, here are the 10 titles that translate best from mobile to PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Play Games on PC
 
@@ -44,14 +48,12 @@ thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9c
 
 ![Gems of War gameplay showing gems and characters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1941.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As with all titles on the Google Play Games beta, progress is saved across all devices.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Cookie Run: OvenBreak
 
 ![Login screen for Cookie Run game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1925.jpg)
@@ -61,13 +63,15 @@ thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9c
 ![Gingerbread man in Cookie Run game running and collecting items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You're also in for a long wait while it installs. It took me over 45 minutes to finish installing this title on the Google Play Games beta. But the gameplay is smooth, and the controls make it especially enjoyable.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Island War
 
 ![Island War main screen with village in background and batte button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1950.jpg)
@@ -76,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9c
 
 ![Island War victory screen with soldiers celebrating on boat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1952.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Close
 
  Island War is the only game on this list that runs in portrait mode, but don't let this stop you from giving it a try. Yes, it only runs in portrait mode, but it has straightforward controls. Using a mouse for unit placement feels better than tapping a screen on a mobile device.
@@ -89,12 +90,13 @@ Close
 
 ![Splash screen for Towerlands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1910.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Towerlands: Tower Defense TD is another mobile game that translates well to PC. It has idle and active gameplay elements, and using a mouse makes the gameplay more engaging when it comes to selecting units and upgrades. While the graphics don't get much love, the gameplay is relaxing and worth trying.
 
 ![Towerlands game unit placement showing archery tower and knight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1914.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The visuals in this game are identical to the mobile version in every way, but the performance feels better, and I still found it quite enjoyable.
 
@@ -102,69 +104,65 @@ Close
 
 ![Character sleection screen in Botworld Adventure game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/botworld-adventure-character-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Botworld Adventure Google Play Games beta port is simply fantastic. While it doesn't have WASD movement support, the mouse settings work the same way mobile does. That is, you can use click-to-move or click-and-drag in any given direction to move. Unit placement in combat, as well as menu navigation, are easy and intuitive.
 
 ![Botworld Adventure gameplay exploring open world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/botworld-adventure-exploration.jpg)
 
  The game is well-optimized for desktop and runs well even at the highest graphics settings. While hardware can be a factor, most computers can probably run this better than most cell phones.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Hungry Shark Evolution
 
 ![Hungry Shark Evolution login screen with shark in middle of screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-home-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hungry Shark Evolution is one of the best ports from mobile to PC via the Google Play Games beta. It downloads, installs, and loads very quickly. One of perhaps its only drawbacks involves its visuals, which can seem noticeably poor on larger monitors and screens.
 
 ![Hungry Shark Evolution keyboard controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-keyboard-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The game boasts full keyboard configuration support. The control layout is fantastic, making the game very easy to play, fun, and intuitive to control.
 
 ![Hungry Shark Evolution shark chasing fish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hungry-shark-evolution-chasing-fishies.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Hungry Shark Evolution is an instant classic, running smoothly on PC. Careful, though; I found this one to be quite addictive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Idle Heroes
 
 ![Login screen for Idle Heroes game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1915.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Idle Heroes is one of the better idle games to play on the Google Play Games beta. It has a simple UI, you don't need to use a keyboard, and playing this game on a PC will save your phone's battery a lot of wear. The game's resolution adapts to larger screens, so visuals are clear on almost any display.
 
 ![Characters battling in Idle Heroes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/idle-heroes-battle-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  The gameplay loop is simple but can entertain for hours. It's worth mentioning that Idle Heroes codes do, in fact, work on the Google Play Games beta port of the game. So, if you're playing the game for the first time and want to use codes, you can start on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Shop Titans: RPG Idle Tycoon
 
 ![Overhead view of a small shop with people making purchase requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shop-game-overhead-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you typically shy away from complex[management and city-building games](https://www.makeuseof.com/best-city-building-games/) , Shop Titans: RPG Idle Tycoon on the Google Play Games beta might be for you. It's a simplistic and fun idle management game that's great for running in the background when multitasking. It's one of the better options to alt-tab to throughout your day, all without having to unlock your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Summoners War
 
 ![Login screen for Summoners War](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-1918.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Summoners War offers a great mix of idle and active gameplay mechanics, which makes it another fantastic choice for playing on PC. It's also one of the more in-depth idle games available on the Google Play Games beta, with hero, building, and combat management.
 
@@ -178,14 +176,11 @@ Close
 
  If you don't have access to the Google Play Games beta, there's no need to fret. There are a ton of lightweight emulators you can use to play Android games on both PC and Mac.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +189,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-crafting-engaging-tiktok-tracks-with-visuals/"><u>[New] 2024 Approved Crafting Engaging TikTok Tracks with Visuals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-picture-perfect-how-to-accurately-date-your-photos/"><u>[New] In 2024, Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716068712612-new-in-2024-unveiling-advantages-comprehen/"><u>[New] In 2024, Unveiling Advantages Comprehen...</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-the-best-steadicams-for-top-notch-dslr-filming/"><u>[Updated] Expert Picks The Best Steadicams for Top-Notch DSLR Filming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unlock-camera-live-screen-capture-analysis-and-top-replacements/"><u>[Updated] Unlock Camera Live Screen Capture Analysis & Top Replacements</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-visual-language-warp-the-photographic-transformers-guide-for-2024/"><u>[Updated] Visual Language Warp The Photographic Transformer's Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-selecting-the-best-the-top-5-fpv-goggles-list/"><u>2024 Approved Selecting the Best The Top 5 FPV Goggles List</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-dungeon-crafting-six-chatgpt-approaches-to-perfect-game-guidance/"><u>Enhancing Dungeon Crafting: Six ChatGPT Approaches to Perfect Game Guidance</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-steam-deck-performance-with-coolers/"><u>Enhancing Steam Deck Performance with Coolers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-list-of-top-11-no-cost-words-games-androidios/"><u>Essential List of Top 11 No-Cost Words Games (Android/iOS)</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-sonys-digital-game-access-for-gamers/"><u>Examining Sony’s Digital Game Access for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y78plus-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y78+</u></a></li>
+<li><a href="https://games-able.techidaily.com/optical-vs-mechanical-switches-whats-best-for-gaming/"><u>Optical Vs. Mechanical Switches: What’s Best for Gaming?</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-win11-steam-network-failure/"><u>Overcoming Win11 Steam Network Failure</u></a></li>
+<li><a href="https://games-able.techidaily.com/reasons-xbox-series-s-lacks-a-disc-drive/"><u>Reasons Xbox Series S Lacks a Disc Drive</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-duality-of-innovation-examining-the-pros-and-cons-of-the-flexible-lenovo-thinkpad-x1-fold/"><u>The Duality of Innovation: Examining the Pros & Cons of the Flexible Lenovo ThinkPad X1 Fold</u></a></li>
+</ul></div>
 

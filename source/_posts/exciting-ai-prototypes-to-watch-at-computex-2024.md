@@ -1,7 +1,7 @@
 ---
 title: Exciting AI Prototypes to Watch at Computex 2024
-date: 2024-08-31T19:23:59.083Z
-updated: 2024-09-01T19:23:59.083Z
+date: 2024-12-10T05:41:18.698Z
+updated: 2024-12-16T21:09:26.880Z
 tags:
   - games
 categories:
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 
 ## Exciting AI Prototypes to Watch at Computex 2024
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Intel Lunar Lake](#intel-lunar-lake)
 * [Nvidia GeForce RTX AI Laptops](#nvidia-geforce-rtx-ai-laptops)
 * [AMD Ryzen AI 300](#amd-ryzen-ai-300)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac
 So, these are the best bits of AI hardware launched at Computex 2024.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Intel Lunar Lake
 
  Laptop chips have been hot business in 2024\. Intel's last generation laptop chips, Meteor Lake, launched in December 2023, featuring a chiplet design and Intel's first NPU, carrying the company into 2024 with aplomb. Then it was Qualcomm's turn to step up to the plate; it very much seized the opportunity with its Snapdragon X Elite chips, coinciding with Microsoft's Copilot+ AI PC platform launch.
@@ -40,8 +49,9 @@ So, these are the best bits of AI hardware launched at Computex 2024.
 ![intel lunar lake overall spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-overall-spec-sheet.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Intel
 
  Despite Qualcomm's ongoing plaudits at Computex 2024 (Snapdragon X Elite is also coming to desktops!), Intel's new Lunar Lake laptop chips have grasped some of its spotlight, promising rapid CPUs, faster NPUs, substantial upgrades to integrated graphics, and big battery life boosts.
@@ -50,16 +60,10 @@ Intel
 
 ![intel lunar lake npu spec sheet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/intel-lunar-lake-npu-spec-sheet.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Intel
 
  Aside from the AI side, the most interesting Lunar Lake upgrade is fully integrated memory. Intel Lunar Lake won't ship with specific memory chips. Instead, Intel will integrate 16 or 32GB memory into the chip design, saving space and boosting efficiency.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Nvidia GeForce RTX AI Laptops
 
  Nvidia is the world's leading GPU manufacturer, so it's perfectly positioned as the world transitions to high-end AI processing hardware. Now, Nvidia is launching a new range of "GeForce RTX AI" branded laptops, pushing services that make the most of its Tensor cores.
@@ -70,10 +74,6 @@ Intel
 
  Interestingly,[Nvidia claims](https://www.nvidia.com/en-gb/geforce/news/computex-2024-new-rtx-ai-laptops/) its RTX AI will deliver a bonkers performance boost over other AI-enabled PCs and laptops, delivering up to 686 TOPS (compared to Lunar Lake's 40+ TOPS). It's an enormous boost that Nvidia attributes to its powerful GPUs, while integrated AI chips like Lunar Lake and Snapdragon X Elite are still bound to and limited by CPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## AMD Ryzen AI 300
 
  Not to be outdone by Intel, Nvidia, and Qualcomm, AMD revealed its long-awaited AI chips at Computex 2024, built on its shiny new Zen 5 architecture (another AMD upgrade we've been patiently waiting for).
@@ -81,22 +81,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![amd ai pc chips npu stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/amd-ai-pc-chips-npu-stats.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 AMD
 
  Starting from the top, AMDD claims its new Ryzen AI 300-Series laptop chips XDNA2 NPU will deliver up to 50 TOPS, outstripping both Lunar Lake and the Snapdragon X Elite. However, like Lunar Lake, the real tests will come when these chips are finally launched; only Qualcomm's Snapdragon X Elite has been tested in the wild.
 
  Still, it means a new generation of AMD AI-powered laptops are incoming, to be powered by either the Ryzen AI 9 HX 370, which features 12 Zen 5 cores with a maximum boost frequency of up to 5.1 GHz, or the Ryzen AI 9 365 featuring 10 Zen 5 cores and a maximum boost clock of 5.0GHz.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +103,26 @@ AMD
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-through-your-instagram-post-eye-balls/"><u>[New] 2024 Approved Navigating Through Your Instagram Post Eye-Balls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-complete-exploration-of-morphvox-technology-for-voice-transformation/"><u>[New] Complete Exploration of MorphVOX Technology for Voice Transformation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-high-speed-snapshot-and-voice-commentary-assistant-device/"><u>[Updated] 2024 Approved High-Speed Snapshot & Voice Commentary Assistant Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-full-picture-of-ustream-and-analogous-services-for-2024/"><u>[Updated] The Full Picture of Ustream & Analogous Services for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/accelerate-your-editing-workflow-using-emeditors-quick-performance-features/"><u>Accelerate Your Editing Workflow Using EmEditor's Quick Performance Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ps5-membership-bundles-for-value/"><u>Deciphering PS5 Membership Bundles for Value</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/descubriendo-la-magia-del-ahorro-en-almacenamiento-con-conversion-h264-h-265-para-videos-de-calidad-elevada-y-pequeno-tamano/"><u>Descubriendo La Magia Del Ahorro en Almacenamiento Con Conversión H.264-H. 265 Para Videos De Calidad Elevada Y Pequeño Tamaño</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-instantly-hp-officejet-5740-printer-drivers-fast-reliable-setup/"><u>Download Instantly: HP OfficeJet 5740 Printer Drivers - Fast, Reliable Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-console-setup-with-customizable-light-settings/"><u>Elevate Your Console Setup with Customizable Light Settings</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-list-of-games-enabling-cross-device-partnerships/"><u>Exclusive List of Games Enabling Cross-Device Partnerships</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 8 Plus</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-clash-with-edge-for-best-gaming-browser/"><u>Opera GX Clash with Edge for Best Gaming Browser</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-white-motherboards-within-the-pennywise-budget/"><u>Prime White Motherboards Within the Pennywise Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-steam-gameplay-on-mobile-devices-via-steam-link/"><u>Seamless Steam Gameplay on Mobile Devices via Steam Link</u></a></li>
+<li><a href="https://games-able.techidaily.com/sharing-live-gaming-sessions-from-xbox-to-discord/"><u>Sharing Live Gaming Sessions From Xbox to Discord</u></a></li>
+<li><a href="https://games-able.techidaily.com/space-saver-techniques-using-chdman-to-minimize-game-iso-size/"><u>Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-facebook-survival-kit-your-online-security-roadmap/"><u>The Ultimate Facebook Survival Kit: Your Online Security Roadmap</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-safe-play-a-stepwise-guide-to-setting-up-ps5-passcodes/"><u>Unlocking Safe Play: A Stepwise Guide to Setting up PS5 Passcodes</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/wiederherstellung-verlassen-ihr-iphone-sichern-ohne-daten-zu-verlieren/"><u>Wiederherstellung Verlassen - Ihr iPhone Sichern, Ohne Daten Zu Verlieren</u></a></li>
+</ul></div>
 

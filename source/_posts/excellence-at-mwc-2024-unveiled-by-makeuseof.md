@@ -1,7 +1,7 @@
 ---
 title: Excellence at MWC 2024 Unveiled by MakeUseOf
-date: 2024-12-04T18:02:41.068Z
-updated: 2024-12-11T03:14:05.146Z
+date: 2024-12-10T19:18:10.541Z
+updated: 2024-12-17T07:47:15.666Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,12 +44,16 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
  Either way, they've all made MakeUseOf's Best of MWC 2024 list—in no particular order.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Tecno Megabook T16 Pro
 
 ![tecno megabook ultimate t16 with awards mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-ultimate-t16-with-awards-mwc-2024.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -55,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  The new 2024 Tecno Megabook T16 Pro ships with an AI-enabled Intel Core Ultra 7 (or Core Ultra 5), which enables on-device AI tools using Intel's new Neural Compute Engine, such as AI image generation and AI conference support, all accessed through the onboard PC Manager. Having given the onboard image generation a try, it's fast and responsive, using the latest version of Stable Diffusion to generate AI images.
 
 ![tecno megabook pro t16 ai image generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-megabook-pro-t16-ai-image-generator.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 ![honor magic 6 pro on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magic-6-pro-on-stand-with-muo-mwc-2024-award.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
@@ -90,6 +94,10 @@ Close
 
  Finally, Honor's second-generation silicon-carbon battery allows it to pack in a whopping 5,600mAh while keeping the Magic 6 Pro's design slim and sleek; it's a great bit of kit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Motorola Adaptive Display Concept
 
 ![motorola adaptive display concept smartphone with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/motorola-adaptive-display-concept-smartphone-with-muo-mwc-2024-award.jpg)
@@ -102,13 +110,13 @@ Close
 
  The concept smartphone features a 6.9-inch pOLED screen. Most interestingly, the battery and other components are built in multiple segments to help the device achieve its bendiness.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Tecno Camon 30 Premier 5G
 
 ![tecno camon on stand with muo mwc 2024 award](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/tecno-camon-on-stand-with-muo-mwc-2024-award.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -123,10 +131,6 @@ Close
  Another plus point is the 6.77-inch screen, with a 1,264x2,780 resolution and a maximum brightness of 1,400 nits. It's also an[LTPO panel](https://www.makeuseof.com/what-is-ltpo-is-it-better-than-amoled/) , which enables much better dynamic refresh rates, which is extremely useful when switching between intensive tasks.
 
  It also includes a substantial 5,000mAh battery and supports 70W fast charging.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. ZTE Nubia Flip 5G
 
@@ -144,13 +148,13 @@ Close
 
  The budget flip-phone market is heating up, with strong entries like the ZTE Nubia Flip 5G and Tecno Phantom V Flip 5G battling it out with the Motorola Razr.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Ayaneo Pocket S
 
 ![ayaneo pocket s on stand at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/ayaneo-pocket-s-on-stand-at-mwc-2024.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gavin Phillips/MakeUseOf
 
@@ -163,6 +167,10 @@ Close
  Also packed into that frame is the second reason the Ayaneo Pocket S is featured on this list: it ships with a brand new Snapdragon G3x Gen 2 chip, which enables top-tier gaming with just a 15W power draw. The Ayaneo Pocket S is one the world's first gaming devices to use this new Snapdragon chip, delivering eight Kryo Prime Ultra 3.36GHz cores plus a dedicated 1GHz Adreno A32 GPU.
 
  The Pocket S also features multiple performance modes, integrated vibration, RGB lighting on the Hall Sensing joysticks, and heaps of gaming integrations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Xiaomi 14 Ultra
 
@@ -180,10 +188,6 @@ Close
 
  Like Honor, Xiaomi has also made the jump to a new silicon carbon cell battery, which delivers greater power density. The Xiaomi 14 Ultra has a 5,300mAh battery, along with 90W wired fast charging and 80W wireless charging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Honor MagicBook Pro 16
 
 ![honor magicbook pro 16 at mwc 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/honor-magicbook-pro-16-at-mwc-2024.jpg)
@@ -200,10 +204,6 @@ Close
 
  Furthermore, the MagicBook Pro 16 comes equipped with an Nvidia RTX 4060 GPU, which is plenty powerful, and a 75Wh battery, which Honor says should last up to ten hours (usage dependant).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Tecno Phantom Ultimate Concept
 
 ![tecno phantom ultimate concept smartphone in hand closed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/tecno-phantom-ultimate-concept-smartphone-in-hand-closed.jpg)
@@ -215,10 +215,6 @@ Close
  The idea of a smartphone screen extending from 6.55 inches to 7.11 inches is novel, granted, but the sliding motion is now smooth, and the wrap-around curved screen looks great. It also has a secondary display on the rear, which is another nice touch.
 
  It's also decently slimline, measuring 9.93mm thickness, and feels good in your hand. The extra tech for the sliding mechanism doesn't add much to its weight at all.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. ZTE Nubia Pad 3D II
 
@@ -233,6 +229,10 @@ Close
 Close
 
  The 3D glasses-free tech is great on its own, but what's better is that the Nubia Pad 3D II will convert images, video, and games from 2D into 3D, giving you incredible depth across an 86-degree viewing angle. It also runs at 2560x1600, giving great resolution, and the 3D effect is evident from a wide range of viewing points.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11\. Samsung Galaxy Ring
 
@@ -277,18 +277,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-the-course-to-youtube-livestream-mastery/"><u>[New] In 2024, Charting the Course to YouTube Livestream Mastery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-whole-viewpoint-vs-multiplanar-imaging-techniques/"><u>[Updated] In 2024, Whole Viewpoint vs Multiplanar Imaging Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-nailing-the-technique-for-snapchat-screen-time-lapses/"><u>2024 Approved Nailing the Technique for Snapchat Screen Time-Lapses</u></a></li>
-<li><a href="https://games-able.techidaily.com/comparing-switches-are-mechanical-keys-superior-for-gamers/"><u>Comparing Switches: Are Mechanical Keys Superior for Gamers?</u></a></li>
-<li><a href="https://games-able.techidaily.com/daily-techniques-outshining-new-york-times-elite/"><u>Daily Techniques: Outshining New York Times Elite</u></a></li>
-<li><a href="https://games-able.techidaily.com/effortless-engagement-idle-game-series/"><u>Effortless Engagement: Idle Game Series</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-take-your-videos-to-the-next-level-12-best-online-animation-platforms/"><u>In 2024, Take Your Videos to the Next Level 12 Best Online Animation Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-the-revolutionary-self-design-feature-customizing-your-own-moto-x-smartphone/"><u>Introducing the Revolutionary Self-Design Feature: Customizing Your Own Moto X Smartphone!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/loop-engineers-assembly-for-2024/"><u>Loop Engineer's Assembly for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/patent-claims-vs-reality-for-xbox-s-design/"><u>Patent Claims Vs. Reality for Xbox S Design</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-gaming-keyboards-of-2024/"><u>The Best Gaming Keyboards of 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/0-beauty-influencers-dominating-2024-youtube-trends/"><u>Top 10 Beauty Influencers Dominating 2024 YouTube Trends</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208088497-why-is-my-chrome-not-responding-expert-tricks-to-launch-fresh-and-fast/"><u>Why Is My Chrome Not Responding? Expert Tricks To Launch Fresh and Fast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-precision-photography-the-most-exceptional-phones-for-4k-imaging-for-2024/"><u>[Updated] Precision Photography The Most Exceptional Phones for 4K Imaging for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategic-storytelling-essential-language-for-marketers/"><u>2024 Approved Strategic Storytelling Essential Language for Marketers</u></a></li>
+<li><a href="https://games-able.techidaily.com/beat-xboxs-ultimate-plan-spike-with-smart-planning/"><u>Beat Xbox's Ultimate Plan Spike with Smart Planning</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-games-with-innovations-from-ifa-2023/"><u>Elevate Your Games with Innovations From IFA 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/enrich-your-screen-time-integrating-facebook-live-into-roku-for-2024/"><u>Enrich Your Screen Time Integrating Facebook LIVE Into Roku for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-new-amazon-fire-hd-8-worth-it-comprehensive-price-and-performance-analysis/"><u>Is The New Amazon Fire HD 8 Worth It? Comprehensive Price & Performance Analysis</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-subscription-with-prime-gaming-guide/"><u>Navigate Subscription with Prime Gaming Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-release-download-updated-canon-pixma-ts3322-driver-for-smooth-printing/"><u>New Release: Download Updated Canon PIXMA TS3322 Driver for Smooth Printing</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-baldurs-gate-3-in-full-on-apple-m-devices/"><u>Playing Baldur's Gate 3 in Full on Apple M Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-serenity-curtail-xbox-vibrations/"><u>Securing Serenity: Curtail Xbox Vibrations</u></a></li>
+<li><a href="https://games-able.techidaily.com/slide-into-retro-ios-meets-psp-gaming-charm/"><u>Slide Into Retro: IOS Meets PSP Gaming Charm</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thriving-in-the-economy-of-youtube-shorts-the-ultimate-guide-for-2024/"><u>Thriving in the Economy of YouTube Shorts – The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-calmness-asmr-titles-to-try-out-for-2024/"><u>Unleash Calmness ASMR Titles to Try Out for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-linkedin-and-facebook-potential-for-job-advancement/"><u>Unlocking LinkedIn & Facebook Potential for Job Advancement</u></a></li>
 </ul></div>
 

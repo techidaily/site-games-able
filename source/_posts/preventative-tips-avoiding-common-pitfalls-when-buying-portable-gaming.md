@@ -1,7 +1,7 @@
 ---
 title: "Preventative Tips: Avoiding Common Pitfalls When Buying Portable Gaming"
-date: 2024-08-31T19:26:47.911Z
-updated: 2024-09-01T19:26:47.911Z
+date: 2024-12-13T01:25:43.665Z
+updated: 2024-12-16T19:40:18.773Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ---
 
 ## Preventative Tips: Avoiding Common Pitfalls When Buying Portable Gaming
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,12 +34,13 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  With the increasing interest in gaming handhelds, should you pull the trigger and get one for yourself? Here are some things to consider before buying a handheld gaming console and how to choose which one is best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1 Decide on Your Budget
 
 ![rog ally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rog-ally.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hannah Stryker / MakeUseOf
 
@@ -48,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  Although these may look pricey, they’re still cheaper than you’ll spend building a gaming PC. According to our[well-rounded PC buying guide](https://www.makeuseof.com/well-rounded-pc-buying-guide/) , you’ll likely pay about $1,000 to build a mid-range gaming PC, while higher-end builds could start at $1,500 or more. However, desktop PCs are more likely to last longer, as you can[upgrade your PC to improve its performance](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Choose Which Games You Want to Play
 
  Before buying a handheld console, you must consider which games you like. If you’re into PlayStation exclusives, you’re pretty much stuck with[the PlayStation Portal](https://www.makeuseof.com/what-is-sony-playstation-portal-handheld/) unless you want to use PlayStation Plus to stream games to Windows-based handhelds, like[the Asus ROG Ally](https://www.makeuseof.com/what-is-asus-rog-ally/) .
@@ -60,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  However, not all games are optimized for handheld gaming, even if you can install them on one of these consoles. This is especially true for[real-time strategy games](https://www.makeuseof.com/what-are-real-time-strategy-games-rts-games/) , often designed to be played on a larger screen with a mouse and keyboard. If these are the games you like, we suggest sticking to your PC or at least getting a console dock, like these[great ROG Ally docks](https://www.makeuseof.com/best-rog-ally-docks/) or a genuine Valve Docking Station for the Steam Deck.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Determine Whether You Want to Use a Dock
 
 ![valve steam deck docked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/valve-steam-deck-docked.jpg)
@@ -76,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  But if the games you like aren’t Nintendo games, consider getting a handheld console that you can attach to a larger screen through a dock or cable. That way, you can enjoy gaming on a larger screen when available. However, note that you might need a controller or a Bluetooth mouse and keyboard to enjoy gaming on your TV via your handheld, so you should consider these additional expenses if you don’t have them yet.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Check How Long Your Gaming Sessions Last
 
  The biggest advantage of a gaming handheld is that you can play your games anywhere you are. But the caveat here is that you can only play for so long before you need to recharge.
@@ -89,15 +93,13 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  But if your games use a lot of battery power, the handheld’s portability advantage diminishes, as you need to find an outlet to recharge it while you’re playing. But if you only play games for less than an hour a day or prefer older, simpler games that don’t require that much power, then a handheld gaming console will make sense for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Check the Specs
 
 ![Steam Deck SSD installed without sleeve](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/02/steam-deck-ssd-installed-without-sleeve-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Jhet Borja/MakeUseOf  
 
  If you’ve decided to buy a handheld gaming console, don’t forget to check the specifications of your options. That’s because not all gaming consoles are made the same.
@@ -112,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  If you just want a portable gaming device to play on today and don’t want to spend thousands of dollars on a gaming rig, then buying a gaming handheld is the sensible choice. Just ensure that you’ve considered the things we’ve listed above so that you can pick the right device for you and avoid buyer’s remorse.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,26 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-ultimate-twitch-collection-perfectly-preserve-your-tweets/"><u>[New] 2024 Approved Ultimate Twitch Collection - Perfectly Preserve Your Tweets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-online-presence-by-mastering-video-editing-in-sony-vegas/"><u>[New] In 2024, Boost Your Online Presence by Mastering Video Editing in Sony Vegas</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-guide-top-11-kid-easy-vlog-camcorders-waterproof-for-2024/"><u>[New] Ultimate Guide Top 11 Kid-Easy Vlog Camcorders, Waterproof for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>[Updated] Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-skype-talk-improvement-silence-the-surroundings/"><u>[Updated] In 2024, Skype Talk Improvement Silence the Surroundings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-simultaneously-stream-youtube-channels/"><u>[Updated] Simultaneously Stream YouTube Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-interactive-index-for-ig-and-tiktok-connection/"><u>[Updated] The Interactive Index for IG & TikTok Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-resolution-steps-for-not-detected-cygwin1dll-mishap/"><u>Complete Resolution Steps for 'Not Detected' cygwin1.dll Mishap</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-tv-and-monitors-at-ifa/"><u>Discover the Best TV & Monitors at IFA</u></a></li>
+<li><a href="https://games-able.techidaily.com/enabling-steam-remote-play-windows-tips/"><u>Enabling Steam Remote Play: Windows Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-play-passs-unmatched-benefits-except-for-this-exception/"><u>Google Play Pass's Unmatched Benefits, Except for This Exception</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/high-definition-beach-scenes-premium-wallpaper-and-background-graphics-by-yl-computing/"><u>High-Definition Beach Scenes: Premium Wallpaper & Background Graphics by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickfire-playstyle-maximizing-csgo-frames/"><u>Quickfire Playstyle - Maximizing CS:GO Frames</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-pi-fans-decision-time-batocera-vs-retropie/"><u>Retro Pi Fans, Decision Time: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-steam-application-startup/"><u>Streamlining Steam Application Startup</u></a></li>
+<li><a href="https://games-able.techidaily.com/swift-switching-laser-focused-or-lever-based/"><u>Swift Switching: Laser-Focused or Lever-Based?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-best-in-class-open-source-routers-spotlight-on-linksys-wrt3200acm/"><u>The Ultimate Guide to the Best in Class Open Source Routers: Spotlight on Linksys WRT3200ACM</u></a></li>
+<li><a href="https://games-able.techidaily.com/understand-how-a-cpu-can-impact-your-pcs-operating-speed/"><u>Understand How a CPU Can Impact Your PC’s Operating Speed</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-insights-into-nyt-political-ties/"><u>Unlocking Insights Into NYT Political Ties</u></a></li>
+</ul></div>
 

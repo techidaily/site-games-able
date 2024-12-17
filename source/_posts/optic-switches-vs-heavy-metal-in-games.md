@@ -1,7 +1,7 @@
 ---
 title: Optic Switches Vs. Heavy Metal in Games
-date: 2024-10-17T17:29:45.800Z
-updated: 2024-10-24T16:58:15.899Z
+date: 2024-12-15T16:58:23.317Z
+updated: 2024-12-16T17:09:55.038Z
 tags:
   - games
 categories:
@@ -27,21 +27,16 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 ![Mechanical keyboard on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/michelle-ding-50uD7HzOLW8-unsplash.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Mechanical switches work](http://www.makeuseof.com/tag/mechanical-keyboard-work-technology-explained/) by creating contact between a metal piece on the bottom of the key and one on the keyboard. This closes the circuit and signals to the PC the key has been pressed.
 
  There are three main types of mechanical switches: linear, tactile, and clicky. Linear keys are quieter, require less force, and provide no tactile feedback when pressed. Tactile keys are louder and produce a bump in the middle of the keystroke, while clicky keys give a larger bump and a loud "click" in the middle of the keystroke, making them loud but satisfying.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do Optical Switches Work?
@@ -57,10 +52,7 @@ So, which is better for gaming?
 ![Mechanical keyboard with back-lighting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/vipul-jha-a4X1cdC1QAc-unsplash.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are a few important aspects of mechanical switches you must consider when deciding which is better for gaming, including:
@@ -71,6 +63,10 @@ So, which is better for gaming?
 * **Noisiness:** How loud are the keys?
 
 Let's take a look at these four factors in closer detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Durability
 
@@ -88,13 +84,6 @@ Let's take a look at these four factors in closer detail.
 
  Other than that, the reaction speed of optical switches appears to depend largely on the manufacturer. The breadwinners seem to be the[Razer Clicky Optical Purple](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2004621&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Frazer-optical-switch) switches. These are touted as some of the fastest keys on the market and are around 30ms faster than the fastest Cherry MX keys.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Feel and Noisiness
 
  How mechanical or optical keys feel is largely down to preference, which also goes for the loudness. But, with more options available, it's more likely you'll find a mechanical keyset matching your preferences.
@@ -111,18 +100,15 @@ Let's take a look at these four factors in closer detail.
 
 ![Sleek mechanical keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/jay-zhang-XX8zaI3XbvE-unsplash.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because there are dozens of manufacturers and types of mechanical keys, you're likely to find a mechanical keyboard you like fairly easily. You can also modify most mechanical keysets to make them louder, quieter, quicker, or last longer. As mentioned above, buying a hot-swappable mechanical keyboard makes this process much easier, as you won't have to desolder the switches before changing or silencing them.
 
  Now, while there aren't as many optical keyboards compared to mechanical ones, the number of top-quality optical boards has increased. You can now find excellent optical keyboards such as the[Corsair K100](https://www.amazon.com/Corsair-K100-Mechanical-Gaming-Keyboard/dp/B08HR68MQZ?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=23638b63479cce034fb8bee791143ce1&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) ,[Keychron K8](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard?variant=39515068956761) , and[Roccat Vulcan TKL Pro](https://www.amazon.com/ROCCAT-Vulcan-Compact-Optical-Keyboard/dp/B08J4DGBB9?linkCode=ll1&tag=muo-v2-2jbrk02-20&linkId=b16daf181c950078b96fbd7a45f2251a&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2004621&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Foptical-vs-mechanical-switches-best-for-gaming%2F&asc%5Fcampaign=Evergreen) .
 
  Finally, there are plenty of[excellent budget gaming mechanical keyboards](http://www.makeuseof.com/best-budget-gaming-keyboards/) to choose from, whereas a good set of optical keys generally only comes with a mid-to-high price keyboard. So mechanical switches definitely win when it comes to price.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Should You Buy: Optical or Mechanical Switches?
 
@@ -153,18 +139,24 @@ Let's take a look at these four factors in closer detail.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ocial-media-live-war-fb-live-and-yt-live-vs-twitter-spaces-for-2024/"><u>[New] Social Media Live War FB LIVE & YT Live Vs. Twitter Spaces for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unveiling-ideal-techniques-for-obs-facebook-transition/"><u>[New] Unveiling Ideal Techniques for OBS-Facebook Transition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nveiling-top-5-strategies-boosting-your-brand-via-youtube-marketing/"><u>[New] Unveiling Top 5 Strategies Boosting Your Brand via YouTube Marketing</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-key-editing-solutions-in-app-development/"><u>2024 Approved Key Editing Solutions in App Development</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-lenovo-thinkphone-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Lenovo ThinkPhone To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/incisive-guide-evaluating-your-gaming-hours-on-series-s/"><u>Incisive Guide: Evaluating Your Gaming Hours on Series S</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-video-combiners-with-no-watermark-limitations/"><u>New 2024 Approved Top Video Combiners with No Watermark Limitations</u></a></li>
-<li><a href="https://fox-access.techidaily.com/optimize-periscope-broadcasts-for-maximum-velocity/"><u>Optimize Periscope Broadcasts for Maximum Velocity</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/roots-unearthed-tracing-foddian-history/"><u>Roots Unearthed: Tracing Foddian History</u></a></li>
-<li><a href="https://games-able.techidaily.com/streamline-your-gaming-experience-switch-plus-mac/"><u>Streamline Your Gaming Experience: Switch + Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-and-solutions-for-nonfunctional-logitech-g933-mic/"><u>Troubleshooting and Solutions for Nonfunctional Logitech G933 Mic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-selection-the-10-best-apps-for-smartphone-video-calls-for-2024/"><u>Ultimate Selection The 10 Best Apps for Smartphone Video Calls for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>[New] Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] 2024 Approved Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/450-hp-victus-anti-prime-day-best-buy-zdnet/"><u>$450 HP Victus 지팬 엑시네이터와 Anti-Prime Day 대우! Best Buy 게임 노트북 정보 | ZDNET 기사</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-ways-to-play-your-favorite-games-on-a-mac/"><u>5 Ways to Play Your Favorite Games on a Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-pop-7-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Pop 7 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ace-valorant-high-fps-and-performance-fixes-guide-for-pc-users/"><u>Ace Valorant: High FPS & Performance Fixes Guide for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/adding-portable-storage-to-your-steam-deck/"><u>Adding Portable Storage to Your Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/addressing-joy-con-communication-errors-with-switch-console/"><u>Addressing Joy-Con Communication Errors with Switch Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-push-for-innovation-with-rdna-35-when-will-it-arrive/"><u>AMD's Push for Innovation with RDNA 3.5 - When Will It Arrive?</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-for-the-vintage-tech-enthusiast/"><u>AtlasOS for the Vintage Tech Enthusiast</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-mobile-mmo-experiences-of-today/"><u>Best Mobile MMO Experiences of Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-sound-glitches-fixing-crackling-microphones-on-windows-operating-systems/"><u>End the Sound Glitches: Fixing Crackling Microphones on Windows Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719160472458-explore-ioss-finest-gba-emulation-tools/"><u>Explore iOS's Finest GBA Emulation Tools!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-pop-7-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-lava-blaze-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Lava Blaze 2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-telegram-web-a-step-by-step-pathway-for-2024/"><u>Mastering Telegram Web A Step-by-Step Pathway for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719161930368-steam-unlocked-discovering-top-notch-games-for-free/"><u>Steam Unlocked: Discovering Top-Notch Games for FREE!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-battery-electric-plug-in-hydrogen-and-hybrid-cars-clearing-the-confusion/"><u>The Ultimate Guide to Battery-Electric, Plug-In, Hydrogen and Hybrid Cars: Clearing the Confusion.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-verifiers-guide-ensuring-authenticity-of-wellness-info/"><u>The Verifier's Guide: Ensuring Authenticity of Wellness Info</u></a></li>
 </ul></div>
 

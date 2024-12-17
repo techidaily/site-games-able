@@ -1,7 +1,7 @@
 ---
 title: Taking Virtual Reality to New Heights - Explore & Play Games with Steam and Meta Quest
-date: 2024-08-31T19:20:40.006Z
-updated: 2024-09-01T19:20:40.006Z
+date: 2024-12-11T02:00:50.038Z
+updated: 2024-12-17T01:52:19.801Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 ---
 
 ## Taking Virtual Reality to New Heights - Explore & Play Games with Steam and Meta Quest
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d560431f923ced226ef363014bbd59707b7820d52
 * You’re physically in the same room as your Wi-Fi router or access point when you use your Quest to play. It should ideally support[Wi-Fi 6e](https://www.makeuseof.com/tag/what-is-wifi-6/) or 7.
 * Your gaming PC and headset must be on the same LAN and able to “see” each other. In some cases, your Wi-Fi may be isolated from wired devices. If this is the case, you’ll need to delve into your router settings to correct the issue. This might also be the case if you have a large home and chose to[use more than one router](https://www.makeuseof.com/should-you-use-multiple-routers-pros-and-cons/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Using Steam Link on the Meta Quest
 
  Steam Link has always been the easiest way to stream your Steam games to other computers and mobiles—and now there’s an official Steam Link app for Meta Quest. This is by far the easiest way to stream both flatscreen and VR games wirelessly to your Quest.
@@ -54,28 +54,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![steam link no computer found](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-no-computer-found.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If it successfully locates your computer, click**Connect** , and you'll be given a four-digit code to enter on the Steam side. You'll only need to do this once.
 
 ![steam link connect computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-connect-computer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  You'll be greeted with the usual "big screen" Steam menu and can proceed to use Steam VR as if you were on a desktop. You can jump straight into your VR games with full Quest controller support.
 
 ![steam link vr bigscreen mode vr titles only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-bigscreen-mode-vr-titles-only.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While it is possible to play non-VR flatscreen games using Steam Link as well, I found that the Meta Quest controllers aren't emulated as a gamepad, nor will Steam Link pass through a gamepad that's connected via Bluetooth to your Quest.
 
  It's also not easy to use your Quest controller to point and click like a mouse (it requires simultaneously holding down the Steam button and then tapping the trigger, for instance).
 
 ![steam link vr library view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-library-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Instead, you'll need to use a mouse and keyboard (or a gamepad) connected directly to your PC. If you're in the same room as your PC anyway, this isn't a huge deal. But it does mean that you can't enjoy some casual gaming from bed, for instance.
 
@@ -129,9 +127,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![enable quest link from quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enable-quest-link-from-quick-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For wireless connectivity, click the**Enable AirLink** option. Your computer should then be listed below. Click to pair, and if this is your first time, you'll need to confirm the pairing request on the PC side (a code is shown to verify from the headset, but you don't need to note it down or type it in).
 
  You'll also need to jump back into the headset after doing so and confirm again there.
@@ -139,9 +134,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![use airlink for quest link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/use-airlink-for-quest-link.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If all goes well, you'll be thrown into a stark Oculus desktop interface, where you'll find an array of buttons at your controller-tips for**Library** —which is where you can find a link to SteamVR, as well as your Oculus desktop games (if any)—or just**Desktop** .
 
  Once you've opened a SteamVR app, it should also be added to the library to quickly launch it again.
@@ -169,8 +164,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![oculus desktop headset connected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/oculus-desktop-headset-connected.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The instructions for getting this working over a USB cable are the same as the AirLink section above, except you don't need to enable the AirLink option; it will assume you're using a cable, so just click connect.
 
 **Meta Link Cable Pros:**
@@ -183,22 +179,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * You're tethered to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Method Should You Use to Play Steam Games on Your Meta Quest?
 
  If you're serious about streaming games to your Meta Quest, I recommend purchasing the Virtual Desktop app. It's the most reliable option and offers the most comprehensive feature set that goes far beyond Steam games. You'll even be able to watch downloaded 3D movies.
 
  But if you're unsure about the idea and only want to dabble with VR games from Steam, the official Steam Link app is simple and free—so it's worth trying that first.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -207,4 +201,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-comprerancial-onestream-approach-to-online-streaming/"><u>[New] The Comprerancial OneStream Approach to Online Streaming</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-six-social-media-locations-for-business-enhancement-for-2024/"><u>[Updated] Essential Six Social Media Locations for Business Enhancement for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1-quick-and-simple-drm-free-conversion-transform-aa-files-into-mp3-with-just-a-few-clicks/"><u>1. Quick & Simple DRM-Free Conversion: Transform AA Files Into MP3 with Just a Few Clicks!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-moneyminded-cloud-vault-capacious-cost-effective/"><u>2024 Approved MoneyMinded Cloud Vault - Capacious, Cost-Effective</u></a></li>
+<li><a href="https://games-able.techidaily.com/activating-full-gaming-potential-ps5s-assist-controller/"><u>Activating Full Gaming Potential: PS5's Assist Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-power-of-corsairs-icue-link-and-upgrade-impact/"><u>Explore the Power of Corsair's iCUE Link and Upgrade Impact</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-mode-functionality-and-benefits-for-mac-users-on-sonoma-os-by-apple/"><u>Game Mode Functionality and Benefits for Mac Users on Sonoma OS by Apple</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23with/without a PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimal-mic-selection-for-professional-4k-filmmaking/"><u>In 2024, Optimal Mic Selection for Professional 4K Filmmaking</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-simplified-beginner-friendly-editing-secrets/"><u>In 2024, Photoshop Simplified Beginner-Friendly Editing Secrets</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovation-leaders-makeuseof-and-mwc-2024-honors/"><u>Innovation Leaders: MakeUseOf & MWC 2024 Honors</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseof-awards-mwc-innovation-highlights/"><u>MakeUseOf Awards: MWC Innovation Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmx-200-review-superior-sounds-with-room-for-growth/"><u>MMX 200 Review: Superior Sounds with Room for Growth</u></a></li>
+<li><a href="https://games-able.techidaily.com/rhythm-revolutions-new-device-wins-gameplay/"><u>Rhythm Revolutions: New Device Wins Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-big-picture-transforming-your-gaming-setup/"><u>Steam Big Picture: Transforming Your Gaming Setup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-is-patch-tuesday/"><u>What Is Patch Tuesday?</u></a></li>
+</ul></div>
 

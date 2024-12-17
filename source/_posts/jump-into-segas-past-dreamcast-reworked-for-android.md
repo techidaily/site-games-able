@@ -1,7 +1,7 @@
 ---
 title: "Jump Into Sega's Past: Dreamcast Reworked for Android"
-date: 2024-09-04T21:49:20.995Z
-updated: 2024-09-05T21:49:20.995Z
+date: 2024-12-10T06:09:33.223Z
+updated: 2024-12-17T13:32:58.093Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
  The Sega Dreamcast is a classic for a reason. So it's kind of surreal that you can carry every banger in your pocket. From Yu Suzuki's classic Shenmue to the insanely absurd Seaman, here's how to experience every work of art to grace the Sega Dreamcast on an Android device.
 
  Emulation is legal but emulating games and consoles you don't own is technically illegal. But the games from the Sega Dreamcast's original run are long out of print, so it falls into a moral gray area. Thus, we won't be showing you where to find ROM files or the BIOS file required to boot up your games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Do You Need to Emulate Sega Dreamcast Games on Android?
 
@@ -57,12 +61,6 @@ Once you've downloaded the files, move them to your ROMs folder.
 
  If you copy the files from a laptop via USB, you can move them directly into your ROMs folder.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 3: Unzip the ROM Files
 
  If your ROM files are zipped, you'll need to unzip and extract them into your ROMs folder. To do that, first, install the app[RAR](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.rarlab.rar) to your device. Open it and be sure to select**Allow access to manage all files** when prompted.
@@ -76,11 +74,9 @@ Once you've downloaded the files, move them to your ROMs folder.
 ![Unzipped the Shenmue ROM file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-shenmue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
 ### How to Deal With Duplicate File Names
@@ -89,12 +85,6 @@ Close
 
  For example, if you want to play the homebrew Minecraft clone Crafiti on Dreamcast but the zip file contains a file named track01.bin and you already have a file with the exact name in your ROMs folder, change Crafiti's respective track01.bin filename to crafititrack01.bin, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Set Up Your Sega Dreamcast Emulator
 
  Redream and Flycast are two of the most flexible Sega Dreamcast emulators available for Android. Choose Redream if you want to quickly jump in and start playing. But if you want an emulator that provides a few more in-depth options, Flycast is the way to go. Here's how to set up both.
@@ -102,17 +92,9 @@ Close
  By Flycast, we are referring to "Flycast Libretro" (an upstream of the discontinued Flycast Sega Dreamcast emulator).
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up Redream on Android
 
 [Redream](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=io.recompiled.redream) is the easiest emulator to set up—for starters, you can download it directly from Google Play. Install and open the app, then select**CONTINUE IN LITE MODE** unless you want to upgrade to premium. To play Sega Dreamcast games on your Android device, you can play for free.
@@ -135,12 +117,6 @@ Close
 
 ![Highlighted Android builds of Flycast Libretro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/flycast-builds-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you've downloaded the Flycast APK file open Files by Google and navigate to**Downloads > flycast-release.apk > Install** to install it. To set up the app:
 
 1. Open Flycast from your app drawer.
@@ -156,6 +132,10 @@ Finally, set the Home directory. To do that:
 
  Go back to**Library** and tap a game's icon to load it. You'll immediately jump into the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Change the Controller Layout in Flycast
 
  Flycast makes adjusting the layout of the controller so simple and seamless. If you ever thought that the Dreamcast's controller would feel better with the joystick at the bottom of the controller versus the top, this is your chance to put that theory to the test (sort of).
@@ -163,51 +143,32 @@ Finally, set the Home directory. To do that:
  Flycast allows you to go deep into the settings. You can emulate virtually every peripheral to be released for the Dreamcast. From light guns and maracas to even the Ethernet Broadband Adapter only released in Japan.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Optional: Use a Bluetooth Controller to Play Sega Dreamcast Games
 
  You can[use a Bluetooth controller with your Android device](https://www.makeuseof.com/tag/how-to-connect-a-game-controller-to-android-for-console-like-gameplay-si/) , but you have to set it to the mode appropriate for your platform and connect it using that mode's specific combination.
 
 ![Different controller modes on 8Bitdo Pro2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/8bitdopro2-modes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the 8BitDo Pro2, above, notice the lettering in panel three: S, A, X, and D. The**X** and**D** are for connecting via XInput and DirectInput (DInput), respectively, while the**S** is for the Switch. You're only interested in the**A** : which stands for Android.
 
 [Pair this device via Bluetooth,](https://www.makeuseof.com/how-to-connect-android-bluetooth) then set the controller mode to**A** and hold down the**Seeking** button for a few seconds until the bottom four LEDs power on. Hold down**Start + A** and the controller will connect to your Android device!
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Play the Hits of the Sega Dreamcast All Over Again on Android
 
  Despite the Sega Dreamcast's early demise, it still made an enormous impact. The unique games and experiences made it one of the most iconic consoles in gaming history. And you can experience it—all of it—directly from your pocket.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -216,4 +177,22 @@ Finally, set the Home directory. To do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhance-your-social-media-experience-with-these-top-tools/"><u>[New] 2024 Approved Enhance Your Social Media Experience with These Top Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-stream-potential-your-journey-with-obs-youtube-and-twitch/"><u>[New] Unlocking Stream Potential Your Journey with OBS, YouTube, & Twitch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-the-prospects-of-splitcam-for-videographers/"><u>[New] Unveiling the Prospects of SplitCam for Videographers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-finding-free-music-a-producers-handbook-for-2024/"><u>[Updated] Finding Free Music A Producer's Handbook for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-inclusivity-goodbye-to-exclusive-titles/"><u>Embracing Inclusivity: Goodbye to Exclusive Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-economics-behind-sonys-game-pass/"><u>Exploring the Economics Behind Sony’s Game Pass</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/guide-steps-for-securely-encrypting-and-decrypting-your-macs-hard-drive/"><u>Guide: Steps for Securely Encrypting & Decrypting Your Mac's Hard Drive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-21-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on 21</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagining-speed-in-gameplay-consoles/"><u>Reimagining Speed in Gameplay – Consoles</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonys-next-gen-playstation-5-examined/"><u>Sony's Next-Gen PlayStation 5 Examined</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-gaming-leading-vr-game-engines-for-2024/"><u>The Future of Gaming Leading VR Game Engines for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-science-behind-thc-absorption-in-human-tissue/"><u>The Science Behind THC Absorption in Human Tissue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-emerging-trends-in-cybersecurity-future-insights/"><u>Top 7 Emerging Trends in Cybersecurity: Future Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/unpacking-why-cozy-games-resonate-deeply/"><u>Unpacking Why Cozy Games Resonate Deeply</u></a></li>
+<li><a href="https://games-able.techidaily.com/uphold-exceptional-performance-mastery-of-mobile-fps-assessment/"><u>Uphold Exceptional Performance: Mastery of Mobile FPS Assessment</u></a></li>
+</ul></div>
 

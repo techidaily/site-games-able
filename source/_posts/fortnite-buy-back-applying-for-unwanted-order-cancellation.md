@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Buy-Back: Applying for Unwanted Order Cancellation"
-date: 2024-09-04T21:49:22.555Z
-updated: 2024-09-05T21:49:22.555Z
+date: 2024-12-14T07:06:42.874Z
+updated: 2024-12-17T12:31:56.028Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  Continue reading to learn how to apply for a refund from Epic Games’ Fortnite FTC settlement​​​​.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Who Can Apply for a Refund From Epic Games’ Fortnite FTC Settlement?
 
  In December 2022,[the FTC fined Epic Games $245 million](https://www.makeuseof.com/fornite-creator-epic-games-to-pay-520-million-fine/) for using dark patterns to charge customers for unwanted purchases. In September 2023, the FTC started accepting applications for refunds from affected gamers.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 * Your account was locked between January 2017 and September 2022 after you complained to your credit card. company about wrongful charges."
 
  Additionally, you must be based in the US to apply for a refund and at least 18 to apply. If you are under 18, the FTC says that "a parent or guardian must complete the claim form for you".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Apply for a Refund From Epic Games’ Fortnite FTC Settlement
 
@@ -42,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
 ![FTC Fortnite settlement application form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ftc-fortnite-settlement-application-form.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The deadline for applications is January 17, 2024.
 
  Please note that submitting an application doesn't guarantee that you'll be refunded. There's also no way of knowing how much you'll be refunded or when you'll receive your refund if your application is approved. The FTC will provide updates about mailing dates in the future.
@@ -49,29 +61,18 @@ The deadline for applications is January 17, 2024.
  For more information about the settlement, email <admin@fortniterefund.com> or call 1-833-915-0880.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## An Epic Win for Fortnite Gamers
 
  The FTC is calling Epic Games to account for its shady dealings. Finally, affected gamers and parents can receive some justice for what they've experienced at the hands of Fortnite.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -80,4 +81,26 @@ The deadline for applications is January 17, 2024.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-perfecting-game-capture-techniques-and-tricks/"><u>[New] In 2024, Perfecting Game Capture Techniques & Tricks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-into-the-spotlight-learning-youtube-vlogger-etiquette/"><u>[Updated] In 2024, Step Into the Spotlight Learning YouTube Vlogger Etiquette</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-frame-by-frame-helpdesk/"><u>2024 Approved Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>2024 Approved Midnight Tales in Motion Evaluating Parental Choices for Kids</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/complete-guide-aomei-partition-assistants-pxe-boot-feature-explained/"><u>Complete Guide: AOMEI Partition Assistant's PXE Boot Feature Explained</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-with-incredible-resolution-and-refresh-rates/"><u>Game On with Incredible Resolution and Refresh Rates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your hardware drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-tecno-spark-10c-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Tecno Spark 10C to iPhone | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/invaluable-slide-show-tools-for-business-executives-for-2024/"><u>Invaluable Slide Show Tools for Business Executives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-vrr-feature-for-smooth-gameplay-on-xbox-console/"><u>Mastering the VRR Feature for Smooth Gameplay on Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/preserve-steam-captures-step-by-step-guide/"><u>Preserve Steam Captures: Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-fixes-for-cloud-synching-on-steam-devices/"><u>Quick Fixes for Cloud Synching on Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-and-efficient-charger-kits-for-ps5-dualsense/"><u>Smart & Efficient Charger Kits for PS5 DualSense</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-button-mapping-for-controller-gameplay/"><u>Step-by-Step: Button Mapping for Controller Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/tetris-talent-showdowns-on-android-and-ios-devices/"><u>Tetris Talent Showdowns on Android and iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-mystery-of-virtual-realitys-exorbitant-pricing/"><u>Unlocking the Mystery of Virtual Reality's Exorbitant Pricing</u></a></li>
+<li><a href="https://games-able.techidaily.com/what-makes-cozy-games-a-haven/"><u>What Makes Cozy Games a Haven?</u></a></li>
+</ul></div>
 

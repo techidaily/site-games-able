@@ -1,7 +1,7 @@
 ---
 title: "From Sign-Up to Subscription: Optimizing Every Gaming Moment in EA Play PS5"
-date: 2024-12-04T18:13:07.054Z
-updated: 2024-12-11T07:11:01.273Z
+date: 2024-12-10T16:18:37.692Z
+updated: 2024-12-17T13:55:47.302Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is EA Play?
 
  Essentially, EA Play (once known as EA Access) is a subscription service for PlayStation and Xbox that offers select EA titles to “rent” while your subscription is on. It also gives you a 10% discount on some non-free titles, season passes, points packs, and DLCs. Lastly, EA Play membership will give you a free 10-hour early access trial to some EA games, and your progress will sync should you choose to buy the game.
@@ -43,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play in PlayStation Store's subscription page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-in-playstation-store-s-subscription-page.JPG)
 4. Select**$4.99** and choose**Order & Pay** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the image above, you’ll see that EA Play is going for $0.99\. This is a limited offer and doesn’t reflect the regular price.
 
  If you have money in your wallet, EA Play will debit the wallet before any other payment method—even on subsequent renewals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use an EA Play Membership on the PS5
@@ -60,19 +68,15 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 ![EA Play Play List page on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-play-list-page-on-the-ps5.JPG)
 3. Navigate to the game you wish to download, select the cover art, and choose**Download** or the discount game price button.  
 
-![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Battlefield 4 EA Play PlayStation Store page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/battlefield-4-ea-play-playstation-store-page.JPG)
 
  The game will download and install on your device from there. If you got the game free, you’ll no longer have access when your EA Play membership expires. However, if you bought it with the 10% discount, you’ll have the game forever.
 
  You can tell which games in your library are EA Play games; just look for the tiny red circular EA Logo when you highlight the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Cancel an EA Play Membership on the PS5
 
@@ -80,14 +84,10 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 ![EA Play subscription settings on the PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ea-play-subscription-settings-on-the-ps5.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your membership will continue after you cancel, but it won’t renew. You can return back to this page in settings to renew the subscription by selecting the**Subscribe** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## EA Play Saves You Money
@@ -111,22 +111,18 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-establishing-a-mac-based-sports-media-outlet/"><u>[New] In 2024, Establishing a Mac-Based Sports Media Outlet</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-comprerant-guide-to-enhanced-captioning-on-instagram-platforms-for-2024/"><u>[Updated] A Compreran't Guide to Enhanced Captioning on Instagram Platforms for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-dji-aerial-units-baseline-upgraded-ultrahd-experts-for-2024/"><u>[Updated] DJI Aerial Units Baseline, Upgraded, UltraHD Experts for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximize-visual-impact-the-perfect-blend-of-windows-11-photos-and-storyremix/"><u>[Updated] Maximize Visual Impact The Perfect Blend of Windows 11, Photos and StoryRemix</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/bringing-style-to-your-workspace-an-expert-look-at-the-modern-taotronics-tt-dl16-led-desk-lamp/"><u>Bringing Style to Your Workspace: An Expert Look at the Modern TaoTronics TT-DL16 LED Desk Lamp</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-biometric-security-program-for-microsoft-windows-systems/"><u>Download & Update Guide: Biometric Security Program for Microsoft Windows Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-device-freeze-code-0x887a0006-in-windows/"><u>Fixing Device Freeze - Code 0X887A0006 in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/heat-trouble-overclocked-gpu-woes/"><u>Heat, Trouble: Overclocked GPU Woes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-user-experience-with-personalized-youtube-card-implementation/"><u>In 2024, Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
-<li><a href="https://games-able.techidaily.com/indulge-in-fun-the-best-10-game-apps-for-androidios-free/"><u>Indulge in Fun: The Best 10 Game Apps for Android/iOS (Free!)</u></a></li>
-<li><a href="https://games-able.techidaily.com/indulge-in-narrative-excursions-browsers/"><u>Indulge in Narrative Excursions (Browsers)</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-there-tangible-value-in-ea-plays-cost/"><u>Is There Tangible Value in EA Play's Cost?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-vs-microsofts-marvel-an-in-depth-comparison-of-llama-3-and-gpt-4/"><u>Llama Vs. Microsoft's Marvel: An In-Depth Comparison of Llama 3 and GPT-4</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-joy-in-portable-gaming-my-commitment-to-apple-arcade/"><u>The Joy in Portable Gaming: My Commitment to Apple Arcade</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-watching-basketball-with-precision/"><u>The Ultimate Guide Watching Basketball with Precision</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-full-power-of-docked-steam-deck-with-easy-tweaks/"><u>Unleash Full Power of Docked Steam Deck with Easy Tweaks</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-my-geforce-rtx-4090-now-seems-overkill/"><u>Why My GeForce RTX 4090 Now Seems Overkill</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-adjust-macs-captured-screen-storage-place/"><u>[New] Adjust Mac's Captured Screen Storage Place</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-scriptural-ringtone-selections-for-faith/"><u>[New] Top 10 Scriptural Ringtone Selections for Faith</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-keeping-your-views-private-top-5-insta-tools/"><u>[Updated] 2024 Approved Keeping Your Views Private - Top 5 Insta Tools</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1-sassurer-de-lexactitude-des-donnees-verification-du-fichier-dimage-de-sauvegarde-pour-integrite-des-donnees/"><u>1. S'assurer De L'exactitude Des Données: Vérification Du Fichier D'image De Sauvegarde Pour Intégrité Des Données</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-premium-cloud-storage-services-a-guides-choice/"><u>2024 Approved Premium Cloud Storage Services A Guide's Choice</u></a></li>
+<li><a href="https://games-able.techidaily.com/atlasos-breathe-new-life-into-your-old-gaming-rig/"><u>AtlasOS: Breathe New Life Into Your Old Gaming Rig</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/conquering-capture-a-detailed-walkthrough-for-ps4-recordings/"><u>Conquering Capture A Detailed Walkthrough for PS4 Recordings</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-non-starting-display-drivers-in-win1011-oses/"><u>Fixing Non-Starting Display Drivers in Win10/11 OSes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/navigating-through-facebooks-recent-content-policy-shifts-for-2024/"><u>Navigating Through Facebook's Recent Content Policy Shifts for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/shine-a-brighter-spotlight-on-your-xbox-console/"><u>Shine a Brighter Spotlight on Your Xbox Console</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/soundscapes-from-social-media-videos-for-2024/"><u>Soundscapes From Social Media Videos for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-economic-impact-of-a-psplus-gaming-pass/"><u>The Economic Impact of a PS+ Gaming Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-ps5-remote-recovery/"><u>The Ultimate Guide to PS5 Remote Recovery</u></a></li>
 </ul></div>
 

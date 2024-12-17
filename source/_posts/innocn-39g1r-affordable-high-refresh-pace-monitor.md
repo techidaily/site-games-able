@@ -1,7 +1,7 @@
 ---
 title: "InnoCN 39G1R: Affordable, High Refresh Pace Monitor"
-date: 2024-08-31T19:25:43.851Z
-updated: 2024-09-01T19:25:43.851Z
+date: 2024-12-12T02:45:18.073Z
+updated: 2024-12-17T08:41:27.069Z
 tags:
   - games
 categories:
@@ -104,6 +104,10 @@ Yes - 3000R
 
 ![innocn 39g1r - construction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-construction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, I'll admit I had problems getting the stand to latch securely onto the rear. I narrowly avoided catastrophe when lifting it back up, realizing it wasn't actually attached correctly. Partly this is due to the large cylindrical shroud that covers the attachment point; it's impossible to see when the latches are flush. Listen for the mechanical clicks and test before confidently declaring the construction step completed!
 
  Once the back is latched on securely, place the legs on and secure them with a single screw from underneath.
@@ -111,6 +115,10 @@ Yes - 3000R
  As for cable management, there's no channel in the stand to run the cables, but there is a small circular cutout as well as a port cover.
 
 ![innocn 39g1r - rear panel and cable ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-rear-panel-and-cable-ports.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll find two HDMI 2.0 ports and two DisplayPort 1.4 ports. Unfortunately, if your cabling is a bit large, the port cover barely fits back on. I found angling the monitor applied just enough force on the port cover to pull it off again. I'll probably leave it off–it’s not essential, especially if the back of the display isn't visible.
 
@@ -122,9 +130,6 @@ Yes - 3000R
 
 ![innocn 39g1r - leds dont do much](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-leds-dont-do-much.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  On the rear, you'll find a diagonal line of LEDs. They’re not bright enough to serve as bias lighting (in the image above, the blue reflecting on the wall is coming from my PC fans, not the monitor), nor do they synchronize with on-screen content. You can manually configure them to one of seven different static colors, a few different scene styles, and adjust the brightness (though the maximum "vibrant" brightness setting would be better described as "just about visible").
 
 ![innocn 39g1r monitor rear middle of room-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-monitor-rear-middle-of-room-1.jpg)
@@ -137,9 +142,6 @@ Yes - 3000R
 
 ![innocn 39g1r - display rear cyclinder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-display-rear-cyclinder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The legs have a sizable footprint, however, and the option to VESA mount would have been appreciated. Unlike the small, solid metal bases of most monitors, the 39G1R relies on a tripod leg structure. It's stable, but it requires about a foot of depth. While you probably wouldn’t try to cram a 39-inch monitor onto a tiny desk anyway, that’s still a significant footprint for any desk size. The awkward tripod shape also means you can't slide a mini-PC in there, or tuck your keyboard out of the way when not in use.
 
 ## OSD and Controls
@@ -148,12 +150,13 @@ Yes - 3000R
 
 ![innocn 39g1r - OSD menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-osd-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s a somewhat confusing system, and I often turned the monitor off unintentionally until I'd gotten used to it. Input swapping was a notable pain point. While one might expect input swapping to be on the quick menu, the only way to swap is to navigate the full OSD menu structure. To illustrate, swapping from HDMI 1 to DP 1 requires a sequence of button presses more akin to a Street Fighter special move: right, right, right, down, down, right. On the other hand, if you shut down one input, it will automatically switch over, so it’s a minor nuisance.
 
  Diving into the full menu also reveals a myriad of settings to tweak, though nothing unexpected. Picture-in-picture mode is supported for productivity (or watching football).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specifications
 
@@ -163,14 +166,15 @@ Yes - 3000R
 
 ![innocn 39g1r - featured image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-featured-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  The 39G1R boasts 99% sRGB gamut coverage and supports HDR10, but with a peak brightness of 350 nits and no local dimming, the HDR is limited and not on par with TV HDR—to the extent that I wouldn't bother enabling it.
 
  Still, SDR content looks incredible. The panel uses VA technology with a 3000:1 contrast ratio, which enables it to deliver deep blacks. The glossy screen finish also helps with overall color richness, though it's prone to reflections from ambient light sources.
 
 ![innocn 39g1r - lego browls high motion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-browls-high-motion.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The maximum refresh rate is 165Hz, which will benefit any high-motion gaming (though only if your machine can push the frames that fast). But as with many VA panels, there might be some ghosting. You can adjust the response time in the on-screen menu if you find this problematic, but it won't eliminate the problem entirely. In real-world usage, I didn't notice any ghosting.
 
@@ -186,13 +190,18 @@ Yes - 3000R
 
 ![innocn 39g1r - cyberpunk bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-cyberpunk-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To test the high frame rates, I loaded up Lego Brawls, which is basic enough to run at the full 165 frames a second—and promptly came first in every match I played. I'm not saying the high frame rate was a huge benefit when weighed against my obvious elite skills to compete against random children on the internet. Still, it probably played a not insignificant role.
 
 ![innocn 39g1r - lego bralws gameplay top brawlers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-lego-bralws-gameplay-top-brawlers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  I also wanted to try something strategy-based to see if the low pixel density was more frustrating, so I fired up Company of Heroes. The added size of the map more than made up for any loss of detail. However, we should acknowledge that monitors can be highly subjective—you may be more sensitive to low pixel densities than I am.
 
 ![innocn 39g1r - strategy low resolution close up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-strategy-low-resolution-close-up.jpg)
@@ -202,56 +211,50 @@ Yes - 3000R
 ![innocn 39g1r - no VRR ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-no-vrr-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that’s good enough for most people, but don’t buy this specifically for VRR support if you’re on PlayStation. This isn’t uncommon, I should add. Sony has implemented a very restrictive form of variable refresh which needs HDMI 2.1, and the 39G1R doesn’t provide that. For the highest refresh rates, you’ll need to use the DisplayPort.
 
 ![innocn 39g1r - call of duty](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-call-of-duty.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  I also ran through the standard assortment of Eizo monitor tests, and a couple of points stood out that I hadn’t noticed during regular use.
 
  Firstly, the uniformity was a bit off, with some slightly darker streaks around the lower left. This could also be seen a little in the gradient test in which the bottom left was brighter.
 
 ![innocn 39g1r - grdient uniformity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-grdient-uniformity.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Switching over to a thermal camera view shows why: the panels are illuminated from the bottom, and the internal reflections mean a little unevenness in the bottom left. Again, in real-world usage, I'll emphasize that didn't notice any of this.
 
 ![innocn 39g1r - infrared view showing illumination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-infrared-view-showing-illumination.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Secondly, on the response rate test, there was some definite ghosting, most evident on dark blue, which led to purple ghosting on the grey background, and bright red with brown ghosting.
 
 ![innocn 39g1r - brown and purple ghosting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/innocn-39g1r-brown-and-purple-ghosting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The ghosting is to be expected from a VA panel, as are minor uniformity issues on something at this budget.
 
  Best left unspoken are the built-in 2W speakers. They’re functional, but no surprises there: they are monitor speakers, and pretty much anything else would be better.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Should You Buy the Innocn 39G1R?
 
  In the sub-$500 price range, the 39G1R can’t be beaten. It’s not the highest pixel density around, but the sheer size, the high refresh rates, and the high contrast ratio more than make up for it. If you did want 4K resolution, the closest alternative would be the[38” ASUS ROG PG38UQ](https://www.amazon.com/ASUS-Swift-Gaming-Monitor-PG38UQ/dp/B0BZR81SQG?tag=muo-v2-7s9kakr-20&ascsubtag=UUmuoUeUpU2029202&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Finnocn-39g1r-review%2F&asc%5Fcampaign=Affiliate) , at almost three times the price.
 
  For value and impact, the Innocn 39G1R is a fantastic buy. It might not suit the most discerning of folks, but for most people, I think you’ll be really pleased.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -260,4 +263,22 @@ Yes - 3000R
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-maintain-proper-aspect-ratio-for-tweeted-movies/"><u>[New] 2024 Approved Maintain Proper Aspect Ratio for Tweeted Movies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-push-past-limitations-showcase-videos-in-social-media/"><u>[New] Push Past Limitations Showcase Videos in Social Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-transform-your-farm-with-stardews-most-innovative-mods-7-best/"><u>[Updated] 2024 Approved Transform Your Farm with Stardew's Most Innovative Mods (7 Best)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-audio-dimming-techniques-in-logic-pro/"><u>2024 Approved Audio Dimming Techniques in Logic Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-language-barriers-with-chatgpt-insights/"><u>Breaking Language Barriers with ChatGPT Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-signals-recognizing-offline-players-on-xbox-xs/"><u>Deciphering Signals: Recognizing Offline Players on Xbox X/S</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-of-epson-et-2750-drivers-for-windows-users-how-to-update-and-fix-printing-issues/"><u>Easy Download of Epson ET-2750 Drivers for Windows Users - How to Update and Fix Printing Issues</u></a></li>
+<li><a href="https://fox-making.techidaily.com/exploring-the-impacts-of-the-treaty-of-nanking-insights-from-yl-computing-and-yl-software/"><u>Exploring the Impacts of the Treaty of Nanking: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hps-deskjet-ink-advantage-3050-driver-software-download-fresh-update-for-windows-systems/"><u>HP's Deskjet Ink Advantage 3050 Driver Software Download: Fresh Update for Windows Systems</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-vs-edge-battle-royale-best-gaming-browsers-edition/"><u>Opera GX vs Edge Battle Royale: Best Gaming Browsers Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-playtime-overcome-the-most-common-game-causing-issues/"><u>Transform Your Playtime: Overcome the Most Common Game-Causing Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-steams-file-stowage-strategy/"><u>Understanding Steam's File Stowage Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-tech-priorities-cpu-or-graphics-card-upgrades/"><u>Understanding Tech Priorities: CPU or Graphics Card Upgrades</u></a></li>
+<li><a href="https://games-able.techidaily.com/youtube-expands-horizons-with-exciting-interactive-mini-game-adventures/"><u>YouTube Expands Horizons with Exciting, Interactive Mini-Game Adventures</u></a></li>
+</ul></div>
 

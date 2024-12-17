@@ -1,7 +1,7 @@
 ---
 title: Exposing PS5's Stealthy Browser Access
-date: 2024-12-05T04:28:51.843Z
-updated: 2024-12-11T04:16:22.325Z
+date: 2024-12-14T08:33:03.675Z
+updated: 2024-12-16T20:43:49.969Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Access the PS5 Web Browser
 
  To use the web browser on the PS5, first head to the**Settings** page from the main menu. Here, select the**Users and Accounts** section, followed by**Linked Services** .
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 ![PS5 Link With Other Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/01-PS5-Link-With-Other-Services.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't actually log in here. Instead, use the left stick to hover the cursor over the Twitter bird logo at the top of the page, then click it with the**X** button.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 ![PS5 Twitter Click Logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/02-PS5-Twitter-Click-Logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you do this, you'll be faced with a login page like you would in any desktop browser. Since you can't search X without an account anymore, we'll need an alternative method to access the web at large. The trick lies in selecting**Sign in with Google** . Click this to open Google's login page.
@@ -54,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 ![Google Select Terms Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-select-terms-link.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Use the right stick to scroll down to the very bottom (it will take a moment) and you'll see a link to**Google** at the bottom-left. Click this.
@@ -65,11 +69,11 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 
 ![Searching MUO on Google PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/searching-muo-on-google-ps5.jpg)
 
- Because there's no browser address bar, you'll need to search Google and click links to go anywhere. It's clunky, but functional.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Because there's no browser address bar, you'll need to search Google and click links to go anywhere. It's clunky, but functional.
 
 ## Is the PS5 Web Browser Worth Using?
 
@@ -84,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
  Oddly, the PS5 does have an options page under**Settings > System** titled**Web Browser** that has settings for deleting cookies and similar. It's not clear why this exists when the browser isn't meant for general use.
 
  Meanwhile, if the lackluster web browser left you wanting more, you should check out other[hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Browse the Web on PS5, If You Really Need To
 
@@ -108,18 +108,24 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-deciphering-instagram-stories-what-youre-not-seeing-as-a-viewer/"><u>[New] Deciphering Instagram Stories What You're Not Seeing as a Viewer</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-voice-logging-devices-scrutiny-for-2024/"><u>[New] Voice Logging Devices Scrutiny for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-behind-the-scenes-of-music-enhanced-snapchats-for-2024/"><u>[Updated] Behind the Scenes of Music-Enhanced Snapchats for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweeting-videos-to-tweenish-animations-for-no-fee/"><u>[Updated] Tweeting Videos to Tweenish Animations for No Fee</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-the-chest-of-free-fcp/"><u>2024 Approved Unlocking the Chest of Free FCP</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/latin-enchantment-learning-by-playing/"><u>Latin Enchantment: Learning by Playing</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-steams-gamer-rewards-unlock-all-achievements/"><u>Mastering Steam's Gamer Rewards: Unlock All Achievements</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-art-of-controlling-discord-ui/"><u>Mastering the Art of Controlling Discord UI</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-mastering-the-art-of-duplicating-pdfs-with-yl-computing-tools/"><u>Step-by-Step Guide: Mastering the Art of Duplicating PDFs with YL Computing Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-consoles-secrets-without-a-mic/"><u>Unlock Your Console's Secrets Without a Mic</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-your-psp-for-nes-snes-and-sega-genesis-simulation/"><u>Unlock Your PSP for NES, SNES, and Sega Genesis Simulation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-evaluating-the-significance-of-insta-selfies-verification/"><u>[New] In 2024, Evaluating the Significance of Insta-Selfies Verification</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-real-time-screen-replay-on-chrome-pcs/"><u>[Updated] In 2024, Real-Time Screen Replay on Chrome PCs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtubes-competition-best-3-online-videostreaming-hubs/"><u>[Updated] In 2024, YouTube's Competition Best 3 Online Videostreaming Hubs</u></a></li>
+<li><a href="https://games-able.techidaily.com/dropping-paywalls-5-reasons-to-keep-your-games-home/"><u>Dropping Paywalls: 5 Reasons to Keep Your Games Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-guide-resolving-display-driver-failed-errors-on-windows-11/"><u>Expert Guide: Resolving Display Driver Failed Errors on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/o-estimate-income-from-youtube-video-snippets-for-2024/"><u>How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-s18e-by-fonelab-android-recover-video/"><u>How to recover old videos from your S18e</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-7-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photobooth-video-glitch-understanding-the-halt/"><u>In 2024, Photobooth Video Glitch - Understanding the Halt</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-review-vn-video-editor-a-powerful-video-editing-tool-for-android/"><u>In 2024, Review VN Video Editor - A Powerful Video Editing Tool for Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-from-my-oled-faux-pas-smart-screen-selection/"><u>Learn From My OLED Faux Pas: Smart Screen Selection</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-advanced-features-of-amds-rx-7800xt-7700xt/"><u>Navigating the Advanced Features of AMD's RX 7800XT, 7700XT</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-ps5-buying-process-wisely/"><u>Navigating the PS5 Buying Process Wisely</u></a></li>
+<li><a href="https://games-able.techidaily.com/silent-sabotage-my-overclocked-nightmrange/"><u>Silent Sabotage: My Overclocked Nightmrange</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-back-from-realms-step-forward-with-archives/"><u>Step Back From Realms, Step Forward with Archives</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-240hz-screen-guide-for-gamers/"><u>The Ultimate 240Hz Screen Guide for Gamers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-enhancing-video-cards-without-alpha-blend-capabilities/"><u>Troubleshooting and Enhancing Video Cards Without Alpha Blend Capabilities</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-the-wargame-7-crucial-fps-game-adjustments/"><u>Winning the Wargame: 7 Crucial FPS Game Adjustments</u></a></li>
 </ul></div>
 

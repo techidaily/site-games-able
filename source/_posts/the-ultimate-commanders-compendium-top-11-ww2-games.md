@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Commander’s Compendium: Top 11 WW2 Games"
-date: 2024-12-05T03:30:53.070Z
-updated: 2024-12-11T09:59:53.605Z
+date: 2024-12-09T22:12:57.866Z
+updated: 2024-12-17T11:03:39.441Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1. Company of Heroes 3
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  On top of all that, the game looks great. So much attention has been paid to the vehicles and environments that you'll feel totally immersed in the World War II experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3. Hearts of Iron IV
 
  Instead of controlling individual units, Hearts of Iron IV puts you in command of the highest-level strategy in the war. You develop technology, build and outfit armies, control forces on land, sea, and air, and launch invasions that will change the tide of the war.
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  This is a complex game, and it requires a monumental amount of strategic thinking. If you want to see what World War II must have looked from the highest level of command, this is the game for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4. Order of Battle: World War II
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  Thankfully, you can play the first chapter of each campaign pack for free to get a taste of the action. You'll find a slick and detailed game packed full of content—with over 700 units, including infantry, tanks, ships, and aircraft.
 
  If you like traditional turn-based hex gameplay, this is the game for you. It's easy to pick up, but packs a lot of depth, and has some nice animations and effects to keep things interesting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5. Panzer Corps 2
 
@@ -79,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  While there is an online multiplayer mode to keep you happy, you should definitely check out the story mode, which is engrossing and supported by great voice acting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7. War in the East
 
  War in the East is a different type of WW2 strategy game. It descends from a long line of tabletop war games, and it shows; it captures the look of cardboard pieces on paper maps.
@@ -99,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  Be warned that this game won't hold your hand and you will find it very difficult. Welcome to World War II.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9. Sudden Strike 4
 
  There's one thing that sets Sudden Strike 4 apart from many of its contemporaries: it's one of the few WW2 strategy games available on PS4 and Xbox One, as well as on PC.
@@ -111,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
  If you're looking for a console-based WW2 strategy experience, Sudden Strike 4 is the way to go.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10. Unity of Command II
 
  If you only decide to buy one WW2 strategy game, you can't go wrong with Unity of Command II. It's a follow-up to the 2011 cult classic, putting you in command of the Western Allies as you manage their supply and logistics.
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
  No two play sessions are the same thanks to dynamic campaigns that branch out with your decisions, meaning you can alter the course of history. Despite that, there's still a keen attention to detail in the units that will please history buffs.
 
  There's also a scenario editor with Steam Workshop support, so you can build your own campaigns and download other people's with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11. Close Combat
 
@@ -152,21 +152,20 @@ thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-rights-in-instagram-songs/"><u>[New] 2024 Approved Navigating Rights in Instagram Songs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-an-all-inclusive-guide-to-initiate-multiplatform-communication-via-skype-groups/"><u>[New] An All-Inclusive Guide to Initiate Multiplatform Communication via Skype Groups</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-audiophiles-guide-to-the-premier-8-4k-blu-rays/"><u>[New] Audiophile's Guide to the Premier 8 4K Blu-Rays</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-locate-and-watch-vintage-facebook-moments/"><u>[New] Locate and Watch Vintage Facebook Moments</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-crafting-a-continuous-youtube-video-stream-from-separate-files/"><u>[Updated] 2024 Approved Crafting a Continuous Youtube Video Stream From Separate Files</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-smartphone-showcase-the-very-best-for-artistic-endeavors/"><u>[Updated] Smartphone Showcase The Very Best for Artistic Endeavors</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-journey-vs-streaming-service-a-comparative-tale/"><u>Game Journey Vs. Streaming Service: A Comparative Tale</u></a></li>
-<li><a href="https://games-able.techidaily.com/gearhead-grip-the-case-for-steering-wheels-in-racing-games/"><u>Gearhead Grip: The Case for Steering Wheels in Racing Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/gift-of-play-spread-joy-with-game-subscriptions/"><u>Gift of Play: Spread Joy with Game Subscriptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hear-the-future-chatgpt-gains-vocal-abilities-for-command-and-response-from-openai/"><u>Hear the Future: ChatGPT Gains Vocal Abilities for Command and Response From OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-web-pages-the-role-of-ai-search/"><u>Revolutionizing Web Pages: The Role of AI Search</u></a></li>
-<li><a href="https://games-able.techidaily.com/spotless-playstation-a-routine-for-resiliency/"><u>Spotless Playstation: A Routine for Resiliency</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-integrating-steam-on-your-android-device/"><u>Step-by-Step: Integrating Steam on Your Android Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-cooling-accessories-and-gadgets-for-the-steam-deck/"><u>The Best Cooling Accessories and Gadgets for the Steam Deck</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ssential-guide-to-aspect-ratios-on-youtube-platforms-for-2024/"><u>The Essential Guide to ASPECT RATIOS on YOUTUBE Platforms for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essentials-of-joining-xbox-game-pass/"><u>The Essentials of Joining Xbox Game Pass</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>[New] Scalability Strategies Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-visualizing-stories-building-animation-sets-with-movie-maker/"><u>[Updated] 2024 Approved Visualizing Stories Building Animation Sets with Movie Maker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-essential-tips-building-an-instagram-money-machine/"><u>2024 Approved Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/blackview-minipc-storage-space-speeds-still-sparse/"><u>Blackview MiniPC: Storage Space - Speeds Still Sparse</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-voice-command-issues-reactivation-techniques-for-win11/"><u>Cure Voice Command Issues: Reactivation Techniques for Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-stability-key-points-in-selecting-a-cpu-cooler/"><u>Ensuring Stability: Key Points in Selecting a CPU Cooler</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamepad-flaw-outsmarted-by-new-rog-ally/"><u>Gamepad Flaw Outsmarted by New RoG Ally</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-13c-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 13C to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-no-signal-in-pokemon-go/"><u>Steering Clear of No Signal in Pokémon GO</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-hidden-challenges-6-critical-points-on-mac-gaming/"><u>The Hidden Challenges: 6 Critical Points on Mac Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-win1111s-0x887a0006-error/"><u>Troubleshooting Win11/11's 0X887A0006 Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722026568611-understanding-why-stricter-policies-are-necessary-the-perspective-of-openais-chief-executor/"><u>Understanding Why Stricter Policies Are Necessary: The Perspective of OpenAI's Chief Executor.</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-lol-overcoming-initial-hurdles/"><u>Unlocking LoL: Overcoming Initial Hurdles</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-new-fun-levels-board-games-and-card-gaming-in-discord/"><u>Unlocking New Fun Levels: Board Games and Card Gaming in Discord</u></a></li>
 </ul></div>
 

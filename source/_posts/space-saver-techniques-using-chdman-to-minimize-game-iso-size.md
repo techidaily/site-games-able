@@ -1,7 +1,7 @@
 ---
 title: "Space-Saver Techniques: Using CHDMAN to Minimize Game ISO Size"
-date: 2024-12-06T02:15:06.535Z
-updated: 2024-12-11T08:08:11.389Z
+date: 2024-12-15T21:34:38.069Z
+updated: 2024-12-17T09:03:54.976Z
 tags:
   - games
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is CHDMAN?
@@ -67,10 +67,6 @@ Our command was:
 
 ![A screenshot of the Change Directory command in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cd-command-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To compress your game with CHDMAN to CHD format, use the following:
 
 `chdman.exe createcd -i "ROM_YOU_WANT_TO_COMPRESS.CUE" -o "FILENAME_OF_COMPRESSED.CHD"`
@@ -82,6 +78,10 @@ Our command was:
 
 ![A screenshot of the command to compress a ROM into CHD format using CHDMAN](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chdman-createcd-command-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This way, you can compress the ROMs of all the consoles that used optical media (CDs and DVDs) into the CHD format. However, there's a particular case we have to mention: hard disk images.
 
  CHDMAN and the CHD format can also be used to store compressed HDD backups. Those may share the same extension with optical backups saved as BIN and IMG, but you have to use a tweaked version of the above command to compress HDDs to CHDs:
@@ -90,13 +90,13 @@ Our command was:
 
  CHDMAN can also back up to the CHD format actual HDDs connected to the PC. That, though, should be rarely needed by the average user.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Else Should You Know About CHDs?
 
  Knowing how to compress your large ROMs to leaner CHD files is our target in this article. Still, the following might be helpful if you decide to use that file format for your emulated games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Which Emulators Support CHDs?
 
@@ -122,6 +122,10 @@ Our command was:
 
  Because of[how LaunchBox works](https://www.makeuseof.com/what-is-launchbox-how-it-works/) and other front-end services you can use for emulation, like[using RetroArch on Windows](https://www.makeuseof.com/windows-retroarch-setup/) , CHDs should work on these services too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How Can You Check Your CHDs?
 
  CHDMAN isn't only a compression solution but, as its name states, a manager for CHD files. So, you can also use it to...
@@ -130,7 +134,7 @@ Our command was:
 * Check CHD files by using the**chdman verify -i "FILENAME.chd"** prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can You Decompress CHDs?
@@ -146,10 +150,6 @@ Our command was:
  You don't have to specify the BIN file; CHDMAN creates it automatically using the same name used for the CUE file. To extract compressed HDD backups, swap "extractcd" with "extracthd" as follows:
 
 `chdman.exe extracthd -i "INPUT.chd" -o "OUTPUT.IMG"`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Storage, More Gaming
 
@@ -172,19 +172,21 @@ Our command was:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-why-are-my-videos-flipped-in-instagram-written-by-michael-aaron-millman-and-richard-g-cox-jr/"><u>[New] In 2024, Why Are My Videos Flipped in Instagram' Written by Michael Aaron Millman and Richard G. Cox, Jr</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-uncompromised-zoom-audio-two-key-techniques-revealed/"><u>[Updated] 2024 Approved Uncompromised Zoom Audio Two Key Techniques Revealed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-guide-to-10-best-meme-patterns/"><u>[Updated] The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-haul-videography-unlocked-step-by-step-guide-for-enthusiasts/"><u>2024 Approved Haul Videography Unlocked Step-by-Step Guide for Enthusiasts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-blueprint-crafting-engaging-youtube-content-via-windows-movie-maker/"><u>2024 Approved Step-by-Step Blueprint Crafting Engaging YouTube Content via Windows Movie Maker</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comment-enregistrer-parfaitement-lecran-sur-un-pc-avec-windows-les-meilleures-outils-de-capture-du-marche/"><u>Comment Enregistrer Parfaitement L’Écran Sur Un PC Avec Windows: Les Meilleures Outils De Capture Du Marché</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-gameplay-list-for-versatile-streaming/"><u>Ideal Gameplay List for Versatile Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-the-ps5-slim-model-game-changing-details/"><u>Inside The PS5 Slim Model: Game-Changing Details</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-igtv-creation-and-monetization-the-ultimate-cheat-sheet-for-2024/"><u>Mastering IGTV Creation & Monetization The Ultimate Cheat Sheet for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-240hz-vision-for-enhanced-gaming/"><u>Prime 240Hz Vision for Enhanced Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-deals-enhance-your-gaming-setup-with-govee-light-strip-bundle-at-100-off-zdnet/"><u>Unlock Exclusive Deals: Enhance Your Gaming Setup with Govee Light Strip Bundle at $100 Off | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-new-horizons-in-games-with-these-9-improvements-to-ps5/"><u>Unlocking New Horizons in Games with These 9 Improvements to PS5</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-dxvk-is-essential-for-optimized-winxp-gameplay/"><u>Why DXVK Is Essential for Optimized WinXP Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-transformed-lost-aesthetic-aspects/"><u>Windows Transformed: Lost Aesthetic Aspects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-art-of-influencing-with-tiktok-marketing/"><u>[New] In 2024, The Art of Influencing with TikTok Marketing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-picks-8-must-have-wallpapers-for-macos-users-for-2024/"><u>[New] Top Picks 8 Must-Have Wallpapers for MacOS Users for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-expertly-archive-your-favorite-streamed-shows-hulu/"><u>[Updated] In 2024, How To Expertly Archive Your Favorite Streamed Shows (Hulu)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-mastery-tips-for-producing-cutting-edge-videos/"><u>2024 Approved YouTube Mastery Tips for Producing Cutting-Edge Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-analysis-of-subscribing-to-sony-online-entertainment/"><u>Cost Analysis of Subscribing to Sony Online Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-linking-an-external-device-for-enhanced-play/"><u>Effortlessly Linking an External Device for Enhanced Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-proceed-with-a-digital-xbox-seriess-reimbursement/"><u>How to Proceed with a Digital Xbox Series/S Reimbursement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-removing-stickers-with-precision-a-tiktok-specialists-guide/"><u>In 2024, Removing Stickers with Precision A TikTok Specialist's Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-xs-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone XS Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-xbox-series-xands-gameplay-with-quick-resume/"><u>Maximizing Xbox Series X&S Gameplay with Quick Résumé</u></a></li>
+<li><a href="https://games-able.techidaily.com/more-than-just-numbers-evaluating-steam-status/"><u>More Than Just Numbers - Evaluating Steam Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-steam-experience-fixes-for-windows-11/"><u>Streamline Your Steam Experience: Fixes for Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-evolution-of-smoother-gaming-introducing-nvidia-g-sync/"><u>The Evolution of Smoother Gaming: Introducing Nvidia G-Sync</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-truth-behind-chatgpts-content-an-insight-into-possible-plagiarism-concerns/"><u>The Truth Behind ChatGPT's Content: An Insight Into Possible Plagiarism Concerns</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/timeless-tales-of-summer-delight-top-10-kids-movies-for-2024/"><u>Timeless Tales of Summer Delight Top 10 Kid's Movies for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-windows-handbrake-blockage-now/"><u>Unlock Windows HandBrake Blockage Now</u></a></li>
 </ul></div>
 

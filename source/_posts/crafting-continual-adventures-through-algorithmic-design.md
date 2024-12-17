@@ -1,7 +1,7 @@
 ---
 title: Crafting Continual Adventures Through Algorithmic Design
-date: 2024-12-04T22:51:13.262Z
-updated: 2024-12-10T18:16:55.871Z
+date: 2024-12-13T07:34:28.474Z
+updated: 2024-12-17T04:14:15.303Z
 tags:
   - games
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 ![procedurally generated game map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/procedurally-generated-game-map.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Most games have manually-created worlds, like the Grand Theft Auto series and Call of Duty. This means that each and every loaded game will look the same, no matter how many times you play it.
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  This means that even if you play the game repeatedly, the title will give you unique environments with every play-through. Furthermore, procedural generation isn't limited to creating a game's physical world. Developers also use it so their games will have unique dialogues, storylines, and even NPC decisions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does Procedural Generation Work?
 
  Procedural generation starts with the algorithm and the seed. This is the basis of what you're trying to make, and the game will use this as the template for its creation. As the[X-Team blog](https://x-team.com/blog/procedural-generation-evolutionary-algorithms-and-possible-worlds/) puts it, the seed is "the DNA for a specific copy of whatever you're trying to procedurally produce."
@@ -51,15 +47,27 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
  With procedural generation, your seed ensures that you get your desired result with each run of your algorithm, while your variables give you unique results. If you pair your variable with a random number generator or RNG ([what is an RNG?](https://www.makeuseof.com/tag/lesson-gamers-rng/) ), you could potentially create an absurdly large or even infinite number of variations for your game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Games Use Procedural Generation?
 
  Many titles use procedural generation for their titles. In fact, this method of creating game worlds has been around since 1978, with its introduction in Beneath Apple Manor and Rogue in 1980.
 
  So, here are a few modern titles which use this method when creating a game session.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### No Man's Sky
 
 ![No Mans Sky trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/no-mans-sky-trailer-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: PlayStation/[YouTube](https://www.youtube.com/watch?v=nLtmEjqzg7M&t=1s&ab%5Fchannel=PlayStation)
 
@@ -78,24 +86,16 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
  This feature makes Civilization highly replayable. Even if you’re playing the games for several years, each session will be a challenge. That’s why Civilization VI, the latest release of the franchise, is one of[the best offline games you can play on the iPad](https://www.makeuseof.com/tag/best-offline-games-iphone-ipad/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Rust
 
 ![Rust trailer screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/rust-trailer-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit: Facepunch/[YouTube](https://www.youtube.com/watch?v=LGcECozNXEw&t=17s&ab%5Fchannel=Facepunch)
 
  Rust is one of[the best exploration and crafting games](https://www.makeuseof.com/best-exploration-and-crafting-games/) because of its massive and unique maps. These procedurally generated maps ensure that each map is unique, with natural and man-made features randomly placed in every iteration.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Play in Unique Game Worlds Created With Procedural Generation
 
@@ -116,17 +116,18 @@ thumbnail: https://thmb.techidaily.com/2b68f106433b091c014f2083746f9820ace97ab74
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-cutting-edge-tech-to-record-your-remote-gatherings-for-2024/"><u>[New] Cutting-Edge Tech to Record Your Remote Gatherings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-matching-tunes-to-themes-in-film-clips/"><u>[New] Matching Tunes to Themes in Film Clips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-pulse-picking-playbacks-character-beats-unveiled/"><u>[Updated] Pulse-Picking Playbacks Character Beats Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-20-premier-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/nsvwmv-movavi/"><u>將NSV格式在線免費轉換為WMV - 使用Movavi無限力量</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-dance-off-tablet-vs-mice-mastery/"><u>Digital Dance-Off: Tablet Vs. Mice Mastery</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-potential-of-big-picture-steam/"><u>Discover the Potential of Big Picture Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-multi-port-connectors-for-ps5-devices/"><u>Essential Multi-Port Connectors for PS5 Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-xs-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone XS without Password?</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimize-screen-smoothness-monitoring-fps-on-mobile-devices/"><u>Optimize Screen Smoothness: Monitoring FPS on Mobile Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-steps-ultimate-guide-to-quick-and-easy-smartphone-data-backup/"><u>Simple Steps: Ultimate Guide to Quick and Easy Smartphone Data Backup</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-best-of-the-best-8-elite-gaming-sites-ranked/"><u>The Best of the Best: 8 Elite Gaming Sites Ranked</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-underwater-gopro-filter-setup/"><u>[New] Ultimate Underwater Gopro Filter Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-high-quality-hd-movies-in-full-1080p-free-downloads-and-watching-guide/"><u>Download High-Quality HD Movies in Full 1080P - Free Downloads & Watching Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-insights-what-helldivers-2-teaches-about-successful-titles/"><u>Gaming Insights: What Helldivers 2 Teaches About Successful Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s24plus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S24+ Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unforgettable-stop-motion-films-an-overview/"><u>In 2024, Unforgettable Stop-Motion Films - An Overview</u></a></li>
+<li><a href="https://games-able.techidaily.com/low-cost-high-quality-game-accessories-revealed/"><u>Low-Cost, High-Quality Game Accessories Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-two-os-worlds-the-essential-steam-deck-guide/"><u>Navigating Two OS Worlds: The Essential Steam Deck Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/serene-soundless-xbox-one-setup-guide/"><u>Serene Soundless Xbox One Setup Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-guide-resolving-issues-with-empty-and-non-compatible-sd-card-formats/"><u>Step-by-Step Guide: Resolving Issues with Empty and Non-Compatible SD Card Formats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/striking-visuals-a-deep-dive-into-optimal-youtube-thumbnail-sizes-for-2024/"><u>Striking Visuals A Deep Dive Into Optimal YouTube Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/the-leading-3-image-conversion-applications-from-webp-to-jpg/"><u>The Leading 3 Image Conversion Applications From WebP to JPG</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-notch-nintendo-switch-audio-experience/"><u>Top-Notch Nintendo Switch Audio Experience</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-best-case-steam-decks/"><u>Ultimate Guide: Best Case Steam Decks</u></a></li>
 </ul></div>
 

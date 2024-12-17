@@ -1,7 +1,7 @@
 ---
 title: Unlocking New York Times Connection Rules
-date: 2024-08-31T19:19:52.529Z
-updated: 2024-09-01T19:19:52.529Z
+date: 2024-12-11T10:01:55.660Z
+updated: 2024-12-16T19:30:38.637Z
 tags:
   - games
 categories:
@@ -36,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 ![The NYT Connections homepage inviting you to play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-click-play-screen.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The New York Times has offered a crossword since 1942\. But in more recent years, the NYT has introduced a broader range of games. These include Spelling Bee, Letter Boxed, Tiles, Vertex, and Wordle. The latter being a phenomenon that spawned[countless Wordle alternatives and spin-offs](https://www.makeuseof.com/best-wordle-alternatives/) .
 
  In 2023,[the New York Times launched Connections](https://www.nytimes.com/2023/06/26/crosswords/new-game-connections.html) . The game has since grown in popularity due to being simple to play but difficult to master. The basic rules are simple enough for anyone to understand, but actually succeeding at the game day-in, day-out can be a tough ask.
@@ -52,35 +53,35 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
 ![NYT's Connections game as it appears before you make your first guess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-starting-position.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The idea of the game is to place these 16 words into groups of four based on a connection they share with each other. I say "a" connection, because some words share multiple similarities. You need to find the correct one in each case.
 
 ![Guessing the first group on NYT Connections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-first-group-guess.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Look for the similarities and differences between the words—and try to find the first group of four. Once you are confident you have identified it, select each one on the screen, and hit**Submit** . If you change your mind after selecting four, you can click it again to deselect it or click the**Deselect all** button underneath the puzzle to wipe the slate clean.
 
 ![A correct first guess on NYT's Connections game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-first-group-green.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your grouping is correct, the words will move to the top of the game and that bar will change color. The groups are given colors to indicate their difficulty level, with green at the top; followed by yellow, blue, and purple in that order. But you don't need to get them in that order—you just need to get them, period.
 
 ![Two groups completed on NYT's Connections game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-second-group-done.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you get a grouping wrong at any point, the words will be automatically deselected and you'll lose one of your four lives. The NYT refers to these as mistakes and you can see how many mistakes you have remaining underneath the puzzle.
 
 ![All 16 words grouped correctly in the NYT's Connections game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-connections-all-four-groups.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Continue guessing the groupings until you either fill out the whole board and complete the Connections puzzle for that day or you run out of lives. Either way, you then have to wait until midnight in your local timezone before the next puzzle goes live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Share Your Connections Results With Others
 
@@ -88,15 +89,16 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
 ![NYT's Connections results page where you can share your results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/nyt-cnnections-sharing-screen.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On desktop, this copies your results to the clipboard. You can then paste them into an email or on your favorite social media site. On mobile, this also copies your results to the clipboard for pasting. However, you'll also be given a number of ways to share it directly depending on what apps you have installed on your device.
 
  Your Connections results for that day are shared as colored squares. This ensures that you're not spoiling the game for anyone else by revealing the words or groups that they need to end up in.
 
  If Connections isn't your thing, there are plenty of other[two-player mobile games to play with friends or strangers](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Things You Need to Know About Connections Before You Play
 
  Before you start playing Connections, there are a few things you should understand:
@@ -113,14 +115,11 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
 
  Connections has become one of several games I play daily. Alongside Wordle and The Mini crossword, it offers both a fun diversion and some friendly competition with my partner. Unfortunately, she generally beats me at all of the above.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/d0ad864c2a74122a666dad56374980e063d684e4d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-cam-cover-selection/"><u>[New] 2024 Approved The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-critical-selection-the-best-10-video-cards-for-seamless-playback/"><u>[New] In 2024, Critical Selection The Best 10 Video Cards for Seamless Playback</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-synergy-sharing-tweets-as-snaps-in-2e-2023-for-2024/"><u>[Updated] Social Synergy Sharing Tweets as Snaps in 2E 2023 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-clarity-ideal-phone-tripod-pairs/"><u>Capture Clarity Ideal Phone-Tripod Pairs</u></a></li>
+<li><a href="https://games-able.techidaily.com/delving-into-steams-ultimate-display/"><u>Delving Into Steam's Ultimate Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/diagnosing-and-fixing-create-file-failure-error-30005/"><u>Diagnosing and Fixing Create File Failure: Error 30005</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-tech-tussle-which-cpu-wins-the-game/"><u>Engage in Tech Tussle: Which CPU Wins the Game?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168020295-epic-retro-play-ios-and-nintendo-fusion/"><u>Epic Retro Play: IOS & Nintendo Fusion!</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-isolation-to-alliance-the-art-of-merging-epic-plus-steam/"><u>From Isolation to Alliance: The Art of Merging Epic + Steam</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-depth-comparison-of-mkv-and-mp4-determining-quality-and-efficiency-winners/"><u>In-Depth Comparison of MKV and MP4: Determining Quality & Efficiency Winners.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/make-a-statement-with-free-profile-pics/"><u>Make a Statement With Free Profile Pics</u></a></li>
+<li><a href="https://games-able.techidaily.com/taking-your-games-home-taking-control/"><u>Taking Your Games Home, Taking Control</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pubg-windows-lag-top-fixes-to-keep-you-winning/"><u>Troubleshooting PUBG Windows Lag : Top Fixes to Keep You Winning</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-fix-or-replace-a-broken-nintendo-switch/"><u>Troubleshooting: Fix or Replace a Broken Nintendo Switch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Kickstart Your Racing Journey with $499 MOZA Bundle
-date: 2024-10-19T01:16:12.205Z
-updated: 2024-10-25T02:48:35.177Z
+date: 2024-12-14T08:54:19.176Z
+updated: 2024-12-16T18:30:00.174Z
 tags:
   - games
 categories:
@@ -117,6 +117,10 @@ Yes
 
  The accessories came in smaller boxes, with only the clutch pedal themed the same as the main R5 Bundle box, while the rest arrived in plain, white cardboard boxes with black text and an image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MOZA R5 First Impressions
 
  Taking out the ES Steering Wheel is the first thing you’ll do when opening up the box, and it's certainly exciting. The faux leather feels and smells good, but apart from the touch, the shiny brushed design on the face and rattly buttons didn’t resonate well with me.
@@ -128,13 +132,6 @@ Yes
  The thing that caught my attention about the rim is the quick release. It was intimidating in a good way and instilled the sense that this isn't a toy, but a serious piece of kit.
 
 ![MOZA R5 without steering wheel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-without-steering-wheel.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -148,33 +145,17 @@ Yes
 
 ![SR-P Lite pedals with clutch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sr-p-lite-pedals-with-clutch.JPG)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit: Jhet Borja
 
  The pedals are also heavy with a thick powder coating, but the edges are quite sharp, which makes them a little scary to handle. I was also disappointed to find that all the pedal faces are the same shape and size and completely flat with no adjustability. This could pose a problem, which I’ll discuss in the driving experience later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MOZA R5 Bundle Hardware Setup Experience
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -184,6 +165,10 @@ Yes
 
  I was able to clamp it to my desk and get in position after just about 20 minutes since unboxing—and that’s including adding the clutch pedal and brake mod.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MOZA Pit House Software
 
 ![MOZA Pit House software with configured games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-software-with-configured-games-list.jpg)
@@ -191,6 +176,10 @@ Yes
  I thought I’d have a headache trying to get everything ready on the software side for driving, but the MOZA Pit House software on PC impressed me. It was able to detect the wheel and pedals without any hitches and even had pre-configured settings for all the racing simulators I wanted to drive except for Dirt Rally.
 
 ![MOZA Pit House basic wheel base settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-basic-wheel-base-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![MOZA Pit House pedal curves](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-pit-house-pedal-curves.jpg)
 
@@ -228,6 +217,10 @@ Close
 
  The app could use some language improvements though, as the wording can be quite strange, such as “Enter the car” to change the settings, “SteeringWheel Recenter,” and “Unconnected to the screen".
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Desk Usage
 
 ![MOZA R5 beside headphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-beside-headphones.JPG)
@@ -239,10 +232,7 @@ Close
 ![Sticky pads for SR-P Lite pedals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/sticky-pads-for-sr-p-lite-pedals.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
@@ -258,33 +248,16 @@ Close
 ![MOZA R5 on edge of table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-edge-of-table.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Jhet Borja
 
  When I’m done racing, I usually stow it away at the far edge of my desk and unplug the USB and pedal cables. It’s pretty convenient to set up, as I don’t have to move the wheel base far. The wheel can also stay detached, so it’s not in the way all the time. My table is a bit wobbly though, so the monitor gets all shaky, especially when driving Rally cars.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Quick Release System
 
 ![R5 Quick Release](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/r5-quick-release.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -330,18 +303,15 @@ Close
 
  On the whole, I’d say they’re good enough if you don’t use heel and toe. For beginner to intermediate-level drivers, these are enjoyable and good enough to make you fast and consistent. I’d suggest adding a little lubrication to the hinges to improve the precision, though.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ES Steering Wheel and Formula Wheel Mod
 
  The ES Steering Wheel is a great D-shaped rim for a bundled item. I wouldn't deliberately opt for it, but it’s a great starting point. It offers 22 face buttons, which is plenty for most people.
 
 ![MOZA R5 front view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-front-view.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Jhet Borja / MakeUseOf
 
@@ -355,6 +325,10 @@ Close
 
  I also like that it has a matte black finish instead of the shiny brushed style on the original ES wheel. I’d be careful driving with it, though, as the thick metal can really hurt the hands during crashes, especially your thumbs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Buy the MOZA R5 Bundle, and Are the Add-Ons Worth It?
 
  The MOZA R5 Bundle at only $499 is amazing value that’s hard to find even from other brands. You’d probably want to go with Fanatec for console support, but I’m not a fan of Fanatec’s expensive upgrade path, locked-down ecosystem, and high shipping fees.
@@ -364,6 +338,10 @@ Close
  The only thing I don’t really find worth it is the clutch pedal. If you really want a clutch pedal, you’re most likely going to progress into heel and toe downshifting. Unless you plan to get a custom pedal face made, I think you’re better off buying the R5 alone with a table clamp and the SR-P load cell pedals, then using a real steering wheel with a D1 Spec QR, which you can find cheaply online.
 
 ![MOZA R5 on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/moza-r5-on-desk.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### MOZA R5 Bundle
 
@@ -390,24 +368,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-masterclass-carving-out-your-digital-self/"><u>[New] 2024 Approved YouTube Masterclass Carving Out Your Digital Self</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-no-frills-guide-to-basic-hdr-techniques-for-2024/"><u>[New] The No-Frills Guide to Basic HDR Techniques for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-boosting-streams-switching-to-av1-in-youtubes-settings-for-2024/"><u>[Updated] Boosting Streams Switching to AV1 in YouTube's Settings for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-comparing-video-tools-bandicam-and-camtasia-explored/"><u>2024 Approved Comparing Video Tools Bandicam & Camtasia Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-terria-customization-collection/"><u>2024 Approved Ultimate Terria Customization Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/embracing-twitch-essentials-for-effective-stream-management/"><u>Embracing Twitch: Essentials for Effective Stream Management</u></a></li>
-<li><a href="https://games-able.techidaily.com/hot-gadget-alert-keeping-your-deck-cool-and-comfortable/"><u>Hot Gadget Alert: Keeping Your Deck Cool & Comfortable</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-six-best-cinematography-tools-in-uhd-space/"><u>In 2024, Six Best Cinematography Tools in UHD Space</u></a></li>
-<li><a href="https://games-able.techidaily.com/modern-gaming-systems-old-school-appeal/"><u>Modern Gaming Systems, Old-School Appeal</u></a></li>
-<li><a href="https://games-able.techidaily.com/monthly-access-subscription-showdown-psplus-xbgplus/"><u>Monthly Access Subscription Showdown: PS+ XBG+</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/steps-to-cure-missing-gems-on-epics-library-platform/"><u>Steps to Cure Missing Gems on Epic’s Library Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns-for-2024/"><u>Tapping Into Community Spirit A Guide to Thriving FB Gifting Campaigns for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-symphony-of-stories-music-tips-for-social-media-gems/"><u>The Symphony of Stories Music Tips for Social Media Gems</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-list-of-in-demand-discord-communities/"><u>The Ultimate List of In-Demand Discord Communities</u></a></li>
-<li><a href="https://games-able.techidaily.com/tips-and-tricks-for-ultimate-blue-ray-performance-sx/"><u>Tips & Tricks for Ultimate Blue-Ray Performance SX</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-procedural-dynamism-in-games/"><u>Understanding Procedural Dynamism in Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-biggest-draws-in-mobile-gameplay/"><u>Unveiling the Biggest Draws in Mobile Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-components-to-creativity-building-a-professional-4k-pc/"><u>[New] From Components to Creativity Building a Professional 4K PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-animators-companion-expertly-reviewed-3d-modeling-software/"><u>[Updated] The Animator's Companion Expertly Reviewed 3D Modeling Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-reasons-why-you-shouldnt-trust-game-reviews-or-review-scores/"><u>5 Reasons Why You Shouldn't Trust Game Reviews or Review Scores</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-simple-tactics-to-reopen-frozen-steam-app/"><u>7 Simple Tactics to Reopen Frozen Steam App</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-compreenas-remove-old-ps5-saved-files-and-backups-quickly/"><u>A Compreenas Remove Old PS5 Saved Files and Backups Quickly</u></a></li>
+<li><a href="https://games-able.techidaily.com/acclaimed-ea-play-games-for-ps5/"><u>Acclaimed EA Play Games for PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/beatbox-battleground-pen-proves-precision-win/"><u>Beatbox Battleground: Pen Proves Precision Win</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-choice-of-efficient-mat-systems/"><u>Best Choice of Efficient Mat Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/console-capturer-pro-report-for-2024/"><u>Console Capturer Pro Report for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-transformations-in-anime-how-localization-brings-characters-home/"><u>In 2024, Transformations in Anime How Localization Brings Characters Home</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/launch-of-apple-vision-pro-integrating-word-excel-and-more-microsoft-365-applications-from-day-one-technewstoday/"><u>Launch of Apple Vision Pro: Integrating Word, Excel & More Microsoft 365 Applications From Day One | TechNewsToday</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimize-your-audio-setup-fixing-inoperative-speakers-on-windows-10-systems/"><u>Optimize Your Audio Setup: Fixing Inoperative Speakers on Windows 10 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171566459-series-xands-the-ultimate-offer-extravaganza/"><u>Series X&S: The Ultimate Offer Extravaganza!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skycleanser-exceptional-bg-erasing-software-for-2024/"><u>SkyCleanser Exceptional BG Erasing Software for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-audio-visual-storytelling-with-iphone/"><u>The Art of Audio-Visual Storytelling with iPhone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719170010590-unleash-the-potential-of-big-box-arcade-cabinetry/"><u>Unleash the Potential of Big Box Arcade Cabinetry</u></a></li>
 </ul></div>
 

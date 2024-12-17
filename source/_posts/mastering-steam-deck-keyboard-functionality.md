@@ -1,7 +1,7 @@
 ---
 title: Mastering Steam Deck Keyboard Functionality
-date: 2024-08-31T19:20:29.903Z
-updated: 2024-09-01T19:20:29.903Z
+date: 2024-12-13T22:14:38.608Z
+updated: 2024-12-17T02:07:16.486Z
 tags:
   - games
 categories:
@@ -27,8 +27,9 @@ Here’s how to bring up the Steam Deck in various scenarios.
  First, be sure you’ve given the Steam Deck two seconds at most for the Steam Deck keyboard to appear. If nothing is happening,**hold Steam Button > X** (just one of several[secret Steam Deck shortcuts you need to know](https://www.makeuseof.com/steam-deck-shortcuts/) ). The Steam Deck will appear at the bottom of the screen per usual. See it in action below in the classic immersive RPG "Deus Ex".
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Bring Up the Steam Deck Keyboard in SteamOS
 
  If you’re beating your head against your desk and screaming aloud, “Why is the Steam Deck keyboard not appearing when I press the**Steam Button** and**X** in SteamOS,” let me save you the additional headache. The Steam Deck keyboard shortcut does not work in SteamOS so long as a text field is present on-screen (as of August 2023). Whether this is a bug or a feature yet to be implemented is unknown at this time.
@@ -36,8 +37,9 @@ Here’s how to bring up the Steam Deck in various scenarios.
  But you don’t need to use this button combo anyway. To bring up the Steam Deck keyboard in SteamOS, select the text field where you want to type. The Steam Deck keyboard automatically appears every time. See an example below.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Bring Up the Steam Deck Keyboard in Steam Desktop
 
  Be sure you know how to get into Steam Desktop. To do that, hold down the**Power button** , then choose**Switch to Desktop** . Your Steam Deck will immediately restart in Desktop mode.
@@ -49,43 +51,40 @@ Here’s how to bring up the Steam Deck in various scenarios.
  The Steam Deck keyboard will not appear in Desktop Mode if the Steam Client isn’t running.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Effortlessly Bring Up the Steam Deck’s Keyboard in SteamOS, Desktop Mode, or In-Game
 
  The Steam Deck’s on-screen keyboard may seem like it acts a bit funky once you first use the Steam Deck. But once you learn the ins and outs of the Deck, the keyboard is at your beck and call whenever you need it!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: How Do You Use the Escape Command on Your Steam Deck Keyboard?
 
  Numerous[secret shortcuts for your Steam Deck](https://www.makeuseof.com/steam-deck-shortcuts/) can make navigation a breeze. But, to specifically use the escape command shortcut on your Steam Deck with the on-screen keyboard, press the**Steam Button + D-pad left** at the same time. Your Steam Deck should then close the current software you are running as soon as you enter the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: How Do You Use a Mouse and Keyboard With Your Steam Deck?
 
  You can connect a keyboard and mouse to your Steam Deck via wired connections or Bluetooth. For a wired connection, plug your accessories into your Steam Deck through the USB-C or USB-A ports on your console. For Bluetooth, ensure**Bluetooth** is enabled, and hold down the**Create** button on your console while simultaneously pressing whatever represents the sync button on your accessories. This process is similar to[connecting a DualSense controller to your Steam Deck](https://www.makeuseof.com/how-to-connect-ps5-controller-to-steam-deck/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Q: How Do You Change the Keyboard Layout on Your Steam Deck?
 
  To change the keyboard layout of your Steam Deck, press the**Steam Button** on your console and select the option for**Settings** . From here, select**Keyboard** and then choose**Edit** under**Active Keyboards** to pick your desired keyboard layout. It's also important to note that from the**Keyboard** menu, you can also change your**Current Keyboard Theme** to further customize your on-screen keyboard.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -94,4 +93,24 @@ Here’s how to bring up the Steam Deck in various scenarios.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-seamless-way-to-capture-your-favorite-pc-games-6-methods/"><u>[Updated] 2024 Approved The Seamless Way to Capture Your Favorite PC Games (6 Methods)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-deciphering-meaning-in-youtube-snippets/"><u>[Updated] Expert Techniques for Deciphering Meaning in YouTube Snippets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-secrets-unlocked-banishing-instagram-video-fails-for-2024/"><u>[Updated] Secrets Unlocked Banishing Instagram Video Fails for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-virtually-vault-securing-your-screened-shows-online-for-2024/"><u>[Updated] Virtually Vault Securing Your Screened Shows Online for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a38-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A38 Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking/"><u>2024 Approved A Compreenas Guide to Choosing Ideal Lenses for Filmmaking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-unveiling-our-exclusive-package-of-free-youtube-adornments/"><u>2024 Approved Unveiling Our Exclusive Package of Free YouTube Adornments!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-snippet-analysis-for-beginners-for-2024/"><u>Brief Snippet Analysis for Beginners for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambia-tu-archivo-ogm-a-formato-de-pelicula-mov-sin-costo-alguno-con-la-herramienta-online-conversion-de-movavi/"><u>Cambia Tu Archivo OGM a Formato De Película MOV Sin Costo Alguno Con La Herramienta Online Conversión De Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-bulky-beginnings-to-sleek-success/"><u>From Bulky Beginnings to Sleek Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-free-games-with-a-simple-redeem/"><u>Get Free Games with a Simple Redeem</u></a></li>
+<li><a href="https://games-able.techidaily.com/harmonizing-halo-passes-across-x-series/"><u>Harmonizing Halo Passes Across X Series</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-world-of-remote-xbox-play/"><u>Navigating the World of Remote Xbox Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-older-ps4-games-on-the-new-ps5/"><u>Playing Older PS4 Games on the New PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-ps4-joystick-with-effective-troubleshooting-tactics/"><u>Revitalize Your Ps4 Joystick with Effective Troubleshooting Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/stopping-auto-start-no-more-steam-launch/"><u>Stopping Auto-Start: No More Steam Launch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-good-the-bad-in-mobile-games/"><u>The Good, The Bad in Mobile Games</u></a></li>
+</ul></div>
 

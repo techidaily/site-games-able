@@ -1,7 +1,7 @@
 ---
 title: "Linking PS4/PS5 Controllers with a Switch: A Step-by-Step Guide"
-date: 2024-10-18T21:50:51.687Z
-updated: 2024-10-25T02:19:35.764Z
+date: 2024-12-12T18:22:50.829Z
+updated: 2024-12-17T04:21:27.496Z
 tags:
   - games
 categories:
@@ -31,22 +31,23 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 ![Close up of 8BitDo Wireless Adapter 2 box and component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-box-and-component.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll need a few things before you start, including a PlayStation Controller and a Bluetooth adapter. The latter can be picked up online cheaply and will be essential to the process; we recommend the[8Bitdo Wireless USB Adapter 2](https://www.amazon.com/8Bitdo-Raspberry-Compatible-Controller-Bluetooth/dp/B09M8CVMYF?th=1&linkCode=ll1&tag=muo-v2-7ejka4c-20&linkId=863c4d00a0d38154b6d8bfec201770d5&language=en%5FUS&ref%5F=as%5Fli%5Fss%5Ftl&ascsubtag=UUmuoUeUpU2011626&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-connect-ps4-ps5-controller-to-nintendo-switch%2F&asc%5Fcampaign=Evergreen) . The process for both DualShock 4 and DualSense controllers is essentially the same.
 
  It is a good idea to ensure your PlayStation is unplugged or out of range for this process to avoid the PlayStation controller connecting to your other consoles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Connect a PS4 or PS5 Controller to Your Switch
 
  For the first step, you must ensure that your Nintendo Switch is docked and turned on, and then plug in the wireless USB adapter to one of the USB slots on the left side of the dock. Next, you must navigate to the**System Settings** on the Switch’s main menu and select**Controllers and Sensors** .
 
 ![controllers and sensors nintendo switch menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/how-to-pair-ps4-controller-nintendo-switch-003.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you're in this menu, turn on the wireless USB adapter by selecting**Pro Controller Wired Connection** .
 
@@ -57,16 +58,7 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Close up of 8BitDo Wireless Adapter 2 pairing button-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/08/close-up-of-8bitdo-wireless-adapter-2-pairing-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, on both the DualSense and DualShock 4 controller, hold down**the PS Button** and**the Share button** to put the controller into pairing mode. The DualSense will have lights pulsing around the touchpad, while the Playstation 4’s DualShock 4 will display a pulsing light on the front.
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 ![Putting DualSense Controller into pairing mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/putting-dualsense-into-pairing-mode.png)
 
  When the lights on the controller and adapter return to their steady color, they are paired. You are now ready to play Switch games using a PlayStation controller. To make sure, you should be able to see your controller displayed on the**Controller Select** screen on your Switch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Things to Consider When Using PlayStation Controllers on Switch
 
@@ -85,28 +81,12 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 ![Close up of the PlayStation 5 DualSense controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/close-up-of-the-playstation-5-dualsense-controller.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This method works perfectly for both the original Nintendo Switch and the Switch OLED. However, it will not work for the Nintendo Switch Lite since it doesn't have a dock. This is one of the biggest deal-breakers when it comes to choosing whether to[buy the Nintendo Switch or the Nintendo Switch Lite](https://www.makeuseof.com/tag/nintendo-switch-vs-switch-lite/) .
 
  If you really want to connect your PlayStation controller to your Switch Lite, however, there is a way around it. You will just need to purchase a USB-C to USB adapter first and use your wireless USB adapter through that instead. Following the step-by-step guide above, you should be able to play your Nintendo Switch Lite with the PlayStation controller of your choice.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play Switch Games the Way You Want to Play Them
@@ -130,20 +110,24 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/aximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes/"><u>[New] Maximizing Visibility A Comprehensive Guide to YT Gaming Hashes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-bidding-adieu-to-instagram-your-complete-deletion-manual/"><u>[Updated] 2024 Approved Bidding Adieu to Instagram Your Complete Deletion Manual</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamline-your-share-process-with-youtube-and-fb-integration/"><u>[Updated] In 2024, Streamline Your Share Process with YouTube and FB Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/do-elite-video-games-need-microtransactions-to-succeed/"><u>Do Elite Video Games Need Microtransactions to Succeed?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-can-i-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How Can I Watch Facebook Videos on My Apple TV for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-hot-30i-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Hot 30i is off? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-mastering-4k-with-prime-lenses-for-professionals/"><u>In 2024, Mastering 4K with Prime Lenses for Professionals</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-the-steps-reactivating-disconnected-joy-con-on-switch/"><u>Mastering the Steps: Reactivating Disconnected Joy-Con on Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-ps4-joystick-jams-effective-remedies-at-hand/"><u>Overcoming PS4 Joystick Jams: Effective Remedies at Hand</u></a></li>
-<li><a href="https://games-able.techidaily.com/retrosphere-portable-nostalgia-meets-technology/"><u>RetroSphere Portable: Nostalgia Meets Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-unnoticed-online-players-handbook/"><u>The Unnoticed Online Player's Handbook</u></a></li>
-<li><a href="https://games-able.techidaily.com/troubleshooting-roblox-error-262-fixed/"><u>Troubleshooting Roblox: Error 262 Fixed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722966679404-troubleshooting-your-logitech-c615-master-driver-fixes-here/"><u>Troubleshooting Your Logitech C615? Master Driver Fixes Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-xbox-games-on-steam-via-glossi/"><u>Unlock Xbox Games on Steam via GlosSI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-art-of-memory-management-increasing-ram-in-minecraft/"><u>[New] 2024 Approved The Art of Memory Management Increasing RAM in Minecraft</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-achieving-perfect-silence-swaps-with-reaper/"><u>[New] Achieving Perfect Silence Swaps with Reaper</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-steadicams-to-enhance-dslr-video-production-quality/"><u>[Updated] Ideal Steadicams to Enhance DSLR Video Production Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-your-income-with-these-13-reddit-tactics/"><u>2024 Approved Revolutionize Your Income with These 13 Reddit Tactics</u></a></li>
+<li><a href="https://games-able.techidaily.com/assist-controller-on-ps5-a-compre-points-of-entry-for-cannabinoids-into-the-brain-and-body/"><u>Assist Controller on PS5 - A Compre Points of Entry for Cannabinoids Into the Brain and Body</u></a></li>
+<li><a href="https://games-able.techidaily.com/clear-out-your-ps5-identity-information/"><u>Clear Out Your PS5 Identity Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-hidden-gems-a-love-affair-with-indie-titles/"><u>Discovering Hidden Gems: A Love Affair with Indie Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-to-pc-mastering-controller-commands/"><u>From PlayStation to PC: Mastering Controller Commands</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-the-power-of-luts-in-adobes-creative-suite/"><u>Harnessing the Power of LUTs in Adobe's Creative Suite</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-motorola-moto-g24-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Motorola Moto G24 online without jailbreak</u></a></li>
+<li><a href="https://games-able.techidaily.com/regaining-zest-in-virtual-worlds-6-tips/"><u>Regaining Zest in Virtual Worlds: 6 Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-home-computing-choosing-a-small-or-big-pc/"><u>Size Matters in Home Computing: Choosing a Small or Big PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/stealth-mode-playing-quietly-on-xbox-one/"><u>Stealth Mode: Playing Quietly on Xbox One</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/syntax-showdown-machine-translations-clash/"><u>Syntax Showdown: Machine Translations Clash</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-keyswap-speed-importance-and-impact/"><u>Understanding Keyswap Speed: Importance & Impact</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-windows-11s-hdr-features-through-practical-tips/"><u>Understanding Windows 11’S HDR Features Through Practical Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-science-the-workings-of-an-electric-bike-engine/"><u>Unraveling the Science: The Workings of an Electric Bike Engine</u></a></li>
+<li><a href="https://games-able.techidaily.com/your-quick-guide-to-palworld-basics/"><u>Your Quick Guide to PalWorld Basics</u></a></li>
 </ul></div>
 
