@@ -1,7 +1,7 @@
 ---
 title: DIY Xbox 360 Slim Dismantling for Enthusiasts
-date: 2024-12-13T07:34:13.457Z
-updated: 2024-12-17T03:39:59.395Z
+date: 2024-12-22T17:29:22.536Z
+updated: 2024-12-25T17:46:53.307Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tools Needed to Open an Xbox 360 Slim
 
  Before the question of how to open your Xbox 360 can be answered, you'll need to gather the right tools. Specifically, you'll need the following tools:
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  Remember to ground yourself as you work by touching an unpainted metal surface within the Xbox 360\. This will reduce the likelihood of static electricity damaging the internal components. There is also the option of an anti-static wristband to protect against potential shocks that could damage or even fry your Xbox 360.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Xbox 360 Disassembly Steps
 
 ![xbox 360 slim isolated on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/xbox-360-slim-isolated-on-a-table.jpg)
@@ -48,20 +48,20 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
  The process of opening your Xbox 360 will vary by model. The Xbox 360, Xbox 360 S (Slim), and Xbox 360 E have notably different cases. As a result, the locations of the brackets holding the case together differ. In this article, we've disassembled an Xbox 360 S.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Remove the Side Covers
 
 ![removing the bottom panel of xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-bottom-panel-of-xbox-360-slim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In some ways, tearing down the Xbox 360 S is simpler than its previous iterations. You'll need to start by detaching the two side covers. The bottom side cover has a latch that lets you click and release it. Afterward, you'll need to unclip the other side panel portion gently. It's often possible to do this by gently pulling, but you can use your spudger to ease the clips loose if you're in doubt.
 
 ![removing the top grille from an xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-top-grille-from-an-xbox-360-slim.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you've removed the bottom side cover, you'll need to remove the top side cover. The top side cover doesn't have any latch and is instead clipped to the Xbox chassis on all sides. Ease your spudger or screwdriver into the seam between the top side cover and the Xbox 360 until it begins to lift away.
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 ### 2\. Remove the Side Faceplates
 
 ![removing the top faceplate from an xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/removing-the-top-faceplate-from-an-xbox-360-slim.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you've removed the side covers on both ends of your Xbox 360, you'll need to remove the underlying side faceplates. Unfortunately, these can be quite difficult to remove. You'll need to ease your spudger under the leftmost, middle, and rightmost holes on each side of the faceplate. Angle the blade of the spudger upward until the clip holding the faceplate pops loose.
 
@@ -78,13 +82,13 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 ![unscrewing the wifi adapter screw inside xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/unscrewing-the-wifi-adapter-screw-inside-xbox-360-slim.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With the side covers removed and faceplates removed, you're ready to remove the Wi-Fi adapter and hard drive. The Wi-Fi adapter is under the top faceplate, while the hard drive is under the bottom faceplate. You'll need to use your Torx T10 screwdriver to remove the Wi-Fi adapter. Remove the screw, then gently pull the Wi-Fi adapter from its port and out of the chassis.
 
  After you've set the Wi-Fi adapter aside, you'll need to remove your Xbox 360's hard drive. You'll find removing the hard drive much easier than removing the adapter, as it includes a convenient pull tab. Place the Xbox 360 on its side so the hard drive faces upward, then pull directly upward on the tab until the hard drive disconnects from its ports. Set the hard drive and Wi-Fi adapter aside on a safe, clean surface.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Remove the Frames and Pry Apart the Back Panel
 
@@ -93,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
  Now that you've removed the Wi-Fi adapter and hard drive, you're almost ready to access your Xbox 360 Slim's internal chassis. Before doing that, you'll need to remove the frames on the top and bottom side panels that once held the faceplates and side covers in place. Much like with the faceplates, you can accomplish this by easing your screwdriver behind any clips under the frame as you peel it away from the Xbox.
 
 ![prying loose the side clips on xbox 360 slim](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prying-loose-the-side-clips-on-xbox-360-slim.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After removing both frames, you can access your Xbox 360's internal chassis by prying apart the back panel. Use your spudger to apply pressure beneath the two clips holding the back frame in place. You may need to hold the sides apart to prevent them from clipping back together. Once they're separated, you'll need to ease your spudger or screwdriver down the seam of the Xbox 360 until the bottom side of the back completely bisects.
 
@@ -114,13 +114,13 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 ![an xbox 360 slim sits with its side panel removed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/an-xbox-360-slim-sits-with-its-side-panel-removed-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you've removed the bottom panel, you should see the underlying metal chassis of your Xbox 360\. Six screws hold the top of the internal case in place, including two screws on the right side, two screws on the left side, and two screws in the indentations in the middle. Remove all the screws with your T12 screwdriver and set them aside in a secure container. It's vital to make sure that you remove the correct screws—in this case, the six pictured above. Each screw is 2.5" long. You will not be able to remove the top panel of your Xbox 360 until the six T12 screws are removed.
 
  If any of the screws on your Xbox 360 are stripped, you'll need to[use an alternative process to remove the screws](https://www.makeuseof.com/how-to-remove-stripped-screw-head/) before you can proceed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Pull Away the Front Panel
 
@@ -139,7 +139,7 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
  Most importantly, research any repairs or modifications you intend to complete carefully. Certain popular fixes, such as the "Xbox 360 towel trick", are rudimentary and present a serious potential fire hazard. While the proper methods might not be as easy as popular workarounds, they will provide fantastic results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Take Apart Your Xbox 360 With Ease
@@ -161,16 +161,20 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-creating-stunning-hdr-portraits-step-by-step/"><u>[New] Creating Stunning HDR Portraits Step-by-Step</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-speedy-photographers-guide-to-google-collage-crafting-for-2024/"><u>[New] The Speedy Photographer's Guide to Google Collage Crafting for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/de-grootste-kostenloze-oplossingen-voor-compressie-van-mkv-videos/"><u>De Grootste Kostenloze Oplossingen Voor Compressie Van MKV Video's</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-performance-with-advanced-tracking-tools-by-cookiebot/"><u>Elevate Website Performance with Advanced Tracking Tools by Cookiebot</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/master-iphoneipad-video-posting-to-youtube/"><u>Master iPhone/iPad Video Posting to YouTube</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-apple-m1-and-windows-games-with-crossover-software/"><u>Mastering Apple M1 and Windows Games with Crossover Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-rtx-4070-super-apex-vs-titan-x-vs-4080-super/"><u>Nvidia's RTX 4070 Super - Apex Vs. Titan X Vs. 4080 Super</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-smartphone-battles-using-gamepads/"><u>Prime Smartphone Battles Using Gamepads</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/summiting-styles-selecting-gamer-chair-models/"><u>Summiting Styles: Selecting Gamer Chair Models</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-techniques-for-youtube-image-crafting-for-2024/"><u>[Updated] The Essential Techniques for YouTube Image Crafting for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-initial-stages-of-joining-youtube-as-a-chanel-owner/"><u>[Updated] The Initial Stages of Joining YouTube as a Chanel Owner</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-destiny-decision-choose-between-ps5-and-budget-pc/"><u>Digital Destiny Decision: Choose Between PS5 & Budget PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/directly-interact-with-games-using-androids-second-screen-feature/"><u>Directly Interact with Games Using Android's Second Screen Feature</u></a></li>
+<li><a href="https://games-able.techidaily.com/echobox-portable-a-dose-of-yesteryears-tech/"><u>EchoBox Portable: A Dose of Yesteryear's Tech</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-to-fix-cod-warzone-game-disc-reading-issues-with-errors-50-and-31/"><u>Effective Solutions to Fix COD Warzone Game Disc Reading Issues with Errors [5.0 and 3.1]</u></a></li>
+<li><a href="https://games-able.techidaily.com/engage-in-epochal-conflicts-selecting-top-11-strategy-titles/"><u>Engage in Epochal Conflicts: Selecting Top 11 Strategy Titles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-admin-denial-in-cmd-window-on-windows-10/"><u>Fixing Admin Denial in CMD Window on Windows 10</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-swift-ssd-upgrades-on-your-steam-device/"><u>Guide to Swift SSD Upgrades on Your Steam Device</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-can-i-detect-issues-with-my-graphics-card-remotely-uncover-solutions-with-yl-computings-expertise/"><u>How Can I Detect Issues with My Graphics Card Remotely? Uncover Solutions with YL Computing's Expertise</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-realme-v30-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Realme V30 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-note-30-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Note 30 5G Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mitigating-xbox-controller-sensory-drift-errors/"><u>Mitigating Xbox Controller Sensory Drift Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-therapist-tools-safe-ai-for-mental-health/"><u>Virtual Therapist Tools: Safe AI for Mental Health</u></a></li>
+<li><a href="https://games-able.techidaily.com/zero-dollar-victory-acquiring-superior-games-on-steam-for-free/"><u>Zero Dollar Victory: Acquiring Superior Games on Steam for Free</u></a></li>
 </ul></div>
 

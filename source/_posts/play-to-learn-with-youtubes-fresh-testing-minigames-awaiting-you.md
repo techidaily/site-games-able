@@ -1,7 +1,7 @@
 ---
 title: Play to Learn with YouTube's Fresh, Testing Minigames Awaiting You
-date: 2024-08-27T17:09:17.540Z
-updated: 2024-08-28T17:09:17.540Z
+date: 2024-12-23T17:50:03.265Z
+updated: 2024-12-26T02:14:37.750Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 ---
 
 ## Play to Learn with YouTube's Fresh, Testing Minigames Awaiting You
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
  YouTube has rolled out a collection of mini-games as an experimental feature for select users, dubbed Playables. If you’re interested in playing, here is how to activate this feature and join in on the fun.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Is YouTube Playables?
 
  Playables is a collection of YouTube mini-games that can be accessed on your smartphone via the YouTube app or through your desktop’s web browser.
@@ -67,21 +68,16 @@ Here are all the games accessible in the YouTube Playables section:
 
 ![YouTube landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/1-youtube-landing-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![YouTube You tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/youtube-you-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![YouTube Settings menu with experimental features option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/3-youtube-settings-menu.jpg)
 
 ![the option to try out YouTube Playables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/4-try-out-youtube-playables-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 Close
 
  Once you have enabled YouTube Playables, you can access the games through the**Explore** tab on YouTube. The Explore section should be accessible in plain sight if you’re using a web browser. For those using their smartphones, tapping on the**compass icon** in the top right of your screen will reveal the Explore section where Playables is listed.
@@ -92,32 +88,35 @@ Close
 
 ![YouTube playable games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/22youtube-playable-games.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![YouTube homepage scrolling](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/403399801_6992387144163435_8787378799009490497_n-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Alternatively, you can simply keep scrolling through the YouTube homepage past**Shorts** and**Breaking news** until you see the**Playables on YouTube** section. You can then click any of the 40 mini-games available to start playing.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing YouTube Playables
 
  Just like YouTube, Netflix and TikTok have also added mini-games as part of their platforms. What YouTube does differently is requiring no download or installation to play its mini-games. This level of convenience could attract more casual gamers to YouTube, which may boost user engagement and time spent on the platform.
 
  Depending on how Playables perform, we may see more platforms implementing mini-games into their services. Or the experiment could fail miserably.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -126,4 +125,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-youtube-videos-a-guide-to-sequential-viewing/"><u>[New] In 2024, Unlocking YouTube Videos A Guide to Sequential Viewing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-hands-on-approach-to-ios-audio-capture/"><u>[Updated] 2024 Approved Hands-On Approach to iOS Audio Capture</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-scrutiny-gear-360s-virtual-reality-capability-for-2024/"><u>[Updated] Comprehensive Scrutiny Gear 360'S Virtual Reality Capability for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-swiftswirl-momentmirror-recording/"><u>2024 Approved SwiftSwirl MomentMirror Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-12-no-cost-mobile-apps-for-endless-movie-entertainment/"><u>Discover 12 No-Cost Mobile Apps for Endless Movie Entertainment</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-playstyle-top-reasons-for-pc-over-console/"><u>Elevate Your Playstyle: Top Reasons for PC Over Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/fire-or-ice-comparing-amazon-fire-and-apples-ipad-features/"><u>Fire or Ice? Comparing Amazon Fire and Apple's iPad Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/space-smith-gamers-guide-to-new-tech-brands/"><u>Space Smith: Gamer's Guide to New Tech Brands</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-visual-vintner-techniques-for-flavorful-films-for-2024/"><u>The Visual Vintner Techniques for Flavorful Films for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-picks-prime-gaming-mice-and-keyboards-2024-edition/"><u>Top Picks: Prime Gaming Mice & Keyboards 2024 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/"><u>Top-Tier Games Subscription Matchup: PS+ Vs Xbox Game Pass</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-to-ps-games-on-deal-alert/"><u>Unlock the Secrets to PS Games on Deal Alert</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-and-most-popular-iphone-apps-plusreviews/"><u>Updated In 2024, Best and Most Popular iPhone Apps +Reviews</u></a></li>
+</ul></div>
 

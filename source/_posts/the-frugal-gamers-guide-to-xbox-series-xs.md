@@ -1,7 +1,7 @@
 ---
 title: The Frugal Gamer's Guide to Xbox Series X/S
-date: 2024-12-13T16:42:36.281Z
-updated: 2024-12-17T09:04:11.206Z
+date: 2024-12-21T01:27:34.775Z
+updated: 2024-12-25T18:31:20.801Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Shop for Games That Are on Sale
 
  Taking advantage of sales is a tip that will help you in every aspect of life, not just in terms of gaming. Every little bit counts, so even picking up a $1.00 loaf of bread rather than the $3.00 one at the supermarket will help you save money. But thankfully, choosing games that are on sale usually saves you more than just a couple of dollars here and there.
@@ -39,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
  Games that have online multiplayer functionality, like Call of Duty, for example, are great for replayability. If you’re not a fan of first-person shooters or competitive games, life or farming sims such as Stardew Valley can provide you with hundreds or even thousands of hours of playtime.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and Play Free Games
 
  Buying games on sale that are cheaper than they otherwise would have been is great. But there are hordes of games out there that won't even cost you a single penny. Free games usually come with a catch in the form of gatcha game mechanics or in-game purchases to entice people into spending money.
 
  But there are many games where these in-game purchases are purely cosmetic and completely optional, meaning you can play for as long as you want without reaching for your wallet at all. Games like Overwatch 2, Fortnite, or Apex Legends are just a few examples of fun and rewarding games that you can play completely free of charge.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Subscribe to Xbox Game Pass
 
@@ -55,13 +59,13 @@ thumbnail: https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13ac
 
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  For just $10.99 per month, you can play however many of the hundreds of games on offer that your heart desires. The games are also switched up and added to consistently, so there is always something new for you to play.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Collect and Use Microsoft Reward Points
 
@@ -91,17 +95,9 @@ Close
 
 ![Xbox Shutdown energy saving mode explaination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/xbox-shutdown-energy-saving-mode-explaination.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image Credit:[Xbox](https://news.xbox.com/en-us/2023/01/11/xbox-carbon-aware-console-sustainability/)
 
  Putting your Xbox on shutdown (energy saving) mode is by far the most energy-efficient way to operate your system and uses 20% less power than sleep mode. 20% less power is a significant amount and is just one of the many ways you can reduce your power bill at the end of the month.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Support Your Gaming Habit for a Fraction of the Price
 
@@ -112,7 +108,7 @@ Close
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: How Much Electricity Does Your Xbox Series X Use?
@@ -120,12 +116,16 @@ Close
  The power consumption of your Xbox Series X varies depending on how you're using your console. Active gameplay from your Xbox Series X will use 150 W of energy, for instance, while streaming UHD media will consume only 48 W. But if you're looking to lower your energy consumption to save money or lower your impact on the environment, you can always[adjust the power options of your Xbox Series X](https://www.makeuseof.com/how-to-customize-xbox-series-x-s-power-options-to-save-energy/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Q: Why Is the Xbox Series S So Much Cheaper Than the Xbox Series X?
 
  You can purchase an Xbox Series S for far less than an Xbox Series X because of the differences in specifications between each console. The Xbox Series S has less GPU and CPU power than the Xbox Series X while also having less RAM and storage. However, when saving money on next-gen hardware,[the Xbox Series S sets a new standard for budget consoles](https://www.makeuseof.com/how-the-xbox-series-s-set-a-new-standard-for-budget-consoles/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: What Are the Perks of Having an Xbox Series S?
 
@@ -146,18 +146,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/a-professionals-handbook-to-blending-natural-and-artificial-backgrounds/"><u>A Professional's Handbook to Blending Natural and Artificial Backgrounds</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-steam-operational-hurdles-in-windows-11/"><u>Addressing Steam Operational Hurdles in Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/evaluating-the-no-frills-aukey-usb-3-hub-style-and-substance-in-a-compact-form-factor/"><u>Evaluating the No-Frills Aukey USB 3.# Hub: Style and Substance in a Compact Form Factor</u></a></li>
-<li><a href="https://games-able.techidaily.com/examining-the-validity-of-discords-offline-label/"><u>Examining the Validity of Discord’s 'Offline' Label</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-experts-your-guide-for-quality-tech-choices/"><u>Exploring Computer Gadgets with Tom's Hardware Experts: Your Guide for Quality Tech Choices</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-maintain-your-gpu-at-ideal-gameplay-temp-levels/"><u>How to Maintain Your GPU at Ideal Gameplay Temp Levels</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-nokia-c110-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Nokia C110</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedying-error-during-oculus-app-setup/"><u>Remedying Error During Oculus App Setup</u></a></li>
-<li><a href="https://discover-able.techidaily.com/safeguarding-your-data-assessing-security-risks-with-cryptocurrency-wallet-balance-tools-insights-by-yl-computing/"><u>Safeguarding Your Data: Assessing Security Risks with Cryptocurrency Wallet Balance Tools - Insights by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-linking-controllers-and-android-devices/"><u>The Ultimate Guide to Linking Controllers & Android Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-selection-of-console-games-for-macos/"><u>The Ultimate Selection of Console Games for macOS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-strategies-fixing-rust-applications-when-they-freeze-expert-advice/"><u>Top Strategies: Fixing Rust Applications When They Freeze - Expert Advice</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-fastest-way-to-rotate-a-video-tips-and-tricks/"><u>Updated In 2024, The Fastest Way to Rotate a Video Tips and Tricks</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-download-tailored-outro-audio-without-investment/"><u>[New] Download Tailored Outro Audio without Investment</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-initial-movie-capture-evaluation-with-options/"><u>[New] In 2024, Initial Movie Capture Evaluation with Options</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-selection-winning-16-free-video-experience/"><u>[New] In 2024, Ultimate Selection Winning 16 Free Video Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mirth-mechanics-zombie-satire-units-for-2024/"><u>[Updated] Mirth Mechanics Zombie Satire Units for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-joke-jamboree-twitters-10-best-comedy-threads/"><u>2024 Approved Joke Jamboree Twitter's 10 Best Comedy Threads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-down-windows-11s-spotify-link-barriers/"><u>Breaking Down Windows 11'S Spotify Link Barriers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-kootek-laptop-cooling-pad-top-selection-reviewed-here/"><u>Comprehensive Guide to Kootek Laptop Cooling Pad – Top Selection Reviewed Here!</u></a></li>
+<li><a href="https://games-able.techidaily.com/control-synergy-securely-connect-your-xbox-console/"><u>Control Synergy: Securely Connect Your Xbox Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-disconnected-steam-remote-play-on-windows/"><u>Fixing Disconnected Steam Remote Play on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/interactive-escapades-love-for-netflix-gaming-revealed/"><u>Interactive Escapades – Love for Netflix Gaming Revealed</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-level-gameplay-sonys-playstation-5-vs-thrifty-computer/"><u>Next Level Gameplay: Sony's PlayStation 5 VS Thrifty Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-sound-design-on-your-tablet-and-laptop-discover-how-apples-logic-pro-now-features-innovative-ai-band-members-exclusive-coverage-from-zdnet/"><u>Next Level Sound Design on Your Tablet and Laptop! Discover How Apple's Logic Pro Now Features Innovative AI 'Band Members' – Exclusive Coverage From ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-launches-game-streaming-service-but-too-much-hype/"><u>Nvidia Launches Game Streaming Service, But Too Much Hype?</u></a></li>
+<li><a href="https://games-able.techidaily.com/pokemon-gameplay-essentials-for-apple-gadgets-enthusiasts/"><u>Pokémon Gameplay Essentials for Apple Gadgets Enthusiasts</u></a></li>
+<li><a href="https://games-able.techidaily.com/recharge-resources-by-powering-down-ps5/"><u>Recharge Resources by Powering Down PS5</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/toggle-between-normal-and-picture-in-picture-view-for-youtube-on-iphone-for-2024/"><u>Toggle Between Normal and Picture In Picture View for Youtube on iPhone for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-choose-dxvk-for-a-better-gaming-experience-on-windows/"><u>Why Choose DXVK for a Better Gaming Experience on Windows</u></a></li>
 </ul></div>
 

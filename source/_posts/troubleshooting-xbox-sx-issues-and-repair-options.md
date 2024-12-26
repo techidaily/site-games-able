@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Xbox S/X Issues & Repair Options
-date: 2024-12-10T08:35:57.874Z
-updated: 2024-12-17T05:13:02.134Z
+date: 2024-12-20T06:51:20.837Z
+updated: 2024-12-26T04:06:31.093Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Register Your Xbox Series X|S With Microsoft
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 
 ![A screenshot of the Devices page for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3091.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * You will then be faced with a terms and conditions pop-up. Select**Confirm** to register your Xbox.
 
  Alternatively, if your Xbox isn't listed under**Devices** , you can select**Register device** and input the serial number of your Xbox Series X|S to register your console manually. You can find the serial number of your Series X|S by examining the back label of your console, or by accessing the**Console info** tab under**System** settings.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![A screenshot of the Register Device option for a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3094.jpg)
 
  But with that, your Xbox Series X|S will be registered with Microsoft, and you should be well on your way to booking a repair with Xbox for your Series X|S.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check the Warranty Status of Your Xbox Series X|S
 
@@ -65,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 ![A screenshot of a registered device in the Devices section of a Microsoft account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3097.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, if you feel the**Warranty** message is inaccurate or not displayed, you can select the**Info & support** tab for your Xbox Series X|S. From here, you can view your**Standard Limited Warranty** details or any other account warranty information.
@@ -75,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
  Bear in mind, that standard Xbox Series X|S warranties for consoles last for 12 months, so if you purchase your Xbox upon release, its warranty will have unfortunately expired. Because of this, you should[maintain consoles like the Xbox Series X](https://www.makeuseof.com/ways-to-maintain-xbox-series-x-hardware/) throughout its generation. This way, you may avoid ever needing to repair your Xbox.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Book a Repair for Your Broken Xbox Series X|S
@@ -88,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 * Choose an**Issue type** matching the issue your console is experiencing.
 
 ![A screenshot of a Microsoft account Device Service and Repair screen for an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/screenshot-3103-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Enter a short description of your issue and select**Next** .
 * Choose a delivery address for the return of your repair and select**Next** .
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
  But with your repair paid for and the delivery method selected, you can expect your Xbox to be fixed and returned to you very soon, or at least depending upon your chosen delivery method.
 
  However, if you find the price tag for a repair to be too expensive, there are plenty of Xbox issues that are fixable at home. For instance,[fixing Xbox Wireless Controller stick drift](https://www.makeuseof.com/how-to-fix-xbox-one-controller-drift/) can be easy and doesn't necessarily require replacements or an official repair.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair Your Xbox Series X|S Officially and Efficiently
 
@@ -124,24 +124,24 @@ thumbnail: https://thmb.techidaily.com/6b74a794374950c8c7d33f01e283b8595a0e02efb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-from-tweets-to-tomes-the-full-year-in-video/"><u>[New] 2024 Approved From Tweets to Tomes The Full Year in Video</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-adobe-memefixer-a-humorous-journey/"><u>[New] In 2024, Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cutting-edge-title-design-in-after-effects/"><u>[New] In 2024, Cutting-Edge Title Design in After Effects</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>[New] Rethink Your Feed 6 Innovative Video Platforms on Mobile Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-prime-methods-transforming-pin-videos-to-mp3-format/"><u>[Updated] 2024 Approved Prime Methods Transforming Pin Videos To MP3 Format</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-critical-views-on-mobility-in-gaming/"><u>7 Critical Views on Mobility in Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/creating-a-direct-link-between-your-device-and-controller/"><u>Creating a Direct Link Between Your Device & Controller</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-installation-of-updated-hp-deskjet-ink-advantage-3050a-printer-drivers-on-windows-no-cost/"><u>Effortless Installation of Updated HP Deskjet Ink Advantage 3050A Printer Drivers on Windows - No Cost</u></a></li>
-<li><a href="https://article-tips.techidaily.com/enhance-accessibility-with-top-free-text-conversion-software-for-macs/"><u>Enhance Accessibility with Top Free Text Conversion Software for Macs</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-playtime-5-key-care-strategies-for-switch/"><u>Enhancing Playtime: 5 Key Care Strategies for Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-enjoy-xbox-games-anyhow/"><u>Guide: Enjoy Xbox Games Anyhow</u></a></li>
-<li><a href="https://games-able.techidaily.com/immediate-steps-to-address-steam-buyback-problems/"><u>Immediate Steps to Address Steam Buyback Problems</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-visualslice-software/"><u>In 2024, VisualSlice Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/mending-your-switch-options-for-a-functional-gaming-device/"><u>Mending Your Switch: Options for a Functional Gaming Device</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-missing-notification-issues-in-phone-link-app/"><u>Resolving Windows: Missing Notification Issues in Phone Link App</u></a></li>
-<li><a href="https://games-able.techidaily.com/scripting-power-chatgpt-in-game-development/"><u>Scripting Power: ChatGPT in Game Development</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-storage-woes-fixing-windows-11-write-errors/"><u>Steam Storage Woes: Fixing Windows 11 Write Errors</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-microsoft-surface-laptop-n-the-superior-choice-for-tech-enthusiasts/"><u>Ultimate Guide to Microsoft Surface Laptop N: The Superior Choice for Tech Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/upgrading-games-from-directx-11-to-directx-12/"><u>Upgrading Games: From DirectX 11 to DirectX 12</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-techniques-for-securing-ps4-gameplay-moments-for-2024/"><u>[New] Essential Techniques for Securing PS4 Gameplay Moments for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-zooming-up-triad-of-effective-video-enhancement-practices/"><u>[New] In 2024, Zooming Up Triad of Effective Video Enhancement Practices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-top-10-most-watched-music-moments/"><u>[Updated] Facebook's Top 10 Most-Watched Music Moments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/budget-friendly-viewing-how-to-use-netflix-for-free-legally/"><u>Budget-Friendly Viewing: How To Use Netflix For Free Legally</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/change-based-data-transfers-explained-robocopy-versus-simplified-migration-solutions/"><u>Change-Based Data Transfers Explained: Robocopy Versus Simplified Migration Solutions</u></a></li>
+<li><a href="https://win-web.techidaily.com/comprehensive-tutorial-by-yl-software-the-ultimate-strategy-for-buying-and-selling-digital-coins/"><u>Comprehensive Tutorial by YL Software: The Ultimate Strategy for Buying and Selling Digital Coins</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-the-strike-system-in-xbox-games/"><u>Demystifying the Strike System in Xbox Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-batch-downloading-tools-from-youtube-a-guide-to-preserving-your-favorite-content/"><u>Efficient Batch Downloading Tools From YouTube: A Guide to Preserving Your Favorite Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulate-dreamcast-excellence-on-your-android-device/"><u>Emulate Dreamcast Excellence on Your Android Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-ps5-gear-for-maximum-performance/"><u>Essential PS5 Gear for Maximum Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-tips-for-ps4-rebooting/"><u>Essential Tips for PS4 Rebooting</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expedition-tools-for-storytelling-through-lenses/"><u>Expedition Tools for Storytelling Through Lenses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/five-essential-fixes-for-a-stable-world-of-warships-gameplay-on-windowslinux-pcs/"><u>Five Essential Fixes for a Stable World of Warships Gameplay on Windows/Linux PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-toggle-discords-in-game-modality/"><u>Guide to Toggle Discord's In-Game Modality</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-divide-and-conquer-the-best-free-wmv-video-splitters/"><u>New In 2024, Divide and Conquer The Best Free WMV Video Splitters</u></a></li>
+<li><a href="https://games-able.techidaily.com/rediscover-playstation-expert-selection-of-30-ps3-emulators-for-pc/"><u>Rediscover PlayStation: Expert Selection of 30 PS3 Emulators for PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-accumulate-every-steam-badge/"><u>Step-by-Step: Accumulate Every Steam Badge</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-playstation-network-titles-post-exit/"><u>The Future of PlayStation Network Titles Post-Exit</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-next-chapter-in-ps5-pricing-after-shortage-ends/"><u>The Next Chapter in PS5 Pricing After Shortage Ends</u></a></li>
 </ul></div>
 

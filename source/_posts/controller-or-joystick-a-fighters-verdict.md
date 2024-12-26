@@ -1,7 +1,7 @@
 ---
 title: "Controller or Joystick: A Fighter's Verdict"
-date: 2024-12-14T03:15:00.462Z
-updated: 2024-12-16T22:51:47.439Z
+date: 2024-12-25T00:58:21.576Z
+updated: 2024-12-26T00:20:10.180Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Controller vs. Arcade Stick: Factors to Consider
 
  Most fighting games were first ported to consoles before becoming available on PCs. The controllers that come with these consoles have changed significantly over the years, but the original design concept remains the same.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  While these serve their intended purpose, portable arcade sticks are now readily available to fighting game enthusiasts. Both options have their merits, and here are a few factors to consider when deciding which is best for fighting games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Input Precision
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  An arcade stick trumps a controller in terms of input precision. The stick is fairly large and combines the freedom of movement a joystick offers with the precision of a D-Pad. Most arcade sticks come with eight input buttons, which is typically sufficient for most games. However, players are forced to use button combinations for other in-game actions.
 
  So, while an arcade stick is precise, it requires more skill than a controller.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Durability
 
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 ![A yellow arcade stick with blue input buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arcade-stick.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Input specifications are as unique as each fighting game. As such, it is important to research what your game of choice requires to get the best user experience.
@@ -86,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  However,[a reason some gamers swear by arcade sticks](https://www.makeuseof.com/tag/why-gamers-swear-arcade-sticks/) is their customizability. You can take your arcade stick apart, change the layout and add whatever buttons you feel are necessary to compete in your game of choice.
 
  One downside of this approach is the technical knowledge required to customize an arcade stick. Ultimately, a controller might be the better choice depending on how many functional buttons a fighting game requires.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Feedback
 
@@ -99,13 +103,13 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  However, some enthusiasts are playing around with the idea of introducing haptic feedback to arcade sticks. It is also worth noting that the DualSense controller, in particular, supports haptic feedback, which can[make your fighting games a bit more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Ergonomics
 
 ![A father and his son playing video games on a couch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ergonomics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Ergonomics as a concept has become increasingly important with the emergence of the competitive gaming scene. Assessing the best ways to optimize your environment for prolonged sitting is important, especially when you spend long hours playing your fighting game of choice.
 
@@ -130,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  On the other hand, consoles are very picky about the arcade sticks permitted to run on the platform. As such, you'll need to research and discover what arcade sticks your console supports.
 
  Long story short, compatibility is a limiting factor affecting console players more than their PC Counterparts. Both inputs work seamlessly on PC, while only a small selection of both work on consoles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Controller vs. Arcade Stick: Which Is the Better Option?
 
@@ -162,20 +162,21 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-travel-video-setup-must-have-items-checklist/"><u>[New] In 2024, Travel Video Setup Must-Have Items Checklist</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-learn-the-layers-of-photography-with-snapseed-for-2024/"><u>[New] Learn the Layers of Photography with Snapseed for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters/"><u>[Updated] In 2024, Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-itop-insider-review-top-notch-screencast-software-compared-for-2024/"><u>[Updated] ITop Insider Review Top-Notch Screencast Software Compared for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/"><u>2024 Approved Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/5-things-to-do-if-your-nintendo-account-gets-hacked/"><u>5 Things to Do if Your Nintendo Account Gets Hacked</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-blueprint-for-enhancing-player-retention-four-xbox-reward-adjustments/"><u>A Blueprint for Enhancing Player Retention: Four Xbox Reward Adjustments</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-look-at-steam-vs-gog-digital-storefront-divergences/"><u>A Look at Steam vs GOG: Digital Storefront Divergences</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-your-xbox-games-on-steam-glossis-guide/"><u>Access Your Xbox Games on Steam - GlosSI's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/assessing-the-impact-of-mechanical-keyboards-on-typing-speed/"><u>Assessing the Impact of Mechanical Keyboards on Typing Speed</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-the-system-hush-your-xbox-series-xs-vibrations/"><u>Beat the System: Hush Your Xbox Series X's Vibrations</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-discovering-best-phone-based-asmr-experiences/"><u>In 2024, Discovering Best Phone-Based ASMR Experiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zooms-best-practices-for-organizing-online-meetings/"><u>In 2024, Zoom's Best Practices for Organizing Online Meetings</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167065620-the-small-vs-big-pc-debate-make-an-informed-decision-today/"><u>The Small Vs. Big PC Debate: Make an Informed Decision Today</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-picks-for-tablet-enthusiasts-detailed-review-of-the-kobo-clara-hd/"><u>Top Picks for Tablet Enthusiasts: Detailed Review of the Kobo Clara HD</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>[New] 2024 Approved Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-transform-your-snapshots-into-shares-heres-how/"><u>[Updated] 2024 Approved Transform Your Snapshots Into Shares – Here's How</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>[Updated] Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
+<li><a href="https://games-able.techidaily.com/evolution-of-gameplay-ps5-against-economical-pc/"><u>Evolution of Gameplay: PS5 Against Economical PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a14-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A14 4G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-innovations-nextgen-tvs-and-monitors/"><u>IFA Innovations: NextGen TVs & Monitors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-fold-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel Fold to Outlook | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-handheld-accessories-guide-the-nintendo-switch-select/"><u>Premium Handheld Accessories Guide – The Nintendo Switch Select</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-your-privacy-a-guide-to-hiding-phone-numbers-on-android-devices/"><u>Protecting Your Privacy: A Guide to Hiding Phone Numbers on Android Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/retro-dock-to-modern-upgrade-the-switchs-new-oled-display/"><u>Retro Dock to Modern Upgrade: The Switch's New OLED Display</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-input-syncing-pc-and-steam-deck-through-the-use-of-barriers/"><u>Seamless Input Syncing: PC & Steam Deck Through The Use of Barriers</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-transforming-traditional-easter-choral-pieces-into-various-digital-audio-files/"><u>Step-by-Step Guide: Transforming Traditional Easter Choral Pieces Into Various Digital Audio Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-inside-score-tear-down-your-xbox-s-controller/"><u>The Inside Score: Tear Down Your Xbox S Controller</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-short-life-of-game-servers-is-it-concerning/"><u>The Short Life of Game Servers – Is It Concerning?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ltimate-12-portable-camera-reviews-for-dynamic-vlogging-for-2024/"><u>The Ultimate 12 Portable Camera Reviews For Dynamic Vlogging for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-powershell-on-windows-system/"><u>Troubleshooting: No PowerShell on Windows System</u></a></li>
 </ul></div>
 

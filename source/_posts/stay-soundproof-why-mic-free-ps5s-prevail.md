@@ -1,7 +1,7 @@
 ---
 title: "Stay Soundproof: Why Mic-Free PS5s Prevail"
-date: 2024-12-11T02:24:43.021Z
-updated: 2024-12-17T09:56:19.183Z
+date: 2024-12-21T19:19:48.783Z
+updated: 2024-12-26T04:37:48.461Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You Shouldn't Use Your PS5 Controller's Microphone
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
  While the people you're chatting with will appreciate this, it makes for a worse experience on your end. You should thus use another mic when you have the option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Automatically Mute Your PS5's Microphone
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Controller Muted Mic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Controller-Muted-Mic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you never use the controller mic anyway, it's easy to mute your PS5 controller's mic by default. Head to**Settings > Sound > Microphone** and change**Microphone Status When Logged In** to**Mute** . You can also change**Microphone Status When Starting Chat or Broadcast** if you want to keep your mic muted when you join a party or start streaming.
@@ -64,13 +64,13 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 ![PS5 Microphone Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/PS5-Microphone-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can change other mic settings here, like selecting your mic preference if you have more than one. Don't forget that if you connect another microphone (whether wirelessly or a wired headset connect to your controller), the built-in mic will turn off and thus preserve your trigger and vibration settings. The physical**Mute** button on the controller also works for muting external microphones, and if you hold it for a moment, it will silence all output as well as the mic's input.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fully Enjoy the DualSense Controller
@@ -94,22 +94,24 @@ thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-showdown-bandicams-prowess-against-camtasia-for-2024/"><u>[Updated] The Ultimate Showdown Bandicam's Prowess Against Camtasia for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>2024 Approved A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-to-future-radeon-rebooted/"><u>2024 Approved Retro to Future Radeon Rebooted</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accessing-and-understanding-windows-component-services-interface/"><u>Accessing & Understanding Windows Component Services Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/affordable-pixelsplayzone-monitor-27m2v/"><u>Affordable PixelsPlayzone Monitor, 27M2V</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-platform-play-android-gaming-on-linux/"><u>Cross-Platform Play: Android Gaming on Linux</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-gaming-fallout-counterparts-await/"><u>Dive Into Gaming: Fallout Counterparts Await!</u></a></li>
-<li><a href="https://games-able.techidaily.com/eliminating-windows-1011-writable-device-stall-0x887a0006/"><u>Eliminating Windows 10/11' Writable Device Stall (0X887A0006)</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-minecraft-launcher-error-0x803f8001-on-windows-devices/"><u>Fixing Minecraft Launcher Error 0X803F8001 on Windows Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/gain-smooth-play-solving-windows-based-epic-games-crashes/"><u>Gain Smooth Play: Solving Windows-Based Epic Games Crashes</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-connect-ps5-wireless-controllers-on-phone/"><u>Guide: Connect PS5 Wireless Controllers on Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-c51-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme C51 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-v30-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme V30 Android SIM Unlock APK</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-when-is-the-best-time-to-post-on-instagram-the-ultimate-guide/"><u>In 2024, When Is The Best Time to Post on Instagram - The Ultimate Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-picks-for-gamers-8-leading-outlets-and-reviews/"><u>Top Picks for Gamers: #8 Leading Outlets & Reviews</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/win-and-mac-top-8-excellent-subtitles-converters-to-srt-for-2024/"><u>Win & Mac Top 8 Excellent Subtitles Converters to SRT for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-freeze-time-like-never-before-on-the-newest-mi-phone/"><u>[New] In 2024, Freeze Time Like Never Before on the Newest Mi Phone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-complete-narrative-deconstructing-googles-podcast-application/"><u>[Updated] In 2024, Complete Narrative Deconstructing Google's Podcast Application</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-excellence-in-depth-analysis-of-the-uphere-m201-ssd-heatsink-your-guide-to-essential-nvme-thermal-management-at-only-5/"><u>Affordable Excellence: In-Depth Analysis of the UpHere M201 SSD Heatsink - Your Guide to Essential NVMe Thermal Management at Only $5</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/another-round-of-laughter-my-love-affair-with-ankers-hilariously-unique-charger/"><u>Another Round of Laughter: My Love Affair with Anker's Hilariously Unique Charger</u></a></li>
+<li><a href="https://games-able.techidaily.com/directive-for-digging-up-and-docking-minecraft-maps/"><u>Directive for Digging Up & Docking Minecraft Maps</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/efficiently-enhance-your-tiktok-videos-speed-for-2024/"><u>Efficiently Enhance Your TikTok Videos' Speed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/effortlessly-installing-gaming-apps-on-steam-devices/"><u>Effortlessly Installing Gaming Apps on Steam Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-steam-deck-embracing-gog-and-epic-titles/"><u>Elevate Your Steam Deck: Embracing GOG and Epic Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/get-the-most-out-of-bg3-with-right-hardware/"><u>Get the Most Out of BG3 with Right Hardware</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-z-fold-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy Z Fold 5 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-emulation-steam-deck-and-emudeck-gameplay/"><u>Mastering Emulation: Steam Deck & EmuDeck Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/mending-steam-content-validation-error/"><u>Mending Steam Content Validation Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/multi-screen-gaming-with-xbox-and-laptop-combo/"><u>Multi-Screen Gaming with Xbox & Laptop Combo</u></a></li>
+<li><a href="https://games-able.techidaily.com/pc-harmony-a-how-to-guide-for-preventive-measures/"><u>PC Harmony: A How-To Guide for Preventive Measures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/realities-redefined-the-metaverse-vs-omniverse-showdown-explained-for-2024/"><u>Realities Redefined The Metaverse Vs. Omniverse Showdown Explained for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-conversion-made-simple-3-actionable-solutions/"><u>SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/stop-wasting-time-check-out-our-verified-filmora-coupons/"><u>Stop Wasting Time Check Out Our Verified Filmora Coupons</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-social-networking-twitter-instagram-facebook-and-youtube/"><u>The Big Four of Social Networking: Twitter, Instagram, Facebook, and YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/unfreeze-your-gameplay-repairing-the-epic-launcher-malfunction/"><u>Unfreeze Your Gameplay: Repairing the Epic Launcher Malfunction</u></a></li>
 </ul></div>
 

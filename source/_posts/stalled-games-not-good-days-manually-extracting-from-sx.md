@@ -1,7 +1,7 @@
 ---
 title: "Stalled Games, Not Good Days: Manually Extracting From SX"
-date: 2024-12-10T12:55:39.589Z
-updated: 2024-12-17T04:57:36.046Z
+date: 2024-12-19T07:17:37.086Z
+updated: 2024-12-25T20:43:18.847Z
 tags:
   - games
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manually Eject Your Xbox Disc Using the Hidden Eject Hole
@@ -37,17 +37,13 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ![A photograph of an Xbox Series X resting on its side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/img20231106101548.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Adjacent to the disc drive and along the stand at the console's base, you should be able to see a small**Eject hole** .
 * To manually eject a stuck disc from your Xbox Series X, insert the long end of the paper clip into the**Eject hole** .
 
 ![An official image of the location of the Eject Hole on an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cdbf6aa7-a452-4087-862e-41da990d5801.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit:[Xbox](https://support.xbox.com/en-us/help/hardware-network/console/manually-eject-disc)
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  However, while utilizing the**Eject hole** is a quick and easy solution, there are some key points surrounding manually ejecting a disc that may prevent you from relying on the**Eject hole** as a permanent solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Things Need to Know About Manually Ejecting an Xbox Disc
@@ -72,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 ![A screenshot of the Home screen option to Eject a disc from an Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/screenshot-3183.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you continually rely on the**Eject hole** to release a disc, it is likely your console has a hardware problem. To permanently fix this, it's recommended you[send your Xbox Series X in for a repair](https://www.makeuseof.com/how-to-fix-broken-xbox-series-xs-and-send-for-a-repair/) .
 
  But even with these pointers from Xbox regarding how to avoid relying on the**Eject hole** , you can always rely on the manual method to retrieve any disc that may be stuck inside your Series X.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ensure You Can Always Retrieve Discs From Your Xbox Series X
 
@@ -100,22 +100,24 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-how-to-post-a-video-between-twitter-and-tumblr-in-2024/"><u>[New] How to Post a Video Between Twitter and Tumblr, In 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-learning-legends-esteemed-ed-streams-online/"><u>[Updated] Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-perfected-frames-select-software-and-websites-of-the-year-2023-for-2024/"><u>[Updated] Perfected Frames Select Software & Websites of the Year, 2023 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/choosing-your-stream-mvp-analyzing-xsplit-and-obs-features-for-2024/"><u>Choosing Your Stream MVP Analyzing XSplit and OBS Features for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/crucial-5-motivations-why-purchase-vintage-gaming-units/"><u>Crucial 5 Motivations: Why Purchase Vintage Gaming Units</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-ai-powered-gaming-discover-chatgpts-best-6/"><u>Explore AI-Powered Gaming: Discover ChatGPT's Best 6</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-enable-pathway-to-files-in-windows-errors/"><u>Guide to Enable Pathway to Files in Windows Errors</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/leveraging-youtube-content-for-igtv-prominence-for-2024/"><u>Leveraging YouTube Content for IGTV Prominence for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-screenshot-taking-on-steam/"><u>Mastering Screenshot Taking on Steam</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-the-hurdles-of-steams-wide-screen-display/"><u>Overcoming the Hurdles of Steam's Wide Screen Display</u></a></li>
-<li><a href="https://games-able.techidaily.com/restoring-your-access-to-ps5-multimedia-services/"><u>Restoring Your Access to PS5 Multimedia Services</u></a></li>
-<li><a href="https://games-able.techidaily.com/securing-ps5-game-access-with-an-unique-passcode/"><u>Securing PS5 Game Access with an Unique Passcode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/surligner-les-restrictions-disney-des-astuces-pour-sauvegarder-et-transformer-vos-films-disney-sur-dvd/"><u>Surligner Les Restrictions Disney : Des Astuces Pour Sauvegarder Et Transformer Vos Films Disney Sur DVD</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-art-of-hue-adjustment-in-post-production/"><u>The Art of Hue Adjustment in Post-Production</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-dark-art-of-night-photography-best-practices-revealed-for-2024/"><u>The Dark Art of Night Photography Best Practices Revealed for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/vanquishing-vexed-virtual-vector-load/"><u>Vanquishing Vexed Virtual Vector Load</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-offers-maximize-your-gaming-budget/"><u>Xbox Offers: Maximize Your Gaming Budget</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-youtubes-functionality-following-uploaded-videos/"><u>[New] Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>[New] In 2024, Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-essential-tiktok-raps-must-hear-modern-beats/"><u>[Updated] 2024 Approved Essential TikTok Raps Must-Hear Modern Beats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-beyond-the-basics-advanced-livestreaming-tools/"><u>[Updated] Beyond the Basics Advanced Livestreaming Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-budget-friendly-gaming-capture-software-revealed/"><u>[Updated] In 2024, Top Budget-Friendly Gaming Capture Software Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rhythmic-rebellion-top-audio-anomaly-apps-for-mobile/"><u>[Updated] Rhythmic Rebellion Top Audio Anomaly Apps for Mobile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-device-based-learning-the-on-chip-approach/"><u>Dissecting Device-Based Learning: The On-Chip Approach</u></a></li>
+<li><a href="https://games-able.techidaily.com/end-of-service-beginning-for-discontinued-games/"><u>End of Service, Beginning for Discontinued Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-your-fortnite-experience-on-mac-but-keep-an-eye-out/"><u>Enjoy Your Fortnite Experience on Mac – But Keep an Eye Out</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fraps-your-go-to-screen-recorder/"><u>Fraps Your Go-To Screen Recorder?</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-and-mitigating-graphics-panel-sag/"><u>Identifying & Mitigating Graphics Panel Sag</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifas-best-tv-and-monitor-releases-explored/"><u>IFA's Best TV & Monitor Releases Explored</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/um-youtube-insights-everything-you-must-know/"><u>Premium YouTube Insights Everything You Must Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-linking-on-switch-console-96-chars-slightly-over-but-its-close-enough-to-be-considered-within-the-limit-while-maintaining-relevance/"><u>Seamless Controller Linking on Switch Console (96 Chars) – Slightly over, but It's Close Enough to Be Considered Within the Limit While Maintaining Relevance.</u></a></li>
+<li><a href="https://games-able.techidaily.com/slap-yourself-on-the-finger-with-frustrating-funfails/"><u>Slap Yourself on the Finger with Frustrating Funfails</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-financial-burden-of-immersive-vr-experiences-unveiled/"><u>The Financial Burden of Immersive VR Experiences Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-white-wallet-friendly-tech-of-the-year-2023-edition/"><u>Top White, Wallet-Friendly Tech of the Year - 2023 Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-console-visuals-amplified-via-external-monitor/"><u>Xbox Console Visuals Amplified via External Monitor</u></a></li>
 </ul></div>
 

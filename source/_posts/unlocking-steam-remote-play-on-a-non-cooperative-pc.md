@@ -1,7 +1,7 @@
 ---
 title: Unlocking Steam Remote Play on a Non-Cooperative PC
-date: 2024-12-14T05:20:51.190Z
-updated: 2024-12-16T17:02:34.811Z
+date: 2024-12-19T05:19:36.643Z
+updated: 2024-12-25T19:31:58.191Z
 tags:
   - games
 categories:
@@ -23,19 +23,11 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Steam Remote Play to Stop Working on Windows?
 
  Steam Remote Play can stop working due to various reasons, including a temporary glitch in Steam modules, game piracy issues, a malfunctioning guest device, incorrect network configuration, and firewall, and a corrupt Steam client.
 
  To fix the problem, check if you have correctly configured Steam Remote Play on your host system. Also, make sure you have the latest version of Steam Link installed on your guest and host system. You can then proceed to check your firewall configuration and more to troubleshoot the problem. Here's how to do each step in detail.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Re-Enable Remote Play on Steam
 
@@ -48,13 +40,25 @@ To disable Remote Play on Steam:
 ![steam setting pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-setting-pc.jpg)
 3. In the**Settings** dialog, open the**Remote Play** tab in the left pane.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![steam unpair device remote plauy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-unpair-device-remote-plauy.jpg)
 4. Uncheck the**Enable Remote Play** option and click**OK** to disable**Remote Play.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Next, relaunch the**Steam** client.
 6. Go t**o Settings > Remote Play** and check the**Enable Remote Play** option.
 7. Click**OK** to apply the changes.
 8. Relaunch the Steam client and check for any improvement.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Unpair the Guest Steam Link Device
 
@@ -69,10 +73,6 @@ To unpair the Remote Play device on Steam:
 ![steam unpair device remote plauy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/steam-unpair-device-remote-plauy.jpg)
 5. Next, select your remote device under**Device Name** and select**Unpair Devices** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click**OK** to confirm the action and unpair your device.
 2. Click**OK** to save the changes and close Steam.
 3. Next, to pair the device again, launch the**Steam Lin** k app on your guest device.
@@ -81,7 +81,11 @@ To unpair the Remote Play device on Steam:
 5. On your host machine, type the given PIN and click**OK** to authorize the device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update Steam Client and Games
@@ -128,24 +132,20 @@ To disable IPv6 for your connection:
 ![network adapter properties control panel 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-adapter-properties-control-panel-1.jpg)
 6. In the**Properties** dialog, scroll down and locate**Internet Protocol Version 6 (TCP/IPv6).**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Uncheck the**TCP/IPv6** option and click**OK** to save the changes.  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. Close Control Panel and check if Remote Play is working. If the issue persists, enable the IPv6 option in the connection properties and proceed with the next steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Enable Big Picture Mode on Your Guest Device
 
 ![big picture mode steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/big-picture-mode-steam.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Big Picture Mode on Steam lets you view your games in a full-screen user interface. If you are trying to use Remote Play on another computer or TV, enter the Big Picture Mode then and start streaming. It's a tried and tested workaround that seems to remedy Remote Play issues.
@@ -158,10 +158,6 @@ To use Big Picture Mode on Steam:
 4. To exit Big Picture Mode, press**Alt + F4** on your keyboard.
 
  This is not a permanent solution but a handy workaround. However, it should help you get around the issue temporarily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable and Configure Your Antivirus and Firewall
 
@@ -177,6 +173,10 @@ To use Big Picture Mode on Steam:
 4. Choose your active network under**Firewall & network protection.**  
 ![turn off windows defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall.jpg)
 5. Toggle the switch under**Microsoft Defender Firewall** to turn it off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, try to stream using Remote Play to see if the connection goes through. If yes, you'll need to learn[how to allow apps through Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Make sure to re-enable your firewall, irrespective of the result.
 
@@ -213,7 +213,7 @@ To disable hardware encoding on Steam:
 5. In the pop-up dialog, uncheck the**Enable hardware encoding** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**OK** to save the changes and disable hardware encoding.
@@ -237,13 +237,13 @@ To uninstall the Steam client:
 ![uninstall steam client windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-steam-client-windows-11.jpg)
 8. Click**Yes** to confirm the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Click**Uninstall** again and click**Yes** if prompted by UAC.
 10. Next, go to the[Steam download page](https://store.steampowered.com/about/) and download the installer to install the app.
 11. Once Steam is installed, move the**SteamApps** folder back to**C:\\Program Files (x86)\\ Steam** so that the client can recognize your installed games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Remote Play and Start Streaming Steam Games
 
@@ -264,18 +264,19 @@ To uninstall the Steam client:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-staying-grounded-in-vr-worlds/"><u>[New] Staying Grounded in VR Worlds</u></a></li>
-<li><a href="https://games-able.techidaily.com/144hz-monitors-the-ultimate-gaming-visual-experience/"><u>144Hz Monitors: The Ultimate Gaming Visual Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-tutorial-for-ps4ps5-to-nintendo-switch-connections/"><u>A Tutorial for PS4/PS5 to Nintendo Switch Connections</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-advantages-analysis-xbox-game-pass-vs-psplus-essential-comparison/"><u>Access Advantages Analysis: Xbox Game Pass Vs. PS+ Essential Comparison</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-the-online-setup-for-switch-games/"><u>Ace the Online Setup for Switch Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/akko-mod007b-keyboard-a-must-try-for-gamers/"><u>Akko MOD007B Keyboard - A Must-Try for Gamers</u></a></li>
-<li><a href="https://games-able.techidaily.com/astounding-google-play-pass-with-one-hiccup/"><u>Astounding Google Play Pass, With One Hiccup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/expanding-security-horizons-longer-pins-in-win1011/"><u>Expanding Security Horizons: Longer Pins in Win10/11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-g54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on G54 5G</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-strategies-to-fix-crashes-in-detroit-become-human-windows-version-gameplay/"><u>Solution Strategies to Fix Crashes in Detroit: Become Human Windows Version Gameplay</u></a></li>
-<li><a href="https://solve-info.techidaily.com/solving-the-mystery-of-your-unseen-hard-drive-fixes-for-undetected-disks-in-windows-tips-from-yl-computing/"><u>Solving the Mystery of Your Unseen Hard Drive: Fixes for Undetected Disks in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/two-people-using-one-account-is-that-feasible-on-spotify/"><u>Two People Using One Account – Is That Feasible On Spotify?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-business-communication-essentials-free-slide-show-tools/"><u>[New] 2024 Approved Business Communication Essentials – Free Slide Show Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[New] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-m2-powered-apple-macbook-air-enhanced-speed-and-design-at-a-premium-price-expert-insights/"><u>1. M2-Powered Apple MacBook Air : Enhanced Speed & Design at a Premium Price – Expert Insights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-nexus-development-summary-pinnacle-studio-audit-2023/"><u>2024 Approved Nexus Development Summary Pinnacle Studio Audit, 2023</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enjoy-your-meta-quest-3-experience-apples-immersive-3d-spatial-video-content-with-easy-steps-zdnet-guide/"><u>Enjoy Your Meta Quest 3: Experience Apple's Immersive 3D Spatial Video Content with Easy Steps [ZDNet Guide]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-latest-logitech-k400-plus-keyboard-drivers-free-download/"><u>Get Your Latest Logitech K400 Plus Keyboard Drivers - Free Download</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-airflow-patterns-to-minimize-heat-waste/"><u>Innovative Airflow Patterns to Minimize Heat Waste</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-gameplay-with-these-9-steam-advantages/"><u>Mastering the Art of Gameplay with These 9 Steam Advantages</u></a></li>
+<li><a href="https://games-able.techidaily.com/peek-into-how-xbox-ensures-equal-playgrounds/"><u>Peek Into How Xbox Ensures Equal Playgrounds</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-mobile-play-your-guide-to-fortnite-with-nvidia/"><u>Streamlined Mobile Play: Your Guide to Fortnite with Nvidia</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-11-best-free-word-game-apps-to-play-on-android-and-iphone/"><u>The 11 Best Free Word Game Apps to Play on Android and iPhone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-8-best-data-recovery-software-for-mac-free-and-paid/"><u>Top 8 Best Data Recovery Software for Mac - Free and Paid</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
 

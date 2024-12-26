@@ -1,7 +1,7 @@
 ---
 title: "Six Thrilling Story-Sharing Duos: Text Edition"
-date: 2024-12-14T14:34:49.642Z
-updated: 2024-12-16T16:32:53.472Z
+date: 2024-12-23T18:24:20.118Z
+updated: 2024-12-26T07:02:46.064Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Play text-based games with friends using SMS text messaging or chat apps like WhatsApp or iMessage. There's no need to download another app!
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c8cdb9a666b994c5df18bf9fb906f435b3e886e46
  If you play these in a messaging app, you're also not limited to just two participants. Suggest playing one of these in a group chat with family or friends, and you suddenly have a multiplayer option open to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1 Story Builder
@@ -46,7 +50,7 @@ Close
  Variations of this game include sentences containing a certain number of words or characters, or sentences with exactly 160 characters in them (which, as quaint as it sounds these days, is how many characters a single SMS text message can handle).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 20 Questions
@@ -69,10 +73,6 @@ Close
 
  Variations of I Spy include giving clues after each negative response to a wrong guess or limiting the number of guesses allowed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Song Lyrics
 
 Close
@@ -94,7 +94,7 @@ Close
  Variations include giving more than just the first letter of each word, and abbreviating something other than your current activity. Such as what you truly think of the person you are playing against. Whatever variant you play, the key is to steer the guesser in the right direction.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 List Builder
@@ -107,6 +107,10 @@ Close
 
  Variations include going through the alphabet one letter at a time, or requiring the next answer to start with the same letter the last answer ended with.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7 Where Am I?
 
 Close
@@ -116,10 +120,6 @@ Close
  With**Where Am I?** , each player takes it, in turn, to describe one feature of their surroundings, while the other tries to guess where they are. You can make this game as easy or as hard as you like by varying the level of detail you give to your opponent.
 
  Variations of the game include limiting your surroundings to a house, with the room you're in being the correct answer, or asking which shop in town you are in. You could also change it to**Who Am I With?** by describing the person or people who are there with you instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8 Kiss, Marry, Kill
 
@@ -168,21 +168,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-inexpensive-pc-playback-devices/"><u>[Updated] In 2024, Inexpensive PC Playback Devices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unlocking-vrecorders-potential-quick-download-and-install/"><u>[Updated] In 2024, Unlocking VRecorder's Potential Quick Download & Install</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-speedy-spread-of-youtube-playlists-techniques-for-2024/"><u>[Updated] Speedy Spread of Youtube Playlists Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-singing-alerts-crafting-and-configuring-customizable-sounds-and-ringtones-on-android/"><u>2024 Approved Singing Alerts Crafting and Configuring Customizable Sounds & Ringtones on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/backwards-compatibility-for-sonys-gaming-generation-shift/"><u>Backwards Compatibility for Sony's Gaming Generation Shift</u></a></li>
-<li><a href="https://games-able.techidaily.com/combatting-high-memory-usage-of-roblox-app-on-mobile-phones/"><u>Combatting High Memory Usage of Roblox App on Mobile Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-androidios-steam-link-for-gaming-enthusiasts/"><u>Explore Android/iOS: Steam Link for Gaming Enthusiasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-vintage-to-virtual-using-emudeck-for-game-emulation/"><u>From Vintage to Virtual: Using EmuDeck for Game Emulation</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-fast-and-reliable-web-browsing-fixes-for-latency-issues/"><u>Mastering Fast and Reliable Web Browsing - Fixes for Latency Issues</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-sluggish-battlenet-speeds-essential-fixes-and-hacks/"><u>Overcoming Sluggish Battle.net Speeds : Essential Fixes and Hacks</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionize-your-gaming-setup-with-top-steam-deck-accessories/"><u>Revolutionize Your Gaming Setup with Top Steam Deck Accessories</u></a></li>
-<li><a href="https://games-able.techidaily.com/secure-xbox-s-controller-links-at-all-times/"><u>Secure Xbox S Controller Links at All Times</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unleash-the-power-of-alienwares-m18-exclusive-post-labor-day-discounts-await-on-this-incredible-gaming-machine/"><u>Unleash the Power of Alienware's M18: Exclusive Post-Labor Day Discounts Await on This Incredible Gaming Machine</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-optimizing-for-performance-matters-more-than-apples-brand-in-gaming/"><u>Why Optimizing for Performance Matters More than Apple's Brand in Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-quick-recovery-methods-for-erased-reddit-topics-for-2024/"><u>[New] Quick Recovery Methods for Erased Reddit Topics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-10-best-gba-emulators-for-android-for-2024/"><u>[New] The 10 Best GBA Emulators for Android for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>[Updated] Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-smartphone-tools-for-crafting-your-ideal-vocal-sound/"><u>[Updated] In 2024, Smartphone Tools for Crafting Your Ideal Vocal Sound</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-techniques-to-slow-down-online-video-playback-49-chars/"><u>2024 Approved Techniques to Slow Down Online Video Playback (49 Chars)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-decision-for-the-smaller-slate-the-compelling-advantages-of-iphone-1nfier-over-max-tech-trends-2023/"><u>My Decision for the Smaller Slate: The Compelling Advantages of iPhone 1Nfier over Max - Tech Trends 2023</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-device-wont-boot-a-guide-to-resolve-code-teacher-x10-issues/"><u>Solving the 'Device Won't Boot': A Guide to Resolve Code [Teacher] X10 Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-bp-mode-stop-it-from-failing/"><u>Steam BP Mode: Stop It From Failing</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-gaming-keypads-of-2024/"><u>The Best Gaming Keypads of 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-steam-deck-list/"><u>The Ultimate Steam Deck List</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-warzone-the-top-10-free-online-fps-games-on-the-web/"><u>Ultimate Warzone: The Top 10 Free Online FPS Games on the Web</u></a></li>
+<li><a href="https://games-able.techidaily.com/worried-about-your-kids-on-discord-heres-what-you-can-do-to-keep-them-safe/"><u>Worried About Your Kids on Discord? Here’s What You Can Do to Keep Them Safe</u></a></li>
 </ul></div>
 

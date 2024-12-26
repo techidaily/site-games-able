@@ -1,7 +1,7 @@
 ---
 title: "Palworld Uncovered: Your Essential Handbook"
-date: 2024-12-16T11:01:48.962Z
-updated: 2024-12-17T03:12:32.322Z
+date: 2024-12-20T21:19:46.105Z
+updated: 2024-12-26T03:39:17.771Z
 tags:
   - games
 categories:
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  Palworld has taken the gaming world by storm thanks to its marked popularity at release. But what is Palworld about? And is it really just Pokémon with guns?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Palworld?
 
 ![Palworld farm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/palworld-farm.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Palworld is an Early Access creature-collector survival game made by Japanese indie game company Pocketpair. It features "pals"; monsters that you can capture and collect. It gained massive traction due to its likeness to Pokémon, but its open-world survival-craft approach makes it more like a Pokémon life simulator. Still, you won't struggle to see the similarities between the games, from the cute and colorful nature of the pals to the way you capture and organize them in a "[Paldeck](https://hardcoregamer.com/palworld/every-pal-paldeck/) ." But there's a whole lot more to the game than just catching pals.
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
 
  Palworld was released on January 19, 2024 in early access on Steam, the Xbox Store, and the Microsoft Store. It was released in a very early access state that had plenty of bugs and issues, but still garnered 7 million sales in the first five days.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Platforms Is Palworld Available On?
 
  Palworld is currently available on Windows, as well as the Xbox One and Xbox Series X|S. You can get it through Steam or Xbox Game Pass (including Xbox PC Pass).
@@ -69,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/c2931b7c0e4d12082380cc3ad2ba8216e12e1526e
  However, there's currently no crossplay between the platforms, as they’re not the same version. Cross-platform support will be released in a future update, according to the developers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Palworld PC Requirements
 
 ![Steam Deck playing Palworld](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-playing-palworld-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
 
@@ -92,6 +88,10 @@ Jhet Borja/MakeUseOf
 
  These specs should get you over 60FPS on medium settings. But you could always lower the graphics settings to get a higher framerate. Check out[how to figure out your PC's specs](https://www.makeuseof.com/how-to-check-pc-specs/) in case you can't find them. They don't need to exactly match these, but if the performance is close, you should be fine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Platform Should You Play Palworld On?
 
  While it is cheaper to play Palworld on Xbox Game Pass, the developers are having a hard time getting the updates released as quickly as on Steam due to Microsoft’s verification systems.
@@ -104,6 +104,10 @@ Jhet Borja/MakeUseOf
 
 ![Palworld house](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/palworld-house.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Palworld’s multiplayer works similarly to Minecraft. Joining someone’s world creates a new character that starts from scratch.
 
  Unfortunately, multiplayer is not like Valheim—where your character’s progression is kept between servers. For a game that has a skill tree, transferring your character progression is pretty important.
@@ -113,10 +117,6 @@ Jhet Borja/MakeUseOf
  You can find the save file for the Steam version in**\\AppData\\Local\\Pal\\Saved\\SaveGames\\(SteamUID)** . This folder will contain a folder with a bunch of numbers. You can send this folder to your friends if you want to play in the world if the host isn’t online.
 
 ![Palworld save location for Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/palworld-save-location-for-steam-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Palworld, in its early access state, risks feeling a lot like just another survival-craft entry on Steam. While its crafting and building system doesn't stand out, the integration of pals into this system is actually done well, and makes it unique.
 
@@ -137,24 +137,22 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-eight-high-res-cinematography-systems/"><u>[New] 2024 Approved Best Eight High-Res Cinematography Systems</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-picks-for-online-classical-tone-downloads/"><u>[New] In 2024, Top Picks for Online Classical Tone Downloads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aking-everyday-moments-memorable-on-youtube-for-2024/"><u>[New] Making Everyday Moments Memorable on YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-controlling-bitrate-overload-in-obs/"><u>[Updated] 2024 Approved Controlling Bitrate Overload in OBS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-future-fortunes-for-virtual-game-masters/"><u>[Updated] Future Fortunes for Virtual Game Masters</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-outsmarting-tiktoks-unseen-ban-a-recovery-plan/"><u>[Updated] In 2024, Outsmarting TikTok's Unseen Ban A Recovery Plan</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-tech-comforts-with-luxury-desktops/"><u>[Updated] Ultimate Tech Comforts with Luxury Desktops</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-quirky-and-fun-chess-apps-to-play-chess-variants-online-or-against-ai/"><u>6 Quirky and Fun Chess Apps to Play Chess Variants Online or Against AI</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-guide-for-parents-to-monitor-children-on-discord/"><u>A Guide for Parents to Monitor Children on Discord</u></a></li>
-<li><a href="https://games-able.techidaily.com/add-an-unbreakable-barrier-implement-passcode-lock-on-switch-console/"><u>Add an Unbreakable Barrier: Implement Passcode Lock on Switch Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-fail-to-start-driver-issue-on-windows-11-and-11-pcs/"><u>Addressing Fail-To-Start Driver Issue on Windows 11 & 11 PCs</u></a></li>
-<li><a href="https://games-able.techidaily.com/advanced-mobile-play-controller-enhanced-gaming/"><u>Advanced Mobile Play: Controller-Enhanced Gaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/analyzing-the-need-for-anti-ghosting-features-in-gamers-choice/"><u>Analyzing the Need for Anti-Ghosting Features in Gamers' Choice</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-buyers-remorse-with-pc-compatibility-checks/"><u>Avoid Buyer's Remorse with PC Compatibility Checks</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-master-at-nyts-strands-play-and-win/"><u>Become a Master at NYT’s Strands: Play & Win</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-linksys-ea9500-the-smart-high-performance-wifi-solution/"><u>Expert Analysis: Linksys EA9500 - The Smart, High-Performance WiFi Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719172460954-prepare-for-fun-dive-into-chatgpts-favorite-6-games/"><u>Prepare For Fun: Dive Into ChatGPT’s Favorite 6 Games!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-efficient-repair-of-bcm2045a0-driver-complications/"><u>Quick and Efficient Repair of BCM2045A0 Driver Complications</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/reclaiming-full-control-in-windows-11-mastering-the-art-of-bypassing-no-go-back/"><u>Reclaiming Full Control in Windows 11: Mastering the Art of Bypassing 'No Go Back'</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-champion-toolkit-10-budget-friendly-caption-extractors/"><u>[Updated] Champion Toolkit 10 Budget-Friendly Caption Extractors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gnome-videos-open-source-multimedia-for-windows/"><u>[Updated] GNOME Videos Open-Source Multimedia for Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>[Updated] Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlock-the-power-of-beginnings-with-imovies-creative-tools/"><u>2024 Approved Unlock the Power of Beginnings with iMovie's Creative Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-echoes-academy-superlative-seventeen/"><u>Epic Echoes Academy – Superlative Seventeen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-free-image-editor-apps/"><u>In 2024, The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-xbox-one-play-anyhow/"><u>Mastering Xbox One: Play Anyhow!</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-play-essential-tech-for-gamers/"><u>Optimizing Play: Essential Tech for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/riding-the-wave-of-mmo-innovations-tide/"><u>Riding the Wave of MMO Innovation's Tide</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-integration-subscribing-and-maximizing-ps5s-ea-play/"><u>Seamless Integration: Subscribing & Maximizing PS5's EA Play</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategic-co-op-thriving-as-a-duo-in-switchs-minecraft/"><u>Strategic Co-Op: Thriving as a Duo in Switch’s Minecraft</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-dawn-of-distinctive-filmmaking-with-vr-for-2024/"><u>The Dawn of Distinctive Filmmaking with VR for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-blaze-2-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Blaze 2 Screen | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-gpu-heat-impact-in-gaming/"><u>Understanding GPU Heat Impact in Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-new-yorks-elite-8-daily-strategies-for-elevation/"><u>Unlocking New York's Elite: 8 Daily Strategies for Elevation</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-peak-performance-in-online-gaming-intels-role/"><u>Unlocking Peak Performance in Online Gaming - Intel's Role</u></a></li>
 </ul></div>
 

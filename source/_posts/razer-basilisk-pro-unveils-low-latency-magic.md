@@ -1,7 +1,7 @@
 ---
 title: Razer Basilisk Pro Unveils Low Latency Magic
-date: 2024-08-31T19:18:42.373Z
-updated: 2024-09-01T19:18:42.373Z
+date: 2024-12-19T00:01:55.693Z
+updated: 2024-12-25T16:04:54.776Z
 tags:
   - games
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Razer Basilisk V3 Pro
 
@@ -93,20 +97,18 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Design: RGB All The Things
 
  The V3 Pro is a right-handed mouse, focussed on ergonomic and style. It's available in two colors: black, or white.
 
 ![Razer Basilisk V3 - Official Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-official-colors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  Both use a plastic chassis with a textured, matte finish for its top, glossy accents for its buttons, and rubberized side panels for grip where your thumb and ring finger typically lay. It also has a nice rounded thumb indent that makes the Basilisk V3 Pro easier to pick up, though that's not intended. The mouse feels well-shaped and suited to my medium-sized hands, though my partner with smaller hands finds it a bit too big. The plastic case seems high quality and effectively resists shine, smudges, and fingerprints.
@@ -120,6 +122,10 @@ Paul Antill / MUO
  For RGB lighting, there are 12 lighting zones, full under glow, and plenty of customizable options.
 
 ![Razer Basilisk V3 - RGB Zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-rgb-zones.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -140,8 +146,9 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Underside Controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-underside-controls.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  There are left and right arrows to the side of the scroll wheel, indicating its use as two separate directional buttons in addition to the usual click-in you normally find. The scroll wheel itself has two modes: a tactile cycling mode, which takes advantage of its ridged rubber design for precision rolls, and a free-spin mode for high-speed scrolling.
@@ -156,6 +163,10 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Compared to Cobra Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-compared-to-cobra-pro.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  To maintain a 90-hour battery life, the Basilisk V3 Pro contains an internal battery that sits just above the sensor in an assembly that also includes a slot for the scroll wheel's housing. All of this together makes the device fairly front-heavy, with an overall weight of 112g, far heavier than the usual 70-80g max, which some enthusiasts try to stay under. While this isn't as noticeable as sliding the mouse, if you frequently lift your mouse, it will be.
@@ -165,8 +176,9 @@ Paul Antill / MUO
 Paul Antill / MUO
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Optional Accessories Needed to Unlock The Full Feature-Set
 
  The mouse boasts a default polling rate of 1000Hz, but to tap into its impressive 4000Hz capabilities, you'll need to invest further in the Razer HyperPolling Wireless Dongle. Given that the mouse already costs quite a bit more than the competition at $160, it's disappointing to see that we now have to shell out even more cash to unlock these features. You'd either need to spend another $70 for the Mouse Dock Pro that includes that transceiver, or buy the dongle separately for $30\. These settings need to be enabled in Razer Synapse, but unlike the custom RGB effects, the program can be closed out afterward.
@@ -175,9 +187,6 @@ Paul Antill / MUO
 
  For gamers who are already firmly on Team Razer, the Basilisk V3 Pro could be a great upgrade to their peripherals. Taking advantage Razer's HyperSpeed multi-device support allows you to control their compatible Razer keyboard and mouse with a single dongle, freeing up connectivity space and optimizing stability for even lower latency.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Base Model Is More Than Enough
 
  The Razer Basilisk V3 Pro offers a beautiful design and excellent integration with its device ecosystem. For those contemplating an upgrade from the previous Basilisk V3 or deciding between the two, it essentially boils down to how much you value the Pro's wireless enhancements. Its excellent ergonomics, fast Bluetooth and 2.4GHz connections, along with a remarkable 90-hour battery life, certainly make it stand out.
@@ -185,17 +194,15 @@ Paul Antill / MUO
 ![Razer Basilisk V3 - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-left-side.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  However, there's an elephant in the room–the additional $70 for the dock to unlock its 4KHz polling and wireless charging. While it may sound impressive, for most users, the difference between 1,000Hz and 4,000Hz probably isn't that noticeable, and with its already incredible battery life, charging it every few weeks via USB-C is just fine. Together we think you can skip over these add-ons, and you'd be better off saving the extra cash. If you're already part of Razer's ecosystem or want one of the most versatile wireless gaming mice in their lineup, the Basilisk V3 Pro is indeed a chunky but incredibly enjoyable choice.
 
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
 ##### Razer Basilisk V3 Pro
@@ -208,14 +215,11 @@ Paul Antill / MUO
 
 [$150 at Amazon](https://www.amazon.com/Razer-Basilisk-Customizable-Wireless-Gaming/dp/B0BHFDVLF8?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2030588&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Frazer-basilisk-v3-pro-review%2F&asc%5Fcampaign=Affiliate) [See at Razer](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030588&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro%2FRZ01-04620100-R3G1%23specs) [See at Walmart](https://www.walmart.com/ip/Razer-Basilisk-V3-Pro-Wireless-Gaming-Mouse-HyperScroll-Tilt-Wheel-2-4Ghz-Bluetooth-RGB-White/1609858144)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -224,4 +228,19 @@ Paul Antill / MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-gopro-studio-secrets-building-professional-time-lapses/"><u>[New] GoPro Studio Secrets Building Professional Time Lapses</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transform-images-into-movies-xp-software-guide/"><u>[Updated] In 2024, Transform Images Into Movies XP Software Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/appreciating-google-play-pass-yet-its-flaw-remains/"><u>Appreciating Google Play Pass, Yet Its Flaw Remains</u></a></li>
+<li><a href="https://games-able.techidaily.com/are-we-witnessing-the-onset-of-gpu-expensive-era/"><u>Are We Witnessing the Onset of GPU Expensive Era?</u></a></li>
+<li><a href="https://games-able.techidaily.com/augment-gameplay-efficiency-unlocking-secrets-to-android-fps-measurement/"><u>Augment Gameplay Efficiency: Unlocking Secrets to Android FPS Measurement</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-subscriptions-the-smart-xbox-players-way/"><u>Balancing Subscriptions: The Smart Xbox Player's Way</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-cinematography-best-film-cameras-for-all-experts-for-2024/"><u>Cutting Edge Cinematography Best Film Cameras for All Experts for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/efficient-tactics-for-changing-h2email-protected-files-to-unrestricted-h264-videos/"><u>Efficient Tactics for Changing H.2([email Protected]) Files to Unrestricted H.264 Videos</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/free-aomei-dataknife-robust-windows-backup-and-recovery-solution/"><u>Free AOMEI DataKnife - Robust Windows Backup & Recovery Solution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavis-free-web-based-convertor-para-m4a-en-formato-mkv/"><u>Movavi's FREE Web-Based Convertor Para M4A en Formato MKV</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168719205-sonys-summer-gaming-extravaganza-essential-picks/"><u>Sony’s Summer Gaming Extravaganza: Essential Picks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Scrutinizing EA Play's Payment Requirements
-date: 2024-08-31T19:19:13.790Z
-updated: 2024-09-01T19:19:13.790Z
+date: 2024-12-25T02:11:49.952Z
+updated: 2024-12-25T22:59:00.410Z
 tags:
   - games
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 * [What Popular Games Are Included in EA Play?](#what-popular-games-are-included-in-ea-play)
 * [Is EA Play Worth the Price?](#is-ea-play-worth-the-price)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * EA Play offers access to dozens of EA titles, Game Trials, and up to 10% discount on games and content for $4.99 per month.
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 
  Here's what you should know about EA Play and whether it's worth the money.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## What Is EA Play?
 
  EA Play offers members access to many EA titles for a monthly subscription. You also get Game Trials, which lets you try new EA titles for up to 10 hours without buying them. If you decide to purchase a game after trying it, you get to keep your progress, so you don’t have to start all over again.
@@ -42,15 +43,13 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 ![EA Play vs EA Play Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-vs-ea-play-pro.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  EA Play comes in two tiers. The base EA Play, which costs $4.99 a month or $29.99 a year, lets you access many popular EA titles and gives you the Game Trials, Member Rewards, and 10% discount benefits.
 
  But if you’re a hardcore EA fan, you could select the EA Play Pro subscription. This tier costs $14.99 monthly or $99.99 annually but gives you access to even more EA titles. You can also play premium editions of some newly-released games even before their official release date.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Popular Games Are Included in EA Play?
 
  One of the reasons you choose a subscription is to get access to your favorite game titles. At the time of writing, EA Play gives you access to 89 titles, while EA Play Pro gives you access to 61 additional titles for a total of 150 games.
@@ -58,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 ![EA Play games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-games.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Some of the most popular titles you can get with a basic EA Play subscription include the Battlefield series, from Battlefield 3 to Battlefield 2042, seven Need for Speed titles, including the three latest releases (Payback, Heat, and Unbound), and a few classics like Burnout Paradise Remastered, the Command & Conquer collection, and SimCity 3000 Unlimited.
 
  You also get several trilogies, including Crysis, Dead Space, and Mass Effect. Here's a[complete list of all EA Play games](https://www.ea.com/ea-play/games#ea-app) on the EA website.
@@ -68,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 
 ![Ea Play Pro games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/ea-play-pro-games.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  The more expensive EA Play Pro subscription includes everything in the EA Play subscription plus more niche games, like several titles from EA Sports and many Star Wars franchise titles.
 
  You also get a few top-billed indie games like FTL: Faster Than Light, Frostpunk, and They Are Billions. If you want to see all the games included in this subscription, you can check out this[list of all EA Play Pro games on PC](https://www.ea.com/ea-play/games#ea-play-pro) .
@@ -78,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 ## Is EA Play Worth the Price?
 
 ![man playing on a gaming pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/man-playing-on-a-gaming-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Gorodenkoff/[Shutterstock](https://www.shutterstock.com/image-photo/professional-gamer-playing-firstperson-shooter-online-1430140334)
 
@@ -96,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 ![A promotional image for Xbox Game Pass and EA Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-game-pass-and-ea-play.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Image Credit: [Xbox](https://www.xbox.com/en-us/games/store/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc%5Fid=CNavGamesXboxGamePassUltimate)
 
  If you’re a fan of specific game titles in the EA library, it’s better to purchase these titles directly on Steam so that you’ll always have ownership of these games. But if you’re a PC gaming fan, Xbox Game Pass gives you more value, as you get many more titles and you are not limited to EA titles only.
@@ -106,14 +108,11 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
 
  EA Play isn’t exactly the best value gaming subscription out there, especially if you’re a PC gamer. Unless you’re a superfan of Electronic Arts, you’re better off going for Xbox Game Pass for PC or just buying your favorite titles outright from Steam or EA.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,22 @@ thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-full-reviewed-evaluation-hero4-black-capabilities/"><u>[New] Full Reviewed Evaluation Hero4 Black Capabilities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-copyright-definitions-and-implications-in-music-for-2024/"><u>[Updated] Copyright Definitions & Implications in Music for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-shortcut-knowledge-for-flawless-mac-recordings-for-2024/"><u>[Updated] Essential Shortcut Knowledge for Flawless Mac Recordings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-live-broadcast-precision-introducing-an-effective-timer/"><u>[Updated] Live Broadcast Precision Introducing an Effective Timer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>2024 Approved Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pros-and-cons-of-syma-x8c/"><u>2024 Approved Pros and Cons of Syma X8C</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engaging-virtual-experiences-to-fortify-design-expertise/"><u>7 Engaging Virtual Experiences to Fortify Design Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/amds-innovation-with-fsr-3-can-it-outperform-dlss-35/"><u>AMD's Innovation with FSR 3: Can It Outperform DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/an-enthusiasts-guide-to-favorite-offbeat-indie-games/"><u>An Enthusiast's Guide to Favorite, Offbeat Indie Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-subtleties-steam-vs-gog-service-providers/"><u>Analyzing Subtleties: Steam vs GOG Service Providers</u></a></li>
+<li><a href="https://games-able.techidaily.com/baldurs-gate-3-for-m1m2-using-crossover-on-mac/"><u>Baldur’s Gate 3 for M1/M2: Using Crossover on Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169184228-my-gaming-adventure-with-an-advanced-oled-display/"><u>My Gaming Adventure with an Advanced OLED Display</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-8-microphones-ideaux-pour-votre-chaine-youtube-comparatif-complet/"><u>Top 8 Microphones Idéaux Pour Votre Chaîne YouTube - Comparatif Complet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformation-illimitee-des-fichiers-mka-vers-mp4-sans-frais-sur-movavi/"><u>Transformation Illimitée Des Fichiers MKA Vers MP4 Sans Frais Sur Movavi</u></a></li>
+</ul></div>
 

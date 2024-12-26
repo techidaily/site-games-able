@@ -1,7 +1,7 @@
 ---
 title: Cryptic Gaming Dialogues on Series S/X Console
-date: 2024-08-27T17:09:53.961Z
-updated: 2024-08-28T17:09:53.961Z
+date: 2024-12-23T04:04:40.591Z
+updated: 2024-12-26T03:45:07.373Z
 tags:
   - games
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  Similarly to taking captures on your Xbox Series X|S, recorded voice chats are also saved to your Xbox. However, while you can[upload Xbox captures to an external storage device](https://www.makeuseof.com/how-to-copy-xbox-game-captures-to-external-storage/) , you only have the option to delete or report your saved voice clips.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record Voice Chats on Xbox Series X|S
 
  Now you know some of the restrictions associated with recording voice chats and won't be expecting to be able to document your own Xbox party chats, you're ready to start saving your online voice chats to your Xbox.
@@ -55,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  From**Review saved clips** , you can ensure you have captured the intended audio, or if the clip isn't what you intended, you can remove it from your Xbox entirely by selecting**Delete** . But what if the clip is what you intended, and you want to move ahead with reporting your recorded audio?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Report Inappropriate Voice Chat on Xbox
 
  Now you know how to record voice chats on your Xbox Series X|S, let's look at how to utilize your recorded clips and report inappropriate behavior you encounter in your online games.
@@ -71,62 +72,46 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 ![A screenshot of Report In Game Voice Chat reporting options on Xbox Series X highlighting player selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-players.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Choose why you are reporting the online players,**Harassment** , or**Hate speech** , for instance, followed by**Next** .
 
 ![A screenshot of the behaviour options when reporting someone using Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/report-categories.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Next, as an optional choice, you can provide extra details about the incident. Select**Next** to continue.
 
 ![A screenshot of the In Your Own Words page for the Report In Game Voice Chat option on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extra-info.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Lastly, select**Submit Report** to finalize reporting your saved voice clip.
 
 ![A screenshot of the Summary page for the option to Report In Game Voice Chat on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/finaliaze.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  With your saved voice clip reported, Xbox will review your claim and eventually send you an Xbox notification informing you whether action was taken. And with that, you're one step ahead when socializing online in multiplayer games.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Protect Your Online Communities With Voice Reporting on Xbox Series X|S
 
  While the ability to record and save voice chat is limited, the ability to freely record and report abusive behavior online is a godsend if you frequent online gaming communities. And with this, you have the tools to flag and potentially remove inappropriate players.
 
  So, the reporting tools available on Xbox Series X|S only work to empower you to make all of your online spaces, especially multiplayer gaming, safer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +120,16 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/get-accessible-entertainment-on-crackle-see-movies-and-shows-at-zero-cost/"><u>Get Accessible Entertainment on Crackle – See Movies & Shows at Zero Cost!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-wmv-teams-in-mp4-online-vervangen-professioneel-en-efficient/"><u>Gratis WMV-Teams in MP4 Online Vervangen - Professioneel en Efficiënt</u></a></li>
+<li><a href="https://games-able.techidaily.com/improving-your-xboxs-joystick-responsiveness/"><u>Improving Your Xbox's Joystick Responsiveness</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-past-game-saves-from-playstation-5-console/"><u>Removing Past Game Saves From PlayStation 5 Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-xbox-viewing-on-a-secondary-laptop-screen/"><u>Seamless Xbox Viewing on a Secondary Laptop Screen</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-se-2022-cases-ultimate-protection-and-style-techradar/"><u>Top-Rated iPhone SE 2022 Cases: Ultimate Protection & Style | TechRadar</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-unconnected-nvidia-ports-with-proven-techniques/"><u>Troubleshoot Unconnected Nvidia Ports with Proven Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-xbox-series-status-shift/"><u>Understanding the Xbox Series Status Shift</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-monetization-the-new-rules-everyone-hates/"><u>YouTube Monetization The New Rules Everyone Hates</u></a></li>
+</ul></div>
 

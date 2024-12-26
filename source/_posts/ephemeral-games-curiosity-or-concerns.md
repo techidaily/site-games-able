@@ -1,7 +1,7 @@
 ---
 title: Ephemeral Games – Curiosity or Concerns?
-date: 2024-12-12T22:46:32.843Z
-updated: 2024-12-17T04:33:20.489Z
+date: 2024-12-19T18:57:44.327Z
+updated: 2024-12-25T20:31:06.299Z
 tags:
   - games
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are Game Servers?](#what-are-game-servers)
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
  Game servers for two much-loved games recently shut down, destroying millions of user-created levels. Why did this happen and is there anything you can do about it?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Are Game Servers?
@@ -43,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Worse, servers can be shut down permanently if their owners don’t see enough value in keeping them running. This happened in April 2024 with two much-loved platforming games losing their user-generated levels. Game servers that hosted player-made levels for both Super Mario Maker (Wii U, 3DS) and LittleBigPlanet 3 (PlayStation 3 and 4) were closed forever.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Games Run Using a Server?
 
 ![A promotional image showing a Fortnite character based on Billie Eilish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/fortnite-festival-season-3-1920x1080-5bb5103dc240.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Epic Games](https://www.fortnite.com/news/fortnite-festival-season-3-features-billie-eilish)
@@ -66,17 +74,9 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  Such games include Mario Maker and Little Big Planet. Console publishers are often more protective of their IP; Nintendo, in particular, is fiercely protective of its games, locking them down to prevent anything but official, sanctioned access.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Long Do Game Servers Last?
 
 ![The inside of an old computer with cobwebs stretched out among the cables.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/shutterstock_688683298.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Gennady Grechishkin/[Shutterstock](https://www.shutterstock.com/image-photo/old-computer-system-unit-spiderweb-dust-688683298)
 
@@ -88,13 +88,13 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
  The Overwatch 1 servers lasted just six years, and[the game is now officially dead](https://gamerant.com/overwatch-servers-shutdown-status-offline/) . But that decision was simply to make way for the game’s sequel. Generally, a game server stays up for at least as long as a console generation. Publishers could argue that anything beyond this is a sign of goodwill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Happens When Servers Shut Down?
 
 ![A close up of a maze-based video game with the words “Game Over” in prominent lettering.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/game-over-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Frenzel/[Shutterstock](https://www.shutterstock.com/image-photo/screen-showing-that-game-over-macro-153068465)
 
@@ -121,16 +121,22 @@ thumbnail: https://thmb.techidaily.com/4af354c0c4f31e85da7815990d834961f2e7342ec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earnings-expertise-in-streams-a-comparative-study/"><u>[New] 2024 Approved Earnings Expertise in Streams A Comparative Study</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-video-with-story-remix-and-windows-photos/"><u>[New] Perfecting Your Video with Story Remix & Windows Photos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-webcam-techniques-for-live-recording-powerpoint/"><u>[Updated] In 2024, Webcam Techniques for Live Recording PowerPoint</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quickscreen-freeze-methods-manual-for-2024/"><u>[Updated] QuickScreen Freeze Methods Manual for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/curtailing-game-bar-controlling-windows-11-activity/"><u>Curtailing Game Bar: Controlling Windows 11 Activity</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-through-the-ages-retro-pokemon-on-phone/"><u>Gaming Through the Ages: Retro Pokémon on Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gms-massive-initiative-rolling-out-40000plus-ev-chargers-across-north-america/"><u>GM's Massive Initiative: Rolling Out 40,000+ EV Chargers Across North America</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-revive-your-gaming-library-on-ps5/"><u>How to Revive Your Gaming Library on PS5</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/minimizing-game-bars-operations-for-windows-11-privacy/"><u>Minimizing Game Bar's Operations for Windows 11 Privacy</u></a></li>
-<li><a href="https://games-able.techidaily.com/supercharge-gaming-experience-master-these-5-mac-tricks/"><u>Supercharge Gaming Experience - Master These 5 Mac Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>2024 Approved Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-dreams-or-realistic-retainment/"><u>Digital Dreams or Realistic Retainment?</u></a></li>
+<li><a href="https://games-able.techidaily.com/dont-join-linkedin-game-craze-risks-included/"><u>Don't Join LinkedIn Game Craze - Risks Included</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-immersion-top-vr-options-reviewed/"><u>Economical Immersion: Top VR Options Reviewed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fortnites-mac-compatibility-savor-the-joy-with-caution/"><u>Fortnite's Mac Compatibility - Savor the Joy with Caution</u></a></li>
+<li><a href="https://games-able.techidaily.com/google-plays-pc-gaming-elite-list-betas-first/"><u>Google Play's PC Gaming Elite List - Betas First</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-lenovo-thinkphone-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Lenovo ThinkPhone Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-innovative-techniques-for-unique-canon-timelapse-vids/"><u>In 2024, Innovative Techniques for Unique Canon Timelapse Vids</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s23plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S23+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-fixing-blank-displays-in-win-os/"><u>Mastering the Art of Fixing Blank Displays in WIN OS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/izing-video-impact-a-comprehensive-guide-to-youtube-popularity/"><u>Maximizing Video Impact A Comprehensive Guide to YouTube Popularity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-no-driver-found-issues-on-your-windows-11-8-or-7-device/"><u>Resolving No Driver Found Issues on Your Windows 11, 8 or 7 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/temptation-of-speed-led-to-my-downfall/"><u>Temptation of Speed Led to My Downfall</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-compilation-of-high-end-elgato-stream-decks/"><u>The Ultimate Compilation of High-End Elgato Stream Decks</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gaming-spectacles-with-uv-protection/"><u>Top Gaming Spectacles with UV Protection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-11-installation-steps-get-your-pc-upgraded-with-the-latest-operating-system/"><u>Windows 11 Installation Steps: Get Your PC Upgraded with the Latest Operating System</u></a></li>
 </ul></div>
 

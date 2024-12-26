@@ -1,7 +1,7 @@
 ---
 title: Game Storytelling Enhanced by AI Technology
-date: 2024-12-09T20:13:28.349Z
-updated: 2024-12-16T21:06:12.574Z
+date: 2024-12-22T05:46:18.612Z
+updated: 2024-12-25T17:41:19.314Z
 tags:
   - games
 categories:
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  If you want to simplify dialogues in bulk, you can insert the whole dialogue tree into the prompt as well. If you run into the[ChatGPT character input limit, there are ways to bypass it](https://www.makeuseof.com/what-is-chatgpt-character-input-limit/) . Just be sure to put the dialogues in quotation marks, so the chatbot can easily recognize them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Give the NPCs Some Character
 
 ![chatgpt roleplaying as npc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-roleplay.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Role-play as a \[NPC character name and world setting\]. \[Provide some character history and background.\]"
 
@@ -51,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![adding emotion using chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-emotion.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 > **Prompt inspiration** : "Add the emotion of \[Insert emotion\] to these video game dialogues made by \[Insert character information and scenario\]: \[Insert dialogues\]."
 
  ChatGPT can also help you add emotion to video game dialogues. This will let you convey an NPC's backstory, context, and state of mind with words alone. Unsure what kind of emotions an NPC should be going through during a certain scenario? ChatGPT can help you with that as well.
 
 ![kinds of emotion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/type-of-emotion.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "What kind of emotion should \[Insert character information\] during \[Insert scenario\]?"
 
@@ -71,19 +63,23 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 ![chatgpt codex entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-codex.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 > **Prompt inspiration** : "Make video game codex entries for \[insert items or characters whose codex entries you want to generate\]. Include some interconnected lore in these codex entries to make the world feel more immersive."
 
  It often gets difficult to generate unique codex entries from scratch to fit into the game world you're creating. But with ChatGPT, you can have a bottomless pool of inspiration to work with.
 
  You can ask the language model to generate all kinds of codex entries, such as item descriptions, lore tablets, character backgrounds, and even gameplay instructions. You can also instruct ChatGPT to create connections between different codex entries to make your game lore more interconnected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Brainstorm Side Quest Ideas
 
 ![chatgpt side quest ideas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-side-quest.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Give me side quest ideas for a \[Insert game type\] game set in a world with \[Insert game setting and lore\]. Be sure to include a reference to a video game where the side quest idea has been used."
 
@@ -91,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
  Or, you could request the chatbot to provide you with quest examples from other video games. You can then judge how well these types of quests worked for the game in question before incorporating them in your own script.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Write Barks
 
 ![chatgpt generating barks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-barks.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > **Prompt inspiration** : "Give me a list of barks for a \[Insert character type\] commenting on the player's \[Insert situation for which you need the bark\]."
@@ -126,18 +126,19 @@ thumbnail: https://thmb.techidaily.com/46f8f3c70815f152419419ddd699d5297d1d12c7e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators/"><u>[New] 2024 Approved The Green Screen Revolution Access Comprehensive Tutorials From 4 Leading YouTube Educators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-advanced-photographic-techniques-from-auto-to-smart-hdr/"><u>[New] In 2024, Advanced Photographic Techniques From Auto to Smart HDR</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-to-implementing-borders-on-instagram-images-for-2024/"><u>[New] Step-by-Step Guide to Implementing Borders on Instagram Images for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outubes-link-trimming-winners-select-the-top-5-apps-for-2024/"><u>[New] Youtube's Link-Trimming Winners Select the Top 5 Apps for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-gaming-pleasure-learn-5-mac-optimizations/"><u>Boost Your Gaming Pleasure - Learn 5 Mac Optimizations</u></a></li>
-<li><a href="https://games-able.techidaily.com/budget-gaming-aesthetics-and-function/"><u>Budget Gaming: Aesthetics and Function</u></a></li>
-<li><a href="https://extra-information.techidaily.com/configuring-zoom-step-by-step-video-conference-guide-for-2024/"><u>Configuring Zoom Step-by-Step Video Conference Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/desk-dwelling-gamers-delight/"><u>Desk Dwelling: Gamers’ Delight</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/reflecting-on-an-excessive-gpu-purchase-decision/"><u>Reflecting on an Excessive GPU Purchase Decision</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restore-normal-screen-orientation-for-windows-10/"><u>Restore Normal Screen Orientation for Windows 10</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/solving-absentee-mac-storage-drives-8-suggestions/"><u>Solving Absentee Mac Storage Drives – 8 Suggestions</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-your-system-needs-the-top-8-factors-for-a-cooler/"><u>Understanding Your System Needs – The Top 8 Factors for a Cooler</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-creative-boundaries-mastering-3d-lut-techniques/"><u>[New] Pushing Creative Boundaries Mastering 3D Lut Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-issues-in-rainbow-six-siege-expert-tips-and-solutions/"><u>Eliminate Lag Issues in Rainbow Six Siege - Expert Tips & Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-gaming-life-learn-how-to-effortlessly-play-steam-games-on-meta-quest/"><u>Enhance Your Gaming Life - Learn How to Effortlessly Play Steam Games on Meta Quest</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-doodles-to-success-your-guide-to-a-flourishing-design-career/"><u>From Doodles to Success Your Guide to a Flourishing Design Career</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-master-the-art-of-live-streaming-obs-tips-for-youtube-and-twitch/"><u>In 2024, Master the Art of Live Streaming OBS Tips for YouTube & Twitch</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovating-on-iphone-creating-your-own-gaming-space/"><u>Innovating on iPhone: Creating Your Own Gaming Space</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/navigate-and-edit-system-settings-flawlessly-mastery-of-regedit-for-precise-value-adjustments-by-yl-computing-tools/"><u>Navigate & Edit System Settings Flawlessly: Mastery of Regedit for Precise Value Adjustments by YL Computing Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-10-video-rotation-tools-for-a-dynamic-online-presence/"><u>New 2024 Approved Top 10 Video Rotation Tools for a Dynamic Online Presence</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/optimale-methode-zum-schutz-ihrer-windows-10-daten-vor-einer-neukonfiguration/"><u>Optimale Methode Zum Schutz Ihrer Windows 10 Daten Vor Einer Neukonfiguration</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-tips-for-top-level-gamers-why-choose-steam-first/"><u>Pro Tips for Top-Level Gamers: Why Choose Steam First</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-steam-discrepancies-in-windows-files/"><u>Remedying Steam Discrepancies in Windows Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/review-illusions-why-gaming-metrics-are-misleading/"><u>Review Illusions: Why Gaming Metrics Are Misleading</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-console-link-fixing-the-controller-windows/"><u>Reviving Your Console Link: Fixing the Controller (Windows)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/verbeter-de-jubel-der-zevende-zijn-voor-filmpjes-eenvoudige-instructies-met-movavi/"><u>Verbeter De Jubel Der Zevende Zijn Voor Filmpjes: Eenvoudige Instructies Met Movavi</u></a></li>
 </ul></div>
 

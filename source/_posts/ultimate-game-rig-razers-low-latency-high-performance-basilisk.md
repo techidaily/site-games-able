@@ -1,7 +1,7 @@
 ---
 title: Ultimate Game Rig - Razer's Low Latency, High Performance Basilisk
-date: 2024-08-31T19:18:38.585Z
-updated: 2024-09-01T19:18:38.585Z
+date: 2024-12-24T22:50:45.950Z
+updated: 2024-12-26T01:46:59.796Z
 tags:
   - games
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
  Building off the success of the hugely popular wired Razer Basilisk V3 (released in September 2021), the Razer Basilisk V3 Pro gets updated with wireless connectivity and an even faster sensor. If you already own or have used the previous wired model and looking for an upgrade or replacement, the V3 Pro is worth checking out.
 
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
@@ -81,11 +85,19 @@ Yes
 
  With its 11 programmable buttons, dual-mode tilt wheel, and Razer’s third-gen optical switches, this is Razer's best and fastest customizable wireless mouse, though it does have a few quirks. Unfortunately, the V3 Pro comes in at a higher $160 price point and a rather heavy weight of 112g, which may deter those on a tighter budget and those who prefer lighter options. Many of the V3 Pro's new features also rely on additional hardware which is not included in the box. That said, for those looking for a more well-rounded gaming mouse that can also double as a solid everyday wireless option, the V3 Pro is just that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's New? V3 vs V3 Pro
 
  The Basilisk V3 Pro features the Razer Focus Pro 30K Optical Sensor, which Razer calls, "the world's most precise optical sensor." Marketing jargon aside, the Focus Pro sensor provides three levels of lift-off customization with 26 levels of height adjustment for gamers to program their mouse specifically to their unique play style. With smart tracking and motion sync, this optical sensor also maintains better control and greater accuracy on any surface—even tracking on glass as long as it is at least 4mm thick. While most users will probably still stick to their trusty mouse pads, for the times when one isn't available, the mouse still works great.
 
 ![Razer Basilisk V3 - Gaming 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-gaming-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -93,30 +105,24 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-box.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Design: RGB All The Things
 
  The V3 Pro is a right-handed mouse, focussed on ergonomic and style. It's available in two colors: black, or white.
 
 ![Razer Basilisk V3 - Official Colors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-official-colors.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  Both use a plastic chassis with a textured, matte finish for its top, glossy accents for its buttons, and rubberized side panels for grip where your thumb and ring finger typically lay. It also has a nice rounded thumb indent that makes the Basilisk V3 Pro easier to pick up, though that's not intended. The mouse feels well-shaped and suited to my medium-sized hands, though my partner with smaller hands finds it a bit too big. The plastic case seems high quality and effectively resists shine, smudges, and fingerprints.
 
 ![Razer Basilisk V3 - Thumb Grip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-thumb-grip.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  For customization, we find 10+1 programmable buttons, with the +1 being a profile button underneath the mouse that lets you cycle through up to five saved profiles.
@@ -125,15 +131,16 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - RGB Zones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-rgb-zones.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  Of course, no Razer mouse would be complete without featuring their trademark triple-headed snake (which also has its own RGB).
 
 ![Razer Basilisk V3 - Snake Head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-snake-head.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
  However, as we quickly found out, you will need to leave Razer Synapse running for your custom lighting effects to play. Even closing the window once your preferred settings are saved will cause the mouse to default to its basic pattern.
@@ -145,6 +152,10 @@ Paul Antill / MUO
  We also find a switch to toggle Bluetooth, Off, or 2.4GHz. There is also an intriguing circular cap which, when removed, reveals a set of pins and a hidden compartment that houses the USB receiver.
 
 ![Razer Basilisk V3 - Underside Controls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-underside-controls.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Paul Antill / MUO
 
@@ -166,14 +177,8 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Laying on its Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-laying-on-its-side.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Paul Antill / MUO
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Optional Accessories Needed to Unlock The Full Feature-Set
 
  The mouse boasts a default polling rate of 1000Hz, but to tap into its impressive 4000Hz capabilities, you'll need to invest further in the Razer HyperPolling Wireless Dongle. Given that the mouse already costs quite a bit more than the competition at $160, it's disappointing to see that we now have to shell out even more cash to unlock these features. You'd either need to spend another $70 for the Mouse Dock Pro that includes that transceiver, or buy the dongle separately for $30\. These settings need to be enabled in Razer Synapse, but unlike the custom RGB effects, the program can be closed out afterward.
@@ -188,15 +193,16 @@ Paul Antill / MUO
 
 ![Razer Basilisk V3 - Left Side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/razer-basilisk-v3-left-side.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Paul Antill / MUO
 
  However, there's an elephant in the room–the additional $70 for the dock to unlock its 4KHz polling and wireless charging. While it may sound impressive, for most users, the difference between 1,000Hz and 4,000Hz probably isn't that noticeable, and with its already incredible battery life, charging it every few weeks via USB-C is just fine. Together we think you can skip over these add-ons, and you'd be better off saving the extra cash. If you're already part of Razer's ecosystem or want one of the most versatile wireless gaming mice in their lineup, the Basilisk V3 Pro is indeed a chunky but incredibly enjoyable choice.
 
 ![Razer Basilisk V3 Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Razer-Basilisk-V3-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://static1.makeuseofimages.com/wordpresshttps://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/editors-choice-2024.png)
 
 ##### Razer Basilisk V3 Pro
@@ -209,14 +215,11 @@ Paul Antill / MUO
 
 [$150 at Amazon](https://www.amazon.com/Razer-Basilisk-Customizable-Wireless-Gaming/dp/B0BHFDVLF8?th=1&tag=makeusw-20&ascsubtag=UUmuoUeUpU2030588&asc%5Frefurl=https%3A%2F%2Fwww.makeuseof.com%2Frazer-basilisk-v3-pro-review%2F&asc%5Fcampaign=Affiliate) [See at Razer](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030588&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgaming-mice%2Frazer-basilisk-v3-pro%2FRZ01-04620100-R3G1%23specs) [See at Walmart](https://www.walmart.com/ip/Razer-Basilisk-V3-Pro-Wireless-Gaming-Mouse-HyperScroll-Tilt-Wheel-2-4Ghz-Bluetooth-RGB-White/1609858144)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -225,4 +228,17 @@ Paul Antill / MUO
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-getting-it-just-right-the-art-of-social-media-video-dimensions/"><u>[New] 2024 Approved Getting It Just Right The Art of Social Media Video Dimensions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-smooth-shots-stronger-impressions-fixing-iphone-video-instability/"><u>[New] Smooth Shots, Stronger Impressions Fixing iPhone Video Instability</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unveiling-first-episode-footage-examination/"><u>[Updated] Unveiling First-Episode Footage Examination</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-obstacles-to-gamefis-adoption-by-true-gamers/"><u>5 Obstacles to GameFi's Adoption by True Gamers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieving-cinematic-experience-at-home-setting-up-4k-gaming-on-xbox-sx/"><u>Achieving Cinematic Experience at Home: Setting Up 4K Gaming on Xbox SX</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164564989-beat-the-heat-with-ps-summer-sale-winners/"><u>Beat the Heat with PS Summer Sale Winners!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-best-youtube-beginnings-15-editing-samples/"><u>In 2024, Best YouTube Beginnings 15 Editing Samples</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/ultimate-diy-guide-solving-raw-drive-issues-on-solid-state-drives-ssd-easily/"><u>Ultimate DIY Guide: Solving 'RAW' Drive Issues on Solid State Drives (SSD) Easily</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169754120-why-hold-off-on-your-next-ps5-discover-here/"><u>Why Hold Off on Your Next PS5? Discover Here</u></a></li>
+</ul></div>
 

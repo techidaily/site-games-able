@@ -1,7 +1,7 @@
 ---
 title: X Overhaul Transforms Gaming Console Experience
-date: 2024-08-27T17:07:06.285Z
-updated: 2024-08-28T17:07:06.285Z
+date: 2024-12-22T03:50:13.199Z
+updated: 2024-12-25T19:54:53.965Z
 tags:
   - games
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  Asus has announced the ROG Ally X, the successor to 2023's ROG Ally. It boasts several improvements, but arguably one of the best changes is its increased battery capacity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The ROG Ally X Doubles The Original's Battery Capacity
 
  Announced at Computex 2024, the ROG Ally X improves the original handheld's formula in many ways. One of the biggest differences is its battery capacity, which has been doubled. Rather than the 40Wh battery[featured on the ROG Ally](http://www.makeuseof.com/what-is-asus-rog-ally/) , the ROG Ally X includes an 80Wh battery.
@@ -24,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  Since portability is a major selling point for handhelds and one of the[key considerations when buying a handheld console](https://www.makeuseof.com/gaming-handheld-things-to-consider-before-buying/) , the improved battery life will give owners of the device more freedom of movement, for longer. After all, if you're constantly tethered to a power outlet, you're missing out on one of the biggest advantages of the handheld format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other ROG Ally X Improvements
 
 ![the asus rog ally x on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/the-asus-rog-ally-x-on-a-table.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Asus
 
@@ -40,14 +52,11 @@ Asus
 
  While the improvements may not necessarily make you switch from a ROG Ally to a ROG Ally X, the new features and hardware definitely make it an appealing option in a competitive handheld market.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -56,8 +65,20 @@ Asus
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-tunefab-screen-recording-tips-and-tricks/"><u>[New] 2024 Approved Top 5 Tunefab Screen Recording Tips & Tricks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-11-system-restore-not-working/"><u>[Solved] Windows 11 System Restore Not Working</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tune-up-guide-new-gadgets-reviewed/"><u>[Updated] 2024 Approved Tune-Up Guide New Gadgets Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-accelerating-livestreams-on-periscope-made-easy/"><u>[Updated] Accelerating Livestreams on Periscope Made Easy</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-leverage-the-power-of-assist-controller-on-ps5/"><u>How to Leverage the Power of Assist Controller on PS5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-13t-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 13T Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-go-2024-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark Go (2024) Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-low-power-settings-for-xbox-controllers/"><u>Mastering Low-Power Settings for Xbox Controllers</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-tip-check-if-cpu-is-hindering-your-computers-power/"><u>Quick Tip: Check if CPU Is Hindering Your Computer's Power</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/rapid-rise-to-instagram-riches-15-innovative-techniques-for-quick-popularity-boost/"><u>Rapid Rise to Instagram Riches 15 Innovative Techniques for Quick Popularity Boost</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-rise-of-immersive-multiplayer-games/"><u>The Rise of Immersive Multiplayer Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-2024-tablet-picks-for-ultimate-note-taking-comprehensive-reviews-and-rankings-zdnet/"><u>Top 2024 Tablet Picks for Ultimate Note-Taking: Comprehensive Reviews & Rankings - ZDNet</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-computing-tutorial-install-or-uninstall-software-using-the-control-panel/"><u>YL Computing Tutorial: Install or Uninstall Software Using the Control Panel</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->

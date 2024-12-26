@@ -1,7 +1,7 @@
 ---
 title: Enjoy Immersive Worlds - A Step-by-Step Guide to Playing Games on Meta Quest & Steam Headset
-date: 2024-08-31T19:18:25.335Z
-updated: 2024-09-01T19:18:25.335Z
+date: 2024-12-23T04:55:53.884Z
+updated: 2024-12-25T20:56:19.594Z
 tags:
   - games
 categories:
@@ -38,26 +38,21 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 * Your gaming PC and headset must be on the same LAN and able to “see” each other. In some cases, your Wi-Fi may be isolated from wired devices. If this is the case, you’ll need to delve into your router settings to correct the issue. This might also be the case if you have a large home and chose to[use more than one router](https://www.makeuseof.com/should-you-use-multiple-routers-pros-and-cons/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Steam Link on the Meta Quest
 
  Steam Link has always been the easiest way to stream your Steam games to other computers and mobiles—and now there’s an official Steam Link app for Meta Quest. This is by far the easiest way to stream both flatscreen and VR games wirelessly to your Quest.
 
 ![meta store download steam link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/meta-store-download-steam-link-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  To get started, download the[official Meta Steam Link app](https://www.meta.com/en-us/experiences/5841245619310585/) . You can also find this easily in your headset using the Meta store. You'll need to pair this with your desktop gaming machine, so open the app and click through to start scanning for a local machine running Steam.
 
  You'll see an error saying**Computer Not Found** if your computer isn't on the same network (or isn't turned on at all).
 
 ![steam link no computer found](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-no-computer-found.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  If it successfully locates your computer, click**Connect** , and you'll be given a four-digit code to enter on the Steam side. You'll only need to do this once.
 
 ![steam link connect computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-connect-computer.jpg)
@@ -66,18 +61,12 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 ![steam link vr bigscreen mode vr titles only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-bigscreen-mode-vr-titles-only.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While it is possible to play non-VR flatscreen games using Steam Link as well, I found that the Meta Quest controllers aren't emulated as a gamepad, nor will Steam Link pass through a gamepad that's connected via Bluetooth to your Quest.
 
  It's also not easy to use your Quest controller to point and click like a mouse (it requires simultaneously holding down the Steam button and then tapping the trigger, for instance).
 
 ![steam link vr library view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-link-vr-library-view.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Instead, you'll need to use a mouse and keyboard (or a gamepad) connected directly to your PC. If you're in the same room as your PC anyway, this isn't a huge deal. But it does mean that you can't enjoy some casual gaming from bed, for instance.
 
 **Steam Link App Pros:**
@@ -97,13 +86,18 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 ![virtual desktop screenshot app about my pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/virtual-desktop-screenshot-app-about-my-pc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Start by downloading the streaming software to your PC using the[Virtual Desktop website](https://www.vrdesktop.net/) . Make sure that it's running (it sits quietly in the taskbar usually).
 
  The default options are fine for most people—it will automatically optimize your connection and emulate a gamepad using your Quest controllers. You'll also need to purchase the[Virtual Desktop app from the Meta store](https://www.meta.com/en-us/experiences/2017050365004772/) or from within your headset.
 
 ![meta store download virtual desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/meta-store-download-virtual-desktop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Start the Virtual Desktop app on your headset, then pop over to your PC and click the**Allow** button in the dialog that comes up—it should say your Oculus username. From there, you'll be automatically connected.
 
@@ -125,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 * It costs $15.
 * This method requires a server app to be installed on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Using the Meta Quest AirLink
 
  AirLink is the official wireless streaming solution from Meta that allows you to play both desktop Meta/Oculus games and SteamVR.
@@ -137,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 ![enable quest link from quick settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enable-quest-link-from-quick-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For wireless connectivity, click the**Enable AirLink** option. Your computer should then be listed below. Click to pair, and if this is your first time, you'll need to confirm the pairing request on the PC side (a code is shown to verify from the headset, but you don't need to note it down or type it in).
 
  You'll also need to jump back into the headset after doing so and confirm again there.
@@ -163,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 * It needs the Oculus desktop app (also known as Meta Quest Link app), which can add overhead and degrade performance.
 * It has an outdated UI and a frustrating experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Using the Meta Link Cable (Wired)
 
  Finally, for the highest quality but less convenience, you can simply plug your Meta Quest directly into your gaming PC—provided you have a high-speed USB port (USB-C or A 3.1/3.2) and a suitable cable.
@@ -182,20 +178,21 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 * This method is almost as buggy as AirLink.
 * You're tethered to your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Method Should You Use to Play Steam Games on Your Meta Quest?
 
  If you're serious about streaming games to your Meta Quest, I recommend purchasing the Virtual Desktop app. It's the most reliable option and offers the most comprehensive feature set that goes far beyond Steam games. You'll even be able to watch downloaded 3D movies.
 
  But if you're unsure about the idea and only want to dabble with VR games from Steam, the official Steam Link app is simple and free—so it's worth trying that first.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -204,4 +201,22 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[New] Capturing the Thrill Pro Gamer's Guide to Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-5-frame-sequence-recorder-fast-and-easy-for-2024/"><u>[Updated] Best 5-Frame Sequence Recorder - Fast & Easy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-dismantle-that-dominating-green-distortion-in-mac-based-videos/"><u>2024 Approved Dismantle That Dominating Green Distortion in Mac-Based Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/5-settings-to-make-a-ps5-safer-for-kids-to-use/"><u>5 Settings to Make a PS5 Safer for Kids to Use</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-unveils-fsr-3-upgrade-or-obsolete-against-dlss-35/"><u>AMD Unveils FSR 3: Upgrade or Obsolete Against DLSS 3.5?</u></a></li>
+<li><a href="https://games-able.techidaily.com/asus-rog-ally-laptop-docks-the-ultimate-guide-to-2024/"><u>ASUS ROG Ally Laptop Docks: The Ultimate Guide to 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/avoiding-hurdles-in-your-next-steam-decks-ssd-changeover/"><u>Avoiding Hurdles in Your Next Steam Deck's SSD Changeover</u></a></li>
+<li><a href="https://games-able.techidaily.com/balancing-entertainment-and-conservation/"><u>Balancing Entertainment and Conservation</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-match-for-your-nintendo-switch/"><u>Best Match for Your Nintendo Switch</u></a></li>
+<li><a href="https://article-files.techidaily.com/google-powered-success-in-podcast-submissions/"><u>Google-Powered Success in Podcast Submissions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-system-errors-when-using-moon-client-on-personal-computers/"><u>How to Fix Recurring System Errors When Using Moon Client on Personal Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-nokia-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Nokia Phone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-begin-the-stream-an-introduction-to-instagram-lives/"><u>In 2024, Begin the Stream An Introduction to Instagram Lives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-look-at-toms-pc-components-and-equipment/"><u>Inside Look at Tom's PC Components and Equipment</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-toon-up-a-beginners-guide-to-converting-digital-videos-into-cartoons/"><u>Updated 2024 Approved Toon Up! A Beginners Guide to Converting Digital Videos Into Cartoons</u></a></li>
+</ul></div>
 

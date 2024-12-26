@@ -1,7 +1,7 @@
 ---
 title: Pros & Cons of Pre-Release Gaming
-date: 2024-08-27T17:07:56.750Z
-updated: 2024-08-28T17:07:56.750Z
+date: 2024-12-22T01:33:04.415Z
+updated: 2024-12-26T04:20:11.786Z
 tags:
   - games
 categories:
@@ -39,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d92
 ![Early Access section on Steam game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/early-access-section-on-steam-game.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jhet Borja/MakeUseOf
 
  Early access games are games that are released before the publishers or developers think it is ready for its official release.
@@ -55,15 +56,16 @@ Jhet Borja/MakeUseOf
 
 ![Dinkum gameplay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/dinkum-gameplay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Early access games usually allow players to have an active role in how the game transforms. Players can often join Discord servers where the developers are easily accessible and their concerns, feedback, bug reports, and suggestions can all be taken seriously.
 
  My favorite example of this is Dinkum. It’s a farm builder similar to Animal Crossing or Stardew Valley, but with a lot of Australian personality. It’s developed by one person and it has a busy and active Discord server where your concerns can be seen directly by the developer.
 
  Dinkum has grown to be an awesome game and it is partially thanks to early access. It not only gained funding, but also real player testing and feedback.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Con: The Game Might Be in Early Access Limbo
 
  Some games take forever to reach their official release stage. BeamNG.drive is one example that's been in early access since 2015\. Of course, the game has transformed so much since its early days that it's starting to be recognized as one of the best rally simulators, but the game itself is still very reliant on community-created mods, maps, cars, and plugins.
@@ -81,8 +83,9 @@ Jhet Borja/MakeUseOf
  Despite those issues, it was still a wonderfully fun game that we put 90 hours into within just a week and we only looked forward to how the game would improve over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pro: Early Access Games Are Usually Cheaper
 
  While it’s not always the case, there have been many times where early access prices are lower than the release price.
@@ -93,22 +96,20 @@ Jhet Borja/MakeUseOf
 
  Thankfully[Steam refunds are pretty easy to do](https://www.makeuseof.com/how-to-refund-a-game-on-steam/) ; so long as your playtime is less than 2 hours or you’ve owned the game for less than 14 days, you can refund it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Con: Incomplete Story/World/Mechanics
 
 ![Wide view of Palworld world](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/wide-view-of-palworld-world.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the game was ready to go, it wouldn’t be in early access now would it? You’re very likely to experience many features missing, from plots, places, or even whole mechanics.
 
  Palworld is a great example of that. It was released and became a massive success, but only had the bare essentials. There were just a few small islands to roam around, repetitive elements, missing bosses, and a lot of in-progress features.
 
  You’re often left waiting until the updates roll out to get more of what you were promised. This is usually why games like Palworld have a very steep drop in player count after a few weeks. Without many of the features that would’ve kept players busy and having fun, it’s easy to feel like there’s nothing more to the game except waiting for future updates.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro: Experiencing the Game’s Transformation
 
  While you should know that you’re paying for something that’s incomplete, it should still be worth it if you enjoy it.
@@ -124,8 +125,9 @@ Jhet Borja/MakeUseOf
  The game you used to enjoy playing might be completely different in a bad way and not what you paid for.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Con: Risk of Abandonment
 
  While officially released games do get abandoned, the risk of abandonment for early access games is a bit higher. There are many reasons for this, but there are a few red flags to watch out for.
@@ -136,14 +138,11 @@ Jhet Borja/MakeUseOf
 
  With more and more games opting to go early access, you should always keep in mind if it’s worth its price or not. Ask yourself if you would pay the amount they’re asking for despite the game not being in its best state, whether it’s worth waiting for those updates, or if you can afford to lose what you spent. What matters the most is that you enjoy what you paid for.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +151,20 @@ Jhet Borja/MakeUseOf
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-swift-film-techniques-for-at-home-creators/"><u>[New] In 2024, Swift Film Techniques for At-Home Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-new-apples-tvplus-originals-providing-comfort-amidst-global-health-challenges/"><u>Discover New Apples TV+ Originals Providing Comfort Amidst Global Health Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/efficiently-expanding-steam-deck-with-sd-card/"><u>Efficiently Expanding Steam Deck with SD Card</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-depths-of-madden-19-exceptional-features-yet-aging-in-place/"><u>Exploring the Depths of Madden 19: Exceptional Features Yet Aging in Place</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-v29e-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo V29e</u></a></li>
+<li><a href="https://program-issues.techidaily.com/inside-look-at-cod-modern-warfare-updates-for-improved-first-person-shooter-action/"><u>Inside Look at COD: Modern Warfare Updates for Improved First Person Shooter Action</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725288564089-mp4mov/"><u>MP4ファイルから高品質MOVへの完全な変換ガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-era-when-is-it-right-for-rtx/"><u>Nvidia's New Era: When Is It Right for RTX?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-common-video-file-playback-errors/"><u>Overcoming Common Video File Playback Errors</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-plus-gaming-life-beyond-subscription-end/"><u>PS Plus Gaming Life Beyond Subscription End</u></a></li>
+<li><a href="https://games-able.techidaily.com/shared-worlds-mastering-2p-gameplay-in-switchs-minecraft/"><u>Shared Worlds: Mastering 2P Gameplay in Switch's Minecraft</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-usb-setup-for-win-11-installations/"><u>The Ultimate Guide to USB Setup for Win 11 Installations</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-online-retailers-for-video-games-where-to-save-biggest/"><u>Top Online Retailers for Video Games: Where to Save Biggest</u></a></li>
+</ul></div>
 

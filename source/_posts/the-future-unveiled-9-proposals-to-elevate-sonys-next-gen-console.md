@@ -1,7 +1,7 @@
 ---
 title: The Future Unveiled – 9 Proposals to Elevate Sony's Next-Gen Console
-date: 2024-08-27T17:07:41.464Z
-updated: 2024-08-28T17:07:41.464Z
+date: 2024-12-24T22:07:59.926Z
+updated: 2024-12-25T18:14:57.645Z
 tags:
   - games
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  However, there are still many things the PS5 could do better. And honestly, most of them have nothing to do with its performance and hardware. Instead, many of them are UI and quality-of-life-oriented. Here’s what we think would make the PS5 better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Auto-Updates for Individual Games
 
  Auto-updates is the PS5 feature that keeps all your games updated as long as you have a connection to the internet. You can[enable auto-updates in your PS5’s settings](https://www.makeuseof.com/how-to-enable-ps5-auto-updates/) and set it to download games in Rest Mode too.
@@ -26,24 +30,26 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  That’s why we want Sony to integrate auto-updates for individual games so that we can keep only the games we want to be updated and not spend internet bills on the ones we don’t.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. A Functional, Dedicated Web Browser
 
 ![Google's web page in the PS5's browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-s-web-page-in-the-ps5-s-browser.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A PlayStation might not necessarily be the best place to surf the web, but the PS4’s browser app was a nice, potentially helpful addition. For some reason, Sony didn’t add the browser app to the PS5; you have to use a roundabout method to[access a severely limited browser on the PS5](https://www.makeuseof.com/access-web-browser-on-ps5/) .
 
  There are signs that Sony might add a fully functional dedicated browser app since the PS5's settings have provisions for it. So, let’s wait for a few updates down the line.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 3\. Bring Back Custom Animated Home Themes
 
 ![Apply the Ghost of Tsushima Jin Dynamic theme on PS4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/ps4-ghost-of-tsushima-dynamic-theme.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  You can give character to your PS4 using custom animated home themes or custom wallpapers. They sold them on the PlayStation Store or sometimes as pre-order bonuses with some games.
 
  The PS5 didn’t inherit this cool feature; instead, it temporarily adopts the theme of whatever app or game you hover your cursor over. That’s not bad, but it’s certainly not the same as having your favorite character looping in the background while you wait in your console’s home.
@@ -54,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
  It’s for similar reasons that there’s a bit of backlash on Windows 11\. Seeing ads on a machine you’ve completely paid for is a little unsavory. Let us enjoy the PS5 without getting forced to buy something every time we turn it on.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Make the LED Lights Customizable
 
 ![PS5 glowing orange in Rest Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ps5-glowing-orange-in-rest-mode.jpg)
@@ -64,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
  You must have noticed the LED lights at the top half of your PS5 by now. They are slim strips of light that flash when switching your PS5 off and on and glow deep orange when your PS5 is in rest mode. The light stays a steady white when your PS5 is on, and that’s where the customization comes in.
 
  If, at the very least, PS5 users could change the color from white to a custom color, it could help make gaming setups look better and give players a little bit of extra immersion. Sony missed a chance with that one, but we sure hope it implements it in the future if the hardware allows it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Introduce Official Mod Support
 
@@ -92,22 +99,17 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 ![PlayStation App loading screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/playstation-app-loading-screen.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![PlayStation app eneable auto uploads captures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/PlayStation-app-eneable-auto-uploads-captures.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![PlayStation app auto upload notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/PlayStation-app-auto-upload-notification.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  The PS App is decent for managing your PlayStation account and it’s one of the only ways you can change the profile picture on your PS5\. But the PS App can be more than just a quick way to download screenshots and manage your PSN profile.
@@ -120,46 +122,29 @@ Close
 
  Perhaps there are some foundational reasons why we can’t have custom themes on a PS5, or perhaps they will release it in a future update.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
 ### Q: What Are the Benefits of Owning a PlayStation 5?
 
  While there may be some areas of improvement, the PlayStation 5 is still packed full of features and benefits. An innovative DualSense controller, 4k compatibility, and an internal SSD guarantee an amazing gameplay experience, while an unbeatable library of exclusive games is just the cherry on top. So, if you're looking for[reasons to purchase a PlayStation 5](https://www.makeuseof.com/why-ps5-should-be-your-next-console/) , there are plenty of unbeatable reasons to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: How Is the PlayStation 5 Better Than Other Consoles?
 
  In terms of next-gen console gaming, the PlayStation 5 and Xbox Series X stand as the two core rivals. But if you[compare the Xbox Series X against PlayStation 5](https://www.makeuseof.com/ps5-vs-xbox-series-x/) , both consoles have merit. The PlayStation 5, however, represents a powerful console with a vast array of exclusive games. And despite falling short of the raw power of the Xbox Series X, if you want to play brilliant games the PlayStation 5 is firmly on top.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q: How Long Will the PlayStation 5 Generation of Gaming Last?
 
  While the generation of gaming encompassing the PlayStation 4 and Xbox One consoles lasted around 7 years, as time has gone on each successive generation of gaming consoles has lasted longer than the last. This stands to reason that the console generation of the PlayStation 5 and Xbox Series X|S will last longer than 7 years. However, you're unlikely to be able to find an exact figure for the lifecycle of the PlayStation 5 beyond prediction.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +153,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-accelerated-conversion-of-yt-content-for-mac-screens/"><u>[Updated] 2024 Approved Accelerated Conversion of YT Content for MAC Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-one-by-one-instagram-showcase/"><u>[Updated] 2024 Approved One-by-One Instagram Showcase</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-deep-dives-into-tech-meetings-with-zoom-enhancements/"><u>[Updated] Deep Dives Into Tech Meetings with ZOOM Enhancements</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/key-oversights-how-to-avoid-mistakes-in-purchasing-a-monitor/"><u>Key Oversights: How to Avoid Mistakes in Purchasing a Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/pick-your-performance-the-battle-between-mini-and-desktop-pcs/"><u>Pick Your Performance: The Battle Between Mini & Desktop PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/splitcam-verdict-unrivaled-camera-quality-or-not/"><u>SplitCam Verdict Unrivaled Camera Quality or Not?</u></a></li>
+<li><a href="https://games-able.techidaily.com/sun-sand-and-gaming-best-augmented-beach-titles/"><u>Sun, Sand & Gaming: Best Augmented Beach Titles</u></a></li>
+<li><a href="https://games-able.techidaily.com/sustaining-enthusiasm-for-long-playtimes/"><u>Sustaining Enthusiasm for Long Playtimes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/swift-solution-tweeting-videos-not-functioning-chrome-for-2024/"><u>Swift Solution Tweeting Videos Not Functioning Chrome for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackle-turbulent-titles-transition-time/"><u>Tackle Turbulent Titles Transition Time</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oneplus-ace-2-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On OnePlus Ace 2 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unearthing-excellent-seeds-the-valheim-way/"><u>Unearthing Excellent Seeds The Valheim Way</u></a></li>
+</ul></div>
 

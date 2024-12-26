@@ -1,7 +1,7 @@
 ---
 title: Deciphering PS5's Undisclosed Browsing Function
-date: 2024-08-27T17:09:56.326Z
-updated: 2024-08-28T17:09:56.326Z
+date: 2024-12-23T19:23:21.199Z
+updated: 2024-12-26T05:08:51.759Z
 tags:
   - games
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![PS5 Twitter Click Logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/02-PS5-Twitter-Click-Logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you do this, you'll be faced with a login page like you would in any desktop browser. Since you can't search X without an account anymore, we'll need an alternative method to access the web at large. The trick lies in selecting**Sign in with Google** . Click this to open Google's login page.
 
 ![Twitter Sign Up With Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/twitter-sign-up-with-google.jpg)
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Here, select**Terms** at the bottom of the login page. This will lead to a long page with all of Google's terms and conditions.
 
 ![Google Select Terms Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-select-terms-link.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Use the right stick to scroll down to the very bottom (it will take a moment) and you'll see a link to**Google** at the bottom-left. Click this.
 
@@ -48,7 +56,15 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 ![Searching MUO on Google PS5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/searching-muo-on-google-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because there's no browser address bar, you'll need to search Google and click links to go anywhere. It's clunky, but functional.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is the PS5 Web Browser Worth Using?
 
@@ -65,20 +81,18 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
  Meanwhile, if the lackluster web browser left you wanting more, you should check out other[hidden features of your PS5](https://www.makeuseof.com/ps5-things-you-might-not-know-you-can-do/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Browse the Web on PS5, If You Really Need To
 
  Now you know how to reach the PS5's limited web browser. Hopefully you'll never need it, but it could be a fun trick for showing off to friends. Otherwise, it's not much more than a PS5 Easter egg.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +101,22 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-your-youtube-shorts-profits-key-requirements-and-earning-potential/"><u>[New] In 2024, Boosting Your Youtube Shorts Profits Key Requirements & Earning Potential</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-downloading-the-latest-tracks-a-guide-to-free-extractors-for-pc-users/"><u>[New] In 2024, Downloading the Latest Tracks A Guide to Free Extractors for PC Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-red-zones-best-unraveling-zombie-gaming-delights/"><u>[New] In 2024, The Red Zone's Best Unraveling Zombie Gaming Delights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-thrifty-sky-surfers-cheapest-drones-on-market/"><u>[New] In 2024, Thrifty Sky Surfers Cheapest Drones on Market</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nveil-creativity-15plus-free-tools-for-youtube-intros-for-2024/"><u>[New] Unveil Creativity 15+ Free Tools for YouTube Intros for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-list-of-world-explorers-on-youtube/"><u>[Updated] The Ultimate List of World Explorers on Youtube</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-twitch-features-through-prime-membership/"><u>Discover Twitch Features Through Prime Membership</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevating-dandd-with-ai-6-innovative-ways-to-utilize-chatgpt/"><u>Elevating D&D with AI: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/hot-10-deals-playstations-midsummer-madness/"><u>Hot 10 Deals: PlayStation's Midsummer Madness</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-8-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 8 Plus without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-optimize-your-steam-deck-for-epic-and-gog-gaming/"><u>How to Optimize Your Steam Deck for Epic & GOG Gaming</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/introducing-herve-laurandin-the-new-leader-of-abbyys-french-operations/"><u>Introducing Hervé Laurandin, the New Leader of ABBYY's French Operations</u></a></li>
+<li><a href="https://games-able.techidaily.com/mmo-evolution-a-new-era-explored/"><u>MMO Evolution: A New Era Explored</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-office-my-arena/"><u>My Office, My Arena</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-approach-to-monitoring-xbox-gaming/"><u>Tactical Approach to Monitoring Xbox Gaming</u></a></li>
+</ul></div>
 

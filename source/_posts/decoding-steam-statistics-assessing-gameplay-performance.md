@@ -1,7 +1,7 @@
 ---
 title: "Decoding Steam Statistics: Assessing Gameplay Performance"
-date: 2024-08-27T17:09:11.606Z
-updated: 2024-08-28T17:09:11.606Z
+date: 2024-12-25T00:35:43.645Z
+updated: 2024-12-26T03:17:37.004Z
 tags:
   - games
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  Steam lets you see how you spent your 2023 on the platform thanks to its Year in Review report. Here's how you can access your personalized report to see your Steam gaming stats for the year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steam's Year in Review Is Now Available
 
  The Steam Year in Review dropped for all users on December 19, 2023, via an announcement on the[Steam Blog](https://store.steampowered.com/news/collection/steam/?emclan=103582791457287600&emgid=3877100446784043483) . The 2023 Steam Year in Review compiles your stats, achievements, and more information about games you played on the platform.
@@ -36,21 +40,10 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
  Once you've seen your report, you can share it on social media and other platforms. You can also[check out your Steam Replay 2022](https://www.makeuseof.com/how-to-see-steam-replay-2022/) and compare how your gaming habits changed over the year.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to See Your Steam Stats for 2023
 
 ![Steam Year in Review Banner in the Steam Store Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-banner-in-the-steam-store-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  If you had opened the Steam app between December 19 and 21, 2023, you would have seen the Year in Review banner at the top of the store page. However, if you missed that, you can still see the banner if you scroll down a bit during December 2023.
 
  But if you missed the banner and can't find it, you should see the report announcement in your Steam-registered email, provided you did not unsubscribe to Steam's email newsletter or[block emails on Gmail](https://www.makeuseof.com/tag/block-emails-gmail/) .
@@ -58,22 +51,21 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 ![Steam Year in Review email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-email.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Just look for the email with the subject "**Your Steam Year In Review 2023 is Here!"** from**<noreply@steampowered.com>** . When you open it, press**See Your Year in Review** to see your report in your browser.
 
  If you didn't receive an email from Steam or can't find it, you can still see your Steam Year in Review 2023 by going to View Notifications (the bell icon beside your username) on the Steam app or Steam website and pressing**View All** .
 
 ![View Steam Year in Review in Steam Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/view-steam-year-in-review-in-steam-notifications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From there, you should see the**Your Year In Review Is Ready!** notification. Just click on it, and you should see your report.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You'll Find in Your 2023 Steam Year in Review
 
  Your Steam Year in Review 2023 report will show you basic statistics, like how many games you've played, your achievements, and your longest gaming streak. You should also see all your games and how much of your time you've spent playing them.
@@ -81,8 +73,9 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 ![Steam Year in Review What You Play and By the Numbers Section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/steam-year-in-review-what-you-play-and-by-the-numbers-section.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Interestingly, the report will also show the types of games you spent the most time in, as well as your participation in the Steam community. This includes the new friends you've added, screenshots you've shared, discussion posts you made, and[game reviews left on Steam](https://www.makeuseof.com/how-to-leave-a-game-review-on-steam/) .
 
  If you use Steam across multiple platforms, like Windows, macOS, ChromeOS (yes, you can[install Steam on your Chromebook](https://www.makeuseof.com/steam-on-chromebook/) ), and Steam Deck, you will also see how much of your gaming was divided among them.
@@ -91,18 +84,19 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
 
 ![Sharing your Steam Year in Review](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/share-steam-year-in-review.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also share it directly on Facebook, X, Reddit, and on your Steam Friends Activity and Steam Profile Showcase. It also has a copy link button to directly share your Steam Year in Review 2023 page via messaging.
 
  Steam's Year in Review lets you see the games you've enjoyed throughout 2023\. With this data, you'll know what type of gamer you are, which will help you see which titles to look out for based on what you like. Or you can see what games you're missing and maybe try new genres for 2024.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +105,26 @@ thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-mastering-snapchats-secret-stories-creation-guide/"><u>[New] Mastering Snapchat's Secret Stories Creation Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-immediate-cessation-of-recordings-in-qt-app/"><u>[Updated] Immediate Cessation of Recordings in QT App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-picture-perfect-on-the-move-quick-color-correction/"><u>[Updated] Picture Perfect on the Move Quick Color Correction</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/como-resolver-el-problema-de-no-instalar-el-software-migration-data-de-samsung-en-su-computadora-con-windows/"><u>Cómo Resolver El Problema De No Instalar El Software Migration Data De Samsung en Su Computadora Con Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-factors-for-choosing-your-next-game-console/"><u>Essential Factors for Choosing Your Next Game Console</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-windows-11-steam-disconnect-glitch/"><u>Fixing Windows 11 Steam Disconnect Glitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-sencilla-para-agregar-texto-al-final-de-un-video-mp4/"><u>Guía Sencilla Para Agregar Texto Al Final De Un Video MP4</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel S23+ by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-multi-screen-setup-on-windows-11/"><u>Mastering Multi-Screen Setup on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-gtx-1080-ti-graphics-card-drivers-download-and-install/"><u>NVIDIA GeForce GTX 1080 Ti Graphics Card Drivers Download and Install</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-bandwidth-top-wired-solutions-for-gamers/"><u>Optimal Bandwidth: Top Wired Solutions For Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-eternal-hygiene-controller-and-console-care/"><u>PlayStation Eternal Hygiene: Controller & Console Care</u></a></li>
+<li><a href="https://games-able.techidaily.com/starforge-voyager-creator-is-this-custom-gaming-pc-brand-worth-checking-out/"><u>Starforge Voyager Creator: Is This Custom Gaming PC Brand Worth Checking Out?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-definitive-guide-to-mastering-android-with-google-pixel-3-expert-review/"><u>The Definitive Guide to Mastering Android with Google Pixel 3 - Expert Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-insider-guide-to-changing-gamer-identities-on-riot-platforms/"><u>The Insider Guide to Changing Gamer Identities on Riot Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perfect-android-setup-for-dreamcast-games-lovers/"><u>The Perfect Android Setup for Dreamcast Games Lovers</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-upsurge-of-infiltration-in-game-realms/"><u>The Upsurge of Infiltration in Game Realms</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleash-pc-potential-with-4-major-upgrades-from-corsairs-icue-link/"><u>Unleash PC Potential with 4 Major Upgrades From Corsair's iCUE Link</u></a></li>
+</ul></div>
 

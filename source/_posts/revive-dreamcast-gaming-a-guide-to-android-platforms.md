@@ -1,7 +1,7 @@
 ---
 title: "Revive Dreamcast Gaming: A Guide to Android Platforms"
-date: 2024-12-11T22:57:03.514Z
-updated: 2024-12-17T05:55:43.206Z
+date: 2024-12-22T17:27:06.549Z
+updated: 2024-12-25T22:29:28.831Z
 tags:
   - games
 categories:
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a95
 
  To set up each Sega Dreamcast emulator you need to make a ROMs folder to store the dc\_boot.bin file as well as your games. You can do that using any Android file manager. We'll be using[Files by Google](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2028438/https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Create a Folder to Store Your Dreamcast Games
 
 To create a folder for your Dreamcast games and the BIOS file:
@@ -51,7 +55,7 @@ To create a folder for your Dreamcast games and the BIOS file:
  ROM files in a .CHD, .ISO, or in a folder with a few .bin files and one .cue file are also compatible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 2: Move the ROM Files and dc\_boot.bin to the ROM Folder
@@ -67,7 +71,7 @@ Once you've downloaded the files, move them to your ROMs folder.
  If you copy the files from a laptop via USB, you can move them directly into your ROMs folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 3: Unzip the ROM Files
@@ -80,27 +84,19 @@ Once you've downloaded the files, move them to your ROMs folder.
 
 ![Extracting a .7zip file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extraction-rar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Unzipped the Shenmue ROM file in RAR for Android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-shenmue.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Deal With Duplicate File Names
 
  When transferring multiple games to the Sega Dreamcast folder, you may notice some files (like .bin files) may have the same name (e.g., track01.bin, track02.bin, etc.). In this case, abbreviate each file pertaining to its respective game.
 
  For example, if you want to play the homebrew Minecraft clone Crafiti on Dreamcast but the zip file contains a file named track01.bin and you already have a file with the exact name in your ROMs folder, change Crafiti's respective track01.bin filename to crafititrack01.bin, and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 4: Set Up Your Sega Dreamcast Emulator
 
@@ -121,6 +117,10 @@ Close
  Take a look at Crazy Taxi with an adjusted layout. The**LT** and**RT** buttons are off-screen and blocking the**D** and**R** gears, but my thumbs could actually reach the buttons, so it was an improvement. I'll take that win, and adjust accordingly later, because it's easy.
 
  Take the time to make Redream your own by going through even more settings, specifically the**Input** and**System** settings. Get a quick tour below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Flycast on Android
 
@@ -157,13 +157,13 @@ Finally, set the Home directory. To do that:
 
 ![Different controller modes on 8Bitdo Pro2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/8bitdopro2-modes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the 8BitDo Pro2, above, notice the lettering in panel three: S, A, X, and D. The**X** and**D** are for connecting via XInput and DirectInput (DInput), respectively, while the**S** is for the Switch. You're only interested in the**A** : which stands for Android.
 
 [Pair this device via Bluetooth,](https://www.makeuseof.com/how-to-connect-android-bluetooth) then set the controller mode to**A** and hold down the**Seeking** button for a few seconds until the bottom four LEDs power on. Hold down**Start + A** and the controller will connect to your Android device!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play the Hits of the Sega Dreamcast All Over Again on Android
 
@@ -184,18 +184,24 @@ Finally, set the Home directory. To do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-pushing-the-envelope-on-instagram-larger-videos-explained/"><u>[New] Pushing the Envelope on Instagram Larger Videos Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719163821039-10-hidden-gem-free-mobile-games-pure-fun/"><u>10 Hidden Gem Free Mobile Games - Pure Fun</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-joy-journeys-a-curated-list-of-the-best-humor-vids-online/"><u>2024 Approved Joy Journeys A Curated List of the Best Humor Vids Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/ace-at-searching-spotting-individuals-in-steam/"><u>Ace at Searching: Spotting Individuals in Steam</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/edit-like-a-pro-on-macos-or-linux-using-free-darktable-your-ultimate-raw-photo-conversion-toolkit-online/"><u>Edit Like a Pro on macOS or Linux Using Free Darktable: Your Ultimate Raw Photo Conversion Toolkit Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-ultrahd-pixel-rich-gaming-mouse-collection/"><u>Elite UltraHD, Pixel Rich Gaming Mouse Collection</u></a></li>
-<li><a href="https://games-able.techidaily.com/emulator-showdown-which-one-crushes-it-on-raspberry-pi/"><u>Emulator Showdown: Which One Crushes It on Raspberry Pi?</u></a></li>
-<li><a href="https://games-able.techidaily.com/fast-and-furious-games-boost-your-windows-fps/"><u>Fast and Furious Games: Boost Your Windows FPS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-oppo-reno-11f-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Oppo Reno 11F 5G FRP Bypass</u></a></li>
-<li><a href="https://games-able.techidaily.com/prioritize-these-five-game-changing-mouse-features-today/"><u>Prioritize These Five Game-Changing Mouse Features Today!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/streamline-windows-11-high-res-settings/"><u>Streamline Windows 11 High-Res Settings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Plus Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/windows-mouse-configuration-made-easy-expert-advice-and-customization-techniques-by-yl-computing/"><u>Windows Mouse Configuration Made Easy: Expert Advice & Customization Techniques by YL Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-integrating-masks-and-filters-to-improve-google-meet-engagement/"><u>[New] 2024 Approved Integrating Masks and Filters to Improve Google Meet Engagement</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-jokeframe-creations-punpicture-studio/"><u>[New] 2024 Approved JokeFrame Creations PunPicture Studio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-notable-sites-elevating-youtube-videography/"><u>[Updated] Notable Sites Elevating YouTube Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-techniques-to-enhance-your-video-gaming-archive-for-2024/"><u>[Updated] Techniques to Enhance Your Video Gaming Archive for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-patient-rehabilitation-tools/"><u>2024 Approved Next-Gen Patient Rehabilitation Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changing-logitech-mice-for-gamers/"><u>Game-Changing Logitech Mice for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/guard-your-virtual-adventures-against-attacks/"><u>Guard Your Virtual Adventures Against Attacks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-idt-high-definition-audio-codec-driver-problem/"><u>How to Fix IDT High Definition Audio CODEC Driver Problem</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-12t-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 12T Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-10-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 10 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-2p-minecraft-nintendo-switch-edition/"><u>Mastering 2P Minecraft: Nintendo Switch Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-how-to-eliminate-persistent-crashing-issues-in-pc-games/"><u>Mastering Stability: How to Eliminate Persistent Crashing Issues in PC Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-retro-gaming-a-comprehensive-guide-to-ps3-emulators-on-pc/"><u>Revel in Retro Gaming: A Comprehensive Guide to PS3 Emulators on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reviewing-rokus-affordable-smart-home-devices-a-single-flaw-discovered/"><u>Reviewing Roku’s Affordable Smart Home Devices - A Single Flaw Discovered!</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-strategy-for-gamers-why-choose-steam-over-others/"><u>The Ultimate Strategy for Gamers: Why Choose Steam Over Others</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-gaming-experience-with-these-top-notch-tips-for-macos/"><u>Transform Your Gaming Experience with These Top-Notch Tips for macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-steam-deck-with-windows/"><u>Transform Your Steam Deck with Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-potential-of-cs2-on-a-macbook/"><u>Unlocking the Potential of CS2 on a MacBook</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrading-your-gaming-setup-with-top-notch-blue-ray-support/"><u>Upgrading Your Gaming Setup with Top-Notch Blue-Ray Support</u></a></li>
 </ul></div>
 

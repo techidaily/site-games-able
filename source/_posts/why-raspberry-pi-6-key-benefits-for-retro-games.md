@@ -1,7 +1,7 @@
 ---
 title: Why Raspberry Pi? - 6 Key Benefits for Retro Games
-date: 2024-12-09T20:27:35.939Z
-updated: 2024-12-17T05:03:45.128Z
+date: 2024-12-23T00:17:58.475Z
+updated: 2024-12-25T22:40:03.073Z
 tags:
   - games
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The Raspberry Pi 5 offers a significant upgrade in processing power with a new quad-core, 64-bit Arm Cortex-A76 processor, leading to faster speeds and improved power efficiency.
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  The Raspberry Pi 4 Model B has been the top dog in the Raspberry Pi line-up for quite some time, but now that title belongs to the upcoming Raspberry Pi 5\. This little single-board computer boasts some impressive specs and may just offer the very upgrade your retro gaming project needs.
 
  Here are some of the reasons to use a Raspberry Pi 5 for your retro gaming project, instead of previous models and other alternatives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. The Processor Is More Powerful
 
@@ -47,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  There will be two RAM options at release, 4GB and 8GB, but other variants should be available later. We might even see a 16GB RAM Raspberry Pi 5.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. The GPU Is Better
 
  The Raspberry Pi 5 features a Broadcom VideoCore VII GPU, up from the VideoCore VI found with the Raspberry Pi 4\. The VideoCore VII GPU supports OpenGL ES 3.1 and Vulkan 1.2, with fully open-source Mesa drivers from Igalia.
@@ -58,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  This all-new GPU offers a significant upgrade from the Raspberry Pi 4\. It offers several times the performance of the Raspberry Pi 4 in most graphics benchmarks.[Phoronix reported](https://www.phoronix.com/review/raspberry-pi-5-graphics) that the Raspberry Pi 5 was capable of running YQuake2 (a modded, open-source version of Quake II) at 230fps while the Raspberry Pi 4 struggled with 90fps. Also, Vulkan compute performance was much faster with the Raspberry Pi 5.
 
  Additionally, the Raspberry Pi 5 is now capable of running two 4K displays @60Hz with HDR support using the two micro-HDMI ports supplied on the board. Playing retro games on a 4K monitor might be a bit overkill, but it is good to know that you can.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. It Is Still Remarkably Power-Efficient
 
@@ -67,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  The Raspberry Pi 5 uses a new power management integrated circuit (PMIC) which provides up to 20A of current to power the Cortex-A76 and other digital logic in the BCM2712 application processor. The PMIC allows the Raspberry Pi to sport a shiny new real-time clock and an actual onboard power button. This means that you can make a[handheld Raspberry Pi gaming console](https://www.makeuseof.com/portable-retro-gaming-console-build-with-raspberry-pi/) without having to mess around with the GPIO pins. You may be surprised to know that there are several[ways to turn on a Raspberry Pi](https://www.makeuseof.com/how-to-turn-on-a-raspberry-pi/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. It Can Run DreamCast, GameCube, and PSP Games
 
  Since the Raspberry Pi 5 isn’t out yet and graphics driver support is still in the early stages, it is hard to say for sure what retro gaming consoles the Pi 5 will be able to emulate. Currently, the Raspberry Pi OS Bookworm is the most optimized operating system for the Raspberry Pi 5\. It is not yet available for download, but will ship with the Raspberry Pi 5.
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  Based on ETA Prime's video, the Raspberry Pi 5 can run Nintendo 64 (better than the Raspberry Pi 4), Dreamcast, GameCube, and even PSP games. Performance on some of these consoles was not amazing, but even at this early stage of development it is clear to see that the Raspberry Pi 5 marks a great deal of improvement over its predecessor.
 
  We are keeping our fingers crossed that this may be the Raspberry Pi that is finally powerful enough to emulate PS2 games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Cheaper Than Alternatives
 
@@ -87,9 +79,17 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
  According to Eben Upton in the[Pi 5 launch announcement](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/) , the company will “ring-fence all of the Raspberry Pi 5s we sell until at least the end of the year for single-unit sales to individuals, so you get the first bite of the cherry.” So, that should mitigate[Raspberry Pi availability issues](https://www.makeuseof.com/raspberry-pi-stock-levels-finally-improving/) early on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Better Software Support Than Most Alternatives
 
 ![ODROID N2+ SBC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/odroidn2aplusa.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Hardkernel](https://www.hardkernel.com/shop/odroid-n2-with-4gbyte-ram-2/)
 
@@ -98,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
  Raspberry Pi, on the other hand, provides consistent long-term software support and drivers are usually patched upstream to maintain mainline kernel support. As a result, you will most likely be able to run your favorite retro game distribution on a Raspberry Pi. While the Raspberry Pi 5 will not be the most powerful single-board computer on the market, it will be one of the best-supported.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Raspberry Pi for Retro Gaming Yet
@@ -120,18 +120,24 @@ thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06fe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-essential-choices-for-premium-video-calls-on-smartphones/"><u>[New] In 2024, Essential Choices for Premium Video Calls on Smartphones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivate-your-market-the-blueprint-for-effective-instagram-video-plans/"><u>[Updated] In 2024, Captivate Your Market The Blueprint for Effective Instagram Video Plans</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-patching-the-full-screen-problem-in-obs/"><u>[Updated] In 2024, Patching the Full-Screen Problem in OBS</u></a></li>
-<li><a href="https://article-files.techidaily.com/expert-tips-for-srt-to-xml-ssa-and-ttml-transformations-for-2024/"><u>Expert Tips for SRT-to-XML, SSA, and TTML Transformations for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/get-thrilling-with-these-7-command-line-games/"><u>Get Thrilling with These 7 Command Line Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/hitchless-guide-to-gaming-consoles-refunds-xbox/"><u>Hitchless Guide to Gaming Consoles Refunds (Xbox)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-digital-storytelling-unlocked-creating-memorable-slideshows-on-fb/"><u>In 2024, Digital Storytelling Unlocked Creating Memorable Slideshows on FB</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-step-by-step-guide-to-incorporating-yt-clips-into-presentations/"><u>In 2024, Step-by-Step Guide to Incorporating YT Clips Into Presentations</u></a></li>
-<li><a href="https://games-able.techidaily.com/mmx-200-evaluation-powerful-but-feature-limited/"><u>MMX 200 Evaluation: Powerful but Feature-Limited</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steams-bp-display-glitches/"><u>Overcoming Steam's BP Display Glitches</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolved-epson-inkjet-skips-printing-texts/"><u>Resolved: Epson Inkjet Skips Printing Texts</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-streaming-transform-xbox-playback-quality/"><u>Seamless Streaming: Transform XBox Playback Quality</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c110-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C110 Android SIM Unlock APK</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-epic-assessment-and-alternative-measures-for-2024/"><u>[New] Epic Assessment & Alternative Measures for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-5-virtual-film-maker-gadgets/"><u>[Updated] 2024 Approved Essential 5 Virtual Film Maker Gadgets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-and-easy-the-5-best-tools-for-facebook-live-videos-for-2024/"><u>[Updated] Quick & Easy The 5 Best Tools for Facebook Live Videos for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-reddits-crowned-champions-the-10-most-upvoted-posts/"><u>[Updated] Reddit's Crowned Champions The 10 Most Upvoted Posts</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-8-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 8 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-the-ultimate-fps-experience-from-day-one/"><u>Crafting the Ultimate FPS Experience From Day One</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-the-power-top-10-perks-of-pc-gaming/"><u>Embrace the Power: Top 10 Perks of PC Gaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-every-moment-optimal-components-for-gamers/"><u>Enhance Every Moment: Optimal Components for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-game-platform-9-advantages-with-steam/"><u>Essential Game Platform: 9 Advantages with Steam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Bootloader Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-m6-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco M6 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-best-meme-templates/"><u>In 2024, Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://games-able.techidaily.com/industry-titans-or-tycoons-of-games-industry-insight-report/"><u>Industry Titans or Tycoons of Games? [Industry Insight Report]</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-mobile-gaming-winning-or-losing-the-game/"><u>Is Mobile Gaming Winning or Losing the Game?</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumpstart-your-gaming-experience-heres-why-you-should-use-steam/"><u>Jumpstart Your Gaming Experience: Here's Why You Should Use Steam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-audio-packs-for-visual-storytelling-for-2024/"><u>Premium Audio Packs for Visual Storytelling for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-non-responsive-windows-audio-services/"><u>Remedying Non-Responsive Windows Audio Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/stuck-in-solo-mode-reclaim-your-mc-lan-connection/"><u>Stuck in Solo Mode? Reclaim Your MC LAN Connection</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-8-simulations-mobile-games-on-windowsmac/"><u>Ultimate 8 Simulations: Mobile Games on Windows/Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unbeatable Summer Deals on Your PS Games
-date: 2024-12-16T07:39:19.849Z
-updated: 2024-12-16T19:29:31.118Z
+date: 2024-12-19T01:03:32.435Z
+updated: 2024-12-26T07:29:42.513Z
 tags:
   - games
 categories:
@@ -23,25 +23,21 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Overcooked! 2
 
  The best part of the summer holidays is that your friends are most likely on holiday as well, which means that there is no excuse not to invite them over and have a night of ridiculous fun playing Overcooked! 2\. Overcooked! 2 is a chaotic party game where you have to work together to serve food to some very impatient customers under extreme conditions in a short time limit. If you like laughing, you'll like this.
 
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. My Time at Portia Deluxe Edition
 
  If you’re a fan of cozy games, My Time at Portia would be a brilliant game to play next. My Time at Portia is a wholesome life-sim adventure where you can engage in all your favorite Harvest-Moon-esque activities, like mining, crafting, farming, exploring, and taming some of the adorable critters that live in Portia. With the Deluxe Edition, you can enjoy The Housewarming Bundle, which gifts you cosmetic items, in-game currency, and consumables to help kickstart your gaming adventure.
 
 **Download** :[My Time at Portia Deluxe Edition](https://store.playstation.com/en-us/product/UP4064-CUSA10924%5F00-0866856090541143) for $7.99 (75% off)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Deathloop
 
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 **Download** :[The Last of Us: Part II](https://store.playstation.com/en-us/product/UP9000-CUSA07820%5F00-THELASTOFUSPART2) for &19.99 (50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Resident Evil Village
@@ -88,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 **Download** :[Resident Evil Village](https://store.playstation.com/en-us/product/UP0102-PPSA01556%5F00-VILLAGEFULLGAMEX) for $19.99 ($50% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tiny Tina’s Wonderlands: Chaotic Great Edition
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
  If you’re a fan of first-person shooters, but you also like to dabble in the realms of magic, Tiny Tina’s Wonderlands is a great amalgamation of the two. It will also be a surefire hit if you like Borderlands. If that wasn’t enough to convince you already, the Chaotic Edition comes with all the bells and whistles, like a season pass and post-launch content, for just $26.00.
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Final Fantasy VII Remake
 
@@ -122,22 +122,19 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-hand-tracking-explained-types-and-applications/"><u>[New] 2024 Approved Hand Tracking Explained Types and Applications</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveil-the-8-greatest-places-to-download-3d-text-psd-files/"><u>[New] 2024 Approved Unveil the 8 Greatest Places to Download 3D Text PSD Files</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-easy-guide-to-iphones-how-to-seamlessly-download-podcasts/"><u>[New] In 2024, Easy Guide to iPhones - How to Seamlessly Download Podcasts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-9-buzzworthy-workout-videos-that-stay-on-top-of-trends/"><u>[Updated] 2024 Approved 9 Buzzworthy Workout Videos That Stay on Top of Trends</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-soaring-high-with-q500s-4k-vision/"><u>[Updated] In 2024, Soaring High with Q500's 4K Vision</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728486054035-ssd/"><u>新規SSDへのシステムイメージ移行手順ガイド</u></a></li>
-<li><a href="https://games-able.techidaily.com/entertain-yourself-with-these-quick-web-gaming-hits/"><u>Entertain Yourself with These Quick Web Gaming Hits</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-non-commercial-intense-gaming-titles/"><u>Explore Non-Commercial, Intense Gaming Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-on-at-lightning-speed-basilisk-v3-reviewed/"><u>Game On at Lightning Speed: Basilisk V3 Reviewed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-officejet-4630-driver-download-and-update/"><u>HP Officejet 4630 Driver Download & Update</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-y78plus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo Y78+?</u></a></li>
-<li><a href="https://games-able.techidaily.com/share-your-games-seamlessly-on-ps5/"><u>Share Your Games Seamlessly on PS5</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-your-dvds-into-video-files-and-sharing-on-vimeo/"><u>Step-by-Step Guide: Converting Your DVDs Into Video Files & Sharing on Vimeo</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167756680-the-unmatched-performance-of-2-years-on-an-oled-monitor/"><u>The Unmatched Performance of 2 Years on an OLED Monitor</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-and-correcting-panel-deformation/"><u>Understanding and Correcting Panel Deformation</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-game-enthusiasm-with-a-revamped-microsoft-xbox-points-system/"><u>Unlocking Game Enthusiasm with a Revamped Microsoft Xbox Points System</u></a></li>
-<li><a href="https://games-able.techidaily.com/valve-cuts-off-abuse-avenues-in-gaming-refunds/"><u>Valve Cuts Off Abuse Avenues in Gaming Refunds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-action-camera-showdown-our-top-7-4k-picks/"><u>[New] 2024 Approved Action Camera Showdown Our Top 7 4K Picks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-translating-views-into-dollars-on-youtube-via-cpm/"><u>[New] Translating Views Into Dollars on YouTube via CPM</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-game-changer-implementing-custom-gaming-banners-for-2024/"><u>[Updated] The Game Changer Implementing Custom Gaming Banners for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-dji-phantom-4-analysis-and-review/"><u>Complete DJI Phantom 4 Analysis and Review</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-gaming-with-custom-xbox-game-bar-configurations-for-windows-users/"><u>Elevate Gaming with Custom Xbox Game Bar Configurations for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-features-of-audiophile-headphones/"><u>Essential Features of Audiophile Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-novice-to-pro-mastery-in-steam-game-review-crafting/"><u>From Novice to Pro: Mastery in Steam Game Review Crafting</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-to-clean-installation-of-ps5-titles/"><u>Guide to Clean Installation of PS5 Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-want-to-see-all-the-photos-and-videos-my-contacts-share-in-messages/"><u>In 2024, Want to See All the Photos & Videos My Contacts Share in Messages</u></a></li>
+<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-redmi-note-12-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Redmi Note 12 4G</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/speedy-mp4-conversion-effortless-transformation-of-mpeg-2-videos-into-mpeg-on-a-windows-pc/"><u>Speedy MP4 Conversion: Effortless Transformation of MPEG-2 Videos Into MPEG-# on a Windows PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-beginners-camera-catalog-top-selections-2024/"><u>The Beginner's Camera Catalog Top Selections 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-low-graphics-display-effects/"><u>Troubleshooting Low-Graphics Display Effects</u></a></li>
 </ul></div>
 

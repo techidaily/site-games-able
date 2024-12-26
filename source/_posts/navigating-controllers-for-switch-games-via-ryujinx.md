@@ -1,7 +1,7 @@
 ---
 title: Navigating Controllers for Switch Games via Ryujinx
-date: 2024-12-11T19:56:06.302Z
-updated: 2024-12-16T20:44:43.104Z
+date: 2024-12-25T01:24:30.521Z
+updated: 2024-12-25T21:04:25.171Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Need to Know About Ryujinx Before Using a Controller
@@ -37,15 +37,7 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A photograph of retro games and gaming consoles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stock-retro.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are yet to[install Ryujinx as a Nintendo Switch emulator for your PC](https://www.makeuseof.com/how-to-install-ryujinx-nintendo-switch-emulator-for-pc/) , the process can be tricky and may require individual file alterations. But even with the base version of Ryujinx installed, you can start mapping your controller of choice straight away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Map a PlayStation, Xbox, or Third-Party Controller in Ryujinx
 
@@ -57,10 +49,18 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 ![A screenshot of the Options tab in Ryujinx with Settings highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Choose**Input** and ensure**Enable Docked Mode** is selected.
 * Under**Player 1** , select**Configure** , and Ryujinx should automatically find your connected controller.
 
 ![A screenshot of the Input screen in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/input.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From here, you can individually go through each button command and map it to a controller input of your choice. For instance, If you want to remap the**B** button, select the on-screen**B** in Ryujinx, followed by the button on your controller you want**B** to be replaced with.
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the ability to Add and Save a controller profile in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/profile.jpg)
 
  And that's it. With your controller configuration saved, you can go on to emulate any Nintendo Switch game through Ryujinx while using your controller of choice, configured exactly to your preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Customize Your Ryujinx Controller Settings
 
@@ -87,10 +83,14 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 ![A screenshot of the Configure settings for a controller in Ryujinx](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/configuration.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While these alterations may seem small in some cases, having more options is always positive, and with Ryujinx offering a simple and effective way of mapping and customizing a controller for Switch emulation, more simple features are certainly not a bad thing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Streamline Nintendo Switch Emulation With Ryujinx
 
@@ -113,22 +113,24 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-pioneers-designing-the-online-avengers-landscape/"><u>[Updated] Pioneers Designing the Online Avengers Landscape</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-macos-sonoma-unveiling-game-mode/"><u>Apple's MacOS Sonoma: Unveiling Game Mode</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-recent-ipad-launch-hit-a-snag-with-major-oversight-corrective-measures-explained-analysis-by-zdnet/"><u>Apple's Recent iPad Launch Hit a Snag with Major Oversight; Corrective Measures Explained | Analysis by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/bending-no-more-tackling-gpu-display-deformity/"><u>Bending No More: Tackling GPU Display Deformity</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-heimvision-a80s-alarm-clock-with-sunrise-simulation-in-depth-review/"><u>Comprehensive HeimVision A80S Alarm Clock with Sunrise Simulation - In-Depth Review</u></a></li>
-<li><a href="https://games-able.techidaily.com/curtailing-intrusive-elements-of-game-bar-in-windows-11/"><u>Curtailing Intrusive Elements of Game Bar in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhance-digital-communication-on-chrome-review-of-the-best-web-based-tts-tools/"><u>Enhance Digital Communication on Chrome Review of the Best Web-Based TTS Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-cosmetic-to-critical-the-gamers-advantage/"><u>From Cosmetic to Critical: The Gamer's Advantage</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-energy-efficiency-unlocked-mastering-the-art-of-battery-calibration-in-six-moves/"><u>IPhone Energy Efficiency Unlocked: Mastering the Art of Battery Calibration in Six Moves</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-ps5-smarter-innovate-with-these-9-essentials/"><u>Making PS5 Smarter: Innovate with These 9 Essentials</u></a></li>
-<li><a href="https://games-able.techidaily.com/nano-systems-and-mighty-machines-which-to-choose/"><u>Nano Systems & Mighty Machines: Which to Choose?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-performing-a-clean-slate-restart-on-your-pc-with-windows-11/"><u>Step-by-Step Guide: Performing a Clean Slate Restart on Your PC with Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-taskbar-issues-in-windows-11/"><u>Troubleshooting Taskbar Issues in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/unite-sony-gaming-with-the-switch-system/"><u>Unite Sony Gaming with the Switch System</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-framerate-in-consoles-defies-expectations/"><u>Why Framerate in Consoles Defies Expectations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-viewer-interest-6-essential-video-formats/"><u>[New] 2024 Approved Mastering Viewer Interest 6 Essential Video Formats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tactics-for-excelling-in-twitters-real-time-responses/"><u>[New] In 2024, Tactics for Excelling in Twitter's Real-Time Responses</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-the-best-practices-for-youtube-fb-sharing/"><u>[New] Unveiling the Best Practices for YouTube FB Sharing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-bridging-beats-unraveling-the-secrets-of-crossfade/"><u>[Updated] Bridging Beats Unraveling the Secrets of Crossfade</u></a></li>
+<li><a href="https://games-able.techidaily.com/enjoy-immersive-worlds-a-step-by-step-guide-to-playing-games-on-meta-quest-and-steam-headset/"><u>Enjoy Immersive Worlds - A Step-by-Step Guide to Playing Games on Meta Quest & Steam Headset</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-playstation-plus-its-cost-and-perks/"><u>Evaluating PlayStation Plus: Its Cost and Perks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-on-fixing-recurrerent-graphics-driver-glitches/"><u>Expert Advice on Fixing Recurrerent Graphics Driver Glitches</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashback-to-fun-modern-tactics-for-game-enjoyment-post-flash/"><u>Flashback to Fun: Modern Tactics for Game Enjoyment Post-Flash</u></a></li>
+<li><a href="https://games-able.techidaily.com/from-playstation-portable-to-windows-the-steam-deck-method/"><u>From PlayStation Portable to Windows - The Steam Deck Method</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-together-15-companionable-pairing-games-on-smartphones/"><u>Gaming Together: 15 Companionable Pairing Games on Smartphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-keep-your-dualsense-in-top-form-virtually/"><u>How to Keep Your DualSense in Top Form Virtually</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-selecting-the-top-5-youtube-grabber-software/"><u>In 2024, Selecting the Top 5 YouTube Grabber Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-short-film-producer-yt/"><u>In 2024, Short Film Producer YT</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-ai-powered-dlss-unveiled-in-update-35/"><u>Nvidia's AI-Powered DLSS: Unveiled in Update 3.5</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimale-videoqualitat-erzielen-korrekturverfahren-fur-verzerrte-videos-bei-der-rippen-von-dvds-in-windows-11-mit-handbrake/"><u>Optimale Videoqualität Erzielen: Korrekturverfahren Für Verzerrte Videos Bei Der Rippen Von DVDs in Windows 11 Mit Handbrake</u></a></li>
+<li><a href="https://games-able.techidaily.com/playstation-plus-vs-xbox-games-galore/"><u>PlayStation Plus vs Xbox Games Galore</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-to-transform-text-into-a-3d-entity-for-2024/"><u>Techniques to Transform Text Into a 3D Entity for 2024</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-3-free-backup-tools-cross-platform-support-for-windows-mac-and-linux-systems/"><u>Top 3 Free Backup Tools: Cross-Platform Support for Windows, Mac & Linux Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-no-wi-fi-game-hits-for-iphone-and-ipad/"><u>Ultimate No-Wi-Fi Game Hits for iPhone and iPad</u></a></li>
 </ul></div>
 

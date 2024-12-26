@@ -1,7 +1,7 @@
 ---
 title: "Quiet Control: Switch Off Xbox Svibration Mode"
-date: 2024-12-10T20:01:39.629Z
-updated: 2024-12-16T18:31:09.484Z
+date: 2024-12-23T17:01:08.354Z
+updated: 2024-12-25T20:31:33.121Z
 tags:
   - games
 categories:
@@ -34,14 +34,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ![A screenshot of an Xbox Wireless Controller Profile on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controller-profile.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  But aside from the practical caveats of altering controller vibration, the most common way you might otherwise be hindered is due to physical issues with a controller. A build-up of dirt, for instance, can cause stick drift or non-responsive vibration motors, and you may need to[take your Xbox controller apart](https://www.makeuseof.com/xbox-series-xs-controller-how-to-take-apart/) to fix any vibration problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable Controller Vibration on Xbox Series X|S
 
@@ -52,20 +48,20 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 ![A screenshot of the Guide menu on Xbox Series X with the options for Profile and System highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/xbox-guide-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Under**Accessibility** , select**Controller** .
 
 ![A screenshot of the Accessibility settings on Xbox Series X with Controller highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/xbox-accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Select**Vibration settings** .
 
 ![A screenshot of the Accessibility settings for an Xbox Wireless Controller on Xbox Series X](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/vibration-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Ensure that**Turn on vibration** is deselected.
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
  If you ever switch your controller**Profile** or reset a**Profile** to default settings, your vibration preferences would be overwritten. In this case, you would need to[configure your Xbox Series X|S controller](https://www.makeuseof.com/configure-xbox-series-s-x-controller/) again to ensure vibration is disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Customize Your Xbox Wireless Controller to Suit You
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 ### Q: Does Controller Vibration Affect Your Xbox Controller’s Battery Life?
 
  In short, yes. Enabling controller vibration on your Xbox Wireless Controller for Xbox Series X|S will cause the battery to drain much faster than if you were to disable the feature. The extra power utilized by the vibration motors drains the battery life of your controller much faster than other controller inputs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: Why Do Xbox and PlayStation Use Haptic Feedback?
 
@@ -115,21 +115,22 @@ thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] 2024 Approved Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-extraordinary-assessment-and-alternative-choices/"><u>[New] Extraordinary Assessment & Alternative Choices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-craft-your-first-short-film-with-windows-8-movie-maker/"><u>[New] In 2024, Craft Your First Short Film with Windows 8 Movie Maker</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-illuminate-your-graphics-instinct-for-adobe-motion-blur/"><u>[Updated] In 2024, Illuminate Your Graphics Instinct for Adobe Motion Blur</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-revamping-your-mobile-melodies-an-expert-iphone-ringtone-guide-for-2024/"><u>[Updated] Revamping Your Mobile Melodies An Expert iPhone Ringtone Guide for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-speaking-and-listening-to-create-better-decks/"><u>[Updated] Speaking and Listening to Create Better Decks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-chase-laughter-and-tears-on-instagram-with-these-10-feeds/"><u>2024 Approved Chase Laughter & Tears on Instagram with These 10 Feeds</u></a></li>
-<li><a href="https://games-able.techidaily.com/deciphering-your-options-for-fixingexchanging-a-switch/"><u>Deciphering Your Options for Fixing/Exchanging a Switch</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-playstation-5s-safety-with-an-unique-access-code/"><u>Elevate PlayStation 5'S Safety with an Unique Access Code</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-8-lite-android-simulators-for-pc-and-mac-gamers/"><u>Essential 8 Lite Android Simulators for PC and Mac Gamers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-8t-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 8T 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/linux-integration-for-android-software/"><u>Linux Integration for Android Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/premium-games-before-launch-exploration-or-caution/"><u>Premium Games Before Launch - Exploration or Caution?</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-locations-gamers-success-spots/"><u>Prime Locations: Gamers' Success Spots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-21-complimentary-alternatives-to-putlocker-a-users-guide/"><u>Top 21 Complimentary Alternatives to Putlocker: A User's Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/zero-lag-peak-gameplay-the-new-era-with-razers-basilisk-v3/"><u>Zero Lag, Peak Gameplay: The New Era with Razer's Basilisk V3</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-the-installation-of-movie-maker-6/"><u>[Updated] In 2024, Mastering the Installation of Movie Maker 6</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-compreayers-resource-for-optimal-io-screen-use-for-2024/"><u>[Updated] The Compreayer's Resource for Optimal IO Screen Use for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-journey-through-timeran-images-3-methods-on-facebook/"><u>[Updated] The Journey Through Time'ran Images 3 Methods on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-understanding-youtubes-revenue-streams-for-2024/"><u>[Updated] Understanding YouTube's Revenue Streams for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battling-anxiety-with-ai-tips-and-tricks-for-utilizing-chatgpt/"><u>Battling Anxiety with AI: Tips and Tricks for Utilizing ChatGPT</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/camera-choices-pre-buy-checklist-highlights/"><u>Camera Choices: Pre-Buy Checklist Highlights</u></a></li>
+<li><a href="https://games-able.techidaily.com/ejecting-issues-focus-on-your-series-x-console-fix/"><u>Ejecting Issues? Focus on Your Series X Console Fix</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-gameplay-with-a-secondary-laptop-display-for-xbox/"><u>Enhancing Gameplay with a Secondary Laptop Display for Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steam-connectivity-woes-in-windows-11/"><u>Fixing Steam Connectivity Woes in Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hdr-video-power-windows-edition-explained-for-2024/"><u>HDR Video Power Windows Edition Explained for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-power-boards-compatible-with-ps5/"><u>Innovative Power Boards: Compatible with PS5</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-baldurs-gate-3-full-game-on-mac-via-crossover/"><u>Mastering Baldur's Gate 3: Full Game on Mac via Crossover</u></a></li>
+<li><a href="https://games-able.techidaily.com/my-battle-station-chair-edition/"><u>My Battle Station: Chair Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcome-muffled-gaming-experience-reconnecting-solutions/"><u>Overcome Muffled Gaming Experience: Reconnecting Solutions</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-lost-wordle-streaks-on-mobile-devices/"><u>Revive Lost Wordle Streaks on Mobile Devices</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/step-by-step-instructions-for-driver-refreshes-by-yl-software-on-video-cards/"><u>Step-by-Step Instructions for Driver Refreshes by YL Software on Video Cards</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/techniques-for-perfect-chroma-key-compositing/"><u>Techniques for Perfect Chroma Key Compositing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming LAN Connection Roadblocks in Windowed MC
-date: 2024-12-15T21:25:04.748Z
-updated: 2024-12-17T04:12:17.369Z
+date: 2024-12-23T06:39:57.919Z
+updated: 2024-12-25T19:32:41.169Z
 tags:
   - games
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ![Uncheck the Automatic Connection Permission for the Wi-Fi Network on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uncheck-the-automatic-connection-permission-for-the-wi-fi-network-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Connect to the Same Network Using the Same Connection Method
 
  Ensure your device is connected to the network using the same type of connection as the host, such as Wi-Fi, Ethernet, etc. Although it's not a requirement from Minecraft, and most users don't have issues as long as they're connected to the same network, some players reported having problems when their connection type differed from the host's.
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  If the connection type is different, change it. If the connection type already matches the host, you can proceed to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Ensure You're Using the Same Minecraft Version as the Host
@@ -57,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  If the issue persists, note down the version listed under the**Latest release** and confirm that the host uses the same version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change Your Windows Network Profile to Private
 
  When you connect to a network for the first time, it is usually set as public and hides itself from other devices on the network. If you haven't changed the network profile before, you probably use the default settings, which is likely the public profile.
@@ -70,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Network Discovery in the Control Panel
@@ -82,12 +74,13 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 3. Click on the**Change advanced sharing settings** option on the left.  
 ![Open the Advanced Sharing Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-advanced-sharing-settings-on-windows.jpg)
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery** .
-5. Also, check the box beside**Set up network connected devices automatically** .  
-![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Also, check the box beside**Set up network connected devices automatically** .  
+![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
 ## 6\. Perform Some General Fixes
 
@@ -100,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  In case the above fixes also don't work, try setting up a direct connection to the host server in Minecraft.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Create a Direct Connection in Minecraft
 
  If you cannot view or connect to other players in Minecraft on the same network, try establishing a direct connection with the host. The direct connection enables users to join the server using the server's address, which is the host's IPv4 address for the local network, and the LAN port number of the server.
@@ -113,14 +102,27 @@ To directly join a Minecraft server, follow these steps:
 1. Click the**Direct Connection** button in multiplayer mode.  
 ![Open the Direct Connection in Minecraft Multiplayer Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-direct-connection-in-minecraft-multiplayer-mode.jpg)
 2. Paste the**IPv4 address** into the**Server Address** box, add a colon, and enter the**LAN port** provided by the host.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Then, click on**Join Server** .  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Join a Minecraft LAN World Seamlessly on Windows
 
  Having trouble joining a LAN world when friends are waiting for you can be frustrating. Hopefully, you now have a clearer understanding of what can prevent you from entering a LAN world. If you carefully apply the fixes listed above, you can join the LAN world in Minecraft. If nothing works, you should try to establish a direct connection.
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
@@ -145,17 +147,20 @@ To directly join a Minecraft server, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-no-experience-big-income-try-these-13-reddit-methods-for-2024/"><u>[New] No Experience, Big Income? Try These 13 Reddit Methods for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/20-creative-messaging-match-ups-for-friendly-banter/"><u>20 Creative Messaging Match-Ups for Friendly Banter</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-new-era-of-gaming-begins-with-chatgpts-top-6-games/"><u>A New Era of Gaming Begins With ChatGPT’s Top 6 Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/alternative-methods-for-steam-restart/"><u>Alternative Methods for Steam Restart</u></a></li>
-<li><a href="https://games-able.techidaily.com/apples-enhancement-for-gamers-through-macos-sonomas-game-mode/"><u>Apple’s Enhancement for Gamers Through macOS Sonoma's Game Mode</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-15-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 15 screen turns black? | Stellar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-use-phantom-slow-motion-camera/"><u>How to Use Phantom Slow Motion Camera</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ator-in-visual-symphony-production-for-2024/"><u>Innovator in Visual Symphony Production for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006736136-no-more-glitches-playing-a-total-war-saga-troy-seamlessly-on-windows-and-mac/"><u>No More Glitches: Playing A Total War Saga: Troy Seamlessly on Windows and Mac</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719162065608-top-4-ios-superior-game-boy-advance-emulators/"><u>Top 4 iOS: Superior Game Boy Advance Emulators</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-reconfiguring-network-parameters-on-macos-devices/"><u>Ultimate Guide: Reconfiguring Network Parameters on macOS Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-for-designing-an-engaging-youtube-teaser/"><u>[New] In 2024, Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-7-economical-options-mac-compatible-tiktok-editors/"><u>[New] In 2024, Top 7 Economical Options Mac-Compatible TikTok Editors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-understanding-the-mechanisms-of-youtubes-cc-license/"><u>[New] Understanding the Mechanisms of YouTube's CC License</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-desktop-capture-obs-vs-shadowplay/"><u>2024 Approved Desktop Capture OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-sdr-to-hdri-step-by-step-video-enhancement-guide/"><u>2024 Approved SDR to HDRI Step-by-Step Video Enhancement Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-access-gpeditmsc-on-your-windows-home-pc/"><u>Fix Guide: How to Access gpedit.msc on Your Windows Home PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/guidance-for-resolving-self-detaching-ps4-remote-in-windows/"><u>Guidance for Resolving Self-Detaching PS4 Remote in Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-no-experience-no-obstacle-the-ultimate-guide-to-profits-on-reddit/"><u>In 2024, No Experience? No Obstacle The Ultimate Guide to Profits on Reddit</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-videocapture-with-vlc-appraisal/"><u>In 2024, Videocapture with VLC Appraisal</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-run-baldurs-gate-3-flawlessly-via-crossover-on-macos/"><u>Learn to Run Baldur’s Gate 3 Flawlessly via CrossOver on macOS</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-selection-top-discords-you-should-explore/"><u>Mastering Selection: Top Discords You Should Explore</u></a></li>
+<li><a href="https://games-able.techidaily.com/mwc-2024-star-products-featured-in-makeuseof/"><u>MWC 2024 Star Products Featured in MakeUseOf</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-gaming-ears-on-switch/"><u>Optimal Gaming Ears on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-escalating-danger-of-game-hacking/"><u>The Escalating Danger of Game Hacking</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-the-giants-asus-rog-against-tuf-proart-and-prime/"><u>Uniting the Giants: Asus ROG Against TUF, ProArt & Prime</u></a></li>
 </ul></div>
 

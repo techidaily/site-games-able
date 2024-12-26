@@ -1,7 +1,7 @@
 ---
 title: How to Optimize 3D Models for Game Development
-date: 2024-12-11T19:53:04.791Z
-updated: 2024-12-17T03:00:37.541Z
+date: 2024-12-22T05:36:04.320Z
+updated: 2024-12-25T21:20:14.866Z
 tags:
   - games
 categories:
@@ -27,10 +27,14 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![room 3d model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/room-3d-model.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While a good deal of the work you can do to optimize 3D models for game development is done in your 3D design software, the game engine also gives you opportunities to make your game faster. These methods are easy to put to work, providing a good place to start if you have already begun development on your game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reuse 3D Model Assets
@@ -39,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
  Asset reuse is very common in the video game development industry, and it’s something you should always consider when designing complex levels and scenes. Engines like Unity offer a prefabrication system to make this easier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Compress Textures and Optimize Shaders
 
  Textures act like skin on the outside of a 3D object, adding patterns and other visual features to make the object look more real. Textures come in the form of image files, and each of these files needs to be loaded when it is used in a scene. By using compressed textures, you can free up a lot of resources.
 
  Alongside using compressed textures, it’s also worth making sure that the shaders you use are well-optimized. Most game engines have an asset store with both free and paid shaders available to make this easier. You can also find[free 3D models on the Unity Asset Store](https://www.makeuseof.com/unity-free-assets-websites/) that are already optimized, and this applies to other engines, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use Static Lighting
 
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
  Engines like Unity and Unreal Engine feature an optimization tool called occlusion culling. This reduces resource usage by only rendering the 3D objects that the player can see in the scene. Outside of the player’s field of view, objects will not appear until they are looked at. This is an easy way to save resource usage in large scenes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Implement LOD (Level of Detail)
@@ -66,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
  Detail becomes increasingly important as you get closer to an object in a video game. But, when you are far away, you don’t need to have every fine detail on display, and this is what LOD is for.
 
  The engine can automatically remove polygons from an object’s mesh when the player is far away, lowering resource costs without impacting immersion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3D Model Game Optimization: Design Workflow
 
@@ -77,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 ![monkey model in blender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manual-3d-optimization.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Optimizing simple geometry by hand is a good way to get used to designing models for video games. You have two main options for removing faces, lines, and vertices in 3D modeling software; deleting and dissolving.
 
  Deleting a face removes it entirely, leaving an open space in your 3D object. Deleting a vertex or line will remove the faces that connect to them. Dissolve removes the face, vertex, or line you have selected, followed by filling in the gaps with new faces to keep the object solid.
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 * **Remove Hidden Faces** : Faces that the player will never see don’t need to be loaded into your game. The backs of buildings, the underside of a vehicle, and pieces of geometry that are below ground can usually be removed. This is the manual version of occlusion mapping.
 * **Remove Duplicate/Redundant Faces** : Duplicate faces should always be deleted, but you should also look for faces that aren’t necessary. A square, for example, only needs to have one face. If it has two triangular faces, dissolve them both to replace them with a single face.
 * **Object Merging** : Loading one object is always better than loading two or three.[Merging 3D objects in Blender](https://www.makeuseof.com/merge-objects-in-blender/) and[other game development software](https://www.makeuseof.com/tag/five-free-game-development-tools-make-your-own-games/) is easy, and it's a great way to reduce your resource costs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Automated Geometry Optimization
 
@@ -122,20 +122,19 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-m1-pro-vs-m1-max-delving-into-the-details-of-apples-latest-cpus/"><u>[Updated] M1 Pro Vs. M1 Max Delving Into the Details of Apple's Latest CPUs</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/boosting-your-dj-career-key-strategies-for-thriving-in-the-music-industry/"><u>Boosting Your DJ Career: Key Strategies For Thriving In The Music Industry</u></a></li>
-<li><a href="https://games-able.techidaily.com/compatible-console-excellence-best-mac-emulators-unveiled/"><u>Compatible Console Excellence: Best Mac Emulators Unveiled</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-ready-designs-optimizing-virtual-models/"><u>Game-Ready Designs: Optimizing Virtual Models</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-correct-system-errors-following-a-windows-update/"><u>How to Correct System Errors Following a Windows Update</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-v29e-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo V29e? Try These Fixes</u></a></li>
-<li><a href="https://games-able.techidaily.com/in-browser-blitzkrieg-a-ranked-list-of-top-online-shooter-games/"><u>In-Browser Blitzkrieg: A Ranked List of Top Online Shooter Games</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1724766832135-iosmac/"><u>IOSデバイスからMacへの効率的なメディア移行:動画、音楽、写真ダウンロードガイド</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leveraging-predictive-analytics-anticipating-future-consumer-trends/"><u>Leveraging Predictive Analytics Anticipating Future Consumer Trends</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-android-gaming-buttons-and-controllers-unite/"><u>Mastering Android Gaming: Buttons and Controllers Unite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/matariki-or-pleiades/"><u>Matariki or Pleiades</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switch-woes-assessing-repairs-and-replacements/"><u>Nintendo Switch Woes: Assessing Repairs and Replacements</u></a></li>
-<li><a href="https://games-able.techidaily.com/rog-ally-x-redefines-handheld-excellence/"><u>RoG Ally X Redefines Handheld Excellence</u></a></li>
-<li><a href="https://games-able.techidaily.com/understanding-the-impact-of-gpu-temperatures-on-performance/"><u>Understanding the Impact of GPU Temperatures on Performance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-navigating-video-multitasking-in-chromes-pip-mode-on-all-devices/"><u>[New] Navigating Video Multitasking in Chrome’s PIP Mode on All Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-quick-ig-update-on-todays-compelling-podcast-for-2024/"><u>[New] Quick IG Update on Today's Compelling Podcast for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-celeb-in-a-nutshell-vimeo/"><u>[Updated] 2024 Approved Celeb in a Nutshell – Vimeo</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>2024 Approved Transform Your Footage Effective Strategies for Cropping & Export on Instagram</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/future-of-illumination-leds/"><u>Future of Illumination: LEDs</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-a-dead-microsoft-controller-on-windows/"><u>How to Reactivate a Dead Microsoft Controller on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/insights-into-nvidias-ai-improved-dlss-35/"><u>Insights Into Nvidia’s AI-Improved DLSS 3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/leap-across-minecraft-versions-bedrock-to-java-geysermc-bridge/"><u>Leap Across Minecraft Versions: Bedrock to Java, GeyserMC Bridge</u></a></li>
+<li><a href="https://games-able.techidaily.com/netflixs-mobile-games-are-well-worth-playing-heres-why-i-love-them/"><u>Netflix's Mobile Games Are Well Worth Playing: Here's Why I Love Them</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/rock-your-tunes-with-winamp-newly-released-for-iphone-and-android-users/"><u>Rock Your Tunes with Winamp – Newly Released for iPhone and Android Users!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-essentials-of-narrowing-virtual-room-spaces-for-2024/"><u>The Essentials of Narrowing Virtual Room Spaces for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbox-pimaxs-vision-ahead-of-time-with-slip-ups/"><u>Unbox Pimax's Vision: Ahead of Time with Slip-Ups</u></a></li>
 </ul></div>
 

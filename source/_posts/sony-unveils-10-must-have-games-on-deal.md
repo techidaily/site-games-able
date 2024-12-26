@@ -1,7 +1,7 @@
 ---
 title: Sony Unveils 10 Must-Have Games on Deal
-date: 2024-12-15T08:23:28.790Z
-updated: 2024-12-17T11:58:55.170Z
+date: 2024-12-21T18:51:15.117Z
+updated: 2024-12-25T21:20:59.639Z
 tags:
   - games
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Overcooked! 2
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 **Download** :[Overcooked 2](https://store.playstation.com/en-us/product/UP4064-CUSA10940%5F00-OVERCOOKED200000) for $7.49 (70% off)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. My Time at Portia Deluxe Edition
@@ -49,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Deathloop](https://store.playstation.com/en-us/product/UP1003-PPSA01302%5F00-DEATHLOOP0000000) for $14.99 (75% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Little Nightmares 1 & 2
 
  Walking the line between absolutely horrifying and terribly cute is not easy, but if any game series does it perfectly, it's Little Nightmares. Both Little Nightmares 1 and 2 share adorable protagonists and horrific enemies that will definitely haunt your dreams for at least a couple of nights, possibly more. Consider yourself warned.
 
 **Download** :[Little Nightmares 1 & 2](https://store.playstation.com/en-us/product/UP0700-PPSA02200%5F00-LN1LN2BUNDLE0000) for $14.99 (70% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Owlboy
 
@@ -65,15 +65,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Owlboy](https://store.playstation.com/en-us/product/UP4218-CUSA09914%5F00-OWLBOY0000000000) for $9.99 (60% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Unravel Two
 
  Unravel Two is a beautifully rendered puzzle platformer that can be enjoyed alone, but it is best experienced with a friend. It has some incredibly unique and satisfying mechanics where you can use the yarn that makes up your body to interact with your surroundings and solve puzzles. It is very similar to It Takes Two, so if you were a fan of that, this should be at the top of your backlog.
 
 **Download** :[Unravel Two](https://store.playstation.com/en-us/product/UP0006-CUSA10483%5F00-COLDWOODPIKE0000) for $4.99 (75% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. The Last of Us: Part II
 
@@ -93,15 +93,15 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 **Download** :[Tiny Tina’s Wonderlands: Chaotic Great Edition](https://store.playstation.com/en-us/product/UP1001-PPSA01492%5F00-TTWPREMIUMSIEA00) for $29.69 (67% off)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Final Fantasy VII Remake
 
  Final Fantasy VII Remake is the first of two parts. The next chapter, Final Fantasy VII Rebirth, is scheduled for release in 2024\. If you are intrigued by the look of Final Fantasy Rebirth, now is your chance to play the first part for 50% off.
 
 **Download** :[Final Fantasy VII Remake](https://store.playstation.com/en-us/product/UP0082-CUSA07211%5F00-FFVIIREMAKE00000) for $29.99 (50% off)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Be a Little Adventurous This Summer
 
@@ -122,20 +122,24 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-effective-thumbnails-the-secret-to-video-success/"><u>[New] In 2024, Effective Thumbnails The Secret to Video Success</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-definitive-12-tycoon-titles-unmissable-gaming-delights-for-2024/"><u>[New] The Definitive 12 Tycoon Titles - Unmissable Gaming Delights for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-conceptualizing-and-realizing-a-podcast-rss-strategy-for-2024/"><u>[Updated] Conceptualizing and Realizing a Podcast RSS Strategy for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-extensive-review-the-hero4-black-journey/"><u>[Updated] Extensive Review The Hero4 Black Journey</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-strategic-insights-on-making-persuasive-client-centered-videos/"><u>[Updated] In 2024, Strategic Insights on Making Persuasive Client-Centered Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-beginners-blueprint-to-building-top-10-easy-to-create-biz-youtubes/"><u>[Updated] In 2024, The Beginner's Blueprint to Building Top 10 Easy-to-Create Biz YouTubes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleash-creativity-with-these-innovative-6-apps-for-instagram-reels/"><u>2024 Approved Unleash Creativity with These Innovative 6 Apps for Instagram Reels</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-higher-rankings-truly-a-benchmark-for-success-on-steam/"><u>Are Higher Rankings Truly a Benchmark for Success on Steam?</u></a></li>
-<li><a href="https://games-able.techidaily.com/designing-a-dynamic-gaming-space-with-personalized-xbox-game-bar-configurations/"><u>Designing a Dynamic Gaming Space with Personalized Xbox Game Bar Configurations</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guaranteed-privacy-protection-stellar-erase-5-ultimate-file-and-folder-shredder-for-windows-users/"><u>Guaranteed Privacy Protection - Stellar Erase 5: Ultimate File and Folder Shredder for Windows Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-powerhouse-challenge-4070-super-against-titans-and-4080/"><u>Nvidia's Powerhouse Challenge: 4070 Super Against Titans & 4080</u></a></li>
-<li><a href="https://games-able.techidaily.com/pixel-warriors-opting-between-controller-and-stick/"><u>Pixel Warriors: Opting Between Controller and Stick</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-seekers-blueprint-unlocking-shiny-chances-84/"><u>The Seeker’s Blueprint: Unlocking Shiny Chances (84)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-c55-by-drfone-android/"><u>Top 10 Password Cracking Tools For Realme C55</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-5-streaming-video-archive-extractors-for-twitch/"><u>Top 5 Streaming Video Archive Extractors for Twitch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-netflixs-secret-ally-your-mac-for-recording-entertainment/"><u>[New] 2024 Approved Netflix's Secret Ally Your Mac for Recording Entertainment</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cultural-heritage-without-copyright-boundaries/"><u>[Updated] 2024 Approved Cultural Heritage Without Copyright Boundaries</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photos-ios-alignment-and-cloud-syncing/"><u>2024 Approved Mastering Photos IOS Alignment and Cloud Syncing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-hd-live-stream-gear-list/"><u>2024 Approved Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://games-able.techidaily.com/crucial-aspects-of-selecting-a-powerful-monitor/"><u>Crucial Aspects of Selecting a Powerful Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-the-top-gaming-displays-at-144hz/"><u>Discovering the Top Gaming Displays at 144Hz</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-wirecast-top-video-broadcasting-software/"><u>In 2024, Beyond WireCast Top Video Broadcasting Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-principles-of-documentary-storytelling/"><u>In 2024, Principles of Documentary Storytelling</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-gaming-enthusiasm-a-6-step-plan/"><u>Maintaining Gaming Enthusiasm: A 6-Step Plan</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-a-movie-on-your-mac-a-comprehensive-guide/"><u>New Make a Movie on Your Mac A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/quick-guide-connecting-switch-to-internet/"><u>Quick Guide: Connecting Switch to Internet</u></a></li>
+<li><a href="https://games-able.techidaily.com/quickening-data-exchange-diminishing-pings-and-delay-duration/"><u>Quickening Data Exchange: Diminishing Pings and Delay Duration</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-your-pathway-for-xbox-return-claims/"><u>Simplify Your Pathway for Xbox Return Claims</u></a></li>
+<li><a href="https://games-able.techidaily.com/size-matters-in-smartphone-and-tablet-games/"><u>Size Matters in Smartphone and Tablet Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-the-world-of-gamers-with-these-top-8-outlets/"><u>Step Into the World of Gamers with These Top 8 Outlets</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-nycs-elite-connections-a-guide-to-winning-every-day/"><u>Unlocking NYC's Elite Connections: A Guide to Winning Every Day</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unpacking-the-benefits-of-upgrading-to-an-iphone-1n-pro-max-is-a-larger-phone-worth-it/"><u>Unpacking the Benefits of Upgrading to an iPhone 1N Pro Max - Is a Larger Phone Worth It?</u></a></li>
 </ul></div>
 

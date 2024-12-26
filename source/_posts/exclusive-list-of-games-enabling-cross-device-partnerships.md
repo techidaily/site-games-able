@@ -1,7 +1,7 @@
 ---
 title: Exclusive List of Games Enabling Cross-Device Partnerships
-date: 2024-12-10T11:02:15.729Z
-updated: 2024-12-17T05:56:03.036Z
+date: 2024-12-21T19:41:32.728Z
+updated: 2024-12-26T06:17:29.020Z
 tags:
   - games
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Spaceteam
 
  Spaceteam is the one game on this list that requires all your friends to be in the same physical space.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
  If you have a smaller friend group, you can also try out the[best two-player mobile games](https://www.makeuseof.com/tag/best-two-player-mobile-games/) .
 
 **Download:** Spaceteam for[iOS](https://apps.apple.com/app/spaceteam/id570510529) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.sleepingbeastgames.spaceteam) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Words With Friends 2
 
@@ -57,6 +57,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Pokémon UNITE for[iOS](https://apps.apple.com/us/app/pok%C3%A9mon-unite/id1512321575) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=jp.pokemon.pokemonunite) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Teamfight Tactics
 
  Riot Games' auto chess title provides a competitive experience with familiar League of Legends' champions. Draft and play champions while aiming to create the best team.
@@ -64,10 +68,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
  With full cross-platform support, play normal or ranked matches with your friends as you learn the best synergies and items that work together. It's also one of the best multiplayer PvP games for both mobile and PC!
 
 **Download:** Teamfight Tactics for[iOS](https://apps.apple.com/app/tft-teamfight-tactics/id1480616748) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics) (Free, in-app purchases available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Minecraft
 
@@ -79,10 +79,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Minecraft for[iOS](https://apps.apple.com/app/minecraft/id479516143) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.mojang.minecraftpe) ($6.99 \[iOS\], $6.99 \[Android\], in-app purchases available)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hearthstone
 
  Real-life trading card games are fun, but online trading card games let you do things like summon demons and blow up your booster packs.
@@ -92,10 +88,6 @@ The sequel to the acclaimed Words With Friends is more like an update.
  With periodic expansions, tournaments, and challenges, there's always a reason to get back into Hearthstone. Play your friends in the Arena or battle strangers to increase your Rank.
 
 **Download:** Hearthstone for[iOS](https://apps.apple.com/app/hearthstone/id625257520) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone) (Free, in-app purchases available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Pokémon Go
 
@@ -113,6 +105,10 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** PUBG Mobile for[iOS](https://apps.apple.com/app/pubg-mobile-arcane/id1330123889) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.tencent.ig) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Mario Kart Tour
 
  While many cross-platform mobile multiplayer games focus on a more typical battle game archetype, the racing sub-genre shouldn't be forgotten. While Mario Kart remains a strong option on the Nintendo Switch, your friends on mobile don't need to be left out.
@@ -123,21 +119,25 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 **Download:** Mario Kart Tour for[iOS](https://apps.apple.com/us/app/mario-kart-tour/id1293634699) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.nintendo.zaka) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Old School RuneScape
 
  Ready to scratch the nostalgia bug with friends? As one of the earliest accessible MMORPGs, many gamers will fondly remember RuneScape. Whether you're ready to fish, mine, or fight, you can resume your adventures in true crossplay form with all of your friends.
 
 **Download:** Old School RuneScape for[iOS](https://apps.apple.com/app/apple-store/id1269648762) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.jagex.oldscape.android) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. League of Legends: Wild Rift
 
  If you've been a fan of Riot Games' League of Legends franchise, taking to the Rift with friends on mobile was previously impossible. While League of Legends: Wild Rift doesn't support crossplay with PC players, Android and iOS users can queue up in duos, trios, or a complete five-person party as you target the enemy's nexus. With Riot's MOBA mobile launch, you can now play a full phone game with your friends.
 
 **Download:** League of Legends: Wild Rift for[iOS](https://apps.apple.com/app/league-of-legends-wild-rift/id1480616990) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU34763/https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift) (Free, in-app purchases available)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## More Mobile Games to Play With Friends
 
@@ -158,22 +158,18 @@ The sequel to the acclaimed Words With Friends is more like an update.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-diversify-your-laptop-editing-beyond-inshot/"><u>[New] Diversify Your Laptop Editing Beyond Inshot</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-gb-required-for-one-full-movie-hour-by-hour/"><u>[New] GB Required for One Full Movie, Hour by Hour</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-boost-your-home-cinema-skills-with-these-top-5-tips/"><u>[Updated] Boost Your Home Cinema Skills with These Top 5 Tips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-uncomplicated-methods-sharing-igtv-in-stories-for-2024/"><u>[Updated] Uncomplicated Methods Sharing IGTV in Stories for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>2024 Approved Efficient Viewing The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
-<li><a href="https://games-able.techidaily.com/cheap-gaming-conquered-top-11-websites-for-low-cost-games/"><u>Cheap Gaming Conquered: Top 11 Websites for Low-Cost Games</u></a></li>
-<li><a href="https://games-able.techidaily.com/effective-management-of-multiple-xbox-subscriptions-in-a-single-console/"><u>Effective Management of Multiple Xbox Subscriptions in a Single Console</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor V Purse | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/fresh-look-new-and-improved-steam-deck-covers-24/"><u>Fresh Look: New and Improved Steam Deck Covers '24</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-perk-predicament-which-console-service-wins/"><u>Gaming Perk Predicament: Which Console Service Wins?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-turn-your-psp-into-a-game-boy-emulator/"><u>How to Turn Your PSP Into a Game Boy Emulator</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>In 2024, Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/join-forces-4-ai-powered-mystery-challenges/"><u>Join Forces: 4 AI-Powered Mystery Challenges</u></a></li>
-<li><a href="https://games-able.techidaily.com/mapping-out-uncharted-digital-territories/"><u>Mapping Out Uncharted Digital Territories</u></a></li>
-<li><a href="https://games-able.techidaily.com/solving-the-vanishing-game-issue-on-egs-digital-shelf/"><u>Solving the Vanishing Game Issue on EG's Digital Shelf</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-revenue-shift-how-tiktok-is-redrawing-social-landscapes/"><u>The Revenue Shift: How TikTok Is Redrawing Social Landscapes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[New] 2024 Approved Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-leading-speech-recording-software-for-mac-discovering-our-five-favorites/"><u>[New] 2024 Approved Leading Speech Recording Software for Mac Discovering Our Five Favorites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-10-masterpieces-in-job-market-insight-for-2024/"><u>[Updated] 10 Masterpieces in Job Market Insight for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-accessing-trendsetting-background-images-for-tiktok/"><u>[Updated] 2024 Approved Accessing Trendsetting Background Images for TikTok</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfect-drone-companions-for-skilled-pilots-top-5-for-2024/"><u>[Updated] Perfect Drone Companions for Skilled Pilots (Top 5) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-ideal-combo-top-10-recommended-tools-for-vimeo-download/"><u>2024 Approved Ideal Combo Top 10 Recommended Tools for Vimeo Download</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xr-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone XR</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-switchs-connectivity-upgrade-worth-the-dollar/"><u>Is Switch's Connectivity Upgrade Worth the Dollar?</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-the-challenge-error-code-262-on-roblox/"><u>Overcoming the Challenge: Error Code 262 on Roblox</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinventing-identity-the-process-for-name-and-logo-change-on-riot-games/"><u>Reinventing Identity: The Process for Name and Logo Change on Riot Games</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-performance-and-precision-razers-basilisk-v3-pro-review/"><u>Unmatched Performance and Precision: Razer's Basilisk V3 Pro Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-iphone-15-pros-a-must-have-upgrade-for-tech-enthusiasts-insights-from-zdnet/"><u>Unveiling the iPhone 15 Pros: A Must-Have Upgrade for Tech Enthusiasts - Insights From ZDNet</u></a></li>
 </ul></div>
 

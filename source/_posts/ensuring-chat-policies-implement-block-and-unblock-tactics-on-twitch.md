@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Chat Policies: Implement Block & Unblock Tactics on Twitch"
-date: 2024-12-10T06:24:31.489Z
-updated: 2024-12-16T23:48:56.957Z
+date: 2024-12-24T06:02:44.668Z
+updated: 2024-12-26T02:19:25.479Z
 tags:
   - games
 categories:
@@ -41,6 +41,10 @@ Here's how to block or unblock someone on Twitch...
 
 ![The block confirmation screen on Twitch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/block-unblock-twitch-confirmation.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Twitch won't retroactively scrub away the person's messages, so if they said something particularly nasty, refresh the page to clear the chat and get rid of their comments.
 
  Alternatively, you can type**/block \[username\]** into the chat to get rid of them.
@@ -60,7 +64,7 @@ Here's how to block or unblock someone on Twitch...
 ![twitch settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/12/twitch-settings-menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the**Security and Privacy** tab at the top. Next, scroll down to the**Privacy** section, then find the**Blocked Users** section.
@@ -76,7 +80,7 @@ Here's how to block or unblock someone on Twitch...
  Twitch will save the changes immediately and remove the user from your block list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unblock People on the Twitch App
@@ -97,16 +101,16 @@ Here's how to block or unblock someone on Twitch...
 
 ![Twitch Settings page in iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-twitch-settings-ios.jpg)
 
-![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Blocked users in Twitch's Security & Privacy page on iOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-blocked-users-twitch.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Unblock People on Android
@@ -116,10 +120,6 @@ Close
  As such, a quick and hassle-free way to unblock someone on Android is by using Twitch's desktop site on your device. Just head over to Twitch and load the desktop version of the site (here's a guide on how you can[view the desktop version of any site](https://www.makeuseof.com/how-to-view-desktop-version-of-any-site-on-mobile/) ). After that, follow the steps above for unblocking Twitch users via Settings.
 
  If you don't want to use this method, we'd recommend logging into your Twitch account on PC to manage your blocked users list instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Managing People Better on Twitch
 
@@ -140,21 +140,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro-for-2024/"><u>[New] 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-decoding-the-smudge-expertly-ranked-10-internet-photo-tools-for-2024/"><u>[Updated] Decoding the Smudge Expertly Ranked 10 Internet Photo Tools for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-reasons-your-retro-gaming-project-needs-a-raspberry-pi-5/"><u>6 Reasons Your Retro Gaming Project Needs a Raspberry Pi 5</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-lifeline-to-unparalleled-indie-gaming-experiences-on-itchio/"><u>A Lifeline to Unparalleled Indie Gaming Experiences on Itch.io</u></a></li>
-<li><a href="https://games-able.techidaily.com/accessing-high-end-graphics-for-fortnite-on-your-smartphone/"><u>Accessing High-End Graphics for Fortnite on Your Smartphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/altering-steam-default-language/"><u>Altering Steam Default Language</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-crash-landings-fixing-windows-based-epic-games-problems/"><u>Avoid Crash Landings: Fixing Windows-Based Epic Games Problems</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-the-rush-secure-mars-spiderman-2-on-ps5/"><u>Beat The Rush - Secure Mar's Spiderman 2 on PS5</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/broadcasting-vimeo-content-efficiently/"><u>Broadcasting Vimeo Content Efficiently</u></a></li>
-<li><a href="https://article-files.techidaily.com/chromes-picture-in-picture-capabilities-explained/"><u>Chrome's Picture-In-Picture Capabilities Explained</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/indulge-in-the-best-youtube-binge-spots-for-anime-enthusiasts/"><u>Indulge in the Best YouTube Binge Spots for Anime Enthusiasts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/integrating-facebook-linkedin-and-youtube-a-guide/"><u>Integrating Facebook, LinkedIn & YouTube: A Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-options-picking-right-nvidia-driver-type-for-you/"><u>Navigating Options, Picking Right Nvidia Driver Type For You</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171600737-ps3s-secrets-no-microphones-allowed-here/"><u>Ps3's Secrets: No Microphones Allowed Here</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reduce-your-emissions-with-ubers-latest-feature-discover-the-amount-of-co2-youve-prevented-from-polluting-our-atmosphere-the-complete-guide-zdnet/"><u>Reduce Your Emissions with Uber's Latest Feature: Discover the Amount of CO2 You've Prevented From Polluting Our Atmosphere - The Complete Guide | ZDNet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-advanced-strategies-for-saving-vr-gameplay-moments/"><u>[New] In 2024, Advanced Strategies for Saving VR Gameplay Moments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-adsense-optimization-for-2024/"><u>[New] The Ultimate Guide to YouTube AdSense Optimization for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-leveraging-daylight-in-home-interiors/"><u>[Updated] 2024 Approved Leveraging Daylight in Home Interiors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photoshops-quick-path-to-stunning-colors/"><u>2024 Approved Photoshop's Quick Path to Stunning Colors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos/"><u>Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/harnessing-hrtf-for-improved-focus-in-valorant-matches/"><u>Harnessing HRTF for Improved Focus in Valorant Matches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-minecraft-experience-five-simple-techniques/"><u>In 2024, Amplify Your Minecraft Experience Five Simple Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/mapping-out-steams-screenshot-stashes/"><u>Mapping Out Steam's Screenshot Stashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-165hz-refresh-display-choices/"><u>Ultimate 165Hz Refresh Display Choices</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-sound-quality-on-switch/"><u>Ultimate Sound Quality on Switch</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-game-mode-on-ios-and-macos-sonoma/"><u>Understanding Game Mode on iOS and MacOS Sonoma</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-of-smooth-telegram-web-use-for-2024/"><u>Unveiling the Secrets of Smooth Telegram Web Use for 2024</u></a></li>
 </ul></div>
 

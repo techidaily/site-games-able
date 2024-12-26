@@ -1,7 +1,7 @@
 ---
 title: Deciphering Discord's 'Idle' Signal - Fact or Fiction?
-date: 2024-08-27T17:08:55.662Z
-updated: 2024-08-28T17:08:55.662Z
+date: 2024-12-24T21:59:20.204Z
+updated: 2024-12-25T23:02:11.186Z
 tags:
   - games
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 ---
 
 ## Deciphering Discord's 'Idle' Signal - Fact or Fiction?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,15 +33,13 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
  When you see that someone is "idle" on Discord, what does it mean? Are they available for a chat or are they away from their desk? Here's everything you need to know about the idle status on Discord and whether it's accurate.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Idle Mean on Discord?
 
 ![discord online and idle statuses in friends list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/discord-online-and-idle-statuses-in-friends-list.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Being idle on Discord means one of three things: the person has not interacted with their computer for 10 minutes, the person has minimized the app on their smartphone, or they have manually selected the idle status.
 
  These different reasons behind the idle status are why some friends will appear to always be idle, while some only have the status intermittently.
@@ -53,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
  If you manually select the idle status, you will remain idle regardless of whether you message someone or use the app in other ways. In fact, you can even be actively talking or streaming in a voice channel and the app will continue to show you as idle.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Switch Your Discord Status to Idle
 
  There are a variety of ways to[change your Discord online status](https://www.makeuseof.com/how-to-change-your-discord-online-status/) to reflect your availability on the app.
@@ -62,9 +65,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 ![set idle status on discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/set-idle-status-on-discord.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you are using the desktop app, click on your profile icon in the bottom left corner, hover over the**Online** tab, and select**Idle** . There is also the option to[set a custom status on Discord](https://www.makeuseof.com/set-custom-discord-status/) .
 
 Close
@@ -72,8 +75,9 @@ Close
  If you're using the mobile app, select the**You** tab at the bottom of the app. Then tap on your**profile picture** and select**Idle** . Discord will switch your status immediately.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is the Discord Idle Status Always Accurate?
 
  Since you can manually set your status to Idle on Discord, and this status doesn't go away once you return to your desk, it's not always accurate. Someone could be online and still marked as idle.
@@ -84,14 +88,11 @@ Close
 
  If someone is marked as idle on Discord, you might not get a response right away—it all depends on whether they're really away from their device or if they have marked the status manually.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +101,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effective-strategies-to-log-your-google-voice-talks/"><u>[New] In 2024, Effective Strategies to Log Your Google Voice Talks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-crafting-compelling-movie-previews/"><u>[Updated] Crafting Compelling Movie Previews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cost-analysis-strategy-for-music-video-creation/"><u>[Updated] In 2024, Cost Analysis Strategy for Music Video Creation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-leaf-hurdle-in-apex-legends-comprehensive-fixes-users/"><u>Beat the 'Leaf' Hurdle in Apex Legends – Comprehensive Fixes Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/dreamcatcher-delights-playing-classic-games-on-android/"><u>Dreamcatcher Delights: Playing Classic Games on Android</u></a></li>
+<li><a href="https://games-able.techidaily.com/examining-the-best-java-gaming-elements/"><u>Examining the Best Java Gaming Elements</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone X Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-pop-8-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Pop 8 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-the-right-system-build/"><u>Maximizing Gameplay - The Right System Build</u></a></li>
+<li><a href="https://games-able.techidaily.com/removing-your-playstation-5-login-information/"><u>Removing Your PlayStation 5 Login Information</u></a></li>
+<li><a href="https://games-able.techidaily.com/shift-seasons-not-timezones-update-xbox-system/"><u>Shift Seasons, Not Timezones: Update Xbox System</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/speedy-record-and-audio-assisted-session-creator-for-2024/"><u>Speedy Record & Audio-Assisted Session Creator for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209921126-9781446358184-spells-and-how-they-work/"><u>Spells and How They Work | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-family-sharing-revamp-brings-10-years-of-changes/"><u>Steam's Family Sharing Revamp Brings 10 Years of Changes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-mastering-the-art-of-creating-tiktok-dual-videos/"><u>The Ultimate Guide: Mastering the Art of Creating TikTok Dual Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-xbox-enclosure-usage/"><u>Understanding Xbox Enclosure Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-behind-cozy-game-enjoyment/"><u>Unveiling the Secrets Behind Cozy Game Enjoyment</u></a></li>
+</ul></div>
 

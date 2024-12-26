@@ -1,7 +1,7 @@
 ---
 title: Setting New Display on PS5
-date: 2024-08-27T17:06:04.491Z
-updated: 2024-08-28T17:06:04.491Z
+date: 2024-12-20T04:19:48.358Z
+updated: 2024-12-26T05:19:27.482Z
 tags:
   - games
 categories:
@@ -14,11 +14,19 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ## Setting New Display on PS5
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Can You Change Your PS5 Background? The Options Explained](#can-you-change-your-ps5-background-the-options-explained)
 * [Can You Use PS5 Themes?](#can-you-use-ps5-themes)
 * [How to Change Your PS5 Profile Background](#how-to-change-your-ps5-profile-background)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,42 +37,33 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
  Console owners often enjoy making their user interface unique with custom themes and backgrounds. But can you change your background or theme on the PS5?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Change Your PS5 Background? The Options Explained
 
 ![background on ps5 with baldurs gate 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/background-on-ps5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While you can[change the background wallpaper on your PS4](https://www.makeuseof.com/how-to-change-ps4-wallpaper/) , the background on your PS5 depends on what game or menu icon you have selected. These automatic backgrounds can't be changed and will alternate according to which menu item you have selected.
 
 ![media gallery selected on ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/media-gallery-selected-on-ps5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  For example, when I hover over Baldur's Gate 3, the background changes to the game's cover art. When I hover over another title, the background changes again.
 
  You can change the background or cover image of your PS5 profile, but this doesn't show up on the main console home screen. You will have to visit your profile to see this image.
 
 ![background on ps5 profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/background-on-ps5-profile.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Can You Use PS5 Themes?
 
  Again, unlike the PS4, you can't get themes for the PS5\. Hopefully, the feature will roll out in the future so that users have a bit more customization available.
 
  However, you do have some options to customize your profile on the PS5.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Change Your PS5 Profile Background
 
  When it comes to adding some customization to your PS5, you can change certain aspects of your profile. This includes your profile picture or avatar and the background of your profile.
@@ -87,13 +86,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![changing your profile background on the ps5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-your-profile-background-on-the-ps5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your media gallery will open and you can select a new profile background from the options provided. Choose whichever image you want to use and then click on the**Select** button. You can then crop your image and select**Save** .
 
 ![selecting image for playstation profile background image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/selecting-image-for-playstation-profile-background-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Once you have changed your background to your liking, select**Done** .
 
  If you want to customize your profile further, such as[changing your PS5 profile avatar](https://www.makeuseof.com/how-to-change-ps5-profile-picture-avatar-cover-image/) , you can go back to the edit menu and select**Profile Picture** . There you can choose to use a pre-made avatar or upload a profile picture through the PS App.
@@ -102,14 +102,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  While these customization options are limited, they can offer you a way to make your PS5 user interface stand out a little bit more. Hopefully, Sony introduces more customization options in the future so that PS5 backgrounds aren't so limited.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +115,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fire-browser-excellence-premier-facebook-downloaders-and-addons-for-firefox/"><u>[New] 2024 Approved Fire-Browser Excellence Premier Facebook Downloaders & Addons for FireFox</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-path-to-a-thriving-instagram-community/"><u>[New] The Ultimate Path to a Thriving Instagram Community</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-social-media-sites-pick-the-prime-option/"><u>[Updated] 2024 Approved Social Media Sites Pick the Prime Option</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-adventure-anthology-top-10-game-selection/"><u>[Updated] The Ultimate Adventure Anthology – Top 10 Game Selection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20-efficient-applications-for-auto-gpt/"><u>20 Efficient Applications for Auto-GPT</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-aces-top-10-list-choosing-superior-capture-cards/"><u>2024 Approved Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-with-purpose-strategic-openings-in-podcasting/"><u>2024 Approved Leading with Purpose Strategic Openings in Podcasting</u></a></li>
+<li><a href="https://games-able.techidaily.com/cost-effective-virtual-reality-adventures/"><u>Cost-Effective Virtual Reality Adventures</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-to-declutter-your-hard-drive-and-boost-system-efficiency-tips-from-yl-computing/"><u>Effective Strategies to Declutter Your Hard Drive & Boost System Efficiency - Tips From YL Computing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-best-sources-to-download-free-outro-music-no-copyright/"><u>New 2024 Approved 10 Best Sources to Download Free Outro Music No Copyright</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-your-viewing-experience-via-prime/"><u>Streamline Your Viewing Experience via Prime</u></a></li>
+<li><a href="https://games-able.techidaily.com/tailored-guide-to-buying-a-steam-deck/"><u>Tailored Guide to Buying a Steam Deck</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-essential-tutorial-streaming-xbox-on-discord-platform/"><u>The Essential Tutorial: Streaming Xbox on Discord Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-to-xbox-game-pass-the-ultimate-edition/"><u>Upgrade to Xbox Game Pass: The Ultimate Edition?</u></a></li>
+</ul></div>
 
